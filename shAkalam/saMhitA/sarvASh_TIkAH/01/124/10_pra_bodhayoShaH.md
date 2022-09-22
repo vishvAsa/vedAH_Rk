@@ -198,3 +198,12 @@ Erweck die Spender, reiche Morgenröthe, die Geiz'gen mögen schlafen ohn' Erwac
 Богатство – певцу, (ты,) великодушная (и) пробуждающая!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- कक्षीवान् दैर्घतमसः औशिजः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

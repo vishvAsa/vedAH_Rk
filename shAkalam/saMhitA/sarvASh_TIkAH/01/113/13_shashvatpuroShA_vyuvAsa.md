@@ -265,3 +265,12 @@ Stets schien zuvor die Göttin Morgenröthe, auch jetzt hat diesen Raum enthüll
 Нестареющая, бессмертная, странствует она по своим законам.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः द्वितीयस्यार्द्धर्चस्य रात्रिरपि
+- कुत्स आङ्गिरसः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

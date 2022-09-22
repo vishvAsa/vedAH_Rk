@@ -251,3 +251,12 @@ Ihn, den allreichen, zogen einst die Bhrigu's her zum Mittelpunkt der Erde und d
 Того, кто один, как Варуна, царствует над добром!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- दीर्घतमा औचथ्यः
+- जगती
+- निषादः
+</details>

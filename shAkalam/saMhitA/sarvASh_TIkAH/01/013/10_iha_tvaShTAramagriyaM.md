@@ -158,3 +158,12 @@ Den erstgebornen Tvaschtar auch, den allgestalt'gen ruf' ich her; Nur uns allein
 Пусть будет он только наш!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- त्वष्टा
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

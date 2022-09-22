@@ -178,3 +178,12 @@ Schirr an den Wagen dir, o Gott, die rothen Flammenrosse an, Mit denen fahr die 
 Привози сюда на них богов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

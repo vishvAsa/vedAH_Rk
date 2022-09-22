@@ -233,3 +233,12 @@ Du, Agni, warst der erste Sänger Angiras, als Gott der Götter segnender Genoss
 Родились – Маруты со сверкающими копьями.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- हिरण्यस्तूप आङ्गिरसः
+- विराड्जगती
+- निषादः
+</details>

@@ -326,3 +326,12 @@ Denn er ist mächtig, rauschend wie die Marutschar, auf wohlbebauten Ackerfelder
 Как мужи (радуются) пути к великолепию.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- परुच्छेपो दैवोदासिः
+- अत्यष्टिः
+- गान्धारः
+</details>

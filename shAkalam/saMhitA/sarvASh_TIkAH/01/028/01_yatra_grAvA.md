@@ -187,3 +187,12 @@ Dort, wo der Stein mit breitem Fuss zum Somapressen sich erhebt, Da schlinge, In
 Соки, выжатые в ступке!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रयज्ञसोमाः
+- शुनःशेप आजीगर्तिः
+- अनुष्टुप्
+- गान्धारः
+</details>

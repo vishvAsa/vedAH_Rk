@@ -234,3 +234,12 @@ Und die fünf Stiere, welche dort am grossen Himmels-Nabel stehn, Vereinigt lenk
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- आप्त्यस्त्रित आङ्गिरसः कुत्सो वा
+- स्वराट्पङ्क्ति
+- पञ्चमः
+</details>

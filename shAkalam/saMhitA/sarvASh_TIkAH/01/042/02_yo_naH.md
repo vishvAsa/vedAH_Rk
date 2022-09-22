@@ -170,3 +170,12 @@ Welch schlimmer Wolf, welch Bösewicht, o Puschan, auf uns lauern mag, Den schla
 Убей ты его, (прогнав) прочь с дороги!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पूषा
+- कण्वो घौरः
+- गायत्री
+- षड्जः
+</details>

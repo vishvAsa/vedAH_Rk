@@ -143,3 +143,12 @@ Er, der die Bahn des Windes kennt, des weiten, hohen, mächtigen, Und die darüb
 Он знает тех, кто восседает.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- शुनःशेप आजीगर्तिः
+- निचृद्गायत्री
+- षड्जः
+</details>

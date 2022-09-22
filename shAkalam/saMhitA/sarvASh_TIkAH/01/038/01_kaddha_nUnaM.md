@@ -155,3 +155,12 @@ Was nahmt ihr nun in euren Arm, gleich wie der Vater seinen Sohn? Was wünscht i
 Как отец – сына, о те, для кого разложена жертвенная солома?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- कण्वो घौरः
+- गायत्री
+- षड्जः
+</details>

@@ -148,3 +148,12 @@ Durch Agni werd' uns Tag für Tag Gedeihn und schönes Gut zu Theil, Das reich m
 Сияющего, мужеобильнейшего!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- गायत्री
+- षड्जः
+</details>

@@ -224,3 +224,12 @@ Wo ist des Rechtes Stütze euch? und wo das Auge Varuna's? Wie dringen durch die
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- आप्त्यस्त्रित आङ्गिरसः कुत्सो वा
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

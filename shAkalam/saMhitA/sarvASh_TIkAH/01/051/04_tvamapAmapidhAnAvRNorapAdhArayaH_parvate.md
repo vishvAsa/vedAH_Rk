@@ -246,3 +246,12 @@ Der Wasserflut Verschlüsse hast du aufgethan, und hast im Berg das tropfenreich
 Тем самым ты заставил на небе подняться солнце, чтобы (все) видели (его).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सव्य आङ्गिरसः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

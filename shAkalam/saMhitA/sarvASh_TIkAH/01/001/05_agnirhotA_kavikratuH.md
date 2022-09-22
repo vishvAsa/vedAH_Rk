@@ -166,3 +166,12 @@ Der weise, weitberühmteste, wahrhafte Priester Agni komm, Der Gott nun mit den 
 Бог с богами да приидет!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- गायत्री
+- षड्जः
+</details>

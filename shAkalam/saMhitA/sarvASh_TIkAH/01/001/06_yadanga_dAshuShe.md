@@ -187,3 +187,12 @@ Dass du dem Mann, der dich verehrt, o Agni, Heil verschaffen wirst, Ist deine Ar
 То у тебя это истинно, о Ангирас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- निचृद्गायत्री
+- षड्जः
+</details>

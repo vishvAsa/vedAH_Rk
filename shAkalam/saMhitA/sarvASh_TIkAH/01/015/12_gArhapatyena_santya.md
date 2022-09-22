@@ -132,3 +132,12 @@ Du guter bist als Hausherr ja der Opferführer nach dem Brauch, Die Götter ehr 
 Принеси жертву богам для почитателя богов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

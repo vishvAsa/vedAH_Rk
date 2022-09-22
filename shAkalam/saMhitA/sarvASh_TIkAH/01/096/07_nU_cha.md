@@ -254,3 +254,12 @@ Den Sitz der Schätze jetzt und vormals, Agni, den Boden des gebornen und zukün
 Боги поддерживают этого Агни – дарителя богатства.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्रविणोदा अग्निः शुद्धोऽग्निर्वा
+- कुत्सः आङ्गिरसः
+- त्रिष्टुप्
+- धैवतः
+</details>

@@ -227,3 +227,12 @@ Wenn diesen Trunk des Purumidha Diener hier, des Somabringers, euch als Freunde 
 И услышьте, о два быка, (песню) хозяина жилища!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ
+- दीर्घतमा औचथ्यः
+- विराड्जगती
+- निषादः
+</details>

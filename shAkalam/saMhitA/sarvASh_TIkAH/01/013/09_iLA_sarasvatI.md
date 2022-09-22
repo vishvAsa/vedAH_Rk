@@ -155,3 +155,12 @@ Iḍa, Sarasvati, Mahi, die drei Göttinnen, lustbegabt, Sich hold zu setzen auf
 Пусть сядут на жертвенную солому, не ошибающиеся!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तिस्त्रो देव्यः- सरस्वतीळाभारत्यः
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

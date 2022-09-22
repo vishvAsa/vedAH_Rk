@@ -244,3 +244,12 @@ Geh vorwärts, greife an, sei kühn, nichts möge hemmen deinen Blitz; Denn star
 Да воспоют они (твое) собственное царство!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोतमो राहूगणः
+- भुरिग्बृहती
+- मध्यमः
+</details>

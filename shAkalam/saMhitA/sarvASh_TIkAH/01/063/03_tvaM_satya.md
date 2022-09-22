@@ -233,3 +233,12 @@ Du, Indra, bist wahrhaftig, Feind bezwingend, du Ribhuherr, und mannhaft du und 
 Шушну для юного блистательного Кутсы (с которым ты был) вместе.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा गौतमः
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

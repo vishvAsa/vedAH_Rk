@@ -179,3 +179,12 @@ Vereint, o menschenschirmende, ihr Götter alle, kommt herbei, Ihr frommen, in d
 Милостивыми к выжатому (соме) жертвователя!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मधुच्छन्दाः वैश्वामित्रः
+- गायत्री
+- षड्जः
+</details>

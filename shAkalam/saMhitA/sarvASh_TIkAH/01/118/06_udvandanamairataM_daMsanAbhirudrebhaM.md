@@ -206,3 +206,12 @@ Ihr hobt heraus den Vandana durch Wunder, mit Kraft den Rebha, wunderbare Helden
 Вы сделали вновь юным Чьявану.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कक्षीवान्
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

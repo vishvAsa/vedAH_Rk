@@ -221,3 +221,12 @@ Sie treibt die Festversammlung, treibt die Händler an und wendet wallend nicht 
 Когда ты загораешься, о щедрая наградами!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- प्रस्कण्वः काण्वः
+- भुरिग्बृहती
+- पञ्चमः
+</details>

@@ -221,3 +221,12 @@ Durch die im Krieg den Helden, der um Kühe kämpft, ihr unterstützt, dass Feld
 С этими самыми поддержками приходите сюда, о Ашвины!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदिमे मन्त्रे प्रथमपादस्य द्यावापृथिव्यौ, द्वितीयस्य अग्निः, शिष्टस्य सूक्तस्याश्विनौ
+- कुत्स आङ्गिरसः
+- निचृज्जगती
+- निषादः
+</details>

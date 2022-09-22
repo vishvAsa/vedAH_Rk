@@ -150,3 +150,12 @@ Indra und Agni rufen wir, die Trinker zu dem Somatrunk, Zu Mitra's Ruhm und Herr
 Двух любителей пить сому – на питье сомы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

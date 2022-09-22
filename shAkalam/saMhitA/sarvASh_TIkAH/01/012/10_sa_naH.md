@@ -186,3 +186,12 @@ O flammender, o leuchtender, die Götter fahr uns, Agni, her; Zum Opfer und zu u
 На жертвоприношение и на наше возлияние!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मेधातिथिः काण्वः
+- पिपीलिकामध्यानिचृद्गायत्री
+- षड्जः
+</details>

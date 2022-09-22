@@ -217,3 +217,12 @@ Sie mochten weinen, mochten lachen, Indra, du hast bekämpft sie an des Luftraum
 Хвалу выжимающего сому, прославляющего ты принял милостиво.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- हिरण्यस्तूप आङ्गिरसः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

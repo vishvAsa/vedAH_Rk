@@ -236,3 +236,12 @@ Ein Stier bist du, o Agni, mehrst die Nahrung uns, bist anzurufen dem, der dir d
 (Бог,) принадлежащий одному Аю, с (самого) начала ты стремишься покорить племена.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- हिरण्यस्तूप आङ्गिरसः
+- विराड्जगती
+- निषादः
+</details>

@@ -216,3 +216,12 @@ Weitblickend schreitet nach der Rudra's Weisung er, wenn mit den Rudra's weit si
 Сопровождаемого Марутами мы зовем для дружбы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुत्स आङ्गिरसः
+- विराड्जगती
+- निषादः
+</details>

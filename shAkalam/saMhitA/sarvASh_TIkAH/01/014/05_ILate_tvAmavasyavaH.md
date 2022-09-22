@@ -127,3 +127,12 @@ Es flehn zu dir voll Hülfsbegier die Kanva's, die die Streu geschmückt, Sie di
 Совершающие возлияния, приготовившие (жертву).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

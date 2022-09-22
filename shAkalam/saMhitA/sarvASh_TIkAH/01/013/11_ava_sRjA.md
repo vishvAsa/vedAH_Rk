@@ -156,3 +156,12 @@ Ergiesse, o du Waldesherr, o Gott, den Göttern Opferguss; Des Spenders Glanz er
 Пусть вид дарителя бросится в глаза!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वनस्पतिः
+- मेधातिथिः काण्वः
+- पिपीलिकामध्यानिचृद्गायत्री
+- षड्जः
+</details>

@@ -232,3 +232,12 @@ Du, Agni, als der beste, erste Angiras, verwaltest als ein Seher stets der Gött
 (Сын) двух матерей, покоящийся так и сяк для Аю.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- हिरण्यस्तूप आङ्गिरसः
+- निचृज्जगती
+- निषादः
+</details>

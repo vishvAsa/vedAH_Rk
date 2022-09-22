@@ -224,3 +224,12 @@ Der gerne beisteht, kraftbegabt die Luft erfüllt, den Indra haben die Genüsse 
 На стосильного нашло быстрое великодушие.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सव्य आङ्गिरसः
+- विराड्जगती
+- निषादः
+</details>

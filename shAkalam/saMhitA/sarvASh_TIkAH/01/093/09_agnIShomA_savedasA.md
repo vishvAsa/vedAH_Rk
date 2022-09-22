@@ -152,3 +152,12 @@ Zugleich gerufen, gleich an Gut seid, Agni-Soma, hold dem Lied, Zugleich seid be
 Среди богов вы бываете вместе.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नीषोमौ
+- गोतमो राहूगणपुत्रः
+- गायत्री
+- षड्जः
+</details>

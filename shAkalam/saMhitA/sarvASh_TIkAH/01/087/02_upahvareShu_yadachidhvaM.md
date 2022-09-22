@@ -228,3 +228,12 @@ Wenn ihr die Wetterwolke häuft am Niederhang, die, Maruts, ihr auf jedem Pfad w
 Кропите жиром медового цвета для вашего певца!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- गोतमो राहूगणपुत्रः
+- विराड्जगती
+- निषादः
+</details>

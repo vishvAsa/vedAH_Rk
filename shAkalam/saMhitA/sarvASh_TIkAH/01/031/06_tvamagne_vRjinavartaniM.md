@@ -225,3 +225,12 @@ Den Mann auch, Agni, der auf bösem Wege wallt, geleitest gnädig, weiser, du zu
 В столкновении даже с немногими побиваешь более многочисленных(врагов).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- हिरण्यस्तूप आङ्गिरसः
+- विराड्जगती
+- निषादः
+</details>

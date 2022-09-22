@@ -288,3 +288,12 @@ Auf seinem Gang umwandelt täglich er die Welt, den Samen lassend brüllt mit he
 Агни – на дальних вершинах.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- परुच्छेपो दैवोदासिः
+- विराडत्यष्टिः
+- गान्धारः
+</details>

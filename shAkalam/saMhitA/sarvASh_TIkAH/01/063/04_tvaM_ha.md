@@ -254,3 +254,12 @@ Das auch betriebst als Freund du eifrig, Indra, dass Vritra du bezwangst mit Bli
 В (их) лоне, ты, легко побеждая, изувечил дасью.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा गौतमः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

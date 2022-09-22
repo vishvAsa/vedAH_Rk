@@ -238,3 +238,12 @@ Ich bin derselbe, der auch sonst beim Soma spricht gar manchen Spruch, Jetzt dri
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- आप्त्यस्त्रित आङ्गिरसः कुत्सो वा
+- भुरिग्बृहती
+- मध्यमः
+</details>

@@ -265,3 +265,12 @@ Brihaspati, verschaffe stets uns schöne Bahn; das Heil und Glück, was Menschen
 Вызволите нас из узости со всех сторон!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुत्स आङ्गिरसः
+- जगती
+- निषादः
+</details>

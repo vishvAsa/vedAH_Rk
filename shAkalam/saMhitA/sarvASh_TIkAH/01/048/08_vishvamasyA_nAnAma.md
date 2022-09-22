@@ -211,3 +211,12 @@ Es neigt die ganze Welt sich ihrem Anblick zu, die jugendliche schaffet Licht; D
 Да прогонит Ушас светом (наши) промахи!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- प्रस्कण्वः काण्वः
+- पङ्क्तिः
+- पञ्चमः
+</details>

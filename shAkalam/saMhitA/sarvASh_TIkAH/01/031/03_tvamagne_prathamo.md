@@ -217,3 +217,12 @@ Du hast zuerst dem Matariçvan dich gezeigt, und dem Vivasvat, Agni, durch dein 
 Ты смог взвалить (на себя) это бремя. Ты почтил великих (богов), о Васу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- हिरण्यस्तूप आङ्गिरसः
+- भुरिक्त्रिष्टुप्
+- निषादः
+</details>

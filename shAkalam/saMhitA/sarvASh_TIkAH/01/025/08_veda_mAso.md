@@ -144,3 +144,12 @@ Der Ordnungschirmer, der die zwölf an Kindern reichen Monde kennt, Und auch den
 Он знает (того,) кто рождается в придачу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- शुनःशेप आजीगर्तिः
+- निचृद्गायत्री
+- षड्जः
+</details>

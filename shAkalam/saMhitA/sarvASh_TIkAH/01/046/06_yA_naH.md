@@ -160,3 +160,12 @@ O schenket solche Labung uns, o Ritter, welche glanzbegabt, Uns führet durch di
 Дайте нам ее – (эту) питательную силу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- प्रस्कण्वः काण्वः
+- गायत्री
+- षड्जः
+</details>

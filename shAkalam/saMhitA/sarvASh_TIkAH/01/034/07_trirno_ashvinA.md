@@ -230,3 +230,12 @@ Dreimal, o Açvinen, seid ihr uns zu verehren an jedem Tag, dreifach umlagert ih
 Приезжайте, как дыхание-ветер – на пастбища!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- हिरण्यस्तूप आङ्गिरसः
+- निचृज्जगती
+- निषादः
+</details>

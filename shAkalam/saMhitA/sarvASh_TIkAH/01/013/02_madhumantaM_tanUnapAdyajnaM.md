@@ -159,3 +159,12 @@ Das süsse Opfer fahre heut, o weiser Sohn des eignen Leibs Hin zu den Göttern 
 Сделай, чтоб сегодня (ею) насладились!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- तनूनपात्
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

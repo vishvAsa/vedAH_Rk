@@ -243,3 +243,12 @@ Von dir, o Agni, holden Sinn erbittend, erlangten Ruhm im Himmel die verehrten; 
 Они соединили черный и алый цвет (для них).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- पराशरः शाक्तः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

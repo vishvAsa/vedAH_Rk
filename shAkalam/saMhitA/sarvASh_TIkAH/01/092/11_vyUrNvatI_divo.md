@@ -207,3 +207,12 @@ Sie ist erwacht, des Himmels Rand enthüllend, und ihre Schwester treibt sie in 
 Юная женщина сверкает глазом (своего) возлюбленного.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- गोतमो राहूगणः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

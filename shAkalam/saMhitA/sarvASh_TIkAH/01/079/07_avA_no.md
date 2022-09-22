@@ -153,3 +153,12 @@ Der du bei jedem Andachtswerk zu rühmen bist, o Agni, hilf Uns huldvoll bei des
 При всех молитвах, о достойный прославления!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गोतमो राहूगणः
+- निचृद्गायत्री
+- षड्जः
+</details>

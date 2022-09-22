@@ -145,3 +145,12 @@ Er, der den Pfad der Vögel kennt, die durch die weiten Lüfte ziehn, Und auf de
 Знает челны морские.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- शुनःशेप आजीगर्तिः
+- निचृद्गायत्री
+- षड्जः
+</details>

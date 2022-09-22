@@ -147,3 +147,12 @@ Den vieler Nächte – Erscheinen nähre, den Sohn der Opfer, – was steht und 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- पराशरः शाक्तः
+- द्विपदा विराट्
+- पञ्चमः
+</details>

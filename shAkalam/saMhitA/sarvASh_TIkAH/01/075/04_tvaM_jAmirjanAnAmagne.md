@@ -165,3 +165,12 @@ Der Menschen Bruder bist nur du, du, Agni, ein Genosse traut, Ein Freund dem Fre
 Друг, которого друзья должны призывать.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गोतमो राहूगणः
+- यवमध्यापादनिचृद्गायत्री
+- षड्जः
+</details>

@@ -302,3 +302,12 @@ Er möge hold uns sein an diesem Morgen auch; durch unsre Rufe acht' auf Lied un
 Молитву самого нового!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- परुच्छेपो दैवोदासिः
+- भुरिगष्टिः
+- मध्यमः
+</details>

@@ -169,3 +169,12 @@ Erfülle unsre Wünsche du durch Rind und Ross, vielwirkender, Dich woll'n wir l
 Мы хотим прославить тебя прекрасной молитвой.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

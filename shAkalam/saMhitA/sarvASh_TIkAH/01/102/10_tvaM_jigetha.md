@@ -233,3 +233,12 @@ Stets siegst du starker, hältst die Beute nie zurück, wenn Kampf entbrennt um 
 Так поощри нас. Индра, в (наших) призывах!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुत्स आङ्गिरसः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

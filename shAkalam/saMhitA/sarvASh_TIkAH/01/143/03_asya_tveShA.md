@@ -256,3 +256,12 @@ Des Agni Strahlen, seine muntre Flammenschar, des funkelnden mit schönem Blick 
 Сквозь ночь, о Агни, недремлющие, нестареющие.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- दीर्घतमा औचथ्यः
+- जगती
+- निषादः
+</details>

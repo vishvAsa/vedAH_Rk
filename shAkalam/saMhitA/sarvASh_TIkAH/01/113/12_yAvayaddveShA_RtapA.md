@@ -226,3 +226,12 @@ Feindscheuchend, treu dem Recht und Recht beschirmend, voll Güte, alle Herrlich
 Здесь, Ушас, сегодня зажгись, о самая лучшая!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः द्वितीयस्यार्द्धर्चस्य रात्रिरपि
+- कुत्स आङ्गिरसः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -196,3 +196,12 @@ Sie hat von fern sich aufgemacht, dort von der Sonne Aufgang her, Mit hundert Wa
 На сотне колесниц эта приносящая счастье Ушас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- प्रस्कण्वः काण्वः
+- विराट्पथ्याबृहती
+- मध्यमः
+</details>

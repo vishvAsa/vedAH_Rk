@@ -139,3 +139,12 @@ O Ritter, trinkt den süssen Trank, ihr hellentflammten, reingesinnt, Und nehmt 
 Принимающие почитание в урочное время!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- मेधातिथिः काण्वः
+- पिपीलिकामध्यानिचृद्गायत्री
+- षड्जः
+</details>

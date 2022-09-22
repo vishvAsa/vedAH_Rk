@@ -228,3 +228,12 @@ Den Angiras hast du den Kuhstall aufgethan dem Atri auch, durch hundert Thüren 
 В сражении заставив плясать скалу (укрытие врага,) окружившего себя (награбленным добром).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सव्य आङ्गिरसः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

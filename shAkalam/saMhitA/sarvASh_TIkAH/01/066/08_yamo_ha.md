@@ -157,3 +157,12 @@ Entsandtem Speer gleich – erregt er Schrecken, wie Pfeil des Schützen – mit
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- पराशरः शाक्तः
+- द्विपदा विराट्
+- पञ्चमः
+</details>

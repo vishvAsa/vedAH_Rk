@@ -224,3 +224,12 @@ Wer uns, o Agni, Schaden thut durch Falschheit, der feindgesinnte, tückisch, vo
 Да уязвит он себя (своими) дурными словами!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- दीर्घतमा औचथ्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

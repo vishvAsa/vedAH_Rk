@@ -210,3 +210,12 @@ Kampflust'gen Helden gleich sind eilend sie, wie ruhmbegier'ge gehn in Schlachte
 Подобны царям эти мужи внушительной внешности.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- गोतमो राहूगणः
+- निचृज्जगती
+- निषादः
+</details>

@@ -214,3 +214,12 @@ Wer euch mit Trank, o Agni-Soma, ehret, mit gottergebnem Herzen, wer mit Butter,
 Даруйте великую защиту племени (и) народу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नीषोमौ
+- गोतमो राहूगणपुत्रः
+- स्वराट्त्रिष्टुप्
+- धैवतः
+</details>

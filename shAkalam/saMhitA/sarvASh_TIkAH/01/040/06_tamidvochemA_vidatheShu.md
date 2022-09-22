@@ -219,3 +219,12 @@ Lasst, Götter, uns bei Festen sprechen diesen Spruch, der heilvoll, unvergleich
 Она добудет вам все желанное.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बृहस्पतिः
+- कण्वो घौरः
+- सतःपङ्क्ति
+- पञ्चमः
+</details>

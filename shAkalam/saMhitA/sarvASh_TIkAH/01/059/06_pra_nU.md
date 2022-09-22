@@ -242,3 +242,12 @@ Ich will verkünden nun des Helden Grösse, des Vritratödters, dem die Völker 
 Сокрушил преграды (и) разрубил Шамбару.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्वैश्वानरः
+- नोधा गौतमः
+- त्रिष्टुप्
+- धैवतः
+</details>

@@ -148,3 +148,12 @@ Wie kühner Sieger Donnergang, so dringt der Maruts Toben vor, Wenn, Männer, ih
 Когда вы едете, чтобы покрасоваться, о мужи.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -219,3 +219,12 @@ Hier treiben wir den starken Naraçansa an, und flehn zum Männerherrscher Pusch
 Вызволите нас из узости со всех сторон!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुत्स आङ्गिरसः
+- जगती
+- निषादः
+</details>

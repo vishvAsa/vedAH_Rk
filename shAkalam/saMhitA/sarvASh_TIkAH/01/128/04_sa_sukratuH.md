@@ -290,3 +290,12 @@ Der weisheitsvolle Priester sorgt in jedem Haus für Opfers Feier Agni mit des G
 Родился устроитель, везущий (жертву).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- परुच्छेपो दैवोदासिः
+- विराडत्यष्टिः
+- गान्धारः
+</details>

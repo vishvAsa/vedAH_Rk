@@ -157,3 +157,12 @@ Indra und Agni preist beim Fest, o Männer und verherrlicht sie, Besingt mit Lob
 Воспойте их в песнях (размером) Гаятри!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- मेधातिथिः काण्वः
+- पिपीलिकामध्यानिचृद्गायत्री
+- षड्जः
+</details>

@@ -232,3 +232,12 @@ In dich, o Agni, giesst man jeden Opfertrank, in dich, den reichen, jüngster du
 Приноси жертвы богам ради обилия героев (у нас)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- कण्वो घौरः
+- भुरिग्बृहती
+- मध्यमः
+</details>

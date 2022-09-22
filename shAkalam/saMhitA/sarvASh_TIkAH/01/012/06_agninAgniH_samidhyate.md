@@ -163,3 +163,12 @@ Der Glut-Gott wird durch Glut entflammt, der weise Jüngling, Hauses Herr, Der O
 Увозящий жертву, чей рот – языки (пламени).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मेधातिथिः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

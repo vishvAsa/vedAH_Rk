@@ -162,3 +162,12 @@ Den Priester Agni preise ich, der nach der Ordnung Opfer bringt, Den Gott, den s
 Хотара обильнейшесокровищного.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- गायत्री
+- षड्जः
+</details>

@@ -221,3 +221,12 @@ Von allen diesen Schwestern folgt von jeher die spätere dem Lauf der frühern t
 Воссияют нам богатство и хорошие дни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- कक्षीवान् दैर्घतमसः औशिजः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

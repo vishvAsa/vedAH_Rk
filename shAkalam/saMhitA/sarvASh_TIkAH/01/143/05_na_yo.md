@@ -265,3 +265,12 @@ Der wie der Maruts Brausen, wie der Pfeil im Flug und wie der Blitz des Himmels 
 Как воин на врагов, он набрасывается на деревья.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- दीर्घतमा औचथ्यः
+- विराड्जगती
+- निषादः
+</details>

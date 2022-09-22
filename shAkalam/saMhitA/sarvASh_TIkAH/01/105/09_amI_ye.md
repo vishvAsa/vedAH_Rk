@@ -249,3 +249,12 @@ Dort wo die sieben Strahlen sind, da ist verbreitet mein Geschlecht, Das kennet 
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- आप्त्यस्त्रित आङ्गिरसः कुत्सो वा
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

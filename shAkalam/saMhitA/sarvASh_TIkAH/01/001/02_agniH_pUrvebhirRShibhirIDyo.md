@@ -175,3 +175,12 @@ Der von der alten Sängerschar, von neuen auch zu preisen ist, Die Götter fahr 
 Да привезет он сюда богов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- पिपीलिकामध्यानिचृद्गायत्री
+- षड्जः
+</details>

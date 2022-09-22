@@ -155,3 +155,12 @@ Denn auf des Stiers, der Erde, Haupt lenkt ihr des Wagens eines Rad, Das andre l
 Другое катится вокруг неба.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- शुनःशेप आजीगर्तिः
+- विराड्गायत्री
+- षड्जः
+</details>

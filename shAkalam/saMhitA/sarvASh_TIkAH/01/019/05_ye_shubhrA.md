@@ -152,3 +152,12 @@ Die glänzen furchtbar von Gestalt, weitherrschend, tilgend jeden Feind, Mit die
 С Марутами приди, о Агни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्मरुतश्च
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

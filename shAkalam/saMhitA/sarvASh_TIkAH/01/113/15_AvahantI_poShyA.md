@@ -207,3 +207,12 @@ Herbei nun fahrend nahrungsreiche Güter, erregt sie hellen Glanz, wenn sie ersc
 Первая из ярко сверкающих, засияла Ушас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः द्वितीयस्यार्द्धर्चस्य रात्रिरपि
+- कुत्स आङ्गिरसः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

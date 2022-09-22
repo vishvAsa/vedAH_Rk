@@ -155,3 +155,12 @@ Denn so sind, o Indra, deine Hülfen sogleich zu Hand einem Verehrer wie ich bin
 Они сразу бывают (доступны) для почитающего (тебя
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मधुच्छन्दाः वैश्वामित्रः
+- गायत्री
+- षड्जः
+</details>

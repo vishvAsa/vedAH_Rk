@@ -172,3 +172,12 @@ Lasst diesen unsern Opfertrank gefallen, Agni-Soma, euch, Und kommt vereinigt zu
 Приходите к нам вместе!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नीषोमौ
+- गोतमो राहूगणपुत्रः
+- गायत्री
+- षड्जः
+</details>

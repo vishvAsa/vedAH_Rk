@@ -236,3 +236,12 @@ Erhebt euch nun, des Lebens Odem kam uns, es wich das Dunkel und das Licht ersch
 Мы пришли (туда,) где продлевают срок жизни.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः द्वितीयस्यार्द्धर्चस्य रात्रिरपि
+- कुत्स आङ्गिरसः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

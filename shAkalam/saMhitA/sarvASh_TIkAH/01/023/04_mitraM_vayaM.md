@@ -136,3 +136,12 @@ Zum Somatrunke laden wir den Mitra und den Varuna, Die reingesinnten von Geburt.
 Двоих, родившихся с чистой силой действия.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

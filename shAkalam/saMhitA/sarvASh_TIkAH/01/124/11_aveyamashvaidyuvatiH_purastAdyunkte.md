@@ -227,3 +227,12 @@ Von Osten her erglänzte diese Jungfrau, sie schirrt sich an die Schar der rothe
 Пусть будет огонь в каждом доме!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- कक्षीवान् दैर्घतमसः औशिजः
+- त्रिष्टुप्
+- धैवतः
+</details>

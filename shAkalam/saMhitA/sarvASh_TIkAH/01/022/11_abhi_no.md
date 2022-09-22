@@ -156,3 +156,12 @@ Mit unbeschnittnen Flügeln lass die Göttinnen, die Heldenfraun Mit Hülf' und 
 (Эти) неповрежденнокрылые.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- देव्यः
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>
