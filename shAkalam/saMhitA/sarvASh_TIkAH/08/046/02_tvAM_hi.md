@@ -149,3 +149,12 @@ Denn dich, o Schleudrer, kennen wir als wahren Geber alles Guts, Und als der Sch
 Мы знаем как дарителя богатств,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वशोऽश्व्यः
+- विराड्गायत्री
+- षड्जः
+</details>

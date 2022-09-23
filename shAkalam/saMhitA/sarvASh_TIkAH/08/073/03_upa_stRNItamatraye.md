@@ -162,3 +162,20 @@ Die Kühlung streutet, Ritter, ihr, dem Atri in die heisse Glut; Es sei uns eure
 Пусть ваша помощь будет рядом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- गोपवन आत्रेयः
+- निचृद्गायत्री
+- षड्जः
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- गोपवन आत्रेयः
+- निचृद्गायत्री
+- षड्जः
+</details>

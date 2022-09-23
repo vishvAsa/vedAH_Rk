@@ -171,3 +171,12 @@ Denn du, o guter, warest stets uns Vater du und Mutter auch, vielwirkender, Drum
 Вот мы и просим о твоей милости.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- विराडुष्निक्
+- ऋषभः
+</details>

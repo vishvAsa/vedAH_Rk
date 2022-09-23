@@ -178,3 +178,12 @@ Und Stiere sind die Zügel dein, ein Stier die goldne Peitsche dir, Ein Stier de
 Бык – ты (сам), о стоумный.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

@@ -176,3 +176,12 @@ Der Nachkomme des Prischadvāna bewirthete den Praskanva, welcher altersschwach 
 Тобою был поддержен Дасьяве Врика.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

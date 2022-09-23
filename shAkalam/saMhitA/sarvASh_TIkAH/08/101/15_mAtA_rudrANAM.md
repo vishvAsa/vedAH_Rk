@@ -219,3 +219,12 @@ Die Mutter der Rudra's, die Tochter der Vasu's, die Schwester der Aditja's ist [
 Не убивайте безвинную корову-Адити!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- जमदग्निभार्गवः
+- त्रिष्टुप्
+- धैवतः
+</details>

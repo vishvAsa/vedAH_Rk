@@ -218,3 +218,12 @@ Der Vritrafeind und Ribhuherrscher, Indra, geboren kaum war schon er anzurufen, 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

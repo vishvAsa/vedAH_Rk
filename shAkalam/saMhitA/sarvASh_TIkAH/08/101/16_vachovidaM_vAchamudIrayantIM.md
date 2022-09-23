@@ -224,3 +224,12 @@ Mich, die der Rede kundige, die ich die Stimme erhebe, allen Andachten zur Seite
 (Меня) использовал смертный со слабым разумом.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- गौः
+- जमदग्निभार्गवः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

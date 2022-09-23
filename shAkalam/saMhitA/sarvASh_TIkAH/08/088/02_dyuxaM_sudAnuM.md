@@ -195,3 +195,12 @@ Den lichten Geber, der mit Kraft umgürtet ist, wie ein Gebirg' das viele nährt
 Наградой, состоящей из мелкого (и) крупного скота.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा
+- पङ्क्तिः
+- पञ्चमः
+</details>

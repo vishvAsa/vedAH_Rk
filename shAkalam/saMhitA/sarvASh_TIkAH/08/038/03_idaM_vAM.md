@@ -171,3 +171,12 @@ Die Männer melkten diesen Meth, der euch berauscht, mit Steinen aus, O Indra-Ag
 О Индра-Агни, помните об этом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- श्यावाश्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

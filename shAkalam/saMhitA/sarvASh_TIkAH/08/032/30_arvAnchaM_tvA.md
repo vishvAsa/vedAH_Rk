@@ -134,3 +134,12 @@ Dich, hochgelobter, fahre her zum Somatrunk das Füchsepaar, Das Prijamedha hat 
 Восхваленных (людьми) Приямедха – для питья сомы!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- भुरिग्गायत्री
+- षड्जः
+</details>

@@ -143,3 +143,12 @@ Es fahre her der Füchse Paar zum Mahl vereint, mit goldnem Haar, Zu dieser aufg
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- विराड्गायत्री
+- षड्जः
+</details>

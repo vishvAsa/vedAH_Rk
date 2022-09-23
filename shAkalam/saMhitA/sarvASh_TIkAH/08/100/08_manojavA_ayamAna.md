@@ -186,3 +186,12 @@ Der gedankenschnelle Adler durchdrang eilend die eherne Wolkenburg, und als er z
 Принес сому громовержцу
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- अनुष्टुप्
+- गान्धारः
+</details>

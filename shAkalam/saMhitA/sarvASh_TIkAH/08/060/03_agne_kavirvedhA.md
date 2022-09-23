@@ -179,3 +179,12 @@ Als weiser Ordner strahlest du, als rascher Priester, Flammender, Aufs beste opf
 Вдохновенные (своими) молитвами, о чистый.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- पाद्निचृद्बृहती
+- मध्यमः
+</details>

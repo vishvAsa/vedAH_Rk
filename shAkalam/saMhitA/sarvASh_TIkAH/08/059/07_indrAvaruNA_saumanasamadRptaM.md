@@ -210,3 +210,12 @@ O Indra-Varuna gebt den Opferern guten, nicht verblendeten Sinn und Blüte des R
 Продлите нам срок жизни в долговечность!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- सुपर्णः काण्वः
+- विराड्जगती
+- निषादः
+</details>

@@ -180,3 +180,12 @@ Mit Glanz erstrahlend gingst du hin zur Sonne, zu des Himmels Licht; Die Götter
 Боги, о Индра, преданы дружбе с тобой.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- विराडुष्निक्
+- ऋषभः
+</details>

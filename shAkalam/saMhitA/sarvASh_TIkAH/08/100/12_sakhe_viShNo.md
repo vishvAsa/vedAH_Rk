@@ -223,3 +223,12 @@ O Freund, Vischnu, schreite noch weiter aus; o Himmel, gib Raum zum Fortschleude
 Отпущенные, пусть движутся они по побуждению Индры!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- त्रिष्टुप्
+- धैवतः
+</details>

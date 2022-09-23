@@ -178,3 +178,12 @@ So, Feindverzehrer, sollt von uns gerühmt ihr sein, ihr dreiunddreissig an der 
 О боги Ману, достойные жерв.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मनुर्वैवस्वतः
+- पुरउष्णिक्
+- ऋषभः
+</details>

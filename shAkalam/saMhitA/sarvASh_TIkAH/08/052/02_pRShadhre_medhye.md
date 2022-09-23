@@ -159,3 +159,12 @@ Wie du bei Prischadhra, Medhja, Mātariçvan, o Indra, dich am gepressten Tranke
 Сьюмарашми, Риджунаса…
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- पादनिचृत्पङ्क्ति
+- पञ्चमः
+</details>

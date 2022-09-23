@@ -156,3 +156,12 @@ Der vielfach wirkt auch in der Schlacht und vieles dann den Sängern schafft, De
 Имеющий много добра для (своих) воспевателей.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

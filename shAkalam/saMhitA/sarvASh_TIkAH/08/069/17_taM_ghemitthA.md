@@ -207,3 +207,12 @@ Denn ihn vor allem, den selbststrahlenden [Indra] verehren die Anbetungsvollen; 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रियमेधः
+- बृहती
+- मध्यमः
+</details>

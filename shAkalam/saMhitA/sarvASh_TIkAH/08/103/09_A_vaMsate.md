@@ -192,3 +192,12 @@ Der mächtige verschaffe heldenreichen Ruhm, entflammt, beopfert, glanzbegabt; O
 К нам его новая благожелательность!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- स्वराड्बृहती
+- मध्यमः
+</details>

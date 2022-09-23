@@ -203,3 +203,12 @@ Zum Opfer, das zum Himmel dringt, o Vāju mit den Weisen komm; Im Sieb geklärt,
 Этот светлый (сок) вручен тебе.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वायु:
+- जमदग्निभार्गवः
+- विराड्बृहती
+- मध्यमः
+</details>

@@ -228,3 +228,12 @@ Mit diesem schiesse kühnlich, kühngesinnter du, erhabner Ruhm erstehe dir; Die
 Убей Вритру! Завоюй небо!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

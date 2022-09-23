@@ -171,3 +171,12 @@ Der Soma sei, o Vritraheld, o Indra, passend deinem Leib, Die Indu's passend dei
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- गायत्री
+- षड्जः
+</details>

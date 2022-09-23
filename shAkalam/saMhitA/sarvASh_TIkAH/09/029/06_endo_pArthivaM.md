@@ -161,3 +161,12 @@ Im Strom, o Indu, riesle her des Himmels und der Erde Schatz, Bring her den star
 Принеси (нам) сверкающий порыв!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- नृमेधः
+- निचृद्गायत्री
+- षड्जः
+</details>

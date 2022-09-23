@@ -164,3 +164,12 @@ Wie find' ich heute eure Gunst, die ihr erhabene Götter seid, Und wunderherrlic
 Чей блеск сам по себе удивителен?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- विराड्गायत्री
+- षड्जः
+</details>

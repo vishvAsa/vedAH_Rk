@@ -154,3 +154,12 @@ Bei den Spenden des Pārāvata, den Rossen mit schnelllaufenden Wagen, stieg ich
 Скакунов, среди древесины.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

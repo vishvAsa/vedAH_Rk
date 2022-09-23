@@ -255,3 +255,12 @@ Des Himmels Zeuger und der Erde Zeuger du, den Soma trink zum Rausch, o vielfach
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- निचृच्छक्वरी
+- धैवतः
+</details>

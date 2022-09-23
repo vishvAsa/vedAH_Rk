@@ -193,3 +193,12 @@ In rohen schufst du gare Milch, erhobst die Sonn' am Himmelsraum, Entflammt wie 
 Высокий (напев), приятный для любящего хвалебные песни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- बृहती
+- मध्यमः
+</details>

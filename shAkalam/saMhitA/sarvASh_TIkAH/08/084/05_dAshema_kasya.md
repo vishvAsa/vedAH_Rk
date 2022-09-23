@@ -157,3 +157,12 @@ Mit welchem frommen Geiste dir, o Sohn der Stärke, huldigen? Wie soll ich sprec
 Что за поклонение мне выразить?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- गायत्री
+- षड्जः
+</details>

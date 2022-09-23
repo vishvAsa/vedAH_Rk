@@ -169,3 +169,12 @@ An hundert Spitzen hat dein Pfeil, und tausend Federn er allein, Den Indra du di
 Кого, о Индра, ты сделал себе союзником.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुरुसुतिः काण्वः
+- गायत्री
+- षड्जः
+</details>

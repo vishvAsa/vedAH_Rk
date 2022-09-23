@@ -165,3 +165,12 @@ Den wahrhaft herrlichen besingt und sagt ihm eure Sprüche auf, Gebete bringt de
 Священные слова творите для удивительного!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

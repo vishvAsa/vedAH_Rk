@@ -186,3 +186,12 @@ Auf gradsten Wegen führt der Opferpriester hin die Tränke zu dem Opfermahl, So
 Чистого сому (и) смешанного с молоком!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वायु:
+- जमदग्निभार्गवः
+- स्वराड्बृहती
+- मध्यमः
+</details>

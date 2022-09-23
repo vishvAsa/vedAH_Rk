@@ -260,3 +260,12 @@ Dem Streubereiter und dem Presser bist du hold, den Soma trink zum Rausch, o vie
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- शक्वरी
+- धैवतः
+</details>

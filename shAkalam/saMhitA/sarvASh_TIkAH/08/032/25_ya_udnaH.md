@@ -159,3 +159,12 @@ Er, der des Wassers Stall erbrach, herab die Ströme rinnen liess Und gare Milch
 Кто вложил в коров вареное (молоко),
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

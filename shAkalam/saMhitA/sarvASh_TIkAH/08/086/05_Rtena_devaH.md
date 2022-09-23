@@ -233,3 +233,12 @@ Mit heiligem Werke wirkt der Gott Savitar, er breitet weit das Horn des heiligen
 Не уклоняйтесь от дружбы с нами! Распрягайте (коней)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो विश्वको वा कार्ष्णिः
+- निचृज्जगती
+- निषादः
+</details>

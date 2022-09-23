@@ -144,3 +144,12 @@ Der weise Agni ist erquickt durch altes, geisterregtes Lied, Auschmückend seine
 Поэт усилился благодаря вдохновенному (певцу).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विरूप आङ्गिरसः
+- विराड्गायत्री
+- षड्जः
+</details>

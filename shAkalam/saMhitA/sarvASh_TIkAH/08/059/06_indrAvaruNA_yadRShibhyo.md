@@ -221,3 +221,12 @@ Was ihr zuerst, o Indra-Varuna, den Dichtern gabt: Weisheit, den Sinn des Liedes
 Которые я увидел благодаря силе внутреннего жара.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- सुपर्णः काण्वः
+- त्रिष्टुप्
+- धैवतः
+</details>

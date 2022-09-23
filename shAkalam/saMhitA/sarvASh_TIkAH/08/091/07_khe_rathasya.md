@@ -197,3 +197,12 @@ Du, Indra, zogest Viçpala, o starker durch drei Höhlungen Des Rades, Karrens u
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अपालात्रेयी
+- पादनिचृदनुष्टुप्
+- गान्धारः
+</details>

@@ -242,3 +242,12 @@ Ihn lob' ich mit der Väter Lied mit ihren Andachtssprüchen auch, Mit des Nabha
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- नाभाकः काण्वः
+- निचृज्जगती
+- निषादः
+</details>

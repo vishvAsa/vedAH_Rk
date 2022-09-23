@@ -161,3 +161,12 @@ Den kraftgezeugten, ungeschmückten, schmückenden, von hundertfacher Huld und K
 Обладателя благ, приносящего блага.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- पङ्क्तिः
+- पञ्चमः
+</details>

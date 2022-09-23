@@ -178,3 +178,12 @@ Ich gebe dir wie einem Stier der Somasäfte ersten Trunk; Von jenes Herrschers H
 Вы отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

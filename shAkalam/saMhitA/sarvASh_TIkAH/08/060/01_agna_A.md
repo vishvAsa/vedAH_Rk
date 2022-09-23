@@ -188,3 +188,12 @@ O Feuer, komm mit Feuern her, wir wählen dich zum Opferer; Der dargereichte But
 Как самого лучшего жертвователя, чтобы ты сел на жертвенную солому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- विराड्बृहती
+- मध्यमः
+</details>

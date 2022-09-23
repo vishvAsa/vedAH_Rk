@@ -152,3 +152,12 @@ Nichts ist, was seine Thaten hemmt und seiner Gaben Herrlichkeit, Und niemand sa
 Никто не скажет: Пусть он не дает!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

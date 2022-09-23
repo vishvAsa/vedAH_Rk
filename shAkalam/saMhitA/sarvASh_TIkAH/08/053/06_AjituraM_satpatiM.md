@@ -199,3 +199,12 @@ Den Fürsten aller Menschen, der in Schlachten siegt, den mache du an Kindern re
 Последовательно очищают силу духа.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

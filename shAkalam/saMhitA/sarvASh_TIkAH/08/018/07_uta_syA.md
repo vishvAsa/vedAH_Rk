@@ -199,3 +199,12 @@ Und sie, die weise Aditi, mit Hülfe komme sie des Tags, Sie schaff herbei uns s
 Она должна создать (нам) счастливое утешение (и прогнать) прочь неудачи.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदित्याः
+- इरिम्बिठिः काण्वः
+- निचृदुष्णिक्
+- ऋषभः
+</details>

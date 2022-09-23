@@ -180,3 +180,12 @@ Nicht möge zürnen Agni uns, der holde Gast, er, dieser vielgepriesene, Der tre
 :прекрасный хотар suhota svadhvarah
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- विराडुष्निक्
+- ऋषभः
+</details>

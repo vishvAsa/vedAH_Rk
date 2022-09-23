@@ -210,3 +210,12 @@ Sie sandten glänzend edles Gut, ihn, dreier Mütter einz'gen Sohn, Es schauen d
 Взирают на поступки смертных.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदित्याः
+- जमदग्निभार्गवः
+- विराड्बृहती
+- मध्यमः
+</details>

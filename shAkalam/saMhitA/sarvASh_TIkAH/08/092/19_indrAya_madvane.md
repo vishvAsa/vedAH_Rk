@@ -146,3 +146,12 @@ Rings um des lust'gen Indra Trank ertöne unsrer Lieder Schall; Die Sänger sing
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- गायत्री
+- षड्जः
+</details>

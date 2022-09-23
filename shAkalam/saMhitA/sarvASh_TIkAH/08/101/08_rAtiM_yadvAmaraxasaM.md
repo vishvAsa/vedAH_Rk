@@ -188,3 +188,12 @@ Wenn eure holde Spende wir erflehen uns von euch, o gabenreiche ihr, So kommt, o
 Восхваленные Джамадагни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- जमदग्निभार्गवः
+- पङ्क्तिः
+- पञ्चमः
+</details>

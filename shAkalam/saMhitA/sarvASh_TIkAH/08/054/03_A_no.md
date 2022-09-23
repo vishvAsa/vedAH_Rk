@@ -209,3 +209,12 @@ Ihr Götter, kommet doch zu uns, ihr alle, eines Sinnes her, Die Vasu's, Rudra's
 Пусть Маруты услышат (наш) зов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मातरिश्वा काण्वः
+- बृहती
+- मध्यमः
+</details>

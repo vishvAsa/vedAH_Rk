@@ -164,3 +164,12 @@ Im Munde dessen, der da kaut, verschaffen sie dem Himmel Halt, Dem Indra, Agni E
 Солнце, поклонение для Индры (и) Агни.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- निचृद्गायत्री
+- षड्जः
+</details>

@@ -196,3 +196,12 @@ Der Wohlfahrt spendendste erschien, dem alle ihre Dienste weihn, Den Agni, den e
 Пусть приблизятся наши хвалебные песни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

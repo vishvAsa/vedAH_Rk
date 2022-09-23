@@ -160,3 +160,12 @@ Reiskuchen bring, o Indra, uns und tausend Somatränke her Und hundert Kühe uns
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुरुसुतिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

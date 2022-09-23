@@ -164,3 +164,12 @@ Des starken, der Sribindha schlug Anarçani, Ahiçuva, Den Unhold Pipru, Flut er
 (И) выпустил, грозный, течь воды.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -240,3 +240,12 @@ Du übertriffst an Kraft und Macht und Wunderthat, an Hoheit alles, was da lebt,
 Пусть обратит тебя на помощь (нам)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा
+- पङ्क्तिः
+- पञ्चमः
+</details>

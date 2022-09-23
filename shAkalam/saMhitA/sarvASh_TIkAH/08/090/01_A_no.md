@@ -181,3 +181,12 @@ Zu uns geselle Indra sich, der anzuflehn in jeder Schlacht, Der Vritratödter zu
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- निचृद्बृहती
+- मध्यमः
+</details>

@@ -165,3 +165,12 @@ Den Indra preist, den grossen Strom des Reichthums, den man leicht durchfährt, 
 Этого Индру воспевайте! –
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

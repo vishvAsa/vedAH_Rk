@@ -273,3 +273,12 @@ Der Atri's Loblied schätze hoch, o Schleuderer, den Soma trink zum Rausch, o vi
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- शक्वरी
+- धैवतः
+</details>

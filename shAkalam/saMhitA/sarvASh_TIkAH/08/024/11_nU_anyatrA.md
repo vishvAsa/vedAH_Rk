@@ -179,3 +179,12 @@ Zu keinem andern als zu dir gehn unsre Wünsche, Schleuderer, Durch deine Hülfe
 Сделай нам это возможным своими поддержками!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- विश्वमना वैयश्वः
+- निचृदुष्णिक्
+- ऋषभः
+</details>

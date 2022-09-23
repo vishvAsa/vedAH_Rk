@@ -213,3 +213,12 @@ Den Indra stimme, Puruhanman, dir zum Schutz, in dessen Hand als seine Wehr Der 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुरुहन्मा
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

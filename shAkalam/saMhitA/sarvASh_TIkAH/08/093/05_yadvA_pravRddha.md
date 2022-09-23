@@ -193,3 +193,12 @@ Und wenn du hoch erhabner Fürst »nicht werd' ich sterben« also denkst, So ist
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

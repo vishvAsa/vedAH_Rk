@@ -197,3 +197,12 @@ Welcher die schöngeschirrten Renner hinspringen liess zu dem Verehrer, der schn
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रियमेधः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

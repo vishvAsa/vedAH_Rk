@@ -176,3 +176,12 @@ Die Prijamedha's reichten heran an die frühen Darbringung jener aus dem alten H
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रियमेधः
+- विराड्बृहती
+- मध्यमः
+</details>

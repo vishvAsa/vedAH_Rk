@@ -165,3 +165,12 @@ Dann gedachte man des [geschenkten] Siebengespannes; gross ist die Kraft des noc
 Глазом (их) не охватить.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- कृशः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>

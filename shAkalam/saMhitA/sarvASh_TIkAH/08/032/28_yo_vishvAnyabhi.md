@@ -160,3 +160,12 @@ Ihn, der auf alle Werke merkt im Rausch des somareichen Krauts, Den Indra in der
 В опьянении соком сомы...
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

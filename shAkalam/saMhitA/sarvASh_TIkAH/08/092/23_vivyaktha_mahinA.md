@@ -148,3 +148,12 @@ Mit deiner Gröss' umfängst, o Stier, den Trank des Soma's, munter, du, Der, In
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- गायत्री
+- षड्जः
+</details>

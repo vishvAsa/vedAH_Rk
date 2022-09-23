@@ -198,3 +198,12 @@ O trink und sing im Somarausch dem Indra, Medhiatithi, Der mit den Füchsen her 
 (Кто) громовержец, золотая колесница!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

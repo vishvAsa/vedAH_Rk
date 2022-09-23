@@ -209,3 +209,12 @@ Wir möchten wol dich gerne schaun, doch ganz ergründen wir dich nicht; So trö
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अपालात्रेयी
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

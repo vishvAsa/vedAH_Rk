@@ -205,3 +205,12 @@ Denn du ja überragst an Kraft des weiten Himmels Enden auch, Und dich umfasst, 
 Ты вырос по своему желанию.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा
+- निचृद्बृहती
+- मध्यमः
+</details>

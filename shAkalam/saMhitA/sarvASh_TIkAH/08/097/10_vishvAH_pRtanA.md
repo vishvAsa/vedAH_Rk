@@ -217,3 +217,12 @@ Den Helden, der allen Feinden überlegen ist, ihn bereiteten sie und zeugten sie
 А также грозного, сильнейшего, могучего, деятельного.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- भुरिग्जगती
+- निषादः
+</details>

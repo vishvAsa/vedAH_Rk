@@ -172,3 +172,12 @@ Ihr seid des Opfers Priester ja, in Schlacht und Opfer spendereich, O Indra-Agni
 О Индра-Агни, помните об этом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- श्यावाश्वः
+- गायत्री
+- षड्जः
+</details>

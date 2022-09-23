@@ -153,3 +153,12 @@ Durch viel Gefahren führet uns gleich wie auf Schiffen durch das Meer, Des Rech
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुसीदी काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

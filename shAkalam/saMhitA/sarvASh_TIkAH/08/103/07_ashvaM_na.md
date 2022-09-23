@@ -197,3 +197,12 @@ Mit Liedern schmücken gleich wie eines Wagens Ross, die frommen, gabenreichen i
 Наполни способность дарить у щедрых покровителей!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- स्वराड्बृहती
+- मध्यमः
+</details>

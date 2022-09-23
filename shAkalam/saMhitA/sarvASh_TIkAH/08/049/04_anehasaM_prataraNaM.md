@@ -204,3 +204,12 @@ Den schwellenden, den starken, unvergleichlichen, den süssesten der Tränke tri
 Дерзновенно, совсем как (ветром швыряет) пылинки.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रस्कण्वः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

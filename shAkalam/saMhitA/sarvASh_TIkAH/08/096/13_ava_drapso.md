@@ -270,3 +270,12 @@ Es fiel der Tropfen in die Somaströmung, der dunkle, eilend mit zehntausend and
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

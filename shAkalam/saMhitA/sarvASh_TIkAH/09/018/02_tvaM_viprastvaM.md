@@ -174,3 +174,12 @@ Du bist ein Sänger, Seher du, und Meth entspringt aus deinem Kraut; Bei den Gel
 В опьянениях ты даешь все.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- ककुम्मतीगायत्री
+- षड्जः
+</details>

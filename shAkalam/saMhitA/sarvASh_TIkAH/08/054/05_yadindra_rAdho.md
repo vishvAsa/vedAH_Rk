@@ -190,3 +190,12 @@ Mit deiner reichen Gabe, die dein eigen, reichster Indra, ist, Mit der sei unser
 Благой будь для дарения, о убийца Вритры!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मातरिश्वा काण्वः
+- निचृत्बृहती
+- मध्यमः
+</details>

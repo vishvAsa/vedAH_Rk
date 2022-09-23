@@ -146,3 +146,12 @@ Und diese erhabene Gattin wird mit Goldgeschmeide geschmückt dem Vaça Açvia e
 Украшенная драгоценностями, уводится в сторонку.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वशोऽश्व्यः
+- निचृद्गायत्री
+- षड्जः
+</details>

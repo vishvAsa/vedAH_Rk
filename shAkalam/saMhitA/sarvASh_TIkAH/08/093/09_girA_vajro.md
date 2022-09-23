@@ -152,3 +152,12 @@ Durch Sang bereitet wie der Blitz, voll Kraft und unerschütterlich, Erstand der
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

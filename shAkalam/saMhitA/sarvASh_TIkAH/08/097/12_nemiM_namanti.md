@@ -187,3 +187,12 @@ Den Radkranz biegen die Sänger mit Weisheit, dem Widder entgegenrauschend, die 
 Вместе с воспевателями.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- निचृद्बृहती
+- मध्यमः
+</details>

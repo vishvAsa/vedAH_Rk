@@ -158,3 +158,12 @@ Wenn wir beide, Indra und ich, vom Vasurotschis (?) tausend sehr starke Rosse em
 (И) табун сильнейших коней,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

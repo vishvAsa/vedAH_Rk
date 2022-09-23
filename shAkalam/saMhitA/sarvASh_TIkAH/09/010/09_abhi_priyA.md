@@ -165,3 +165,12 @@ Er schauet mit der Sonne Blick vom Himmel auf den lieben Ort, Den Priester ins V
 С помощью глаза солнца.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- गायत्री
+- षड्जः
+</details>

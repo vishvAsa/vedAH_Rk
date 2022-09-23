@@ -148,3 +148,12 @@ Wir tragen eure Brüderschaft gemeinsam, o schöngebende, An uns schon in der Mu
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुसीदी काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

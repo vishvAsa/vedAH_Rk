@@ -174,3 +174,12 @@ Komm vom hohen Herrn weg - Svaha! - zum Trunk des Soma! - Über jenen Himmel her
 Вы отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

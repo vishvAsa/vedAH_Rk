@@ -177,3 +177,12 @@ Denn du, o Indra, bist es, der die Burgen allesammt zerbricht, Des Bösen Feind,
 Убийца дасью, покровитель Ману, господин неба.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- ककुम्मत्युष्णिक्
+- ऋषभः
+</details>

@@ -205,3 +205,12 @@ Der kühnen Muthes, ungehemmt zur Feindesschar gedrungen ist, Der vielgerühmte,
 Силой духа могучий, словно бык...
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

@@ -216,3 +216,12 @@ Der Mensch, den du zu Reichthum führst, der dir, o Guter, huldiget, O Agni, der
 Который сам по себе взращивает тысячу (быков).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- बृहती
+- मध्यमः
+</details>

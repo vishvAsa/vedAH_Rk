@@ -202,3 +202,12 @@ Wie Wagenrosse eilten dir, beim Trunk, o Liedfreund, Lieder zu; Dir Indra jubelt
 О Индра, как матери при виде теленка.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

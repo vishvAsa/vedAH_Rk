@@ -203,3 +203,12 @@ Es strömen diese eure Opfertheile vor, beim Somamahl zur Lust euch, Indra-Varun
 Когда хотите поддержать жертвователя, выжимающего сок.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- सुपर्णः काण्वः
+- जगती
+- निषादः
+</details>

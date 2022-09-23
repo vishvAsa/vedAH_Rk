@@ -218,3 +218,12 @@ O ewig wahrer, mächtiger, so soll es sein, wie es dein Sinn, o Indra, will; Wir
 Очень быстро двигаясь (к ней), о хозяин давильных камней!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भर्गः प्रागाथः
+- पङ्क्तिः
+- पञ्चमः
+</details>

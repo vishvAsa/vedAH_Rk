@@ -199,3 +199,12 @@ Ihm kommt an Werken keiner gleich, die er gethan, dem segnenden, Dem vielgeliebt
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुरुहन्मा
+- निचृद्बृहती
+- मध्यमः
+</details>

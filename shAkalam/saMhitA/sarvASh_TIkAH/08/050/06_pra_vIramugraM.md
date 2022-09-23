@@ -197,3 +197,12 @@ Den Helden preist, der viel umfasst und Beute macht, der über grossen Schatz ve
 Ты всегда набухаешь для почитающего (тебя).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- पङ्क्तिः
+- पञ्चमः
+</details>

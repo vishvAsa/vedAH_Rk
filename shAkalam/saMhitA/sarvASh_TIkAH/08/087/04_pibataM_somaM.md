@@ -200,3 +200,12 @@ Den honigsüssen Soma trinkt, o Ritter ihr, und setzt zugleich euch auf die Stre
 Как два буйвола – к водостоку!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

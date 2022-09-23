@@ -234,3 +234,12 @@ Das bringe dar, was gern dir Indra annimmt, das Loblied singe, lock ihn her durc
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- त्रिष्टुप्
+- धैवतः
+</details>

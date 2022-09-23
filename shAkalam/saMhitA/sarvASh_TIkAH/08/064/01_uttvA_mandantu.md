@@ -159,3 +159,12 @@ Die Lieder mögen dich erfreun; erweise Huld, o Schleuderer, Die Andachthasser s
 Разбей ненавистников священного слова!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रगाथः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

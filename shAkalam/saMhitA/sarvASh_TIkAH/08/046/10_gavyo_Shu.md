@@ -155,3 +155,12 @@ Und unsern Wunsch gewähre du nach Wagen und nach Ross und Rind, wie früher auc
 Свободный путь, о могущественный!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वशोऽश्व्यः
+- विराड्गायत्री
+- षड्जः
+</details>

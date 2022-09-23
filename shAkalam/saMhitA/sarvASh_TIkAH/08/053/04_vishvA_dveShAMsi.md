@@ -226,3 +226,12 @@ Die Feinde alle schlage und verjage sie ihr Gut werd' allen uns zu Theil, Auch b
 От которых ты насыщаешься сомой.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

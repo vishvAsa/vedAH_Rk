@@ -211,3 +211,12 @@ Ihn preise, der nichts schlimmes gibt, der Güter schenkt, des Indra Gaben sind 
 Побуждая дух к дарению.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- पङ्क्तिः
+- पञ्चमः
+</details>

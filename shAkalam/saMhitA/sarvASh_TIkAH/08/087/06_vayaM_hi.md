@@ -207,3 +207,12 @@ Denn wir die Sänger rufen voll Bewunderung. euch her zu unserm Opfermahl; So ko
 Презжайте, о Ашвины, с пониманием (и) готовностью!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

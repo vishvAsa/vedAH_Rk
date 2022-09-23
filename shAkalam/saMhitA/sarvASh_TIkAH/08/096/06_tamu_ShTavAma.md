@@ -226,3 +226,12 @@ Ihn lasst uns preisen, welcher diese Wesen zusammt erschuf, die nach ihm sind en
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

@@ -192,3 +192,12 @@ Drei kahle Flächen siehst du hier, lass Keime treiben alle drei: Den Kopf des V
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अपालात्रेयी
+- विराडनुष्टुप्
+- गान्धारः
+</details>

@@ -183,3 +183,12 @@ O reicher Indra, schlürfe du den ausgepressten Soma ein, Als unbesiegter, kühn
 Способного побороть (каждого), но необоримого.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भर्गः प्रागाथः
+- विराड्बृहती
+- मध्यमः
+</details>

@@ -162,3 +162,12 @@ Sei nicht dem trägen Beter gleich, o Herr der Schätze, labe dich Am milchgemis
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

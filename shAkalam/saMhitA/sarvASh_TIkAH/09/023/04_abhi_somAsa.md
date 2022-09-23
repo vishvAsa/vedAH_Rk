@@ -149,3 +149,12 @@ Die muntern Soma's lassen hell den Trank hinrieseln, der berauscht, Zur Kufe, di
 (Чтобы попасть) в сосуд, сочащийся сладостью.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

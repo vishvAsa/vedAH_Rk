@@ -187,3 +187,12 @@ Die beiden gepaarten Rosse, von Rausch erregt, ziehen den Wagen; das Joch liegt 
 Но дышло выше жеребца.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

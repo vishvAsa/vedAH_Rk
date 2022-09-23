@@ -239,3 +239,12 @@ Drum flehn wir dich, den weisen, nun, o Lebensquell, um Gut, wie um ein Erbtheil
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

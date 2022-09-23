@@ -236,3 +236,12 @@ Vor Vritra's Schnaufen fliehend hatten alle verbundnen Götter, Indra, dich verl
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

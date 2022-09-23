@@ -192,3 +192,12 @@ Denn nimmer finde ich, o Held, ein Ende deiner Spendelust; Sei stets, o mächt'g
 Ты (всегда) помогал молитвам (своими) наградами.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वशोऽश्व्यः
+- विराड्बृहती
+- मध्यमः
+</details>

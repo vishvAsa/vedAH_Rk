@@ -166,3 +166,12 @@ Ihn fassen zehn verschwisterte, zehn schlanke Jungfraun in den Kampf Am Tage der
 Сестер в решающий день.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- मधुच्छन्दाः
+- निचृद्गायत्री
+- षड्जः
+</details>

@@ -202,3 +202,12 @@ Der starke Indra, er fürwahr, verachtet aller Feinde Trotz, Der Jüngling weist
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रियमेधः
+- अनुष्टुप्
+- गान्धारः
+</details>

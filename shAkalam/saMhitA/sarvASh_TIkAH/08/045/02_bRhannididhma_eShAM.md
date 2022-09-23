@@ -167,3 +167,12 @@ Hoch ist ihr Brennholz, reich ihr Lob und ihre Opfersäule breit, Die lieb dem J
 Кому Индра – юный друг.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- त्रिशोकः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

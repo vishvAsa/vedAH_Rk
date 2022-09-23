@@ -236,3 +236,12 @@ Zu rühmen ist, o Ritter, dies eur Kunstwerk: der Stier der Luft, des Himmels un
 Приезжайте ко всем ним, чтобы пить!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- मेध्यः काण्वः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

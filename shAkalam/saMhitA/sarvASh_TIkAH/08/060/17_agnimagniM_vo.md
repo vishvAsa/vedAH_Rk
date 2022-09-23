@@ -179,3 +179,12 @@ Zu allen Stämmen wollen wir den Agni, welcher rastlos eilt, Die Streu bereitend
 Народов при всех сменяющих друг друга (зорях).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- विराड्बृहती
+- मध्यमः
+</details>

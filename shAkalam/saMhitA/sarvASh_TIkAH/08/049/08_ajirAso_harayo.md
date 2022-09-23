@@ -201,3 +201,12 @@ Beweglich sind die goldnen Renner, die du hast, die vorwärts dringen wie der Wi
 С помощью которых (ты) всему миру (даешь) увидеть солнце.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रस्कण्वः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

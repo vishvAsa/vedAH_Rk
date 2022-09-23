@@ -171,3 +171,12 @@ Und Indra auch berausche nun nach Lust am milchgemischten Trank Früh morgens wi
 (Сомой), как хотар, рано утром!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

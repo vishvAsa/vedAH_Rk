@@ -163,3 +163,12 @@ Hundert Bambusstäbe, hundert Hunde, hundert gegerbte Felle, hundert Geflechte v
 Четыре сотни рыжих коров (коров ты) мне (дал).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- कृशः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>

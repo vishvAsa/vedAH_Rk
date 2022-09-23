@@ -145,3 +145,12 @@ Den Kämpfer, der unnahbar ist, ein Somatrinker nimmersatt, Ein Mann von unbezwu
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

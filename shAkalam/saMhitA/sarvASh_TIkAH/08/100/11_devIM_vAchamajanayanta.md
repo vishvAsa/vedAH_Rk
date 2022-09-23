@@ -255,3 +255,12 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 Индра:
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वाक्
+- नेमो भार्गवः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

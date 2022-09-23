@@ -202,3 +202,12 @@ Der, starker, du der Feinde Heeresmacht bezwingst, o Herr der Kraft, mit allen H
 Испей сомы, о громовержец!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- निचृज्जगती
+- निषादः
+</details>

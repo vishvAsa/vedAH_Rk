@@ -199,3 +199,12 @@ Besteige, o Hausherr [Indra], der du schönen Helm trägst, den goldenen Wagen, 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रियमेधः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

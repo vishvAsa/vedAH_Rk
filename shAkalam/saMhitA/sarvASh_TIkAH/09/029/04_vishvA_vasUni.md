@@ -138,3 +138,12 @@ Erringend alle Güter dir, o Soma, riesle hell im Strom, Bezwing' die Feinde all
 Прогони проявления враждебности – все вместе!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- नृमेधः
+- निचृद्गायत्री
+- षड्जः
+</details>

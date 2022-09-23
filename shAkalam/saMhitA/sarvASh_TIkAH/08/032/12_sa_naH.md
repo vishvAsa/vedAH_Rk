@@ -168,3 +168,12 @@ Er, welcher stark ist, sei zur Hand, der gabenreiche, schenkende, Mit allen Hül
 Индра со всеми поддержками!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

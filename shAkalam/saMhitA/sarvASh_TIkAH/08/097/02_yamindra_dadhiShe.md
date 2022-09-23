@@ -200,3 +200,12 @@ Was, Indra, du an Ross und Rind, an Schafbesitz erbeutet hast, Das schenke diese
 Его ты дай ему, (а) не скупцу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- निचृद्बृहती
+- मध्यमः
+</details>

@@ -242,3 +242,12 @@ Wirksam, o Ritter, ist eur Lob, kommt wie ein Schlauch zum Giessen her; Den süs
 Как два буйвола из водостока!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा
+- बृहती
+- मध्यमः
+</details>

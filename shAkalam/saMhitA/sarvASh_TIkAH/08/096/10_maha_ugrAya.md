@@ -214,3 +214,12 @@ Dem grossen, hehren, starken sende Loblied, und Heerden treibe hin zum heilbegab
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

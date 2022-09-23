@@ -162,3 +162,12 @@ Ich rühme euren liebsten Gast, wie einen werthgeschätzten Freund, Den Agni, de
 Агни, известного, как колесница,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- पादनिचृद्गायत्री
+- षड्जः
+</details>

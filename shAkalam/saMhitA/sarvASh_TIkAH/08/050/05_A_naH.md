@@ -196,3 +196,12 @@ Zu unserm schönen Soma eilt er wie ein rascher Renner hin; Den dir die Lieder s
 Тебе нравится приглашение к Пауре.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

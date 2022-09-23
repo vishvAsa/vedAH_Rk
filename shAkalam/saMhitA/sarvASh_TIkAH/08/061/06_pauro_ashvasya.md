@@ -227,3 +227,12 @@ Du spendest Rosse, du vermehrst der Rinder Zahl, o Gott, des Goldes Quelle du; D
 Что я ни попрошу, то и принеси!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भर्गः प्रागाथः
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

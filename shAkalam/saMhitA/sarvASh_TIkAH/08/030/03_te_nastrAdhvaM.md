@@ -227,3 +227,12 @@ So rettet uns, so helfet uns, so sprechet doch uns freundlich zu, Nicht führt u
 Далеко в далекие края!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मनुर्वैवस्वतः
+- विराड्बृहती
+- मध्यमः
+</details>

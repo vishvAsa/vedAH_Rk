@@ -144,3 +144,12 @@ Der Soma rinnt zum Trunk gepresst hin auf die Seihe, er der Stier, Gespenster t�
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- रहूगणः
+- गायत्री
+- षड्जः
+</details>

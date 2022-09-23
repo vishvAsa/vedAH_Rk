@@ -247,3 +247,12 @@ Dir folgen dreimal sechzig starke Maruts, ehrwürdige, wie morgendliche Sterne; 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- त्रिष्टुप्
+- धैवतः
+</details>

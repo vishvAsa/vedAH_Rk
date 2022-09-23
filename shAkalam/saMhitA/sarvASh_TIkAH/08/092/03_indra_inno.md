@@ -173,3 +173,12 @@ Ja Indra, er, der grosse Fürst, sei grosser Schätze Spender uns Und thürm bis
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- पादनिचृद्गायत्री
+- षड्जः
+</details>

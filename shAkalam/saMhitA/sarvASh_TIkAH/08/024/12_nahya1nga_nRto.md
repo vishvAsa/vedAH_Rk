@@ -159,3 +159,12 @@ Denn keinen andern find' ich je, als dich, o Held, der reiches Gut Mir schenke, 
 Для сверкающего богатства и для силы, о любящий песни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- विश्वमना वैयश्वः
+- विराडुष्निक्
+- ऋषभः
+</details>

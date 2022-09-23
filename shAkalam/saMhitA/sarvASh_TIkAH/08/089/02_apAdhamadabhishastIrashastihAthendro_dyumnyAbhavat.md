@@ -205,3 +205,12 @@ Der Fluchvertilger blies hinweg der Flucher Schar, da zeigte er sich kraftbegabt
 С высоким блеском, сопровождаемый толпой Марутов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- पादनिचृत्पङ्क्ति
+- पञ्चमः
+</details>

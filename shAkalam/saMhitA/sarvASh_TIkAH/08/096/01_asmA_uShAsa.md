@@ -221,3 +221,12 @@ Es bahnten ihm den Weg die Morgenröthen, bei Nacht dem Indra die gepries'nen St
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

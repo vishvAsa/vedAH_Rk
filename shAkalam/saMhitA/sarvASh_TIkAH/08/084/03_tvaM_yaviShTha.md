@@ -154,3 +154,12 @@ Die frommen Männer, jüngster du, beschütze und vernimm ihr Lied, Behüte ihre
 Защищай (наше) потомство, а также нас самих!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- निचृद्गायत्री
+- षड्जः
+</details>

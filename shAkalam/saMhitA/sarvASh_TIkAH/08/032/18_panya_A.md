@@ -156,3 +156,12 @@ Der herrliche erschloss an Gut uns hunderttausend ungehemmt, Des Frommen Helfer,
 Индра, который усиливает жертвователя!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- भुरिग्गायत्री
+- षड्जः
+</details>

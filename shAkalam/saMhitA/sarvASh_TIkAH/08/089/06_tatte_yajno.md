@@ -211,3 +211,12 @@ Da wurde Opfer dir erzeugt, da Loblied, da auch Scherz und Lust; Du überflügel
 Что рождено и что должно родиться.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

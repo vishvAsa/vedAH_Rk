@@ -157,3 +157,12 @@ Der weise wie ein Seher ist, und den die Götter lange schon Bei Menschen haben 
 Устроили среди смертных.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- विराड्गायत्री
+- षड्जः
+</details>

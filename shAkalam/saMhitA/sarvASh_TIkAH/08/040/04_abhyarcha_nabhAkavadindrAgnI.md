@@ -255,3 +255,12 @@ Den Indra-Agni preise nun mit frommem Lied, Nabhaka-gleich, Die Herrscher dieser
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- स्वराट्त्रिष्टुप्
+- धैवतः
+</details>

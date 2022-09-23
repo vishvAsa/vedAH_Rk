@@ -150,3 +150,12 @@ Die alle Lichter ausgespannt des Himmels und des Erdenraums, Die Maruts lad' ich
 (Этих) Марутов, (я зову) для питья сомы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- गायत्री
+- षड्जः
+</details>

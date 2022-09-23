@@ -208,3 +208,12 @@ Den lichten, hellen, güterreichen Wagen mit gutem Sitz, schnell rollend auf dre
 Эту вашу (колесницу) я призываю, чтобы (вы) пили оставшегося в избытке (сому).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मेध्यः काण्वः
+- त्रिष्टुप्
+- धैवतः
+</details>

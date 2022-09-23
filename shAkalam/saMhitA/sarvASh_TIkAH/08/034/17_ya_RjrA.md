@@ -138,3 +138,12 @@ Braune Rosse, schneller als der Wind, rothe, rasch laufende, welche wie Sonnen g
 (Которые) сверкают, словно солнце.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

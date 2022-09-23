@@ -155,3 +155,12 @@ Bei den drei Bechern führten hier die Götter schöne Feier aus, Die sei durch 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- गायत्री
+- षड्जः
+</details>

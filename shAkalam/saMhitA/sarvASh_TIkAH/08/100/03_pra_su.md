@@ -260,3 +260,12 @@ Nach Gut verlangend bringt nun euer Loblied dem Indra, wenn die Wahrheit anders 
 Индра:
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- त्रिष्टुप्
+- धैवतः
+</details>

@@ -157,3 +157,12 @@ Wenn er, der Gott, von diesem Gott der Tränke viel getrunken hat, Dann siegt er
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- विराड्गायत्री
+- षड्जः
+</details>

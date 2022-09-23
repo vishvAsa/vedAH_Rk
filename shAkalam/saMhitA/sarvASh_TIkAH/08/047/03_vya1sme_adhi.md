@@ -236,3 +236,12 @@ Den Schutz verbreitet über uns, wie Vögel ihrer Flügel Paar; Ja, alles, was u
 Хорошо поддерживают ваши поддержки.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदित्याः
+- त्रित आप्त्यः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

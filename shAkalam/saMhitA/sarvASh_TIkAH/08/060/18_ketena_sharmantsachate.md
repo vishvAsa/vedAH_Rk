@@ -209,3 +209,12 @@ Achtsamen Geistes dient er an der Stätte dir, o Agni, die von Liedern hallt, Au
 Награду, самую близкую (для нас) – (нам) в поддержку!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

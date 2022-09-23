@@ -156,3 +156,12 @@ Geh schnell dahin nach deiner Lust, wohin der Menschen Schar dich ruft, Und von 
 О Индра, испей выжатых соков (сомы)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

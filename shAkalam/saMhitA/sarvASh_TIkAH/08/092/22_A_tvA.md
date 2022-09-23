@@ -160,3 +160,12 @@ Es mögen in dich dringen ein die Indu's, wie die Ström' ins Meer, Nichts über
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

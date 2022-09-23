@@ -204,3 +204,12 @@ Des Indra Blitz, der eherne, er schmiegt sich an Indra's Arme, und die höchste 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

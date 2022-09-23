@@ -241,3 +241,12 @@ Ihr beide seid erfreunde Wunderärzte ja, mit kräft'gem Zuspruch waret ihr vers
 Не уклоняйтесь от дружбы с нами! Распрягайте (коней)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो विश्वको वा कार्ष्णिः
+- विराड्जगती
+- निषादः
+</details>

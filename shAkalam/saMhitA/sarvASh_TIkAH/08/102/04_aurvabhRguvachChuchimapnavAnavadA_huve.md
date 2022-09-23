@@ -148,3 +148,12 @@ Wie Aurva, Bhrigu rufe ich, wie Apnavāna Agni her, Den lichten, meerumkleideten
 Агни, чья одежда – море.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः ; अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः
+- निचृद्गायत्री
+- षड्जः
+</details>

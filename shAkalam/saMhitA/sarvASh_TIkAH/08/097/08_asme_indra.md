@@ -210,3 +210,12 @@ Bei unserm Soma setze dich, o Indra, trink den süssen Trank; Dem Sänger schaff
 У нас, о Индра, у выжатого (сомы)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- बृहती
+- मध्यमः
+</details>

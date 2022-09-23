@@ -171,3 +171,12 @@ Komm nah herbei, lass hören dich, ergötz dich an den Sprüchen hier; Von jenes
 Вы отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

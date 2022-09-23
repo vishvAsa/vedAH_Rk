@@ -164,3 +164,12 @@ O Agni, durch der Butter Glanz, o Gott, entbrannt in hellem Licht, Fahr' her die
 Привези богов и почти (их)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः ; अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः
+- गायत्री
+- षड्जः
+</details>

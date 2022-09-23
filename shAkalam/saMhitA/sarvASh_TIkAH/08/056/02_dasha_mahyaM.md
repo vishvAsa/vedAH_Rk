@@ -134,3 +134,12 @@ Dasjavevrika, der Sohn der Pūtakratā, schenkte mir zehntausend aus seinem eign
 Из своего собственного богатства.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- पृषध्रः काण्वः
+- गायत्री
+- षड्जः
+</details>

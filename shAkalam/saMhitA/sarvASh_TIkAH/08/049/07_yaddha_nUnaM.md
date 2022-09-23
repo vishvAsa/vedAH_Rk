@@ -216,3 +216,12 @@ Wenn du bei einem Opfer jetzt, und wenn du auf der Erde weilst, So komm von da z
 О грозный, приезжай на грозных,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रस्कण्वः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

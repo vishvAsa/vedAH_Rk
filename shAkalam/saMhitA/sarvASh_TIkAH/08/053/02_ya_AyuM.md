@@ -177,3 +177,12 @@ Der Aju, Kutsa und den Atithigva du bedrängt hast, wachsend Tag für Tag, Der h
 Мы зовем, жаждя награды.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

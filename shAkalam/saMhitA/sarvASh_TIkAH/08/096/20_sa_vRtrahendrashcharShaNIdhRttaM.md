@@ -207,3 +207,12 @@ Den Vritrafeind, den festen Hort der Menschen, lasst preisen uns mit Lob, den pr
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

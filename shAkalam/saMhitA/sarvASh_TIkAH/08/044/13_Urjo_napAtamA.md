@@ -150,3 +150,12 @@ Den Sohn der Stärke rufe ich, den hellentflammten Agni an Bei diesem opferreich
 На это жертвоприношение с прекрасным обрядом.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विरूप आङ्गिरसः
+- विराड्गायत्री
+- षड्जः
+</details>

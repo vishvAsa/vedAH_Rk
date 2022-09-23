@@ -256,3 +256,12 @@ Nur einer ist der vielentflammte Agni, die Sonne eine, über alles mächtig, Dur
 Поистине, это одно развилось во все.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मेध्यः काण्वः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

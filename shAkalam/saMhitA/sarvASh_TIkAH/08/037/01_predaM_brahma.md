@@ -228,3 +228,12 @@ In Feindeskämpfen hast du dies Gebet erfüllt, o Herr der Kraft, mit allen Hül
 Испей сомы, о громовержец!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- विराडतिजगती
+- निषादः
+</details>

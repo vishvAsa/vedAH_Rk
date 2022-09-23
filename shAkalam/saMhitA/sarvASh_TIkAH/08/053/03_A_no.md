@@ -191,3 +191,12 @@ Ergiessen soll der Steine Schar uns aller Indu's Honigsaft, Der Somatränke, die
 (И) которые вблизи (у нас).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- पाद्निचृत्पथ्याबृहती
+- मध्यमः
+</details>

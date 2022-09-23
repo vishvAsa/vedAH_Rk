@@ -146,3 +146,12 @@ Der grosses, starkes Gut ertheilt und in den Schlachten Ruhm erwirbt, der über 
 Владеющего многим благодаря (своей) силе.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

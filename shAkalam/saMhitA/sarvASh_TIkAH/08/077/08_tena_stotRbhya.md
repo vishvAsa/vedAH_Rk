@@ -163,3 +163,12 @@ Mit diesem bring den Sängern du den Männern Speise und den Fraun, Wenn Ribhust
 О (ты,) сразу рожденный крепким, как Рибху.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुरुसुतिः काण्वः
+- गायत्री
+- षड्जः
+</details>

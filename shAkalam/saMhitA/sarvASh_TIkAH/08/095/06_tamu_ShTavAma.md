@@ -175,3 +175,12 @@ Den Indra lasst uns preisen nun, dem Lieder, Sprüche Labung sind, Ihn zu gewinn
 Его многие мужские силы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

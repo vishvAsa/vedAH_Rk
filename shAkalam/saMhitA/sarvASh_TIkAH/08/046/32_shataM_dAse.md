@@ -214,3 +214,12 @@ Hundert habe ich, der Dichter, von dem Ausländer Balbutha und dem Tarukscha emp
 Блаженствуют, хранимые богами.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वायु:
+- वशोऽश्व्यः
+- बृहती
+- मध्यमः
+</details>

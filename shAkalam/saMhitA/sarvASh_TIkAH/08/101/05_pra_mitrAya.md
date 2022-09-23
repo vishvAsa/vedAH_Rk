@@ -183,3 +183,12 @@ Auf, sing dem Mitra, Arjaman ein freundlich Lied, andächtiger; Ein schirmendes,
 Пропойте царям хвалу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ, आदित्याः
+- जमदग्निभार्गवः
+- स्वरडार्चीबृहती
+- मध्यमः
+</details>

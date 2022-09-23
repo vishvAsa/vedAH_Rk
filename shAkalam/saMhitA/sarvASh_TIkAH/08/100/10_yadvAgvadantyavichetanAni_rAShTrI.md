@@ -229,3 +229,12 @@ Wenn Vāk [die Stimme], die Königin der Götter, unverständliche Worte [den Do
 Куда же пошла ее основная часть?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वाक्
+- नेमो भार्गवः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

@@ -163,3 +163,12 @@ Sie seien stets Genossen uns, Varuna, Mitra, Arjaman Und Förderer die weisen un
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुसीदी काण्वः
+- गायत्री
+- षड्जः
+</details>

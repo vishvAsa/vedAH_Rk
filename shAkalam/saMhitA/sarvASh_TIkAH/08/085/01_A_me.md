@@ -149,3 +149,12 @@ Zu meinem Rufe kommet doch, ihr beiden treuen Ritter, her, Zum Trunk des süssen
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- विराड्गायत्री
+- षड्जः
+</details>

@@ -256,3 +256,12 @@ Bisweilen, o Indra, bist du karg und bist dem Verehrer nicht zu Willen; nun aber
 Умножается дарение у тебя, бога.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- बृहती
+- मध्यमः
+</details>

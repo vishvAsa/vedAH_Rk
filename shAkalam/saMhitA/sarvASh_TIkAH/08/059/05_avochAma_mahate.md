@@ -200,3 +200,12 @@ Zu hohem Glücke haben wir verkündet euch, den glänzenden, die wahre Indragrö
 Поддержите трижды семью (поддержками), о повелители красоты!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- सुपर्णः काण्वः
+- विराड्जगती
+- निषादः
+</details>

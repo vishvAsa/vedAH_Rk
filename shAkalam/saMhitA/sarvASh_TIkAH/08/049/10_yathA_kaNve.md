@@ -169,3 +169,12 @@ Wie, mächtiger, dem Kanva, Trasadasju du, dem Paktha und Daçavradscha, Wie, In
 О Индра, богатство из коров, богатство из золота.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रस्कण्वः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

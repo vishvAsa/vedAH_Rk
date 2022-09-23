@@ -196,3 +196,12 @@ Diesen Indra rufen wir, welcher uns Güter schenkt; denn wir kennen sein neustes
 Мы хотим придти к загону, полному коров.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

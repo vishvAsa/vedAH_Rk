@@ -164,3 +164,12 @@ Darum so schaffe du denn auch uns sichern Wohnsitz überall, Und unsern Liedern 
 (А наши) песни приносящими награду из богатства!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- निचृद्गायत्री
+- षड्जः
+</details>

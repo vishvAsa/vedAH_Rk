@@ -192,3 +192,12 @@ Die beiden Männer weiten Blickes, höchster Macht, die weitberühmten Könige, 
 Будто лучами солнца.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ
+- जमदग्निभार्गवः
+- पङ्क्तिः
+- पञ्चमः
+</details>

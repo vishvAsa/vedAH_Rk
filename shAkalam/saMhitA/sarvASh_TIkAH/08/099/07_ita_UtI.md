@@ -168,3 +168,12 @@ Zieht her zum Schutz den ewigen, den ungetriebnen Treiber euch, Den raschen Sieg
 Которого не догнать, покровителя сына Тугры.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- निचृद्बृहती
+- गान्धारः
+</details>

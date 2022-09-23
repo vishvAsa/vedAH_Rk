@@ -206,3 +206,12 @@ Nicht hemmen hohe Felsen dich, noch feste Burgen, Indra, dich, Wenn einem Sänge
 Никто не мешает тебе в этом.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा
+- बृहती
+- मध्यमः
+</details>

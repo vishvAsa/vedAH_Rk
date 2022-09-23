@@ -167,3 +167,12 @@ Den schönbehelmten ruf ich kühn, wie Wasser, das vom Felsen stürzt, Um eurem 
 Я зову прекрасногубого на помощь.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

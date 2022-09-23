@@ -199,3 +199,12 @@ Dir, Indra, nahn mit heil'gem Werk um Hülfe sie, an deren Tränken du dich labs
 Ты у нас опьяняйся, о Индра!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मातरिश्वा काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

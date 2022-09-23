@@ -151,3 +151,12 @@ Vernehmt den Ruf des preisenden, des Sängers Krischna, Männer ihr, Zum Trunk d
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- गायत्री
+- षड्जः
+</details>

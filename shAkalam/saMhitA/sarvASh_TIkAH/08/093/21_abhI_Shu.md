@@ -152,3 +152,12 @@ Erfreuten Sinnes reiche bald uns tausendfachen Reichthum dar, Sei Spender dem Ve
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- निचृद्गायत्री
+- षड्जः
+</details>

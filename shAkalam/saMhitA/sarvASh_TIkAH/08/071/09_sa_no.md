@@ -152,3 +152,12 @@ Drum so theile, Sohn der Kraft, uns zu von deinem grossen Reichthum, Du, o guter
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सुदीतिपुरुमीळहौ तयोर्वान्यतरः
+- निचृद्गायत्री
+- षड्जः
+</details>

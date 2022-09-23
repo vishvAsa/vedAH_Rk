@@ -214,3 +214,12 @@ Im Festen auch erschliesst er Gut durch schnelles Ross, erwirbt sich Ruhm, der n
 с У тебя:среди богов tve devatra
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- पङ्क्तिः
+- पञ्चमः
+</details>

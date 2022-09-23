@@ -218,3 +218,12 @@ Dich halt' ich für den Heiligen der Heil'gen, für den Beweger dich des Unbeweg
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- पङ्क्तिः
+- पञ्चमः
+</details>

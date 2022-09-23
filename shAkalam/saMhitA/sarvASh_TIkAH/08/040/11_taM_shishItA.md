@@ -250,3 +250,12 @@ Ihn schärft, den schönbeopferten, den wahren, starken, preislichen; Er ist's, 
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

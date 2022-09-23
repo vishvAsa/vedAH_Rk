@@ -164,3 +164,12 @@ O Indra, welche Tränke dir bereitet werden fern und nah, Zu denen allen gehst d
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

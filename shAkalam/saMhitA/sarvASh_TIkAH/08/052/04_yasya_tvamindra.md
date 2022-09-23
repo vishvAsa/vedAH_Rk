@@ -203,3 +203,12 @@ An wessen Lobliedern du, o Indra, Gefallen findest und an wessen Labung, [dem bi
 Зовем, жаждя славы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

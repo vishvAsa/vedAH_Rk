@@ -184,3 +184,12 @@ Denn beide Welten überragst, o wahrer Somatrinker, du, Du, Indra, bist des Pres
 О Индра, ты покровитель выжимающего (сому), господин неба.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- उष्णिक्
+- ऋषभः
+</details>

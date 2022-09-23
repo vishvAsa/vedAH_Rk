@@ -152,3 +152,12 @@ Wenn von den Steinen du gepresst, o Indu, durch die Seihe strömst, Bist du bere
 Ты то, что надо для сути Индры.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

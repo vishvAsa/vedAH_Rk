@@ -147,3 +147,12 @@ Der schnelle Bote, welcher euch voranlief, Mitra-Varuna, Mit eh'rnem Haupte lust
 С железной головой, безумно спешащий,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ
+- जमदग्निभार्गवः
+- गायत्री
+- षड्जः
+</details>

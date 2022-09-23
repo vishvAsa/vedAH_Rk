@@ -190,3 +190,12 @@ O unbesiegter, komm herbei, zu Sprüchen rufen wir dich her, Auch von dem höchs
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुसीदी काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

@@ -157,3 +157,12 @@ Da er jetzt sowol bei der wandernden Heerde hundert Büffel brüllen liess, wie 
 Тогда (получил я) двадцать сотен из светлых.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वशोऽश्व्यः
+- स्वराड्गायत्री
+- षड्जः
+</details>

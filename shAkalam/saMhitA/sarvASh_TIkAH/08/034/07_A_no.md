@@ -166,3 +166,12 @@ Komm hochgesinnter zu uns her mit tausend Hülfen, hundertreich; Von jenes Herrs
 Вы отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>

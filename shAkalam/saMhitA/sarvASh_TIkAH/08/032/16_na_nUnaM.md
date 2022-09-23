@@ -165,3 +165,12 @@ Nicht wirken falsch die Beter jetzt, noch auch die schnellen Kelterer, Nicht ist
 И сома не был выпит понапрасну.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

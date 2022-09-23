@@ -195,3 +195,12 @@ Als einz'ger König herrschst du über diese ganze Welt, o Herr der Kraft, mit a
 Испей сомы, о громовержец!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- निचृज्जगती
+- निषादः
+</details>

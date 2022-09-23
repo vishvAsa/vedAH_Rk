@@ -177,3 +177,12 @@ Zu Liedern, die ich dargereicht, zu schönsten, die ich dichten will, Kommt beid
 Чтобы принять жертвенные дары!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- जमदग्निभार्गवः
+- विराड्बृहती
+- मध्यमः
+</details>

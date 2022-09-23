@@ -204,3 +204,12 @@ Denn zu dir gehn, o Sohn der Stärke, Angiras, die Löffel bei dem Opfer hin; De
 К Агни как к первому на жертвоприношениях.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- सतःपङ्क्ति
+- पञ्चमः
+</details>

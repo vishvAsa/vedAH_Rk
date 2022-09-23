@@ -182,3 +182,12 @@ Als einen solchen zeige dich aufs Neue uns, o guter Held, Wie im Entscheidungska
 Как (та, что) - Ваше у Дашавраджи.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

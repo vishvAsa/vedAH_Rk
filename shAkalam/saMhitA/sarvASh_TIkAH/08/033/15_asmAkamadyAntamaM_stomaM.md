@@ -192,3 +192,12 @@ Nimm unsern liebsten Lobgesang, o mächtig grosser, heute an; Zum Rausche soll d
 Опьяняйся, о любитель пить сому, живущий на небе!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

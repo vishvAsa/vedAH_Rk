@@ -217,3 +217,12 @@ Ja, Sonnengott, an Herrlichkeit bist du gross, nach allen Seiten, o Gott, bist d
 Как выдающийся неистребимый свет.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यः
+- जमदग्निभार्गवः
+- भुरिग्बृहती
+- मध्यमः
+</details>

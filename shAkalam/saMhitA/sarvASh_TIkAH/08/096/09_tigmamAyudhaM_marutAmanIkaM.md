@@ -235,3 +235,12 @@ Wer widersteht, o Indra, deinem Blitze, der scharfen Waffe? wer dem Zug der Maru
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- त्रिष्टुप्
+- धैवतः
+</details>

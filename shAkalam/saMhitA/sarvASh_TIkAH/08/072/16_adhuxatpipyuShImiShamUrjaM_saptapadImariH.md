@@ -142,3 +142,12 @@ Der Treue sog den fetten Trank, die Speis', die sieben Stätten füllt, Durch si
 С помощью семи лучей солнца.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- गायत्री
+- षड्जः
+</details>

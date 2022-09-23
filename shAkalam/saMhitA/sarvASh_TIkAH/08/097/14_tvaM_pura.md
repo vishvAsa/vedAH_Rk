@@ -214,3 +214,12 @@ Du, o Indra, verstehst es, mit Kraft, o stärkster, mächtiger, diese Burgen zu 
 Все мироздания, небо и земля.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

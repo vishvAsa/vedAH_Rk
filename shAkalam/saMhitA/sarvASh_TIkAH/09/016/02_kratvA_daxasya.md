@@ -146,3 +146,12 @@ Der weise lenkt der Kraft Gefährt, und seinen Saft in Wasser hüllt, Den Spende
 Со (своим) соком, добывающим коров в мелком (сите).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

@@ -163,3 +163,12 @@ Denn du, o Vritratödter, bist's, der diese Somasäfte trinkt, Mit Füchsen komm
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- विराड्गायत्री
+- षड्जः
+</details>

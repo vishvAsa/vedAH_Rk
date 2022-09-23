@@ -180,3 +180,12 @@ Behüte du, o Agni, uns, o Gott, vor dem Beschädiger, Den Feind zerspalte, kraf
 Проломи враждебность, о созданный силой!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विरूप आङ्गिरसः
+- निचृद्गायत्री
+- षड्जः
+</details>

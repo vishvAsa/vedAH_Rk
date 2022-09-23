@@ -225,3 +225,12 @@ Unwiderstehlich ist, o Stier, ja dein Gebiss, wenn du, o Agni, dich erhebst; Mac
 Добудь нам многие желанные дары!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

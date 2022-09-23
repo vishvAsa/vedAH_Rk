@@ -181,3 +181,12 @@ Denn so, o Indra, haben wir ergossen grosse Wünsche dir, In Wogen wallend wie m
 Как (Маруты,) приезжающие с водой, – воду.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- विराडुष्निक्
+- ऋषभः
+</details>

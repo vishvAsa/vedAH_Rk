@@ -179,3 +179,12 @@ Der, Indra, dir das neuste Lied erzeugt hat, das erfreuende, Das klugersonnene G
 Источающее истину.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीः
+- अनुष्टुप्
+- गान्धारः
+</details>

@@ -154,3 +154,12 @@ Sie, welche beide Welten nun gestützt, die Maruts, rufe ich Zum Trunke dieses S
 Для питья этого сомы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

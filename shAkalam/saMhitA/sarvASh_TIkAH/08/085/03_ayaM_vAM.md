@@ -149,3 +149,12 @@ Es rufet dieser Krischna hier, o Ritter, gabenreiche euch, Zum Trunk des süssen
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- गायत्री
+- षड्जः
+</details>

@@ -161,3 +161,12 @@ Es gebe Indra uns zum Heil, Ribhukschan, Ribhu, Vadscha uns labungsreiches Gut.
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र ऋभवश्च
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

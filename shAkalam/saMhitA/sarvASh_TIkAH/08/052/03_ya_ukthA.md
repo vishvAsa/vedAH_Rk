@@ -196,3 +196,12 @@ Der für sich allein die Loblieder beanspruchst, der herzhaft den Soma trank, f�
 По законам дружбы…
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- बृहती
+- मध्यमः
+</details>

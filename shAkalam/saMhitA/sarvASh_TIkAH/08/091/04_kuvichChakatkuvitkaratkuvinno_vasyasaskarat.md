@@ -194,3 +194,12 @@ Ob er's vermag, und ob er's thut? ob er nicht bald uns reicher macht? Ob von dem
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अपालात्रेयी
+- अनुष्टुप्
+- गान्धारः
+</details>

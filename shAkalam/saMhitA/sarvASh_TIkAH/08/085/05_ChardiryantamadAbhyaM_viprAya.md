@@ -144,3 +144,12 @@ O Männer, reichet sichern Schutz dem Sänger, welcher euch besingt, Zum Trunk d
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- निचृद्गायत्री
+- षड्जः
+</details>

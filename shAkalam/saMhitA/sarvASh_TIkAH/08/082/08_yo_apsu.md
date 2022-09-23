@@ -166,3 +166,12 @@ Den Soma, der in Schalen blinkt, wie in der Wasserflut der Mond, Den trinke, dir
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुसीदी काण्वः
+- गायत्री
+- षड्जः
+</details>

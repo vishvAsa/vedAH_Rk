@@ -164,3 +164,12 @@ Du, den Gopavana durch Lied, erfreut hat, Agni, Angiras, Du flammender vernimm d
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गोपवन आत्रेयः
+- गायत्री
+- षड्जः
+</details>

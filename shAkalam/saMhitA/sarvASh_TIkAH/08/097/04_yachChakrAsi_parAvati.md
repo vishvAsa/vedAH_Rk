@@ -195,3 +195,12 @@ Wenn, starker Vritratödter, du entfernt, wenn in der Näh' du bist, Von dort he
 Хочет вызвать выжиматель сомы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- बृहती
+- मध्यमः
+</details>

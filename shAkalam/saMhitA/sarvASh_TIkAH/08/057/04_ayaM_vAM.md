@@ -204,3 +204,12 @@ Hier ist eur Antheil hingestellt, o hehre, o kommt, ihr Treuen, her zu diesen Li
 Поддерживайте (вашего) почитателя (своими) милостями!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- मेध्यः काण्वः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

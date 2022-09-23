@@ -186,3 +186,12 @@ Es höre Puschan, Vischnu und Sarasvati, die sieben Ströme meinen Ruf; Die Wass
 Земля пусть услышат (мой) зов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मातरिश्वा काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

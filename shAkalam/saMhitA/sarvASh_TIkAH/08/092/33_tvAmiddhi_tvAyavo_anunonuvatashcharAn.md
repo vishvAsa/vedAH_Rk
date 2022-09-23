@@ -138,3 +138,12 @@ Denn die dich lieben, gehn zu dir, o Indra, die dir jauchzen zu, Der Sänger und
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- पादनिचृद्गायत्री
+- षड्जः
+</details>

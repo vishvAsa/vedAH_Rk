@@ -228,3 +228,12 @@ O guter Agni, nimmer lass beschädigt sein, die dir mit Anrufungen nahn; Denn je
 Приносящий жертвы, прекрасный исполнитель обряда.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

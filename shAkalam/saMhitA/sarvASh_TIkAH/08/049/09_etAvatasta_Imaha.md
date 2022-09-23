@@ -173,3 +173,12 @@ So grosse rinderreiche Gunst begehren, Indra, wir von dir, Wie, mächtiger, dem 
 Как (та, которую) - Нипатитхи (при захвате) богатства,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रस्कण्वः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

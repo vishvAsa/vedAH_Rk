@@ -170,3 +170,12 @@ Es sollen unsre Lieder nahn, dem schönen, heisserglühenden, Dem güterreichen 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सुदीतिपुरुमीळहौ तयोर्वान्यतरः
+- निचृद्बृहती
+- मध्यमः
+</details>

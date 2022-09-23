@@ -234,3 +234,12 @@ Drei Töchter gingen zur Durchschreitung, [drei] andere lagerten sich rings um d
 Павамана вошел в рыжие (языки пламени).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः
+- जमदग्निभार्गवः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

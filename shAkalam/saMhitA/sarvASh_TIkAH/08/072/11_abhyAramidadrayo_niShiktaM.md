@@ -144,3 +144,12 @@ Die Somasteine sind zur Hand, es träufelt ins Gefäss der Trank, Wenn ausgegoss
 При выливании источника.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- निचृद्गायत्री
+- षड्जः
+</details>

@@ -164,3 +164,12 @@ Vom milchgemischten Sorna trink, von dem, den Tugria dir beut; Hier ist, der, In
 А также вот он, Индра, который твой.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

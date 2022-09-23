@@ -212,3 +212,12 @@ Die honigsüsse Brühe trinkt, o Ritter, ihr, o Männer, setzt euch auf die Stre
 Умело храните (нашу) телесную силу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

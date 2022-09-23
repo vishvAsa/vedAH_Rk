@@ -161,3 +161,12 @@ O Hausherr, wessen Bitten nun erfüllst aus deinem reichen Schatz Du, dem im Kam
 (Ты тот,) чьи песни добывают коров.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- गायत्री
+- षड्जः
+</details>

@@ -182,3 +182,12 @@ Dir theil er Kraft und Himmelsglanz und Schätze dem Verehrer zu, Den Sängern s
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

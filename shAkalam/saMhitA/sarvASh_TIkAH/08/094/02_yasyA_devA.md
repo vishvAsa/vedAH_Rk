@@ -162,3 +162,12 @@ In deren Schoosse all ihr Werk die Götter wohl befestigen Und Sonn' und Mond, u
 (И) солнце и луна, чтобы их было видно.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- विराड्गायत्री
+- षड्जः
+</details>

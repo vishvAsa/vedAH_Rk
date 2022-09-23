@@ -158,3 +158,12 @@ Welch wirkungsreichster Rausch dir je o thatenreichster Indra ist, Mit dem berau
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- गायत्री
+- षड्जः
+</details>

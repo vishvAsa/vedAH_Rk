@@ -175,3 +175,12 @@ Als herrlichsten der Mächtigen, und als der Stiere trefflichsten, Als Reichthum
 Владыку мы просим о богатствах.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

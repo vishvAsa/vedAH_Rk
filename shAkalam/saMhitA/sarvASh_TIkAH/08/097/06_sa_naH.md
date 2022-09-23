@@ -181,3 +181,12 @@ Du Somatrinker, Herr der Kraft, bei ausgepresstem Somasaft, Erfreue du mit reich
 Богатством в изобилии, О Индра!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- निचृद्बृहती
+- मध्यमः
+</details>

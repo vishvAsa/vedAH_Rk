@@ -273,3 +273,12 @@ Mit Stärkung labst die Götter du, mit Kraft dich selbst, den Soma trink zum Ra
 В сопровождении Марутов, о Индра, благой повелитель!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- विराट्शक्वरी
+- धैवतः
+</details>

@@ -185,3 +185,12 @@ Erhöre des Tiraçtschi Ruf, o Indra, welcher dich verehrt, Und schenke Gut, das
 Из коров. Ты велик.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

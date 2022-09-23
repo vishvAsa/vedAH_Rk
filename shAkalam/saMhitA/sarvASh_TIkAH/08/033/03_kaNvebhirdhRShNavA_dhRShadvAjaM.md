@@ -185,3 +185,12 @@ Erschliesse durch die Kanva's kühn, o kühner, tausendfaches Gut, Goldfarbiges,
 Состоящей из коров, мы просим как можно скорее.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- बृहती
+- मध्यमः
+</details>

@@ -196,3 +196,12 @@ Zu ihm, der alles Gut vertheilt, der Menschen holder Priester ist, Zu Agni gehn 
 Словно первые сосуды сладкого (сомы).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- स्वराडार्चीबृहती
+- मध्यमः
+</details>

@@ -150,3 +150,12 @@ Da wurde auch der Pūtakratā eine schöngeschmückte Stute vorgeführt, die nic
 Как если бы она принадлежала к табуну коней.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- पृषध्रः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

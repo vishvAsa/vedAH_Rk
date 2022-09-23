@@ -170,3 +170,12 @@ Besinget diesen Indra nun, begleitend seinen Somatrunk Denn das ist seine Labung
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- स्वराडार्चीगायत्री
+- षड्जः
+</details>

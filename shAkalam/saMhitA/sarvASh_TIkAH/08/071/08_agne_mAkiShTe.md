@@ -146,3 +146,12 @@ Nimmer hemme deine Gabe, Agni, Gott, ein Götterhasser; Du gebietest über Güte
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सुदीतिपुरुमीळहौ तयोर्वान्यतरः
+- निचृद्गायत्री
+- षड्जः
+</details>

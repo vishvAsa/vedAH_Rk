@@ -147,3 +147,12 @@ Hundert weisse Ochsen glänzen wie Sterne am Himmel, durch ihre Grösse stützen
 Громадностью (своей) они словно поддержали небо.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- कृशः काण्वः
+- गायत्री
+- षड्जः
+</details>

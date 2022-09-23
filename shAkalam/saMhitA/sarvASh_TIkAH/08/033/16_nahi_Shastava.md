@@ -193,3 +193,12 @@ Denn weder auf dein noch auf mein Geheiss, auf das eines andern thut sich der Ma
 Тот муж, который нас привел.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

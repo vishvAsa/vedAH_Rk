@@ -166,3 +166,12 @@ Wer opfert und wer recht verehrt, wer Soma braut, wer kocht und bäckt, Solch Be
 (Тот) брахман нравится Индре.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ईज्यास्तवो यजमानप्रशंसा च
+- मनुर्वैवस्वतः
+- गायत्री
+- षड्जः
+</details>

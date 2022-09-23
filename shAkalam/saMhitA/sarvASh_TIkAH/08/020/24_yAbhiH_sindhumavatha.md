@@ -204,3 +204,12 @@ Durch die den Strom ihr fördert, und durch die ihr siegt, durch die ihr hold de
 О несущие радость, не подверженные ненависти!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- सोभरिः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

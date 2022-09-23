@@ -186,3 +186,12 @@ Mit Segensfülle komm zu uns auf alles achtend, uns zum Schutz; Von jenes Herrsc
 Все отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>

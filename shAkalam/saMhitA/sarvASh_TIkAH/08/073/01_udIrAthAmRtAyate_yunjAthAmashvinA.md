@@ -159,3 +159,12 @@ Auf, eilet zu dem Frommen hin, den Wagen schirrt, o Ritter an, Es sei uns eure H
 Пусть ваша помощь будет рядом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- गोपवन आत्रेयः
+- गायत्री
+- षड्जः
+</details>

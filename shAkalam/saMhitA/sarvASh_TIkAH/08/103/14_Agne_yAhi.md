@@ -171,3 +171,12 @@ O Agni, komm, du Marutfreund, mit Rudra's zu dem Somatrunk, berausche dich beim 
 Опьяняйся в Сварнаре!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>

@@ -147,3 +147,12 @@ Denn über Schatz gebietet ihr, o weise, Feindverzehrer ihr, Aditja's, den der F
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुसीदी काण्वः
+- गायत्री
+- षड्जः
+</details>

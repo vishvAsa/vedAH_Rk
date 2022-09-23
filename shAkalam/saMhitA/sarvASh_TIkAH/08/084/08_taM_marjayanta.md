@@ -148,3 +148,12 @@ Ihn schmücken sie, den trefflichen, der in den Kämpfen Führer ist, Im eignen 
 Приносящего награду в свои края.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- गायत्री
+- षड्जः
+</details>

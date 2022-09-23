@@ -191,3 +191,12 @@ Für deine Gabe ist kein Hinderniss, o Held, wenn du dem Frommen spenden willst;
 О самый щедрый, для завоевания награды!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

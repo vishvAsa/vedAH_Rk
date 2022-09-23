@@ -193,3 +193,12 @@ Die Götter nicht erreichen dich, nicht Sterbliche, o Schleuderer; An Stärke ü
 Тебя не достигли боги.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- निचृद्बृहती
+- मध्यमः
+</details>

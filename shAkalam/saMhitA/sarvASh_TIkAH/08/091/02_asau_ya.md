@@ -184,3 +184,12 @@ Du, der du gehst ein Männchen noch, indem du Haus für Haus beschaust, Den durc
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अपालात्रेयी
+- पङ्क्तिः
+- पञ्चमः
+</details>

@@ -183,3 +183,12 @@ Dich, Wagenlenker, fahre her die angeschirrte Füchseschar, Vorüber an den Soma
 Которые принадлежат другим, о убийца Вритры, о стоумный!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

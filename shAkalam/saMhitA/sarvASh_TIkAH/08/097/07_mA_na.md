@@ -221,3 +221,12 @@ O Indra, weis' uns nicht zurück, sei du ein Tischgenosse uns; Du unser Schutz, 
 Не оттолкни нас, о Индра!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- अनुष्टुप्
+- गान्धारः
+</details>

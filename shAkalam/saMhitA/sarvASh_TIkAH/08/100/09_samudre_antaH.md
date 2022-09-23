@@ -177,3 +177,12 @@ Im Innern des Meeres liegt der Blitz von Fluten bedeckt; es bringen ihm die unun
 Непрерывно текущие вперед (воды).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

@@ -196,3 +196,12 @@ Die holden Rosse, welche deinen Wagen ziehn, sind schneller als des Windes. Wehn
 На которых ты догоняешь солнце.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

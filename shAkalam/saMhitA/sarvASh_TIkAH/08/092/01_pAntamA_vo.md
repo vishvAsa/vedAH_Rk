@@ -171,3 +171,12 @@ Auf, singt dem Indra Lobgesang, ihm, der von eurem Soma trinkt, Der thatenreich 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- विराडनुष्टुप्
+- गान्धारः
+</details>

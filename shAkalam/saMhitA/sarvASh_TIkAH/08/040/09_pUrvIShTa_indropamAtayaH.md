@@ -251,3 +251,12 @@ Viel Bitten dringen zu dir hin und viele Lobgesänge auch, O Sohn der Wonne, Ros
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- जगती
+- निषादः
+</details>

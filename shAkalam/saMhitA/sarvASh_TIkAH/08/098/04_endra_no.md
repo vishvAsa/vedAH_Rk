@@ -194,3 +194,12 @@ Komm, Indra, her, du theurer uns, allsiegender, den nichts verhüllt, Gleich ein
 Как гора, широкий со всех сторон, господин неба!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- पादनिचृदुष्णिक्
+- ऋषभः
+</details>

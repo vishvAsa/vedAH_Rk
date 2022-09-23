@@ -150,3 +150,12 @@ Nun fördert meine Lieder hier, o wahrhaft treue Ritter ihr, Zum Trunk des süss
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- विराड्गायत्री
+- षड्जः
+</details>

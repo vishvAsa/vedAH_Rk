@@ -209,3 +209,12 @@ Gemeinsam besangen die Sänger den Indra zum Trunke des Soma's, den Glanzesherrn
 Вместе с поддержками.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- विराड्बृहती
+- मध्यमः
+</details>

@@ -176,3 +176,12 @@ Als vor des Drachens Ungestüm die Götter alle flüchteten, Und sie des Thieres
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

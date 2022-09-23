@@ -200,3 +200,12 @@ So komm denn zu dem opfernden, verleih ihm Gut als reichen Lohn; Ergiesse dich, 
 Из(лейся), о Индра, для того, кто ищет коней!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भर्गः प्रागाथः
+- पाद्निचृद्बृहती
+- मध्यमः
+</details>

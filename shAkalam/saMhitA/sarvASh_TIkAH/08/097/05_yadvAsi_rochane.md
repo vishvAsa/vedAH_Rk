@@ -200,3 +200,12 @@ Wenn du im Licht des Himmels weilst, wenn auf des Meeres Fläche du, Wenn, beste
 Когда в воздухе – приезжай!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- बृहती
+- मध्यमः
+</details>

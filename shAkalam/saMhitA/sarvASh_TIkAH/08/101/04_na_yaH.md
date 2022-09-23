@@ -208,3 +208,12 @@ Der nicht begrüssen, nicht zurück sich rufen lässt, und nicht sich am Gesprä
 (Своими) руками нас спасите!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ
+- जमदग्निभार्गवः
+- पङ्क्तिः
+- पञ्चमः
+</details>

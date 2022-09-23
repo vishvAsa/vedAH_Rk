@@ -224,3 +224,12 @@ Welchem sie das siebenköpfige Preislied, das dreitheilige an höchster Stätte 
 И вот тогда родится мужество.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

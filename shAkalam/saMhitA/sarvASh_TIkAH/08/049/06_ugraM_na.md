@@ -203,3 +203,12 @@ Wie starkem Helden nahten wir anbetend dir, dem reichen, dem's nie fehlt an Gut,
 Текут (к тебе) молитвы, о Индра.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रस्कण्वः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

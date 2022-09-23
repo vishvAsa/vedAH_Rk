@@ -197,3 +197,12 @@ Wir schreien euren Helden an, der sich des guten Tranks erfreut, Wie in den Stä
 Как дойные коровы на пастбищах – к теленку.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नोधा
+- बृहती
+- मध्यमः
+</details>

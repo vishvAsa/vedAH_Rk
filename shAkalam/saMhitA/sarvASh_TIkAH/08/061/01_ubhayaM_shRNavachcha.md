@@ -206,3 +206,12 @@ Es höre Indra nahe hier dies unser beiderseit'ges Lied; Der reiche, stärkste k
 На питье сомы с сосредоточенной мыслью.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भर्गः प्रागाथः
+- निचृद्बृहती
+- मध्यमः
+</details>

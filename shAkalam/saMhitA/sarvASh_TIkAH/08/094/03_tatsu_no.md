@@ -174,3 +174,12 @@ Drum laden unsre Sänger auch, die treugesinnten alle, stets Die Marutschar zum 
 Марутов, чтобы они пили сому.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- गायत्री
+- षड्जः
+</details>

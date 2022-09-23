@@ -166,3 +166,12 @@ Dich, starker, vielgerufener, dich labungsreichen sprech' ich an, vielwirkender,
 Даруй нам прекрасную отвагу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- विराडुष्निक्
+- ऋषभः
+</details>

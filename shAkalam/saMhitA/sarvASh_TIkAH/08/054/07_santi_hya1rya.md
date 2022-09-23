@@ -183,3 +183,12 @@ Zum treuen Indra geht der Wunsch der Menschen hin um Lebenskraft. O reicher, kom
 Дай надоить набухшей жертвенной услады!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मातरिश्वा काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

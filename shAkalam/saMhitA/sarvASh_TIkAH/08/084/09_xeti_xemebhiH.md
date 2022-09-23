@@ -165,3 +165,12 @@ Der, Agni, wohnt in Sicherheit, wen niemand schlägt, wer selber schlägt, An He
 О Агни, он процветает, имея прекрасных сыновей.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- गायत्री
+- षड्जः
+</details>

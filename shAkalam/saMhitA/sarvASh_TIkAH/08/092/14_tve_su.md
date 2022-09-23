@@ -175,3 +175,12 @@ Es wandten sich, o Herr der Kraft, zu dir sogleich die wünschenden; Nichts übe
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- विराड्गायत्री
+- षड्जः
+</details>

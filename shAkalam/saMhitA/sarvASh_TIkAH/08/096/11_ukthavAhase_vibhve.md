@@ -214,3 +214,12 @@ Beweg' das Lied dem starken Spruch-empfänger wie mit dem Ruder über Flut der S
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

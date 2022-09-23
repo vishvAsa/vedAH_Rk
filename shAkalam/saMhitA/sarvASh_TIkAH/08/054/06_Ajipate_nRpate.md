@@ -210,3 +210,12 @@ O Schlachtenherr, o Männerherr, vielwirkender, zu unserm Opfer fahre du; Durch 
 Они прославились как достигшие цели.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मातरिश्वा काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

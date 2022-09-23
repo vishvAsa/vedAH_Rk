@@ -192,3 +192,12 @@ Denn Reichthum schenkst du, reiner, uns dem Frommen Schätze, reiner du, Die Fei
 Чистым стремишься захватить награду.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीः
+- अनुष्टुप्
+- गान्धारः
+</details>

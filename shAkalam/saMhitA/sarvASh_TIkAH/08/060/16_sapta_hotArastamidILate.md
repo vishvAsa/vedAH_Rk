@@ -236,3 +236,12 @@ Als solchen preisen, Agni, sieben Priester dich, den kecken, tücht'gen Schleude
 Агни, двигайся вперед, за пределы людей!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- पादनिचृत्पङ्क्ति
+- पञ्चमः
+</details>

@@ -147,3 +147,12 @@ Zum Soma giesst die warme Milch, die Erd' und Himmel schön versüsst, Die Flut,
 Пусть Раса примет быка!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- निचृद्गायत्री
+- षड्जः
+</details>

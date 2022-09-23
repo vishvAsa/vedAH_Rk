@@ -245,3 +245,12 @@ Wie soll euch nun recht preisen der Verständige? ihr flösstet selbst die Bitt'
 Не уклоняйтесь от дружбы с нами! Распрягайте (коней)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो विश्वको वा कार्ष्णिः
+- निचृज्जगती
+- निषादः
+</details>

@@ -188,3 +188,12 @@ Recht nah, o Indra, komme her, mit Schutz, der fest auf Säulen ruht, Heilvollst
 О (ты,) очень дружелюбный, с очень дружелюбными!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

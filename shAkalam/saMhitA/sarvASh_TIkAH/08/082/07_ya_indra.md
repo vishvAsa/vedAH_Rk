@@ -170,3 +170,12 @@ Den Soma, der in Bechern steht, in Schalen, Indra, dir gepresst, Den trinke, dir
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुसीदी काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

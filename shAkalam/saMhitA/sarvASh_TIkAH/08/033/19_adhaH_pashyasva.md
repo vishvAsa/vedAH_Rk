@@ -212,3 +212,12 @@ Blicke nach unten, nicht nach oben; halte die Füsschen fest zusammen, nicht mö
 Ведь ты, женщина, стала брахманом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- अनुष्टुप्
+- गान्धारः
+</details>

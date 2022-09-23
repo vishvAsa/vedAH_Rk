@@ -226,3 +226,12 @@ Ihr, o Aditja's, kennet ja der Uebel Abwehr, göttliche, O breitet über uns den
 Хорошо поддерживают ваши поддержки.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदित्याः
+- त्रित आप्त्यः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

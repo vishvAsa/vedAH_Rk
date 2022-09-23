@@ -147,3 +147,12 @@ Uns werde Schatz, o Arjaman, gepries'ner Schatz, o Varuna; Denn schönen Schatz 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुसीदी काण्वः
+- पादनिचृद्गायत्री
+- षड्जः
+</details>

@@ -151,3 +151,12 @@ Die Enkel des Durgaha mich tausendfach herrlich beschenkend, haben sich Ruhm bei
 Создали себе славу среди богов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रगाथः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

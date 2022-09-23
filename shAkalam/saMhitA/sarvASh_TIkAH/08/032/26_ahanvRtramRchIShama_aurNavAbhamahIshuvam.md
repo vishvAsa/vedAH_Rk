@@ -150,3 +150,12 @@ Er schlug den Vritra glanzdurchstrahlt, die Spinnenbrut Ahiçuva, Durch Frost ve
 Снегом забросал он Арбуду.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

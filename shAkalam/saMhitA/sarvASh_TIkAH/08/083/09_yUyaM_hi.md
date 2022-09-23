@@ -162,3 +162,12 @@ Ja, ihr von Indra angeführt bewohnt den Himmel gabenreich, darum auch rufe ich 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुसीदी काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -172,3 +172,12 @@ Er ist von Steinen, Indra, dir gepresst, mit Milch zum Rausch vermischt Der Soma
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुसीदी काण्वः
+- गायत्री
+- षड्जः
+</details>

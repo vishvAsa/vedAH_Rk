@@ -201,3 +201,12 @@ Komm schnell zu unserm Soma her, gespornt von Pressern wie ein Ross, Den, schöp
 О Индра, (и жертвенные) дары у Канвов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रस्कण्वः काण्वः
+- भुरिग्बृहती
+- मध्यमः
+</details>

@@ -199,3 +199,12 @@ Ein Mädchen, das zum Flusse ging, fand auf dem Wege Somakraut, Sie trug es heim
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अपालात्रेयी
+- स्वराडार्चीपङ्क्ति
+- पञ्चमः
+</details>

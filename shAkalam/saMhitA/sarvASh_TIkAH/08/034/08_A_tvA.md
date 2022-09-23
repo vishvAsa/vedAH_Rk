@@ -179,3 +179,12 @@ Dich fahr der Menschen Priester her, dem unter Göttern Preis gebührt; Von jene
 Вы отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

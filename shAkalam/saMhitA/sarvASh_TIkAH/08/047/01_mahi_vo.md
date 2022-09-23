@@ -249,3 +249,12 @@ Ihr grossen reichet grossen Schutz dem Frommen, Mitra-Varuna; Wen ihr Aditja's v
 Хорошо поддерживают ваши поддержки.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदित्याः
+- त्रित आप्त्यः
+- जगती
+- निषादः
+</details>

@@ -146,3 +146,12 @@ Der Berg – entstammte Soma rinnt gekeltert zu der Seihe hin; Bei den Gelagen s
 В опьянениях ты даешь все.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

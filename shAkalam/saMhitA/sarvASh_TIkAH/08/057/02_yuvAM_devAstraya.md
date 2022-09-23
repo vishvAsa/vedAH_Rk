@@ -204,3 +204,12 @@ Euch beide sahn die dreiunddreissig Götter, die wahren, stehen an der Wahrheit 
 Пейте сому, о Ашвины, ради который сверкает костер!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- मेध्यः काण्वः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -224,3 +224,12 @@ Da wurdest du Gebieter aller Menschen, der bösen Feinde mächtiger Zermalmer; D
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

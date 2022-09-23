@@ -211,3 +211,12 @@ Indra hat grosse Reichthümer hervorgeschüttelt, er die beiden Welten, und er d
 Соки сомы Индру опьянили.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

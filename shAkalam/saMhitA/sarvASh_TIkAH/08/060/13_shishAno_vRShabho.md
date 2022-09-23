@@ -188,3 +188,12 @@ Dem Stier, der seine Hörner wetzt und rasch bewegt, ist Agni gleich; Unwiderste
 Хороши клыки у этого юного сына силы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- विराड्बृहती
+- मध्यमः
+</details>

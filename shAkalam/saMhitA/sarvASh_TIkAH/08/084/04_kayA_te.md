@@ -163,3 +163,12 @@ Wie sollen Agni Angiras, o Sohn der Kraft, wir Lob, o Gott, Dir bringen recht na
 По твоему вкусу (и) буйному праву, о бог?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- उशना काव्यः
+- गायत्री
+- षड्जः
+</details>

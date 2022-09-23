@@ -175,3 +175,12 @@ Kommt auf den Rossen nun herbei, o Ritter, den gesprenkelten, O herrliche, auf g
 Пейте сому, о умножающие закон!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा
+- निचृद्बृहती
+- मध्यमः
+</details>

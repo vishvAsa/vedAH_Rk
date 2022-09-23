@@ -162,3 +162,12 @@ Es melken sieben eine Kuh, zwei setzen fünf in Thätigkeit, An Stromes Rauschen
 У брода реки под звук (песен).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- विराड्गायत्री
+- षड्जः
+</details>

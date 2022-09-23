@@ -149,3 +149,12 @@ Mit zehn Vivasvatsöhnen goss den Wassereimer Indra aus, Mit dreigetheiltem Himm
 Тройным рывком.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- गायत्री
+- षड्जः
+</details>

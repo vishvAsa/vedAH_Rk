@@ -150,3 +150,12 @@ Auf dessen Werk sich jeder Mann fest stützet, des Gesetzesherrn, Des güterreic
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- प्रभुवसुः
+- गायत्री
+- षड्जः
+</details>

@@ -174,3 +174,12 @@ Ihn, der der Menschen König ist, auf Wagen unaufhaltsam fährt, Den Schlachtens
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुरुहन्मा
+- पाद्निचृद्बृहती
+- मध्यमः
+</details>

@@ -131,3 +131,12 @@ Mit Ehrfurcht giessen sie den Born, der nicht versiegt, umwandernd aus, Und Grun
 С отверстием вниз, неиссякающий.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- गायत्री
+- षड्जः
+</details>

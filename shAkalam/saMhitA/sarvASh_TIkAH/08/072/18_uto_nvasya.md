@@ -167,3 +167,12 @@ Vom Orte, wo sich hingesetzt der Liebliche, umschlang er nun Mit seiner Zung' de
 Он охватил (все) небо (своим) языком.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- विराड्गायत्री
+- षड्जः
+</details>

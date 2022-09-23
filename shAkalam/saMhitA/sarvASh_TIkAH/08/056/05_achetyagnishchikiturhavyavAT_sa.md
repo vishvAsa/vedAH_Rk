@@ -197,3 +197,12 @@ Der glänzende Agni hat sich gezeigt, der Opferfahrende, er sammt seinem Wagen; 
 Солнце на небе засверкало.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निसूर्यौ
+- पृषध्रः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

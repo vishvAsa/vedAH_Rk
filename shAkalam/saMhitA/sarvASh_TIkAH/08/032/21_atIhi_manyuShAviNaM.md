@@ -134,3 +134,12 @@ An dem, der ungern Soma presst und unrecht keltert, geh vorbei Und trink den hie
 Пей этого поднесенного сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -149,3 +149,12 @@ Euch reingesinnte ruf' ich nun, o Maruts, von dem Himmel euch, Zum Trunke dieses
 Для питья этого сомы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

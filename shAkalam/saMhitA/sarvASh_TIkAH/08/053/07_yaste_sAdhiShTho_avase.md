@@ -186,3 +186,12 @@ In Kämpfen seien solche wir, die dir zum Schutz die liebsten sind; Wir denken d
 Благодаря (нашим) возлияниям и призывом богов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

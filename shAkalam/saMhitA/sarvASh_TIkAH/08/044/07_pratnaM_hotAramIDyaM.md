@@ -144,3 +144,12 @@ Den alten Priester Agni, ihn, der preisenswerth und einsichtsvoll, willkommen un
 Высшего властителя обрядов...
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विरूप आङ्गिरसः
+- निचृद्गायत्री
+- षड्जः
+</details>

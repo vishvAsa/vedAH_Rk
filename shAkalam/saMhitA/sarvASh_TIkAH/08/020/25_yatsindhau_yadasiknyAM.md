@@ -158,3 +158,12 @@ Die Arzenei im Industrom, in der Asikni und im Meer, schönthronende; Die, Marut
 Целебное средство, которое в горах...
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- सोभरिः काण्वः
+- निचृदुष्णिक्
+- ऋषभः
+</details>

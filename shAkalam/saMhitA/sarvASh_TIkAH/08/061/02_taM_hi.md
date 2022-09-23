@@ -216,3 +216,12 @@ Denn ihn, den starken Selbstgebieter, haben ja zur Kraft die Welten beid' erzeug
 Ведь твоя мысль жаждет сомы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भर्गः प्रागाथः
+- पङ्क्तिः
+- पञ्चमः
+</details>

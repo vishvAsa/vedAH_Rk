@@ -151,3 +151,12 @@ Auf, preist des vorwärts stürmenden des Indra Thaten mit Gesang, O Kanva's, be
 Вместе с песней в опьянении сомой,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

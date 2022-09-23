@@ -201,3 +201,12 @@ Wem du, o guter, zu Gaben verhilfst, der erlangt Mehrung des Reichthums; darum r
 Мы зовем, выжимая (сому).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

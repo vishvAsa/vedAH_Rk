@@ -147,3 +147,12 @@ Es hat sich gezeigt, o Dasjavevrika, dein reichliches Geschenk, wie der Himmel b
 Сила (твоя) протяженностью, словно небо!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- पृषध्रः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

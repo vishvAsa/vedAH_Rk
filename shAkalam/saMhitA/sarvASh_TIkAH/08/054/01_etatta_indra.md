@@ -192,3 +192,12 @@ Die Dichter preisen mit Gesang o Indra, diese deine Kraft, Sie brachten singend 
 Пауры пришли со (своими) молитвами.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मातरिश्वा काण्वः
+- निचृत्बृहती
+- मध्यमः
+</details>

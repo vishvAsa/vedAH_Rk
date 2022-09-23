@@ -236,3 +236,12 @@ Durch deine Hülfen, Herr der Füchse, geh' ich stets, Gut wünschend in Gebet u
 Жаждя коней, жаждя коров.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेध्यः काण्वः
+- विराट्पङ्क्ति
+- पञ्चमः
+</details>

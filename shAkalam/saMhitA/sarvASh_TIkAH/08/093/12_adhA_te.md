@@ -141,3 +141,12 @@ Und deine ungehemmte Macht verehren beide Göttinnen, Die Welten, helmgeschmück
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

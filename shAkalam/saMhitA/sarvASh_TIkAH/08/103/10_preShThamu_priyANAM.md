@@ -150,3 +150,12 @@ O Trankbereiter, preise nun ihn, der geliebten liebsten Gast, Den Agni, der die 
 Агни, водителя колесниц!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- भुरिगार्चीगायत्री
+- षड्जः
+</details>

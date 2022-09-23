@@ -207,3 +207,12 @@ Dich, Blitzer, haben hier getränkt die Männer gestern eifervoll; Drum höre de
 Приди сюда на пастбище!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- स्वरडार्चीबृहती
+- गान्धारः
+</details>

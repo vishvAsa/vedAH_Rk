@@ -139,3 +139,12 @@ An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafei
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

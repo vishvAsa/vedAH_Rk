@@ -159,3 +159,12 @@ O höre, Indra, meinen Ruf, erlange Trunk und Sättigung An diesem milchgemischt
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुसीदी काण्वः
+- गायत्री
+- षड्जः
+</details>

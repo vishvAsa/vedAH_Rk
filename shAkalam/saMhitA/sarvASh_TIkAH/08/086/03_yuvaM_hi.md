@@ -241,3 +241,12 @@ Denn ihr ja habt, o güterreiche, dies Gedeihn dem Vischnapu gegeben zu dem Scha
 Не уклоняйтесь от дружбы с нами! Распрягайте (коней)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो विश्वको वा कार्ष्णिः
+- विराड्जगती
+- निषादः
+</details>

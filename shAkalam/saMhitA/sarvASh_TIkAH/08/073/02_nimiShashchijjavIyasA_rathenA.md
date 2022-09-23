@@ -163,3 +163,12 @@ Mit eurem Wagen, Ritter, kommt, der schneller als ein Augenblick; Es sei uns eur
 Пусть ваша помощь будем рядом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- गोपवन आत्रेयः
+- गायत्री
+- षड्जः
+</details>

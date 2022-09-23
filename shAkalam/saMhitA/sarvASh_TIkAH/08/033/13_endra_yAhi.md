@@ -215,3 +215,12 @@ O Indra, komm zu trinken her den süssen Soma, kräftigster, Es höre diese Lied
 Священным словам и гимнам, (бог) с прекрасной силой духа!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- आर्चीभुरिग्बृहती
+- मध्यमः
+</details>

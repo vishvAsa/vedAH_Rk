@@ -198,3 +198,12 @@ Du bist, o Indra, reich an Glanz, du vorwärtsdringend, Herr der Kraft; Die unbe
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- पाद्निचृद्बृहती
+- मध्यमः
+</details>

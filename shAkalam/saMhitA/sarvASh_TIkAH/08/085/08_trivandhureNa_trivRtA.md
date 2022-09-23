@@ -150,3 +150,12 @@ Kommt, Ritter, auf dem Wagen her, der dreigetheilt drei Sitze hat, Zum Trunk des
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- गायत्री
+- षड्जः
+</details>

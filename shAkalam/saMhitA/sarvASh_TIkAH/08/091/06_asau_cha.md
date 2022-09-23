@@ -225,3 +225,12 @@ Hier dieses unser Ackerland, dazu auch meinen eignen Leib, Und dann den Kopf des
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अपालात्रेयी
+- विराडनुष्टुप्
+- गान्धारः
+</details>

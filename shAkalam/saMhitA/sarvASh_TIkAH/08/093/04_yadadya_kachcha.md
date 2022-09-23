@@ -196,3 +196,12 @@ Wohin du feindetödtend heut, o Sonne, aufgegangen bist, Das, Indra, ist in dein
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- निचृद्गायत्री
+- षड्जः
+</details>

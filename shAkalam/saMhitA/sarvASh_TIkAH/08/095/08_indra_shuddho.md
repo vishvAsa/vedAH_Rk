@@ -204,3 +204,12 @@ Du, reiner Indra, komm zu uns, mit reinen Hülfen, reiner du, Du reiner, schenke
 Чистый, опьяняйся как достойный сомы!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

@@ -232,3 +232,12 @@ Nabhaka gleichend wendet hin zu Indra-Agni eur Gebet. Das Meer, das sieben Böde
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- जगती
+- निषादः
+</details>

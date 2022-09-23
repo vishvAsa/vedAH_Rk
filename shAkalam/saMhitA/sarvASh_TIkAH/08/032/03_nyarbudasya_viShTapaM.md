@@ -159,3 +159,12 @@ Stürz hin die Stätte Arbuda's, den höchsten Sitz des mächtigen, Vollbringe d
 Соверши этот акт мужества!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

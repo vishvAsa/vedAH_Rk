@@ -177,3 +177,12 @@ Gesungen ist das alte Lied, dem Indra habt ihr das Gebet gesprochen; erklungen s
 Излились вдохновенные мысли восхвалителя.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

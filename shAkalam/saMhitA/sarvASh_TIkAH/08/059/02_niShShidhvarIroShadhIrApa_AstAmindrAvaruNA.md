@@ -202,3 +202,12 @@ Die Kräuter und die Wasser waren labungsreich, erreichten ihre Grösse, Indra-V
 Которым ни один не-бог не сочтет себя достойным противником.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- सुपर्णः काण्वः
+- निचृज्जगती
+- निषादः
+</details>

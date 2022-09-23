@@ -164,3 +164,12 @@ Dir, liederfreuter Indra, sind wir Sänger wahrlich eng vereint, Erquick, o Soma
 Вдохнови ты нас, о пьющий сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

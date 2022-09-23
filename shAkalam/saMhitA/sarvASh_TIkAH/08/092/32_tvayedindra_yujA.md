@@ -160,3 +160,12 @@ Mit dir vereinigt werden wir begegnen, Indra, jedem Feind; Du bist der unsre, de
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- गायत्री
+- षड्जः
+</details>

@@ -176,3 +176,12 @@ Und hör, o mächtiger, auf den, der von dir wünscht, das wünsch auch du, Was 
 Что хочешь сделать крепким, то крепко.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- त्रिशोकः काण्वः
+- गायत्री
+- षड्जः
+</details>

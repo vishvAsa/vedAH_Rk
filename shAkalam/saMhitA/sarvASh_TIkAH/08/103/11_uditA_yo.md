@@ -205,3 +205,12 @@ Der offenbare und verschlossne Güter kennt und her sie schafft, der heilige, De
 У стремящегося захватить награду с помощью поэтической мысли...
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

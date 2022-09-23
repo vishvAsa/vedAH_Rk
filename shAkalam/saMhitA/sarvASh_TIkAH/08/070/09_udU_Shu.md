@@ -219,3 +219,12 @@ O hebe, guter, uns empor, zu grossem Schatze schnell, o Held, Empor, o reicher, 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुरुहन्मा
+- बृहती
+- मध्यमः
+</details>

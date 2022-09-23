@@ -183,3 +183,12 @@ O Agni, Sänger, Stammesherr, o Gott, verbrenn die Geisterschar, Als Hausherr ni
 Защитник неба, любитель дома.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- बृहती
+- मध्यमः
+</details>

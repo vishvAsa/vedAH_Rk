@@ -167,3 +167,12 @@ O komme mit den Füchsen her, zum Soma, Herr der Tränke du, Mit Füchsen komm z
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- निचृद्गायत्री
+- षड्जः
+</details>

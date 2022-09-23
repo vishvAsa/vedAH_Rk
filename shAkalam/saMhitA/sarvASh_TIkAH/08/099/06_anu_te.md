@@ -236,3 +236,12 @@ Die beiden Fluten eilen seiner Siegerkraft wie Aeltern ihrem Kinde nach und alle
 Когда, о Индра, ты побеждаешь Вритру.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- पङ्क्तिः
+- पञ्चमः
+</details>

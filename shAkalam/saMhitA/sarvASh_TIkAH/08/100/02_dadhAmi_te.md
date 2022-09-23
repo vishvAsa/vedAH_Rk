@@ -252,3 +252,12 @@ Ich schenke dir zuerst den Trank des Methes, dein Antheil sei gesetzt, gebraut d
 То мы разобьем множество врагов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

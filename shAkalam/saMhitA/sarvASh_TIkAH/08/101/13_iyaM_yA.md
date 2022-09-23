@@ -209,3 +209,12 @@ Diese [Morgenröthe], welche sich niederneigt, strahlend, schöne Farben sind du
 Словно яркая приближающаяся (женщина).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः सूर्यप्रभा वा
+- जमदग्निभार्गवः
+- आर्चीबृहती
+- मध्यमः
+</details>

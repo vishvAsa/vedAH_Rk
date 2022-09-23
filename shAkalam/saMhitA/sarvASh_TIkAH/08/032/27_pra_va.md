@@ -155,3 +155,12 @@ Auf, eurem starken, fällenden, dem unbesiegten Sieger singt Das gottverliehene 
 Данное богами священное слово!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

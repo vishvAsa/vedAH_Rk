@@ -197,3 +197,12 @@ Die lichten Tränke zogen dich, o liederfreuter Indra, her, O Indra, trink von d
 Который выставлен тебе у всех (племен)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

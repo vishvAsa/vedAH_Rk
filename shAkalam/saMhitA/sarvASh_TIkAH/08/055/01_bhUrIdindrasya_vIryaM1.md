@@ -165,3 +165,12 @@ Des Indra [des mit Indra vergleichbaren Fürsten] grosse Heldenkraft habe ich er
 (Твой) дар, о Дасьяве Врика!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- कृशः काण्वः
+- पादनिचृद्गायत्री
+- षड्जः
+</details>

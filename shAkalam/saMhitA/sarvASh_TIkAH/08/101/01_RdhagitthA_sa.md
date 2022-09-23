@@ -176,3 +176,12 @@ Der Schar der Götter dient fürwahr am besten solch ein Sterblicher, Der stets 
 В принесении жертвы Митру-Варуну.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ
+- जमदग्निभार्गवः
+- निचृद्बृहती
+- मध्यमः
+</details>

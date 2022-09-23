@@ -156,3 +156,12 @@ Durch drei der Fernen schreite du und durch die fünf Geschlechter hin, Wenn Ind
 О Индра, замечая потоки речи!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -181,3 +181,12 @@ Wir Sänger sitzen um dich her, dir Soma bringend Strömen gleich, Nachdem die S
 Сидят вокруг восхвалители.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- बृहती
+- मध्यमः
+</details>

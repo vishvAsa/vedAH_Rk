@@ -216,3 +216,12 @@ Wen, dieses Opfer mannichfach gestaltend, die einsichtsvollen Opferpriester fahr
 Какое же тут (бывает) понимание у заказчика жертвы?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वे देवा ऋत्विजो वा
+- मेध्यः काण्वः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

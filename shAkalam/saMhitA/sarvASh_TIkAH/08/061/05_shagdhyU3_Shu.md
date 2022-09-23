@@ -204,3 +204,12 @@ O sei du hülfreich, Herr der Kraft, mit allen Hülfen, Indra, uns; Denn wie zum
 Идем мы за тобою следом, о герой.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भर्गः प्रागाथः
+- निचृद्बृहती
+- मध्यमः
+</details>

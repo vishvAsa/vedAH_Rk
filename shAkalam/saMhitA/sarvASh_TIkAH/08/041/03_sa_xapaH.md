@@ -264,3 +264,12 @@ Er hat die Mächte rings umfasst, die Morgen weise eingesetzt, um alles ist er r
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- नाभाकः काण्वः
+- निचृज्जगती
+- निषादः
+</details>

@@ -206,3 +206,12 @@ Wer schläft, o Indra, werkelos in Trägheit ohne Gottesdienst, Aus eigner Schul
 Удержи его подальше от этого!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- भुरिगनुष्टुप्
+- गान्धारः
+</details>

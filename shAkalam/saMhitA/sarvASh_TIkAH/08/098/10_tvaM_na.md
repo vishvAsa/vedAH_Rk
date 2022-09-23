@@ -164,3 +164,12 @@ O Indra, bringe du herbei uns Kraft und Mannheit, thatenreicher, rüstiger, Dem 
 При(неси) героя, выигрывающего битвы!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- विराडुष्निक्
+- ऋषभः
+</details>

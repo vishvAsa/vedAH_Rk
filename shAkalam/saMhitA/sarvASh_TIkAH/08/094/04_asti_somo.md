@@ -157,3 +157,12 @@ Der Soma hier ist ausgepresst, es trinket ihn die Marutschar, die Ritter auch de
 А также (боги-)самодержцы (и) Ашвины.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

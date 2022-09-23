@@ -152,3 +152,12 @@ Dem Indra singt ein hohes Lied, dem hohen, dem begeisterten, Dem weisen, der die
 Творцу закона, прозорливцу, вызывающему удивление.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- उष्णिक्
+- ऋषभः
+</details>

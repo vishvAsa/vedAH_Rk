@@ -150,3 +150,12 @@ Drum hilf mit reichlichst spendender, mit herrlicher, mit eilender Beachtung und
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- विराड्गायत्री
+- षड्जः
+</details>

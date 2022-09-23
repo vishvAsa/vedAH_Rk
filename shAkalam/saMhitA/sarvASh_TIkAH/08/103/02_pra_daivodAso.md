@@ -196,3 +196,12 @@ Des Divodasa Agni hat mit Macht sich götterwärts gewandt Die Mutter Erd' entla
 Остановился на вершине небосвода.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

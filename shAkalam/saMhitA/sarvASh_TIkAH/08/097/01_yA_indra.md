@@ -191,3 +191,12 @@ Welch Heil, o Indra, du erwarbst von den Asuren, glänzender, Mit dem erquicke, 
 И (тех,) кто разложил для тебя жертвенную солому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- विराड्बृहती
+- मध्यमः
+</details>

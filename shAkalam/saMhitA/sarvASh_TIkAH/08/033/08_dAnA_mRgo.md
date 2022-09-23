@@ -214,3 +214,12 @@ Zum Schmause wie ein starkes Wild nimmt hier und dort hin er den Lauf; Dich hind
 Великий, ты странствуешь со (своею) силой.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

@@ -216,3 +216,12 @@ Ja, gross bist du, o Sonnengott, ja, o Aditja, gross bist du; deine, des grossen
 Ты, действительно, велик, о бог.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यः
+- जमदग्निभार्गवः
+- विराड्बृहती
+- मध्यमः
+</details>

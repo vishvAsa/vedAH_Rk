@@ -181,3 +181,12 @@ Ihr Götter, die bei uns ihr seid, und alle in der ganzen Welt, Erstrecket ausge
 Над нами, над коровой, над конем!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मनुर्वैवस्वतः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

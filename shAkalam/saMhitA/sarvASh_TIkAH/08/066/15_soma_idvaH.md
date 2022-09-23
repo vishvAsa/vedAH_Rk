@@ -202,3 +202,12 @@ Der Soma sei euch gepresst; fürchtet euch nicht, o Kali's, fort geht diese Verd
 Само собой пусть оно разойдется!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कलिः प्रगाथः
+- अनुष्टुप्
+- गान्धारः
+</details>

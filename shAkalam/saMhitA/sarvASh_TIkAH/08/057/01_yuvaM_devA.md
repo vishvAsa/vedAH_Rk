@@ -192,3 +192,12 @@ Ihr Götter kommt mit eurer alten Einsicht, o hehre, kraftgeschirrt an euren Wag
 Пейте это третье выжимание (сомы)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- मेध्यः काण्वः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

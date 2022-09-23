@@ -156,3 +156,12 @@ Denn, Schleuderer, wir wissen ja, welch Gut du allen Menschen schenkst, O wahrer
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- गायत्री
+- षड्जः
+</details>

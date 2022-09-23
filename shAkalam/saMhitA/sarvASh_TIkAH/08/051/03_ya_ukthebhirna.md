@@ -200,3 +200,12 @@ Den, welcher an Sprüchen keinen Mangel hat, den weisen, welcher den Dichter beg
 Как не причиняющего вреда, для вкушения.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

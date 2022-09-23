@@ -206,3 +206,12 @@ Der Reichthum, nach welchem jeder Arier hier und der schatzbehütende Barbar beg
 Только для тебя готовится это богатство.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

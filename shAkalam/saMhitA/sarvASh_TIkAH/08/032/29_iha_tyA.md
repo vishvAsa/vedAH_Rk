@@ -145,3 +145,12 @@ Ihn fahre seiner Füchse Paar, die Tischgenossen, goldbehaart, Zum vorgesetzten 
 Пусть прибудут на приготовленное угощение.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

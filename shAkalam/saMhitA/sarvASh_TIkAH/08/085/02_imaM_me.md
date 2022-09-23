@@ -153,3 +153,12 @@ O Ritter, dies mein Loblied hört, vernehmet diesen meinen Ruf, Zum Trunk des s�
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- निचृद्गायत्री
+- षड्जः
+</details>

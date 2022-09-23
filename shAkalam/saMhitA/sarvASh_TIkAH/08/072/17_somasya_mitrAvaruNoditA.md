@@ -153,3 +153,12 @@ Von Soma, Mitra-Varuna, nahm ich beim Sonnenaufgang mir, Das ist des Kranken Arz
 Это лекарство для больного.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- निचृद्गायत्री
+- षड्जः
+</details>

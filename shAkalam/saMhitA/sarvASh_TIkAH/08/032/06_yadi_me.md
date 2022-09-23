@@ -173,3 +173,12 @@ Wenn du an meinem Trank dich freust, an meinem Spruch Gefallen hast, So komm mit
 Приходи издалека по своему желанию!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

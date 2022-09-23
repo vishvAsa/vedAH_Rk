@@ -222,3 +222,12 @@ Da nun erhielt im Schooss des Somastromes der Tropfen funkelnd erst sein rechtes
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राबृहस्पती
+- तिरश्चीरद्युतानो वा मरुतः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

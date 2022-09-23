@@ -242,3 +242,12 @@ Zerspalte wie in alter Zeit, gleich wie des Dickichts Astgeflecht, Des Dämons K
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- भुरिग्जगती
+- निषादः
+</details>

@@ -200,3 +200,12 @@ Beim Soma preisen, guter, dich mit Spruch die Sänger um dich her, Wann kommst d
 О Индра, как бык, идущий по своим следам?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- बृहती
+- मध्यमः
+</details>

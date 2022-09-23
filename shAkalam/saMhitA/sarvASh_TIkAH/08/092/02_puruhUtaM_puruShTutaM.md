@@ -138,3 +138,12 @@ Der vielgerufen, vielgelobt, Gesänge leitet weitberühmt, »Das, das ist Indra�
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

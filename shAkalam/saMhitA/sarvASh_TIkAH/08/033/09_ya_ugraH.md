@@ -215,3 +215,12 @@ Wenn zu der Schlacht gerüstet er, der starke, nie gestürzte Held, Der mächt'g
 Индра не останется в стороне – он придет.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

@@ -210,3 +210,12 @@ Wenn die gepressten Tropfen ihm, dem lieben, haben Rausch gebracht, Dann wird di
 Словно дойные коровы пред(назначенные) для почитателя.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

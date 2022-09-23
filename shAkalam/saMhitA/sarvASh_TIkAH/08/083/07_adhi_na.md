@@ -141,3 +141,12 @@ Gedenket Indra, Vischnu doch, o Maruts, Ritter, recht daran, Wie nah mit euch ve
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कुसीदी काण्वः
+- स्वराडार्चीगायत्री
+- षड्जः
+</details>

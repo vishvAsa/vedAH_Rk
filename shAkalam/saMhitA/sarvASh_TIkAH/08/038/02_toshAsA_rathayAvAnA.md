@@ -156,3 +156,12 @@ Ihr Spender, wagenfahrende, ihr Vritratödter unbesiegt, O Indra-Agni achtet dra
 О Индра-Агни, помните об этом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- श्यावाश्वः
+- गायत्री
+- षड्जः
+</details>

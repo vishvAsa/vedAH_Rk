@@ -197,3 +197,12 @@ Wenn jetzt du in der Ferne weilst, im Himmel, auf der Erde hier, So spann, hochh
 Огромный приезжай на огромных (конях),
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

@@ -154,3 +154,12 @@ Von dort, o Indra, komme her mit Nahrung zu uns, die erlabt Uns hundertfach und 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

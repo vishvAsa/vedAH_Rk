@@ -192,3 +192,12 @@ Wie hunderschneid'ge Pfeile unbezwinglich sind Indra's Geschosse, mächtig gross
 Когда опьянили его выжатые соки.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- पङ्क्तिः
+- पञ्चमः
+</details>

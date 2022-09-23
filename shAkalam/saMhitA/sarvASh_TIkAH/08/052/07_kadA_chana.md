@@ -236,3 +236,12 @@ Nimmer bist du fern; du schützest beide Geschlechter [Götter und Menschen]; o 
 Поднялся как напиток бессмертия на небо.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

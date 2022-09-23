@@ -184,3 +184,12 @@ Mit Liedern wollen wir, o Indra, dienen dir, sei unser, der du vieles wirkst; La
 Для Прасканвы, (дар,) которого не придется стыдится!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मातरिश्वा काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

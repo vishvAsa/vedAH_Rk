@@ -175,3 +175,12 @@ Dem Indra singt ein hohes Lied, Maruts, ein Feind vernichtendes, Wodurch das Lic
 Богу – божественный, бодрый.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- बृहती
+- मध्यमः
+</details>

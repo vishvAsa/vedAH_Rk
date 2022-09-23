@@ -206,3 +206,12 @@ Wer weiss es, wenn beim Somasaft er schwelget, welche Kraft er nimmt? Er, der di
 Когда прекрасногубый опьяняется соком,
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

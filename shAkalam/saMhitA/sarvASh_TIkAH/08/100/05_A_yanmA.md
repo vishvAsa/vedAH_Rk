@@ -244,3 +244,12 @@ Wenn mich bestieg des heil'gen Werks Verlangen, der einsam auf des Himmels Höh'
 Кричали друзья (мои) вместе с детьми.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- त्रिष्टुप्
+- धैवतः
+</details>

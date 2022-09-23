@@ -142,3 +142,12 @@ Den reinen, der drei Sitze hat, der Kinder schafft, ihn trinken stets Varuna, Mi
 Имеющего три жилища, дающего потомство.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- गायत्री
+- षड्जः
+</details>

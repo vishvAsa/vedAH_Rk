@@ -211,3 +211,12 @@ Sich wendend wie zur Sonne hin empfangen Indra's Güter sie; Wenn der geborne ne
 Мы представляем себе блага как (нашу) долю.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- निचृद्बृहती
+- गान्धारः
+</details>

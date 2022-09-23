@@ -142,3 +142,12 @@ O kommt in des Verehrers Haus, der, Ritter, euch von Herzen preist, Zum Trunk de
 Чтобы пить сладкого сому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णः
+- गायत्री
+- षड्जः
+</details>

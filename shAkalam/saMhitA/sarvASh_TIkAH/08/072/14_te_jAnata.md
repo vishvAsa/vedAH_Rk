@@ -162,3 +162,12 @@ Sie kennen wohl ihr eignes Haus, sie paaren mit den Schwestern sich, Wie Kälber
 Попеременно они соединяются с собратьями.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- निचृद्गायत्री
+- षड्जः
+</details>

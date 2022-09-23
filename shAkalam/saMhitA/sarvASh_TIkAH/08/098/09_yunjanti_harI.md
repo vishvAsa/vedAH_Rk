@@ -163,3 +163,12 @@ Sie schirren an des weiten Wagens weites Joch mit Sang des Raschen Füchse an, D
 (Коней,) возящих Индру, запрягаемых (одним) словом.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- निचृदुष्णिक्
+- ऋषभः
+</details>

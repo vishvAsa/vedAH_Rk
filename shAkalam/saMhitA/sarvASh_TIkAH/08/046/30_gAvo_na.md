@@ -145,3 +145,12 @@ Wie Rinder zur Heerde kommen mir herbei verschnittene [Ochsen?], herbei kommen z
 Ко мне приближаются холощеные.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वशोऽश्व्यः
+- आर्चीस्वराड्गायत्री
+- षड्जः
+</details>

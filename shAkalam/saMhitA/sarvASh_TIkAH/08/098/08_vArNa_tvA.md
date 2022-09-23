@@ -170,3 +170,12 @@ Wie Wasser, das in Strömen geht, erlaben, Held, Gebete dich, Der du erwächst, 
 камней.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- विराडुष्निक्
+- ऋषभः
+</details>

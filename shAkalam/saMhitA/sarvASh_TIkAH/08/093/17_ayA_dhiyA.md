@@ -155,3 +155,12 @@ Durch diese Bitte voll Begier, vielnam'ger, vielgepriesener, So oft beim Soma du
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- सुकक्षः
+- गायत्री
+- षड्जः
+</details>

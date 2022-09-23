@@ -158,3 +158,12 @@ Auf, Priester, giesse Soma zu dem Mann, der schon die Lippen spitzt, Und reich d
 Принеси выжатого (сока) для питья!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

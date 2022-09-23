@@ -200,3 +200,12 @@ Der Presser presse dir, ein Stier, vordringend bringe Gut, o Stier, Es rinnt der
 Для тебя, о правящий парой буланых коней.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

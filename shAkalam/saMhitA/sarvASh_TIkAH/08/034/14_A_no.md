@@ -172,3 +172,12 @@ Erschliess, o Held, uns den Besitz von Tausenden an Ross und Rind; Von jenes Her
 Вы отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

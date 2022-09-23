@@ -180,3 +180,12 @@ Auf, eurem hohen Indra singt, o Maruts, ein erhabnes Lied, Den Vritra schlag der
 Ваджрой с сотней сочленений.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- निचृद्बृहती
+- मध्यमः
+</details>

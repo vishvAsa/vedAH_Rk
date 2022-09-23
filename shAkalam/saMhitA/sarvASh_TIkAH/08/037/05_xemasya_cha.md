@@ -204,3 +204,12 @@ Denn du gebietest über Frieden über Krieg, o Herr der Kraft, mit allen Hülfen
 Испей сомы, о громовержец!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- निचृज्जगती
+- निषादः
+</details>

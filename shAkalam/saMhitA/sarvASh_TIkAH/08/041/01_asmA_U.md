@@ -227,3 +227,12 @@ Ich singe diesem Varuna, dem mächt'gen und der Marutschar, den weisheitsreichen
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- नाभाकः काण्वः
+- त्रिष्टुप्
+- धैवतः
+</details>

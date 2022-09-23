@@ -237,3 +237,12 @@ Den Somapresser [Sänger in 657, 7] Çjāva-açva höre so, wie du einst den Atr
 О Индра, укрепляя священные слова.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्यावाश्वः
+- विराड्जगती
+- निषादः
+</details>

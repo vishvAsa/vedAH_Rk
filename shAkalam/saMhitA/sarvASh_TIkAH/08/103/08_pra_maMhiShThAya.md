@@ -138,3 +138,12 @@ Wohlan, besingt den gabenreichsten, heiligen, den hohen, hellerstrahlenden, Den 
 Высокому Агни с чистым пламенем!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- निचृदुष्णिक्
+- ऋषभः
+</details>

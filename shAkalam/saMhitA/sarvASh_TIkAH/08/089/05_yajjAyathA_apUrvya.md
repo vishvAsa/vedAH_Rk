@@ -174,3 +174,12 @@ Als, unerreichter, du entsprangst, o mächtiger, zum Vritrakampf, Da dehntest du
 То укрепил также небо.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- विराडनुष्टुप्
+- गान्धारः
+</details>

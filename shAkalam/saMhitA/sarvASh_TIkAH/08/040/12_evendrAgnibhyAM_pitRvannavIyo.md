@@ -216,3 +216,12 @@ So ist dem Indra und Agni aufs neue gesungen nach der Väter Art, nach des Mandh
 Да будем мы повелителями богатств!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

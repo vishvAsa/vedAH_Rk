@@ -133,3 +133,12 @@ Hundert Esel, hundert wollenreiche Schafe, hundert Sklaven, dazu Blumenkränze.
 Сотню дасов, сверх того - гирлянды.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रस्कण्वस्य दानस्तुतिः
+- पृषध्रः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

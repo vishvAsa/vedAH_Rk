@@ -215,3 +215,12 @@ Als er, der kräftig mit Keulenschlägen den Wasserschlauch erlangte, und Çusch
 Вот тогда и земной обитатель родился.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

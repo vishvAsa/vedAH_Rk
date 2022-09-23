@@ -182,3 +182,12 @@ Mit den verbundnen, gleichen komm, der du verbund'ne Rosse lenkst; Von jenes Her
 Вы отправились на небо, о Дивавасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नीपातिथिः काण्वः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

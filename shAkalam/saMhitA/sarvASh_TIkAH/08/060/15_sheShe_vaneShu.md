@@ -190,3 +190,12 @@ In Hölzern, deiner Mutter Schooss, liegst du, dich zünden Menschen an; Des Opf
 Так правишь ты среди богов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भर्गः प्रागाथः
+- निचृद्बृहती
+- मध्यमः
+</details>

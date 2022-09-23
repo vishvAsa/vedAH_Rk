@@ -246,3 +246,12 @@ Dies mein frommes Werk, o Indra, glänzender Held, möge mich schützen; wie üb
 Из (своего) многообразного желанного богатства, о царь?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- रेभः काश्यपः
+- ककुम्मतीजगती
+- निषादः
+</details>

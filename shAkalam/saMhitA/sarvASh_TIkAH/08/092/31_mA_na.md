@@ -175,3 +175,12 @@ Nicht ziele bei der Sonne Strahl auf uns, o Indra, böse List, Durch deine Huld 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- पादनिचृद्गायत्री
+- षड्जः
+</details>

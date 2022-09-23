@@ -146,3 +146,12 @@ O mache uns an Rossen reich, an Rindern und an Goldbesitz, Uns werde Labetrunk z
 Пусть нам достанутся освежающие струи!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -182,3 +182,12 @@ Du Indra bist voll hoher Macht, der Sonne hast du Licht verliehn, Allwirkend du,
 Ты всеобщий творец, всеобщий бог, ты велик.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- ककुम्मत्युष्णिक्
+- ऋषभः
+</details>

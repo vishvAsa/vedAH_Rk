@@ -255,3 +255,12 @@ Ihn schärfet durch der Lieder Drang, den kühnen, starken, preislichen, Und er,
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- निचृज्जगती
+- निषादः
+</details>

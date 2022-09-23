@@ -228,3 +228,12 @@ Wahr ist auch, Indra-Varuna des Kriçna Wort: »Die sieben Quellen sprudeln süs
 (Тому) безобманному, кто следит за вами в мыслях.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- सुपर्णः काण्वः
+- निचृज्जगती
+- निषादः
+</details>

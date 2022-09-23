@@ -225,3 +225,12 @@ Wenn Indra-Agni, diese hier euch rufen mit beständ'gem Preis, So lasst durch un
 Пусть лопнут все ничтожные другие!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- नाभाकः काण्वः
+- जगती
+- निषादः
+</details>

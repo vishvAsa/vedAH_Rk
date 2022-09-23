@@ -206,3 +206,12 @@ Du wahrlich bist ein rechter Stier, mit Stieres Andrang, ungehemmt, Als Stier, o
 Как бык известен вблизи.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

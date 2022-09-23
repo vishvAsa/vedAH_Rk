@@ -236,3 +236,12 @@ Alle deine Thaten sind bei den Somafesten zu preisen, die du, o mächtiger Indra
 Ты открыл для Шарабхи, родственника риши.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- निचृज्जगती
+- निषादः
+</details>

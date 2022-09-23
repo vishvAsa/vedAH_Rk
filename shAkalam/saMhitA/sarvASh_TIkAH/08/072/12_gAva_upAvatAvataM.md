@@ -157,3 +157,12 @@ Erfrischt, ihr Kühe, diesen Born, gross ist des Opfers Becherpaar, Die beiden H
 Оба уха золотые.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्हर्वीषि वा
+- हर्यतः प्रागाथः
+- गायत्री
+- षड्जः
+</details>

@@ -223,3 +223,12 @@ Der unbesiegbar, rühmenswerth, allreicher du, in allen Kämpfen Sieger ist; O k
 Мы хотим отправиться к загону, полному коров!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वशोऽश्व्यः
+- स्वराड्बृहती
+- मध्यमः
+</details>

@@ -221,3 +221,12 @@ Da bin ich, o Sänger, sieh mich hier! Alle Geschöpfe überrage ich an Größe.
 Проломитель, я проламываю миры.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

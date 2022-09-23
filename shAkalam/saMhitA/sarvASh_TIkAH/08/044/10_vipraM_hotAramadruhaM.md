@@ -149,3 +149,12 @@ Den weisen holden Opferer, den rauchumwallten, strahlenden, Des Opfers Fahne geh
 Знамя жертв – мы умоляем (его).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विरूप आङ्गिरसः
+- गायत्री
+- षड्जः
+</details>

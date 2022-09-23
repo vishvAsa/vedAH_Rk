@@ -192,3 +192,12 @@ Vor welchem bebt der Völker Schar, wenn seine Werke er vollbringt, Der wie beim
 Завоевывающего тысячу, словно себе самому добычу в виде мудрости!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोभरिः काण्वः
+- विराड्बृहती
+- मध्यमः
+</details>

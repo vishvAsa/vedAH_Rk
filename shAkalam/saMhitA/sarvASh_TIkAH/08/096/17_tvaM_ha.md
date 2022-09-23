@@ -231,3 +231,12 @@ Du zeigtest jene unerreichte Stärke, als kühn du Blitzer mit dem Blitze schlug
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- तिरश्चीरद्युतानो वा मरुतः
+- पङ्क्तिः
+- पञ्चमः
+</details>

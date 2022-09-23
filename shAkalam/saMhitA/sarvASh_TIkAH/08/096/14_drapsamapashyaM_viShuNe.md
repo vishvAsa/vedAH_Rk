@@ -246,3 +246,12 @@ Ich sah den Tropfen wandern in der Ferne im Niedergang des somareichen Stromes; 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रः, मरुतः
+- तिरश्चीरद्युतानो वा मरुतः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -184,3 +184,12 @@ Wie du, o starker, bei dem Manu, dem Sohne des Vivasvat, den gepressten Soma get
 (Так) опьяняешься ты вместе с Аю.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

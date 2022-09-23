@@ -198,3 +198,12 @@ Dir, Indra, wird Gebet gebracht, liedfroher, unvergleichlicher Nimm, Füchselenk
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधपुरुमेधौ
+- विराड्बृहती
+- मध्यमः
+</details>

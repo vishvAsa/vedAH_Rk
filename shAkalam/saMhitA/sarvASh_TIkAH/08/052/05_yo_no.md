@@ -228,3 +228,12 @@ Der uns Gaben zutheilt, der ist unser Vater, der grosse, gewaltige, der als mäc
 Пусть дарит нам корову (и) коня!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- बृहती
+- मध्यमः
+</details>

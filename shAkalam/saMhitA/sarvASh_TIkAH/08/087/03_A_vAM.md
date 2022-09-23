@@ -186,3 +186,12 @@ Die Prijamedha's luden euch durch aller Art Genüsse ein, So kommt zur Stätte d
 У (человека,) разложившего жертвенную солому во время жертвоприношений, ищущих неба!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा
+- बृहती
+- मध्यमः
+</details>

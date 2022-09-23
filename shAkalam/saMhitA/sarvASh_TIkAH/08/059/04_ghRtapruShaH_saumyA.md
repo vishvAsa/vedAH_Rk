@@ -206,3 +206,12 @@ Von Butter trieft, von Tränken strömt im Sitz des Rechts der sieben Schwestern
 Ради них дайте (богатство), поддержите жертвователя!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- सुपर्णः काण्वः
+- विराड्जगती
+- निषादः
+</details>

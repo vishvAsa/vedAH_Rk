@@ -188,3 +188,12 @@ Den hehren, starken preis' ich nun zur Hülfe mir, der vieles schenkt, Der vielb
 Желанное добро, словно тысячей (награждает).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- पुष्टिगुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

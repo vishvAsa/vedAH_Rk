@@ -199,3 +199,12 @@ Als kleiner, zarter Knabe schon bestieg den neuen Wagen er; Dem Vater und der Mu
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- प्रियमेधः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

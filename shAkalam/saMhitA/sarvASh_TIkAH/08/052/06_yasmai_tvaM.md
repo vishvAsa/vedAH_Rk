@@ -191,3 +191,12 @@ Wem du, o guter, Geschenke ertheilst, derför dert seines Reichthums Blüte; nac
 Индру мы зовем восхвалениями.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- आयुः काण्वः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

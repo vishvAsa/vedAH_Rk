@@ -152,3 +152,12 @@ Was regten sich die glänzenden? die reingesinnten strömen hin Wie Wasser durch
 Неудачи, наделенные чистой силой действия.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- गायत्री
+- षड्जः
+</details>

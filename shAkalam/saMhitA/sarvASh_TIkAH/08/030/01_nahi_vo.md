@@ -156,3 +156,12 @@ Kein kleiner weilet unter euch, o Götter, und kein zartes Kind, Ihr alle seid a
 Все (вы) одинаково великие.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- मनुर्वैवस्वतः
+- निचृद्गायत्री
+- षड्जः
+</details>

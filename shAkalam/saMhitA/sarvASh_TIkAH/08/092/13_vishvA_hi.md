@@ -136,3 +136,12 @@ Es ist ja aller Menschen Art begehrlich, o vielwirkender, Uns kam das Wünschen 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुतकक्षः सुकक्षो वा
+- विराड्गायत्री
+- षड्जः
+</details>

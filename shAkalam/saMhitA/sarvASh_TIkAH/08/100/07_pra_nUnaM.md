@@ -209,3 +209,12 @@ Strömt nun hervor [ihr Wasser] hier und dort; er ist nicht mehr da, der euch so
 Индра запустил дубиной.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नेमो भार्गवः
+- अनुष्टुप्
+- गान्धारः
+</details>

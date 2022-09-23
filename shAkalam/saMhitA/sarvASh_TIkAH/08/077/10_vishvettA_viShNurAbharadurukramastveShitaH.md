@@ -220,3 +220,12 @@ Alles dies brachte der von dir gesandte weitschreitende Vischnu herbei, hundert 
 Кабана Эмушу, о Индра.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कुरुसुतिः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

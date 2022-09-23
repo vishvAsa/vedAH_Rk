@@ -200,3 +200,12 @@ In Schlachten überwindest du, o Indra, aller Feinde Schar, Den Bösen schlagend
 Победи ты тех, кто хочет победить!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- नृमेधः
+- पाद्निचृद्बृहती
+- गान्धारः
+</details>

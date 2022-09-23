@@ -168,3 +168,12 @@ Wie du, o Indra, bei dem Manu, dem Nachkommen des Samvarana, den gepressten Soma
 У Пуштигу вместе с Шруштигу…
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- श्रुष्टिगुः काण्वः
+- निचृद्बृहती
+- मध्यमः
+</details>

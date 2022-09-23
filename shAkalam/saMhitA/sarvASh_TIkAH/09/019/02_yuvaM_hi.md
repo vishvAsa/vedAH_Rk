@@ -159,3 +159,12 @@ Denn ihr, o Indra, Soma, seid des Himmels und der Heerden Herrn, Als Herrscher s
 Сделайте (наши) мысли набухшими, (вы, которые) могут (это)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- असितः काश्यपो देवलो वा
+- निचृद्गायत्री
+- षड्जः
+</details>

@@ -161,3 +161,12 @@ Die Kuh, die nach der Nahrung lechzt, der reichen Maruts Mutter trinkt, Zum Zieh
 Возница колесниц, запряженная (в колесницы),
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- बिन्दुः पूतदक्षो वा
+- विराड्गायत्री
+- षड्जः
+</details>
