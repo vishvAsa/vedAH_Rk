@@ -269,12 +269,12 @@ Den Agni preis' ich, der's verdient, will opfern ihm mit Labetrunk; Die Götter 
 भावार्थभाषाः -  रोगी और अनाथादि सबसे प्रथम द्रष्टव्य और पालनीय है ॥८॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 पुनस्तदेवाह।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे इन्द्राग्नी ! युवाम्। सुन्वतः=कर्माणि कुर्वतः। श्यावाश्वस्य=रुग्णेन्द्रियस्य। अत्रीणाम्=अनाथानाञ्च। हवम्=आह्वानम्। शृणुतम्। तथा सोमपीतये। आगच्छतम् ॥८॥
 </details>

@@ -148,12 +148,12 @@ Dem ew'gen Wesenkenner ihm, der durch das Dunkel sichtbar ist, Der preisenswerth
 भावार्थभाषाः -  ईश्वर को निज मित्र जान उससे प्रेम करें और उसी की आज्ञा पर चलें ॥२॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 तस्य महत्त्वं दर्शयति।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हविष्मन्तः=हविरादिसाधनसंपन्नाः। जनासः=जनाः। प्रशस्तिभिः। प्रस्तवैः। सर्पिरासुतम्=घृतक्षीरादिवस्तुजनकम्। मित्रं+न=मित्रमिव यमीशं प्रशंसन्ति ॥२॥
 </details>

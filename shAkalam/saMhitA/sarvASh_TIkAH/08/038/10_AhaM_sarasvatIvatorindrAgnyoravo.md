@@ -176,12 +176,12 @@ Ich flehe die Hülfe der von Sarasvati begleiteten Indra und Agni an, welchen di
 भावार्थभाषाः -  राजा सदा धनसंग्रह करें और प्रजा के कार्य्य में उद्यत रहें ॥७॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 पुनस्तदेवाह।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे जेन्यावसू=जययुक्तधनौ यद्वा जेतव्यशत्रुधनौ। इन्द्राग्नी युवाम्। प्रातर्यावभिः=प्रातर्गमनकारिभिः। देवेभिः=देवैः सह। सोमपीतये। आगतम् ॥७॥
 </details>

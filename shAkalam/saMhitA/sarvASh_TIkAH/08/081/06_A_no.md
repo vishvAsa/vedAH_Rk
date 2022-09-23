@@ -206,12 +206,12 @@ Bring uns Schätze mit der Rechten, greife zu mit deiner Linken, Theile Gut uns 
 भावार्थभाषाः -  वह ईश्वर सबसे बलवान् है और अपने कार्य्य में परम स्वतन्त्र है, अतः वहाँ किसी की शक्ति काम नहीं करती ॥३॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 तस्य महत्त्वं दर्शयति।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे शूर ! दित्सन्तम्=दातुमिच्छन्तम्। त्वा देवाः। नहि वारयन्ते। न च मर्तासो मनुष्याः। न=यथा। भीमं गां वृषभं न वारयन्ते ॥३॥
 </details>

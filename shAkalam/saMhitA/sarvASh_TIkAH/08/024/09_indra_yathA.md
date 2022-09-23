@@ -191,12 +191,12 @@ Denn wie dir unbezwungne Kraft, o vielgerufner Indra, ist, So sei dem Frommen un
 भावार्थभाषाः -  उसका बल और दान दोनों अविनश्वर हैं ॥९॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 तस्य दानं दर्शयति।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे नृतो=जगन्नर्तक ! हे पुरुहूत=पुरुभिः संपूजित ! यथा। ते=तव। शवः=शक्तिः=सामर्थ्यम्। अपरीतम्+हि+अस्ति। अविनाशितमस्ति। तथा। दाशुषे=भक्तजनं प्रति। तव। रातिर्दानमपि। अमृक्ता=अहिंसिता ॥९॥
 </details>

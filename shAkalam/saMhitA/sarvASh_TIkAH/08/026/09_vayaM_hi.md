@@ -200,12 +200,12 @@ Denn wie Viaçva rufen wir wie Stiere brüllend euch herbei, O kommt hierher, ih
 टिप्पणी:   ॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 पुनस्तदेवाह।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे अश्विनौ ! उक्षण्यन्तः=उक्षाणौ=धनादिवर्षणकर्त्तारौ। युवाम्। आत्मन इच्छन्तो वयम्। हि। व्यश्ववत्=जितेन्द्रियर्षिवत्। वां हवामहे। हे विप्रौ=मेधाविनौ ! युवाम्। सुमतिभिः। इह। उपागतम्=उपागच्छतम् ॥९॥
 </details>

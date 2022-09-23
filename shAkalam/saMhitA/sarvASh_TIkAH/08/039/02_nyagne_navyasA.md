@@ -270,12 +270,12 @@ Aufs neue, Agni, stürz herab das Fluchwort auf ihr eignes Haupt, Herab der From
 भावार्थभाषाः -  राजा को उचित है कि विद्वानों और मूर्खों, दोनों की विनती ध्यान से सुनें ॥९॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 पुनस्तदेवाह।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे इन्द्राग्नी ! यथा। मेधिराः=मेधाविनः। वाम्। अहुवन्त=आह्वयन्ति। एवमहमपि। ऊतये=साहाय्याय। सोमपीतये च। अह्वे=आह्वयामि ॥९॥
 </details>

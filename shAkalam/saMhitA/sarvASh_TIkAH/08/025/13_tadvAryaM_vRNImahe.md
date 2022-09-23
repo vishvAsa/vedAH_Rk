@@ -184,12 +184,12 @@ Dies schönste Gut erwählen wir, das beste, wohl zu schirmende, Was Mitra schü
 भावार्थभाषाः -  जिससे अपना और दूसरों का उपकार और हित हो, वह धन उपार्जनीय है ॥१३॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 कीदृशं धनं संचेतव्यमिति दर्शयति।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  तद्धनं वयं वृणीमहे। यद् वरिष्ठम्=अतिशयेन वरम्। पुनः। गोपयत्यम्=सर्वेषां पालकम्। पुनर्यद्धनं मित्रो वरुणोऽर्य्यमा च पान्ति ॥१३॥
 </details>

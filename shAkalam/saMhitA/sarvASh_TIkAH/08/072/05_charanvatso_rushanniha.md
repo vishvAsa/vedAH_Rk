@@ -176,12 +176,12 @@ Das Kalb, das leuchtend wandert hier, hat keinen der es binde an, Die Mutter geh
 भावार्थभाषाः -  होता कुछ उच्च आसन पर बैठ ईश्वर का ध्यान करे ॥२॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 होतृकार्य्यं दर्शयति।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  होता। अस्येश्वरस्य। सख्यं+जुषाणः=सेवमानः सन्। मनौ+अधि=मनुष्याणामुपरि स्थाने आसने। तिग्मम्। अंशुम्=अग्निमभि। निसीदत्=उपविशतु ॥२॥
 </details>

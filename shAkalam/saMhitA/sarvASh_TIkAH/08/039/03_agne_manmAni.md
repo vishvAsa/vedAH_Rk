@@ -281,12 +281,12 @@ Ich giesse die Gebete dir wie Butter, Agni, in den Mund; So zeige bei den Götte
 भावार्थभाषाः -  प्रजाजन राजा के निकट साहाय्यार्थ याचना करे ॥१०॥
 </details>
 
-<details><summary>शिव शंकर शर्मा - विषयः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
 
 विद्वांसौ राजदूतावादरणीयौ।
 </details>
 
-<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+<details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  याभ्यामिन्द्राग्नीभ्याम्। गायत्रं साम। ऋच्यते=स्तूयते। तयोः। सरस्वतीवतोः=विद्यावतोः इन्द्राग्न्योः अवः=रक्षणम्। अहमावृणै=याचे ॥१०॥
 </details>
