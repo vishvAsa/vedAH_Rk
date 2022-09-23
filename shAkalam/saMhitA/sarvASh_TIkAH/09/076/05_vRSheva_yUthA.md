@@ -221,3 +221,12 @@ Du strömst ins Fass, wie auf die Heerde stürzt der Bull; im Schoosse der Gewä
 Чтобы мы победили в бою с твоей помощью.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कविः
+- निचृज्जगती
+- निषादः
+</details>

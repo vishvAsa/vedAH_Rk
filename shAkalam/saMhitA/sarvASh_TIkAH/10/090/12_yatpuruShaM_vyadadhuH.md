@@ -199,3 +199,12 @@ Sein Mund ward zum Brahmanen, seine Arme zum Rādschanja, seine Schenkel zum Vai
 Из ног родился шудра.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरुषः
+- नारायणः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

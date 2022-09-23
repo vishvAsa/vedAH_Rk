@@ -206,3 +206,12 @@ Zum Anschaun lieblich wie ein nahrungsreicher Sitz, glückbringend ist der präc
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- गयः प्लातः
+- विराड्जगती
+- निषादः
+</details>

@@ -216,3 +216,12 @@ Dies singen dir, o Indra, auch die Menschen, um sich den rinderreichen Stall zu 
 Приносящую многих сыновей, струящуюся в тысячу потоков, высокую.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गौरिवीतिः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

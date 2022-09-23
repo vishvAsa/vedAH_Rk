@@ -220,3 +220,12 @@ Als schön geflügelte Vögel umsassen den Indra die flehenden Sänger, die Prij
 Освободи нас, как (освобождают) связанных петлей!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गौरिवीतिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

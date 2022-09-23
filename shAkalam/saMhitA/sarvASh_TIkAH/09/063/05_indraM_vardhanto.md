@@ -157,3 +157,12 @@ Den Indra stärkend, rasch im Werk, verschaffend, was der Arjer wünscht, Verjag
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- निध्रुविः काश्यपः
+- विराड्गायत्री
+- षड्जः
+</details>

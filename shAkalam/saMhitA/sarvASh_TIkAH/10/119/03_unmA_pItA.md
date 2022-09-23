@@ -160,3 +160,12 @@ Die Tränke haben mich erregt, wie schnelle Rosse das Gefährt; Hat mich der Som
 Не напился ли я сомы?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आत्मस्तुतिः
+- लबः ऐन्द्रः
+- गायत्री
+- षड्जः
+</details>

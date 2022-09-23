@@ -175,3 +175,12 @@ Ein Schützer sei auf jedem Weg uns Puschan, der mit Ziegen fährt; Er schenke h
 Пусть наделит он нас девицами!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः पूषा वा
+- अत्रिः
+- यवमध्यागायत्री
+- षड्जः
+</details>

@@ -219,3 +219,12 @@ Nur der geniesset recht, der Armen mittheilt, die Dürft'gen speiset, die nach S
 И на будущее приобретет друга.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

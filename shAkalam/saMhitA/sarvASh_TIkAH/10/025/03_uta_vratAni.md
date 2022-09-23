@@ -236,3 +236,12 @@ Verletz' ich auch aus Unverstand, o Soma, je dein heilig Recht, So schenk die St
 В опьянении (сомой) я хочу вам (это) провозгласить!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सोमः
+- विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः
+- निचृदार्षीपङ्क्ति
+- पञ्चमः
+</details>

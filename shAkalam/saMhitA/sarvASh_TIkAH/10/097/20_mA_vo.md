@@ -187,3 +187,12 @@ Nicht nehme Schaden wer euch gräbt, noch der, für den ich grabe euch; Was zwei
 Да будут все здоровы!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- औषधीस्तुतिः
+- भिषगाथर्वणः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

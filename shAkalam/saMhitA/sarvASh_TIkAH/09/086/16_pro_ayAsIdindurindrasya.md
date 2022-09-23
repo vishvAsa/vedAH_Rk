@@ -245,3 +245,12 @@ Zum Ort des Indra ist der Indu vorgeeilt, der Freund verschmähet seines Freunde
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- सिकता निवावारी
+- निचृज्जगती
+- निषादः
+</details>

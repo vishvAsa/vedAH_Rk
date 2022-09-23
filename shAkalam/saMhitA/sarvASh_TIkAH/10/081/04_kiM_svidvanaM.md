@@ -238,3 +238,12 @@ Was war der Wald, und was war jener Baum doch, aus dem sie Erd' und Himmel schö
 На чем стоял он, укрепляя миры?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वकर्मा
+- विश्वकर्मा भौवनः
+- स्वराट्त्रिष्टुप्
+- धैवतः
+</details>

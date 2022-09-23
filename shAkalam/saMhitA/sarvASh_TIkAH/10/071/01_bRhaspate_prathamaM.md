@@ -241,3 +241,12 @@ Brihaspati! als einst die Namengeber des Wortes ersten Anfang vorwärts brachten
 Это тайно сокрытое в них проявилось с помощью любви.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ज्ञानम्
+- बृहस्पतिः
+- त्रिष्टुप्
+- धैवतः
+</details>

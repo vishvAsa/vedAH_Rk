@@ -227,3 +227,12 @@ Und er, durch alte Jugendkraft gereinigt, und seiner Tochter Glanzgestalt verdun
 Как хотар, он ходит в жертвенных собраниях, распевая.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कुत्सः
+- त्रिष्टुप्
+- धैवतः
+</details>

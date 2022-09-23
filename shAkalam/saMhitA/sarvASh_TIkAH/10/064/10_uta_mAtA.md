@@ -217,3 +217,12 @@ Brihaddiva die Mutter höre unser Wort, der Vater Tvaschtar mit den Göttern und
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- गयः प्लातः
+- निचृज्जगती
+- निषादः
+</details>

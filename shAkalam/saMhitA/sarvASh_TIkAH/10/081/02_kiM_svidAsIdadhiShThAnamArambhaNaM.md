@@ -219,3 +219,12 @@ Was war der Standort, was der feste Haltpunkt, an welchem Orte war's, auf welche
 Открыл небо (своим) величием, (этот) все охватывающий взглядом?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वकर्मा
+- विश्वकर्मा भौवनः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

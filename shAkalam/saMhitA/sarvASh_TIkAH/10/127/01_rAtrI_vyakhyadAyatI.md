@@ -166,3 +166,12 @@ Schon naht die Nacht, die Göttin schaut aus ihren Augen überall Mit allem Schm
 Она надела на себя все украшения.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- रात्रिस्तवः
+- कुशिकः सौभरो, रात्रिर्वा भारद्वाजी
+- विराड्गायत्री
+- षड्जः
+</details>

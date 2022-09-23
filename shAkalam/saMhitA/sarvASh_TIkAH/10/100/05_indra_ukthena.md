@@ -220,3 +220,12 @@ Indra empfing mit Spruch und Kraft das Somakraut; Brihaspati, du dehnest unser L
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- दुवस्युर्वान्दनः
+- निचृज्जगती
+- निषादः
+</details>

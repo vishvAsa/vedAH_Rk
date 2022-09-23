@@ -226,3 +226,12 @@ Du fährst, o Indra, zu des Himmels lichtem Raum und dem der Erde, vielgerufner,
 Те должны легко покорить болтливых скупцов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कवष ऐलूषः
+- विराड्जगती
+- निषादः
+</details>

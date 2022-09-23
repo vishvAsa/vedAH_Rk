@@ -240,3 +240,12 @@ Der Pflug schafft Nahrung nur, wenn er das Land pflügt; geht auf den Weg er, st
 Дарящий друг превосходит не дарящего.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -236,3 +236,12 @@ Das Opfer, das nach allen Seiten durch seine Fäden ausgespannt, und durch hunde
 Они сидят возле протянутой (жертвы, говоря) так: Тки вперед! Тки назад!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- भाववृत्तम्
+- यज्ञः प्राजापत्यः
+- विराड्जगती
+- निषादः
+</details>

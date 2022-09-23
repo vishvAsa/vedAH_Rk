@@ -240,3 +240,12 @@ Die Pfade brach zu deinem Gange Varuna, als du, o Sindhu, liefest zu des Kampfes
 Ты, устремляешься во главе этих движущихся (рек).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नद्यः
+- सिन्धुक्षित्प्रैयमेधः
+- विराड्जगती
+- निषादः
+</details>

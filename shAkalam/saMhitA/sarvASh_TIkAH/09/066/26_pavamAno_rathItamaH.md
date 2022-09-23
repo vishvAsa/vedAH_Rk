@@ -150,3 +150,12 @@ Der flammende, bestfahrende, sehr glänzend mit den glänzenden, Marut-umschart,
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- शतं वैखानसाः
+- गायत्री
+- षड्जः
+</details>

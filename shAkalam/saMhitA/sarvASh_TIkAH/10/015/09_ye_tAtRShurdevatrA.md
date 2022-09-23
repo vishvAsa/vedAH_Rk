@@ -202,3 +202,12 @@ Die bei den Göttern sitzend, lechzend dürsten, die Opfer kennend, mit Gesang g
 С истинными кавья, сидящими вокруг горячего молока!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पितरः
+- शङ्खो यामायनः
+- त्रिष्टुप्
+- धैवतः
+</details>

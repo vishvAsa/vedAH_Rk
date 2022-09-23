@@ -202,3 +202,12 @@ Devapi, Rischtischena's Sohn, der Dichter, sass nieder und erfuhr die Gunst der 
 Небесные дождевые воды.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- देवाः
+- देवापिरार्ष्टिषेणः
+- त्रिष्टुप्
+- धैवतः
+</details>

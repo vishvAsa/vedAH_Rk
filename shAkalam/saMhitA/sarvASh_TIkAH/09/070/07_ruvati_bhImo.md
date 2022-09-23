@@ -232,3 +232,12 @@ Es brüllt der Stier, der schreckliche, mit Ungestüm, die goldnen Hörner wetze
 Шкура бывает коровьей, праздничный наряд овечьим.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- रेनुर्वैश्वामित्रः
+- जगती
+- निषादः
+</details>

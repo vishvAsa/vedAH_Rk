@@ -177,3 +177,12 @@ Dem Indra rieselt zum Genuss der segensreiche Trank herbei, Und Soma hat des Sie
 Сома разбирается в победе, как она происходит.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- अग्निश्चाक्षुषः
+- उष्णिक्
+- ऋषभः
+</details>

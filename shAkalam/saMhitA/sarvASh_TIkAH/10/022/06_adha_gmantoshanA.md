@@ -205,3 +205,12 @@ Da fragt man eifrig euch die beiden eilenden: Was heischend kommt ihr uns ins Ha
 С неба и с земли – к смертному.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

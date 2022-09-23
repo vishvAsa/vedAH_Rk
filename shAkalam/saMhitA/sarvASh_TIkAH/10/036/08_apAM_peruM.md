@@ -212,3 +212,12 @@ Den Flutdurchdringer, Lebensschaffer bringen wir, der Götter Lust, des Opfers S
 Сегодня мы просим об этой милости богов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- लुशो धानाकः
+- निचृज्जगती
+- निषादः
+</details>

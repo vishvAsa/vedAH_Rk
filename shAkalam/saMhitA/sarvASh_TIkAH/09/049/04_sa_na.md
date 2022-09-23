@@ -161,3 +161,12 @@ Zu unsrer Stärkung fliesse nun im Strome durch das wollne Sieb, Die Götter mö
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कविभार्गवः
+- निचृद्गायत्री
+- षड्जः
+</details>

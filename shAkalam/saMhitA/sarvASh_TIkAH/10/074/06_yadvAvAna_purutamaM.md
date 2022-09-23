@@ -231,3 +231,12 @@ Weil ewig siegreich er den steten Feind schlug, macht Indra wahr des Vritratödt
 Что мы хотим, чтоб он сделал, пусть он сделает это!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गौरिवीतिः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

@@ -249,3 +249,12 @@ Dein goldnes Rosspaar preis' ich nun beim grossen Fest, und rühme deinen holden
 Тобою, чей вид золотистый, пусть овладеют хвалебные песни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- हरिस्तुतिः
+- बरुः सर्वहरिर्वैन्द्रः
+- जगती
+- निषादः
+</details>

@@ -210,3 +210,12 @@ Zerschlitz die Haut des Zauberers, o Agni, der Todespfeil durchbohr ihn mit der 
 Пожиратель сырого мяса, жадный до сырого мяса, пусть гложет разрубленного по кусочкам!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -223,3 +223,12 @@ Leg an die obern und die untern Zähne, versehn mit beiden, angefacht, verwunden
 Хватай колдунов челюстями!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

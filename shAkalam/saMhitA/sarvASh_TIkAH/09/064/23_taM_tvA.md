@@ -167,3 +167,12 @@ Rings schmücken die verehrenden, die liederkund'gen Sänger dich, Es läutern d
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कश्यपः
+- निचृद्गायत्री
+- षड्जः
+</details>

@@ -226,3 +226,12 @@ Der Trank sei reichlich, Indra setz sich auf die Streu, Brihaspati, der Sänger,
 Сегодня мы просим об этой милости богов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- लुशो धानाकः
+- जगती
+- निषादः
+</details>

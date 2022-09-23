@@ -195,3 +195,12 @@ Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was war
 Что бедра, что ноги называются?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरुषः
+- नारायणः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

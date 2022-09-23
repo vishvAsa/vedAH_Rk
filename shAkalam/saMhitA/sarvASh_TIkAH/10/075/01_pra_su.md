@@ -230,3 +230,12 @@ O Wasserströme, eure höchste Herrlichkeit verkünde nun der Sänger in Vivasva
 Впереди струящихся (вод), пре(восходя) (их) силой, (течет) Синдху.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नद्यः
+- सिन्धुक्षित्प्रैयमेधः
+- निचृज्जगती
+- निषादः
+</details>

@@ -207,3 +207,12 @@ Mach den ergriffnen frei, o Wesenkenner, vom Zaubrer, den mit Speeren du ergreif
 Да сожрут его питающиеся падалью пестрые коршуны!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

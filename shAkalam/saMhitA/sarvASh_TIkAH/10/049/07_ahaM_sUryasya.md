@@ -223,3 +223,12 @@ Ich eile, vorwärts fahrend mit den schimmernden, den raschen Sonnen-Rossen ring
 Я устраняю смертельными ударами ловкого дасу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रो वैकुण्ठः
+- इन्द्रो वैकुण्ठः
+- स्वराडार्चीजगती
+- निषादः
+</details>

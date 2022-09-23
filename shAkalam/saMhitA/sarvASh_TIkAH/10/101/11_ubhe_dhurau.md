@@ -216,3 +216,12 @@ Fest eingefasst geht zwischen beiden Stangen das Zugthier wie ins Bett der zweib
 Хорошенько устройте колодец, хоть вы и не рыли (его)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वे देवा ऋत्विजो वा
+- बुधः सौम्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

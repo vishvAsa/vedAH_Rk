@@ -165,3 +165,12 @@ Verjagend vieles Ungemach, die raschen, schaffend freie Bahn Dem Stamm, den Ross
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- जमदग्निः
+- गायत्री
+- षड्जः
+</details>

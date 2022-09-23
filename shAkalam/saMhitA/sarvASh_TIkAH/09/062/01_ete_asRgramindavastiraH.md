@@ -152,3 +152,12 @@ Ergossen sind die Tropfen hier die schnellen durch das Somasieb Für uns zu alle
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- जमदग्निः
+- निचृद्गायत्री
+- षड्जः
+</details>

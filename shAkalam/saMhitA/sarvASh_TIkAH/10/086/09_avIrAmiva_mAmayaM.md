@@ -209,3 +209,12 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- वृषाकपिरैन्द्र इन्द्राणीन्द्रश्च
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

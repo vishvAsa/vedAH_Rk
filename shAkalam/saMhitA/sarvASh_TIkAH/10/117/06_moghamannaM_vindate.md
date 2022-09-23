@@ -232,3 +232,12 @@ Vergeblich nur erwirbt der Thor sich Speise, ich spreche Wahrheit, sie wird nur 
 Кто ест один, один бывает и в беде.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- त्रिष्टुप्
+- धैवतः
+</details>

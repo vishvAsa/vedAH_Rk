@@ -226,3 +226,12 @@ Ich bin's, der, näher als der Nachbar, sieben fäll't, ich brachte kräftig vor
 (А) девяносто девять могучих я взрастил (еще больше).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रो वैकुण्ठः
+- इन्द्रो वैकुण्ठः
+- निचृज्जगती
+- निषादः
+</details>

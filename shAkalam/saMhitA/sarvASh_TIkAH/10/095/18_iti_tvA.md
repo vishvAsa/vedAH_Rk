@@ -233,3 +233,12 @@ Also sagen dir diese Götter, o Sohn der Ila: Da du nun einmal ein Todesgenosse 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरुरवा ऐळः
+- उर्वशी
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

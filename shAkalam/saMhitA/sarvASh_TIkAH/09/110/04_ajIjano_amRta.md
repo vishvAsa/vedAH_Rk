@@ -193,3 +193,12 @@ Du hast gezeugt, Unsterblicher, bei Sterblichen im Brauch des Opfers den beliebt
 Всегда ты мчался к награде, стремясь захватить (ее).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- त्रयरुणत्रसदस्यू
+- विराड्बृहती
+- मध्यमः
+</details>

@@ -227,3 +227,12 @@ Der Trank, durchmessend das vereinte Weltenpaar, erfüllt mit Milch die gleicher
 Отправляясь (им) навстречу, он принимает непреходящую форму.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- वत्सप्रिर्भालन्दनः
+- निचृज्जगती
+- निषादः
+</details>

@@ -235,3 +235,12 @@ Von schöner Art ist nun des Indra Götterkraft; im Haus ist Agni weiser Sänger
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- दुवस्युर्वान्दनः
+- विराड्जगती
+- निषादः
+</details>

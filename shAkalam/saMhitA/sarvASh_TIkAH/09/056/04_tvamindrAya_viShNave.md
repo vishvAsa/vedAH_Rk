@@ -159,3 +159,12 @@ Dem Indra, Vischnu ströme du, o Indu, rings voll Süssigkeit; Die Männer, Sän
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- अवत्सारः
+- यवमध्यागायत्री
+- षड्जः
+</details>

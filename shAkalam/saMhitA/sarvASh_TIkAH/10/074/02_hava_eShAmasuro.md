@@ -219,3 +219,12 @@ Es dringt ihr Ruf, der göttliche, zum Himmel, und küsst die Erde schatzbegier'
 Действуют, как небо, со своими драгоценностями.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गौरिवीतिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

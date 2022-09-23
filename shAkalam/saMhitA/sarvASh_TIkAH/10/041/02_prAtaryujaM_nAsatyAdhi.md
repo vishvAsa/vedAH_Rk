@@ -214,3 +214,12 @@ Den früh geschirrten Wagen, welcher frühe fährt, besteigt ihr treuen, ihn, de
 Даже на жертву бедного, (если) есть (там) хотар, о Ашвины!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- सुहस्त्यो घौषेयः
+- निचृज्जगती
+- निषादः
+</details>

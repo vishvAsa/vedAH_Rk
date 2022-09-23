@@ -201,3 +201,12 @@ Wir rufen euren vielgerufnen Wagen her, den preisenswerthen, der zu den Gelagen 
 Совершающую круговой обьезд, достойную жертвенной раздачи.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- सुहस्त्यो घौषेयः
+- पादनिचृज्ज्गती
+- निषादः
+</details>

@@ -217,3 +217,12 @@ Ergiess den goldnen in den Schooss des Holzes, und zimmert ihn mit steingeformte
 Впрягайте тяжеловоза в оба дышла!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वे देवा ऋत्विजो वा
+- बुधः सौम्यः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

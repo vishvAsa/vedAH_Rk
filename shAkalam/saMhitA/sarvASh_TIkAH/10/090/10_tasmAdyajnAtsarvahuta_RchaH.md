@@ -232,3 +232,12 @@ Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; au
 Из нее родились козы и овцы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरुषः
+- नारायणः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

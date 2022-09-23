@@ -242,3 +242,12 @@ Wo weise Männer sinnvoll Worte tauschen, sie sichtend wie Getreide mit dem Sieb
 Их приносящий счастье знак нанесен на Речь.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ज्ञानम्
+- बृहस्पतिः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

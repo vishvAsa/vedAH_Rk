@@ -177,3 +177,12 @@ Zum Stiere Indra mögen hier die goldigen, gepressten gehn, Die Indutränke, Gla
 Охотно родившиеся, находящее небо!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- अग्निश्चाक्षुषः
+- निचृदुष्णिक्
+- ऋषभः
+</details>

@@ -209,3 +209,12 @@ Sindhu, die glänzend bunte, schimmernde durchströmt in grosser Pracht die Flur
 Яркая, как кобылица, (она) приятна для глаз, как красавица.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नद्यः
+- सिन्धुक्षित्प्रैयमेधः
+- स्वराडार्चीजगती
+- निषादः
+</details>

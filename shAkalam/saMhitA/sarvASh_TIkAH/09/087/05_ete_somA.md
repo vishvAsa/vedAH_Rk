@@ -206,3 +206,12 @@ Zu tausend Kühen sind entsandt die Soma's, zum Ruhm, zu grosser unerschöpfter 
 Словно жаждущие славы скакуны, которых гонят в бой.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- उशनाः
+- त्रिष्टुप्
+- धैवतः
+</details>

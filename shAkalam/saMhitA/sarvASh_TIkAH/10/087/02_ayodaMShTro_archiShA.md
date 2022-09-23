@@ -200,3 +200,12 @@ Mit ehernem Gebiss ergreif, entflammter, die Zauberer mit Glut, o Wesenkenner; M
 Сшиби пожирателей сырого мяса (и) сунь (их) в пасть!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

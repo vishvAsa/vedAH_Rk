@@ -212,3 +212,12 @@ Dies ist das Lied der Götter, die unsterblich bei ihrer Macht sich doch nach Sc
 Пусть дадут они нам полноценное богатство!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गौरिवीतिः
+- भुरिगार्चीत्रिष्टुप्
+- धैवतः
+</details>

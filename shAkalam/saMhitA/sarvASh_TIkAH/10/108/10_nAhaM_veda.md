@@ -253,3 +253,12 @@ Von Bruder- und Schwesternschaft will ich nichts wissen; das wissen Indra und di
 Автор:
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रणयः
+- सरमा देवशुनी
+- त्रिष्टुप्
+- धैवतः
+</details>

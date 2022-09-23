@@ -225,3 +225,12 @@ Ins Kleid gehüllt, der hehre, das zum Himmel reicht, die Luft erfüllend, in di
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- सिकता निवावारी
+- पादनिचृज्ज्गती
+- निषादः
+</details>

@@ -205,3 +205,12 @@ Es mögen schenken Varuna und Manju uns das aufgehäufte beiderseits erlangte Gu
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्युः
+- मन्युस्तापसः
+- विराड्जगती
+- निषादः
+</details>

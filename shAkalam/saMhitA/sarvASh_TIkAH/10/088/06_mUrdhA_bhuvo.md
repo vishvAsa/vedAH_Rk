@@ -242,3 +242,12 @@ Der Erde Haupt ist Agni in den Nächten, dann steigt er früh als Sonne auf am M
 Что он быстро идет на работу, зная (свой) путь.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यवैश्वानरौ
+- मूर्धन्वानाङ्गिरसो वामदेव्यो वा
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

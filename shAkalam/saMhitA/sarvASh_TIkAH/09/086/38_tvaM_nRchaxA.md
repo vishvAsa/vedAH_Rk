@@ -236,3 +236,12 @@ Du bist, o Soma, männerschauend überall, du Stier durchströmst hellleuchtend 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- त्रयऋषिगणाः
+- विराड्जगती
+- निषादः
+</details>

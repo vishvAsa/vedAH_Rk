@@ -203,3 +203,12 @@ Es rieselt Soma, der Gebete Zeuger des Himmels Zeuger und der Erde Zeuger, Des A
 Родитель Индры, а также родитель Вишну.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- प्रतर्दनो दैवोदासिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

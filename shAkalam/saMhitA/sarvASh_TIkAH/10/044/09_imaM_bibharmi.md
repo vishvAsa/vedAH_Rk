@@ -237,3 +237,12 @@ Ich bringe diesen gutgefügten Haken dir, um abzubrechen, starker, die Zerbreche
 Прими участие в выжатом (соме), в (нашем) желании, о щедрый!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- कृष्णः
+- पादनिचृज्ज्गती
+- निषादः
+</details>

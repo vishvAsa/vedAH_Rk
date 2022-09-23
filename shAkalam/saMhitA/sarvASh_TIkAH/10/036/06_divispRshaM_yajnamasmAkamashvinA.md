@@ -209,3 +209,12 @@ Lasst, Ritter, unser Opfer steigen himmelan, das uns zum Glück und Segen schön
 Сегодня мы просим об этой милости богов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- लुशो धानाकः
+- निचृज्जगती
+- निषादः
+</details>

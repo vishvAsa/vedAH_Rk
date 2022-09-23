@@ -246,3 +246,12 @@ In diese Kühe fügte ich die helle Milch, die selbst Gott Tvaschtar einzufügen
 Что слаще меда (и служит) добавлением к пребывающему соме.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रो वैकुण्ठः
+- इन्द्रो वैकुण्ठः
+- पादनिचृज्ज्गती
+- निषादः
+</details>

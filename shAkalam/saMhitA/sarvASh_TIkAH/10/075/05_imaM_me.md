@@ -206,3 +206,12 @@ Empfangt mein Loblied, Çutudri, Sarasvati, o Ganga du und Jamuna, Paruschni auc
 О Арджикия с Сушомой, слушай(те)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नद्यः
+- सिन्धुक्षित्प्रैयमेधः
+- स्वराडार्चीजगती
+- निषादः
+</details>

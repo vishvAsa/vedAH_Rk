@@ -200,3 +200,12 @@ Die Krankheiten, welche von ihrem Stamme her dem glänzenden Zuge der Braut nach
 Уведут их (туда), откуда они пришли!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- यक्ष्मनाशिनी दम्पत्योः
+- सूर्या सावित्री
+- अनुष्टुप्
+- गान्धारः
+</details>

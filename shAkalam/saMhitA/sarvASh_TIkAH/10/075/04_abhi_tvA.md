@@ -255,3 +255,12 @@ Dir, Sindhu, eilen wie die Mütter ihrem Kind, wie mit der Milch die Kühe, raus
 Когда хочешь встать во главе этих текучих (вод).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नद्यः
+- सिन्धुक्षित्प्रैयमेधः
+- जगती
+- निषादः
+</details>

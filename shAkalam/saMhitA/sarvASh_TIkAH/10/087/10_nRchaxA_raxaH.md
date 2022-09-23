@@ -227,3 +227,12 @@ Als Männerschauer blicke das Gespenst an bei Menschen und zerbrich ihm Kopf und
 Разруби натрое корень колдуна!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

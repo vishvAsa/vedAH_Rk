@@ -234,3 +234,12 @@ Zu Indra eilten diese Somatränke, die flammenden, wie Wagen hin zur Beute, Durc
 Золотистые, оставив (свою) оболочку ради дождя.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- हिरण्यस्तूपः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

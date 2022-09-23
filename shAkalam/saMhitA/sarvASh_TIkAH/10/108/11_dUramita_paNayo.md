@@ -209,3 +209,12 @@ Geht weit hinweg, o Pani's, kommen sollen die Küh' hervor, mit Recht die Stelle
 Сома, давильные камни и вдохновенные риши.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- प्रणयः
+- सरमा देवशुनी
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

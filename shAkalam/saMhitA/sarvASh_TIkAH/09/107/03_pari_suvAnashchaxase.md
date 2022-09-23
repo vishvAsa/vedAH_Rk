@@ -144,3 +144,12 @@ Rings gepresst [lieblich (?)] anzusehn der Götter erfreuende starke Indu, der w
 Сила духа, сок, смотрящий далеко.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- सप्तर्षयः
+- पिपीलिकामध्यागायत्री
+- षड्जः
+</details>

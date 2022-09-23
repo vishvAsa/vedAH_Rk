@@ -225,3 +225,12 @@ Schafft, was erfreut, und webet die Gebete, durch Ruder lasst eur Schiff zum Zie
 Ведите жертву вперед, о друзья!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वे देवा ऋत्विजो वा
+- बुधः सौम्यः
+- त्रिष्टुप्
+- धैवतः
+</details>

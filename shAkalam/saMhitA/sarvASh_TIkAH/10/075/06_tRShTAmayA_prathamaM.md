@@ -204,3 +204,12 @@ Mit der Trischtama einst du dich voranzugehn, mit der Suvartu, Rasa und der Çve
 С Мехатну – к Круму, с которыми ты мчишься на одной колеснице.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नद्यः
+- सिन्धुक्षित्प्रैयमेधः
+- भुरिगार्चीजगती
+- निषादः
+</details>

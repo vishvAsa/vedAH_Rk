@@ -211,3 +211,12 @@ Entsandter Blitz! mit Tüchtigkeit geboren schon besitzest, übermächt'ger, du 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्युः
+- मन्युस्तापसः
+- स्वराडार्चीजगती
+- निषादः
+</details>

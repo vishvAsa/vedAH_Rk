@@ -241,3 +241,12 @@ Hinweggegangen bin ich ohne Antheil nach deiner Weisheit, starker du und weiser;
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मन्युः
+- मन्युस्तापसः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -175,3 +175,12 @@ O jage ganz von uns hinweg den Frevler, jeden fressenden, O Indu, rings bewälti
 Одерживая верх, о сок сомы, (гони) прочь притеснения вокруг, (гони) двоедушного!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- पर्वतनारदौ
+- निचृदुष्णिक्
+- ऋषभः
+</details>

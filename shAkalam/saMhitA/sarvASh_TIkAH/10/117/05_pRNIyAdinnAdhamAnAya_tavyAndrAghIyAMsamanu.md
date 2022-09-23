@@ -234,3 +234,12 @@ Mittheilen soll der Reichere dem flehnden; er schaue hin auf seinen weitern Wand
 Они катятся и едут от одного к другому.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

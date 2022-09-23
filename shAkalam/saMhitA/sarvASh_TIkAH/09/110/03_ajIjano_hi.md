@@ -159,3 +159,12 @@ Du hast die Sonne jetzt erzeugt, o flammender, mit Kraft die Flut im Himmelsraum
 (Ты,) спешащий вместе с Пурамдхи, вдохновляющий (на дарение) коров.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- त्रयरुणत्रसदस्यू
+- विराडनुष्टुप्
+- गान्धारः
+</details>

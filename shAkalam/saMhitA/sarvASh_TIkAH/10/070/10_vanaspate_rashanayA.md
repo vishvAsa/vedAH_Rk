@@ -207,3 +207,12 @@ O Opferpfosten, mit dem Strang dich schirrend, fahr kundig her nun zu dem Ort de
 Пусть Небо-и-Земля помогут моему призыву!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आप्रियः
+- सुमित्रो वाध्र्यश्चः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

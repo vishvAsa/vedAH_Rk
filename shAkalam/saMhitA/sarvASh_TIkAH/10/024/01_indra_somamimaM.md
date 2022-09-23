@@ -212,3 +212,12 @@ Trink, Indra, diesen Soma hier, den süssen ausgepressten Trank Verleih uns taus
 В опьянении (сомой) я хочу вам (это) провозгласить.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः
+- आस्तारपङ्क्ति
+- पञ्चमः
+</details>

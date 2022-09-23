@@ -244,3 +244,12 @@ Der als des Himmels Strebepfeiler schön erhöht als reichgefüllter Soma rings 
 Поэт, он охватывает (эту) соединенную (пару и) жертвенные услады.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कक्षीवान्
+- विराड्जगती
+- निषादः
+</details>

@@ -165,3 +165,12 @@ Mit Indra und mit Vaju geht zur Seihe der gepresste hin Und mit der Sonne Strahl
 (Он) со(единяется) с лучами Сурьи.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- अमहीयुः
+- निचृद्गायत्री
+- षड्जः
+</details>

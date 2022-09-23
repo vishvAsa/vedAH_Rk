@@ -164,3 +164,12 @@ Dich, der du Güter uns verleihst, umtönte jetzt der Lieder Schall, Mit Milch u
 В коровье (молоко) мы одеваем твой цвет.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- पर्वतनारदौ द्वे शिखण्डिन्यौ वा काश्यप्यावप्सरसौ
+- उष्णिक्
+- ऋषभः
+</details>

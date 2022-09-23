@@ -143,3 +143,12 @@ Dem Indra mit der Marutschar, o Indu, riesle, süssester! Zu setzen dich in Opfe
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कश्यपः
+- गायत्री
+- षड्जः
+</details>

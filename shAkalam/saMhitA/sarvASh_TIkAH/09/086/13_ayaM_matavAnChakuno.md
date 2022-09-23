@@ -238,3 +238,12 @@ Sein Ziel verfolgend, wie ein Falke ausgesandt ergoss er rieselnd auf die Wolle 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- सिकता निवावारी
+- निचृज्जगती
+- निषादः
+</details>

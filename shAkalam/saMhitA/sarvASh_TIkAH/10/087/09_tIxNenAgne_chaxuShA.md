@@ -219,3 +219,12 @@ Behüt mit scharfem Blick das Opfer, Agni, den guten Göttern führ es vor, o we
 Тебя не проведут колдуны, о (ты) со взглядом героя!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

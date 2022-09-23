@@ -253,3 +253,12 @@ Das ist kein Freund, wer nicht dem Freunde mittheilt, der zu ihm kommt und ihn u
 Пусть он ищет другого дарителя, даже если это чужой!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- त्रिष्टुप्
+- धैवतः
+</details>

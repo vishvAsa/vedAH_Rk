@@ -208,3 +208,12 @@ In dessen Macht die schneebedeckten Berge, das Meer, der Weltstrom sind nach sic
 Какого бога мы почтили жертвенным возлиянием?
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कः
+- हिरण्यगर्भः प्राजापत्यः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

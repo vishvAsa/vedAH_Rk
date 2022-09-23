@@ -209,3 +209,12 @@ Das menschliche Weib, Parçu mit Namen, hat zwanzig Kinder auf einmal geboren; H
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- वृषाकपिरैन्द्र इन्द्राणीन्द्रश्च
+- पङ्क्तिः
+- पञ्चमः
+</details>

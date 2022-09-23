@@ -192,3 +192,12 @@ Er der sein Auge hat an allen Orten, und überall den Mund, die Arm' und Füsse,
 Порождая небо и землю, единый бог.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वकर्मा
+- विश्वकर्मा भौवनः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

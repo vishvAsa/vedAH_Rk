@@ -231,3 +231,12 @@ Hin durch die Erde dringt ihr Schall zum Himmel auf, endloses Brausen regt sie a
 Когда движется Синдху, громко ревя, словно бык.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नद्यः
+- सिन्धुक्षित्प्रैयमेधः
+- विराड्जगती
+- निषादः
+</details>

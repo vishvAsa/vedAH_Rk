@@ -210,3 +210,12 @@ Der Pressstein jage tönend die Gespenster fort, den bösen Traum, Verderben, je
 Сегодня мы просим об этой милости богов!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- लुशो धानाकः
+- निचृज्जगती
+- निषादः
+</details>

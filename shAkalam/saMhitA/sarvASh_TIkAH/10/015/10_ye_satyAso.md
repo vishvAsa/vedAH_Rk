@@ -221,3 +221,12 @@ Die Opfer essen, Opfer trinken, treu sind, vereint mit Indra und den Göttern fa
 С дальними прежними отцами, сидящими вокруг горячего молока!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पितरः
+- शङ्खो यामायनः
+- त्रिष्टुप्
+- धैवतः
+</details>

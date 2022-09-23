@@ -162,3 +162,12 @@ Es standen, weiser Soma, dir die Welten hier zur Macht bereit, Es rinnen dir die
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- जमदग्निः
+- गायत्री
+- षड्जः
+</details>

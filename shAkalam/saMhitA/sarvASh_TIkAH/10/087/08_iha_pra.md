@@ -237,3 +237,12 @@ Hier sprich es aus, o Agni, wer das sein mag, der Zauberer, der solche Dinge aus
 Отдай его во власть взора того, кто взирает, как муж!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- त्रिष्टुप्
+- धैवतः
+</details>

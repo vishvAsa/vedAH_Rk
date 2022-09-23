@@ -218,3 +218,12 @@ Der Götter Beter und der Priester Führer, der Sänger Dichter und der Stier de
 Сома проходит сквозь цедилку, распевая.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- प्रतर्दनो दैवोदासिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

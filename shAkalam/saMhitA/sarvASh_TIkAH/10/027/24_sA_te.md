@@ -253,3 +253,12 @@ Dies ist dein Leben, und darauf achte, nicht mögest du solches vergessen [oder 
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वसुक्र ऐन्द्रः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

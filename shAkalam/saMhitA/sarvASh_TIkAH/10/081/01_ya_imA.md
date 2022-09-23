@@ -217,3 +217,12 @@ Der weise Priester, der in alle Wesen sich niederliess als unser Vater opfernd, 
 Проник в последующие (поколения), скрывая первые.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वकर्मा
+- विश्वकर्मा भौवनः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

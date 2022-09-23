@@ -162,3 +162,12 @@ Sie strömen zu dem Lobgesang dem Rinde schaffend freien Raum, Uns Labetrunk, de
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- जमदग्निः
+- ककुम्मतीगायत्री
+- षड्जः
+</details>

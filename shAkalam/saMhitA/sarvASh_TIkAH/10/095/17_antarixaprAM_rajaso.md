@@ -209,3 +209,12 @@ Die Urvaçī, die die Luft erfüllt, und den Raum durchmisst, verehre ich, der t
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उर्वशी
+- पुरूरवा ऐळः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -231,3 +231,12 @@ Der Vasu's denkt voll Preis, wer Gut begehret, und beider Welten mit Gebet und O
 Или же (тех,) кто, слыша хорошо, сделал так, чтоб услышали ревностного.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गौरिवीतिः
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>

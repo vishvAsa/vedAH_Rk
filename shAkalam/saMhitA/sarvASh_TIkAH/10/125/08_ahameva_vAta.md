@@ -212,3 +212,12 @@ Ich bin es, die da wehet gleich dem Winde, im Wehn ergreif' ich alles, was da le
 Такая стала я величием.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वागाम्भृणी
+- वागाम्भृणी
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

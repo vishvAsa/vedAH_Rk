@@ -222,3 +222,12 @@ Wo du ihn siehst nun stehen oder gehen, siehst du ihn fliegen auf der Lüfte Bah
 (Как) стрелок, пронзи его стрелой, заостряя (ее)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

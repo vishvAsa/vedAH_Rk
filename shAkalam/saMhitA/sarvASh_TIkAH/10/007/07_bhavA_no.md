@@ -240,3 +240,12 @@ Sei du uns, Agni, Helfer und Beschützer, verschaffe uns, verleih uns Jugendstä
 А также храни нас самих неустанно!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- त्रितः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

@@ -206,3 +206,12 @@ Durch Opfer, Agni, die Geschosse richtend der Pfeile Spitzen mit dem Lied bestre
 Заломи им протянутые руки!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -264,3 +264,12 @@ Dem Stamme dessen reichet grossen Schatz er dar, der hin zu seiner ersten Opfers
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- सिकता निवावारी
+- पादनिचृज्ज्गती
+- निषादः
+</details>

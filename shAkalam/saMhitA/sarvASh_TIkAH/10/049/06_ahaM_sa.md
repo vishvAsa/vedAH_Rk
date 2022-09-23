@@ -233,3 +233,12 @@ Ich Vritratödter war's, der Navavāstua, den Dämon hoch zu Wagen, wie den Vrit
 Далеко за пределами пространства я превратил в небесные светила.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रो वैकुण्ठः
+- इन्द्रो वैकुण्ठः
+- निचृज्जगती
+- निषादः
+</details>

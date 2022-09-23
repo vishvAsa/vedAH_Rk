@@ -148,3 +148,12 @@ Im Strome riesle Butter her, bei Opfern Götter-labendster, Und ströme Regen un
 -ru-
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- कविभार्गवः
+- गायत्री
+- षड्जः
+</details>

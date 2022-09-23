@@ -193,3 +193,12 @@ Erfülle, Indra, das Gebet, das wir zu dir empor gelenkt, Die Gunst erbitten wir
 Чтобы ты убил Шушну-нечеловека!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः
+- आर्च्यनुष्टुप्
+- गान्धारः
+</details>

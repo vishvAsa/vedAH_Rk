@@ -236,3 +236,12 @@ Wer einem Dürft'gen, der nach Trunk verlangend lechzt, dem Armen, der ihm hunge
 Тот не находит сочувствующего.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- धनान्नदानप्रशंसा
+- भिक्षुः
+- पादनिचृज्ज्गती
+- निषादः
+</details>

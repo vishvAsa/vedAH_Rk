@@ -242,3 +242,12 @@ Ich netz' mit Fett den starken Rakschastödter und geh den Freund um ausgedehnte
 Пусть защищает он нас днем (и) ночью от вреда!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- त्रिष्टुप्
+- धैवतः
+</details>

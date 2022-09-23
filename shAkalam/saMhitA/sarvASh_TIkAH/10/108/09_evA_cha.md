@@ -228,3 +228,12 @@ Da du, Sarama, nun einmal gekommen bist, durch göttliche Gewalt genötigt, so w
 Сарама:
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सरमा
+- पणयोऽ सुराः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

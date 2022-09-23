@@ -224,3 +224,12 @@ Fahr, Agni, her den Varuna zum Opfer vom Himmel Indra, aus der Luft die Maruts; 
 – пусть опьяняются бессмертные боги!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आप्रियः
+- सुमित्रो वाध्र्यश्चः
+- त्रिष्टुप्
+- धैवतः
+</details>
