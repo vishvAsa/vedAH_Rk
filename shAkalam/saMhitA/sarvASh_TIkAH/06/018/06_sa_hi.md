@@ -230,3 +230,12 @@ Denn durch Gebet lässt sich erflehn der hehre, der Herrschaft übt im grossen V
 В сражениях, был тем, кого надо рвать к себе с разных сторон.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भरद्वाजो बार्हस्पत्यः
+- ब्राह्म्युष्णिक्
+- ऋषभः
+</details>

@@ -182,3 +182,12 @@ Darum rühmen stets alle unsre treuen Sänger den Bribu, der am meisten schenkt,
 Как щедрого покровителя, лучше всех захватывающего тысячу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बृबुस्तक्षा
+- शंयुर्बार्हस्पत्यः
+- अनुष्टुप्
+- गान्धारः
+</details>

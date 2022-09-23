@@ -191,3 +191,12 @@ O ihr Maruthelden geleitet diesen, wie den Divodasa, den Vater des Sudas, beför
 Недостижимую, непреходящую власть!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वसिष्ठः
+- त्रिष्टुप्
+- धैवतः
+</details>

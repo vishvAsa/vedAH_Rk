@@ -212,3 +212,12 @@ Ihr legt die Frucht in weibliche Geschöpfe, ihr setztet sie ins Innre aller Wes
 Огонь и воды, и лесные деревья.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- दीर्घतमा औचथ्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

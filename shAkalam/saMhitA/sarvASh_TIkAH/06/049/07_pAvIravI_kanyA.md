@@ -208,3 +208,12 @@ Die lebensfrische Maid, die blitzerzeugte. Sarasvati erhör, die Heldengattin, V
 Без прорех, непреодолимую защиту певцу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- ब्राह्म्युष्निक्
+- ऋषभः
+</details>

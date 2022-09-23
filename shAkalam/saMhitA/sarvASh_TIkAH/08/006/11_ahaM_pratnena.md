@@ -170,3 +170,12 @@ Nach alter Weise schmücke ich nach Kanva's Art die Lieder aus, Durch welche Ind
 Силой которого Индра обрел мужество.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -216,3 +216,12 @@ Süss mögen uns sein die Gewächse, Himmel, Gewässer, voll Süssigkeit sei uns
 Невредимые хотим мы двигаться за ним вслед!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- क्षेत्रपतिः
+- वामदेवो गौतमः
+- त्रिष्टुप्
+- धैवतः
+</details>

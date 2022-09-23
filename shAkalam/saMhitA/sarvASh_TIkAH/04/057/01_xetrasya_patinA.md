@@ -213,3 +213,12 @@ Wir mögen durch den Feldesherrn, wie durch einen lieben Freund, Rind und Ross, 
 Да смилуется он над таким, как мы!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- क्षेत्रपतिः
+- वामदेवो गौतमः
+- अनुष्टुप्
+- गान्धारः
+</details>

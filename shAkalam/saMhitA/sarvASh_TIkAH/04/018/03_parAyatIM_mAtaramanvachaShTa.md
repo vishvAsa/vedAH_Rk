@@ -234,3 +234,12 @@ Er blickte nach der Mutter, da sie hinschied, »Ich nehm' zurück das Wort, dort
 Стоящего сотни, выжатого в два сосуда.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रादिती
+- वामदेवो गौतमः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

@@ -171,3 +171,12 @@ Ich preise, Agni, deine Pracht des hehren, angezündeten; Du bist ein glanzbegab
 Тебя зажигают во время обрядов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विश्वावारात्रेयी
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

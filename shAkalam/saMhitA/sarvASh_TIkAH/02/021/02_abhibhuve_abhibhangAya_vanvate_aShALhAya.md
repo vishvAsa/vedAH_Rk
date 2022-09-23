@@ -179,3 +179,12 @@ Dem übermächt'gen, der bezwinget und zerbricht, dem unbesiegten Sieger, welche
 Всегда осиливающему Индре провозгласите поклонение!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गृत्समदः शौनकः
+- स्वराट्त्रिष्टुप्
+- धैवतः
+</details>

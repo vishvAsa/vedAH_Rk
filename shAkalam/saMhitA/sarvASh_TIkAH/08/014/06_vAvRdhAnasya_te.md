@@ -147,3 +147,12 @@ Wir wünschen, Indra, deine Huld, der gross und stark du bist, herbei, Der alle 
 Мы просим, о Индра, помощи.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोषूक्त्यश्वसूक्तिनौ काण्वायनौ
+- गायत्री
+- षड्जः
+</details>

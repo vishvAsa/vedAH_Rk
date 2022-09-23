@@ -217,3 +217,12 @@ Den Agni stellten sich zum Heil die Menschen an, die Schalen reichend und die St
 Рудру жертв, лучше всех приводящего к цели жертву деятельных (жрецов).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निर्वैश्वानरः
+- गाथिनो विश्वामित्रः
+- निचृज्जगती
+- निषादः
+</details>

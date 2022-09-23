@@ -155,3 +155,12 @@ O kommt auf dem weitschimmernden Gefährt zu dem Verehrer her, O Indra-Vaju, kom
 О Индра-Ваю, сюда приезжайте!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रवायू
+- वामदेवो गौतमः
+- गायत्री
+- षड्जः
+</details>

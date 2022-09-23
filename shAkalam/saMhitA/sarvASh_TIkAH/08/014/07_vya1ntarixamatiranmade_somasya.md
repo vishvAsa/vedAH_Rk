@@ -156,3 +156,12 @@ Die Luft, den Aetherraum durchdrang im Rausch des Soma Indra da, Als Vala er in 
 Когда он расколол Валу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोषूक्त्यश्वसूक्तिनौ काण्वायनौ
+- निचृद्गायत्री
+- षड्जः
+</details>

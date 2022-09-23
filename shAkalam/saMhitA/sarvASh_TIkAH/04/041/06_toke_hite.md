@@ -211,3 +211,12 @@ Zu liebem Sohn, zu Enkeln und zu Feldern zum Schau'n der Sonne und zu Heldenstä
 С (вашими) поддержками, о чудесные, в решающую минуту!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- वामदेवो गौतमः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

@@ -241,3 +241,12 @@ Denn traun der Stier durch rechte Milch gesalbet auf seinem Rücken, Agni, er de
 Бык-Пришни выдаивает свое вымя, (давая) чистое (молоко).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वामदेवो गौतमः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

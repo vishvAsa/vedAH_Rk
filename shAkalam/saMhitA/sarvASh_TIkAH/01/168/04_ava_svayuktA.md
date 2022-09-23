@@ -230,3 +230,12 @@ Vom Himmel kamen selbstgereicht im Tanze sie; mit Peitschen treibt, unsterbliche
 Со сверкающими копьями сотрясли даже твердыни.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- अगस्त्यो मैत्रावरुणिः
+- निचृज्जगती
+- निषादः
+</details>

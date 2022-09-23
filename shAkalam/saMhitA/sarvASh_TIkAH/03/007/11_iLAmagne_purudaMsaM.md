@@ -231,3 +231,12 @@ Erziel, o Agni, Segen, den vielwirkenden Lohn einer Kuh für den am häufigsten 
 О Агни, да будет нам твое благоволение!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गाथिनो विश्वामित्रः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

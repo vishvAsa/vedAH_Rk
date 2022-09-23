@@ -161,3 +161,12 @@ Es lenke Vatsa deinen Sinn auch von dem fernsten Sitze her, Durch Lied, das, Agn
 О Агни, хвалебной песней, любящей тебя.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वत्सः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

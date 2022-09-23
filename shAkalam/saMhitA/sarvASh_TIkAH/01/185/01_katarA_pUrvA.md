@@ -254,3 +254,12 @@ Wer ist von beiden früher? wer die spätre? und wie erzeugt? ihr Weisen, wer en
 Две половины суток вращаются, словно колеса.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- अगस्त्यो मैत्रावरुणिः
+- त्रिष्टुप्
+- धैवतः
+</details>

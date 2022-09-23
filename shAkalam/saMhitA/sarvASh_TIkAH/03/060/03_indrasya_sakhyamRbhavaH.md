@@ -213,3 +213,12 @@ Des Indra Freundschaft hat die Ribhuschar erlangt, des Manu Enkel regten sich in
 Потрудившись изо (всех) сил, способные созидатели, - с помощью способности к созиданию.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ऋभवः
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- जगती
+- निषादः
+</details>

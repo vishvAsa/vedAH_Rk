@@ -197,3 +197,12 @@ Es glänzt dein Lichtschein, – o Agni, lieblich, – auch heut am Tage, Wie Go
 Для (проявления) красоты сверкает (он) вблизи, словно золотое украшение.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वामदेवो गौतमः
+- स्वराडुष्णिक्
+- ऋषभः
+</details>

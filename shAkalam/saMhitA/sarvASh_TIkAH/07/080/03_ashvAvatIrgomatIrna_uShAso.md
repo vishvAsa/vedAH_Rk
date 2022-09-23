@@ -209,3 +209,12 @@ Stets mögen uns die Morgenröthen leuchten, die schönen, reich an Rossen, Rind
 Защищайте вы нас всегда своими милостями!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- वसिष्ठः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

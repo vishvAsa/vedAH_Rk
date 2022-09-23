@@ -174,3 +174,12 @@ Die Mütter, welche Indra dich geboren als des Leibes Frucht, Gleich wie die Son
 Как (небесная) опора (охватила) кругом солнце.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- स्वराडार्चीगायत्री
+- षड्जः
+</details>

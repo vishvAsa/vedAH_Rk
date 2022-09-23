@@ -201,3 +201,12 @@ Nun schützt, o Welten, uns mit mächt'gen Wehren, vereint mit Göttern und Göt
 Пусть станем мы благодаря молитве всегда побеждающими колесничими!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- वामदेवो गौतमः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

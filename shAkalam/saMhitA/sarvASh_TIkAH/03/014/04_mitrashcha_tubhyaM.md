@@ -237,3 +237,12 @@ Varuna, Mitra und die Marutscharen, o starker Agni, sangen dir ein Preislied, Al
 Распространяясь над поселениями (людскими), (как) солнце- над мужами.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- ऋषभो वैश्वामित्रः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

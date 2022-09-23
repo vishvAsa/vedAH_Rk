@@ -213,3 +213,12 @@ Du, Indra, halfest dazumal dem Kutsa, selbst gegenwärtig ihn im Kampf erhörend
 Ты отдал ему во власть, желая помочь Арджунейе.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वसिष्ठः
+- निचृत्पङ्क्तिः
+- पञ्चमः
+</details>

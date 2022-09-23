@@ -160,3 +160,12 @@ Euch Erd' und Himmel bringen wir entgegen unsern Preisgesang, Euch reinen zur Ve
 О чистые, для прославления.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- वामदेवो गौतमः
+- निचृद्गायत्री
+- षड्जः
+</details>

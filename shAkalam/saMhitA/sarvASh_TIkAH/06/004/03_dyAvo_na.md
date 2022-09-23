@@ -227,3 +227,12 @@ Er, dessen Macht die Himmel auch bewundern, gleich heller Sonne kleidet er in Li
 (Тот) разбил прежние (твердыни) даже самого Ашны.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भरद्वाजो बार्हस्पत्यः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

@@ -242,3 +242,12 @@ Die drei Göttinnen reichen gern dem Gotte der nimmer wankt, die Frauen ihre Nah
 Он сосет молоко этих впервые родивших.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- स्वराट्पङ्क्ति
+- पञ्चमः
+</details>

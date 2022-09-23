@@ -223,3 +223,12 @@ Auf, rüstet euch den Wagen, der euch Ritter fährt, der schnell sich nahet, hie
 И пейте сому, о двое несущих награду!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- गृत्समदः शौनकः
+- निचृज्जगती
+- निषादः
+</details>

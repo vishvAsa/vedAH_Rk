@@ -252,3 +252,12 @@ Nicht wenige bezwingen den, nicht viele, und weiten Schutz wird Aditi ihm reiche
 Приятен хорошо приглашающий, приятен ему (тот,) у кого сома.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वामदेवो गौतमः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -143,3 +143,12 @@ Giess ihm ein den Trank der Kanva's; denn wir kennen keinen bessern, Als den sta
 Чем сильный с сотней поддержек.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः
+- आर्षीगायत्री
+- षड्जः
+</details>

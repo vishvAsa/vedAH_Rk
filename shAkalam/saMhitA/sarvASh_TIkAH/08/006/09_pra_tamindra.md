@@ -154,3 +154,12 @@ Lass, Indra, uns erlangen nun an Ross und Rindern reiches Gut, Sogleich als des 
 До(биться) священного слова, чтобы прежде всего обдумать!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

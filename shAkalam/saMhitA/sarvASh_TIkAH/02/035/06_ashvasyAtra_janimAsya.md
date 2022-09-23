@@ -239,3 +239,12 @@ Im Himmel ist sein Ursprung und des Rosses, vor bösen Feindes Anlauf schütz di
 Ни недоброжелательность, ни несправедливости, (этого бога,) незабываемого (даже) вдали.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -243,3 +243,12 @@ Die beiden Stämme, Agni, schmückend nach der Pflicht, besuchst als Götterbote
 Будь же милостив к нам, давая тройную защиту!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भरद्वाजो बार्हस्पत्यः
+- त्रिष्टुप्
+- धैवतः
+</details>

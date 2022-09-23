@@ -147,3 +147,12 @@ Ihr grossen, die ihr helfend schützt, ihr führt zum Ziel des Mitra Werk; Ums O
 Вы (всегда) усаживались вокруг жертвы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- वामदेवो गौतमः
+- गायत्री
+- षड्जः
+</details>

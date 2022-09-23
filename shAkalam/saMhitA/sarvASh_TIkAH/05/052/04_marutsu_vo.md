@@ -181,3 +181,12 @@ Wir bringen euren Maruts dar Gesang und Opfer kühnen Sinns, Die vor dem Feind d
 Защищает смертного от вреда.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- श्यावाश्व आत्रेयः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>

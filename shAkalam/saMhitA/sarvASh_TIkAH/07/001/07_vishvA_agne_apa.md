@@ -176,3 +176,12 @@ O brenne weg uns, Agni, alle Frevler durch Glut, mit der du den Dscharutha brann
 Сделай, чтоб беззвучно исчезла болезнь!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वसिष्ठः
+- त्रिष्टुप्
+- धैवतः
+</details>

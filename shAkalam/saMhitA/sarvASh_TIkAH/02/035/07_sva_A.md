@@ -249,3 +249,12 @@ Er, dessen Kuh im eignen Hause Milch gibt, macht fett den Trunk, geniesst die kr
 Ярко светит, чтобы дать добро почитающему (его).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

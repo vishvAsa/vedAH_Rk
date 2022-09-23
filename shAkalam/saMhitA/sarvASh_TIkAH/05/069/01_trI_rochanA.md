@@ -210,3 +210,12 @@ Drei Aetherräume, Varuna, drei Himmel, drei Luftgebiete haltet fest ihr, Mitra;
 Охраняя нестареющий завет.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रावरुणौ
+- यजत आत्रेयः
+- निचृद्गायत्री
+- षड्जः
+</details>

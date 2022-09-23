@@ -230,3 +230,12 @@ Ich locke her des gnäd'gen Rudra Söhne, ob wol die Maruts wieder zu uns kehren
 Мы искупаем этот грех перед сильными.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- वसिष्ठः
+- त्रिष्टुप्
+- धैवतः
+</details>

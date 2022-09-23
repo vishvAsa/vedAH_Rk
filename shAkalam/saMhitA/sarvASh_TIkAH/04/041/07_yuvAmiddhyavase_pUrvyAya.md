@@ -208,3 +208,12 @@ Denn euch erwählen wir zu alter Hülfe, zu lieber Freundschaft, starke, nahverw
 О герои, самые щедрые, благодатные, как родители!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रावरुणौ
+- वामदेवो गौतमः
+- पङ्क्तिः
+- पञ्चमः
+</details>

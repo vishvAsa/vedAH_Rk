@@ -252,3 +252,12 @@ Gott Savitar erhob zu schneller That sich im Flug, aufs neue nun sein Werk zu tr
 И выделил долю на счастье (почитателю,) приглашающему (богов) на жертву.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- गृत्समदः शौनकः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

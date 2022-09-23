@@ -217,3 +217,12 @@ Mit gnäd'gem Sinne fahre willig her die Kuh, die strotzt von Saft, die reichlic
 (Так) я погоняю тебя все дни, о многопризываемый.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रस्त्वष्टा वा
+- गृत्समदः शौनकः
+- निचृज्जगती
+- निषादः
+</details>

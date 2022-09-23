@@ -243,3 +243,12 @@ Vereint gehn diese, jene beieinander, dasselbe Becken füllen an die Ströme; Un
 Окружили чистые воды.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

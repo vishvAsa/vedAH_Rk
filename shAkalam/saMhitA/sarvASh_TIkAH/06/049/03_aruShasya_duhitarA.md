@@ -195,3 +195,12 @@ Des feurigrothen ungleichfarb'ge Töchter, die eine sterngeschmückt, mit Licht 
 Когда их воспевают, приходят на услышанную молитву.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- त्रिष्टुप्
+- धैवतः
+</details>

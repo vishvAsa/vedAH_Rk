@@ -248,3 +248,12 @@ Dann dringen Kühe, Milch ihm bringend, in ihn ein; der alles nährt, dem bringe
 Ты, что совершил сначала эти (дела), достоин гимна (за это).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गृत्समदः शौनकः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

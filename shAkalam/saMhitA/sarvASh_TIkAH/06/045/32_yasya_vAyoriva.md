@@ -149,3 +149,12 @@ Er, dessen tausendfache Gabe wie im Fluge des Windes sogleich zum Lohne geschenk
 Сразу же приводит к дарению.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- बृबुस्तक्षा
+- शंयुर्बार्हस्पत्यः
+- गायत्री
+- षड्जः
+</details>

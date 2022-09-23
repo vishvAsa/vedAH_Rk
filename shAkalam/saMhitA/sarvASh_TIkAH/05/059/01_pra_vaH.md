@@ -261,3 +261,12 @@ Eur Späher rauschte, und um Segen zu empfahn, sing' ich dem Himmel, bring mein 
 Свое сияние они ослабляют волнами (дождя).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- श्यावाश्व आत्रेयः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

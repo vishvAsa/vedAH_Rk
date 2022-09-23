@@ -195,3 +195,12 @@ reiche Furche, sei du uns nahe, wir verehren dich, damit du uns segensreich, dam
 Чтоб была ты для нас очень плодородной!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सीता
+- वामदेवो गौतमः
+- अनुष्टुप्
+- गान्धारः
+</details>

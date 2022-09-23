@@ -154,3 +154,12 @@ Kaulitara, den Dämon auch und Çambara, die stürztest du, O Indra, von des Ber
 Ты сшиб с высокой горы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वामदेवो गौतमः
+- गायत्री
+- षड्जः
+</details>

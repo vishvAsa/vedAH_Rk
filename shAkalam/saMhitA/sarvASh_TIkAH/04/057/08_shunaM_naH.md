@@ -216,3 +216,12 @@ Zum Gedeihn möge die Pflugschar das Land durchpflügen, zum Gedeihen die Pfllig
 О Шуна и Сира, дайте нам счастье!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शुनासीरौ
+- वामदेवो गौतमः
+- त्रिष्टुप्
+- धैवतः
+</details>

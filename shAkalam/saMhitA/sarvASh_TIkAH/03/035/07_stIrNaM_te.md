@@ -230,3 +230,12 @@ Gestreut ist Streu, gepresst der Soma, Indra, gekocht der Brei zur Speise deinen
 Который может многое, (бога,) сопровождаемого Марутами, пожертвованы возлияния.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- त्रिष्टुप्
+- धैवतः
+</details>

@@ -229,3 +229,12 @@ Der heilige, der in den Wassern weithin erstrahlt mit Glanz der Götter unauslö
 И растения со (своими) побегами.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

@@ -231,3 +231,12 @@ Verwandt dem Himmel und der Erd' ist Puschan, der Labung Herr, gewaltig, herrlic
 Сотворенного любовью, сильного, легко устремляющегося вперед.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पूषा
+- भरद्वाजो बार्हस्पत्यः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

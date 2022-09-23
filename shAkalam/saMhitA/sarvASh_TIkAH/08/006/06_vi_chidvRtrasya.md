@@ -146,3 +146,12 @@ Des Vritra Haupt, des tobenden, zerschlug er auch mit seinem Blitz, Dem hundertz
 Мужественной ваджрой с сотней сочленений.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

@@ -212,3 +212,12 @@ Zu unsrer Feier komm mit hundert Rossen, mit tausendfacher Schar zu unserm Opfer
 Защищайте вы нас всегда своими милостями!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वायु:
+- वसिष्ठः
+- आर्षीत्रिष्टुप्
+- धैवतः
+</details>

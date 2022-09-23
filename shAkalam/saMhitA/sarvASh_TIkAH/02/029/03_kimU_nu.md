@@ -221,3 +221,12 @@ Was werden wir, o Gute, euch erweisen für eure künft'ge, was für alte Freunds
 И Адити, и Индра-Маруты!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कूर्मो गार्त्समदो गृत्समदो वा
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

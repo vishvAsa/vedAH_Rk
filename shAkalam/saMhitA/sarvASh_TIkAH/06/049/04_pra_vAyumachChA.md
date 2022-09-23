@@ -210,3 +210,12 @@ Hin zu dem Vaju dring das grosse Preislied, der reich an allen Gütern vollen Wa
 Поэт, ты хочешь почтить поэта, о получающий жертву сначала.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- त्रिष्टुप्
+- धैवतः
+</details>

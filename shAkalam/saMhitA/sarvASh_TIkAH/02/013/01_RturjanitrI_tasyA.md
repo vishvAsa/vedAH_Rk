@@ -243,3 +243,12 @@ Die Zeit ward Mutter, und von ihr erzeugt ging rasch der Somazweig in Wasser ein
 Это первое молоко стебля достойно гимна.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गृत्समदः शौनकः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

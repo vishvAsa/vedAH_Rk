@@ -253,3 +253,12 @@ Den Somasäften gleichen sie, den kräftigen, die eingeschlürft sich regen, nim
 В их руках соединились пряжка и нож.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- अगस्त्यो मैत्रावरुणिः
+- स्वराट्त्रिष्टुप्
+- धैवतः
+</details>

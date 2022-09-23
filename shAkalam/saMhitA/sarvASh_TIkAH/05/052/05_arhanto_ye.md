@@ -168,3 +168,12 @@ Den Männern preis das Opfer an, was den zu ehrenden gebührt, Die reichlich reg
 Марутам, (повелителям) неба!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- श्यावाश्व आत्रेयः
+- विराडुष्णिक्
+- ऋषभः
+</details>

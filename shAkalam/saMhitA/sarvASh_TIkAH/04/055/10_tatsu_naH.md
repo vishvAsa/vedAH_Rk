@@ -170,3 +170,12 @@ Drum komme schnell uns Savitar, Varuna, Mitra, Arjaman und Bhaga, Indra mit Gesc
 Да придет к нам Индра с вознаграждением!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- वामदेवो गौतमः
+- गायत्री
+- षड्जः
+</details>

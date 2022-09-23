@@ -266,3 +266,12 @@ Den urgebornen Indra, der nicht altert, begrüss' ich euch mit Preis und bester 
 И пусть крепнет великое восхваление Индре!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भरद्वाजो बार्हस्पत्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

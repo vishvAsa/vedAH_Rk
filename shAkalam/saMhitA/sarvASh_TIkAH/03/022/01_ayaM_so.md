@@ -229,3 +229,12 @@ Dies Feuer ist's aus welchem Indra gierig den ausgepressten Soma in den Leib nim
 Тысячную награду, (так) восхваляют тебя, о Джатаведас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरीष्या अग्नयः
+- गाथी कौशिकः
+- त्रिष्टुप्
+- धैवतः
+</details>

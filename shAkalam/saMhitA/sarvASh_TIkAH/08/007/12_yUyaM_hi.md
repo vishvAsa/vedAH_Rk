@@ -165,3 +165,12 @@ Denn ihr seid gabenreich im Haus, o Rudra's, Ribhuherrscher ihr, Und achtsam bei
 И прозорливыми в опьянении.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरूतः
+- पुनर्वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

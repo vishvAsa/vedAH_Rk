@@ -226,3 +226,12 @@ Das stärkste Fett ist aus der Mitte dir geholt; dir haben wir es dargebracht; d
 Прими их, (чтобы распределить) по богам!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गाथी कौशिकः
+- निचृत्पङ्क्ति
+- पञ्चमः
+</details>

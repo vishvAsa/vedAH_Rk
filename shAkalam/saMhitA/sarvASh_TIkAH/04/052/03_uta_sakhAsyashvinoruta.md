@@ -173,3 +173,12 @@ Der Ritter Freundin bist du ja, und bist der Kühe Mutter auch, Und Reichthum ha
 Ты также владеешь добром, о Ушас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- वामदेवो गौतमः
+- निचृद्गायत्री
+- षड्जः
+</details>

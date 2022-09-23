@@ -222,3 +222,12 @@ Der wie ein wilder Stier, ein scharfgehörnter, allein die Völker allesammt ers
 Ты даришь имущество тому, кто больше выжимает.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वसिष्ठः
+- त्रिष्टुप्
+- धैवतः
+</details>

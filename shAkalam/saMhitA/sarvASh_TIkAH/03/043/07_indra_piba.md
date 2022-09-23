@@ -235,3 +235,12 @@ Vom starken trink, den, Indra, starke brauten, den dir der Adler brachte, dem be
 В опьянении которым ты открыл загоны для коров.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- त्रिष्टुप्
+- धैवतः
+</details>

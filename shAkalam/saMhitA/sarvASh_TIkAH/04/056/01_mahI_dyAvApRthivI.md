@@ -215,3 +215,12 @@ Die beiden grossen Erd' und Himmel waren die schönsten hier an Glanz und lichte
 Ревет, распространяясь в движении.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- वामदेवो गौतमः
+- त्रिष्टुप्
+- धैवतः
+</details>

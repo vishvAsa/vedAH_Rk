@@ -240,3 +240,12 @@ Die Maruts, deren Ruhmeswerk an einem Tag den Himmel, wie der Sonnengott, Durchl
 Лучшую силу, убивающую врагов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- शंयुर्बार्हस्पत्यः
+- त्रिष्टुप्
+- धैवतः
+</details>

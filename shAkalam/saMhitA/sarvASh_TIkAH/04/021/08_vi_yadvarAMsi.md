@@ -232,3 +232,12 @@ Wenn ich des Berges Weiten mir eröffne, der Wasser Eile durch die Milch beschle
 Если благочестивые выезжают за добычей.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वामदेवो गौतमः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

@@ -234,3 +234,12 @@ Die hohen Helden schleuderten im Kampf die Lanzen, goldgeschmückt; Es folgte di
 Луч движется с неба сам по себе.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- श्यावाश्व आत्रेयः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

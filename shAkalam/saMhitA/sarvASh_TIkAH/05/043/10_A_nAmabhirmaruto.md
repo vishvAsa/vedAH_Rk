@@ -229,3 +229,12 @@ Fahr alle Maruts her, o Wesenkenner, und lad' sie ein nach Namen und Gestalten; 
 Приезжайте все, о Маруты, все – со (своими) поддержками!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- अत्रिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

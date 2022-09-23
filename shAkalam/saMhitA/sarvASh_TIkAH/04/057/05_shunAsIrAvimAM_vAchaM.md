@@ -178,3 +178,12 @@ Pflug und Lenker, nehmt dieses Lied huldvoll an; mit der Milch, die ihr am Himme
 Оросите ею эту (землю)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शुनासीरौ
+- वामदेवो गौतमः
+- पुरउष्णिक्
+- ऋषभः
+</details>

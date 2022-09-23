@@ -203,3 +203,12 @@ Der preisenswerth beim Opfer jedes Stammes den beiden Jungfraun dient bedachten 
 Алое знамя жертвы, я хочу почитать.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- स्वराट्पङ्क्ति
+- पञ्चमः
+</details>

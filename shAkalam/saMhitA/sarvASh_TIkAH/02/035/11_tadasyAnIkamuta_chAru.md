@@ -230,3 +230,12 @@ Dies sein Erscheinen und sein liebes Wesen, des Wassersohnes, im Verborgnen wäc
 Жир золотого цвета – его пища.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

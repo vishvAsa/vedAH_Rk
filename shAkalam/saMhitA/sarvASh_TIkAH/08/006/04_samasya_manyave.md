@@ -148,3 +148,12 @@ Zu seinem Eifer neigen sich herab die Völker allesammt, Wie zu dem Meer der Str
 Как реки перед морем.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

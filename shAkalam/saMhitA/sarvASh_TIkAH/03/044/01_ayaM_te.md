@@ -227,3 +227,12 @@ Es sei dir dieser holde Saft von goldnen Steinen ausgepresst, Mit goldnen Rossen
 Взойди на золотистую колесницу!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- निचृद्बृहती
+- मध्यमः
+</details>

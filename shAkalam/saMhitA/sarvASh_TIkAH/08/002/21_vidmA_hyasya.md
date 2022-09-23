@@ -153,3 +153,12 @@ Denn wir kennen dieses Helden gabenreiche Gunsterweisung, Des dreifach gebornen 
 Мысли (этого) рожденного в трех (местах).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः
+- निचृदार्षीगायत्री
+- षड्जः
+</details>

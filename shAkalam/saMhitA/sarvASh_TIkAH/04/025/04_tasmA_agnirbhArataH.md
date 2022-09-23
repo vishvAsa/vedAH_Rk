@@ -215,3 +215,12 @@ Den möge Agni Bharata beschützen, und lange schaue der der Sonne Aufgang, Der 
 Для мужа мужественного, самого мужественного из мужей!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वामदेवो गौतमः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

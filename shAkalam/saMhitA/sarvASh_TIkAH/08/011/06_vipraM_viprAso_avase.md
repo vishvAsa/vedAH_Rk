@@ -143,3 +143,12 @@ Mit Liedern rufen Agni wir, den Sänger wir, die Sänger, her, Zum Schutz den Go
 Агни мы зовем хвалебными песнями.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वत्सः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

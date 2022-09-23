@@ -240,3 +240,12 @@ Welch Glanz, o Agni, auf der Erd', im Himmel, in Kräutern, Wassern, dir, o hehr
 Это пронзительный луч, колышащийся, смотрящий на людей.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरीष्या अग्नयः
+- गाथी कौशिकः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

@@ -229,3 +229,12 @@ Nimm an das Brennholz, Agni, und den Opferguss nimm an die Andacht, nimm das sch
 Желающий – желающих, мощно напои жертвенным возлиянием!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गृत्समदः शौनकः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

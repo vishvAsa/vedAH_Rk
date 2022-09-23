@@ -256,3 +256,12 @@ Ihm, dem Gebets Herrn, ward nach Wunsch der Zorn zur That als er zu thun das gro
 Мощно, словно великий поток, (стадо) растеклось в разные стороны.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ब्रह्मणस्पतिः
+- गृत्समदः शौनकः
+- जगती
+- निषादः
+</details>

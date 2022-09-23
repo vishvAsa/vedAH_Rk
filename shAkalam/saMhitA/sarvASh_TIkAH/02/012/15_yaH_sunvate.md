@@ -256,3 +256,12 @@ Du bist es, der dem Presser und dem Koche viel Gut erringt, wahrhafter, ungestü
 Мы хотим провозгласить жертвенную раздачу, (чтобы иметь) прекрасных мужей!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गृत्समदः शौनकः
+- त्रिष्टुप्
+- धैवतः
+</details>

@@ -206,3 +206,12 @@ Die beiden heil'gen mit den heil'gen Göttern, die Welten standen unversehrt, er
 Руководительницы жертвоприношения, сопровождаемые блистательными песнями.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- वामदेवो गौतमः
+- त्रिष्टुप्
+- धैवतः
+</details>

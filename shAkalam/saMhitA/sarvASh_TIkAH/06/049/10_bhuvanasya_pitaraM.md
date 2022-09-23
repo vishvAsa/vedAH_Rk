@@ -211,3 +211,12 @@ Den Weltenvater stärk mit diesen Liedern am Tag den Rudra und bei Nacht den Rud
 Мы хотим призвать, как следует, вдохновленные поэтом.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- त्रिष्टुप्
+- धैवतः
+</details>

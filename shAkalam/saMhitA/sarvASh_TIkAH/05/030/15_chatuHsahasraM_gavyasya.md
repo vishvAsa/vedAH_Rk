@@ -233,3 +233,12 @@ Ja viermal tausend Vieh der Rinderheerde empfingen wir von Ruçamern, o Agni, Un
 Чтобы вскипело (молоко), его тоже взяли себе вдохновенные.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र ऋणञ्चयश्च
+- बभ्रु रात्रेयः
+- पङ्क्तिः
+- पञ्चमः
+</details>

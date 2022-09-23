@@ -184,3 +184,12 @@ Zum Gedeihn seien die Zugstiere, zum Gedcihn die Männer, zum Gedeihen pflüge d
 На счастье помахивай стрекалом!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- शुनः
+- वामदेवो गौतमः
+- अनुष्टुप्
+- गान्धारः
+</details>

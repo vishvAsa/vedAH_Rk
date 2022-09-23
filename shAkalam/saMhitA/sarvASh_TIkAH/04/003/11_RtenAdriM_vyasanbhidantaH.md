@@ -252,3 +252,12 @@ Durch Recht zerstückten sie den Fels, ihn spaltend, die Angirasen jauchzten mit
 Стало видно солнце, когда родился Агни.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वामदेवो गौतमः
+- पङ्क्तिः
+- पञ्चमः
+</details>

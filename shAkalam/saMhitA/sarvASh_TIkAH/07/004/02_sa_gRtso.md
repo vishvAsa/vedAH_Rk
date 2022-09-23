@@ -240,3 +240,12 @@ Der weise Agni sei das Kind der Mutter, aus deren Schooss als jüngster er entst
 Даже много пищи он пожирает сразу же.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वसिष्ठः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

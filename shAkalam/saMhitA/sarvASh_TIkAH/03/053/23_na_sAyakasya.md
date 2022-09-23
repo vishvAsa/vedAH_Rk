@@ -238,3 +238,12 @@ Nicht nimmt man wahr des fliegenden Geschosses, o Leute, nicht reiset man [ná y
 Осла не ведут впереди коней.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- त्रिष्टुप्
+- धैवतः
+</details>

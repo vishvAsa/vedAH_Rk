@@ -229,3 +229,12 @@ Auch jenes grossen Wildes Todeswaffe schlug Indra fort mit seines Armes Stärke;
 Тут возник более сильный, чем он.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गातुरात्रेयः
+- त्रिष्टुप्
+- धैवतः
+</details>

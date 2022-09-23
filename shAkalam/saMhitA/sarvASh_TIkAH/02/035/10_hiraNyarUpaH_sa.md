@@ -234,3 +234,12 @@ Denn golden ist von Farbe er und Ansehn, der Wasser Sohn, und er von goldnem Gla
 Дающие золото дают ему пищу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

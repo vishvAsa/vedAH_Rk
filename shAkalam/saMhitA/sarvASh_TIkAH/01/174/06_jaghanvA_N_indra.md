@@ -214,3 +214,12 @@ Vom Trank gestärkt erschlugst du die verschwornen, die gottvergessnen, Indra, H
 Разбитые тобой, когда они везли (свое) потомство...
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अगस्त्यो मैत्रावरुणिः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

@@ -231,3 +231,12 @@ Die Quellen gleich aus eigner Kraft entsprungen sind, die stürmenden erzeugt zu
 Как тысячи волн на водах, как коровы, как быки.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- अगस्त्यो मैत्रावरुणिः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

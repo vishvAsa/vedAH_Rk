@@ -194,3 +194,12 @@ Den mächt'gen Indra rufen wir zum Heil uns, den männlichsten in diesem Kampf u
 Убивающего врагов, завоевывающего награды!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- त्रिष्टुप्
+- धैवतः
+</details>

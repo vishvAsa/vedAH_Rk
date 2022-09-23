@@ -224,3 +224,12 @@ Und seinem Vorgang folgen wieder andre nach, des Gotts die Götter, kräftig sei
 Бог Савитар со (своим) великолепием.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- श्यावाश्व आत्रेयः
+- जगती
+- निषादः
+</details>

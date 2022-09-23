@@ -259,3 +259,12 @@ Gebt Reichthum, Wagen voll, der Menschen sättigt, der heldenstark das grosse Re
 Овладеть безбожными племенами!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- अतिजगती
+- निषादः
+</details>

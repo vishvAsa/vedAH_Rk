@@ -196,3 +196,12 @@ Es möge Indra in die Furche hineingreifen, die Richtung gebe ihr Puschan; sie m
 Каждый следующий год!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सीता
+- वामदेवो गौतमः
+- अनुष्टुप्
+- गान्धारः
+</details>

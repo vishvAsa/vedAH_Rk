@@ -182,3 +182,12 @@ O Freunde bringet insgesammt dem Agni Lob und Labung dar, Dem herrlichsten der g
 Отпрыску силы, могущественному!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- इष आत्रेयः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

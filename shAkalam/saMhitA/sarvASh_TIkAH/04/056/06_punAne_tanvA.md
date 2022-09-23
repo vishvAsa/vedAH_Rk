@@ -150,3 +150,12 @@ Euch selbst einander reinigend, gebietet ihr durch eigne Kraft; Beachtet stets d
 От века вы соблюдаете закон.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- वामदेवो गौतमः
+- विराड्गायत्री
+- षड्जः
+</details>

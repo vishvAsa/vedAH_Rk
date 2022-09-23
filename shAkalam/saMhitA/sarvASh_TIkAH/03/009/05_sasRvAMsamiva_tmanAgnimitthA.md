@@ -190,3 +190,12 @@ Ihn, welcher eilt nach seiner Art, den Agni, den verborgenen, Ihn führte von de
 Похищенного для богов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गाथिनो विश्वामित्रः
+- निचृद्बृहती
+- मध्यमः
+</details>

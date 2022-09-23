@@ -232,3 +232,12 @@ Ich treibe hin zum raschen, starken Helden die Lieder, wie zum Stall der Hirt di
 Вдохновенным словам красноречивого, как звездам до небосвода.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

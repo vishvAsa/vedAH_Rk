@@ -222,3 +222,12 @@ Der war fürwahr ein Künstler unter Göttern, der diese beiden, Erd' und Himmel
 Силой воздвиг мудрый (в том месте), где нет опоры.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- द्यावापृथिव्यौ
+- वामदेवो गौतमः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+</details>

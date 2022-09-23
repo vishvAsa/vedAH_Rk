@@ -214,3 +214,12 @@ Kommt her, o weise, jugendliche Maruts, ehrwürd'ge ihr, auf das Begehr des Sän
 Приближаясь таким образом (к цели), о мужи, как (это было) у Ангирасов.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- त्रिष्टुप्
+- धैवतः
+</details>

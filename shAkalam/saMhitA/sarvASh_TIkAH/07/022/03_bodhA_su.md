@@ -202,3 +202,12 @@ Beachte recht, o mächt'ger, dies mein Loblied, das dir Vasischtha singt zu dein
 Насладись этими молитвами на совместном пиршестве (сомы)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वसिष्ठः
+- भुरिगनुष्टुप्
+- गान्धारः
+</details>

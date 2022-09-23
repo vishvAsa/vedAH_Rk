@@ -150,3 +150,12 @@ Um tausend Renner flehn wir an den Indra, die uns angeschirrt, Um hundert Eimer 
 О сотне ведер сомы.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वामदेवो गौतमः
+- पादनिचृद्गायत्री
+- षड्जः
+</details>

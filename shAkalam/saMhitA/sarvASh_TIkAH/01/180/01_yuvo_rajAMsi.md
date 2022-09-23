@@ -216,3 +216,12 @@ Wenn durch die Luft die schöngelenkten Rosse und euer Wagen durch die Fluten hi
 Напиваясь меду, вы следуете за Ушас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- अगस्त्यो मैत्रावरुणिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -213,3 +213,12 @@ Durch Männer schlägst du mannhaft viele Feinde beim Göttermahl, o Lenker gold
 Чтоб Дабхити было (их) легко убить.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वसिष्ठः
+- पङ्क्तिः
+- पञ्चमः
+</details>

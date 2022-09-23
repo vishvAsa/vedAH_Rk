@@ -222,3 +222,12 @@ Her mögen dich die hohen angeschirrten Goldfüchse, deine Tischgenossen fahren,
 (Они,) прекрасно вычищенные скребницей, ... быка (-Индры).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

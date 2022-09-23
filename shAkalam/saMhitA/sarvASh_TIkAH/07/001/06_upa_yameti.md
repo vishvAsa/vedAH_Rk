@@ -177,3 +177,12 @@ Dem starken, dem wie eine Jungfrau Abends und Morgens naht die butterreiche Kell
 (А также) при(ближается) к нему подобающая молитва, жаждущая добра...
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वसिष्ठः
+- त्रिष्टुप्
+- धैवतः
+</details>

@@ -188,3 +188,12 @@ Den aufgeregten Stieren gleich bespringen ihre Schecken sie, Drum denken an der 
 Марутов на небе и на земле.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- श्यावाश्व आत्रेयः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

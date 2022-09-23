@@ -222,3 +222,12 @@ Der Wasser Sohn bestieg den Schooss der schrägen Gewölke aufrecht, mit dem Bli
 Его окружают юные (воды) золотого цвета.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

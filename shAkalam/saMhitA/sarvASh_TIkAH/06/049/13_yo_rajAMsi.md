@@ -213,3 +213,12 @@ Der dreimal auch der Erde Räume ausschritt zum Nutzen des bedrängten Menschen,
 Мы хотим радоваться богатству для нас и для (нашего) потомства.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

@@ -249,3 +249,12 @@ Es sei mit euch uns diese alte Freundschaft; von Angiras besungen, schlugst, o h
 Ты раскрыл (его) крепости, все его врата.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भरद्वाजो बार्हस्पत्यः
+- स्वराट्पङ्क्ति
+- पञ्चमः
+</details>

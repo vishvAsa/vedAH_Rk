@@ -171,3 +171,12 @@ Euch drei Ida, Sarasvati und Bharati ruf ich herbei, Ihr möget fördern uns zum
 Поощрите нас к красоте!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आप्रियः
+- अगस्त्यो मैत्रावरुणिः
+- गायत्री
+- षड्जः
+</details>

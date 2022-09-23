@@ -227,3 +227,12 @@ Der Wagen der Açvinen dünkt mich herrlich, der leuchtende, durch Geistes Macht
 Чтоб утешалось (наше) потомство и мы сами.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

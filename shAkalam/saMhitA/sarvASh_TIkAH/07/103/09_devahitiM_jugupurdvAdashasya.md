@@ -221,3 +221,12 @@ Des zwölfgetheilten heil'ge Ordnung wahrend, versäumen nie die rechte Zeit die
 Пылающий зной приходит к концу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मण्डूकाः
+- वसिष्ठः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

@@ -160,3 +160,12 @@ Auch zu dem nahen Opferwerk des bösgesinnten Sterblichen, O Wesenkenner, gehst 
 Ты не принимаешь, о Джатаведас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वत्सः काण्वः
+- विराड्गायत्री
+- षड्जः
+</details>

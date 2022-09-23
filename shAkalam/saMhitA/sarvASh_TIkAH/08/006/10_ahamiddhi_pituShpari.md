@@ -185,3 +185,12 @@ Denn ich empfing vom Vater her des heil'gen Brauches Wissenschaft, Der Sonne gle
 Я (воз)родился, словно солнце.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

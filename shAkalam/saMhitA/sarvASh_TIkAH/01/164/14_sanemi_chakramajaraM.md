@@ -231,3 +231,12 @@ Das mit Radkranz versehene, nicht morsch werdende Rad dreht sich herum, an der a
 На нем помещены все существа.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- दीर्घतमा औचथ्यः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>

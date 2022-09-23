@@ -213,3 +213,12 @@ Dich, Indra, stärkten mächtig diese Tränke, selbstherrlicher, den lichten die
 Хмельные (соки) пусть возбудят победоносного;
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- भरद्वाजो बार्हस्पत्यः
+- त्रिष्टुप्
+- धैवतः
+</details>

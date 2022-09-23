@@ -158,3 +158,12 @@ Und unsern Opferkuchen iss, an unserm Lied erquicke dich, Wie an der Braut der B
 Словно жаждущий жен – юными женами!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वामदेवो गौतमः
+- गायत्री
+- षड्जः
+</details>

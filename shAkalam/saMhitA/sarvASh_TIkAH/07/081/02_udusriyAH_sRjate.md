@@ -208,3 +208,12 @@ Es giesst zugleich die Sonne ihre Strahlen aus, wenn sich erhebt das Glanzgestir
 Хотим мы повстречаться с (нашей) долей в пище.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- वसिष्ठः
+- भुरिग्बृहती
+- मध्यमः
+</details>

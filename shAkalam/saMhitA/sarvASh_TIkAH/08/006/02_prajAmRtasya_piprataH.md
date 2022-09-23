@@ -159,3 +159,12 @@ Wenn Priester ihm des Opfers Spross entgegenbringen führend ihn, Begeistert bei
 Возницы на повозке закона.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

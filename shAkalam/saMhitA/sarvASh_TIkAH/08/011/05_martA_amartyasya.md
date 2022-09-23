@@ -135,3 +135,12 @@ Viel Namen des unsterblichen erkennen wir, die Sterblichen, Des Wesenkenners, pr
 (Мы,) вдохновенные, о Джатаведас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वत्सः काण्वः
+- निचृद्गायत्री
+- षड्जः
+</details>

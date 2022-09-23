@@ -253,3 +253,12 @@ Zum Hüter jedes Weges drang das Loblied, das durch Begier aus Liederlust gescha
 Пусть Пушан приводит к цели каждую молитву!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

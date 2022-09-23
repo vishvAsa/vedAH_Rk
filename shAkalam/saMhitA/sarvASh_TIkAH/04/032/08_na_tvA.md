@@ -153,3 +153,12 @@ Nicht hemmen sie dich anderwärts, wenn du, gerühmter, spenden, willst, den Sä
 Восхвалителям, о Индра, любящий хвалебные песни!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वामदेवो गौतमः
+- गायत्री
+- षड्जः
+</details>

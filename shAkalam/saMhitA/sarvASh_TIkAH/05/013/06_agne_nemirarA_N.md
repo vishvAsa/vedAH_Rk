@@ -168,3 +168,12 @@ Wie Speichen rings des Rades Kranz, umfängst die Götter, Agni, du; Mir wünsch
 Я стремлюсь к яркому дару!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सुतम्भर आत्रेयः
+- गायत्री
+- षड्जः
+</details>

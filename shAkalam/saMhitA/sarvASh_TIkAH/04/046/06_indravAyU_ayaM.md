@@ -147,3 +147,12 @@ Hier, Indra-Vaju, ist der Saft, den trinkt in des Verehrers Haus, Vereinigt mit 
 Пейте его в доме почитающего (вас)!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रवायू
+- वामदेवो गौतमः
+- गायत्री
+- षड्जः
+</details>

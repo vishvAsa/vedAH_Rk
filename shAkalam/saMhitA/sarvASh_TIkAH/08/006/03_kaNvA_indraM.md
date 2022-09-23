@@ -163,3 +163,12 @@ Seit Indra durch der Kanva's Lied zum Opferfördrer ist erseh'n, Heisst Bruder i
 Они обращаются к родному оружию.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

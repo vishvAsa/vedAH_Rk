@@ -236,3 +236,12 @@ Soweit des Leibes Rüstigkeit und Kraft reicht, soviel die Männer schau'n mit i
 О Индра0Ваю, садитесь на эту жертвенную солому!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्रवायू
+- वसिष्ठः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

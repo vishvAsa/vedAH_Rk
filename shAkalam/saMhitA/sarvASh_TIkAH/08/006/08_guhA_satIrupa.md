@@ -162,3 +162,12 @@ Seit die zuvor verborgenen, andächt'gen Kanva's in dem Strom Des frommen Werkes
 Канвы (пылают) потоком истины.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वत्सः काण्वः
+- गायत्री
+- षड्जः
+</details>

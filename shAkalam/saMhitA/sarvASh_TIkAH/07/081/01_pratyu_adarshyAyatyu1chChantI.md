@@ -207,3 +207,12 @@ Des Himmels Tochter ward erblickt, die kommende, erstrahlende; Des grossen Dunke
 Красавица создает свет.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- उषाः
+- वसिष्ठः
+- विराडबृहती
+- मध्यमः
+</details>

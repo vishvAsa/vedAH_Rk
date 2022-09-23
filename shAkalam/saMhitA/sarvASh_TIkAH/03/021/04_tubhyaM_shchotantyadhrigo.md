@@ -204,3 +204,12 @@ O Agni, dir, der mächtig und unhemmbar, dir rinnen zu der fetten Butter Tropfen
 Наслаждайся возлияниями, о мудрый!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गाथी कौशिकः
+- विराडनुष्टुप्
+- गान्धारः
+</details>

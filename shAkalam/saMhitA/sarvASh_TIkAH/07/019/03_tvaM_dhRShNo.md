@@ -205,3 +205,12 @@ Mit Kühnheit, kühner, halfest du dem Sudas, mit aller Hülfe dem beliebten Opf
 Пуру (ты помог) в боях с врагами при захвате земель.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- वसिष्ठः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

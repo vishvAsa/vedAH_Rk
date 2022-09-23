@@ -223,3 +223,12 @@ Ihr Götter seid Versorger, ihr seid Kraft uns, o treibt in weite Ferne unsre Fe
 И пожалейте нас сегодня и в будущем!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- कूर्मो गार्त्समदो गृत्समदो वा
+- त्रिष्टुप्
+- धैवतः
+</details>

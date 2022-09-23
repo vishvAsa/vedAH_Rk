@@ -205,3 +205,12 @@ Ein glänzend Lied tragt vor der Schar der Maruts, der jubelnden, urkräftigen, 
 Дрожит, о Агни, земля перед резвыми (Марутами).
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मरुतः
+- भरद्वाजो बार्हस्पत्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

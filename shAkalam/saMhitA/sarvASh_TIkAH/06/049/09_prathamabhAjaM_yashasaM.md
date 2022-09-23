@@ -213,3 +213,12 @@ Dem schönen, der zuerst empfängt und Kraft gibt, dem Gott, der kunstvoll wirkt
 Пусть почтит ярко сверкающий Агни-хотар, (бог) дома.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

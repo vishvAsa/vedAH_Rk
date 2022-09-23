@@ -236,3 +236,12 @@ Mit einer Fahrt, einmal geschirrt, o schnelle, geh euer Wagen durch die sieben S
 Которые тянут, рвясь вперед, ваше дышло.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अश्विनौ
+- वसिष्ठः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

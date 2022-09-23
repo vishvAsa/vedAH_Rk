@@ -211,3 +211,12 @@ Feldesherr, lass uns die süsse Welle reichlich strömen, so wie Milch die Milch
 Да смилуются над нами господа закона!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- क्षेत्रपतिः
+- वामदेवो गौतमः
+- त्रिष्टुप्
+- धैवतः
+</details>

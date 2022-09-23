@@ -249,3 +249,12 @@ Zum Himmelsende reichten seine Arme, die goldenen, die schlanken, die erhabnen; 
 Даже солнце уступает ему (свою) работу.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- वसिष्ठः
+- त्रिष्टुप्
+- धैवतः
+</details>

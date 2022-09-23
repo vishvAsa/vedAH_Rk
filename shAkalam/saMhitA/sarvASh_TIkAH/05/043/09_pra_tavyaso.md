@@ -217,3 +217,12 @@ Ich hab' den Spruch gelehrt, mit dem man betet zum starken Puschan und zum schne
 И кто также сами – дарители богатства вознаграждения.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- अत्रिः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>

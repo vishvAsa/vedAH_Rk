@@ -195,3 +195,12 @@ Die Sterblichen ergriffen dich, der du den Göttern Tränke fährst, Weil alle O
 Благодаря твоей силе духа, о самый юный.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गाथिनो विश्वामित्रः
+- निचृद्बृहती
+- मध्यमः
+</details>

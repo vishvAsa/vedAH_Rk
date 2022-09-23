@@ -237,3 +237,12 @@ Die weisheitsvoll mit Ueberlegung des Gemüths den Wagen machten, der nicht glei
 О Ваджи, Рибху, мы приглашаем вас.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ऋभवः
+- वामदेवो गौतमः
+- विराड्जगती
+- निषादः
+</details>

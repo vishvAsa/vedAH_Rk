@@ -219,3 +219,12 @@ Vertraulich kosend wandern um den Jüngling die jungen Frau'n, die Wasser, schö
 Богатство, (горящий) в водах без дров, (тот,) чей праздничный наряд – жир.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अपान्नपात्
+- गृत्समदः शौनकः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

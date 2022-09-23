@@ -246,3 +246,12 @@ Dies unser Lied nehm an der Wetterdrache, der Berg und Savitar nebst Wassern, Bl
 Бхага, Пурамдхи вдохнут (в нас) жизнь для (приобретения) богатства!
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- ऋजिश्वाः
+- स्वराट्पङ्क्ति
+- पञ्चमः
+</details>

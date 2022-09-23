@@ -247,3 +247,12 @@ Als meine Freunde angestaunt das Dunkel, verbarg er nicht den Heischenden sein G
 (Тот,) кто, состарившись, в мгновение становится юным.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सोमाहुतिर्भार्गवः
+- आर्षीपङ्क्ति
+- पञ्चमः
+</details>

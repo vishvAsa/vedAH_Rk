@@ -210,3 +210,12 @@ Einmal nur ward der Himmel erzeugt, einmal ward die Erde erzeugt; einmal ward di
 Вслед за этим (никто) другой не рождается
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पृश्निर्वा भूमी वा
+- शंयुर्बार्हस्पत्यः
+- अनुष्टुप्
+- गान्धारः
+</details>

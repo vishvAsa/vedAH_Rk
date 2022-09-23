@@ -220,3 +220,12 @@ Von den zugleich erzeugten [Jahreszeiten] nennen sie die siebente [den Schaltmon
 Меняясь по форме, трясутся на (своем) месте.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- दीर्घतमा औचथ्यः
+- जगती
+- निषादः
+</details>

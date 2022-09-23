@@ -279,3 +279,12 @@ Und diese That auch, wunderbarer, weiser, dass dort die Schlange tödtend Kraft 
 Стремительно двигаясь, ты выдворил дасью.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- अमहीयुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>

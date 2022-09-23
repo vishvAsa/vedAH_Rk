@@ -219,3 +219,12 @@ Das war, o Vadscha's, Ribhu's, euer hoher Ruhm und bei den Göttern, Vibhu's, eu
 Вы сделали снова юными, (способными) двигаться.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- ऋभवः
+- वामदेवो गौतमः
+- विराड्जगती
+- निषादः
+</details>

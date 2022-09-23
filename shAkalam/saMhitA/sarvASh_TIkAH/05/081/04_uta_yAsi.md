@@ -223,3 +223,12 @@ Auch in die drei Lichträume gehst du, Savitar, hinein und labest an der Sonne S
 И ты являешься Митрой, о бог, по (своим) особенностям.
 </details>
 
+
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- श्यावाश्व आत्रेयः
+- विराड्जगती
+- निषादः
+</details>
