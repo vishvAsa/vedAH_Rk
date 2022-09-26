@@ -172,6 +172,13 @@ víśvasmāt ← víśva- (nominal stem)
 इन्द्रविसृज्यमानमनेन' मन्त्रेण वृषाकपिराशास्ते । हे **भल** इन्द्रेण विसृज्यमान शर । भलतिर्भेदनकर्मा । **पर्शुः** **नाम** मृगी । **ह** इति पूरणः । **मानवी** मनोर्दुहितेयं **विंशतिं** विंशतिसंख्याकान् पुत्रान् **साकं** सह **ससूव** अजीजनत् । **त्यस्यै** तस्यै **भद्रं** भजनीयं कल्याणम् **अभूत्** भवतु । लोडर्थे लुङ। **यस्या** **उदरमामयत्** गर्भस्थैर्विंशतिभिः पुत्रैः पुष्टमासीत् । मम पिता **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ ४ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+We also suspect that in the last ṛk of the sūkta, there is an allusion to the human genesis via Manu’s daughter Parśu (mother of the Iranians?) that gives a protogonic link.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -191,7 +198,7 @@ Manu’s daughter, Parśu (“Rib”) by name, gave birth to twenty at once. (Go
 <details><summary>Griffith</summary>
 
 Daughter of Manu, Parsu bare a score of children at a birth.  
-     Her portion verily was bliss although her burthen caused her grief.
+Her portion verily was bliss although her burthen caused her grief.
 </details>
 
 <details><summary>Geldner</summary>
