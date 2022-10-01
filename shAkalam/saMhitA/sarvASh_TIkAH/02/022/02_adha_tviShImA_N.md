@@ -258,8 +258,23 @@ satyáḥ ← satyá- (nominal stem)
 
 <details><summary>सायण-भाष्यम्</summary>
 
-अधअथ सोमपानानन्तरं त्विषीमान् दीप्तिमानिन्द्रः ओजसाबलेनक्रिविं तन्नामासुरंयुधायुद्धेन अभ्यभवत् अभिभूतवान् किञ्च सइन्द्रः रोदसीद्यावापृथिव्यौ आपृणत् स्व्तेजसासमन्तात्पूरयामास तथाअस्यपीतस्यसोमस्यमज्मना बलेनप्रवावृधे प्रकर्षेणवर्धते यद्वा अस्यक्रिवेरसुरस्यमज्मनासारेणरो दसीअपूरयत् सइन्द्रः सोमन्द्वेधाविभज्यान्यम्भागंस्वकीयेजठरेअधत्त ईमेनमपरं भागन्देवेभ्यः प्रारिच्यत प्रारेचयत् एतेनार्धमिन्द्रायअर्धमन्येभ्योदेवेभ्यइत्युक्तम्भवति तथा तैत्तिरीयकम्—यत्सर्वेषामर्धमिन्द्रः प्रतितस्मादिन्द्रोदेवतानाम्भूयिष्ठभाक्तमइति ॥ २ ॥
+**अध** अथ सोमपानानन्तरं **त्विषीमान्** दीप्तिमानिन्द्रः **ओजसा** बलेन **क्रिविं** तन्नामासुरं **युधा** युद्धेन **अभ्यभवत्** अभिभूतवान् 
+
+किञ्च **स** इन्द्रः **रोदसी** द्यावापृथिव्यौ **आपृणत्** स्व-तेजसा समन्तात् पूरयामास तथा अस्य पीतस्य सोमस्य **मज्मना** बलेन **प्रवावृधे** प्रकर्षेण वर्धते  
+यद्वा अस्य क्रिवेर् असुरस्य **मज्मना** सारेण **रोदसी** अपूरयत् **स** इन्द्रः सोमन् द्वेधा विभज्यान्यम् भागं स्वकीये **जठरे अधत्त ईम् एनम्** अपरं भागन् देवेभ्यः **प्रारिच्यत** प्रारेचयत् एतेनार्धम् इन्द्राय अर्धम् अन्येभ्यो देवेभ्य इत्य् उक्तम् भवति।  
+
+तथा तैत्तिरीयकम्—यत् सर्वेषाम् अर्धम् इन्द्रः प्रति तस्माद् इन्द्रो देवतानाम् भूयिष्ठभाक्तम इति ॥ २ ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Then the brilliant one with his energy overcame the leathery one (ahi) in battle,
+Filling forth the world hemispheres with his might he expanded.
+Taking anything else into his belly, indeed there was space for more.
+A god attending on the god, the true indu for the true indra.
+</details>
+
+
 
 <details><summary>Wilson</summary>
 
@@ -281,8 +296,8 @@ He received the other in his belly, and there was more (soma) left over. – The
 <details><summary>Griffith</summary>
 
 So he resplendent in the battle overcame Krivi by might. He with his majesty hath filled the earth and heaven, and waxen strong.  
-     One share of the libation hath he swallowed down: one share he left.  
-     So may the God attend the God, true Indu Indra who is true.
+ One share of the libation hath he swallowed down: one share he left.  
+ So may the God attend the God, true Indu Indra who is true.
 </details>
 
 <details><summary>Geldner</summary>
