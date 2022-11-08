@@ -21,9 +21,8 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 > It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
 > What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
 
-इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्।  
+इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्। बहुत्र +अर्वाचीनछन्दोरागानुकरणम् इवैव भाति।   
 </details>
-
 
 
 हिर॑ण्यवर्णां॒ हरि॑णीं सुव॒र्णर॑ज॒तस्र॑जाम्।  
@@ -70,6 +69,20 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 
 तां म॒ आव॑ह+++(स्वरः?)+++ जात॑वेदो ल॒क्ष्मीम् अन॑पगा॒मिनी॑॑म्।  
 यस्यां॒ हिर॑ण्यं॒ प्रभू॑तं॒ गावो॑ दा॒स्यो ऽश्वा॑॑न् वि॒न्देयं॒ पुरु॑षान् अ॒हम्॥
+
+(पद्मप्रिये पद्मिनि प॑द्महस्ते  
+पद्मालये पद्मदला॑यताक्षि ।  
+विश्वप्रिये विष्णुमनोऽनुकूले  
+त्वत्पा॑दपद्मं मयि॒ स॑न्नि॑धत्स्व ॥  
+श्रिये॑ जा॒तः श्रिय आनि॑र्याय  
+श्रियं वयो॑ जनि॒तृभ्यो॑ दधातु ।  
+श्रियं॒ वसा॑ना अमृत॒त्वम् आ॑य॒न्  
+भज॑न्ति स॒द्यः स॑वि॒ता विदध्यू॑न् ।।  
+श्रय॑ ए॒वैनं तच् छ्रियामा् आ॑दधा॒ति ।  
+सन्ततम् ऋचा वषट्-कृत्यं  
+सन्धत्तं संधीयते प्रज॑या प॒शुभिः ।  
+य ए॒वं वे॒द ।)
+
 
 ## काशीकर-पाठः
 क्वचित् स्वरः सन्देहास्पदम्। उदात्त एव दर्शितः।
