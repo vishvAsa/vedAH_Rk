@@ -85,7 +85,11 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 
 
 ## काशीकर-पाठः
+<details><summary>विश्वास-टिप्पनी</summary>
+
 क्वचित् स्वरः सन्देहास्पदम्। उदात्त एव दर्शितः।
+</details>
+
 
 <details><summary>मानसतरङ्गिणीकृत्-परिचयः</summary>
 
