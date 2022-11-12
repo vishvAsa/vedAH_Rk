@@ -7,11 +7,7 @@ unicode_script = "devanagari"
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/_index.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-
-## सूक्तम्
-
-
-### पुरुषस्वरूपम्
+## पुरुषस्वरूपम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/01_sahasrashIrShA_puruShaH.md">
 <details open><summary><h2>०१ सहस्रशीर्षा पुरुषः ...{Loading}...</h2></summary>
 
@@ -47,7 +43,7 @@ unicode_script = "devanagari"
 </details>
 </div>  
 
-### सृष्टिः
+## सृष्टिः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/04_tripAdUrdhva_udaitpuruShaH.md">
 <details open><summary><h2>०४ त्रिपादूर्ध्व उदैत्पुरुषः ...{Loading}...</h2></summary>
 
@@ -127,7 +123,7 @@ unicode_script = "devanagari"
 </details>
 </div>
 
-### समाजोद्भवः
+## समाजोद्भवः
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/12_yatpuruShaM_vyadadhuH.md">
 <details open><summary><h2>१२ यत्पुरुषं व्यदधुः ...{Loading}...</h2></summary>
 
@@ -167,7 +163,7 @@ unicode_script = "devanagari"
 </div>
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-### पुरुषस्तुतिः, यज्ञस्तुतिः
+## पुरुषस्तुतिः, यज्ञस्तुतिः
 वेदा॒हम् ए॒तं पुरु॑षं म॒हान्त॑म् । आ॒दि॒त्यव॑र्णं॒ तम॑सस् तु॒ पा॒रे ।  
 सर्वा॑णि रू॒पाणि॑ वि॒चित्य॒ धीरः॑ । नामा॑नि कृ॒त्वाऽभि॒वद॒न् यद् आस्ते॑ । १६
 
