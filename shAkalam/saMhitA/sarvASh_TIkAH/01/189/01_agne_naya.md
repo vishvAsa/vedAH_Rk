@@ -180,6 +180,15 @@ __________
 
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+O Agni, lead us to wealth by an easy path:  
+you know all the rituals, O god.  
+Keep us from ritual transgression.  
+May we offer you the greatest reverence.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
