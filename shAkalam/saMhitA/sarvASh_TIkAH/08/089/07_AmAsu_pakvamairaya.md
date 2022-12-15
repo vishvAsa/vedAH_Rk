@@ -148,18 +148,62 @@ júṣṭam ← júṣṭa- (nominal stem)
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे इन्द्र **आमासु** अपक्वासु गोषु **पक्वं** पयः **ऐरयः** प्रैरयश्च । तथा मन्त्रः - ‘ आमासु चिद्दधिषे पक्वमन्तः' (ऋ. सं. १. ६२. ९) इति । किंच **दिवि** द्युलोके **सूर्यम्** **आ** **रोहयः** च । पूर्वं पणयो नामासुरा अङ्गिरसां गा अपहृत्यान्धकारावृते कस्मिंश्चित्पर्वते ताः स्थापितवन्तः । ततोऽङ्गिरस इन्द्रं स्तुत्वा गाः पुनरस्मभ्यमाहरेति तैरुक्त इन्द्रो गवां स्थानं तमसावृतं दृष्ट्वा तत्र गोदर्शनाय द्युलोके सर्वप्रकाशकं सूर्यमारोहितवान् । स्थापितवानसि । 'चादिलोपे विभाषा' इति पूर्वस्यैरय इत्यस्य न निघातः । अथ परोक्षकृतोऽर्धर्चः । हे स्तोतारः **सुवृक्तिभिः** शोभनाभिः स्तुतिभिः **तपत** इन्द्रं तीक्ष्णीकुरुत । इन्द्रं स्तुतिभिः प्रवर्धयतेत्यर्थः । तत्र दृष्टान्तः । **घर्मं** **न** । यथा घर्मं दीपनशीलं प्रवर्ग्यं सामन् । 'सुपा सुलुक्°' इति तृतीयाया लुक् । सामभिर्यथा तपन्ति तद्वत् । ततः **गिर्वणसे** गीर्भिर्वननीयायेन्द्राय **जुष्टं** प्रीतिकरं पर्याप्तं वा **बृहत्** साम गायत ॥ ॥ १२ ॥
+हे इन्द्र **आमासु** अपक्वासु गोषु **पक्वं** पयः **ऐरयः** प्रैरयश्च । तथा मन्त्रः - ‘ आमासु चिद्दधिषे पक्वमन्तः' (ऋ. सं. १. ६२. ९) इति । किंच **दिवि** द्युलोके **सूर्यम्** **आ** **रोहयः** च ।  
+
+पूर्वं पणयो नामासुरा अङ्गिरसां गा अपहृत्यान्धकारावृते कस्मिंश्चित् पर्वते ताः स्थापितवन्तः ।  
+ततोऽङ्गिरस इन्द्रं स्तुत्वा "गाः पुनर् अस्मभ्यम् आहरे"ति,  
+तैर् उक्त इन्द्रो गवां स्थानं तमसावृतं दृष्ट्वा  
+तत्र गोदर्शनाय द्युलोके सर्वप्रकाशकं सूर्यम् आरोहितवान् । स्थापितवानसि ।  
+'चादिलोपे विभाषा' इति पूर्वस्यैरय इत्यस्य न निघातः । 
+
+अथ परोक्षकृतोऽर्धर्चः । 
+
+हे स्तोतारः **सुवृक्तिभिः** शोभनाभिः स्तुतिभिः **तपत** इन्द्रं तीक्ष्णी-कुरुत । इन्द्रं स्तुतिभिः प्रवर्धयतेत्यर्थः । 
+
+तत्र दृष्टान्तः - **घर्मं** **न** ।  
+यथा **घर्मं** दीपन-शीलं प्रवर्ग्यं **सामन्** ।  
+'सुपा सुलुक्°' इति तृतीयाया लुक् ।  
+सामभिर्यथा तपन्ति तद्वत् । 
+
+ततः **गिर्वणसे** गीर्भिर् वननीयायेन्द्राय **जुष्टं** प्रीतिकरं पर्याप्तं वा **बृहत्** साम गायत ॥ ॥ १२ ॥
 </details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+आमास्व् अतप्तासु भूमिष्ठास्व् अप्सु **पक्वं** परिणतं दिवि नवमासधृतं पक्ववद् उदकम् **ऐरयः** प्रेरयसि  
+हे इन्द्र!  
+त्वं **सूर्यं** च **दिव्य् आरोहयः** आरोहयसि आसमन्तादारोप्य प्रकाशयसि ।  
+'प्राणो वा इन्द्रः' इति प्राणवृत्तिर्भगवानुदेति । 
+
+इदानीं प्रत्यक्षवद् इन्द्र उच्यते -  
+
+**घर्मं न** प्रवर्ग्यमिव सामन् साम्नि सामविषयाभिस्सुवृक्तिभिः, सुष्ठु शोभनं वा आवृज्यते याभिस् स्तुतिभिस् तास् **सुवृक्तयः** । 'मन्क्तिन्व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् । 
+
+यद्वा - **सुवृक्तिभिश्** शोभनभक्तिभिस् सामभिः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । सामन्निति व्यत्ययेन तृतीयाबहुवचनस्य सप्तम्येकवचनं, तस्य च 'सुपां सुलुक्' इति लुक् ।   
+ननु तृतीयाबहुवचनस्यैव लुगस्तु ? नैवं शक्यते । 'न ङिसम्बुद्ध्योः' इति नलोपप्रतिषेधो न स्यात् । 
+
+**जुष्टम्** इन्द्रस्य प्रियं भागं **तपत** ।  
+तस्मै महानुभावाय इन्द्राय दातुं तद्योग्यं संस्कुरुत ।  
+सांहितिकोस्य दीर्घश्छान्दसः ।  
+जुष्टशब्दस्याद्युदात्तत्वमुक्तम् । 
+
+किञ्च - **गिर्वणसे** गीर्भिर्वननीयाय भजनीयाय स्तोतव्यायेन्द्राय इन्द्रार्थं गिरः वाचश्च स्तुतिरूपाः तपतेत्येव ।  
+गीर्भिर्वननीय इति 'गतिकारकयोरपि ' इत्यसुन्, पूर्वपदप्रकृतिस्वरत्वं च । स चास्मभ्यं ब्रह्मवर्चसं ददात्विति ॥
+</details>
+
 
 <details><summary>Wilson</summary>
 
 ### English translation:
 
-“In the immature (cows) you produced the mature (milk), you caused the sun to arise in heaven,(priests), excite (**Indra**) with your praises as men heat the **gharma** with **sāman** hymns. (sing) the acceptableBṛhat sāman to him who is to be honoure dby song.”
+“In the immature (cows) you produced the mature (milk),  
+you caused the sun to arise in heaven,(priests),  
+excite (**Indra**) with your praises  
+as men heat the **gharma** with **sāman** hymns. (sing) the acceptableBṛhat sāman to him who is to be honoure dby song.”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
-You caused the sun to arise in heaven: repetition of thelegend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing thatthe stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat thegharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargyaceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
+You caused the sun to arise in heaven: repetition of the legend of he **paṇis** and the stolen cows of the **Aṅgirasas**. The Ṛṣis implored Indra for help, who, seeing that the stronghold of the **asuras** was enveloped in thick darkness, set the sun in the sky to dispel it; as men heat the gharma: for the hymns of the ceremony of heating the **mahāvīra** or gharma pot, used in the pravargya ceremony; cf. **Aitareya** **Brāhmaṇa** 1.21
 </details>
 
 <details><summary>Jamison Brereton</summary>
@@ -174,6 +218,15 @@ well-twisted ornaments.
 Raw kine thou filledst with ripe milk. Thou madest Surya rise to heaven.,  
      Heat him as milk is heated with pure Sama hymns, great joy to him who loves the song.
 </details>
+
+<details><summary>Keith</summary>
+
+In the raw thou didst produce the cooked,  
+And madest the sun to mount in the sky;  
+Like the glowing pot heat ye the Saman  
+With good prayers, delightful to the lover of song.
+</details>
+
 
 <details><summary>Geldner</summary>
 
