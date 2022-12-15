@@ -181,20 +181,61 @@ vrajé ← vrajá- (nominal stem)
 
 <details><summary>सायण-भाष्यम्</summary>
 
-**यत्** यदा **पार्याः** युद्धभरणनिमित्ताः **ताः** प्रसिद्धाः धियः कर्माणि युनजते प्रयुज्यन्ते तदा नरः नेतारः यम् इन्द्र नेमधितो नेमधितौ संग्रामे हवन्ते ह्वयन्ति सः त्वं **शूरः** **नृषाता** नृणां संभक्ता च **शवसः** बलस्य बलं चकानः कामयमानश्च सन् 'गोमति **व्रजे** गोठे गोसमूहे **नः** अस्मान् **आ** **भज** प्रापय ॥
+**यत्** यदा **पार्याः** युद्धभरणनिमित्ताः  
+**ताः** प्रसिद्धाः **धियः** कर्माणि  
+**युनजते** प्रयुज्यन्ते,  
+
+तदा **नरः** नेतारः यम् **इन्द्रं नेमधिता** नेमधितौ संग्रामे **हवन्ते** ह्वयन्ति  
+सः त्वं **शूरः** **नृषाता** नृणां संभक्ता च  
+**शवसः** बलस्य बलं **चकानः** कामयमानश्च सन् **गोमति** **व्रजे** गोठे गोसमूहे **नः** अस्मान् **आ** **भज** प्रापय ॥
 </details>
+
+<details><summary>भट्टभास्करटीका</summary>
+
+**नरो** मनुष्या **इन्द्रं हवन्ते** आह्वयन्ति ।
+
+कीदृशम् ? **नेमधिता**।  
+**नेम** इत्यर्धस्य नाम ।  
+'यत् सर्वेषाम् अर्धम् इन्द्रः प्रति' इति सर्वेषां भागार्धेन इन्द्रो धीयते धार्यत इति **नेमधितः** ।  
+निष्ठायां 'सुधितवसुधितनेमधित' इति धिभावो निपात्यते, 'सुपां सुलुक्' इति द्वितीयैकवचनस्याकारः, 'तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् ।
+
+कदा पुनर् असौ नेमेन धार्यत इत्याह - **यद्** यदा । तेनैव सप्तम्या लुक् ।  
+**पार्याः** परलोके साधवः । छान्दसो ञ्यः ।  
+यद्वा - दुःखानां पारं समाप्तिः । तत्र सध्वीर् धियः कर्माणि ता यदर्थम् **इन्द्रम्** आह्वयन्ति ।
+
+ता यदा युनजते युञ्जते अनुतिष्ठन्ति तदा नेमधितेति ।  
+'छन्दस्युभयथा' इत्यार्धधातुकत्वेन श्नमो ङित्त्वाभावात्, 'श्नसोरल्लोपः' इति न प्रवर्तते ।   
+अथेन्द्रः प्रत्यक्षम् उच्यते - **शूरः** वीरः ।  
+**नृषाता** नृभिर् मनुष्यैः **साता** सातः सम्भक्तः आश्रितः नृषातः ।  
+पूर्ववदाकारः, 'जनसनखनां सञ्झलोः' इत्यात्वं, पूर्ववत्पूर्वपदप्रकृतिस्वरत्वं, सुषामादित्वात्षत्वम् ।  
+यद्वा - **नरो** मनुष्याः सनितारस्सम्भक्तारः दातारो वा यस्य **नृषाता** । छान्दसमात्वं, 'ऋतश्छन्दसि' इति कबभावः ।
+
+**शवसो** बलस्य नेतारो यस्य दातारो यजमाना[यजना]धीन-बलत्वात् ।  
+यद् वा - **शवसो** बलस्य नृभ्यो दाता ।  
+छान्दसम् आत्वम्, पूर्वपदप्रकृतिस्वरत्वं च ।
+
+**चकानस्** तृप्ति-शीलः ।  
+चक तृप्तौ, भौवादिकः उदात्तेत्, ताच्छीलिकश्चानश्, 'बहुलं छन्दसि' इति शपो लुक् ।
+
+ईदृशस् त्वं नो ऽस्मान् **गोमति व्रजे** गोजाविमनुष्यादिमति सङ्घाते ।  
+यद्वा - **व्रजे** गोष्ठे भूयिष्ठगोभिर् युक्ते आभन आभिमुख्येनास्मान्योजय पशुमन्तं मां कुरु । 'द्व्यचोतस्तिङः' इति संहितायां दीर्घत्वम् ॥
+</details>
+
+
 
 <details><summary>Wilson</summary>
 
 ### English translation:
 
-“Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who arehero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
+“Men invoke **Indra** in battle when those actions which lead to victory are performed; do you who are hero, the benefactor of man, the desirer of prowess, plural ce us in possession of pastures abounding with cattle.”
 </details>
 
 <details><summary>Jamison Brereton</summary>
 
-Indra do men call upon when facing the other side, so that he will hitch  up these insights (of theirs) (to be) decisive.  
-As champion at the winning of men, taking pleasure in your strength,  give us a share in the enclosure containing cattle.
+Indra do men call upon when facing the other side,  
+so that he will hitch  up these insights (of theirs) (to be) decisive.  
+As champion at the winning of men,  taking pleasure in your strength,   
+give us a share in the enclosure containing cattle.
 </details>
 
 <details><summary>Griffith</summary>
@@ -202,6 +243,15 @@ As champion at the winning of men, taking pleasure in your strength,  give us a 
 MEN call on Indra in the armed encounter that he may make the hymns they sing decisive.  
      Hero, rejoicing in thy might, in combat give us a portion of the stall of cattle,
 </details>
+
+<details><summary>Keith</summary>
+
+Indra men call in reverence  
+That he may cause their prayers to be accomplished;  
+Hero, men overpowering, delighting in strength, 
+Do thou confer upon us a stall full of kine.
+</details>
+
 
 <details><summary>Geldner</summary>
 
