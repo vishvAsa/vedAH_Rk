@@ -166,6 +166,14 @@ urúm ← urú- (nominal stem)
 हे **इन्द्र** **क्षत्रं** क्षतात्त्रायकं **वामं** वननीयं **ओजः** बलमभिलक्ष्य **अजायथाः** उत्पन्नोऽसि । हे **वृषभ** कामानां वर्षितः **चर्षणीनां** मनुष्याणामस्माकम् ॥ ‘नामन्यतरस्याम्' इति नाम उदात्तत्वम् ॥ **अमित्रयन्तम्** । अमित्रः शत्रुः । स इवाचरन्तं **जनम्** **अपानुदः** अपागमयः । **देवेभ्यः** च **उरुं** विस्तीर्णं **लोकं** स्वर्गाख्यम्   **अकृणोः** अकार्षीः । उशब्दः समुच्चये ॥ ॥ ३८ ॥
 </details>
 
+
+<details><summary>भट्टभास्करटीका</summary>
+
+हे इन्द्र वामं वननीयं क्षत्रं क्षत्रियस्य भावं धनं वा ओजो बलं चाभ्यजायथाः अभिलक्ष्य जातोसि । वरिष्ठेन क्षत्रादिना लक्ष्यमाणजनन इत्यर्थः । चर्षणीनां मनुष्याणां वृषभ कामानां वर्षितः अभिमतस्य दातरित्यर्थः । पूर्ववन्नाम उदात्तत्वम् । एवं सामर्थ्यमुपकारतस्स्वभावतश्च प्रतिपाद्य इदानीं स्वाभिमतं प्रार्थयते - तादृशस्त्वमस्मास्वमित्रयन्तं शत्रुभावमिच्छन्तं जनमपानुदः अपनुद अपकृष्यनाशय । छान्दसो लङ् ।
+
+किञ्च – देवेभ्यो हविःप्रदानादिव्यवहारिभ्य उरुं विस्तीर्णं लोकं स्थानमकृणोः कुरु । छान्दसो लङ्, 'धिन्विकृण्व्योरच' इत्युप्रत्ययः । उ इति पादपूरणे अवधारणे वा । देवेभ्य इति षष्ठ्यर्थे वा चतुर्थी । देवानां विस्तीर्णं लोकमस्मभ्यं देहीति ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -185,6 +193,14 @@ wide-place for the gods.
 
 Thou, mighty Indra, sprangest into being as strength for lovely lordship o'er the people.  
      Thou drovest off the folk who were unfriendly, and to the Gods thou gavest room and freedom.
+</details>
+
+<details><summary>Keith</summary>
+
+O Indra, thou wast born for rule,  
+for prosperous strength Of the people, O strong one;  
+Thou didst smite away the unfriendly folk,  
+And madest wide room for the gods.
 </details>
 
 <details><summary>Geldner</summary>
