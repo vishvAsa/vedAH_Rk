@@ -167,6 +167,18 @@ u ← u (invariable)
 हे **पुरुहूत** बहुभिः आहूतेन्द्र **ते** त्वदीयं **रथम्** **अश्वाय** अश्वाभ्यां संयोगार्हम् **अनवः** । अनवो मनुष्याः । ऋभवः **तक्षन्** अतक्षन् अकुर्वन् । **त्वष्टा** च त्वदीयं **वज्रं** **द्युमन्तं** दीप्तिमन्तम् अकरोत् । **उ** अपि च **महयन्तः** **इन्द्रं** पूजयन्तः **ब्रह्माणः** अङ्गिरसः परिवृढा मरुतो वा **अहये** अहिं वृत्रं **हन्तवै** हन्तुम् **अर्कैः** स्तोत्रैः **अवर्धयन्** वर्धितवन्तः ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे **पुरुहूत** बहुभिर् आहूत **इन्द्र ते** तव **रथम् अनवो** मनुष्यास् **तक्षन्** तक्षन्तु संस्कुर्वन्तु । लङ् लोडर्थे, अडभावश्छान्दसः ।  
+
+**अश्वायाश्वं** योक्तुं यथा योग्यो भवति तथा संस्कुर्वन्तु ।  
+यद्वा - **अश्वाय** व्याप्तिमते तुभ्यं यथा पर्याप्तो भवति त्वष्टा देवानां शिल्पी वज्रं तक्षतु तीक्ष्णीकरोतु । कीदृशम् द्युमन्तं दीप्तिमन्तम् ।
+
+किञ्च - **ब्रह्माणः** ब्राह्मणाश्च त्वाम् **इन्द्रम्** ईश्वरं **अर्कैर्** मन्त्रैः हविर् लक्षणैर् अन्नैर् वा **महयन्तः** पूजयन्तः **अवर्धयन्** वर्धयन्तु यशसा । 
+
+किमर्थं ? **अहये** अघाय अहिंसनाय आगत्य हन्तीत्य् अहिस् सर्पादिः । 'आङि शृहनिभ्यां ह्वस्वश्च' इतीण्प्रत्ययः । कर्मणि चतुर्थी । हन्तवै हन्तुम् । 'तुमर्थे सेसेन्' इति तवैप्रत्ययः । 'अन्तश्च तवै युगपत्' इत्याद्यन्तयोरुदात्तत्वम् । उः पादपूरणे । त्वं चास्माकं महायज्ञमुपनयेति ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -202,6 +214,15 @@ The last word of this vs. is śúṣṇam. Generally, of course, this is the nam
 Anus have wrought a chariot for thy Courser, and Tvastar, Much-invoked! thy bolt that glitters.  
      The Brahmans with their songs exalting Indra increased his strength that he might slaughter Ahi.
 </details>
+
+<details><summary>Keith</summary>
+
+The Anus have wrought a chariot for thy steed;  
+Tvastr a glorious bolt, O thou invoked of many;  
+The Brahmans magnifying Indra with their praises  
+Have strengthened him for the slaying of the serpent.
+</details>
+
 
 <details><summary>Geldner</summary>
 
