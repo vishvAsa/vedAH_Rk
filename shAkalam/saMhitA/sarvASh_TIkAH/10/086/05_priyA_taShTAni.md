@@ -180,6 +180,16 @@ víśvasmāt ← víśva- (nominal stem)
 **मे** मह्यमिन्द्राण्यै **तष्टानि** यजमानैः कल्पितानि **प्रिया** प्रियाणि **व्यक्ता** व्यक्तान्याज्यैर्विशेषेणाक्तानि हवींषि कश्चित् वृषाकपेर्विषये वर्तमानः **कपिः** **व्यदूदुषत्** दूषयामास । ततोऽहम् **अस्य** तत्कपिस्वामिनो वृषाकपेः **शिरो** **नु** क्षिप्रं **राविषं** लुनीयाम् । **दुष्कृते** दुष्टस्य कर्मणः कर्त्रे वृषाकपयेऽस्मै **सुगं** सुखं न **भुवम्** अहं न भवेयम् । अस्मै सुखप्रदात्री न भवामीत्यर्थः । अस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ॥ १ ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Sāyaṇa is literally correct, but again misses the spirit, or rather has missed it throughout the hymn. Indra was reproached in the second verse for his partiality or over-kindness to Vr̥ṣākapi, but Indrānī was not satisfied with it, and if Indra failed to punish the Kapi, she took the matter in her own hand. Says she : "O Indra ! as you (thus) protect this (your) favourite Vr̥ṣākapi, let the dog, eager (to chase ) a hog (varāha ), bite him at his ear. The Kapi spoilt my favourite things.[^†] I shall, therefore, cut off his head, in order that an evil-doer may not enjoy happiness. Indra is in the upper (portion) of the universe," 
+
+[^†]: The word in the original is taṣṭāni, which literally means made, shaped, &c. Mādhava Bhaṭṭa understands it to mean oblations offered to Indraṇī. I translate it by things generally. Whatever meaning we may adopt, it is quite evident that the Kapi's interfering with them has offended lndrāṇī.
+
+Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog at his ear, and cutting off his head. I have in a previous chapter shown how the figure of Mr̥ga's head is to be obtained in the sky. Taking the three stars in the belt of Orion as the top of the head, the dog is close by the right ear of Mr̥ga and may properly be said to bite it. The word varāha also points out the place where we may expect to find the dog. In Rig. i. 61.7, varāha is said to be killed by Vishnu beyond a mountain, which, in all probability, is the same story as that of Indra killing Vr̥tra. +++(\* ln Rig. x. 99, 6, Indra is said to have killed Trishīrśan, had with his aid Trita killed varāha. )+++ A dog chasing varāha is therefore no other than Canis Major following the constellation of Orion, or the " antelope's head " representing Vr̥tra. Sāyaṇa and Yāska and even European scholars are silent as to who this dog is. The verses, in fact, may be said to have remained altogether unexplained hitherto, though the words themselves are simple enough and have caused no difficulty. 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

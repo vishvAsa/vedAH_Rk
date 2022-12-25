@@ -183,6 +183,15 @@ víśvasmāt ← víśva- (nominal stem)
 हे इन्द्र **त्वां** प्रति **हरितः** हरितवर्णः **मृगः** मृगभूतः **अयं** वृषाकपिः। मृगजातिर्हि वृषाकपिः । **किं** प्रियं **चकार** अकार्षीत् । **यस्मै** वृषाकपये **पुष्टिमत्** पोषयुक्तं **वसु** धनम् **अर्यो**  **वा** उदार इव स त्वं **नु** क्षिप्रम् **इरस्यसीत्** प्रयच्छस्येव । यः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Sāyaṇa following the Anukramaṇi, understands the verse as addressed by Indrāṇī to Indra. Ludwig and Grassmann, on the other hand, take it to be addressed by Indra to Indrāṇī; and this construction seems better than that of Sāyaṇa. It may, however, be here, once for all, remarked that though scholars thus differ in assigning verses to different deities, yet it does not, on the whole, materially alter the legend incorporated in the hymn.
+
+Says Indra : " What has this Vr̥ṣākapi, in the form of a yellow antelope, done to thee that you are so much angry with him? Was it the rich possession (wealth) of the Aryans? Indra, &c."
+
+The form, in which Vr̥ṣākapi is here said to have appeared, should be specially noted. Harita means yellow, and yellow animals (Haritaḥ) are said to be yoked to the carriage of Aditya in Nighaṇṭu ( 1, 15 ). There the word is, however, understood lo be the plural of Harit, by the commentators in conformity to Rig, i. 115. 3 and . 48. 9, where the sun is said to have seven horses yoked to his carriage. But I think that the same idea may give rise to the conception that the sun is represented by a single yellow animal, and we may take the passage in the Nighaṇṭu as referring also to the verse under consideration. I have previously alluded to the fact that the dog at the Chinvat bridge in the Parsi traditions is described as zaritem, that is, of the same colour as the antelope in the third verse. But the question of colour cannot be taken as finally settled until we first definitely decide what animal is represented by Mr̥ga.\*  +++(• See Dr. Rajendralal's Indo-Aryans, Vol, II., p. 303.)+++
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:

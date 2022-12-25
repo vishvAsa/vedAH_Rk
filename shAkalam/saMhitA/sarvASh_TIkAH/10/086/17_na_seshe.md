@@ -179,6 +179,12 @@ víśvasmāt ← víśva- (nominal stem)
 **सः** जनः **न** **ईशे** मैथुनं कर्तुं नेष्टे **यस्य** जनस्य **निषेदुषः** शयानस्य **रोमशम्** उपस्थं **विजृम्भते** विवृतं भवति । **सेत्** स एव जनः **ईशे** ईष्टे मैथुनं कर्तुं शक्नोति **यस्य** जनस्य **कपृत्** प्रजननं **सक्थ्या** सक्थिनी **अन्तरा** **रम्बते** लम्बते । सिद्धमन्यत् । पूर्वोक्तव्यतिरेकोऽत्र द्रष्टव्यः । पूर्वस्यामृचि यियप्सुरिन्द्राणीन्द्रं वदति । अत्र त्वयियप्सुरिन्द्र इन्द्राणीं वदतीत्यविरोधः ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, and the seventeenth to Indrāṇī by Indra. In the fifteenth Indrāni, according to Sāyāṇa, asked Indra to sport with her just as a bull, with pointed horns, roars amongst a number of cows. The next two verses do not appear to be relevant to our purpose. We may therefore pass these over, and resume the thread of the story. Pischel and Geldner suppose that the 17th and 18th verses are addressed by Vr̥ṣakapāyī. 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

@@ -177,6 +177,12 @@ víśvasmāt ← víśva- (nominal stem)
 We also suspect that in the last ṛk of the sūkta, there is an allusion to the human genesis via Manu’s daughter Parśu (mother of the Iranians?) that gives a protogonic link.
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Sāyaṇa translates, "O arrow I Manu's daughter, named Parśu, gave birth to twenty (sons) together. Let her whose belly was big be happy! Indra is in the upper (portion) of the universe." I cannot, however, understand what it means. Parshu, according to Sāyaṇa, is a Mr̥gī or a female antelope. But why address the arrow to give happiness to her ? Can it have any reference to the arrow with which Orion was killed ? Then who are these twenty sons ? Are they the same as twenty mentioned in verse 14 ? Is it likely that twenty alone are mentioned leaving the additional fifteen to be understood from the context?
+
+The concluding verse undoubtedly appears to be benedictory. But I have not found a satisfactory solution of the above questions, Perhaps bhala meaning 'auspicious,' may be used for Vr̥ṣākapi, and Indra addressing him pronounces benediction on the female that gave birth to the yellow antelope and several other stars that are supposed to be either killed or swallowed by Indra in this hymn. But I cannot speak with certainty on the point and must leave the verse as it is. 
+</details>
 
 
 <details><summary>Wilson</summary>

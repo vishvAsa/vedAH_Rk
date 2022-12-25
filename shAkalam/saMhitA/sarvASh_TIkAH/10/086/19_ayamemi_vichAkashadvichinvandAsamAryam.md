@@ -144,6 +144,18 @@ víśvasmāt ← víśva- (nominal stem)
 अथेन्द्रो ब्रवीति । **विचाकशत्** पश्यन् यजमानान् **दासम्** उपक्षपयितारमसुरम् **आर्यम्** अपि च **विचिन्वन्** पृथक्कुर्वन् **अयम्** अहमिन्द्रः **एमि** यज्ञं प्रति गच्छामि। यज्ञं गत्वा च **पाकसुत्वनः** । पचतीति पाकः । सुनोतीति सुत्वा । हविषां पक्तुः सोमस्याभिषोतुर्यजमानस्य पाकेन विपक्वेन मनसा सोमस्याभिषोतुर्वा यजमानस्य संबन्धिनं सोमं **पिबामि** । तथा **धीरं** धीमन्तं यजमानम् **अभि** **अचाकशम्** अभिपश्यामि । योऽहम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Indrāṇī is now conciliated, and says that she has not killed Vr̥ṣākapi, but some one else. The verse thus means, "O Indra ! Let Vr̥ṣākapi get the slain animal-an animal which was quite different from Vr̥ṣākapi's. Let him at once have a knife, a fire-place, a new vessel, and a cart-load of firewood (to cook the killed animal). ladra, &c.” Thus by the intercession of Indra, Indrāṇī was moved, and at last undid or rather explained away her previous act of decapitation.
+
+Pischel and Geldaer translate the verse very nearly as I have done. They, however, consider it to be addressed by Vr̥shākapāyī and translate parasvantam by "wild." This does not explain what dead animal is here referred to. It is, I think, more natural to suppose that the dead animal here spoken of is the same as that described in Verse 6, and one whose head Indrāṇī is there said to be ready to cut off.
+
+Indrāṇī now says that this dead animal should be given to Vr̥ṣhākapi, especially as Indra has already got his oblations of bulls. I have already shown that there were several legends about the " antelope's head." It seems that Indrāṇī, referring to some of them, assures Indra that it was not Vriṣākapi in the form of the antelope which she killed, but some one else (literally parasvantam - representing another than Vr̥ṣākapi, as Sāyaṇa takes it.)
+
+Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "Thus do I go seeing and discriminating between a dasa and an arya ; I take my drink from those that prepare Soma juice and cook the oblations, and thus behold or protect the intelligent sacrificers." In another word, Indra is glad that he has saved an Arya, and triumphantly declares that he is always careful to distinguish between an Arya and a Dāsa, the latter of whom he would punish and kill, e.g., Vr̥tra, who is said to be a Dāsa, Vr̥ṣākapi being thus saved Indra, in the following verses, bids him a farewell, wishing for a safe journey and speedy return. These verses are very important for our present purpose, and I shall therefore examine them singly. 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

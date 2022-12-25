@@ -185,6 +185,14 @@ víśvasmāt ← víśva- (nominal stem)
 अथेन्द्रो ब्रवीति । **मे** मदर्थं **पञ्चदश** पञ्चदशसंख्याकान् **विंशतिं** विंशतिसंख्याकांश्च **उक्ष्णः** वृषभान् **साकं** सह मम भार्ययेन्द्राण्या प्रेरिता यष्टारः **पचन्ति** । **उत** अपि च अहमग्नि तान् भक्षयामि । जग्ध्वा चाहं **पीव** **इत** स्थूल एव भवामीति शेषः । किंच **मे** मम **उभा** उभौ **कुक्षी** **पृणन्ति** सोमेन पूरयन्ति यष्टारः । सोऽहम् **इन्द्रः** **सर्वस्मात्** **उत्तरः** ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Indra, satisfied with the prospect of getting the oblations, describes his appetite: "Twenty and ffteen oxen are being cooked for me; I shall eat them and be fat. Both the sides of my belly will be filled up. Indra, &c." 
+ 
+The practice of sacrificing bulls to Indra seems to have been out of date even at the time of the R̥gveda (cf. i, 164. 43, where it is said to be an old custom). But the old custom could not be entirely forgotten, and if real bulls were not offered to Indra, poets supposed that clouds or stars might answer the same purpose. The number 35 mentioned in the verse may thus refer to the Nakṣatras (28), and planets (7). But this explanation is doubtful and I cannot suggest a better one. 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

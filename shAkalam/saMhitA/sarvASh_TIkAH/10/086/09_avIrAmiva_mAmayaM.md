@@ -170,6 +170,12 @@ víśvasmāt ← víśva- (nominal stem)
 पुनरिन्द्रमिन्द्राणी ब्रवीति । **शरारुः** घातुको मृगः **अयं** वृषाकपिः **माम्** इन्द्राणीम् **अवीरामिव** **अभि** **मन्यते** विजानाति । **उत** अपि च **इन्द्रपत्नी** इन्द्रस्य भार्या **अहम्** इन्द्राणी **वीरिणी** पुत्रवती **मरुत्सखा** मरुद्भिर्युक्ता च **अस्मि** भवामि । यस्या मम पतिः **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā (i. e., without a brave husband or son), while I am the wife of Indra, the mother of the brave, and the friend of Maruts. Indra, &c." 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

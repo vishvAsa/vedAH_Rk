@@ -169,6 +169,14 @@ víśvasmāt ← víśva- (nominal stem)
 हे वृषाकपायि । कामानां वर्षकत्वादभीष्टदेशगमनाच्चेन्द्रो वृषाकपिः । तस्य पत्नि । यद्वा । वृषाकपेर्मम मातरित्यर्थः । **रेवति** धनवति **सुपुत्रे** शोभनपुत्रे **सुस्नुषे** शोभनस्नुषे हे इन्द्राणि **ते** तवायम् **इन्द्रः** **उक्षणः** सेचनसमर्थान् **आदु** अनन्तरमेव । शीघ्रमेवेत्यर्थः । पशून् **घसत्** प्राश्नातु । किंच **काचित्करम्** । कं सुखम् । तस्याचित् संघः । तस्करं हविः **प्रियम्** इष्टं कुर्विति शेषः । किंच ते पतिः **इन्द्रः** **विश्वस्मात्** **उतरः** । तथा च यास्कः - ‘ वृषाकपायि रेवति सुपुत्रे  मध्यमेन सुस्नुषे माध्यमिकया वाचा । स्नुषा साधुसादिनीति वा साधुसानिनीति वा । प्रियं कुरुष्व सुखाचयकरं हविः सर्वस्माद्य इन्द्र उत्तरः' (निरु. १२, ९) इति ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+This seems to be also addressed by Indra to Indrāṇī, who is here called Vr̥ṣākapāyī. This latter name has caused a difference of opinion, some considering Vr̥ṣakapāyī to be the mother, some the wife of Vr̥ṣākapi. +++(See Max Muller's Lectures on the Science of Language, Vol. II., 538)+++ I do not see how the wife of Vriṣākapi as such, could be introduced in the song, unless Vr̥ṣākapi is understood to be the name of Indra himself. Commentators, who take Vr̥ṣākapāyī to mean the wife of Vr̥ṣākapi, accordingly adopt the latter view. Pischel and Geldner think that the verse is addressed by Vriṣākapi to his wife Vr̥ṣākapāyī.
+
+The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-law, let Indra swallow the bulls, your favourite and delightful oblation, Indra &c." There has been much speculation as to who could be the son and the daughter-in-law of Vr̥ṣākapāyī. But if Vr̥ṣākapāyī be understood to mean the wife of Indra, it causes no such difficulty. The adjectives "having a good son." &c, are simply complimentary, corresponding to the statement of Indrāṇī, that she was the "mother of the brave" in verse 9. Indra accepting her statements, asks her to allow him to swallow the watery oblations said to come from Vr̥ṣākapi in the last verse. The words priyam and havis are the same in both the verses; and I think that both of them refer to the same oblations. 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

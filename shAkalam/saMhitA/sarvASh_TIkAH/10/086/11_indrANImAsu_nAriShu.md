@@ -163,6 +163,12 @@ víśvasmāt ← víśva- (nominal stem)
 अथेन्द्राणीमिन्द्रः स्तौति । **आसु** सौभाग्यवत्तया प्रसिद्धासु **नारिषु** स्त्रीषु स्त्रीणां मध्ये **इन्द्राणीं** **सुभगां** सौभाग्यवतीम् **अहम्** इन्द्रः **अश्रवम्** अश्रौषम्। किंच **अस्याः** इन्द्राण्याः **पतिः** पालकः **विश्वस्मात्** **उत्तरः** उत्कृष्टतरः **इन्द्रः** **अपरं** **चन** अन्यद्भूतजातमिव **जरसा** वयोहान्या **नहि** **मरते** न खलु म्रियते । यद्वा । इदं वृषाकपेर्वाक्यम् । तस्मिन् पक्षे त्वहमिति शब्दो वृषाकपिपरतया योज्यः । अन्यत्समानम् ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indrāṇī, and the second by Vr̥ṣakapayī. Sāyaṇa understands them to be addressed by Indra. Whichsoever construction we adopt, the meaning remains the same. Indrāṇī is here told that she is highly respected everywhere; she is the blessed of all women, and that her husband never suffers from old age. This is obviously intended to pacify her. 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

@@ -178,6 +178,10 @@ víśvasmāt ← víśva- (nominal stem)
 However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati” – the watery haviṣ might be linked to the carrying of the seed of the gods by Erikepaius. 
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of whom these favourite watery oblations reach the gods. Indra is in the upper (part) of the universe." 
+</details>
 
 
 <details><summary>Wilson</summary>

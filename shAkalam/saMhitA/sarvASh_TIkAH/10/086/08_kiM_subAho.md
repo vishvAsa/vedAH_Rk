@@ -166,6 +166,14 @@ víśvasmāt ← víśva- (nominal stem)
 क्रुद्धामिन्द्र उपशमयति । हे **सुबाहो** हे शोभनबाहो **स्वङ्गुरे** शोभनाङ्गुलिके **पृथुष्टो** पृथुकेशसंघाते **पृथुजघने** विस्तीर्णजघने **शूरपत्नि** वीरभार्ये हे इन्द्राणि **त्वं** **नः** अस्मदीयं **वृषाकपिं** **किं** किमर्थम् **अभ्यमीषि** अभिक्रुध्यसि । एकः किंशब्दः पूरणः । यस्य पिता **इन्द्रः** अहं **विश्वस्मात्** **उत्तरः** ॥
 </details>
 
+<details><summary>Tilak - Commentary</summary>
+
+Indra now tries to conciliate her. Sāyaṇa, following the Anukramaṇi, supposes that the seventh verse is addressed by Vr̥ṣākapi and the eighth by Indra. The only reason I can find for such an interpretation is the occurrence of the word amba, which means "mother," and this cannot be supposed to be used by Indra. But though we avoid one difficulty in this way, we are launched into another, for the verse speaks of Indrāṇī being pleasing "to me; " and if Vr̥ṣākapi is the speaker "me," cannot refer to him, as Indrāṇī is his mother and, consequently, "me" has to be interpreted to mean "my father," and this Sāyaṇa has done.
+
+I prefer taking amba as an affectionale and respectful mode of address, as in modern Sanskrit, and the verse presents no difficulty. We can then take both the 7th and the 8th verse together and give them a natural interpretation. I translate thus "O auspicious lady! what you say is true ...... you are pleasing to me.. But oh hero-wife, with beautiful arms, pretty figure, profuse hair, and broad hips, why should you be so angry with our Vr̥ṣākapi? Indra is in the upper (part) of the universe." 
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:

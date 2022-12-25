@@ -169,6 +169,15 @@ víśvasmāt ← víśva- (nominal stem)
 हे **इन्द्र** त्वम् **अति** अत्यन्तं **व्यथिः** चलितः **वृषाकपेः** वृषाकपिं **परा** **धावसि** प्रतिगच्छसि । **अन्यत्र** **सोमपीतये** सोमपानाय **नो** **अह** नैव च **प्र** **विन्दसि** प्रगच्छसीत्यर्थः । सोऽयम् **इन्द्रः** **विश्वस्मात्** **उत्तरः** ॥ ।
 </details>
 
+
+<details><summary>Tilak - Commentary</summary>
+
+Indra is here reproached for following up Vriṣākapi, though he has offended Indrāṇī. Says she to Indra : "O Indra! (how is it that) you run down fast after Vr̥ṣākapi and do not go anywhere else to drink soma. Indra is, &c."
+
+The word parā in this verse seems to denote the region where Vr̥ṣākapi has gone. Parāvat is often said to be the place in the distant or lower portion of the sphere, and is thus contrasted with arvāvat (Rig. viii. 13. 10). In Rig. viii. 33. 10 Indra is said to be Vr̥ṣā in the parāvat and also in the arvāvat regions. Indra is again very often spoken of as going to distant regions to see whether Vr̥tra is duly killed. The same fact appears to be here expressed in a different form.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
