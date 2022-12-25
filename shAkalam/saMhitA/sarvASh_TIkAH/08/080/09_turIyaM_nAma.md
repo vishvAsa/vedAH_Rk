@@ -173,10 +173,7 @@ Wenn du deinen vierten Namen, den opferwürdigen, annimmst, so wünschen wir das
 Dass deinen vierten Namen du preiswürdig machst, das wünschen wir; Denn Güterherr wirst du genannt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

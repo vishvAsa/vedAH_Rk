@@ -155,10 +155,7 @@ Für Indra´s Freigebigkeit läutere dich recht, du ausgezeichneter Soma, bring 
 O thät'ger, riesle uns zum Heil, dem Indra, dass er Schatz verleih, Bring' Samen uns, der Kinder zeugt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

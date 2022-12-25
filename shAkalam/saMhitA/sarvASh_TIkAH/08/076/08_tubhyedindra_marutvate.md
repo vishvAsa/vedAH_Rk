@@ -144,10 +144,7 @@ Dir, Indra, dem Marutbegleiteten, werden die ausgepreßten Somatränke, o Herr d
 Dir, Indra, mit der Marutschar sind Somasäft', o Schleuderer, Mit Lust ergossen liederreich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

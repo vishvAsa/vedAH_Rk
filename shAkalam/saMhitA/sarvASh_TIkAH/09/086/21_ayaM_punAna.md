@@ -237,10 +237,7 @@ Dieser ließ sich läuternd die Morgenröten aufleuchten; dieser war es, der an 
 Gereinigt hat die Morgenröthen er erhellt, er war es, der den Strömen freie Bahnen schuf, Der aus den dreimal sieben Kühen Milchtrank sog, dem Herzen lieb, berauschend rieselt Soma hell.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

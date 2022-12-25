@@ -152,10 +152,7 @@ Indra mit der Trinkerlippe hat von dem kräftigen Trank, dem opferbegleiteten, g
 Den Soma trank der schlürfende, den kräftereichen Opfertrank, Den gerstgemischten Indusaft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

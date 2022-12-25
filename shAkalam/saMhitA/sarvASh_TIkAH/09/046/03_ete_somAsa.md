@@ -144,10 +144,7 @@ Diese Somasäfte samt Opferschmaus, die in dem Camugefäß ausgequetscht sind, s
 Den Indra stärken durch ihr Werk die labereichen Tropfen hier, Der ausgepresste Somatrunk.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

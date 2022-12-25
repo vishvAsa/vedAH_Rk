@@ -164,10 +164,7 @@ Bullengleich ist der Preßstein, bullengleich der Rausch, bullengleich dieser au
 Der Stein ist Stier, und Stier der Trank, Gepresst ist Soma hier, der Stier, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

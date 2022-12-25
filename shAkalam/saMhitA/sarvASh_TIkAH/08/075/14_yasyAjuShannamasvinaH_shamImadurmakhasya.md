@@ -166,10 +166,7 @@ An wes Verehrers oder Nichtkargen Opferdienst er Gefallen gefunden hat, den begÃ
 Den Beter und den Emsigen, dess Arbeit er mit Huld empfing, Den fÃ¶rdert Agni durch Gedeihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

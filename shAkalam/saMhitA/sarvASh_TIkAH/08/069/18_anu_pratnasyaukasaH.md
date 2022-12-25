@@ -171,10 +171,7 @@ Nach ihrer alten Gewohnheit haben die Priyamedha´s, die das Barhis herumgelegt 
 Die Prijamedha's reichten heran an die frühen Darbringung jener aus dem alten Heimatssitze entsprungenen (Vorfahren), Streu bereitend und Opfer bringend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

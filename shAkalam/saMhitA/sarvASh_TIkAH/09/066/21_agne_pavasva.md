@@ -194,10 +194,7 @@ O Agni, du der Guteswirker, läutere uns Ansehen und die Meisterschaft herbei, m
 O Agni, flamme uns herbei schönwirkend Glanz und Heldenkraft; Er schenke Gut und Nahrung mir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

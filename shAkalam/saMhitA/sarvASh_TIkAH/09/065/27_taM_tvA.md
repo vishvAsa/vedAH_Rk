@@ -157,10 +157,7 @@ Dich treiben die am ausgepreßten Soma beteiligten Priester an für die Götters
 So trieben bei den Tränken dich die Diener hin zur Götterschar, So riesle nun mit deinem Glanz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

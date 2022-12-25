@@ -196,10 +196,7 @@ Den Agni rufe ich für euch gottesdienstlich, den Agni, wenn das Opfer vor sich 
 Ihm naht mit eurem Gottesdienst, dem Agni in des Fests Verlauf, Ihm als dem ersten beim Gebet, beim schnellen Werk, dass Agni segne unser Feld.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

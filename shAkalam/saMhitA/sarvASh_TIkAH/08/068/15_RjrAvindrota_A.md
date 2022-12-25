@@ -152,10 +152,7 @@ Von Indrota empfing ich zwei Schimmel, von dem Sohne des Riksa zwei Falben, von 
 Zwei glänzendrothe Rosse empfing ich von Indrota, dem Sohne des Rikscha, aus dem Geschlechte des Açvamedha.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

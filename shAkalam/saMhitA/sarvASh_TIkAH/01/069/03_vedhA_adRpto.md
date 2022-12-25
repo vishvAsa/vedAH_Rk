@@ -141,10 +141,7 @@ Ein unbeirrter Meister, der sich auskennt, ist Agni. Wie der Kühe Euter ist er 
 Es kennet Agni, – der treue Sorger der Kühe Euter, – der Tränke Labsal, Der anzuflehn ist – als Freund dem Menschen, sich lieblich setzend – in Hauses Mitte.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -197,10 +197,7 @@ Wenn ich, um euer beider Freundschaft für uns zu gewinnen, zu einem Loblied auf
 Wenn nun zu eurer beider [des Mitra-Varuna] starken Freundschaft mit uns der Anbeter den Lobgesang zum Genusse darbot, in welchen überall die Lieder sich vereinen, dann sei er [der Lobgesang] wie ein reich gesegneter Gang fördernd zu herrlicher Gabe.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

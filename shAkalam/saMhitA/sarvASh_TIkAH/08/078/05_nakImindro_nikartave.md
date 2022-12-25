@@ -133,10 +133,7 @@ Indra ist nicht hereinzulegen, noch ist Macht über den Mächtigen zu gewinnen. 
 Indra ist zu besiegen nicht, der starke zu bezwingen nie; Er hört und sieht das ganze All.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

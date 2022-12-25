@@ -194,10 +194,7 @@ Ein Mädchen, das hinab zum Wasser ging, hat am Wege Soma gefunden. Während sie
 Ein Mädchen, das zum Flusse ging, fand auf dem Wege Somakraut, Sie trug es heim und sprach das Wort: dem Indra will ich pressen dich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

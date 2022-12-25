@@ -148,10 +148,7 @@ Der die Mutigen für sich gewinnt, dem preiswürdigen großen Gebieter, dem Raus
 Den beutelust'gen, rühmlichen, den sehr gewalt'gen Somatrank, Der hundert Burgen leicht zerbricht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

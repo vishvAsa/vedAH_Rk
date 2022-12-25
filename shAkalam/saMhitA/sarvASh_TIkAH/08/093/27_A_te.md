@@ -157,10 +157,7 @@ Ich bringe dir Indrakraft, alle Loblieder, du Ratreicher; sei den Sängern barmh
 Dir, Indra, bring ich Indrakraft, dir alle meine Sprüche dar, Kraftreicher, sei den Sängern hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

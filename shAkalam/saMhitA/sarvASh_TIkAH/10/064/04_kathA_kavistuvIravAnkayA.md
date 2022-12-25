@@ -192,10 +192,7 @@ Wie, an welcher Rede und welchen Lobliedern wird der stimmstarke Seher Brihaspat
 Wie wird der weise, rauschende, mit welchem Lied Brihaspati erquickt, mit welchem Opferwerk? Der Kreiselwind, umjubelt von der Sängerschar, der Wetterdrache höre nun auf unsern Ruf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

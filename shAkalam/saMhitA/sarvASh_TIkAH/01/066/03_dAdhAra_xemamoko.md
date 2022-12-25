@@ -151,10 +151,7 @@ Er sichert die Ruhe, behaglich wie das Heim, wie reifes Korn, der Besieger der V
 Behagen schafft er, – hold wie ein Wohnhaus, wie reife Gerste, – der Männer Sieger, Wie Sänger rauschend, – gerühmt bei Menschen, wie lieber Renner – verschafft er Labung.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

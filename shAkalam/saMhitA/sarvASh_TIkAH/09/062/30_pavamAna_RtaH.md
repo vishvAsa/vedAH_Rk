@@ -156,10 +156,7 @@ Pavamana Soma, der wahrhafte Seher, hat sich auf die Seihe gesetzt, dem Sänger 
 Der heil'ge Seher, flammend hell, der Soma senkte sich ins Sieb, Dem Sänger schenk' er Heldenkraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -218,10 +218,7 @@ Die Himmelsbewohner, deren Zunge Agni ist, die Wahrheitsmehrer, sitzen da, den S
 Mit Agni's Zunge trinkend, himmlisch, reingesinnt, des Heiligthumes Schooss berührend, sitzen sie; Den Himmel stützten kräftig sie, ergossen Flut, erzeugten Opfer, führten dann es in den Leib.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

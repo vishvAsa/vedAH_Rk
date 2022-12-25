@@ -156,10 +156,7 @@ Zu dem stolzen Srutarvan, des Riksa Sohne, gerufen soll ich die Köpfe von vier 
 Ich, der anrufende, werde nun striegeln die Köpfe der vier von Çrutarvan, dem Sohne des Rikscha, empfangenen Rosse, wie man die Scharen der mit Haarlocken versehenen [Schafe?] striegelt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -211,10 +211,7 @@ Diese Somaesser küssen Indra´s Falbenpaar; indem sie die Stengel ausmelken, si
 Die Somafresser grüssen Indra's Rossepaar, die Pflanze melkend sitzen dort sie bei der Kuh; Wenn Indra trinkt den Methsaft, den sie ausgemelkt, so wird er gross und breit und kräftig wie ein Stier.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

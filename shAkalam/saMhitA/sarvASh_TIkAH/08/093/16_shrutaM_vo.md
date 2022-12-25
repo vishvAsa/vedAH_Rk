@@ -149,10 +149,7 @@ Eurem berühmten Erzfeindetöter, die Stärke der Völker, eifere ich zu großer
 Den hehren, feindetödtendsten, den Führer alles Menschenvolks Fach' ich zu grosser Gab' euch an,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

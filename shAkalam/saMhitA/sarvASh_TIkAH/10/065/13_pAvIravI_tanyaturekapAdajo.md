@@ -201,10 +201,7 @@ Des Paviru Tochter, der Donner, der ungeborene Einfuß, der Träger des Himmels,
 Der blitzversehne Donner und der Kreiselwind, des Himmels Träger, Strom und Flut im Meer der Luft, Die Götter alle mögen hören meinen Sang, Sarasvati mit des Gebetes Göttinnen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

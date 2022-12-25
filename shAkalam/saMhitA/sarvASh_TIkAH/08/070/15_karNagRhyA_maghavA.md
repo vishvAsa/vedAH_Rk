@@ -168,10 +168,7 @@ Der freigebige Sohn des Suradeva führte uns dreien ein Kalb zu, an den Ohren es
 Bei den Ohren es ergreifend, führte uns dreien der Spross des Çuradeva, der reiche, je ein Kalb zu, wie ein Opferherr die Ziege, damit sie Milch gebe.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

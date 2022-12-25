@@ -158,10 +158,7 @@ Von der anderen Seite geh zu den auf dieser Seite Stehenden über! Wo ich bin, d
 Aus ferner Gegend dringe du zu uns den näheren hindurch, Bei denen ich bin, denen hilf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

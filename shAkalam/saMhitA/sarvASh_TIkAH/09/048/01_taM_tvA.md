@@ -154,10 +154,7 @@ Dir da, der die Manneskräfte bringt an den Stätten des hohen Himmels, dem Beli
 Dich, der du Manneskräfte hegst in des erhabnen Himmeis Sitz, Den theuren flehn durch Opfer wir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

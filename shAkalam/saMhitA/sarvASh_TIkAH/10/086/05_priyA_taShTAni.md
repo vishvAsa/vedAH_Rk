@@ -214,10 +214,7 @@ Meine lieben gedrechselten, bemalten Sachen hat der Affe besudelt. Seinen Kopf w
 Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ihm seinen Kopf zerschmettern, nicht soll es dem Uebelthäter gut ergehn.« Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

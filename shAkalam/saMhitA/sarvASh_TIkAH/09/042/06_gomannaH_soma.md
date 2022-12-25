@@ -144,10 +144,7 @@ Ausgepreßt läutere uns Besitz von Rindern, Söhnen, Rossen, Siegesgewinnen, gr
 O Soma, riesle Reichthum uns an Rind und Ross, an Helden zu, An Speis' und Trank, gepresster du.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

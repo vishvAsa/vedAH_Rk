@@ -162,10 +162,7 @@ Komm mit den Falben zu unserem Soma, du Herr der Räusche, mit den Falben zu uns
 O komme mit den Füchsen her, zum Soma, Herr der Tränke du, Mit Füchsen komm zu unserm Trank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

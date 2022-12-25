@@ -156,10 +156,7 @@ Und bring uns viele Ohrringe, du Mutiger, denn du bist als der Gütige bekannt!
 Und viele Ohrgehänge auch, o Kühner, bringe uns herbei; Denn als den guten rühmt man dich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

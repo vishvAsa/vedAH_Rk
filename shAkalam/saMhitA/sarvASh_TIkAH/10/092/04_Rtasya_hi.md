@@ -217,10 +217,7 @@ Denn das Netz des Gesetzes, der Himmel, der weite Raum, die Verehrung, die groß
 Des Rechts Verbreitung und des Himmels weiter Raum, die grosse Ehrfurcht, Andacht, die gepriesene, Und Indra, Mitra, Varuna, sie zeigten sich, die reingesinnten alle, Bhaga, Savitar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

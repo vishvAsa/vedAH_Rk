@@ -132,10 +132,7 @@ Sich läuternd geht der begehrenswerte Soma, von den Lobreden des beredten Medhy
 Gereinigt geht der liebliche, mit Liedern Soma ausgeschmückt Des Sängers Medhiatithi.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

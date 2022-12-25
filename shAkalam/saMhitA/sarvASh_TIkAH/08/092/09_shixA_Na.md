@@ -156,10 +156,7 @@ Suche uns Reichtum zu verschaffen als der Vielkundige, o Indra, steh uns bei, we
 O Indra, schenke Güter uns, du kennst ja viele, glänzender, Und hilf uns im Entscheidungskampf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

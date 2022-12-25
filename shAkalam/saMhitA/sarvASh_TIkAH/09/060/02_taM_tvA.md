@@ -151,10 +151,7 @@ Dich, den TausendÃ¤ugigen und Tausendaufwiegenden haben sie durch die Seihe gelÃ
 Jetzt liessen durch die Wolle sie dich, der du tausend Augen hast Und tausend Gaben, rieseln hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

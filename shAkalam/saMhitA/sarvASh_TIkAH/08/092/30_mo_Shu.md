@@ -157,10 +157,7 @@ Sei doch ja nicht saumselig wie ein Opferpriester, du Herr der Siegespreise; ber
 Sei nicht dem trägen Beter gleich, o Herr der Schätze, labe dich Am milchgemischten Somatrank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

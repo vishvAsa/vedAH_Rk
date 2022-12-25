@@ -168,10 +168,7 @@ Du bist ein guter Gott, o Varuna, in dessen Schlund die sieben Ströme fließen 
 Ein rechter Gott bist du, o Varuna, in dessen Schlund die sieben Ströme hineinrinnen, wie in eine Wasserröthe, die gutes Gefälle hat.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -129,10 +129,7 @@ Den jedes Maß übersteigenden, ....... Indra, den Gewaltigen, Freigebigen, der 
 Den unermessnen, glänzenden, den starken Indra, reich an Schatz, Der über alle Güter herrscht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

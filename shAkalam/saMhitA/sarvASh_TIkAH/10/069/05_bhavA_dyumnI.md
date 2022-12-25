@@ -218,10 +218,7 @@ Sei glanzreich, Kind des Vadhryasva, und ein Schützer; nicht sollen die Anschl�
 Sei, Vādhriaçva, Hüter und Erfreuer, nie überwinde dich der Menschen Arglist; Kühn wie ein Held, erschütternd und befreundet, will ich den Namen Vādhriaçva's kund thun.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

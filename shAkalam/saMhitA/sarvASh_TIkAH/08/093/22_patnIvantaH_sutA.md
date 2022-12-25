@@ -139,10 +139,7 @@ Diese beweibten Somatränke kommen verlangend, dir zur Lust. Er ist der sprudeln
 Mit ihren Weibern gehn voll Lust die Somasäfte zum Genuss, Der Wasserfluten Buhle eilt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

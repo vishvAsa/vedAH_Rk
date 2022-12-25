@@ -163,10 +163,7 @@ u ← u (invariable)
 **यथेयं** **पृथिवी** **मही** **इमान्** **वनस्पतीन** वृक्षादीन् **दाधार** । शिष्टमुक्तम् ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

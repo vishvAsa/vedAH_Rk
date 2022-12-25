@@ -130,10 +130,7 @@ Sie sind losgelassen wie siegesgewisse Rennpferde zur Göttereinladung, wann die
 Ergossen sind zum Göttermahl wie kraftbegabte Rosse sie, Die rinnend sich der Steine freun.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

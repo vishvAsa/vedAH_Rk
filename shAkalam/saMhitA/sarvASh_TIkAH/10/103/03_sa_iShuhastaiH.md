@@ -202,10 +202,7 @@ Er ist mit seinen Pfeilträgern, er mit den Köchergewappneten, er mit seinem Ge
 Mit seiner Schar, die Pfeile trägt und Köcher, theilt seine Kämpfe der gewalt'ge Indra; Der Somatrinker, siegreich, stark an Armen mit mächt'gem Bogen, schiesst mit den gezielten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

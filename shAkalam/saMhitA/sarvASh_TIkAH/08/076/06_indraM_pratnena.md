@@ -127,10 +127,7 @@ Den marutbegleiteten Indra rufen wir mit einem alten Gedicht zum Trunk dieses So
 Den Indra mit der Marutschar, ihn laden wir nach alter Art Zum Trunke dieses Soma's ein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

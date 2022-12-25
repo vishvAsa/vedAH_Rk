@@ -155,10 +155,7 @@ Mit dir, Indra, im Bunde wollen wir den Nebenbuhlern die richtige Antwort geben.
 Mit dir vereinigt werden wir begegnen, Indra, jedem Feind; Du bist der unsre, dein sind wir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

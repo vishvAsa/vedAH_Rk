@@ -187,10 +187,7 @@ Denn jetzt habe ich an euch ein Preislied, jetzt um Anteil an dem Gut zu erlange
 Denn hier hab' ich ergossen euch das Lob, um Schönes zu empfahn, Vor euch mich beugend, o die ihr allwissend seid, wie einen Strom, der nie versiegt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

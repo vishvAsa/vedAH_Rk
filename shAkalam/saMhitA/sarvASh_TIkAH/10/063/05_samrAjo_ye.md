@@ -200,10 +200,7 @@ Die schöngewachsenen Großkönige, die zum Opfer gekommen sind, die unbeirrt ih
 Die Herrscher, die dem Opfer segnend sind genaht, die unumstürzbar thronen auf des Himmels Sitz, Die lock' ich her durch Opferwerke und Gebet zum Heile die Aditja's und die Aditi.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

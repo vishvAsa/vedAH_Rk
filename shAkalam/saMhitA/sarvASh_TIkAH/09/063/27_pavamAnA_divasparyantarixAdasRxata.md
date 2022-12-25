@@ -138,10 +138,7 @@ Die sich läuternden Säfte haben sich vom Himmel, aus der Luft ergossen auf die
 Ergossen sind vom Himmel her und aus der Luft die flammenden Nun auf der Erde Fläche hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

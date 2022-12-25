@@ -118,10 +118,7 @@ Dem unsterblichen Jatavedas, der durch das Dunkel sichtbar ist, dem mit Schmalz 
 Dem ew'gen Wesenkenner ihm, der durch das Dunkel sichtbar ist, Der preisenswerth die Opfer fährt,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

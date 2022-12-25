@@ -168,10 +168,7 @@ Gewiß wirst du, Agni, unserem Wunsch nach Kühen baß Reichtum gewähren. Du Ba
 Wirst du nicht unsrer Güterlust bescheeren, Agni, reiches Gut? Raumschaffer, schaffe du uns Raum.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

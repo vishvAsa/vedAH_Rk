@@ -255,10 +255,7 @@ Der Saft setzt sich, während er geläutert wird, über die Verächter hinweg, d
 Geklärt taucht Indu über alle Feind' empor, die Pfade alle bahnt er schön dem Opferer, Der holde Seher nimmt die Milch als Schmuckgewand, und eilet hin zur Wolle, springend wie ein Ross.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

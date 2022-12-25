@@ -137,10 +137,7 @@ Die sich läuternden Soma´s, die klaren Säfte haben sich ergossen, alle Feinde
 Die Soma's haben, hell entflammt, als lichte Tropfen ausgeströmt Die Sehergaben allesammt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

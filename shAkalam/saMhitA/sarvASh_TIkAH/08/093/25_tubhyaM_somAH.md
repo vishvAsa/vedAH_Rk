@@ -165,10 +165,7 @@ Für dich sind diese Soma´s ausgepreßt, ist das Barhis ausgelegt, du Glanzvoll
 Dir sind die Soma's hier gepresst, gestreut der Sitz, o Glänzender, Den Sängern fahr den Indra her.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

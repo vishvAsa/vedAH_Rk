@@ -204,10 +204,7 @@ Von Indra haben die Diensteifrigen Nutzen erlangt, wann es sich um den Anblick d
 Bei Indra fanden Labsal die sich mühenden im Licht der Sonne, in des Helden Manneskraft, Die Sänger, die durch ihr Verdienst ihm seinen Freund, den Blitz nun in den Männersitzen zimmerten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

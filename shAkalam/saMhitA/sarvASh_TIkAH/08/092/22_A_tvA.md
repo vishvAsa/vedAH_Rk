@@ -155,10 +155,7 @@ In dich sollen die Säfte eingehen wie die Flüsse in das Meer! Über dich, Indr
 Es mögen in dich dringen ein die Indu's, wie die Ström' ins Meer, Nichts überraget, Indra, dich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

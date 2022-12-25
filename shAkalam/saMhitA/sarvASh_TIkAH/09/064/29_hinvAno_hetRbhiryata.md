@@ -162,10 +162,7 @@ Von den Treibern getrieben, gelenkt ist der Preisrenner nach dem Siegerpreis gel
 Gespornt von Treibern und gelenkt hat nun der Renner Preis erlangt Wie Krieger sitzend nach dem Streit.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

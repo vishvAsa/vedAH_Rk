@@ -178,10 +178,7 @@ Und die zehn Falbinnen der Sonne hat er angeschirrt, um zu fahren, also sprechen
 Die zehn Goldrosse hat sich schon der Sonnengott zur Fahrt geschirrt, Der Indu, der sich Indra nennt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

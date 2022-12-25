@@ -151,10 +151,7 @@ Die Lichter des Himmels hervorbringend, die Sonne im Wasser hervorbringend läut
 Erzeugend Licht des Himmelsraums in Nebelflut der Sonne Glanz, Ein Ross in Milch und Flut gehüllt,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

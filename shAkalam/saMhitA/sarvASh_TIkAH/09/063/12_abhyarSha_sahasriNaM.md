@@ -149,10 +149,7 @@ Ströme her zu tausendfältigem Reichtum an Rindern und Rossen, zu Gewinn und Ru
 O ströme tausendfachen Schatz an Rindern, Rossen uns herbei Und Labetrunk und Ruhm uns zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -171,10 +171,7 @@ Der voll wie ein Topf ist, dem gib einen Anstoß! O Saft, gib der Schenkung glei
 Den schüttle, der dem Kessel gleicht, o Indu, schüttle Gaben her, Mit Schlägen, Schläger, schüttle ihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -134,10 +134,7 @@ Auf wessen Preßsaft freut sich der riesige Bulle mit dem Niyutgespann, der Vrit
 An wessen Trank mag sich erfreun der Stier mit seinem Vielgespann, Der Vritrafeind zum Somatrunk?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

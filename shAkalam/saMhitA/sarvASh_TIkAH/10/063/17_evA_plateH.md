@@ -189,10 +189,7 @@ Also hat euch Plati´s Sohn erbaut, ihr Aditya´s alle, o Aditi, der Sinnreiche.
 So hat verherrlicht euch der Sohn des Plati, o weise Aditi, Aditja's alle; Durch ew'ge Götter werden stark die Menschen; durch Gaja ist gerühmt das Volk des Himmels.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

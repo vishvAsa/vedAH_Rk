@@ -200,10 +200,7 @@ Seid recht weit, Himmel und Erde! Immer erscheinen uns die beiden Rodasi wie zwe
 O Himmel und Erde, seid uns weit ausgedehnt, o ihr Welten beide, stets wie zwei rastlose Weiber; mit diesen [Helfern] schützt uns vor dem stärkeren, mit diesen schützt uns in unserm Machtbesitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

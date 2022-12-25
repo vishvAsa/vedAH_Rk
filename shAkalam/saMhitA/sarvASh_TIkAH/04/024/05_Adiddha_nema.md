@@ -255,10 +255,7 @@ Dann opfern die anderen dem indrischen Namen, dann soll die Kochspeise den Reisk
 Dann müssen Indra's Macht die andern ehren, dann muss der Brüh' der Opferkuchen folgen, Dann mangelt Soma, denen die nicht keltern, ja dann beliebt's, den Helden zu verehren.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -145,10 +145,7 @@ Für Indra haben die Kühe die Milch gespendet, für den Keulenträger ihre Sü�
 Die Kühe strömten süsse Milch dem Indra zu, dem blitzenden, Dass er sie find' im Becher-Schooss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

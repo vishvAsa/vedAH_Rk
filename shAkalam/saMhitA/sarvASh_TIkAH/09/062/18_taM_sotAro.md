@@ -152,10 +152,7 @@ Ihn treibet, ihr Auspressende, zur Eile, den preisgewinnenden Renner, den siegre
 Ihr Sänger, spornt das schnelle Ross, das starke, schatzerbeutende, Zu eilen zu des Wettlaufs Preis.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -177,10 +177,7 @@ Ich bringe dir Kraft, indem ich die Lichter, die Kleinode verteile für den Opfe
 Dir theil er Kraft und Himmelsglanz und Schätze dem Verehrer zu, Den Sängern stimmt den Indra hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

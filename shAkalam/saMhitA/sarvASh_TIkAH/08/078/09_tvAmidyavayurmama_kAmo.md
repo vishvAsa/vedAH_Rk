@@ -145,10 +145,7 @@ Zu dir strebt mein Wunsch, der nach Korn und Rind und Gold verlangt, zu dir mein
 Zu dir ja strebet hin mein Wunsch, der Gerste, Rinder, Gold begehrt, Zu dir mein Wunsch nach Rossbesitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

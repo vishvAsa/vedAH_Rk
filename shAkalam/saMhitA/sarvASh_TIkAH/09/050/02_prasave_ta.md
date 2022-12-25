@@ -159,10 +159,7 @@ Auf dein Geheiß erheben sich die drei eine Gabe heischenden Reden, wenn du auf 
 Bei deinem Keltern steigen auf drei Lieder im Triumphgesang, Wenn du zum wollnen Gipfel gehst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -195,10 +195,7 @@ Komme zu den erbaulichen Reden, du Falbenlenker, mit dem Falbenpaar, um vom ausg
 O Herr der Füchse, fahr mit deinen Füchsen zu den Gebeten und zum Trunk des Soma's; Dich hat erreicht das Opfer, das du annimmst, du, Indra, achtest huldvoll auf das Opfer.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

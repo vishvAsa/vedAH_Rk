@@ -145,10 +145,7 @@ Soma durchläuft die hohe Ordnung als Rennpferd in der Seihe, die Unholde vertre
 Den hehren Opfertrank ergiesst der rasche Soma durch das Sieb, Gespenster schlagend, Göttern hold,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

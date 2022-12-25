@@ -214,10 +214,7 @@ Streck fein die Hand für uns aus, du Guter, zu großer Freigebigkeit, du Held, 
 O hebe, guter, uns empor, zu grossem Schatze schnell, o Held, Empor, o reicher, uns zu reichem Schatzempfang, Idra, empor zu hohem Ruhm.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

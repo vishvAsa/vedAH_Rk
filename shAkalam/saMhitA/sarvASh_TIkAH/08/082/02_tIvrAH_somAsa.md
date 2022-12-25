@@ -146,10 +146,7 @@ Scharf sind die Soma´s, komm her! Berauschend sind die ausgepreßten; trink her
 Scharf sind die Soma's, komme her, berauschende sind ausgepresst, So trinke herzhaft, wie du magst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

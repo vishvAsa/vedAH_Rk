@@ -157,10 +157,7 @@ Dem Winde Wohlfahrt verschaffend fließen sie zu schönem Loblied und für uns z
 Sie strömen zu dem Lobgesang dem Rinde schaffend freien Raum, Uns Labetrunk, der nie versiegt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

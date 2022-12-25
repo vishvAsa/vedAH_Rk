@@ -172,10 +172,7 @@ Es haben die sieben Schwestern dich mit Kunst anspornend im Chore besungen, dich
 Die sieben Schwestern rauschten dir entsandt mit den Gebeten zu, Dir Weisem auf Vivasvats Bahn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

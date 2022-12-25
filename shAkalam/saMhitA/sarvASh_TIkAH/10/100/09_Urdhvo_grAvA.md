@@ -209,10 +209,7 @@ Der pressende Stein soll sich aufrichten, ihr Guten! Haltet alle Anfeindungen ab
 Es heb', o gute, bei dem Presser sich der Stein; verjaget alle unsre Feinde weit hinweg; Gott Savitar, der preisenswerthe, schütze uns für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

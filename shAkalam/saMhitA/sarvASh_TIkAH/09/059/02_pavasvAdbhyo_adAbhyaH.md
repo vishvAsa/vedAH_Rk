@@ -121,10 +121,7 @@ Läutere dich für die Gewässer, ohne dich betören zu lassen, läutere dich f�
 Trugloser, riesle aus der Flut und riesle aus den Kräutern her Und aus den Schalen riesle hell.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

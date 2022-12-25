@@ -154,10 +154,7 @@ Nicht sollten uns die Clane der Götter im Stich lassen wie die badenden Kühe i
 Nicht weich' von uns der Götter Schar, wie Rinder die ins Wasser gehn, Wie Kühe von dem magern Kalb.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

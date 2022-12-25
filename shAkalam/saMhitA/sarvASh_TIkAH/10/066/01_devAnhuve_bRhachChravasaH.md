@@ -186,10 +186,7 @@ Die hochberühmten Götter rufe ich an zum Heile, die lichtschaffenden, des Opfe
 Die hochberühmten Götter rufe ich zum Heil, des Lichtes Schöpfer, die des Opfers nehmen wahr, Die alles wissen und zur Macht erwachsen sind, geführt von Indra, heilige, unsterbliche.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

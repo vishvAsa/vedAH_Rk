@@ -165,10 +165,7 @@ Herumfahrend möge der Himmlische Reichtümer erwerbend, uns durch seinen Trank 
 Der Reichthumspender bring' uns Kraft durch seinen Saft, der himmlische, Gepresst ergiess dich in das Sieb.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

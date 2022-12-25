@@ -249,10 +249,7 @@ Wie ein Stier im Kampfe warf er Schaum aus; gleichzeitig ging er her und hin und
 Dieser warf wie ein Stier Schaum auf in dem Kampfe, und sogleich wich der unverständige zurück; der verworfene rann herab wie in südliche Gegenden; nicht wurden da die schmeichelnden meiner habhaft (?).
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

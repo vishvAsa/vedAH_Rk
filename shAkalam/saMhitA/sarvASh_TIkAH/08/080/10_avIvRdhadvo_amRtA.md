@@ -217,10 +217,7 @@ Ekadyu hat euch, ihr unsterblichen Götter, und die Göttinnen, erbaut, ergötzt
 Es hat euch, o Unsterbliche, Ekadju verherrlicht und erfreut, o Götter und die ihr Göttinnen seid; diesem [Ekadju] schafft gepriesene Gabe; früh morgens komme bald der reichliche Versorger.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

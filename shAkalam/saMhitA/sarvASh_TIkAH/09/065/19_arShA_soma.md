@@ -156,10 +156,7 @@ Rinne, o Soma, glanzvollst, brüllend auf die Holzgefäße zu und setze dich auf
 O Soma, ström' in hellstem Glanz laut rauschend auf die Kufen hin, Und setz dich wie ein Aar aufs Nest.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

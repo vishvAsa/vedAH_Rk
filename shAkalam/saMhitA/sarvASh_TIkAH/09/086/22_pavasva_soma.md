@@ -232,10 +232,7 @@ Läutere dich, Soma, an den himmlischen Geburtstätten, in den Krug, auf die Sei
 O riesle, Soma, in den Himmelsstätten hell, entsandt, o Indu, in die Seihe zu dem Kelch; Laut wiehernd setzend dich in Indra's Bauch, gelenkt von Männern hobst die Sonn' zum Himmel du.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

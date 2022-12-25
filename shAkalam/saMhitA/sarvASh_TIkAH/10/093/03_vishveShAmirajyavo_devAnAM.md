@@ -155,10 +155,7 @@ Aller Götter Schutz ist großartig, ihr Gebieter, denn alle sind allherrlich, a
 Aller Götter Schutz, o Opferbereiter, ist gross; denn sie alle sind allgewaltig, alle bei den Opfern opferwerth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

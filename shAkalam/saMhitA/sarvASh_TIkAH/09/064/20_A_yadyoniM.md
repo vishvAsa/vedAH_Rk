@@ -152,10 +152,7 @@ Wenn der Rasche in seinen ordnungsgemäßen goldenen Schoß sich setzt, so verl�
 Wenn in des Opfers goldnen Schooss sich niederlässt das schnelle Ross, So lässt die Thoren es im Stich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

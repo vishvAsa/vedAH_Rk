@@ -152,10 +152,7 @@ Den Indra stärkend, das Wasser überwindend, alles arisch machend, die Mißgün
 Den Indra stärkend, rasch im Werk, verschaffend, was der Arjer wünscht, Verjagend die gehässigen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

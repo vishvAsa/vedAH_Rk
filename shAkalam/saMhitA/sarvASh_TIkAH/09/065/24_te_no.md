@@ -165,10 +165,7 @@ Die sollen uns Regen vom Himmel her und die Meisterschaft zuläutern, die ausgep
 Die mögen Regen strömen uns vom Himmel hell und Heldenkraft, Die Götter Indu's, ausgepresst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

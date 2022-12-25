@@ -247,10 +247,7 @@ Wo die Wünsche und Neigungen erfüllt werden, wo der Höhepunkt der Sonne ist, 
 Wo Wunsch zugleich Erfüllung ist, und höchster Ort dem Flammenross, Wo Sehnsucht und Befriedigung, Da mache du unsterblich mich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

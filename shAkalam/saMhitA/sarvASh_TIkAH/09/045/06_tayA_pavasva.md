@@ -144,10 +144,7 @@ Mit solchem Strome läutere dich, mit dem du, o Saft, getrunken dem Sänger die 
 Mit solchem Strome riesle du, durch den, getrunken, Indu du Dem Sänger Heldenkraft ersiehst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

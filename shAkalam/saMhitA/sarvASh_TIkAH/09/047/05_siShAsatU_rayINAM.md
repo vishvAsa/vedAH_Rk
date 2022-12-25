@@ -147,10 +147,7 @@ Beide haben Reichtümer zu gewinnen gesucht: Du bist auf Seiten derer, die in de
 Ein Preisverleiher bist du ja, wie für die Renner auf der Bahn, So für die Sieger in der Schlacht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

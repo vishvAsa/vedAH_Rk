@@ -220,10 +220,7 @@ Dort unser Saatfeld und diesen meinen Leib und das Haupt meines Väterchens, all
 Hier dieses unser Ackerland, dazu auch meinen eignen Leib, Und dann den Kopf des Väterchens lass Haare treiben alle drei.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

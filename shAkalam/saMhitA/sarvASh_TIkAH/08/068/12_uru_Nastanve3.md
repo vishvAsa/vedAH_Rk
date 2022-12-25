@@ -163,10 +163,7 @@ Schaff uns selbst und unseren Kindern Weite, schaff uns Weite zum Wohnsitz, gewÃ
 Uns selbst und unsrer Kinderschar und unserm Wohnsitz schaffe Raum; Gib weiten Raum zum Leben uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

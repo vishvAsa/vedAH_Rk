@@ -154,10 +154,7 @@ Da erfreuten sich alle deines Rates, als du Gott lebend aus dem trocknen Holze g
 Dann freuen alle – sich deiner Stärke, wenn, Gott, du lebend – entsprangst aus Dürrem; Dann werden alle – der Gottheit theilhaft, wie's Brauch ist, ehrend, – den wahren ew'gen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

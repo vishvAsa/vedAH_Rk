@@ -202,10 +202,7 @@ Mitwirkend sind die Rudrasöhne, die Marut, die allen Stämmen gehören, des Him
 Die starken lichten Maruts allen Völkern hold, des Himmels Adler, dem Asuren eng vereint, Mit ihnen zeigt Varuna, Mitra, Arjaman und Indra sich, der rasche mit der raschen Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

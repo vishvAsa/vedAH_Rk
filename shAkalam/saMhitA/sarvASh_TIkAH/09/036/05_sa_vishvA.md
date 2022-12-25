@@ -139,10 +139,7 @@ Soma soll in der Läuterung dem Opferspender alle Schätze herbringen, die himml
 Er, Soma, riesle alles Gut, was auf der Erd', im Himmel ist Und in der Luft, dem Frommen zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

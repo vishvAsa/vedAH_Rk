@@ -199,10 +199,7 @@ Ihn, der wie ein Roß und Rind den Wagen füllt, den Funkelnden, der wie Indra d
 Gib Ross und Rind, das Wagen zieht, und starken, indragleichen Herrn, Dess Ruhmesthaten ihr erhebt ihr Völker, und was preisenswerth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

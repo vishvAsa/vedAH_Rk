@@ -150,10 +150,7 @@ Es putzen den putzwürdigen Seher unter Gebeten die schutzsuchenden Redner. Brü
 Nach Gunst verlangend läutern ihn, den Läutrungswerthen, andachtsvoll Die Sänger, brüllend rinnt der Stier.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

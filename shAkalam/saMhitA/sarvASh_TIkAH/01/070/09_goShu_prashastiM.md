@@ -160,10 +160,7 @@ Du legst Wert auf die Kühe, auf die Hölzer. Alle bringen unserer Sonne den Tri
 Was herrlich, legst du – in Küh' und Bäume; sie bringen alle – Geschenk zum Heil uns; Dich ehren Männer – an vielen Orten, des greisen Vaters – Besitz vertheilend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -145,10 +145,7 @@ Pavamana ist der beste Wagenfahrer, über die anderen Schönen als der Schönste
 Der flammende, bestfahrende, sehr glänzend mit den glänzenden, Marut-umschart, von goldnem Licht,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -152,10 +152,7 @@ Ihr Freunde, suchet einen klugen Gedanken! Wie können wir das Lob des Sara tref
 O Freunde, erstrebt Begeisterung: Wie vollenden wir das Lob des Çara, welcher ein freigiebiger, reichlich schenkender Herr ist?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

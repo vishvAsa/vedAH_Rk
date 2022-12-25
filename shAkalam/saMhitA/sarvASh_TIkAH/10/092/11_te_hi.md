@@ -207,10 +207,7 @@ Denn diese beiden, Himmel und Erde, die samenreichen, Narasamsa, der viergliedri
 Die samenreichen Erd und Himmel, Jama auch, an Gliedern vierfach Naraçansa, Aditi; Der Reichthum schenkt, Gott Tvaschtar und die Ribhuschar, die Maruts, Vischnu, Rodasi verdienen Preis.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

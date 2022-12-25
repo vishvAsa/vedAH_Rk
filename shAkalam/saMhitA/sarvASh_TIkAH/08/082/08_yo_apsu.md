@@ -161,10 +161,7 @@ Der Soma, der in den Camugefäßen wie der Mond im Wasser sichtbar wird, von dem
 Den Soma, der in Schalen blinkt, wie in der Wasserflut der Mond, Den trinke, dir gehört er an.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

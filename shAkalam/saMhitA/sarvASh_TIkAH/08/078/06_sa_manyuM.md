@@ -130,10 +130,7 @@ Der Unbetörte erforscht die Absicht der Sterblichen; noch bevor sie den Tadel a
 Er, der Untrügliche, beschaut den Eifer aller Sterblichen, Bewahret vor dem Schmäher sie.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -154,10 +154,7 @@ Laufe du ab, süß für Indra, für Vishnu, o Saft! Schütze die Herren, die Sä
 Dem Indra, Vischnu ströme du, o Indu, rings voll Süssigkeit; Die Männer, Sänger schütz' vor Noth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

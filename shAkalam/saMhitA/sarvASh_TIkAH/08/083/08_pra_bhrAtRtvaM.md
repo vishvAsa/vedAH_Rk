@@ -143,10 +143,7 @@ Darum bringen wir abermals die Bruderschaft gemeinsam im Leibe der Mutter vor, i
 Wir tragen eure Brüderschaft gemeinsam, o schöngebende, An uns schon in der Mutter Leib.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

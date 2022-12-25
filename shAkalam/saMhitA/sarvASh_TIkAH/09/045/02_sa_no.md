@@ -165,10 +165,7 @@ Rinne du zum Botengang für uns - du wirst für Indra ergossen - den Göttern li
 So ströme uns zur Botschaft hin, dem Indra träufelst du und führst Die Götter hold den Freunden zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

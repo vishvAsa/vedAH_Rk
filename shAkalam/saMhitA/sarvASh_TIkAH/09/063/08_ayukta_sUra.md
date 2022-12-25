@@ -148,10 +148,7 @@ Der Pavamana hat unter Manu den Etasa der Sonne geschirrt, um durch die Luft zu 
 Die Sonne hat ihr Ross geschirrt hellflammend in des Menschen Sitz, Zu fahren durch den Raum der Luft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -150,10 +150,7 @@ Lobsinget, hebet an, ihr Priyamedha´s, lobsinget! Es sollen die Söhnchen lobsi
 Auf, preiset, hebt zu preisen an o preiset, Prijamedha's ihr; Die Kinder sollen preisen auch; den kühnen preist wie eine Burg.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

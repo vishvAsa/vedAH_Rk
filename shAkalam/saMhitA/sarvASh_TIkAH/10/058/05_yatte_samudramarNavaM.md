@@ -146,10 +146,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो **यत्ते** **मनः** **अर्णवम्** अर्णांस्युदकानि तद्वन्तं **समुद्रं** मेघं वा **जगाम** **तत्** इति गतम् ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

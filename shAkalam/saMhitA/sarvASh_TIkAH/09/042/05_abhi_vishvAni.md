@@ -138,10 +138,7 @@ Sich läuternd rinnt der Soma um alle begehrenswerten Dinge zu gewinnen, für di
 Und alle Güter strömt er zu den Göttern, die des Rechts sich freun, Der Soma, der gereinigte.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

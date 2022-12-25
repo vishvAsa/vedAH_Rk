@@ -202,10 +202,7 @@ Indra soll uns jederzeit wohlgesinnt sein, König Soma soll auf unser Wohlergehe
 Uns möge Indra holdgesinnt sein immerdar, und unsres Glückes nehm sich König Soma an; So recht wie man den Bund der engen Freundschaft schliesst; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

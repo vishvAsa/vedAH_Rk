@@ -259,10 +259,7 @@ Dessen Clane verleiht er großen Schirm, der seine erste Form erreicht hat. Was 
 Dem Stamme dessen reichet grossen Schatz er dar, der hin zu seiner ersten Opferstätte drang; Von seinem Ort, der in dem höchsten Himmel ist, geht er zu allen Stätten der Versammlung ein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

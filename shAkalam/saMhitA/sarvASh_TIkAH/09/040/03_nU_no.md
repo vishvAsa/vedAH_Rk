@@ -152,10 +152,7 @@ Nun läutere uns, o Somasaft, großen Reichtum von allen Seiten zu, tausendfache
 Nun riesle grossen Schatz herbei von allen Seiten, Indu, uns, O Soma, tausendfaches Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

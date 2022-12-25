@@ -171,10 +171,7 @@ Die Formen, die dir eigen, die umschließest du vollständig zu den rechten Zeit
 Um alle Stätten, die du hast, o Soma, bist du überall, O Seher, hell zur Opferzeit.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

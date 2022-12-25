@@ -190,10 +190,7 @@ Von diesen Kühen nimm, Indra, als wären es Körner, die Hand voll uns zuliebe,
 O Indra, nimm in deine Hand wie Gerstenkörner Schätze doch, Sie uns zu geben, o du stärkster, holdgesinnt, zweimal erfasse sie uns hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

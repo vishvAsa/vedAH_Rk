@@ -153,10 +153,7 @@ Auf den Bullen eurer läufigen Kühe, auf den Bullen eurer abweisenden Kühe, au
 Auf euren Stier der quellenden, den Stier der sich vermischenden, Auf euren Herrn der milchenden, der Kühe zielst du opfernd hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

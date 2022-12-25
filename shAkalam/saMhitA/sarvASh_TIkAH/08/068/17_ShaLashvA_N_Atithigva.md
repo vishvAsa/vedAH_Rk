@@ -147,10 +147,7 @@ Sechs Hengste samt Frauen empfing ich zusammen von Atithigva Indrota, von Putakr
 Sechs Rosse nebst zugehörigem Geschirr empfing ich von Indrota, dem Nachkommen des Atithigva, und zugleich von Putakratu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

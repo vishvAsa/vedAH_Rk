@@ -142,10 +142,7 @@ Wohlan! Wir wollen die Dichtungen des Dichtenden wie mit Rennpferden in den Käm
 Lass, starker Spender, Schleuderer, uns kommen zu des Frommen Werk Zu Ross, und siegen in der Schlacht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

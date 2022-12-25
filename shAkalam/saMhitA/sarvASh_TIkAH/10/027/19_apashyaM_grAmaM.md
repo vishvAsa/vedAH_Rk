@@ -200,10 +200,7 @@ Ich sah von ferne einen Clan auf der Fahrt, der sich aus eigener Triebkraft ohne
 Ich sah die Schar aus der Ferne herfahren, die ohne Rad durch eigne Kraft sich bewegt; der gütige [Sonnengott, oder Savitar?] geht voran den Geschlechtern der Menschen, in einem Tage sich erneuend, Dämonen [çiçnâ hier gleich çiçnádevān] vertilgend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

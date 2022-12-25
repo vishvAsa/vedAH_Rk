@@ -129,10 +129,7 @@ Meerbewegender Saft, Allerregender, läutere dich als unser Träger des Reichtum
 O Indu, Meer-erregender, o riesle, allerschütternder, Als Reichthums Schützer, uns mit Macht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

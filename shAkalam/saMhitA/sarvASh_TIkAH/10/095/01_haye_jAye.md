@@ -228,10 +228,7 @@ Holla, Weib, verständig - bleib stehen, du Böse! Laß uns doch Worte wechseln!
 Wohlan, o Weib, halte inne mit deinem Vorhaben [mich zu verlassen], o Ehrfurchterweckende, wir wollen jetzt Worte miteinander wechseln; wenn diese unsre Reden ungesprochen bleiben, so werden sie uns in späterer Zeit keine Lust bereiten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

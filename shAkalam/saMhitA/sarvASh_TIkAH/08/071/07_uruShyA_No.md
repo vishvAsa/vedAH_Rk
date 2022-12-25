@@ -133,10 +133,7 @@ Zeige uns einen Ausweg, gib uns nicht dem übelwollenden Sterblichen, der Böses
 Schütze uns, o Wesenkenner, gib nicht hin uns dem Verfolger, Nicht dem bösgesinnten Manne.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -167,10 +167,7 @@ Von vielen opfernden Rishi´s wirst du jedenfalls gepriesen werden, wenn du, Sar
 Von vielen Sängern, die mit Streu versehn sind, wirst du vielfach gepriesen werden, weil du, o Çara, einen nach dem andern mit Kälbern beschenktest.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

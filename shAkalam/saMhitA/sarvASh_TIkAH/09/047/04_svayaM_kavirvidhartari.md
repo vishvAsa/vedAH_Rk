@@ -151,10 +151,7 @@ Selbst wünscht der Seher dem Beredten die Belohnung auszuteilen, wenn er die Ge
 Er selbst, der weise, wünschet dann dem Sänger Schätze zu verleihn, Wenn dieser ihm Gebete schmückt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

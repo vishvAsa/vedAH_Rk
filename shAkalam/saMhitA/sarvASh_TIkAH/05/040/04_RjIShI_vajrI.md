@@ -203,10 +203,7 @@ Den Trestersaft trinkend, die Keule tragend, ein Bulle, der die Übermächtigen 
 Der blitzende Stier, der stürmende, der Besieger der Starken, der mächtige König, der Vritratödter, der Somatrinker, das Füchsepaar anschirrend, komme er nahe herbei, bei der mittäglichen Somaspende berausche sich Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

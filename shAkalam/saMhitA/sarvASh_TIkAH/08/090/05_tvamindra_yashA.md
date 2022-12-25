@@ -193,10 +193,7 @@ Du, Indra, bist angesehen, der Trinker des Trestertrankes, o Herr der Kraft. Du 
 Du bist, o Indra, reich an Glanz, du vorwärtsdringend, Herr der Kraft; Die unbesiegten Feinde tödtest du allein, die mächt'gen durch den Menschenhort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -156,10 +156,7 @@ O Soma, nachdem du dich richtig zum Heil vereinigt hast, du der Seher des Himmel
 Gesondert, Soma, und vereint, du Himmels Sänger, ströme hell Zum Heil, der Sonne gleich zu schaun.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

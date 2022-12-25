@@ -156,10 +156,7 @@ Komm hervor mit deinem Strome, o Soma, für Indra ausgepreßt, berauschend, unve
 O Soma, schreite vor im Strom, zum Rausch für Indra ausgepresst, Erlangend Ruhm, der nie vergeht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

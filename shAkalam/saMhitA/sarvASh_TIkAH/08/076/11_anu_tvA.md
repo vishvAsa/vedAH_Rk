@@ -149,10 +149,7 @@ Beide Welten fügten sich dir, dem Lärmenden, als du Indra, der Dasyutöter war
 Dir seufzten beide Welten nach dem brausenden, als Indra du Vernichter der Dämonen warst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

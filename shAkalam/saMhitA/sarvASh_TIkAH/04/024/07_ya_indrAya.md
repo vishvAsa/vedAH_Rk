@@ -225,10 +225,7 @@ Wer heute dem Indra Soma pressen und Kochspeisen kochen und Körner rösten wird
 Wer heute Soma keltert für den Indra, ihm Brühen kocht und ihm die Körner röstet, Wer Lust hat an des frommen Dichters Sprüchen, dem schenket Indra heldengleiche Stärke.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

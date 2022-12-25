@@ -221,10 +221,7 @@ Ihn wollen wir preisen, der alle diese Geschöpfe erzeugt hat, die nach ihm komm
 Ihn lasst uns preisen, welcher diese Wesen zusammt erschuf, die nach ihm sind entsprossen, Mit Indra lasst den Mitra uns verehren, mit Liedern uns in Demuth nah'n dem Helden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

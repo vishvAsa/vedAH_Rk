@@ -150,10 +150,7 @@ Der König zieht durch die dichterischen Gedanken geläutert unter Manu aus, um 
 Durch Lieder wird der flammende, beim Menschen angefleht, der Fürst, Zu gehen durch den Raum der Luft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

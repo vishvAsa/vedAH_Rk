@@ -173,10 +173,7 @@ Denn sicherlich wünschest du Männer, sicherlich bist du selbst tapfer und stan
 Denn wahrlich du bist mannesstark und wahrlich du ein tapfrer Held, Dein Sinn fürwahr gewinnenswerth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

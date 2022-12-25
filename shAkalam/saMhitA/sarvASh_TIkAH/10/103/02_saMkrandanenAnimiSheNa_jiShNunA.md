@@ -184,10 +184,7 @@ Zusammen mit dem Heerrufer, der die Augen offen haltend, dem siegreichen, streit
 Mit ihm, dem Donnrer, der nicht schlummernd Sieg gewinnt, der Schlacht erregt voll Kühnheit, unerschütterlich, Mit Indra siegt nun, und gewinnt ihr Männer des Kampfes, mit dem Pfeil- bewehrten Helden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

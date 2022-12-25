@@ -153,10 +153,7 @@ Wahrlich, keinen anderen möchte ich zum Erbarmer gewinnen, du Ratreicher. Sei d
 Ich wählte, keinen andern je, o starker, zum Erfreuer mir, Du, Indra, sei uns holdgesinnt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

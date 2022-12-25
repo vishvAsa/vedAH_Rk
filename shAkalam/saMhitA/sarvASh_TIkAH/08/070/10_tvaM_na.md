@@ -191,10 +191,7 @@ Du, Indra, willst uns gerecht werden, du hast deine Schmäher satt. Bedecke dich
 Du Indra bist uns Frommen hold, den, der dich hasst, verzehrest du; Dem Dämon ziele mitten auf die Hüften hin, mit Todesschuss durchbohre ihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

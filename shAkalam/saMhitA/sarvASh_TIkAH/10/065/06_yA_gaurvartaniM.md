@@ -200,10 +200,7 @@ Die Kuh, die die Bahn umwandelt zu dem Treffort, ihre Milch spendend, die Vorsch
 Die Kuh, durchwandernd den ihr angewiesnen Pfad, das Werk vollbringend, Milch ergiessend zu uns her; Sich selbst verkündend ihm, dem treuen Varuna, so dien' mit Trank den Göttern, dem Vivasvat sie.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

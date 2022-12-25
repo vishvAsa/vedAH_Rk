@@ -148,10 +148,7 @@ Deinem Befehl gehorchend fließen diese sieben Ströme, o Soma; für dich laufen
 Die sieben Ströme rinnen hier auf dein Geheiss, o Soma, hin, Dir strömen milchversehen sie.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -137,10 +137,7 @@ Vereint haben sie gesungen; den Falben treiben sie mit den Steinen zum Laufe. Se
 Vereinigt haben sie gejauchzt, durch Steine spornen sie das Ross; Nun setzt euch in des Opfers Schooss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

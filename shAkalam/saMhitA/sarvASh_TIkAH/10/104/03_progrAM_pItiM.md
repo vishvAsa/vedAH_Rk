@@ -203,10 +203,7 @@ Ich bringe dem Bullen einen gewaltigen Trunk zu, einen echten dir, du Falbenfahr
 Ich sende starken, ächten Trank des Saftes, o Füchselenker, dir dem Stier zum Schlürfen; Erfreu dich, Indra, hier des süssen Milchtranks, durch alle Lieder eifervoll gepriesen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

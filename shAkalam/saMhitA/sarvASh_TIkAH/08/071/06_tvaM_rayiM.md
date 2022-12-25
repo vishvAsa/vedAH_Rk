@@ -163,10 +163,7 @@ Du gibst dem opferspendenden Sterblichen einen Schatz von vielen Söhnen, Agni. 
 Gib du, Agni, heldenreichen Schatz dem sterblichen Verehrer, Führe uns zu schönerm Gute.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

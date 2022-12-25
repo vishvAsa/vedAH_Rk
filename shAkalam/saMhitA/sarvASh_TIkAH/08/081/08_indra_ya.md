@@ -168,10 +168,7 @@ Indra, dein Siegerpreis, der von den Redekundigen zu gewinnen ist, den gewinne f
 Welche Labung du, o Indra, durch die Sänger musst empfangen, Die sollst du durch uns empfangen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -218,10 +218,7 @@ Die Träger des Himmels, die Ribhu´s mit schönen Händen, Vata und Parjanya, d
 Des Himmels Träger, und die Ribhus wohlgeschickt, und Wind und Wolke jenes Stiers, des Donnerers, Die Wasser, Kräuter seien unsern Liedern hold; folgt Bhaga, Rāti, und ihr Rosse meinem Ruf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

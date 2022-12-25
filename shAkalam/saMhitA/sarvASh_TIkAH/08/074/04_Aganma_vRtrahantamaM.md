@@ -165,10 +165,7 @@ Wir sind dem Erzfeindetöter genaht, dem Agni, dem obersten Anusproß, in dessen
 Wir nahn dem feindetödtendsten, dem besten Agni, der uns hold, Vor dessen Angesicht gedeiht Çrutarvan, Rikscha's hoher Sohn,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

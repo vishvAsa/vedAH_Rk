@@ -241,10 +241,7 @@ Ich sah den Drapsa in schlimmer Lage im Schoße des Flusses Amsumati, ich sah de
 Ich sah den Tropfen wandern in der Ferne im Niedergang des somareichen Stromes; Er kam herab wie eine schwarze Wolke, ich send' ihn euch, o Helden, kämpft in Schlachten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

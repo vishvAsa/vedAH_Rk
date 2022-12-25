@@ -133,10 +133,7 @@ Denn nur dir sollen deine Getreuen nachjubelnd folgen, deine Freunde, Indra, die
 Denn die dich lieben, gehn zu dir, o Indra, die dir jauchzen zu, Der Sänger und der Freunde Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

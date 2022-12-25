@@ -165,10 +165,7 @@ Fließe du uns in der Seihe als der göttereinladendste Rauschtrank, o Saft, fü
 O Indu, ström' in unser Sieb zum Trunk dem Indra, als der Trank, Der Göttern beste Labung bringt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

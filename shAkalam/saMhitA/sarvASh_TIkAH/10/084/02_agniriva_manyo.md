@@ -216,10 +216,7 @@ Wie Feuer funkelnd siege, o Manyu; sei aufgerufen unser Heerführer, du Überleg
 Wie Feuer bist du glühend, starker Manju; gerufen sei, siegreicher, wie ein Feldherr; Die Feinde schlage und ihr Gut vertheile, und Kraft erweisend stosse fort die Hasser.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

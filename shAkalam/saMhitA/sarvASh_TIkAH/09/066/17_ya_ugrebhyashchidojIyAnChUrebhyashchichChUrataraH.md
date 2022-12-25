@@ -157,10 +157,7 @@ Der gewaltiger noch als die Gewaltigen, tapferer noch als die Tapferen, freigebi
 Der du stärker bist als starke, heldenmüth'ger auch als Helden, Mehr verleihst als gabenreiche,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

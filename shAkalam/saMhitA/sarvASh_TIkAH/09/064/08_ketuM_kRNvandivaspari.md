@@ -175,10 +175,7 @@ Dein Banner aufsteckend rinnst du vom Himmel, alle Farben annehmend. Wie das Mee
 Vom Himmel Licht erzeugend strömst du alle Herrlichkeit herbei, Du schwillst, o Soma, als ein Meer.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -141,10 +141,7 @@ Das Wasser gewinnend rinnt Soma für Indra, Vayu, Varuna, die Marut und Vishnu.
 Dem Indra, Vaju, Varuna, den Maruts und dem Vischnu strömt Der Soma Fluten spendend zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

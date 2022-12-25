@@ -189,10 +189,7 @@ Keine Frau hat eine schönere Scham, keine gewährt schöneren Liebesgenuß als 
 Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich, keine, die sich mehr herandrängt und die Lenden besser auseinanderspreizt. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

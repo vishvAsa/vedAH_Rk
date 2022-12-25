@@ -156,10 +156,7 @@ Wenn dieser Ausgezeichnete zum Lauf getrieben ist, so tut er sich bei seiner Lä
 Entsandt ist dieser thätige, und es erscheint der flammende, Der hold den hohen Freunden ist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

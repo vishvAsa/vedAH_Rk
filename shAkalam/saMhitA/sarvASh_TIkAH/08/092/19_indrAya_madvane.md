@@ -141,10 +141,7 @@ Dem sich gern berauschenden Indra sollen unsere Loblieder rings um den ausgepre�
 Rings um des lust'gen Indra Trank ertöne unsrer Lieder Schall; Die Sänger singen Lobgesang.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

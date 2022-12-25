@@ -157,10 +157,7 @@ O Somasaft, indem du dich im Strome läuterst, verbann alle Fehlschläge, vertre
 Gereinigt, Soma, schlag' im Strom o Indu, alle Feinde fort, Und die Gespenster, kräftiger!
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

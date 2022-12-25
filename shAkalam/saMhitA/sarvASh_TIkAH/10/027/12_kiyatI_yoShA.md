@@ -206,10 +206,7 @@ Wie anders die Maid, die von Seiten des heiratslustigen Junggesellen mit kostbar
 Was ist das für ein Mädchen, das durch das kostbare Geschenk des Liebhabers unter den Freiern gewonnen wird? Glücklich ist die Braut, wenn die schöne sich selbst unter den Männern den Freund erwählt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

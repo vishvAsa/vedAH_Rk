@@ -186,10 +186,7 @@ Brihaspati, fliege mit deinem Wagen umher, die Unholde tötend, die Feinde vertr
 Brihaspati, flieg' her mit deinem Wagen, Gespenster tödtend, jeden Feind verjagend, Das Heer durchbrechend, mordend, Sieg gewinnend, in Schlachten sei der Fördrer unsrer Wagen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

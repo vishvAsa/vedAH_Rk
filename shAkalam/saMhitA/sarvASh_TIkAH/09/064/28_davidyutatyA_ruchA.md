@@ -129,10 +129,7 @@ Mit blitzendem Glaste, mit brausender Schönheit sind die Geklärten, die mit Mi
 Die milchgemischten Soma's sind erhellt von lichtem Strahlenglanz, Versehn mit rauschender Gestalt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -151,10 +151,7 @@ Und sie haben ihn wie die Treiber das Roß für den Unsterblichen schön gemacht
 Jetzt schmückten sie des Methes Saft gleich wie ein Ross die Treiber aus, Zum Mahle dem Unsterblichen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

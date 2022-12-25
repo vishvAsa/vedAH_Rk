@@ -155,10 +155,7 @@ Wer ihn entdeckt hat, da er sich versteckt hielt, wer zum Strom der Wahrheit gel
 Wer ihn erblickte, – der im Versteck lag, wer auf den Strom sich – des Opfers setzte, Und die ihn lösen – der Bräuche wartend, für die hat Güter – er stets verkündet.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

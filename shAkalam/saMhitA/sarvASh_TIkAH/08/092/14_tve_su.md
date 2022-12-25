@@ -170,10 +170,7 @@ An dich haben sich baß die Wunschwünscher gewandt, o Sohn der Stärke. Über d
 Es wandten sich, o Herr der Kraft, zu dir sogleich die wünschenden; Nichts überragt, o Indra, dich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

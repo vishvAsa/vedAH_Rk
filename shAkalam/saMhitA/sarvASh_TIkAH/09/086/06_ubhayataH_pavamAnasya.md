@@ -228,10 +228,7 @@ Des Pavamana Strahlen, seine Banner wandeln auf beiden Seiten um, während er fe
 Nach beiden Seiten dringen seine Strahlen durch, der flammend rieselt, fest und treu in seinem Sinn, Wenn in dem Sieb das goldne Ross gestriegelt wird, so setzt es in die Kufen sich auf seinen Sitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

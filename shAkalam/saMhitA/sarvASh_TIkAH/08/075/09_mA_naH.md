@@ -149,10 +149,7 @@ Nicht soll uns von irgend einem übelgesinnten Feinde Ungemach treffen wie die W
 Nicht möge eines tückischen Bedrängers Hass zerschlagen uns, Gleich wie das Schiff der Wogendrang.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

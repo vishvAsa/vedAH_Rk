@@ -157,10 +157,7 @@ Deiner Hoheit haben sich, o Seher Soma, diese Welten gefügt, für dich fließen
 Es standen, weiser Soma, dir die Welten hier zur Macht bereit, Es rinnen dir die Ströme zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

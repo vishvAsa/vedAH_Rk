@@ -141,10 +141,7 @@ Agni, kein Gottloser soll uns um deine, des Gottes, Gunst bringen. Du gebeutst �
 Nimmer hemme deine Gabe, Agni, Gott, ein Götterhasser; Du gebietest über Güter.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

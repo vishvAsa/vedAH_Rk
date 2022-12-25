@@ -204,10 +204,7 @@ Wie der Pfeilschuß um den Ehrenpreis aus dem Köcher, wie das Rennen, das Kühe
 Wie ein Pfeil des Köchers [fliegt meine Begierde] der Schönheit zu, wie ein schnelles Geschoss, das Rinder erbeutet, hundertfaches erbeutet; bei unmännlichem Willen gibt es kein Erglänzen [kein Gelingen]; die stürmenden [Pfeile, Begierden] liessen Getön vernehmen, wie Mutterschafe, die [nach den Lämmern] brüllen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

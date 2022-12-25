@@ -153,10 +153,7 @@ Begierig wie ein treffliches Roß, tapfer wie ein Schütze, furchtbar wie ein Re
 Wie ein rascher richtigtreffender, wie ein starker Schütze, wie ein furchtbarer Verfolger, ungestüm in Schlachten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -147,10 +147,7 @@ Diese Säfte, die Renner, haben sich durch die Seihe ergossen, um alle Glücksg�
 Ergossen sind die Tropfen hier die schnellen durch das Somasieb Für uns zu allem hohen Glück,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

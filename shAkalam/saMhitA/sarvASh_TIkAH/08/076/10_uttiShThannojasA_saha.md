@@ -140,10 +140,7 @@ Mit deiner Kraft aufstehend hast du, Indra, die Lippen geschüttelt, nachdem du 
 Du schütteltest die Lippen dir, erhebend Indra dich mit Kraft, Nach des gepressten Soma Trunk.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

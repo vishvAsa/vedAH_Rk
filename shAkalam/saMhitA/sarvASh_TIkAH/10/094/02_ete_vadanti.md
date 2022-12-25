@@ -203,10 +203,7 @@ Diese reden hundertf채ltig, tausendf채ltig, sie br체llen her mit ihren gelben M�
 Es singen diese hundertfach und tausendfach, mit gelben M채ulern wiehern sie entgegen uns, Die Steine emsig m체hend sich mit frommem Werk, sind fr체her als der Priester selbst zum Mahl gelangt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

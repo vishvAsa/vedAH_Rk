@@ -159,10 +159,7 @@ Deine Kräfte steigen auf wie von dem Flusse das Rauschen der Welle. Schärfe di
 Es regen deine Kräfte sich wie wenn des Meeres Welle braust; Des Pfeiles Spitze mache scharf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

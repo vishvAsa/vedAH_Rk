@@ -189,10 +189,7 @@ Diesen herrlichen, zu verherrlichenden, siegreichen Indra rufet zum Schenken, de
 Ihn, euren hehren Indra treibt, den Sieger, viel zu schenken uns, Den man an seichtem und den man an tiefem Ort, Den man in Schlachten rufen muss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

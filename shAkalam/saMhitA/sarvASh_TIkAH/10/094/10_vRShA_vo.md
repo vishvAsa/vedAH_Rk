@@ -212,10 +212,7 @@ Bullenhaft ist euer Stengel, ihr sollet ja nicht zu Schaden kommen! Immer seid i
 Eur Trank ist stark, fürwahr es soll euch mangeln nichts, stets seid ihr labend, wenn ihr gut gefüttert seid, Wie Reichthum seid durch Gabenfülle ihr beliebt, bei dem, dess Opfer ihr, o Steine, gern geniesst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

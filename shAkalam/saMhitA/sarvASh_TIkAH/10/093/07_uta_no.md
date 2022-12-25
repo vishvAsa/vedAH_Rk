@@ -183,10 +183,7 @@ Auch die beiden Asvin, obwohl sie Rudra´s sind, sollen uns barmherzig sein, all
 Und auch die beiden glänzenden Açvinen mögen uns gnädig sein, alle Götter, Rathaspati [Beschützer des Streitwagens], Bhaga, Ribhu, Vādscha, o Ribhukschan's, der Umwandler, o allbesitzende.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

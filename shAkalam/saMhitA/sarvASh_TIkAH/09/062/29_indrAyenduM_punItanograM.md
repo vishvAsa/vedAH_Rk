@@ -145,10 +145,7 @@ Für Indra läutert den Saft, den gewaltigen, der Wirkenskraft förderlichen, de
 Dem Indra macht den Indu hell, dem starken den, der kräftig hilft, Den Herrscher, der Genuss gewährt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

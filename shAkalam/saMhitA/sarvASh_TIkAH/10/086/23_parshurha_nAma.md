@@ -211,10 +211,7 @@ Parsu mit Namen, die Tochter des Manu, gebar zwanzig Kinder auf einmal. Wahrlich
 Das menschliche Weib, Parçu mit Namen, hat zwanzig Kinder auf einmal geboren; Heilung ward ihr zu Theil, deren Leib krank war. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

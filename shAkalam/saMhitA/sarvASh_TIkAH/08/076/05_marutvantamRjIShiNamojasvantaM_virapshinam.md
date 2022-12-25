@@ -122,10 +122,7 @@ Den marutbegleiteten Indra, den Trestertrinker, den starken, im Überfluß leben
 Den mächt'gen mit der Marutschar, der vorwärts dringt mit Kraft begabt, Mit Liedern rufen Indra wir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

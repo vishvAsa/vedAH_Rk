@@ -224,10 +224,7 @@ Als man mitten in der Arbeit war bei der Liebesbegegnung, da der Vater bei der J
 Was inzwischen zu thun war, als der Vater seine Lust an der jungen Tochter kühlte [das geschah]; sie beide liessen zusammentreffend eine kurze Zeit den Samen strömen, der sich auf die Fläche ergoss in dem Schooss des schönen Liebeswerkes (?).
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -155,10 +155,7 @@ Dieser Bulle von bullenhaftem Wirken, der Pavamana, der die hämischen Reden nie
 Der Stier, der Stieres Werke thut, der flammende, der Flucher tilgt, Verschaffe dem Verehrer Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -157,10 +157,7 @@ Mit immer neuem Glaste dich läuternd, du der Gott über allen Göttern, geh in 
 O flammender, mit stetem Glanz, ein Gott du, von den Göttern her, In alle Güter dringe ein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

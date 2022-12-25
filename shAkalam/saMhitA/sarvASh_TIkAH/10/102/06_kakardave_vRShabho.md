@@ -196,10 +196,7 @@ Der Stier war an die Karre angejocht; sein langhaariger Wagenlenker schrie. Die 
 Dem Knurrer war der Stier geschirrt zur Seite, es brüllte laut sein mähniger Genosse; Bis hin zur Mugdalānī drang der Aushauch des wilden Stiers der mit dem Wagen eilte.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

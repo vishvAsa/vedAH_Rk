@@ -212,10 +212,7 @@ Und die Mutter, die im hohen Himmel wohnt, soll unser Wort hören, Tvastri mit d
 Brihaddiva die Mutter höre unser Wort, der Vater Tvaschtar mit den Göttern und den Fraun, Ribhukschan, Vādscha, Bhaga und Rathaspati; der liebe Spruch des frommen Beters schütze uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

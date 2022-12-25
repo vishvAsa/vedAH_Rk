@@ -157,10 +157,7 @@ Den Flüssen verschwistert, wie der Bruder den Schwestern; wie der König die Re
 Verwandt den Fluten, – der Schwester Bruder, ausbeutend Hölzer, – wie Herrn die Diener; Wenn windgejagt er – durchstürmt die Wälder, dann schneidet Agni – der Erde Haar
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

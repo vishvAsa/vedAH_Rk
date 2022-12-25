@@ -246,10 +246,7 @@ Wenn eines Tochter von Geburt ohne Augenlicht ist, welcher, der es weiß, wollte
 Wessen Tochter jemals augenlos war, wer möchte diese, sie als blind erkennend, jemals begehren? Welcher von diesen beiden wird auf jenen [den Vater?] das Schleudergeschoss abschiessen, der, welcher sie heimführt, oder der, welcher um sie wirbt?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

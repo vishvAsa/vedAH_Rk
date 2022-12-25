@@ -211,10 +211,7 @@ Da ich Menschenskind mich bei diesen übermenschlichen Frauen anfreunden wollte,
 Als ich, der Mensch, jene übermenschlichen Weiber, die ihr Gewand fallen liessen, mit meinen Armen umschlang, da bebten sie vor mir zurück wie eine bebende Schlange, wie Rosse, die gegen den Wagen ausschlagen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

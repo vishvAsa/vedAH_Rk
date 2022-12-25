@@ -219,10 +219,7 @@ Du Bulle der Völker wardst da der starke Schlägel der Feinde. Du ließest die 
 Da wurdest du Gebieter aller Menschen, der bösen Feinde mächtiger Zermalmer; Die eingesperrten Ströme liessest frei du, gewannst die Wasser, die der Dämon festhielt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

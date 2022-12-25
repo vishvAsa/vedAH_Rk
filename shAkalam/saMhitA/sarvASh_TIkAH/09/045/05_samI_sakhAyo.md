@@ -144,10 +144,7 @@ Die Freunde haben dem im Holze sich tummelnden, über die Schafwolle laufenden S
 Ihm jauchzten jetzt die Freunde zu, der durch die Wolle springt ins Holz, Den Indu pries der Lieder Schall.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

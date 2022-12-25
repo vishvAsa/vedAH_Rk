@@ -172,10 +172,7 @@ Wie ansehnlicher Reichtum, wie der Sonne Anblick, wie der Lebenshauch, wie der l
 Wie schöner Reichthum, – wie Sonne strahlend, wie Hauch und Leben – wie eigner Sohn lieb; Wie schneller Vogel – eilt ins Gehölz er, wie Milch die Kuh lässt, – hellstrahlend, leuchtend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

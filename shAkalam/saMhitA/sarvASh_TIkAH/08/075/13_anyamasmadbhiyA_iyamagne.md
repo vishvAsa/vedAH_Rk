@@ -150,10 +150,7 @@ Einen anderen als uns soll zum Schrecken dieses Unheil heimsuchen, o Agni! Mehre
 Nicht uns verfolge schreckensvoll, o Agni, dieses Ungemach Vermehre unsre kühne Kraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

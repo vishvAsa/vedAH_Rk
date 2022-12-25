@@ -239,10 +239,7 @@ Du, den zuerst Vadhryasva, dazu berufen, entflammt hat, o Agni, hab auch an dies
 Du, den zuvor entflammt hat Vadhriaçva, der rühmliche, nimm an dies Opfer, Agni, Behüt' uns selbst, behüte unsre Leute, beschirm die Gabe, die du uns gewährest.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

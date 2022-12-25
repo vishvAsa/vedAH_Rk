@@ -230,10 +230,7 @@ Eine scharfe Waffe ist die Heeresspitze der Marut. Wer hat je deiner Keule getro
 Wer widersteht, o Indra, deinem Blitze, der scharfen Waffe? wer dem Zug der Maruts? Wehrlos sind dir die bösen Götterfeinde; vordringend jag' sie fort mit deinem Rade.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

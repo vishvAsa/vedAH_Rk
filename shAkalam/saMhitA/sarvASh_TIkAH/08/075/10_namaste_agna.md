@@ -146,10 +146,7 @@ Deiner Stärke, o Gott Agni, sprechen die Völker eine Huldigung aus; mit deinen
 Anbetung weihen deiner Macht, o Gott, die Menschen, Agni, dir; Mit Schrecken quäle du den Feind.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

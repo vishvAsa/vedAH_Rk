@@ -140,10 +140,7 @@ Erstarkt hat Indra mit den Marut als Kameraden den Vritra zerstückt, die nach d
 Umschart von Maruts trieb hinweg den Vritra Indra kraftbegabt Und liess des Meeres Wasser frei.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

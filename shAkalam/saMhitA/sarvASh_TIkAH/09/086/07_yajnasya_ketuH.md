@@ -219,10 +219,7 @@ Soma, des Opfers Banner, läutert sich, den Gottesdienst verschönend; er geht z
 Schön feiernd wallt des Opfers Fahne flammenreich, und Soma geht zum Ort, wo er die Götter trifft; In tausend Strömen rieselt um die Kufe er, laut brüllend eilet durch das Somasieb der Stier.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

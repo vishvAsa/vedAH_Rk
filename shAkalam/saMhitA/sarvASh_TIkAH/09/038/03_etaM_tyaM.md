@@ -144,10 +144,7 @@ Denselbigen putzen die zehn goldfarbigen, geschäftigen Finger, von denen er zum
 Ja, eben diesen reinigen zehn Stuten, eifrig in dem Werk, Durch die er hell zum Bausch erglänzt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

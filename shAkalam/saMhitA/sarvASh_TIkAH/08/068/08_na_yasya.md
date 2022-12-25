@@ -151,10 +151,7 @@ Du Gewaltiger, dessen Freundschaft kein Sterblicher erreicht hat, keiner erreich
 O starker, dess Genossenschaft kein Sterblicher gewonnen hat, Dess Kräfte keiner je erreicht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

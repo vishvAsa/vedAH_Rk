@@ -195,10 +195,7 @@ Glück bringet uns auf den Wegen, auf dem Trocknen, Glück zu Wasser, im Kampf, 
 Schafft Heil uns auf den Wegen, Heil uns auf dem Land, Heil auf dem Wasser, Heil im güterreichen Sitz, Heil in den Schössen bei der Kinderzeugung uns, und Heil, o Maruts, zu des reichen Guts Erwerb.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

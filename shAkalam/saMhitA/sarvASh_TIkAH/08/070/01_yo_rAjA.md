@@ -169,10 +169,7 @@ Der der König der Völker ist, der Vornehme, der zu Wagen fährt, der Überwind
 Ihn, der der Menschen König ist, auf Wagen unaufhaltsam fährt, Den Schlachtensieger preise ich, den besten Vritratödter ihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

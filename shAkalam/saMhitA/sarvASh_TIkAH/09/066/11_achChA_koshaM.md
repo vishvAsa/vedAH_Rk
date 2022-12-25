@@ -140,10 +140,7 @@ Nach der von Süßigkeit überfließenden Kufe sind sie auf das Schafhaar losgel
 Ergossen durch des Widders Haar zur honigreichen Kufe hin, Und die Gebete schollen laut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

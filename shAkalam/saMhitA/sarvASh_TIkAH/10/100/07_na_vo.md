@@ -220,10 +220,7 @@ Wir haben weder heimlich viele Sünde wider euch begangen, noch offenkundig ein 
 Nicht im Verborgnen haben wir der Sünde viel, noch offnen Frevel an euch Göttern je verübt; Bei uns sei nie, o gute, trügerische List; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

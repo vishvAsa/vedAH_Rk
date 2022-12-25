@@ -231,10 +231,7 @@ Vor dem Schnauben des Vritra weichend verließen dich alle Götter, deine Kamera
 Vor Vritra's Schnaufen fliehend hatten alle verbundnen Götter, Indra, dich verlassen, Du mögest mit den Maruts dich verbünden, dann wirst du diese Feinde all' besiegen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

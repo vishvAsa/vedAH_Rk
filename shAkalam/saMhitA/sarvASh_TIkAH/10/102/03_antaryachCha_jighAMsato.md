@@ -171,10 +171,7 @@ Halte, Indra, die Keule des Bedrohenden auf, der zu Fall bringen will! Halte abs
 Lenke, o Indra, deinen Blitz mitten unter die mordlustigen, die uns befeinden, halte fern, o mächtiger, sowol des Barbaren als des Ariers Mordwaffe.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

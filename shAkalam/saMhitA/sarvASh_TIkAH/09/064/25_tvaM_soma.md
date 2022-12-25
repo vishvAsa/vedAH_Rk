@@ -143,10 +143,7 @@ Du, Soma, treibst die wortkundige Rede hervor, wenn du dich läuterst, die Tause
 Gereinigt lässt, o Soma, du erschallen dein begeistert Lied, Das, Indu, tausend Gaben beut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

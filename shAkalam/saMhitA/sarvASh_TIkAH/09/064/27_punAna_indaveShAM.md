@@ -150,10 +150,7 @@ Dich läuternd, o Saft, vielgerufener dieser Menschen, geh als Freund in den Oze
 Gereinigt, Indu, und geliebt von diesen Männern viel gerühmt, So schreite zu dem Meere hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

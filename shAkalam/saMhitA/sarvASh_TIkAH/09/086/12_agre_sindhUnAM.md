@@ -226,10 +226,7 @@ An der Ströme Spitze rinnt Pavamana, an der Spitze der Rede geht er als Erster 
 Voran den Strömen fliesset hell der rieselnde, voran dem Liede geht den Kühen er voraus, Voran der Beute theilt er grosse Schätze aus, von Pressern wird der schönbewehrte Held geklärt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

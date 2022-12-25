@@ -160,10 +160,7 @@ Deine Strahlen fließen unversieglich wie die Regenströme des Himmels über die
 Es schreiten deine Strome vor wie Himmels Regen, flutenreich Zum hellen Ueberwurf der Streu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

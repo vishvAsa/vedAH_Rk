@@ -155,10 +155,7 @@ Koste unseren Reiskuchen zum Somatrank; bring Tausend und Hunderte von Kühen mi
 Reiskuchen bring, o Indra, uns und tausend Somatränke her Und hundert Kühe uns, o Held.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -150,10 +150,7 @@ Bei den Trikadruka´s haben die Götter das denkwürdige Opfer ausgeführt. Dass
 Bei den drei Bechern führten hier die Götter schöne Feier aus, Die sei durch unsern Sang erhöht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

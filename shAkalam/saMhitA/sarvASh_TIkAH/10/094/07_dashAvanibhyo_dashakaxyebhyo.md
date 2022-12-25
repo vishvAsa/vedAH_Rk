@@ -184,10 +184,7 @@ Lobsinget den Steinen, die zehn ......, zehn Gurte, zehn Stränge, zehn Geschirr
 Singt denen, die der Bahnen und der Gurte zehn, die zehn der Stränge haben, zehnfach angeschirrt, Die nimmer altern, durch der Zäume zehn gelenkt und die zehn Deichsel, zehn verbundne Joche ziehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

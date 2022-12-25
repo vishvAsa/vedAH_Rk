@@ -148,10 +148,7 @@ Führet uns über die vielen Gefahren hinweg wie mit Schiffen über die Gewässe
 Durch viel Gefahren führet uns gleich wie auf Schiffen durch das Meer, Des Rechtes Wagenlenker ihr.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -155,10 +155,7 @@ Läutere dich im Strome zum Genuß, von den Nachsinnenden geputzt; o Saft, geh m
 Zur Labung riesle hell im Strom, gereinigt von den kundigen, Geh, Indu, glänzend zu der Milch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

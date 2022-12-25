@@ -154,10 +154,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो यत्ते मनो विश्वमिति तदिति गतम्। चतस्र ऋचो निगदसिद्धाः॥१०॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

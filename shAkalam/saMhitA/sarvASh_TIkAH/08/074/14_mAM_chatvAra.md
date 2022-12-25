@@ -166,10 +166,7 @@ Mich sollen die vier laufschnellen Renner des Mächtigsten am schönen Wagen zum
 Mich sollen vier schnell laufende Rosse des Çavischtha an schönen Wagen geschirrt zum Mahle fahren, wie Vögel den Sohn des Tugra (Bhudschju.)
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

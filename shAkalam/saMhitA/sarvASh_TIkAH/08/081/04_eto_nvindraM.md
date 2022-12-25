@@ -167,10 +167,7 @@ Wohlan, jetzt wollen wir Indra preisen, den Selbstherrscher, der über das Gut s
 Kommt nun, lasst uns Indra preisen, der selbstherrschend Gut besitzet; Nicht versäum' er uns mit Gaben.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

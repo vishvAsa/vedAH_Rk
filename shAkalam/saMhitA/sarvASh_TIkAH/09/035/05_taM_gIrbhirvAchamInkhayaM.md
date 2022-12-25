@@ -137,10 +137,7 @@ Ihn, der die Rede hin und her bewegt, decken wir mit Lobesworten zu, während er
 Mit Liedern schmücken wir ihn aus, der Sang erregt, den Flammenden, den Soma, ihn des Volkes Herrn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

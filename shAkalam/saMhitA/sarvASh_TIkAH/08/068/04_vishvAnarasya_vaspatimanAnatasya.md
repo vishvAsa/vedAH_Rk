@@ -160,10 +160,7 @@ Den Herr der allen Menschen bekannten ungebeugten Kraft, rufe ich euch mit Eifer
 Den Herrn der ungebeugten Kraft, die alle schützet, ruf' ich euch, Dass Menschen und der Wagen Tross er fördre nach gewohnter Art,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

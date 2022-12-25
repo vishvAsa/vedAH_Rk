@@ -221,10 +221,7 @@ Dem im Schafhaar in Wogen sich läuternden Falben brüllen die sieben Kühe entg
 Dem goldnen Rosse jauchzen sieben Kühe zu, wenn er sich klärt in Widders Wolle durch die Flut, Im Schooss der Wasser eilten ihm voll Eifer jetzt dem Seher in des Opfers Sitz die Büffel zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -198,10 +198,7 @@ Soma ist dir, Vielgerufener, ausgepreßt. Komm hurtig mit dem Falbenpaare zum Op
 Gepresst ist Soma dir, o vielgerufner, mit deinen Füchsen komme schnell zum Opfer; Dir strömen zu die Lieder frommer Männer, die eilenden, o Indra, trink vom Safte.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

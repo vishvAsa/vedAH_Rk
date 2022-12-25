@@ -229,10 +229,7 @@ Der Schütze, obwohl er ohne festen Halt war, hat die dreimal sieben festgefügt
 Durchbohrt vom Schützen sind, auch wenn er taumelt, die dreimal sieb'n vereinten Bergesgipfel; Kein Sterblicher, kein Gott vermag zu stören die Werke, die der hohe Stier vollbracht hat.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

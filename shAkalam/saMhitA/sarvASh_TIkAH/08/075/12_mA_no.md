@@ -173,10 +173,7 @@ Laß uns in diesem großen Kampf nicht fallen wie der Lastträger seine Last. Al
 Wirf nicht in dieser grossen Schlacht uns wie ein Bürdenträger ab, Gewinn als Beute reiches Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

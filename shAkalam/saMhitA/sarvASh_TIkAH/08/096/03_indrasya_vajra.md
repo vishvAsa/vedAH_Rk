@@ -199,10 +199,7 @@ Dem Indra ist die eherne Keule anhänglich, in Indra´s Armen ist die meiste St�
 Des Indra Blitz, der eherne, er schmiegt sich an Indra's Arme, und die höchste Stärke; In Indra's Haupt ist Weisheit, ihm zu eigen, zum Munde drangen ein die schönen Tränke.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

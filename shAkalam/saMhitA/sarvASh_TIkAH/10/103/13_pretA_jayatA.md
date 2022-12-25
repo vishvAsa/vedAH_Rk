@@ -177,10 +177,7 @@ Zieht fort, sieget, ihr Mannen; Indra soll euch Schutz gewähren. Stark sollen e
 Ihr Männer, eilet vor und siegt, es mög' euch Indra Schutz verleihn; Es seien eure Arme stark, damit ihr bleibet unversehrt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

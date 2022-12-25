@@ -163,10 +163,7 @@ Berausche dich am Labetrank, und er sei dir recht nach Wunsch und Absicht und sa
 Am Trank erfreu dich, und er sei recht deinem Wunsch und Sinn gemäss, O Indra, deinem Herzen hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

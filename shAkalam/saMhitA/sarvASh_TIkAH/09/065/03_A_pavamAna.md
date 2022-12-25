@@ -151,10 +151,7 @@ O Pavamana, läutere ein gutes Loblied herbei, Regen, Eifer für die Götter, an
 Den Göttern riesle, rieselnder, du Gaben zu und Lobgesang, Zum Trunk die Flut, die stetig strömt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

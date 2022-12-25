@@ -190,10 +190,7 @@ Dieser Agni spinnt einen langen Faden, fährt mit großen Stieren; er hat tausen
 Der langen Faden webt, der hohe Stiere, und tausend Kühe hat und hundert Bahnen, Du starker Agni strahlest hell bei hellen, erzeugt von Männern bei den frommen Freunden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

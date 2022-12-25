@@ -208,10 +208,7 @@ Da kamen noch dessen Belagerer; viele Burgen belagernd wollten sie den Narsada z
 So sind nun seine Umlagerer gekommen, sich vielfach lagernd suchen sie den [Dämon] Nārschada zu zerspalten; der schrankenlose [vgl. Vers 5] vertheile des Çuschna zusammengehäuftes Gut, das im Versteck des vielfach sich erzeugenden ruht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

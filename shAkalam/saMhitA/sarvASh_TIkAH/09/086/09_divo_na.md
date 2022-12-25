@@ -219,10 +219,7 @@ Donnernd wie des Himmels Rücken hat er sein Gebrüll erhoben, durch dessen Best
 Jetzt brüllte donnernd wie des Himmels Gipfel er, in dessen Ordnung Himmel sich und Erde fügt; Des Indra Freundschaft sich gewinnend rieselt er, gereinigt setzet Soma in die Kufen sich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

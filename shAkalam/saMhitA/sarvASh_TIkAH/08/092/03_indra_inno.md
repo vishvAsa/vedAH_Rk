@@ -168,10 +168,7 @@ Indra, der Vortänzer, ist uns ein Geber großer Belohnungen; der Große möge s
 Ja Indra, er, der grosse Fürst, sei grosser Schätze Spender uns Und thürm bis an das Knie sie auf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

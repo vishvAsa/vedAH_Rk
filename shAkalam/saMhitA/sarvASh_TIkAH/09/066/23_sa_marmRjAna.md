@@ -159,10 +159,7 @@ Von den Ayu´s geputzt, einen Schmaus bietend, zum Schmause der Götter bestimmt
 Gereinigt von den eifrigen, zur Labung labungsreich entsandt, Der weise Indu als ein Ross.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

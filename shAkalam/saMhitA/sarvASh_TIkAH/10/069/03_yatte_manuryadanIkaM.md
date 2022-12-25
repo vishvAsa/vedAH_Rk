@@ -256,10 +256,7 @@ Dein Antlitz, das Manu, das Sumitra entflammt hat, o Agni, dies ist auch das all
 Die Glanzgestalt, die Manu, die Sumitra dir hat entflammt, die strahlt, o Agni, neu hier; So leuchte hell, nimm freundlich an die Lieder, erschliesse Gut, und schenk uns reiche Schätze.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

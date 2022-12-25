@@ -213,10 +213,7 @@ Wo man nach Lust wandeln darf im dreifachen Firmament, im dreifachen Raume des H
 Wo man durch Wunsches Kraft sich regt am dritten höchsten Himmelsdom, Wo glanzbegabt die Räume sind, da mache du unsterblich mich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

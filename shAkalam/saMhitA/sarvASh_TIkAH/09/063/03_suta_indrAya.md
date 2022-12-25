@@ -144,10 +144,7 @@ Für Indra, Vishnu ausgepreßt ist der Soma in den Krug geflossen; süß soll er
 Gepresst für Indra, Vischnu fliesst der Soma nieder in den Krug, Er möge süss dem Vaju sein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

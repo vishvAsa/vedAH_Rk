@@ -144,10 +144,7 @@ Die Unholde vertreibend, o Soma, rinne brüllend zu glänzendem höchstem Mute!
 Verjagend der Gespenster Schar, o Soma, ströme rauschend her Die höchste, glanzbegabte Kraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

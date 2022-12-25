@@ -147,10 +147,7 @@ Du läuterst dich, die Verächter vertreibend, Rat schaffend, o Soma, berauschen
 Den Feind verjagend rieselst du, berauschend, Soma, kräftigend, Verstoss die gottvergessne Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

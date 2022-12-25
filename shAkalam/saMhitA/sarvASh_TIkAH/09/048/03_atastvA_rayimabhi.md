@@ -162,10 +162,7 @@ Von diesem Himmel brachte dich, den König, du Einsichtiger, zum Reichtum der Ad
 Von dort her brachte dich, den Schatz, den Himmelskönig, mächtiger! Der Adler, der nicht wankt im Flug.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

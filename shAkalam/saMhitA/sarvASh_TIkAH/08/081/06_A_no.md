@@ -176,10 +176,7 @@ Bring uns mit der Rechten, greif mit der Linken zu! Indra, schließ uns nicht vo
 Bring uns Schätze mit der Rechten, greife zu mit deiner Linken, Theile Gut uns mit, o Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

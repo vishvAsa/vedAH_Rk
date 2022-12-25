@@ -183,10 +183,7 @@ Dein ist die gutmelke Kuh, o Jatavedas, die wie die unversieglichen Rodasi immer
 O Wesenkenner, dir gehört die Milchkuh, die wie in stetem Gusse Nektar ausströmt; Du Agni wirst von gabenreichen Männern entflammt und von den eifrigen Sumitra's.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

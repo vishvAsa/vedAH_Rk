@@ -147,10 +147,7 @@ Sie erfreuen sich deines Rates wie die Söhne des Vaters, die Mächtigen, die au
 Wie Söhne nutzten – des Vaters Kraft sie, die seiner Weisung – voll Eifer lauschten; Der Schätze Thüren – erschloss der reiche, den Himmel schmückte – der Freund mit Sternen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

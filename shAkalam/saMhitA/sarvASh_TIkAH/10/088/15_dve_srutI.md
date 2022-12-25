@@ -215,10 +215,7 @@ Zwei Wege, so hörte ich von den Vätern, gibt es für die Götter und die Sterb
 Zwei Pfade gibt's, so sagten mir die Väter, den Göttern gangbar und den Menschenkindern, Auf ihnen wandelt alles, was sich reget, was zwischen Erd' und Himmel ist, den Aeltern.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

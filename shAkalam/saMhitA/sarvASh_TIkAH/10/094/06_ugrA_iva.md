@@ -202,10 +202,7 @@ Wie starke Zugtiere im Fahren ziehen sie an, zusammen eingespannt, die Stiere, d
 Wie starke Rosse fahrend ziehn die Stränge sie, zugleich geschirrt die Stiere, tragend gleiches Joch; Wenn schnaubend, fressend sie erheben ihr Gebrüll, dann klingt es wie Gewieher einer Rosseschar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

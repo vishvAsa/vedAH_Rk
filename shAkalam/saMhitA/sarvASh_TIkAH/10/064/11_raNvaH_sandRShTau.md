@@ -201,10 +201,7 @@ Erfreulich wie ein nahrungsreiches Haus für den Anblick, glückbringend ist die
 Zum Anschaun lieblich wie ein nahrungsreicher Sitz, glückbringend ist der prächt'gen Maruts Beifall uns; Durch Heerden seien herrlich unter Menschen wir, stets sein, o Götter, wir mit Labetrunk versorgt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

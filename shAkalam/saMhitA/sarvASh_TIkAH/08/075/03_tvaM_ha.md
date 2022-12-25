@@ -148,10 +148,7 @@ Da ja du, jüngster Sohn der Kraft, mit Schmalz Begossener, der wahrhaftige Opfe
 Denn du, o jüngster, sollst uns sein, o Sohn der Kraft, beträufelter, allheilig und verehrungswerth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

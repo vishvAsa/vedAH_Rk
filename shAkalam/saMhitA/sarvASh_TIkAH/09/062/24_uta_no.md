@@ -150,10 +150,7 @@ Und ströme uns Speisegenüsse nebst Kühen und lauter Loblieder zu, von Jamadag
 Ergiesse alle Tränke uns, milchreiche, liedumjubelte, Von Dschamadagni du gerühmt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

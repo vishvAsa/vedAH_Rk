@@ -163,10 +163,7 @@ Ausgepreßt rinnen die Braunen ihre eigene Strecke entlang, die Säfte, zu Indra
 Die rothen Indu's ausgepresst, ergiessen durch den eignen Raum Der Luft zu Indra eilend sich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -229,10 +229,7 @@ Als der Vater seine Tochter besprang, vergoß er bei der Begattung Samen auf den
 Als der Vater seine eigne Tochter bestiegen hatte, ergoss er mit der Erde zusammengekommen seinen Samen; die achtsamen Götter erzeugten das Brahma und schufen den Gesetz behütenden Wohnungsherrn.[474]
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

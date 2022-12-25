@@ -173,10 +173,7 @@ Bring uns die Überlegenheit, o Soma, Schnelligkeit wie Schönheit unserem Ausse
 Gewandheit bringe her und Kraft wie Schönheit, Soma, uns zum Glanz Zum Göttermahle ausgepresst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

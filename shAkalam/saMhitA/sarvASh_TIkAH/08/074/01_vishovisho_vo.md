@@ -176,10 +176,7 @@ Euren vielgeliebten Gast einer jeden Niederlassung wollen wir, nach dem ersten P
 Erlabt den vielgeliebten Gast, der jedem eurer Häuser naht; Den Hausfreund Agni lob' ich euch mit Lied, mit kräftigem Gebet,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

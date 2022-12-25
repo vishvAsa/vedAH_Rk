@@ -201,10 +201,7 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 »O Indra, dieser Vrischākapi hat einen todten Esel gefunden, ein Messer, eine Schüssel und einen neuen Kessel, dann einen mit Brennholz beladenen Wagen.« Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

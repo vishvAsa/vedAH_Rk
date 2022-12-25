@@ -145,10 +145,7 @@ Steh uns bei, du Bulle, im Verein mit der gewinnbringendsten, furchtgebietenden,
 Drum hilf mit reichlichst spendender, mit herrlicher, mit eilender Beachtung und Versorgung uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

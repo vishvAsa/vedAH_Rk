@@ -132,10 +132,7 @@ Geschmückt wie ein junges Weib, das ihr väterliches Erbteil hat, wurden die So
 Die Indutränke sind geschmückt wie eine Maid im Vatersitz, Zu Vaju sind sie hingeströmt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -234,10 +234,7 @@ Dich, o Asura, den Vorsorgenden, gehen wir jetzt um eine Ehrengabe wie um den un
 Drum flehn wir dich, den weisen, nun, o Lebensquell, um Gut, wie um ein Erbtheil, an, Dein Schirm, o Indra, ist der weiten Decke gleich; lass deine Huld erlangen uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

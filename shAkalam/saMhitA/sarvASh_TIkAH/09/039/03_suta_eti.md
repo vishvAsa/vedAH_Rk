@@ -134,10 +134,7 @@ Ausgepreßt geht er in die Seihe durch seine Stärke Machtglanz annehmend, sich 
 Gepresst geht er zur Seihe hin, mit Kraft erzeugend hellen Glanz, Weit schauend und erleuchtend weit.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

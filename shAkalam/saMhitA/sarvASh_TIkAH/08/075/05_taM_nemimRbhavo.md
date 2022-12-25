@@ -147,10 +147,7 @@ Ihn beuge näher heran zum Opfer wie die Ribhu´s den Radkranz biegen, durch gem
 Ihn bieg' durch Anrufungen her, wie Zimmerer des Rades Kranz, Recht nah ans Opfer, Angiras.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

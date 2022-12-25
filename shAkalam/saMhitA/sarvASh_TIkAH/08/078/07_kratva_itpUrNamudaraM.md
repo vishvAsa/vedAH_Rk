@@ -149,10 +149,7 @@ Der Bauch des Vritratöters und Somatrinkers ist voll der überlegenen, ihm erge
 Mit Krafttrunk ist sein Bauch gefüllt, des mächt'gen, der den Vritra schlägt, Des holden, der den Soma trinkt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

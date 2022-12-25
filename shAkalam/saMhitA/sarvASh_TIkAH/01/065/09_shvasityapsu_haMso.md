@@ -147,10 +147,7 @@ Er zischt dasitzend wie der Schwan im Wasser, durch Einsicht ausgezeichnet, der 
 Gleich einem Schwane – im Wasser zischt er, sehr klug an Einsicht – früh wach bei Menschen, Wie Soma waltend, – nach Brauch entsprossen, wie junges Füllen, – weitleuchtend, kräftig.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

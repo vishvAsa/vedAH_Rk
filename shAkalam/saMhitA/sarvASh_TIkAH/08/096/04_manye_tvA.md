@@ -213,10 +213,7 @@ Ich halte dich für den Opferwürdigen unter den Opferwürdigen, ich halte dich 
 Dich halt' ich für den Heiligen der Heil'gen, für den Beweger dich des Unbewegten; Dich halt' ich, Indra, für das wahre Banner, dich für den Herrscher aller Menschenstämme.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

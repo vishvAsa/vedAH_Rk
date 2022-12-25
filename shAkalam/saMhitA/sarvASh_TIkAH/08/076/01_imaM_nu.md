@@ -144,10 +144,7 @@ Diesen listenreichen Indra rufe ich jetzt, der durch seine Stärke mächtig ist,
 Nun ruf ich diesen weisen an, den Indra mit der Marutschar, Der kraftvoll herrscht, er weiche nicht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -229,10 +229,7 @@ Als ich bei fremden Bündnern war, da waren sie alle gegen mich gleich freigebig
 Nur wenn ich noch in fremden Fernen weile, sind sie bereit viel Gutes mir zu schenken, – Ich will den reichen Knicker elend machen, am Fuss ihn packen und am Fels zerschmettern.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

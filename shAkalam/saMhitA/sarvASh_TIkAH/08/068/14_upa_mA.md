@@ -147,10 +147,7 @@ Auf mich zu kommen sechs Rosse, je zwei und zwei, und die Herren in froher Somas
 Zur Seite stehen mir sechs Männer, je zwei und zwei, welche mir in freudiger Erregung des Somatrunkes angenehme Gaben mittheilen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

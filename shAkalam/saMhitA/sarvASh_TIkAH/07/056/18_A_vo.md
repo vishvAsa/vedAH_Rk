@@ -229,10 +229,7 @@ Der Hotri erfleht, nachdem er sich gesetzt hat, preisend eure vereinte Gabe, ihr
 Euch ruft herbei der Priester auf dem Sitze, und preist euch an die mannichfache Gabe; Auch er, der solchen Mann beschützt, o Helden, er ruft euch an mit Sprüchen ohne Falschheit.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

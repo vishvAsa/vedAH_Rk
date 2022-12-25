@@ -148,10 +148,7 @@ Deinen Saft trinken Mitra, Aryaman, Varuna, o Weiser, die Marut, wenn du dich lÃ
 Es trinken, Weiser, deinen Saft, des hellen, Mitra, Arjaman Und Varuna, die Marutschar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

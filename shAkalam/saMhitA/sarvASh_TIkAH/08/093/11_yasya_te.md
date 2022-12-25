@@ -176,10 +176,7 @@ Dessen Mahnung und Selbstherrlichkeit sie niemals zuwiderhandeln, weder ein Gott
 Du, dessen Plan und Willensmacht niemand zu hemmen je vermag, Nicht Gott, nicht Mensch, der vorwärts stürmt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -145,10 +145,7 @@ Von dir begünstigt, mit dir im Bunde wollen wir im Kampfe um Wasser, um die Son
 Von dir beschützt, mit dir vereint, wird grosser Preis in Kämpfen uns Um Licht und Wasser, Blitzender!
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

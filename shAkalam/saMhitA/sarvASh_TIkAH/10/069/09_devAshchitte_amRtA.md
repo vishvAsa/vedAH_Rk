@@ -199,10 +199,7 @@ Selbst die unsterblichen Götter verkünden deine Größe, o Jatavedas, Kind des
 Die ew'gen Götter selbst, o Wesenkenner, o Vādhriaçva, rühmten deine Grösse; Als bittend dir der Menschen Stämme nahten, da siegtest du durch Männer, die du stärktest.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

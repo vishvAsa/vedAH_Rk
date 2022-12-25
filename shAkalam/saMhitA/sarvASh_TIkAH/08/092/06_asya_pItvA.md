@@ -152,10 +152,7 @@ Nachdem der Gott von den Rauschsäften dieses Gottes kräftig getrunken hat, üb
 Wenn er, der Gott, von diesem Gott der Tränke viel getrunken hat, Dann siegt er über alle Welt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -161,10 +161,7 @@ Derselbige läßt sich in den menschlichen Ansiedelungen nieder wie ein Falke im
 Und er gleich einem Adler setzt sich auf der Menschen Häuser hin, geht wie der Bräutigam zur Braut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

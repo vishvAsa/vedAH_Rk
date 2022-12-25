@@ -147,10 +147,7 @@ Bring du uns doch ja nach Tausenden zählenden Reichtum, wenn du dich ergötzest
 Erfreuten Sinnes reiche bald uns tausendfachen Reichthum dar, Sei Spender dem Verehrenden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

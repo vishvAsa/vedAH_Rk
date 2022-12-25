@@ -191,10 +191,7 @@ vásu ← vásu- (nominal stem)
 **ऋषिवत्** पूर्वं ऋषय इव **देवान्** **ईळानाः** स्तुवन्तः **वसिष्ठासः** वसिष्ठकुलजाता ऋषयः **पितृवत्** वसिष्ठवत् **स्वस्तये** अविनाशाय **वाचं** स्तोत्रम् **अक्रत** कुर्वन्ति । करोतेर्लुङि  मन्त्रे घस इति च्लेर्लुक् । हे **देवासः** देवाः यूयं **कामम्** अस्मदभिलाषम् **एत्य** आगत्य **अस्मे** अस्मासु **वसु** गवादिलक्षणं धनम् **अव** **धूनुत** अभिमुखं प्रेरयत । तत्र दृष्टान्तः । **प्रीताइव** यथा प्रीताः संहृष्टाः। **ज्ञातयः** बन्धवः स्वजनस्य धनं प्रेरयन्ति तद्वद्धविर्दानेन स्तुतिकरणेन च बन्धुष्वस्मासु धनं प्रेरयतेति भावः ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 
@@ -219,10 +216,7 @@ Die Vasistha´s haben nach der Väter Weise eine Rede getan, die Götter nach de
 So sangen die Vasischtha's nach der Väter Art, nach Dichter Art die Götter preisend sich zum Heil; Wie liebe Freunde kommet her auf unsern Wunsch und schüttelt uns, o Götter, reiches Gut herab.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

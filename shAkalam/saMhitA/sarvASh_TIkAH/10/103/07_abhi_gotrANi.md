@@ -182,10 +182,7 @@ Der mit Gewalt in die Kuhställe eindringt, ohne Erbarmen, der Held Indra mit hu
 Der mit Gewalt sich in die Ställe eintaucht, Held Indra ohne Mitleid vielfach zürnend, In Schlachten siegreich, helfe unsern Heeren in jedem Kampf, unhemmbar, unerschüttert.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

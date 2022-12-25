@@ -127,10 +127,7 @@ Den stets Förderlichen, den die Menschen in den Kämpfen um die Sonne von versc
 Zu Hülfe den, der stets erquickt, den Männer in der Schlachten Drang, Um Beistand rufen hier und da,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

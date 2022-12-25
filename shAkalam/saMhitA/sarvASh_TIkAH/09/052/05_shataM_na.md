@@ -143,10 +143,7 @@ O Saft, mit hundert Hilfen oder mit tausend Wirkenskräften läutere dich uns Re
 Mit hundert Hülfen riesle hell, mit tausend glanzbegabten uns, O Indu, der du Schatz verleihst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

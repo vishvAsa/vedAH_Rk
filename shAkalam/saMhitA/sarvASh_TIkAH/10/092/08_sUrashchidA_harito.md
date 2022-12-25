@@ -220,10 +220,7 @@ Selbst die Sonne hielt ihre falben Stuten an. Vor Indra als Stärkerem fürchtet
 Ja auch der Sonne goldne Stuten hielt er an, vor Indra scheut sich jeder, als dem stärkeren, Vor seines Bauches Sausen des gewalt'gen Stiers; der Sieger donnert ungehindert Tag für Tag.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

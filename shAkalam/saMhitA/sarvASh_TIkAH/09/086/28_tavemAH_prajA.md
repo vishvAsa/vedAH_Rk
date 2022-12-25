@@ -246,10 +246,7 @@ Von deinem himmlischen Samen sind diese Geschöpfe; du herschest über die ganze
 Dein sind, die hier dem Himmelssamen sind entstammt, und du gebietest über diese ganze Welt, Ja, alles dies ist, rieselnder, in deiner Macht, der Häuser erster Gründer bist, o Soma, du.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

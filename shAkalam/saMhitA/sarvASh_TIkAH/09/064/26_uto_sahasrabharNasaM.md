@@ -152,10 +152,7 @@ Und bring uns die Tausend aufwiegende Rede, o Soma, die Belohnung erwartende, we
 Das Lied, was tausend Gaben beut, o Soma, den Triumphgesang, Bring', Indu, her, gereinigter!
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

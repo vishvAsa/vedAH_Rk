@@ -159,10 +159,7 @@ Die Somatränke, die in der Ferne, die in der Nähe ausgepreßt werden, zu allen
 O Indra, welche Tränke dir bereitet werden fern und nah, Zu denen allen gehst du hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

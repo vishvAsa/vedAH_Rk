@@ -147,10 +147,7 @@ Den Großen, dessen Hände mit ihrer Größe die goldene Keule, die losfahren wi
 Du grosser, dessen Hände rings mit Macht den Donnerkeil umfahn, Den goldnen, der zur Erde strebt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

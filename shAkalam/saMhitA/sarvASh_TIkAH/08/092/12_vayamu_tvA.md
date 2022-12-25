@@ -145,10 +145,7 @@ Wir machen dich, du Ratreicher, der Loblieder froh wie Kühe der Weide.
 Wir schaffen, dass an Sprüchen du, o thatenreicher dich erlabst, Wie Kühe an dem Wiesengras.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

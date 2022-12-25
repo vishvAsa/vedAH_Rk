@@ -158,10 +158,7 @@ Reichtum, dessen Wohlbemerkbarkeit an unseren Leibern, du Einsichtsvoller, und d
 Und Reichthum bringt nach deiner Gunst, schönwirkender, auch für uns selbst den vielbegehrten, schützenden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

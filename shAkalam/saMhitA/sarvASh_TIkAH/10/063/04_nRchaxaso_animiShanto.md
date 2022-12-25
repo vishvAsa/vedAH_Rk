@@ -187,10 +187,7 @@ Wie Herren blickend, nie die Augen schließend, die Götter haben nach Verdienst
 Die nimmer schlummernd Männer schaun, die Götter sind zu hohem ew'gen Dasein nach Verdienst gelangt; Mit lichtem Wagen schlangenschillernd, sündenlos bewohnen sie zum Heil des Himmels höchsten Raum.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

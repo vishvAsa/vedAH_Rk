@@ -194,10 +194,7 @@ Wie ein kleines Knäbchen bestieg er den neuen Wagen. Er kochte das Büffeltier 
 Als kleiner, zarter Knabe schon bestieg den neuen Wagen er; Dem Vater und der Mutter briet den kraftbegabten Büffel er.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

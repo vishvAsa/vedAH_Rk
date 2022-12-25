@@ -136,10 +136,7 @@ Auch ein tadelsüchtiger Mensch soll euch, ihr Beutegenossen, keinen Tadel anhä
 Nicht kann auf euch, o Kampfgenossen, selbst ein tadelsüchtiger Sterblicher einen Vorwurf bringen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

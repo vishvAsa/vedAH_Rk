@@ -153,10 +153,7 @@ Der sich läuternde Soma ist Agni, der Rishi, der über die fünf Völker gesetz
 Den Sänger Agni flehn wir an, der flammt, der viele Güter hat, Der fünf Geschlechter Priester ist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

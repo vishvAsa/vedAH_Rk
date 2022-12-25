@@ -150,10 +150,7 @@ Halte, o Saft, die Wut dieser nieder, du Vielgerufener der Menschen, wer uns auc
 O Indu, solches Menschen Kraft o vielgerufner, schütt' herab, Der wider uns auf Unheil sinnt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

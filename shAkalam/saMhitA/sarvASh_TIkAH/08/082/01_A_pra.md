@@ -138,10 +138,7 @@ Eile aus der Ferne und aus der Nähe herbei, du Vritratöter, zu der Darbringung
 Auf, eile aus der Ferne her und aus der Nähe, Vritrafeind, Wenn süssen Trank wir bringen dar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

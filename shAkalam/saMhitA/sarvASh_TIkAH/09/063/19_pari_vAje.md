@@ -151,10 +151,7 @@ Gießet ihn auf die Schafhaare, wie man den um den Siegerpreis wettlaufenden Ren
 Ergiesset durch des Widders Haar dem Indra ihn, den süssesten, Der wie beim Wettlauf Preis erstrebt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

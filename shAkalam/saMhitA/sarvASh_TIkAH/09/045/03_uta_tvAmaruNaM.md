@@ -164,10 +164,7 @@ Und dich, den Rötlichen, salben wir mit Milch zum Rauschtrank. Öffne uns die T
 Und dich, den rothen, salben wir mit Milch zum Rausche, schliesse du Die Thore uns zum Reichthum auf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

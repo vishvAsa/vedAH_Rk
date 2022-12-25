@@ -151,10 +151,7 @@ Seine altgewohnte Milch hergebend wird er auf die Seihe gegossen; brüllend hat 
 Ausströmend stets den alten Trank rinnt wiehernd durch die Seihe er, Die Götter hat er neu belebt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

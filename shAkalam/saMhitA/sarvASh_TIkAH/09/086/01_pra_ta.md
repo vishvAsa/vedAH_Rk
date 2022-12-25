@@ -228,10 +228,7 @@ Deine raschen, gedankenweckenden Rauschtränke rinnen , o Pavamana, leibhaftig w
 Vor strömen deine raschen Säfte, Flammender, gedankenschnell, wie von dem flücht'gen Aar erzeugt, Die honigsüssen Indu's, die berauschendsten, des Himmels Vögel sitzen auf der Kufe rings.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

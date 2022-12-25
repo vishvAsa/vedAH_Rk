@@ -220,10 +220,7 @@ Sieben Schwestern kommen als Mütter zu dem neugeborenen Hauskind, dem redekundi
 Die Mütter, sieben Schwestern eilen hin zum Spross, dem neugebornen, herrlichen, begeisterten, Dem männerschaunden, himmlischen, der Fluten Herrn, dem Soma, dass er herrsche über alle Welt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

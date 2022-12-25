@@ -220,10 +220,7 @@ Indra mit den Vasu´s soll unser Haus ringsum schützen, Aditi mit den Aditya´s
 Es schütze Indra mit den Vasu's unser Haus, mit den Aditja's reiche Aditi uns Schutz, Gott Rudra mit den Rudra's mög' uns gnädig sein, und mit den Weibern fördre Tvaschtar uns zum Glück.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

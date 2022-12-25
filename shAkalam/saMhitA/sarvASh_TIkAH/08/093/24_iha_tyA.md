@@ -138,10 +138,7 @@ Hierher sollen die beiden Kumpane, die goldmähnigen Falben fahren zum vorgesetz
 Es fahre her der Füchse Paar zum Mahl vereint, mit goldnem Haar, Zu dieser aufgetragnen Kost.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -149,10 +149,7 @@ Der Vritratöter, der ausgepreßte Bulle, der einen Ausweg ins Freie findet, der
 Der Vritratödter Soma lief heilspendend, der erzeugte Hengst, Untilgbar wie zur Beute hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

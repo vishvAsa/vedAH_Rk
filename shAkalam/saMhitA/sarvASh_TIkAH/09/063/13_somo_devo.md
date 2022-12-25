@@ -161,10 +161,7 @@ Soma klärt sich wie der Gott Surya, wenn er mit den Steinen ausgepreßt ist, se
 Gepresst von Steinen rieselt hell der Soma gleich dem Sonnengott Und führt zur Schale seinen Saft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

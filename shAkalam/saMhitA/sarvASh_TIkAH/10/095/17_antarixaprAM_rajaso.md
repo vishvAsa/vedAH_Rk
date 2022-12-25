@@ -204,10 +204,7 @@ Die die Lüfte erfüllende, den Raum durchmessende Urvasi locke ich her, ihr Lie
 Die Urvaçī, die die Luft erfüllt, und den Raum durchmisst, verehre ich, der trefflichste; dich möge erreichen, was die Frömmigkeit darbringt; o kehre wieder, mein Herz wird gequält.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

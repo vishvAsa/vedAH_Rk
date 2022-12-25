@@ -228,10 +228,7 @@ Den kenne ich nicht, der also spräche, nachdem er die Gottlosen im Kampfe ersch
 »Ich kenne den nicht, der zu mir so spräche, nachdem im Kampf die Bösen ich geschlagen; Ja, wenn sie sehn, wie wüthend das Gefecht geht, geloben sie mir auch wol zwei der Stiere.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

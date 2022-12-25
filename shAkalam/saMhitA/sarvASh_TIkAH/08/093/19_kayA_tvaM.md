@@ -164,10 +164,7 @@ Mit welcher Gunst ziehst du her zu uns, du Bulle, mit welcher willst du den Sän
 Mit welcher Hülfe willst du uns erfreuen, o du starker Held? Mit welcher? bring den Sängern sie.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

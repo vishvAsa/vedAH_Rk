@@ -152,10 +152,7 @@ Diese Soma´s sollen dem Opferspender alle Schätze, die himmlischen, irdischen 
 Die Soma's mögen alles Gut der Erd', des Himmels und der Luft Zurieseln dem Verehrenden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

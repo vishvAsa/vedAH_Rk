@@ -159,10 +159,7 @@ Er ist es, der in raschem Laufe vom Himmel in die Seihe, auf die Welle des Strom
 Er ist es, der in schnellem Lauf vom Himmel zu der Seihe hin In Stromes Welle niederrinnt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -156,10 +156,7 @@ Deine Ströme, die von Süßem triefen, wurden laufen gelassen uns zur Hilfe, o 
 Mit deinen Strömen, die zum Schutz an Honig reich ergossen sind, O Indu, fliesse in das Sieb.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

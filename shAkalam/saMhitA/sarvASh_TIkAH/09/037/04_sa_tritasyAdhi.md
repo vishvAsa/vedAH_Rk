@@ -145,10 +145,7 @@ Auf dem erhöhten Platze des Trita ließ Pavamana die Sonne leuchten im Verein m
 Hoch auf des Trita Bergeshöh entzündete der flammende Die Sonne sammt der Schwesterschar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

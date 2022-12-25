@@ -184,10 +184,7 @@ Und auch diese strahlenden, rudrischen Nasatya´s will ich, um mir Beifall zu er
 Auch jene beiden prächtigen, glänzenden Nā satja's, o Indra, sollen auf mein Lob und Opfer achten, welche nach Menschenart dem Streubereiter Gaben spenden, erfreuend, sie, denen Opferspeisen vorgesetzt, und die in den Häusern zu verehren sind.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

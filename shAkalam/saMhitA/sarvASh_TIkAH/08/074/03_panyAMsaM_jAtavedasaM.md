@@ -130,10 +130,7 @@ Den hochgeschätzten Jatavedas, der die im Götteropfer dargebotenen Spenden gen
 Den schönen, der die Wesen kennt, der die gereichten Opfer bringt, Zum Himmel zu der Götterschar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

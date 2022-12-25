@@ -151,10 +151,7 @@ Hell flammend wie der Buhle der Morgenröte hat er die beiden gepaarten Welten a
 Der lichte leuchtend, – der Uschas Buhle, füllt beide Welten – wie Licht des Himmels; Geboren ragtest – an Kraft hervor du, der Götter Vater, – obwol ihr Sohn doch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

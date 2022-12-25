@@ -152,10 +152,7 @@ Srutakaksa singt genügend für ein Roß, genügend für ein Rind, genügend fü
 Dem Rosse passend und dem Rind, stimmt Çrutakakscha Lieder an, Und passend, Starker, deiner Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

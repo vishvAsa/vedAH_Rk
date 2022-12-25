@@ -198,10 +198,7 @@ Nicht soll der gottlose Sterbliche Speisegenuß erlangen, o Langlebiger! Welcher
 Kein Sterblicher, der gottlos ist, hat Gut erlangt, Unsterblicher; Nur der erlangt's, der dir die schnellen Rosse schirrt, das Füchsepaar, o Indra, schirrt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

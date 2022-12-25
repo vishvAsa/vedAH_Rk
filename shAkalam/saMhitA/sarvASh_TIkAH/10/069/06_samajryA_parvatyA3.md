@@ -201,10 +201,7 @@ Du hast die Schätze der Ebene und des Gebirges erbeutet, du hast die dasischen 
 Du nahmst das Gut der Berge und der Fluren, und schlugst die Feinde, Arjer und Barbaren, Als kühner Held, Erschütterer der Menschen, mögst alle Gegner, Agni, du besiegen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

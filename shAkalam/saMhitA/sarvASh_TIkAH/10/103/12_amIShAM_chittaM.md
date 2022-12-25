@@ -207,10 +207,7 @@ Jener Sinn verwirrend, pack, Apva, ihre Glieder und geh mit ihnen ab! Geh drauf,
 O Krankheit, fliehe fort zu jenen Feinden, den Sinn betäubend, ihre Glieder packend; Zu ihnen geh und brenn ihr Herz mit Flammen; es mag der Feind in blindem Dunkel weilen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

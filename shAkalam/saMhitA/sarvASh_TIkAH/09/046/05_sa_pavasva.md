@@ -135,10 +135,7 @@ Läutere dich, du Schätzegewinner, als Spender großer Ehrengabe, als Pfadfinde
 O riesle hell, erbeutender, Darreicher grosser Gaben du, Und schaff uns, Soma, freie Bahn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

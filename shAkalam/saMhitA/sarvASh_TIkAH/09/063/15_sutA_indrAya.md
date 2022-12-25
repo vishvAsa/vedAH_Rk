@@ -139,10 +139,7 @@ Die für den Keulenträger Indra ausgepreßten Somasäfte, die mit saurer Milch 
 Dem Blitzer Indra ausgepresst, ergiessen durch die Seihe sich Die Somatränke milchgemischt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

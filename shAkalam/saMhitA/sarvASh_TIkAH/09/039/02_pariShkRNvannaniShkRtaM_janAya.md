@@ -149,10 +149,7 @@ Das unfertige vollkommen machend, dem Manne mit Labsalen vergeltend, laß des Hi
 Das ungeschmückte schmückend schön, dem Menschen reichend Labetrunk, Ergiess des Himmels Regen uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -143,10 +143,7 @@ Bei dir sind alle Schätze und alle Glücksgüter vereinigt, o Soma, die schön 
 In dir, o Indra, sind vereint die Güter, alle Herrlichkeit, Vieltheilig, unbeschädiget.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

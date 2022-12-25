@@ -194,10 +194,7 @@ Besteige doch, du schönlippiger Hausherr, den goldenen Wagen, dann wollen wir b
 Besteige, o Hausherr [Indra], der du schönen Helm trägst, den goldenen Wagen, dann wollen wir beide hinstreben zu dem himmlischen, tausendfüssigen, feuerrothen, zum Heile führenden, unvergleichlichen [Agni].
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

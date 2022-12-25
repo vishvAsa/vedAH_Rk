@@ -143,10 +143,7 @@ Läutere dich, bei allen Völkern Bekannter, um alle Sehergaben zu gewinnen, als
 O riesle, aller Menschen Hort, uns alle Sehergaben her, Ein Freund den Freunden, preisenswerth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -214,10 +214,7 @@ Sieben sind die göttlichen Gewässer, die erfreulichen, ungeschmälerten, mit d
 Die sieben reinen, muntern Himmelsfluten, durch die burgbrechend Indra du zum Meer drangst, Die neunundneunzig Flüsse, welche strömen, die fandest du und Heil für Gott und Menschheit.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

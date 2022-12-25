@@ -159,10 +159,7 @@ Läutere uns fein Regen her, der Gewässer Welle vom Himmel, gesunde, große Spe
 O riesle Regen schnell herbei, vom Himmel uns des Wassers Flut, Heilsamen, reichen Labetrunk.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

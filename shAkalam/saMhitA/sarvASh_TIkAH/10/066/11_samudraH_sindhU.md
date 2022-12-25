@@ -200,10 +200,7 @@ Das Meer, die Sindhu, der Umkreis, die Luft, der ungeborene Einfuß, der Donners
 Der Ocean, der Strom, der weite Raum, die Luft, der Kreiselwind, der donnernde, der wogende, Der Wetterdrache höre meiner Lieder Schall, die Götter alle und die Glänzenden mein Wort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

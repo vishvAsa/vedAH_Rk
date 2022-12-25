@@ -133,10 +133,7 @@ Den die Leute, Opfergaben bringend, den Schmalzschlürfer wie Mitra mit Preisred
 Ihn, den die Menschen opferreich, den Butterschlürfer, gleich dem Freund Mit Preisgesang verherrlichen,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

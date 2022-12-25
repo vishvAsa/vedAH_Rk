@@ -153,10 +153,7 @@ Die Schmalzlöffel mischend steigt er eilfertig gen Himmel. Was geht und steht, 
 Zum Himmel stieg er, – geschäftig flammend, enthüllt' die Nächte, – was steht und wandert; Da er von diesen, – den Göttern allen, der Gott an Grösse – allein hervorragt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

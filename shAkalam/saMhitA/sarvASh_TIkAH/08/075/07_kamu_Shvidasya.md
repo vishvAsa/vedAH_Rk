@@ -155,10 +155,7 @@ Welchen Pani werden wir denn mit dem Flammenheere dieses Agni, der im Rücken Au
 Wie? strecken wir durch das Geschoss des Agni hier, der fernhin strahlt, Den Dieb nicht bei den Kühen hin?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

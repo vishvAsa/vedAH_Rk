@@ -144,10 +144,7 @@ O Pavamana, find uns Reichtum, der schwer zu überbieten ist, o Soma, der von de
 O schenk uns, Soma, flammender, den Schatz, der unentreissbar ist Und unerreichbar für den Feind.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -135,10 +135,7 @@ Diese Somatränke sind losgelassen worden zu großem Ruhme gepriesen, mit dem St
 Ergossen sind die Soma's hier gepriesen nun zu hohem Ruhm, Im Strome des berauschendsten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -126,10 +126,7 @@ Schön gemacht von den Frommen, zwischen den Händen geputzt, läutern sie sich 
 Sie rieseln hin aufs Widderhaar, von frommen Männern ausgeschmückt, Mit beiden Armen schön geklärt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

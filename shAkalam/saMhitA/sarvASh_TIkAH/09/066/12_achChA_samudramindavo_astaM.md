@@ -166,10 +166,7 @@ Zum Meere sind die Säfte gekommen wie die Milchkühe nach Hause, zu ihrem ordnu
 Die Indu's sind zum Meere hin wie Kühe heimwärts in den Stall, Gelaufen in des Opfers Schooss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

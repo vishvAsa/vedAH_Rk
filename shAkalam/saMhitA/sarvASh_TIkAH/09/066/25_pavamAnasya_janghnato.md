@@ -146,10 +146,7 @@ Des Pavamana, des die Finsternis vertreibenden goldgelben Falben, des Flammen-sc
 Ergossen sind des flammenden, des goldnen Kämpfers Ströme schon, Die lichten Flammenfunkelnden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

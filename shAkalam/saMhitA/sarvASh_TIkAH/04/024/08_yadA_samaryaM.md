@@ -228,10 +228,7 @@ Als er den drohenden Streit gemustert, als er dem langen Wettstreit des Nebenbuh
 Als stürmend er das Schlachtgetümmel wahrnahm, den langen Kampfzug treugesinnt beschaute, Da rief dem kühnen Helden zu die Gattin, als ihn gestärkt im Haus die Somapresser.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -145,10 +145,7 @@ An dessen Vorschrift sich jedermann hält, des Herrn des Gesetzes, des sich läu
 Auf dessen Werk sich jeder Mann fest stützet, des Gesetzesherrn, Des güterreichen, flammenden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

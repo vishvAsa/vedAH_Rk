@@ -200,10 +200,7 @@ O Agni, du läuterst uns Lebenskraft zu; weise uns Stärkung und Labung zu! Halt
 Du flammst, o Agni, Leben aus, erzeuge Trank und Speise uns, Das Unheil stosse weit hinweg.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

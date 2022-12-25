@@ -156,10 +156,7 @@ Dich, den Stützer seiner beiden Arme, o Pavamana, mit dem Sonnenauge sporne ich
 Der du die Weltenschalen trägst, o Flammender, der Sonne gleich, Dich sporn' ich wie ein Ross zum Lauf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -153,10 +153,7 @@ Zur Eile getrieben entsendest du die Stimme, o Pavamana, wenn du dich ausbreites
 Entsandt erhebst du den Gesang, o rieselnder, du wiehertest Am Himmel wie der Sonnengott.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

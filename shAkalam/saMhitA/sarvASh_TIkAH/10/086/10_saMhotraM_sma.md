@@ -192,10 +192,7 @@ Früher zog die Herrin zu gemeinsamem Opfer oder zum Kampf aus. Da ward sie als 
 Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen; eine Ordnerin des heiligen Werkes ist die dem Helden vermählte; des Indra Gattin erweist sich mächtig.« Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

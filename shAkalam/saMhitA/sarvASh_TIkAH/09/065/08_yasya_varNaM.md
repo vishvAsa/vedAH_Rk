@@ -148,10 +148,7 @@ Dessen honigtriefende Farbe sie wie einen Falben mit den Steinen in Fluß bringe
 Dess helle Flut von Honig trieft, dess Ross sie spornen durchs Gestein, Zum Trunk dem Indra, Indu ihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

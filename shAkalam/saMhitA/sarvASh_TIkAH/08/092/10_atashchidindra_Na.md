@@ -149,10 +149,7 @@ Auch von dort komm her zu uns, Indra, mit Speisesegen, der hundertfachen, tausen
 Von dort, o Indra, komme her mit Nahrung zu uns, die erlabt Uns hundertfach und tausendfach.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

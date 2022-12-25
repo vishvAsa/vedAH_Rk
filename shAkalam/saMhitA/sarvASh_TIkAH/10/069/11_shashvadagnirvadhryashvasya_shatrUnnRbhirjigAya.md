@@ -193,10 +193,7 @@ Immer wieder hat des Vadhryasva Agni die Feinde besiegt im Bunde mit den somapre
 Besiegt hat Agni stets des Vadhriaçva Bekämpfer durch der Somapresser Freunde, Den Tross auch hast verbrannt du strahlenreicher, zerschmettert auch den Trotzenden als Helfer.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

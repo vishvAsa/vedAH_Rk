@@ -190,10 +190,7 @@ Möge uns Gott Savitri Kraft zuweisen, dem redlichen Opferer und Somapresser, au
 Es sende uns Gott Savitar Erquickung zu, dem Opferer, der richtig wandelnd Soma braut, Dass wir die Götter preisen mögen treuen Sinns; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

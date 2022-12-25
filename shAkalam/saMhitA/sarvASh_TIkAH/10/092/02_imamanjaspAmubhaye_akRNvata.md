@@ -198,10 +198,7 @@ Ihn machten beide Teile zu dem unmittelbar Trinkenden, den Agni zum Regler und W
 Zum Träger machten Agni beide Stämme sich, ihn, der das Fett trinkt, und zum Opferförderer, Wie schnellen Lichtschein küssen Morgenröthen ihn, den Priester, der aus eigner rother Glut entsprang.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

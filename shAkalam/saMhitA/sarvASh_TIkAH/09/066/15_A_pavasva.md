@@ -160,10 +160,7 @@ Läutere dich zur Rindererbeutung für den Großen mit dem Herrscherauge, o Soma
 Ström', Soma, dem begierigen, dem grossen, Männer schauenden, Und dringe ein in Indra's Bauch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

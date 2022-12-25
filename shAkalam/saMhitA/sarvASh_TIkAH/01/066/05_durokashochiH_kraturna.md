@@ -149,10 +149,7 @@ Dessen Flamme schwer heimisch wird, und doch ist er eingeboren wie die Einsicht,
 Nicht leicht entzündbar, – wie Kraft beständig, wie Frau im Hause – bereit für jeden; Hell, wenn er aufstrahlt – wie Licht in Häusern, wie goldner Wagen – in Schlachten eilend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

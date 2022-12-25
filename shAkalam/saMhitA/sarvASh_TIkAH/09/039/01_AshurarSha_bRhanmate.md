@@ -161,10 +161,7 @@ Fließe schnell ab, du Hochgesinnter, in deiner angenehmen Form, dorthin, wo man
 O hochgesinnter, ströme schnell durch den geliebten Ort dahin, »Wo Götter sind«, das ist dein Wort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

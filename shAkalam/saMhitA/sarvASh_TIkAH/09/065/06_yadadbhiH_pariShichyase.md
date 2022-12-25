@@ -139,10 +139,7 @@ Wenn du mit Wasser begossen wirst, zwischen den Händen gereinigt, so nimmst du 
 Wenn du durch Flut ergossen wirst, gereinigt von den Armen du, Erreichst du auf dem Holz den Sitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

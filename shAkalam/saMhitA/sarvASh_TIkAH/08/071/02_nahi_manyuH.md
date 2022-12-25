@@ -166,10 +166,7 @@ Denn kein menschlicher Grimm hat über euch Götter Macht, du Liebgeborener. Du 
 Denn nicht Menschenzorn bemächtigt eurer sich, zur Huld geborne, Du zumal bist ein Beschützer.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

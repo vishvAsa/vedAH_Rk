@@ -148,10 +148,7 @@ Labsal und Stärkung gibst du in Fülle, für Indra der Berauschendste. Du setze
 Du lässest schwellen Kraft und Saft dem Indra, o berauschendster, In Schalen lässt du nieder dich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

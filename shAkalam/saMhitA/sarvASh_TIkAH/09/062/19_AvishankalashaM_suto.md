@@ -168,10 +168,7 @@ Ausgepreßt in den Krug einziehend, auf alle Herrlichkeiten zufließend hält er
 Der Saft, der in den Becher dringt, der alle Schätze uns ergiesst, Steht unter Kühen wie ein Held.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

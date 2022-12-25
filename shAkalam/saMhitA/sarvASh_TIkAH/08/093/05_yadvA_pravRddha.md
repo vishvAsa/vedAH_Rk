@@ -188,10 +188,7 @@ Oder wenn du hochgewachsener, rechtmäßiger Gebieter denkst: " Ich werde nicht 
 Und wenn du hoch erhabner Fürst »nicht werd' ich sterben« also denkst, So ist auch dies dein Denken wahr.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

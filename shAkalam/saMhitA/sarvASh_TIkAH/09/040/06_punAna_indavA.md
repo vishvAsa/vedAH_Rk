@@ -148,10 +148,7 @@ Wenn du dich läuterst, o Somasaft, so bring uns doppeltgroßen Reichtum, preisl
 Gereinigt bringe, Indu, her o Soma, zwiefach reichen Schatz Uns rühmenswerthen, Indu, Stier!
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

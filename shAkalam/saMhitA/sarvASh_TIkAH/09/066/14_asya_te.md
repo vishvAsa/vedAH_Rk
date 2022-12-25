@@ -157,10 +157,7 @@ Da wir in deiner Freundschaft mit deiner Hilfe etwas erreichen möchten, so wün
 Drum wünschen deine Freundschaft wir verlangend, Indu, unterstützt Von dir in deiner Brüderschaft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

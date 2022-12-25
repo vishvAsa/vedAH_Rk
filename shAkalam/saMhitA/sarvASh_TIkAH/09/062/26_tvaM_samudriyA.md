@@ -140,10 +140,7 @@ Läutere dich, du Allerreger, die Wasser des Meeres erregend und als Wortführer
 Der du als Führer des Gesangs des Meeres Fluten strömen lässt, O riesle, allbelebender!
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

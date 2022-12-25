@@ -154,10 +154,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो यत्ते मनः सूर्यं सूर्यमिव यदुषसं तदिति गतम्॥८॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

@@ -168,10 +168,7 @@ Ihn schirren sie an den dreirückigen, dreisitzigen Wagen zum Fahren unter den G
 Dem Wagen, der drei Rücken hat, drei Sitze, schirren sie ihn an Zur Fahrt durch sieben Sängerwerk.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

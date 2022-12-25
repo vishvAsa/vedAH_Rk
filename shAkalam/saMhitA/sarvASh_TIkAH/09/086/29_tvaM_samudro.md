@@ -246,10 +246,7 @@ Du bist das Meer, du, Seher, bist der Allwissende. Dein sind diese fünf Weltgeg
 Ein Meer bist du, o weiser, der du alles hast, in deinem Schütze stehn die fünf Weltgegenden, Du ragest über Erd' und Himmel weit hinaus, und Sonne ist, o heller, deiner Lichter Schein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

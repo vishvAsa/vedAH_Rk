@@ -198,10 +198,7 @@ Und die beiden Götter Asvin, die Herren der Schönheit, Mitra und Varuna sollen
 Und die beiden Götter, die Açvinen, die Herrn des Glanzes und Mitra und Varuna mit ihren Scharen mögen uns hülfreich sein; zu grossem Reichthum dringt der [, dem sie helfen,] hin und durch Gefahren wie durch wüste Lande.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

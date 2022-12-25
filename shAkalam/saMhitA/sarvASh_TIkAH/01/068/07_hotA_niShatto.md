@@ -156,10 +156,7 @@ Als Hotri eingesetzt bei den Nachkommen des Manu, ist nur er der Herr dieser Rei
 Als Priester sitzend – bei Manu's Stamme ist dieser Güter – Gebieter stets er; Sie wünschten Samen – sich wechselseitig, die Weisen, einig – in ihren Plänen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

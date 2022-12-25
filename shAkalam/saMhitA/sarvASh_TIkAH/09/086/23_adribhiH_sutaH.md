@@ -236,10 +236,7 @@ Mit den Steinen ausgepreßt läuterst du dich in der Seihe, o Saft, in Indra´s 
 Gepresst von Steinen rieselst du zur Seihe hin, um einzugehn, o Indu, in des Indra Bauch, Der Männer Leuchte wurdest weithinschauend du, den Angirasen schlossest du den Kuhstall auf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

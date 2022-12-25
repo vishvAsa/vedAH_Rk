@@ -210,10 +210,7 @@ Damals als du, Indra, die Zaubereien des Svarbhanu, die unter dem Himmel vor sic
 Als, Indra, du des Suarbhanu Zauber vernichtetest, die her vom Himmel rollten, Fand Atri auf durch der Gebete viertes die Sonne, die verhüllt von bösem Dunkel.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

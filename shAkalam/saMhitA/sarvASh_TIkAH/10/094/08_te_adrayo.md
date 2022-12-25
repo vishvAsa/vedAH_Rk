@@ -210,10 +210,7 @@ Die Steine sind Renner mit zehn Riemen, ihr Zaun legt sich angenehm herum. Sie h
 Zehnfach gezäumten Rossen sind die Steine gleich, und ihre Fahrt umläuft den lieben Somatrank; Des besten Stengels erste Milch genossen sie, des ausgepressten Somakrautes besten Trank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

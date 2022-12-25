@@ -164,10 +164,7 @@ Ausgepreßt ist der Saft hervorgeflossen über die Seihe aus Schafwolle; sich l�
 Gepresst ist Indu vorgeströmt hin durch das wollne Läutrungsnetz, Geklärt zu Indra Indu hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

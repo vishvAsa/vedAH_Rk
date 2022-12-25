@@ -150,10 +150,7 @@ Durch diese Dichtung und in dem Wunsch nach Rindern geschah es, du Vielarmiger, 
 Durch diese Bitte voll Begier, vielnam'ger, vielgepriesener, So oft beim Soma du erschienst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

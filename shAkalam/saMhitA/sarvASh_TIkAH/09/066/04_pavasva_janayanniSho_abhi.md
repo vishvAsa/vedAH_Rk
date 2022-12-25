@@ -148,10 +148,7 @@ Läutere dich, indem du Labsale schaffst, um alle begehrenswerten Dinge zu gewin
 O riesle, zeugend Labetrunk, uns alle Herrlichkeiten her, Ein Freund den Freunden, zum Genuss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

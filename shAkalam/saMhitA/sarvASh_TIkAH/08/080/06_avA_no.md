@@ -173,10 +173,7 @@ Hilf unserem gewinnbegierigen Wagen! Es ist dir leicht, was steht im Wege? Mach 
 Dem Wagen hilf, der Preis erstrebt, leicht ist es dir, was hindert dich? O lass gewinnen uns den Preis.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

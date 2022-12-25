@@ -150,10 +150,7 @@ Pavamana möge mit seinen Strahlen durchdringen, der am meisten Siegespreise gew
 Mit seinen Strahlen dringe durch der flammende, der Kraft verleiht, Dem Sänger schenk' er Heldenkraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

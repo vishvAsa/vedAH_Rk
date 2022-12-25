@@ -149,10 +149,7 @@ Die braunen Renner wurden losgelassen über die Hindernisse, die Somasäfte in o
 Im Strom des Opfers haben sich ergossen diese flammenden, Die raschen Soma's durch das Netz,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

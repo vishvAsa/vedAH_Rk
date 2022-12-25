@@ -159,10 +159,7 @@ Du, dem Gopavana mit seiner Lobrede gefallen möchte, o Agni, Angiraside, du Lau
 Du, den Gopavana durch Lied, erfreut hat, Agni, Angiras, Du flammender vernimm den Ruf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

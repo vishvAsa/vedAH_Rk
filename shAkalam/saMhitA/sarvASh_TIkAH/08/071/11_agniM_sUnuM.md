@@ -187,10 +187,7 @@ Zu Agni, dem Sohn der Kraft, zu Jatavedas, daß er Kostbarkeiten schenke, der ab
 Dem Wesenkenner Agni, ihm, dem Sohn der Kraft, damit er Güter uns verleih, Ihm, der fürwahr unsterblich bei den Sterblichen, im Haus der liebste Priester ist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

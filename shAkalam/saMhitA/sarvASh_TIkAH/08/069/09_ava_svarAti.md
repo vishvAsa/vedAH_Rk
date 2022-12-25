@@ -161,10 +161,7 @@ Es ertöne die Trommel, laut klinge der Handschutz, die Sehne soll tanzen: An In
 Es klinge hell der Harfe Ton, erschalle laut der Saite Klang, Die Sehne schwinge auf und ab, dem Indra ist Gebet gereicht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -215,10 +215,7 @@ Ganz gewiß werdet ihr Marut euch irgendwie dieser unserer Bekanntschaft erinner
 Wie ist es denn? o Maruts achtet nimmer ihr auf diese Stammverwandtschaft zwischen uns und euch? Im Heiligthum, wo wir zuerst uns liebend nahn, da setze die Verwandtschaft Aditi uns fest.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

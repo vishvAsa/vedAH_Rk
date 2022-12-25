@@ -214,10 +214,7 @@ Sieben Männer gingen von Süden hinauf, acht von Norden, die kamen zusammen. Ne
 Sieben Männer kamen von Süden herauf, acht von Norden her vereinigten sich mit ihnen; neun kamen von Westen mit Getreide beladen, zehn durchdringen im Osten den Gipfel des Felsens.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

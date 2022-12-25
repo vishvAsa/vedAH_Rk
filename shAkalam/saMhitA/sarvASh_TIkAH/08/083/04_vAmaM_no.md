@@ -142,10 +142,7 @@ Glück soll uns werden, Aryaman, preisliches Glück, Varuna, denn das Glück erb
 Uns werde Schatz, o Arjaman, gepries'ner Schatz, o Varuna; Denn schönen Schatz begehren wir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

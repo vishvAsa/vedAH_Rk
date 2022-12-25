@@ -147,10 +147,7 @@ Der dein ruhmglänzendster, der dein feindetötendster, der dein kraftverleihend
 Welch Rausch den höchsten Ruhm verdient und, Indra, bestens Feinde schlägt, Der dir am meisten Kraft verleiht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

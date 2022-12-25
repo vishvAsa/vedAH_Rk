@@ -235,10 +235,7 @@ Dreimal des Tages stachst du mich mit der Rute, und du ließest mir, wenn ich ke
 »Dreimal des Tages hast du mich gestossen mit deinem Gliede und fülltest reichlich ein der nicht verlangenden; ich gab deinem Willen nach, o Purūravas, da warst du, o Held, Beherrscher meines Leibes.«
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

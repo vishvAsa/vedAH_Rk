@@ -224,10 +224,7 @@ O weh, Mütterchen, du leicht zu kriegendes Weibchen, wie es wohl sicher kommen 
 Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hinterer, o Mutter, meine Hüfte und mein Kopf ist gleichsam in Aufregung. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

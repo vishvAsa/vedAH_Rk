@@ -162,10 +162,7 @@ Dich schmücken die beredten, wortkundigen Meister; dich putzen die Ayu´s.
 Rings schmücken die verehrenden, die liederkund'gen Sänger dich, Es läutern dich die eifrigen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

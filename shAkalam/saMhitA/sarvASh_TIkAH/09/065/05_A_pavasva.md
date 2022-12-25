@@ -174,10 +174,7 @@ Läutere uns die Meisterschaft zu, dich berauschend, du Wohlbewaffneter! Komme d
 O riesle Heldenkraft herbei, erfreut, o schön bewaffneter, O Indu, komme schnell hieher.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

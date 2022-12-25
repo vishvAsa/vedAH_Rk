@@ -208,10 +208,7 @@ Savitri soll die Krankheit in den Boden verbannen, die Berge sollen sie so weit 
 Hinweg zu Boden werf die Krankheit Savitar, die Felsen mögen weit hinweg verscheuchen sie Von hier, wo Soma pressend laut der Stein ertönt; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

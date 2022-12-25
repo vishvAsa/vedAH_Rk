@@ -143,10 +143,7 @@ Du hast diese weiße Milch in den schwarzen und roten, in den gefleckten Kühen 
 Du setztest diese helle Milch in schwarz und rothe Küh' hinein Und in die buntgefleckten auch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

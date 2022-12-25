@@ -166,10 +166,7 @@ Zu eurem Tranke des Soma ladet den Indra mit Gesang ein, den Allüberwinder, den
 Auf, singt dem Indra Lobgesang, ihm, der von eurem Soma trinkt, Der thatenreich dass All bezwingt, der aller Geber bester ist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

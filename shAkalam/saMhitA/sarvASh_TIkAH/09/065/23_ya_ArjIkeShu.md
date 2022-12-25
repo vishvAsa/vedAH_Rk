@@ -159,10 +159,7 @@ Die bei den Arjika´s, bei den Kritvan´s, die innerhalb des Flußgebiets oder b
 Die in Behältern voller Kraft, die mitten in dem Heimatsitz Und bei den fünf Geschlechtern sind,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

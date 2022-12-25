@@ -129,10 +129,7 @@ Die Seher haben ihm zugeschrieen, die Klugen streben ihm zu; die Tore sinken unt
 Die Freunde haben ihn gerühmt, die Weisen opfern ihm mit Lust, Zu Grunde geht der Thoren Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

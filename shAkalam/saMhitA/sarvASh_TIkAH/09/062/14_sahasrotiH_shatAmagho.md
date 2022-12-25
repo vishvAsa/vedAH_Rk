@@ -143,10 +143,7 @@ Tausend Hilfen, hundert Gaben bringend, den Raum durchmessend, ein Seher, läute
 Der Trank, der tausend Hülfen beut und hundert Schätze, weisheitsvoll, Strömt hell dem Indra durch die Luft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

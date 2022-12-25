@@ -131,10 +131,7 @@ Denn alles ging nach Menschenart unseren Wünschen entsprechend, o Ratreicher; w
 Es ist ja aller Menschen Art begehrlich, o vielwirkender, Uns kam das Wünschen an, o Held.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

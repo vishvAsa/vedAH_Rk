@@ -176,10 +176,7 @@ Du Soma stehst uns bei der Gewinnung der Sonne, der Speisegenüsse, der Nachkomm
 Soma, du bist Sonne, schenkest Labung uns und unsern Kindern, Dich begehren wir zum Bündniss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

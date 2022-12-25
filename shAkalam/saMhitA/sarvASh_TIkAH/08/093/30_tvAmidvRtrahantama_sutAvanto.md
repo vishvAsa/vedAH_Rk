@@ -144,10 +144,7 @@ Nur dich, du Erzfeindetöter, rufen wir bei ausgepreßtem Soma, wenn du, Indra, 
 Ja dich, o Feind vertilgender, dich rufen Soma bringend wir, O sei du, Indra, gnädig uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

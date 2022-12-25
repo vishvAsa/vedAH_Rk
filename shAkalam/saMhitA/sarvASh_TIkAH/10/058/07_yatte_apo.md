@@ -153,10 +153,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो यत्ते मनोऽप उदकं यदोषधीर्वनस्पतीनिति तदिति गतम्॥७॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

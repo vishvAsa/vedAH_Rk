@@ -181,10 +181,7 @@ Dieser Indra ist zum Schenken geschaffen, der Stärkste ist für den Rausch best
 Zur Gab' ist Indra angethan, der stärkste ist in Rausch versetzt, Er, licht und laut, dem Soma hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

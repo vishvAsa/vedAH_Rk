@@ -139,10 +139,7 @@ Der Bulle Soma rinnt zum Trunke ausgepreßt in die Seihe, die Unholde vertreiben
 Der Soma rinnt zum Trunk gepresst hin auf die Seihe, er der Stier, Gespenster tödtend, Göttern hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

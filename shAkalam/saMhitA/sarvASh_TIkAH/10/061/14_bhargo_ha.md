@@ -227,10 +227,7 @@ Sein Name ist Glanz, dem auch die Götter gehören, die ihn auf dem dreifachen S
 Der du Glanz heisst, in dessen dreifachem Sitze wie im Himmelsglanze die Götter sich niederliessen, der du Agni heisst und Wesenkenner, höre uns, o Priester, des heiligen Werkes wohlwollender Priester.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

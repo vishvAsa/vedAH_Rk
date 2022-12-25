@@ -147,10 +147,7 @@ Läutere dich in demselben Strome, mit dem du die Sonne leuchten und die menschl
 Mit diesem Strome riesle hell, mit dem die Sonne du entflammt, Entsendend menschenholde Flut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -186,10 +186,7 @@ tánayam ← tánaya- (nominal stem)
 (भृगवो न रथम् - द्र. ऋभवो न रथम् - ऋ. ४.१६.२०
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

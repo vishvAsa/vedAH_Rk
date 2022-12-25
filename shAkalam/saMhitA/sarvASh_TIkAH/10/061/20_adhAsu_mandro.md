@@ -185,10 +185,7 @@ sūta ← √sū- 2 (root)
 **अध** अथ **आसु** चतसृषु दिक्षु **मन्द्रः** मोदमानः **अरतिः** गन्ता **विभावा** दीप्तिमान् **द्विवर्तनिः** द्वयोः लोकयोः गन्ता **वनेषाट्** वने काष्ठानामभिभविताग्निः **अत्र** **स्यति** अवसन्नो भवति यागार्थम् । **यत्** च योऽग्निः **ऊर्ध्वा** उन्मुखा **श्रेणिर्न** **शिशुः** शंसनीयः सेनेव **मक्षु** शीघ्रं **दन्** शत्रून् दमयति तमिमं **स्थिरं** निश्चलं **शेवृधं** सुखस्य वर्धकं **माता** अरणिः **सूत** यज्ञे जनयामास ॥ ॥ २९ ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 
@@ -215,10 +212,7 @@ Nun kehret bei diesen Clanen der beliebte Rosselenker, der Erglänzende, im Holz
 Dann ruht bei diesen Weibern der erfreuende strahlenreiche, rastlos thätige [Agni], der auf zwei Bahnen wandert und im Holze waltet; wenn der Spross [Agni] wie eine senkrechte[475] Linie sich emporrichtet, dann sogleich gebiert ihn die Mutter als den starken Heil mehrenden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

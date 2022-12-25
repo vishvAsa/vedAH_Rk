@@ -147,10 +147,7 @@ Der Gott läuft, vom Dichter getrieben, nach den Holzgefäßen, der Saft bereitw
 Er strömt, vom Sänger ausgesandt, der Gott, zu den Gefässen hin, Zu Indra Indu voll Begier.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

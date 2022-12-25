@@ -208,10 +208,7 @@ Agni und Soma, den Bullenhaften, rede ich zu, um den Preis zu gewinnen, den beid
 Die Stiere, Agni, Soma, rufe ich herbei, die vielgerühmten Stiere, Labung zu empfahn, Die von den Stieren sind geehrt durch Gottesdienst; so reichet uns denn Schutzwehr, welche dreifach, schirmt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

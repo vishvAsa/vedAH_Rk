@@ -192,10 +192,7 @@ Du bist der allererste Schenker von Ehrengaben, du bist der wahre Reichmacher. W
 Der reichen Schätze bester Geber bist du ja, du bist's, der wahrhaft Herrschaft übt; Wir wünschen Bündniss mit dem herrlich glänzenden, mit ihm, dem Sohne grosser Kraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

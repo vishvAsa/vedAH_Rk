@@ -151,10 +151,7 @@ Die Krüge erbrausten kräftiglich, o Indu, durch deine Ströme. Zieh ein zum Tr
 Erklungen, Indu, sind mit Macht die Schüsseln hier von deinem Strom, Zum Trunk des Indra geh hinein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

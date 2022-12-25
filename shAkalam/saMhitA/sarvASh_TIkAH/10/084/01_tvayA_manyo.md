@@ -189,10 +189,7 @@ Mit dir, Manyu, auf einem Wagen, zerschmetternd, kampffroh, mutig, du Marutfreun
 Mit dir vereint, o Manju, mögen kommen die feuergleichen Männer, Freund der Maruts! Die hocherfreut mit Kühnheit Bahn sich brechen mit scharfen Pfeilen, ihre Waffen wetzend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

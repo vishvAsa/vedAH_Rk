@@ -142,10 +142,7 @@ Wir wollen die vielen Gebete des Nebenbuhlers überbieten; Agni, der schönflamm
 Viel Feinde mögen – mit List wir schlagen; schönleuchtend dringe – zu allem Agni; Er, der der Götter – Gesetze kennet, und die Geschlechter – des Menschenvolkes.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

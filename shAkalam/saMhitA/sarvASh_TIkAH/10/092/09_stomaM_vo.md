@@ -192,10 +192,7 @@ Zeiget heute unter Verneigung euer Loblied vor dem erfahrenen Rudra, der die Mä
 Eur Lob erweiset heute dem gewaltigen, dem Männerherrscher Rudra mit gebeugtem Sinn, Den eilenden, begierigen, mit denen er selbstherrlich, hülfreich, heilvoll von dem Himmel kommt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

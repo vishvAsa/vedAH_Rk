@@ -198,10 +198,7 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 »Diesem Vrischākapi, den du, o Indra, als einen Freund beschirmst, dem soll der auf Eber jagende Hund ins Ohr beissen. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

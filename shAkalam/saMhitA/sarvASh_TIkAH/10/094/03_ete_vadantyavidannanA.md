@@ -214,10 +214,7 @@ Diese reden, sie haben dabei die Süßigkeit gefunden. Sie schlampfen über dem 
 Sie singen, denn sie fanden nun den süssen Trank, sie brummen lüstern bei dem gar gewordnen Fleisch, Des rothen Strauches Zweig zerkauend haben jetzt die Stiere, die so viel verschlingen, laut gebrüllt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

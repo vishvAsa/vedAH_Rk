@@ -148,10 +148,7 @@ Dein tüchtiges erfreuliches Wagenroß bitten wir uns heute aus, den vielbegehrt
 Wir wünschen heut uns deine Kraft, die schnell dahinfährt, Freude bringt, Die vielbegehrte, schützende,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

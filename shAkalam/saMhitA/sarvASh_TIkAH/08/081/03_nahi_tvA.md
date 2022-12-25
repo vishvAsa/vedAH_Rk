@@ -147,10 +147,7 @@ Wenn du geben willst, halten dich ja weder Götter noch Sterbliche auf, so wenig
 Denn, o Held, nicht hemmen Götter dich, noch Menschen, wenn du spendest, Dich, der wildem Stiere gleichet.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

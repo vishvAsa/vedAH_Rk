@@ -224,10 +224,7 @@ Wenn dir, Indra, auch hundert Himmel und hundert Erden wären, nicht tausend Son
 Wenn, Indra, hundert Himmel dir und hundert Erden wären auch, So fassten tausend Sonnen nicht dich, Blitzender, nicht das Geschaffne, Welten nicht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

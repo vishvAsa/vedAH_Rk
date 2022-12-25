@@ -212,10 +212,7 @@ Er ist in der Schlacht anzurufen, er aufzubieten. Indra ist der Schöngepriesene
 Er ist zu rufen, anzuflehn im Kampfe, der hochgelobte, wahrhaft reiche Indra; Er schenke Fortgang auf der Fahrt dem Menschen, der mächtige dem frommen Somapresser.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

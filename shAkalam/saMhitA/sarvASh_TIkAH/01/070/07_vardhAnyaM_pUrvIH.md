@@ -146,10 +146,7 @@ Den sie während der vielen ungleichen Nächte und Morgen großzogen, den zur re
 Den vieler Nächte – Erscheinen nähre, den Sohn der Opfer, – was steht und wandert; Er thront im Glanze – gewählt zum Priester, der alle Werke – zum Ziele führet.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

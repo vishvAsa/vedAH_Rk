@@ -136,10 +136,7 @@ Läutere dich zum Siegesgewinn, zur Stärkung des beredten Lobsängers, o Soma, 
 O riesle hin zur Kräftigung, zum Heil des Sängers, der dich preist, O Soma, spende Heldenkraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

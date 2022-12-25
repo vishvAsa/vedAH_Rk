@@ -154,10 +154,7 @@ Der Preisrenner durchläuft, sich läuternd, die Lichter des Himmels, die Schafw
 Der Renner eilt, der flammende, hin durch des Himmels Aetherraum, Feindtödtend durch das wollne Sieb.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

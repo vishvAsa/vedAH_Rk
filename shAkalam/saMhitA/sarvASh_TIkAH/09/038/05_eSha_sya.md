@@ -166,10 +166,7 @@ Derselbige berauschende Seim schaut herab, des Himmels Kind, der Saft, der in di
 Ja er, der Saft, der Rausch erregt, der Spross des Himmels blickt herab, Wenn Indu durch die Wolle drang.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

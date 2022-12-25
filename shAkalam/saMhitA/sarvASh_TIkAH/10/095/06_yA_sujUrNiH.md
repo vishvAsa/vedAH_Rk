@@ -197,10 +197,7 @@ Sujurni, Sreni, Sumnaapi wie Hradecaksus, Granthini, Caranyu, die sind wie die r
 Die von Lust erhitzte, in Liebe verwandte Linie bespiegelt sich wie im See (?), die verschlungene bewegliche; diese Salben strömten wie Morgenröthen (?) und nahten zu schönem Glücke wie milchende Kühe (?).
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

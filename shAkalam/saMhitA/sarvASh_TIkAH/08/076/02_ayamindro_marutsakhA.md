@@ -145,10 +145,7 @@ Dieser Indra mit den Marut als Kameraden zerspaltete des Vritra Haupt mit der hu
 Er, Indra mit der Marutschar, zerspaltete des Vritra Haupt Mit seinem hundertzack'gen Blitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

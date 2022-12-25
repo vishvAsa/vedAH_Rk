@@ -150,10 +150,7 @@ Diesen vollständig Besiegenden auf alle Lobreden Gespannten ziehst du für euch
 Ihn, euren allbezwingenden, den man zu allen Liedern lenkt, Ihn treibest du zur Hülfe her,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

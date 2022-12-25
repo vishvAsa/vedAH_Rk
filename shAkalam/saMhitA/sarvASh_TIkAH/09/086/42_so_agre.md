@@ -253,10 +253,7 @@ Im Anbruch der Tage tut sich der goldige, begehrenswerte Rauschtrank tagtäglich
 Er zeigt bei Tages Anbruch sich in schönem Glanz der goldne Trank, der holde sich in hellem Licht; Die beiden einend geht er zwischen beiden hin, dem Preis der Menschen, und der Götter ew'gem Halt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

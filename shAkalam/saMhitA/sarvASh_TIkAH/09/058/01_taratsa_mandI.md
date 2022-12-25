@@ -163,10 +163,7 @@ Er gelange über das Wasser, der Berauschende läuft ab, der Strom des ausgepre�
 Er drang hindurch, der erfreuende strömt im Strome des gepressten Krautes; er drang hindurch, der erfreuende strömt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

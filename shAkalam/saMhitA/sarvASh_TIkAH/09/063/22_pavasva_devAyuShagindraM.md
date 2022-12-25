@@ -170,10 +170,7 @@ Läutere dich, o Gott, den Ayu´s gesellt! Zu Indra soll dein Rausch gelangen; s
 O riesle, Gott, mit Kraft begabt, in Indra gehe ein dein Rausch, Zu Vaju steige nach dem Brauch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

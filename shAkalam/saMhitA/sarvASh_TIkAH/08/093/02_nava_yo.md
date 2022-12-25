@@ -158,10 +158,7 @@ Der die neunundneunzig Burgen gebrochen hat mit Armes Stärke, und der Vritratö
 Er, der mit seiner Armeskraft die neunundneunzig Burgen brach, Als Vritrafeind die Schlang' erschlug,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

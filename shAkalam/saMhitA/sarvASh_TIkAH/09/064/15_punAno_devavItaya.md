@@ -140,10 +140,7 @@ Dich läuternd zur Götterladung geh an des Indra Treffort, leuchtend, von den P
 Gereinigt geh zum Göttermahl dahin, wo du den Indra triffst, Gelenkt von Priestern, strahlender!
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

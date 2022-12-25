@@ -147,10 +147,7 @@ Groß an Mut und Einsicht, kraftvoll, du an alles Denkender, hast mit deiner Gr�
 Sehr mächtiger, vielwirkender, o starker, allbeachtender, Erfüllt hast alles Grosse du.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

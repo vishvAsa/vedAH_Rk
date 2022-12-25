@@ -150,10 +150,7 @@ Die Klaren, Krafterregenden eilen vorwärts wie angetriebene Gespanne; mit Milch
 Die hellen Kraft erregenden, wie angespornte Rosse sind Mit Milch gemischt in Flut geklärt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

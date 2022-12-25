@@ -146,10 +146,7 @@ Bring das, was ziert, Rind, Roß, Salböl nebst goldener Schabracke!
 O bringe Schmuck und Rinder uns und Rosse und Geschmeide her Zugleich mit goldenem Geräth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

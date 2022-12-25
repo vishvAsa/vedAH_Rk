@@ -204,10 +204,7 @@ Er hat ihn vom Kopf aus verschlungen, er frißt ihn von rückwärts; mit seinem 
 Von den Füssen an verzehrte er [etwa Agni?] den ihm zugewandten [Todten?], mit dem Haupte das Haupt und nimmt seine Rüstung, der sitzende vertilgt in seinem Schoosse die aufrecht stehende [Morgenröthe??]; niedergewandt folgt er der ausgestreckten in die Erde (?).
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

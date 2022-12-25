@@ -224,10 +224,7 @@ Das Gedicht, das ihr mir eingegeben habt, o Marut, Indra, Varuna, Mitra, ihr Gö
 Dies mein Gebet, das, Maruts, Indra, Götter ihr mir eingeflösst und ihr, o Mitra-Varuna, Das lasset schwellen wie durch Milch die Mutterkuh; ob meine Lieder ihr auf eurem Wagen fahrt?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -136,10 +136,7 @@ Gedenket dieser Landsmannschaft mit uns, Indra, Vishnu, Marut, Asvin!
 Gedenket Indra, Vischnu doch, o Maruts, Ritter, recht daran, Wie nah mit euch verwandt wir sind.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

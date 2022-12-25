@@ -141,10 +141,7 @@ Diesen rauscherregten falben Preisrenner treiben sie in die Flüsse, den berausc
 Das goldne Ross, das Lust erregt, das spornen in den Strömen sie, Zum Rausch dem Indra, Indu ihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

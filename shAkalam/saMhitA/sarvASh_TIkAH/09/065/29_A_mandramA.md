@@ -154,10 +154,7 @@ Den erfreuenden, begehrenswerten, den beredten, gedankenreichen, den vielbegehrt
 Die Freude schafft, die herrliche, begeisterte, verständige, Die vielbegehrte, schützende,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

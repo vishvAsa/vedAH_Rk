@@ -235,10 +235,7 @@ O Soma, läutere uns fort und fort überquellende, nie fehlende Speise zu, wenn 
 O riesle flammend, Soma, ohne Unterlass uns fette Labung, Indu, zu, die heilsam sei, Die dreimal uns des Tages unversieglich strömt, und Heldenkraft mit Stärkung, Speis' und süssem Trank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

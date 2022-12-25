@@ -192,10 +192,7 @@ Welchen Wagen ihr Götter bevorzuget im Kampfe um den Siegerpreis, welchen ihr M
 Den Wagen, den, o Götter, ihr im Krieg beeilt, und in der Schlacht, o Maruts, bei entbranntem Kampf, Der frühe kommt, o Indra, und den Preis gewinnt, der nicht zerbricht, den lasst besteigen uns zum Heil.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

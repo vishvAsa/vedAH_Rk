@@ -187,10 +187,7 @@ Diese drei Flächen, die laß sprossen, Indra: Das Haupt und das Saatfeld meines
 Drei kahle Flächen siehst du hier, lass Keime treiben alle drei: Den Kopf des Väterchens, das Feld, und, Indra, meinen siechen Leib.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

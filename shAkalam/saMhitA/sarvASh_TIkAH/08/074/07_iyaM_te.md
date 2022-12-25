@@ -182,10 +182,7 @@ Dieses neueste Gedicht wurde dir, Agni, von uns gewidmet, du erfreulicher, hochg
 Es ist dir dieses neue Lied, o Agni, dargebracht von uns, O holder, edler, wirkender, o einsichtsvoller, hehrer Gast.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

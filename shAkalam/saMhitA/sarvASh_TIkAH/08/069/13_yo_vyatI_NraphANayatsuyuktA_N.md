@@ -192,10 +192,7 @@ Der die wohlgeschirrten Gespanne für den Opfernden in Galopp setzte. Takva ist 
 Welcher die schöngeschirrten Renner hinspringen liess zu dem Verehrer, der schnelle Lenker, der ganz in der Nähe die herrliche Gestalt ausspannte.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

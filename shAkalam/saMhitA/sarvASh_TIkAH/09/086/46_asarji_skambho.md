@@ -239,10 +239,7 @@ Er ward ausgegossen, der Pfeiler des Himmels, der emporgehaltene Rauschtrank; er
 Ergossen ist als Himmels Stütze jetzt der Trank, dreitheilig strömt der dargereichte durch die Welt; Gebete küssen den bewundernswerthen Saft, wenn zu dem Prächt'gen Sänger eilen mit dem Lied.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

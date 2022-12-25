@@ -156,10 +156,7 @@ Lauf du uns zur Kraft durch die Wollseihe in Strömen, denn die Götter werden w
 Zu unsrer Stärkung fliesse nun im Strome durch das wollne Sieb, Die Götter mögen hören uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

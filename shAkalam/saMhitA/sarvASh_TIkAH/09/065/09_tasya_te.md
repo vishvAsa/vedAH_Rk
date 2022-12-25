@@ -158,10 +158,7 @@ Wir erwählen uns deine Freundschaft, dieses Preisgewinners, der alle Siegesprei
 Der du als Streitross alles Gut erbeutet hast, dich wünschen wir Uns zur Genossenschaft herbei.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

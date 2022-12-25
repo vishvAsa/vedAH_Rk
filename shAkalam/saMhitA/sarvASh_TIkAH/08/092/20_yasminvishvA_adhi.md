@@ -148,10 +148,7 @@ Bei dem alle Herrlichkeiten sind, über den die sieben Opferversammlungen sich f
 In welchem alle Wonne ruht, die sieb'n Gemeinden sich erfreun, Den Indra rufen wir beim Saft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

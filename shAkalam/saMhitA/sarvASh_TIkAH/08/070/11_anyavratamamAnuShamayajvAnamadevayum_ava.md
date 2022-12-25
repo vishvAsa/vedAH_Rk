@@ -188,10 +188,7 @@ Ihn, der andere Gebote befolgt, den Unmenschen, der nicht opfert, den Gottlosen,
 Wer Götzen dient, unmenschlich ist, wer Opfer nicht noch Götter liebt, Den stürz' herab der eigne Fels auf den er traut, den Feind zu schnellem Tod der Fels.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

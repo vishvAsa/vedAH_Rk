@@ -149,10 +149,7 @@ Von den Ayu´s geputzt wird er umgegossen, der Weitschreitende mit dem Sehersinn
 Er ist es, der sich rings ergiesst, gereinigt von den eifrigen, Der weise, weithin schreitende.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

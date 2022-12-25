@@ -165,10 +165,7 @@ Bring uns alles Gute, Speisegenuß, Stärkung, o Ratreicher, wenn du, Indra, uns
 O führe Heil auf Heil uns zu, vielwirkender und Speis' und Trank, O sei du, Indra, gnädig uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

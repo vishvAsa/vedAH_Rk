@@ -155,10 +155,7 @@ Die Göttin Usas kennt die Schätze, die Gunst des Sterblichen. - Er gelange üb
 Die Göttin Morgenröthe kennt die Schätze und des Sterblichen Labung.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

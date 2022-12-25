@@ -220,10 +220,7 @@ Denn diese verbreiteten den Ruhm ihrer Nachkommenschaft, Brihaspati, der Bulle, 
 Und diese trugen aller Wesen Preis davon, Brihaspati, der Stier, die Soma-Brüderschaft, Durch Opfer hat zuerst Atharvan Recht geschafft, als Götter sich die Bhrigu's durch ihr Thun gezeigt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

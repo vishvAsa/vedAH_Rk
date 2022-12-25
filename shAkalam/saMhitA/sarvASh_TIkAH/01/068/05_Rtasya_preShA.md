@@ -146,10 +146,7 @@ Die Mahnungen der Wahrheit, die Erkenntnis der Wahrheit haben es bewirkt: Alle h
 Der Wahrheit Triebe, – der Wahrheit Andacht, alllabend, alle – vollbrachten Werke; Wer dich verehret, – und wer dir spendet, an den, du weiser, – vertheile Reichthum.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

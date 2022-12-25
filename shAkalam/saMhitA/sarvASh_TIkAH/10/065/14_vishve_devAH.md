@@ -203,10 +203,7 @@ Alle Götter nebst den frommen Gedanken und der Purandhi, die Opferwürdigen des
 Die Götter all' mit des Gebetes Göttinnen, des Menschen hehre, heilige Unsterblichen, Huldgötter, Gabenspender, Licht verschaffende, der Himmel nehme Lieder, Spruch, Gebete an.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

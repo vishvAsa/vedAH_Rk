@@ -154,10 +154,7 @@ Der Saft hat sich merklich geläutert, der liebe durch des Sehers Dichtung. Er l
 Der liebe Indu riesle hell erglänzend durch der Sänger Lied, rasch, wie das Ross der Lenker treibt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -138,10 +138,7 @@ Diesen Falben treiben des Trita Frauen mit den Preßsteinen zum Laufe, den Saft 
 Des Trita Jungfraun senden ihn, das goldne Ross, durch das Gestein, Zum Trunk, dem Indra Indu hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

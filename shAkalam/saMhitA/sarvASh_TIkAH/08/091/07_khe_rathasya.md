@@ -192,10 +192,7 @@ In dem Nabenloch des Streitwagens, in dem Nabenloch des Karrens, in des Joches L
 Du, Indra, zogest Viçpala, o starker durch drei Höhlungen Des Rades, Karrens und Gespanns, und sonnenrein ward ihre Haut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

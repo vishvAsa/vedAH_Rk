@@ -188,10 +188,7 @@ Wie ein Roß wiehernd sollst du, der Bulle, uns Rinder und Rennpferde zusammen-b
 O wiehere gleich wie ein Hengst uns Ross' und Rinder, Indu, her, Des Reichthums Thore öffne uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

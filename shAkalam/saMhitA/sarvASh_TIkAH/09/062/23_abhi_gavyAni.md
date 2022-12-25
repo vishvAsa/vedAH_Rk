@@ -146,10 +146,7 @@ Um die Kuhgewinne, um Manneskräfte zu erjagen rinnst du dich läuternd. Laufe a
 Du strömest flammend Rinderschar und Manneskraft zum Mahl herbei, Uns Kraft verleihend fliesse rings.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

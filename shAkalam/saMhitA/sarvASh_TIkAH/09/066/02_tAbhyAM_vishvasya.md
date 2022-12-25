@@ -163,10 +163,7 @@ Mit diesen beiden herrschest du über das All, mit den beiden Formen, o Pavamana
 Du flammender beherrschst das All durch beide Weltenstätten, die, O Soma, sich einander schaun.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

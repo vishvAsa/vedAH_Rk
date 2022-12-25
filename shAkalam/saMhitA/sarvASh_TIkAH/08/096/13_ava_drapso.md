@@ -265,10 +265,7 @@ Drapsa stieg in die Amsumati hinab, Krishna ist im Anzug mit zehntausend Krieger
 Es fiel der Tropfen in die Somaströmung, der dunkle, eilend mit zehntausend andern; Der kräftig gor, genossen hat ihn Indra, der männlich kühne trieb hinweg die Feinde.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

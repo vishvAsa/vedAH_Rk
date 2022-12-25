@@ -142,10 +142,7 @@ Stimmet den Gesang an auf den sich läuternden Soma wie Vyasva, auf den Großen,
 Auf, singet nach Viaçva's Art dem Soma, ihm, dem flammenden, Dem grossen, tausendäugigen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -153,10 +153,7 @@ Ströme uns mit deinem Tranke, o Soma, Korn über Korn, Wachstum über Wachstum 
 O ströme rings durch deinen Saft uns Korn auf Korn und Gut auf Gut Und alles Glück, o Soma, zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

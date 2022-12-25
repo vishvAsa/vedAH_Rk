@@ -166,10 +166,7 @@ Tu doch, Indra, für uns einen viehreichen, wunderbaren Griff mit der Rechten, d
 Greif, o Indra, mit der Rechten gross an Händen du den lichten Glanzbegabten Griff für uns doch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

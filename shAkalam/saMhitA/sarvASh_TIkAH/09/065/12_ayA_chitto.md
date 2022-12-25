@@ -148,10 +148,7 @@ An solchem Redeschwall kenntlich läutere dich, der Falbe, in solchem Strome, ma
 An diesem und an jenem Stab erscheinend riesle hell im Strom, Und treib dein Ross im Wettlauf an.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

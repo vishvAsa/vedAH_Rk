@@ -172,10 +172,7 @@ Auf dem Berg entsprossen, hier gepriesen, wird der Saft für Indra hingesetzt an
 Durch Lied gezeugt, gepriesen hier, wird Indu Indra'n dargereicht, Ein Vogel in des Nestes Schooss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

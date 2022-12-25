@@ -153,10 +153,7 @@ Schütze, Agni, du uns mit deiner Herrlichkeit, vor jeder Mißgunst und vor Fein
 Schütze, Agni, du mit Macht uns vor jedwedem bösgesinnten Und vor sterblichem Verfolger.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

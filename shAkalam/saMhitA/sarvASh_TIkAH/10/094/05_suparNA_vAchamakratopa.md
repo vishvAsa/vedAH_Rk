@@ -206,10 +206,7 @@ Die Adler haben ihre Stimme gen Himmel erhoben, die schwarzen Antilopen haben ei
 Zum Himmel schallt der schnellen Vögel lauter Sang, die muntern Rehe tanzen in der Höhle nun; Sie gehn herab ins Brautgemach des untern Steins, die sonnenhellen lassen vielen Samen dort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

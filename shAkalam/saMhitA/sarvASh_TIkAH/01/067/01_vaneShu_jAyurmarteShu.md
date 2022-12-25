@@ -144,10 +144,7 @@ In den Hölzern Sieger, unter Menschen der Freund, beansprucht er wie der König
 In Hölzern siegreich, – ein Freund der Menschen heischt stets Gehorsam – er wie ein König, Wie Friede heilvoll, – wie Kraft voll Segen, als treuer Priester – die Opfer fahrend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

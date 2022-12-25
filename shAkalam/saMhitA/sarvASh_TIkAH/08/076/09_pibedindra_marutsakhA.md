@@ -144,10 +144,7 @@ Trink doch, Indra mit den Marut als Kameraden bei den heutigen Opfern den ausgep
 Trink, Indra, mit der Marutschar den Somasäft beim Opferfest, Mit Kraft dir schärfend deinen Blitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

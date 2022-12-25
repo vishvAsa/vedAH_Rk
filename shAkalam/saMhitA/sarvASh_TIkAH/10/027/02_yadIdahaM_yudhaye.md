@@ -205,10 +205,7 @@ Wenn ich wirklich die mit ihrem Leibe sich breitmachenden Gottlosen zum Kampfe s
 Wenn ich sie nur zum Kampf zusammentriebe, die Gottesleugner, die so frech sich brüsten, Ich wollt' daheim den fetten Stier dir braten, zwei Wochen lang dir starken Trank ergiessen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

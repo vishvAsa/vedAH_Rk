@@ -138,10 +138,7 @@ Als breiten Weg für die Männer, als breiten Weg für Rind und Wagen erachten w
 Gib [kṛdhi aus 12] weite Bahn den Männern, dem Rinde, dem Wagen; wir sorgen für das Göttermahl.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

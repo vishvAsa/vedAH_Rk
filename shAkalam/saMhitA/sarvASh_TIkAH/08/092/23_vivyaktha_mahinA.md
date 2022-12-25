@@ -143,10 +143,7 @@ Du Bulle fassest in deiner Größe den Trank des Soma, du Wachsamer, der in dein
 Mit deiner Gröss' umfängst, o Stier, den Trank des Soma's, munter, du, Der, Indra, drang in deinen Bauch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

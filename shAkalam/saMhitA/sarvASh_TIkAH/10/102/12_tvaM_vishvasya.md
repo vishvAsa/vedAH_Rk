@@ -179,10 +179,7 @@ Du, Indra, bist für die ganze Welt das Auge des Auges, wenn du, der Stier, mit 
 Du, Indra, bist der ganzen Welt, du bist des Auges Augenlicht; wenn du als Stier durch den Stier den Kampfpreis gewinnen willst, eilend mit dem verschnittenen Genossen (?).
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

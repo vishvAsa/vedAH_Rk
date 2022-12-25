@@ -210,10 +210,7 @@ Die unsterblichen Götter hat Vasistha gelobt, die sich über alle Welten erhobe
 Die ew'gen Götter hat gerühmt Vasischtha, die alle Wesen weithin überragen, Sie mögen heut uns freie Bahn gewähren. Ihr Götter, schützt uns stets mit eurem Segen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

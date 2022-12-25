@@ -164,10 +164,7 @@ Gib du mit allen Göttern uns allbegehrten Reichtum, du schönflammendes Kind de
 Darum gib mit allen Göttern, Sohn der Kraft, der hell du funkelst, Reichthum uns mit allen Schätzen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

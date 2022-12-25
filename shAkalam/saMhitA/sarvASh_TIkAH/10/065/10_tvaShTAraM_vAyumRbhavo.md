@@ -201,10 +201,7 @@ Den Tvastri, Vayu, wer sich als Ribhu rühmen darf, ihr Ribhu´s, die beiden gö
 Den Tvaschtar, Vaju, und die man für Ribhu's hält, die Götterpriester flehn wir an, das Morgenroth, Brihaspati, den weisen, der den Vritra tilgt, des Indra Soma, Schatz gewinnend uns zum Heil.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -154,10 +154,7 @@ Indra, höre fein auf meine Einladung; von dem bei uns ausgepreßten milchgemisc
 O höre, Indra, meinen Ruf, erlange Trunk und Sättigung An diesem milchgemischten Saft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

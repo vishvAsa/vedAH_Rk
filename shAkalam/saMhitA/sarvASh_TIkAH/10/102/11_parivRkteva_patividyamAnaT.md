@@ -191,10 +191,7 @@ Sie hat gewonnen, wie eine zurückgesetzte Gattin den Besitz des Gatten wiederge
 Gleich der Verstossnen, die den Mann erlangt hat, so strotzt sie wie ein Tropfen an der Zitze. Erstrebte Schätze möchten wir erbeuten, zu hohem Heil sei der erlangte Reichthum.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

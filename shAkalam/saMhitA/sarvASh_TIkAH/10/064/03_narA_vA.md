@@ -220,10 +220,7 @@ Soll ich vielleicht den Narasamsa, den Pusan, den Agohya, den von den Göttern e
 Den Naraçansa, Puschan, den kein Dunkel birgt, den gottenflammten Agni preis' ich mit dem Lied, Jama am Himmel, Sonn' und Mond, das Lichterpaar, die Ritter, Trita, Nacht und Morgen und den Wind.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

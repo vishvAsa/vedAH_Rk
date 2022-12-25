@@ -198,10 +198,7 @@ Sie, die dem Schwäher eine gute Stärkung bereitete, kam, so oft es der Liebhab
 Sie, dem Schwiegervater aus der Nähe des Hauses Gut und Nahrung bringend, so oft es der Liebhaber wünscht, gelangte hin zu dem Hause, an dem sie Gefallen hatte, Tag und Nacht von dem Gliede des Mannes gequält.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

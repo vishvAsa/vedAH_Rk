@@ -135,10 +135,7 @@ Auf dem Schafhaar treiben sie mit Steinen den lieben Falben herum, den von Süß
 Durch Steine spornen sie das Ross, ringsum das liebe Widderhaar, Den flammenden, der trieft von Meth.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

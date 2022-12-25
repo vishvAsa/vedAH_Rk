@@ -152,10 +152,7 @@ Wie ein losgelassenes Heer macht er Panik; wie das Geschoß des Schützen von gl
 Entsandtem Speer gleich – erregt er Schrecken, wie Pfeil des Schützen – mit Flammenspitze; Zugleich Vergangnes, – zugleich Zukünft'ges, der Mädchen Freier, – der Frauen Gatte.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

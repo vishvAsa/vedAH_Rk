@@ -174,10 +174,7 @@ víśvam ← víśva- (nominal stem)
 **सिन्धवः** स्यन्दनशीला आपः **ययिना** गमनशीलेन **रुद्रेण** रुद्रपुत्रेण मरुद्गणेन सह **प्र** **यन्ति** । अथ बहुवदाह । तेऽमी मरुतः **अरमतिम्** । रमतिर्विरामोऽवसानम् । तद्रहितामपर्यन्तां **महीं** पृथिवीं **तिरः** **दधन्विरे** तिरस्कुर्वन्तीत्यर्थः। **परिज्मा** परितो गन्तेन्द्रः **परियन्** परितो गच्छन् **येभिः** यैः मरुद्गणैः सह **उरु** **ज्रयः** बहुवेगं करोतीति शेषः। किंच **जठरे** अन्तरिक्षे **रोरुवत्** शब्दं कुर्वन् पर्जन्यो यैर्मरुद्गणैः सह **विश्वं** भुवनम् **उक्षते** सिञ्चते ॥ ॥ २३ ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 
@@ -203,10 +200,7 @@ Mit dem eilenden Rudra gehen die Ströme, sie überholen die große Aramati, mit
 Die Flüsse eilen mit dem raschen Rudra vor und strömen durch den grossen Sitz der Andacht hin; Mit welchen der Umwandler weiten Raum umläuft, und brüllend alles in dem Innern rings benetzt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

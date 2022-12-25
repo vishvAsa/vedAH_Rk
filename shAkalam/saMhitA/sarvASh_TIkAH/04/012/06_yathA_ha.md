@@ -258,10 +258,7 @@ Wie ihr Götter damals die Gaurikuh, die am Fuß gefesselt war, befreitet, ihr O
 Wie einst ihr löstet die am Fuss verstrickte, die Büffelin, ehrwürd'ge ihr, o gute, So löst auch ab von uns jedwedes Drangsal; weit dehne aus sich, Agni, unser Leben.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

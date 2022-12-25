@@ -167,10 +167,7 @@ Groß bist du, Soma, der Oberste, o Saft, der Gewaltigen Gewaltigster. Als Strei
 Gross bist, Soma, du, der beste, Indu, und der starken stärkster, Stets bist Sieger du im Kampfe.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

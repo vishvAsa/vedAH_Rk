@@ -150,10 +150,7 @@ Laß du uns deine Lichter leuchten, du allererster Pavamana; rege uns zu Rat und
 Entzünde du, o rieselnder, o alter, helle Lichter uns, Zu Kraft und Weisheit fördre uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

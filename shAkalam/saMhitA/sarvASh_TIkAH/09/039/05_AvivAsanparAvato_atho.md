@@ -132,10 +132,7 @@ Er, der Fern und Nah anlockt, wird ausgepreßt als Süßtrank dem Indra eingesch
 Ihn lockend aus der Ferne her und aus der Nähe her, ergiesst Der Saft dem Indra süssen Trank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -189,10 +189,7 @@ Bullenhaft ist das Opfer, bullenhaft müssen die Opferwürdigen sein, bullenhaft
 Stier sei das Opfer, Stiere die ehrwürdigen, die Götter Stiere, Stiere die das Opfer weihn, Und Stiere Erd' und Himmel, sie die heiligen, ein Stier Pardschanja, Stier, wer Götter-Stiere preist,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

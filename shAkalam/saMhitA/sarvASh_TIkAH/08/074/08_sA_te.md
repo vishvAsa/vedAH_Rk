@@ -153,10 +153,7 @@ Dies soll dir, Agni, am meisten zusagen und gefallen und lieb sein. Damit schön
 Dies, Agni, sei das liebste dir, willkommen recht und angenehm, An ihm erfreu dich, hochgelobt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

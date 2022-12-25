@@ -225,10 +225,7 @@ Geh an, Manyu, stärker als der Starke! Mit Tapas im Bunde zerstreue die Feinde!
 Greif an, o Manju, stärker du als Stärke, mit Glut im Bunde schlage fort die Feinde, Du Gegner, Vritra und Dämonen tödtend, o bringe du herbei uns alle Güter.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

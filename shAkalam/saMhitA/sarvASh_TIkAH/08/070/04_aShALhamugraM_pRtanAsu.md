@@ -185,10 +185,7 @@ Den Unbezwungenen, Gewaltigen, in den Schlachten Bezwingenden, bei dessen Geburt
 Der unbesiegt in Schlachten siegt, der mächtige, bei dess Geburt die Kühe schon Die ausgedehnten, grossen alle jubelten, und Erd' und Himmel jubelten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

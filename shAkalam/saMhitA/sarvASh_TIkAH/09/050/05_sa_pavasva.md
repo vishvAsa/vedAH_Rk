@@ -144,10 +144,7 @@ Läutere du dich, Berauschendster, mit der Kuhmilch als Salbe gesalbt, o Saft, f
 Hell riesle, du berauschendster, gesalbt mit Milch und hellem Glanz Zum Trunk dem Indra, Indusaft!
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

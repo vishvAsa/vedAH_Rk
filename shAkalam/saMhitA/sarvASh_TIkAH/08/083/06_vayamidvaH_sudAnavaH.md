@@ -152,10 +152,7 @@ Wir rufen euch, ihr gabenschönen Götter, zum Gedeihen, wenn wir rasten und unt
 Wir rufen, gabenreiche, euch, daheim und auf der Reise an, O Götter, uns zur Förderung.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

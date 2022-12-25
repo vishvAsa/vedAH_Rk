@@ -157,10 +157,7 @@ Die morgendlichen treiben die Sonne zur Eile, die versippten Schwestern den Gatt
 Die Sonne senden morgenhell, den Gatten die verschwisterten, Den grossen Indu grossgesinnt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -212,10 +212,7 @@ Denn auf diese an Größe Großen und Unerreichten lasse ich die Loblieder aufst
 Denn ich erweck' mit Macht ihr Lob, der Mächtigen, rechtskundig der erhabnen, die des Rechts sich freun, Die vielfach spendend wasserreiche Flut verleihn, die mögen freundlich uns zum Glück behülflich sein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

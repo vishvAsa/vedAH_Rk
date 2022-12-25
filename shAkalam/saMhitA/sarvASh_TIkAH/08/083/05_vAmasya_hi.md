@@ -142,10 +142,7 @@ Denn ihr Vorsorgende, Herrenstolze verfüget über das Glück. Nicht soll uns da
 Denn über Schatz gebietet ihr, o weise, Feindverzehrer ihr, Aditja's, den der Feind nicht raubt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

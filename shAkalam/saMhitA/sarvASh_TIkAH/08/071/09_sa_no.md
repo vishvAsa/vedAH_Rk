@@ -147,10 +147,7 @@ Teil uns von dem Gute zu, o Kind der Kraft, von dem großmächtigen, du guter Fr
 Drum so theile, Sohn der Kraft, uns zu von deinem grossen Reichthum, Du, o guter Freund, den Sängern.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

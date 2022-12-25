@@ -149,10 +149,7 @@ Unserer Nachkommenschaft und uns von allen Seiten gute Speise, tausendfältigen 
 Erquickung spendend unserm Stamm und uns, o Soma, überall Ström' her uns tausendfaches Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -138,10 +138,7 @@ Dem Agni, den diese Leute eindringlich mit Opfergaben anrufen, indem sie mit hin
 Dem Agni, den die Männer hier durch Opfer ehren eifervoll, Dem, Löffel lenkend, Trank sie weihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

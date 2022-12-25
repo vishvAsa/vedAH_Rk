@@ -118,10 +118,7 @@ Von den Frommen schön gemacht, zwischen den Händen geputzt, läutert er sich i
 Von frommen Männern ausgeschmückt, gereinigt durch der Arme Paar Strömt hell er durch des Widders Haar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

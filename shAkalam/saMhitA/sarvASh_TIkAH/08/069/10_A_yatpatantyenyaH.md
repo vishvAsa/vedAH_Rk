@@ -154,10 +154,7 @@ Wenn die bunten, leicht zu melkenden, sich nicht entziehenden Kühe herbeieilen,
 Wenn kommt der bunten Kühe Schar, die ohne Sträuben Milch ergiesst, So fasst den Soma, der sich sträubt, Zum Trunk dem Indra kräftig an.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

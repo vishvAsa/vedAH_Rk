@@ -170,10 +170,7 @@ Es brüllt das Zugroß Etasa von den Sängern angeschirrt, wenn er in den Ozean 
 Es brüllt das bunte Wagenross, von Sängern an den Platz geschirrt, Wenn es zum Meere ist entsandt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

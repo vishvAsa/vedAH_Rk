@@ -143,10 +143,7 @@ Soma Pavamana! Mögest du uns herrlichen Reichtum ausfindig machen, tausendfach 
 O spende, Soma, flammender, uns Reichthum, welcher Glück verschafft, Und, Indu, tausendfach erglänzt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

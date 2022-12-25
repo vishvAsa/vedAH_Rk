@@ -159,10 +159,7 @@ Den sauberen gottbegehrten Trank - im Wasser geschwenkt, von Männern ausgepreß
 Den hellen gottbegehrten Trank, in Flut gespült, vom Volk gepresst, Versüssen Kühe durch die Milch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -153,10 +153,7 @@ Fließe weiter, o Soma, du der Süßeste, zu Reichtum auf die Seihe als der göt
 Zu Reichthum ströme in das Sieb, o Soma, als das süsseste Gebräu, das götterlabendste.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

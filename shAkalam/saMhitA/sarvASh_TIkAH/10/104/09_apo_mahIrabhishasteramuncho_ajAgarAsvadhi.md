@@ -218,10 +218,7 @@ Du hast die großen Gewässer von der Schmach erlöst; als einziger Gott hast du
 Die grossen Wasser löstest du vom Fluche, du warst der einz'ge Gott, der sie bewachte; Die, Indra, du beim Vritrakampf dir schafftest; durch die lass blühen deinen Leib allnährend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

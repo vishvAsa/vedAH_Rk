@@ -164,10 +164,7 @@ Erfreulich wie der Vermögenszuwachs, wie ein ausgedehnter Wohnsitz, eine Nutzqu
 Wie schöne Nahrung, – wie weiter Wohnsitz, wie Berge thalreich, – wie Ströme heilvoll, Wie auf der Rennbahn – ein Ross hinschiessend, wie Meere wogend – wer mag ihn hemmen?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

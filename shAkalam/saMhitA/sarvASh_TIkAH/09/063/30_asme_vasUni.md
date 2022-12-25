@@ -152,10 +152,7 @@ Verleih uns Schätze, o Soma, himmlische, irdische, o Saft, alle wünschenswerte
 O Soma, theil' die Güter uns des Himmels und der Erde zu, O Indu, alle Herrlichkeit.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

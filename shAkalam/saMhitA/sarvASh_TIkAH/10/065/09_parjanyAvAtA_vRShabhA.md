@@ -190,10 +190,7 @@ Parjanya und Vata, die wasserquellenden Bullen, Indra und Vayu, Varuna, Mitra, A
 Gewölk und Wind die beiden Stiere wasserreich, Indra, Vaju, Varuna, Mitra, Arjaman, Die Aditi und ihre Söhne rufen wir, die Götter, die im Himmel, Erd' und Wasser sind.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

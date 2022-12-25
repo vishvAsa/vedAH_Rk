@@ -148,10 +148,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो यत्ते मनो बृहतः पर्वतान् तदिति गतम्॥९॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

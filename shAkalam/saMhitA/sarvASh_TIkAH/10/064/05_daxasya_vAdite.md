@@ -201,10 +201,7 @@ Oder vielleicht bittest du, Aditi, bei der Geburt und dem Walten des Daksa, die 
 Zu Dakscha's Pflege und Geburt, o Aditi, rufst du die Herrscher Mitra-Varuna herbei; Mit vielen Wagen unverwehrt kommt Arjaman mit sieben Priestern zu ungleichen Stämmen hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

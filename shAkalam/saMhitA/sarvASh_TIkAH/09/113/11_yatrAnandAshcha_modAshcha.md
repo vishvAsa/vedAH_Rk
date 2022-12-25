@@ -241,10 +241,7 @@ Wo Wonnen, Freuden, Lüste und Belustigungen wohnen, wo die Wünsche des Wunsche
 Wo Freude, Lust und Wonne thront, wo Fröhlichkeit und Seligkeit, Wo sich der Lust Verlangen stillt, da mache du unsterblich mich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

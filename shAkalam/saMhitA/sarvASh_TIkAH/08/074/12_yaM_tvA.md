@@ -140,10 +140,7 @@ Du, den die Leute eindringlich anrufen, um den Siegerpreis zu gewinnen, hab du i
 Wie dich die Menschen eifervoll verehren, Beute zu empfahn, So zeige dich im Feindeskampf.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

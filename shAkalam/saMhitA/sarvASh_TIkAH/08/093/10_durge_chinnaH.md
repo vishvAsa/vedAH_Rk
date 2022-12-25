@@ -166,10 +166,7 @@ Auch auf unwegsamer Strecke schaff uns gepriesen guten Weg, du lobbegehrender In
 Im Unwegsamen schaff uns Bahn, liedholder Indra, hochgelobt, Sobald du mächtiger es willst,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

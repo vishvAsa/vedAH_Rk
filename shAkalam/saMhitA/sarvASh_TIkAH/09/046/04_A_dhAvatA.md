@@ -145,10 +145,7 @@ Ihr Handtüchtigen, spület, schöpfet den klaren und den mit Mehl gerührten Sc
 Durchspült mit rüst'gen Händen ihn, ergreift das helle Trankgemisch, Und mischt mit Milch den Wonnetrank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

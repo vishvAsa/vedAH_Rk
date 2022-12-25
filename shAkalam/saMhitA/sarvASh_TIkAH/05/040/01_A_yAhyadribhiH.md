@@ -156,10 +156,7 @@ Komm, trink den mit Steinen ausgeschlagenen Soma, du Somaherr, du Bulle Indra, m
 Komm, trinke Soma, Somaherr, den dir die Steine kelterten, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

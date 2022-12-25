@@ -213,10 +213,7 @@ Die dreimal sieben laufenden Flüsse, die großen Gewässer, die Bäume, die Ber
 Die dreimal sieben raschen Ströme rufen wir die grossen Wasser, Bäume, Berge, Agni her Zum Schutz Kriçanu, Tischja und die Schützenschar, zum Sitz den Rudra, glänzend in der Marutschar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

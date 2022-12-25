@@ -131,10 +131,7 @@ Du, dessen Freundschaft süß, dessen Führung süß ist, du Herr des Preßstein
 Dich, dessen Freundschaft lieblich ist, und dessen Leitung, Schleuderer, Und dessen Opfer man beeilt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

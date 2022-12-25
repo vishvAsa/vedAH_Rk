@@ -202,10 +202,7 @@ Ihn erwarten sie hier unter Verbeugungen, den Selbstherrscher. Sein Zweck ist so
 Denn ihn vor allem, den selbststrahlenden [Indra] verehren die Anbetungsvollen; all sein Werk ist wol eingerichtet, wenn sie ihn herwenden, dass er schenke.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

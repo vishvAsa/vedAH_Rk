@@ -150,10 +150,7 @@ Läutere tausendfältigen Reichtum uns zu, o Soma, und die Meisterschaft; verlei
 O riesle tausendfaches Gut und Heldenkraft, o Soma, her, Uns reiche hohe Schätze dar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

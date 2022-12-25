@@ -220,10 +220,7 @@ Die Rennpferde, die den Anruf erhören, sollen alle den Ruf hören, die siegreic
 Die raschen Renner mögen hören unsern Ruf, die Ruferhörer alle sie, die kräftigen, Die tausendfaches nehmen bei dem Opferfest, und grosses Gut erbeuteten in jeder Schlacht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

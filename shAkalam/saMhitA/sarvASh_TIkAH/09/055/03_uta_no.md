@@ -144,10 +144,7 @@ Und läutere dich, o Soma, mit deinem Tranke für uns als Rinderfinder, Rossefin
 Und riesle hell durch deinen Saft, o Soma, spendend Ross und Rind In allernächsten Tagen uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

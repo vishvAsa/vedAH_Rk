@@ -160,10 +160,7 @@ Deine Welle, die göttereinladend auf der Seihe umgeflossen ist und sich auf den
 Mit deiner Welle, die ins Sieb, die Götter speisend, niederrann, Sich setzend auf des Opfers Schooss,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -143,10 +143,7 @@ Wie der Buhle der Morgenröte, der Erheller des Morgens, erscheine er diesem in 
 Als lichter Buhle – der Morgenröthe, von gleicher Farbe – erschein er diesem; Die Thore öffnen – sie selbst, ihn fahrend; es jauchzen alle, – den Glanz erblickend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

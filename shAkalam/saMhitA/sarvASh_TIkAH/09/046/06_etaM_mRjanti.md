@@ -134,10 +134,7 @@ Es putzen den Putzenswerten, sich Läuternden die zehn Finger, für Indra den be
 Den läutrungswerthen läutern nun zehn Finger, ihn den rieselnden, Den Trank, der Indra'n Rausch erregt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

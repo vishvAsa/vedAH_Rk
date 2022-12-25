@@ -170,10 +170,7 @@ Nicht sollen, Indra, die Drohungen auf uns abzielen, wenn die Sonne im Dunkeln i
 Nicht ziele bei der Sonne Strahl auf uns, o Indra, böse List, Durch deine Huld gewähr uns das.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

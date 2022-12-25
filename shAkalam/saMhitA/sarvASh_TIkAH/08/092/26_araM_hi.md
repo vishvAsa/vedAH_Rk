@@ -171,10 +171,7 @@ Denn du machst dich bereit für unseren ausgepreßten Soma, Indra; wir sind bere
 Denn passend, Indra, mühst du dich für uns bei dem gebrauten Trank, O Indra, deiner Gab' gemäss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

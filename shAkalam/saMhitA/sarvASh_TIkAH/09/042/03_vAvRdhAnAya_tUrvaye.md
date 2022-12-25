@@ -122,10 +122,7 @@ Für den erstarkten Sieger zum Beutegewinn läutern sich die Somasäfte in tause
 Die Somatränke rieseln hell zur Kraft dem grossen mächtigen, Mit tausendfachem Glanz begabt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

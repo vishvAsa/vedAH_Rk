@@ -149,10 +149,7 @@ Dieser Indra, der Marutbegleitete, der ja diese Sonne erobert hat, komme zum Som
 Ja, Indra mit der Marutschar, er ist's, durch den dies Himmelslicht Errungen ward zum Somatrunk.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

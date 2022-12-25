@@ -165,10 +165,7 @@ Unsere Lobesworte sollen zu dem Scharfflammigen, Gerngesehenen gelangen, zu ihm 
 Es sollen unsre Lieder nahn, dem schönen, heisserglühenden, Dem güterreichen demuthsvoll die Opfer auch, dem vielgelobten zum Genuss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -154,10 +154,7 @@ Von welchen beiden wir in einer Reihe dreißigtausend Kühe empfangen. - Er gela
 Von denen wir in einem fort dreissig und tausend empfangen haben.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

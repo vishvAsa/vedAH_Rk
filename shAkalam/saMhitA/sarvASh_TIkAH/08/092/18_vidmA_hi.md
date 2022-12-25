@@ -151,10 +151,7 @@ Denn wir wissen, was dein von dir geschenkter Reichtum bei allen Völkern ist, o
 Denn, Schleuderer, wir wissen ja, welch Gut du allen Menschen schenkst, O wahrer, schöner Trinker du.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

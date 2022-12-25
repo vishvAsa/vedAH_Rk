@@ -158,10 +158,7 @@ Die sollen immerdar unsere Bundesgenossen sein, Varuna, Mitra, Aryaman und unser
 Sie seien stets Genossen uns, Varuna, Mitra, Arjaman Und Förderer die weisen uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

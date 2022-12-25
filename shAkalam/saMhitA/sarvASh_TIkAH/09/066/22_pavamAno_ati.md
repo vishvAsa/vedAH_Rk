@@ -152,10 +152,7 @@ Sich läuternd fließt er über alle Fehler hinweg zu einem schönen Loblied, wi
 Hinflammend durch der Feinde Schar, ergiesst er sich zum Lobgesang, Der Sonne gleichend, rings zu schaun,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

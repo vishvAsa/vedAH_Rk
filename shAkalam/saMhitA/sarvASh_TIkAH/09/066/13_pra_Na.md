@@ -162,10 +162,7 @@ O Saft, uns zu großer Freude fließen die Flußwasser hervor, wenn du in Kuhmil
 Es eilt voran der Ströme Flut, o Indu, uns zu hoher Lust, Wenn du mit Milch dich kleiden willst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

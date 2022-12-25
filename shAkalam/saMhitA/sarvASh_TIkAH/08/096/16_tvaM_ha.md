@@ -217,10 +217,7 @@ Als du geboren wurdest, wardst du der Sieben, die keinen Bemeisterer fanden, Mei
 Geboren kaum, erstandest du, o Indra, als Feind den sieben, die sich feindlos dünkten; Du fandest Erd' und Himmel, die verborgnen, verschafftest Lust den machtbegabten Welten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

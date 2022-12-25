@@ -240,10 +240,7 @@ Der Saft hat sich auf den Weg zu Indra´s Treffort gemacht; der Freund bricht ni
 Zum Ort des Indra ist der Indu vorgeeilt, der Freund verschmähet seines Freundes Beifall nicht; So wie der Jüngling zu den jungen Mädchen, eilt zum Kelch der Soma hin auf tausendfachem Pfad.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

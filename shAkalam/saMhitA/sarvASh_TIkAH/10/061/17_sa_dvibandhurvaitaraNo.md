@@ -188,10 +188,7 @@ Dieser von doppelter Sippe, der Opfernde, der Sohn des Vitarana, soll die immerm
 Dieser Dvibandhu, der Nachkomme des Vitarana, bewirkt durch Opfer, dass die unfruchtbare Kuh Nektar herabschüttend sich ergiesse, wenn ich den Mitra und Varuna durch Sprüche herbeilocke, den Arjaman durch die besten Bewirthungen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

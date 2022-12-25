@@ -153,10 +153,7 @@ Laufe du, der Süßeste, ab, für die Angira´s einen Ausweg findend, o Saft, al
 O Indu, ströme fette Milch ringsum, der Segen du verleihst, Du süssester, den Angiras.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -147,10 +147,7 @@ Du siegreicher Seher, deine Ströme wurden losgelassen wie ehrgeizige Rennpferde
 O Weiser, deine Ströme sind ergossen, rascher, flammender! Wie Renner strebend nach dem Preis,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

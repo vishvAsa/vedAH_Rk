@@ -134,10 +134,7 @@ Und nun zur Eile getrieben hat er die überlegene indrische Macht erlangt, der A
 Da hat, entsandt, noch herrlicher des Indra Grösse er erreicht, Der Hülfe schafft, der emsige.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

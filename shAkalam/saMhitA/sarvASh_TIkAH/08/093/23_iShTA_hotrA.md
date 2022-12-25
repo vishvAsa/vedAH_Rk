@@ -141,10 +141,7 @@ Die dargebrachten Opferspenden haben sich ergossen, den Indra während des Opfer
 Es strömten Opfergüsse hin, den Indra stärkend bei dem Fest, Ins Läuterungsgefäss mit Macht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -137,10 +137,7 @@ Geh ans Werk, bring uns kühnen Sinnes, du Kühner, die Habe des, der unter den 
 Schreite hin und bringe kecklich, kühner, her den Schatz des Mannes, Welcher weniger dir huldigt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

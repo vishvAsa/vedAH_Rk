@@ -149,10 +149,7 @@ Wenn du dich läuterst, so schaffe einen Ausweg, Stärkung dem Volke, du lobbege
 Gereinigt schaffe freien Raum und Kraft den Menschen, Liederfreund, Entsandt, o Ross, zum Milchgemisch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -144,10 +144,7 @@ Der Vritratöter sei uns aufmerksamen Sinnes, der viele Tränklein bekommt. Der 
 Achtsamen Sinnes sei er uns, der Vritra schlägt und viele labt, Der starke höre unser Flehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

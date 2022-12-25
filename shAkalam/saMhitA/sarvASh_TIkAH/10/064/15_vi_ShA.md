@@ -198,10 +198,7 @@ Dieser Hotra erlangt alles Wünschenswerte und durch sie Brihaspati und die löb
 Die Hotra hier erreichet alles schöne Gut, Brihaspati, Aramati, die herrliche, Hier, wo der Pressstein Soma pressend laut ertönt, mit Liedern hell gesungen hat der Weisen Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

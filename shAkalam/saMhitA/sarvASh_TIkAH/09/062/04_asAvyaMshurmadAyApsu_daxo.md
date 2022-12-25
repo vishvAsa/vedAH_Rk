@@ -165,10 +165,7 @@ Der Stengel ward zum Rauschtrank ins Wasser ausgepreßt, der wirksame, auf dem B
 Zum Rausche ist das Kraut gepresst, in Flut der starke Bergesfürst, Er setzt sich wie ein Aar ins Nest.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

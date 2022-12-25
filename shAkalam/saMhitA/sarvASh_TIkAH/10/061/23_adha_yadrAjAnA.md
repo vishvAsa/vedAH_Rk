@@ -220,10 +220,7 @@ Wenn er nun, ihr beiden Könige, auf einem Beutezug zu eiliger Fahrt bereit, der
 Und wenn dann bei der Opferhandlung, o ihr beiden Könige [Mitra-Varuna], zu euch [yuvâm aus metrischen Gründen zu ergänzen] der eilende heraneilt, dem Dichter zurufend, dann fahre der beliebteste Sänger – denn er war unter ihnen – sie hinweg und setze sie über.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

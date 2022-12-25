@@ -206,10 +206,7 @@ An seiner Stärke zu erkennen, standfest, ein hervorragender Held, überlegen, s
 Durch Stärke kenntlich, fest, der Helden kühnster, siegreich, gewaltig, stark und mächtig steige, Der tapfern Männer stärkster, kraftgeborner, erbeutend auf den Siegeswagen, Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -145,10 +145,7 @@ Surya, du gehst für den Bullen auf, dessen Gaben berühmt, dessen Werke mannhaf
 Zum schatzberühmten Helden gehst du auf, der Manneswerke wirkt, O Sonne, zu dem Schleuderer.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

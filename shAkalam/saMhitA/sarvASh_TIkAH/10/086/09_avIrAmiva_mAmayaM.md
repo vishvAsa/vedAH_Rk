@@ -204,10 +204,7 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 »Dieser Verderber stellt mir nach wie einer von Helden verlassenen, und doch bin ich einem Helden vermählt, bin des Indra Gattin, die Genossin der Maruts. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -159,10 +159,7 @@ Sicherlich ward von allen Opferveranstaltern die Gabe veranstaltet, du Vielschen
 Fürwahr, o reicher, Gabe ward von allen Gebern ausgetheilt, So sei denn Indra, du mit mir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

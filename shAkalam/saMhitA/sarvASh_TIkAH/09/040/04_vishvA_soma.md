@@ -147,10 +147,7 @@ Alle Herrlichkeiten bring uns, du geläuterter Somasaft; verschaffe tausendfält
 O bringe alle Schätze her, o Soma, Indu, flammender, Verschaff uns tausendfaches Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

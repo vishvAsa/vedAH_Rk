@@ -160,10 +160,7 @@ Deine Kräfte sind aufgestiegen, indem sie den Unhold zerspalten, du Herr des Pr
 Erhoben hat sich deine Kraft, Gespenster spaltend, Schleuderer; Die uns bekämpfen, stosse fort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -148,10 +148,7 @@ Lasset unseren süßesten Soma auf die Seihe laufen für die Götter, der von de
 Den gern die Götter hören, giesst den Göttern zu den süssesten, Den Soma in die Seihe ihr.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

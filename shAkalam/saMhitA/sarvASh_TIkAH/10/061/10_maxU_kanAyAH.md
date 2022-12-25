@@ -204,10 +204,7 @@ Alsbald kamen die Navagva´s zur Freundschaft der Jungfrau, die die Wahrheit Red
 Schnell kamen die Neuner zu des Mädchens Genossenschaft, das Rechte sprechend zu der rechten Verbindung (?), welche mit zwiefacher Stärke begabt zu dem Behüter (?) kamen; ohne Geschenke zu geben erlangten sie unvergängliche Güter.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

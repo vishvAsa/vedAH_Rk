@@ -147,10 +147,7 @@ Wie seine Keule durch die Lobrede instand gesetzt, ist er kräftig, unentwegt, �
 Durch Sang bereitet wie der Blitz, voll Kraft und unerschütterlich, Erstand der hohe, unbesiegt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

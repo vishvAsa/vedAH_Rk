@@ -143,10 +143,7 @@ Unter diesen Schimmeln fällt die von Hengsten umgebene rötliche Stute mit sch�
 Unter ihnen zeichnet sich aus eine mit Hengstfüllen versehene Stute und unter den braunen eine lichtrothe Stute, die mit schönem Zügel und schöner Peitsche versehen ist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

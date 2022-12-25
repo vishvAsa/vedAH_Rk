@@ -203,10 +203,7 @@ Wie der Vater seinen Sohn, trug Vadhryasva dich, Agni, ehrend auf seinem Schoße
 Du trugst im Schooss ihn, wie den Sohn der Vater, als, Agni, dich verehrte Vadhriaçva; Du nahmst, o jüngster, gnädig an sein Brennholz und schlugst die mächt'gen, wenn sie dir auch trotzten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

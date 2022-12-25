@@ -183,10 +183,7 @@ Und bringet uns, ihr beiden Schatzreichen, den Apam Napat, Sonne und Mond als Te
 Und naht euch ihr beiden stierkräftigen Gefährten, Sonne und Mond dem Sitze unserer Gewässer [der Somatränke], wenn sich zugleich in ihrem Boden der Drache des Wolkenbodens niedergelassen hat.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

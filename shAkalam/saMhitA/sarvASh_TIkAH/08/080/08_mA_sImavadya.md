@@ -154,10 +154,7 @@ Bring sie nicht in Unehre; weit ist die Rennbahn, ausgesetzt der Preis, gespreiz
 O theile nicht geringes zu, frei ist die Bahn, gesetzt der Preis, Die Schranken schon hinweggethan.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

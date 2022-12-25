@@ -212,10 +212,7 @@ Was hat dir dieser Vrisakapi getan, das gelbliche Tier, auf den du wohl gar neid
 Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so zürnest? oder ist es des frommen nahrungsreiches Gut [was du ihm neidest]? Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

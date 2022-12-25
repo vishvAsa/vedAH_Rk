@@ -209,10 +209,7 @@ Dem Großen, Gewaltigen, Starken sende ein Loblied hinaus, der dem Zugtier gar f
 Dem grossen, hehren, starken sende Loblied, und Heerden treibe hin zum heilbegabten, Dem Liederfreunde lege viele Lieder ans Herz, dem Indra, ob er wol drauf achtet?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

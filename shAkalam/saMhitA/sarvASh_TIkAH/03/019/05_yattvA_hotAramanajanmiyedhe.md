@@ -223,10 +223,7 @@ Wenn die Götter dich zum Hotri bei dem Opfermahl salben wollen, indem sie dich 
 Weil dich zum Priester bei dem Mahle salbten, zu Opfern dich die Götter niedersetzten, So sei, o Agni, du uns hier ein Helfer, und füge schönes Glück an unsre Leiber.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

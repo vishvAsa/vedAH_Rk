@@ -138,10 +138,7 @@ Besinget mit sangbarem Liede den ausgezeichneten Pavamana, den tausendäugigen S
 Auf, singet nun mit eurem Sang dem flammenden, beweglichen, Indu, dem tausendäugigen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

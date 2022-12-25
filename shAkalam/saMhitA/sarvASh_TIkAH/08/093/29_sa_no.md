@@ -160,10 +160,7 @@ Bring uns alle Wohlfahrt, o Ratreicher, wenn du, Indra, uns barmherzig sein will
 So bringe, thatenreicher du, uns alles Wohlergehn herbei, O sei du, Indra, gnädig uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

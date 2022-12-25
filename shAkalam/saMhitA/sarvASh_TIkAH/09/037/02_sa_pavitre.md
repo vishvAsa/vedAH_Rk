@@ -137,10 +137,7 @@ Der hellsehende Falbe rinnt ausdauernd auf die Seihe, brüllend auf seine Wiege 
 Weitblickend rennt der goldne Hengst zur Seihe hin, der kräftige, Entgegenwiehernd seinem Sitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

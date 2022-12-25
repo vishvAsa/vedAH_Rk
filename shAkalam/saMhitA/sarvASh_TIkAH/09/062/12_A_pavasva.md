@@ -138,10 +138,7 @@ Läutere tausendfachen Reichtum an Rindern und Rossen, vielschimmernden, vielbeg
 O riesle tausendfachen Schatz herbei, der reich an Rind und Ross, Sehr glänzend ist und vielbegehrt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -152,10 +152,7 @@ Durch diese geschickte Behandlung erstarkte der schon so große Soma noch mehr; 
 So gross er war, doch grösser noch ward Soma durch das fromme Werk, Erfreut geräth in Wallung er.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

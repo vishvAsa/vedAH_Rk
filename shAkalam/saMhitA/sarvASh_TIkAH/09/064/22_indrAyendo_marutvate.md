@@ -138,10 +138,7 @@ Läutere dich, o Saft, als Süßester für Indra in Begleitung der Marut, um dic
 Dem Indra mit der Marutschar, o Indu, riesle, süssester! Zu setzen dich in Opfers Schooss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

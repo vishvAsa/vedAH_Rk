@@ -147,10 +147,7 @@ Er stimme den Gesang an, er falle ein, er höre die gesungene Weise; er antworte
 Rühmlich handelnd stimme ein er, höre die gesungne Weise Und belohne mit Geschenk uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -250,10 +250,7 @@ Wer trifft euer Lob richtig, daß ihr daran Freude habt, ihr Götter alle des Ma
 Wer bringt euch dar den Lobgesang, der euch gefällt, ihr Männer alle, Götter ihr, so viel ihr seid? Wer macht das Opfer, vielgeborne, euch bereit, das über Noth hin uns zum Heile führen soll?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

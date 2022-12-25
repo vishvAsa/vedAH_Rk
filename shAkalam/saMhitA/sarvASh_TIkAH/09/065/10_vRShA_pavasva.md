@@ -149,10 +149,7 @@ Du, der Bulle, läutere dich im Strome, und für den Marutherrn berauschend, all
 O riesle als ein Stier im Strom, berauschend für den Marutherrn, Erlangend alles durch Gewalt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

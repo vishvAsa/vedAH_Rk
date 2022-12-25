@@ -206,10 +206,7 @@ In der Hoffnung auf dich, Indra, nehme ich nicht einmal die Sichel in die Hand. 
 Aus Verlangen nach dir, o Indra, nahm ich auch die Sichel in die Hand; beschenke uns, o mächtiger mit abgeschnittener oder eingesammelter Gerste, soviel deine Hand fassen kann.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

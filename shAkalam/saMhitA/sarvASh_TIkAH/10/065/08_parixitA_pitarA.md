@@ -174,10 +174,7 @@ Die ringsum wohnenden, erstgeborenen Eltern, die Hausgenossen herrschen im SchoÃ
 Das Aelternpaar, das urgeboren ringsum wohnt, es sitzt vereinigt hier im Schooss des Heiligthums, In gleichem Dienst ergiessen Erd' und Himmel Trank, den nahrungsreichen fÃ¼r den Varuna, den Stier.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

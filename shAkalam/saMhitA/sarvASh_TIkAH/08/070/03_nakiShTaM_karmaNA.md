@@ -194,10 +194,7 @@ Keiner kommt dem an Verdienst gleich, der einen stets Fördernden wie den Indra 
 Ihm kommt an Werken keiner gleich, die er gethan, dem segnenden, Dem vielgeliebten Indra an Verehrung nicht, der stark ist, kühn und unbesiegt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

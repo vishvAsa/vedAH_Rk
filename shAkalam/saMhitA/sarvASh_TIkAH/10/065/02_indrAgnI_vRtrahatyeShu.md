@@ -203,10 +203,7 @@ Indra und Agni, die rechten Herren, die in den Vritrakämpfen sich gegenseitig s
 Die Helden Indra, Agni in der Vritraschlacht, einander fördernd, miteinander engvereint, Durchdrangen ganz die weite Luft mit ihrer Kraft; der fettgemischte Soma steigert ihre Macht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

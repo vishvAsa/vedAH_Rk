@@ -150,10 +150,7 @@ Die achtfüßige, neunseitige Rede, die die Wahrheit trifft, habe ich im Verglei
 Achtsilbiges, neunzeiliges, herzrührendes, erhabnes Lied Hab' ich dem Indra zugetheilt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

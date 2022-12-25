@@ -213,10 +213,7 @@ Der kann nichts, dem die haarige Scham klafft, wenn er sich drauf setzt; nur der
 Nicht der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, sich ausdehnt; der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

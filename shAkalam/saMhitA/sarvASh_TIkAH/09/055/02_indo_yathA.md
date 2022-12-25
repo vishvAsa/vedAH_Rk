@@ -167,10 +167,7 @@ Da ja dir der Lobpreis gebührt, o Saft, da ja die Geburt deines Tranks geschehe
 Da dein ist, Indu, alles Lob und dein was aus dem Kraut entquoll, So setz dich auf die liebe Streu,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -193,10 +193,7 @@ Mach, du Gabenreicher, die Waffen, mache die Herzen meiner Krieger kampffroh, di
 Empor, o mächt'ger, richte unsre Waffen, empor die Geister meiner tapfern Helden, Empor der Rosse Kräfte, Vritratödter! es dring' empor der Schall der Siegeswagen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

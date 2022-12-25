@@ -148,10 +148,7 @@ Er läutert sich, der begehrte Falbe, von Jamadagni gepriesen, in Fluß gebracht
 Es flammt das holde goldne Ross, von Dschamadagni hochgerühmt, Hin auf das Rinderfell entsandt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

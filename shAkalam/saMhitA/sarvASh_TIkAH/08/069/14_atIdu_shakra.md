@@ -197,10 +197,7 @@ Der mächtige Indra fühlt sich allen Feinden überlegen. Der Jüngling spaltete
 Der starke Indra, er fürwahr, verachtet aller Feinde Trotz, Der Jüngling weist zurück den Brei, der ohne Sang bereitet ist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

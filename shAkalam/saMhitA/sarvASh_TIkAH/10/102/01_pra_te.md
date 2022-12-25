@@ -178,10 +178,7 @@ Deinem vertauschten Wagen soll Indra kühnlich weiterhelfen! In diesem ruhmbring
 Deinen wechselweise [nach beiden Seiten hin] wirkenden Streitwagen möge Indra kräftig fördern; o vielgerufner [Indra], in diesem rühmlichen Kampfe hilf uns bei der Erlangung der Beute.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

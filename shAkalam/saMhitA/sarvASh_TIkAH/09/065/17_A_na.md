@@ -153,10 +153,7 @@ Bring uns, o Saft, hundertfältigen Zuwachs von Rindern, Besitz guter Rosse, ein
 Fahr hundertfache Nahrung uns an Ross und Rind, o Indu, her, Und Gütergabe zum Genuss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

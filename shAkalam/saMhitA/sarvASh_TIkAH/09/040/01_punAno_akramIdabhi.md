@@ -133,10 +133,7 @@ Sich läuternd ist er auf alle Verächter losgegangen, der Ausgezeichnete. Sie v
 Gereinigt, hat der emsige bezwungen aller Feinde Schar, Den weisen schmücken sie mit Lied.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

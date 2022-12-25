@@ -153,10 +153,7 @@ Dem Bullen , der unter Gebeten das Wasser überwindet, dem Soma, der in ordnungs
 Mit Andacht und Gebet besang der Sänger Schar den thät'gen Stier, Den Soma in des Opfers Strom.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

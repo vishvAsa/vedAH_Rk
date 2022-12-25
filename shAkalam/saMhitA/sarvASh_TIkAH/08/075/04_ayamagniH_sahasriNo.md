@@ -141,10 +141,7 @@ Dieser Agni ist Herr über tausendfältigen, hundertfältigen Gewinn; der Weise 
 Er, Agni, ist der Labung Herr, die hundertfach und tausendfach, Der Schätze weises Oberhaupt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

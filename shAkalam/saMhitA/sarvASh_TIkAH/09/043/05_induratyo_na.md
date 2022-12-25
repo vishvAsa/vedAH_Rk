@@ -149,10 +149,7 @@ Der Saft wiehert in der Seihe wie ein um den Siegerpreis laufendes Rennpferd, we
 Der Indu wiehert wie ein Ross, das Preis erstrebt, zur Seihe hin, Wenn er hindurchrinnt Göttern hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

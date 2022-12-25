@@ -156,10 +156,7 @@ Bring, dich läuternd, unserem Sänger Reichtum, die Meisterschaft; stärke die 
 Gereinigt bringe Reichthum du dem Sänger her und Heldenkraft, Des Dichters Lieder segne du.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

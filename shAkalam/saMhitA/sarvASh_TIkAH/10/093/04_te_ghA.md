@@ -186,10 +186,7 @@ Sie, die Könige der Unsterblichkeit, sind beliebt: Aryaman, Mitra, Varuna, der 
 Diese sind erfreuende Könige des Reiches der Unsterblichen: Arjaman, Mitra, Varuna, der Umwandler; sind es nicht auch Rudra, der von den Männern gerühmte, die Maruts, Puschana und Bhaga?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

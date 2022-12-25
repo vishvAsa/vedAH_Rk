@@ -185,10 +185,7 @@ Komm doch, der du ohne Gegner bist; und du wirst zu den Lobliedern gerufen im h�
 O unbesiegter, komm herbei, zu Sprüchen rufen wir dich her, Auch von dem höchsten Himmelsraum.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

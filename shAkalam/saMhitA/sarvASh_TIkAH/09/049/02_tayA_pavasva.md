@@ -160,10 +160,7 @@ Läutere dich in diesem Strome, mit dem die Rinder anderer Leute hierher kommen 
 Mit solchem Strome riesle hell, durch welchen Rinder kommen her In unser Haus, vorzügliche.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

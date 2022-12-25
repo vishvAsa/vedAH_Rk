@@ -148,10 +148,7 @@ Nicht wird Mißgunst dem opferspendenden Sterblichen den Reichtum vorenthalten, 
 Böse können nicht, o Agni, dem, den du beschützest, rauben Seinen Schatz dem frommen Manne.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

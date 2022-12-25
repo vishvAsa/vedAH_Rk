@@ -181,10 +181,7 @@ Die Leute, die unter deiner, des Schöngepriesenen, Gnadenschönen, Glanzreichen
 Durch deine Huld, gepriesner Füchselenker, du gnadenreicher, glänzender empfangen Die besten Hülfen, Indra, deine Sänger zur Förderung durch wundervolle Gaben.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -204,10 +204,7 @@ Unser sei Indra, wann die Feldzeichen zusammentreffen. Unsere Pfeile, die sollen
 Es schirme unsre Kämpf' und Fahnen Indra; es seien unsre Pfeile, die da siegen, Und unsre Männer, die da Macht gewinnen; ihr Götter helft uns, wenn wir zu euch rufen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

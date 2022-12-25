@@ -142,10 +142,7 @@ Wie ein Wagenpferd ist er auf die Seihe losgesprengt, in den Camugefäßen ausge
 Schon eilt er wie ein Wagenross ins Sieb vom Bretterpaar gepresst, Der Renner läuft zum Ziele hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -164,10 +164,7 @@ Deine Milch, o Saft, melken die Ayu´s zum Rauschtrank, die Götter für die Gö
 Es melken, Indu, deine Milch zum Rausche recht die eifrigen, Die Götter Göttern süssen Trank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

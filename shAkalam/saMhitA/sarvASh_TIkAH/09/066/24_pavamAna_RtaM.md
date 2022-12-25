@@ -158,10 +158,7 @@ Pavamana hat das hohe Gesetz, das helle Licht erschaffen, die schwarze Finsterni
 Erhabnes Werk hat er erzeugt und helles Licht der flammende, Verjagend schwarze Finsterniss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

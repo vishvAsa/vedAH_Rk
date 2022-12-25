@@ -215,10 +215,7 @@ Mache es Mitra und Varuna recht, den beiden Allkönigen, die gegen den Spender i
 Dem Mitra spende und dem treuen Varuna, den Herrschern, die mit ihrem Geist nicht ferne sind, Sie, deren Stätte durch Gerechtigkeit erglänzt, und denen Erd' und Himmel Hülfe flehend nahn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

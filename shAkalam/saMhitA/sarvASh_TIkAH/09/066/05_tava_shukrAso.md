@@ -161,10 +161,7 @@ Deine klaren Strahlen breiten am Rücken des Himmels eine Seihe aus durch ihre E
 Am Himmelsrücken breiten sich rings deine hellen Strahlen aus Zur Seihe, Soma, nach dem Brauch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

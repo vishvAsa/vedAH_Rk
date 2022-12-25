@@ -176,10 +176,7 @@ Indra, der in allen Schlachten für uns anzurufen ist, soll sich für die Erbauu
 Zu uns geselle Indra sich, der anzuflehn in jeder Schlacht, Der Vritratödter zum Gebet und Somatrank, der übermächt'ge, glänzende.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

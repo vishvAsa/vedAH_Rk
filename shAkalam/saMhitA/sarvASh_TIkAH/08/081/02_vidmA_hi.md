@@ -132,10 +132,7 @@ Denn wir kennen dich als den Vielunternehmenden, Vielschenkenden, Vielgebenden, 
 Denn wir wissen, dass an Thaten, Dass an Gaben, an Geschenken, Spenden, Hülfen du sehr reich bist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

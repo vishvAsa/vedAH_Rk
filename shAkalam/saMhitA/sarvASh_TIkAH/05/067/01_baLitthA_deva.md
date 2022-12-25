@@ -164,10 +164,7 @@ Wahrlich, so ist´s, ihr beiden Götter, ihr Söhne der Aditi, ihr habt die vere
 Ihr Götter beide habt erlangt fürwahr, Aditja's, hehres Reich, Geschmücktes, hohes, herrlichstes, Varuna, Mitra, Arjaman.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

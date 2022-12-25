@@ -216,10 +216,7 @@ Wüste und Bergabsturz, wie viele Meilen sind sie wohl von einander entfernt! Ko
 Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? drum gehe heim, o Vrischākapi, in die nächsten Häuser. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

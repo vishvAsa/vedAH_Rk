@@ -151,10 +151,7 @@ Die große Gunst der Götter, der Bullen, die erbitten wir uns zum Beistand.
 Der Götter grosse Förderung, die wünschen wir uns recht herbei, Der kräftigen zum Segen uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

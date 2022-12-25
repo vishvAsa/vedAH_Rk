@@ -213,10 +213,7 @@ Dieser Indra ist der Vritratöter, der Altmeister. Eben geboren ward er sogleich
 Der Vritrafeind und Ribhuherrscher, Indra, geboren kaum war schon er anzurufen, Vollbringend viele männlich kühne Werke, den Freunden preislich wie getrunkner Soma.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

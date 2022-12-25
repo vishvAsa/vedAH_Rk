@@ -258,10 +258,7 @@ Läutere dich, Rinder, Gut, Gold ausfindig machend, Samen gebend, o Saft, über 
 O riesle, Indu, spendend Rinder, Güter, Gold, und Samen schaffend, in die Wesen eingefügt; Du bist, o Soma, allbesitzend, heldenreich, drum ehren hier die Sänger dich mit Lobgesang.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

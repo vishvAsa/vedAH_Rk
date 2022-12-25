@@ -157,10 +157,7 @@ Du Pavamana, dessen glänzende Milch vom Himmel gebracht wurde, begnade uns dami
 Mit deiner Milch, die leuchtend dir, o flammender, vom Himmel kam, Mit der sei hold zum Leben uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

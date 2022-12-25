@@ -228,10 +228,7 @@ Als Herrscher durcheilst du diese Welten, o Saft, deine schön beschwingten Falb
 Als Herrscher dringst durch alle diese Wesen du, die schönbeschwingten, goldnen Stuten schirrend dir, Sie mögen, Indu, strömen süsse, fette Milch; in deinem Dienst, o Soma, möge stehn der Menschen Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

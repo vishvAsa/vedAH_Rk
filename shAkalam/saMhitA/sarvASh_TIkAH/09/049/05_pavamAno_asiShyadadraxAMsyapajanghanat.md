@@ -125,10 +125,7 @@ Der Pavamana ist geflossen, die Unholde verscheuchend, wie vormals die Lichter l
 Er hat geströmt der rieselnde fortstossend die Gespensterschar Und Licht entflammend wie zuvor.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

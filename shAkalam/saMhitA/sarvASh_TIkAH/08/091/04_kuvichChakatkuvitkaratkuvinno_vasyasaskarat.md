@@ -189,10 +189,7 @@ Gewiß wird er es können, gewiß wird er es tun, gewiß wird er uns glückliche
 Ob er's vermag, und ob er's thut? ob er nicht bald uns reicher macht? Ob von dem Gatten ich verschmäht mich Indra werde beigesell'n?
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

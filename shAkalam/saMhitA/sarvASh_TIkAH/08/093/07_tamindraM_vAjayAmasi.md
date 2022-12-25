@@ -148,10 +148,7 @@ Diesen Indra eifern wir an, den großen Vritra zu töten. Er sei der riesige Bul
 Ihm, diesem Indra, geben wir zum Mord des grossen Vritra Kraft; Der Held erweise sich als Stier.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

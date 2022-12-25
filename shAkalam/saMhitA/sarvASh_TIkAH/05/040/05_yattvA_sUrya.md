@@ -170,10 +170,7 @@ Als dich, Surya, der asurische Svarbhanu mit Finsternis geschlagen hatte, da sch
 Als dich, o Soma, Suarbhanu, der dämonische, mit Finsterniss schlug, da sahen alle Wesen aus, wie ein Verirrter, der der Gegend unkundig ist.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

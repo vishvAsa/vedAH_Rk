@@ -157,10 +157,7 @@ Die Somasäfte, die in der Ferne, die in der Nähe ausgepreßt werden, und die d
 Die Somatränke, welche fern gepresst sind, oder in der Näh Und dort auf somareicher Flur,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

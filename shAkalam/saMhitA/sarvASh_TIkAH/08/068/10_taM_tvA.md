@@ -177,10 +177,7 @@ Dir nahen wir mit Opfern, dir mit Lobreden, du Lobbegehrendster, wie du schon de
 Drum gehn wir dich mit Opfern an, mit Liedern, liederlustiger, Wie in den Schlachten, Indra, du dem Purumajja Hülfe gabst,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

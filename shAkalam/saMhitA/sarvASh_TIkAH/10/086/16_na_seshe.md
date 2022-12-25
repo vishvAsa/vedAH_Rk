@@ -208,10 +208,7 @@ Der kann nichts, dessen Rute zwischen den Schenkeln hängt; nur der kann´s, dem
 Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; sondern der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, sich ausdehnt. Höher als alles ist Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

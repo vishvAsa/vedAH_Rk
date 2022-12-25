@@ -171,10 +171,7 @@ Als da vor des Drachen Funkeln alle Götter davonliefen, da hatte sie die Panik 
 Als vor des Drachens Ungestüm die Götter alle flüchteten, Und sie des Thieres Wuth ergriff,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

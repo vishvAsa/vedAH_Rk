@@ -153,10 +153,7 @@ Läutere uns den Besitz von Gold, von Rossen, von Söhnen zu, o Soma; bring rind
 O Soma, riesle Schatz an Gold, an Rossen und an Helden her Und bring' uns rinderreiches Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

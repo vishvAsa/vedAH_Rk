@@ -148,10 +148,7 @@ Die preisgewinnenden Renner wurden losgelassen, die Somasäfte, im Verlangen nac
 Voll Gier nach Rind und Ross und Mann sind Somatränke ausgeströmt, Die raschen, starken, glänzenden.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

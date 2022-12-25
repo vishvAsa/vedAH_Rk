@@ -150,10 +150,7 @@ Ihn machen die Ayu´s sauber, den preisgewinnenden Falben in den Flüssen, den b
 Es striegeln ihn die eifrigen, in Strömen ihn, das schnelle Ross, Den Indu, Indra's Wonnetrank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

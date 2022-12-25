@@ -177,10 +177,7 @@ Holla! Was willst du noch still sitzen? Mach unseren Wagen zum Vordersten, uns b
 O sag', was sitzest du so still? voran lass unsern Wagen sein, Uns nahe sei der schöne Preis.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

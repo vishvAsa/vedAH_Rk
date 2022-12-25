@@ -167,10 +167,7 @@ Deren Daksina mit Reichtum kommt - geschirrt ist ihre goldene Daksina mit ......
 Deren mit Gut beladene goldene Achse, die mit beiden [Enden durch die Naben] geht, rollte wie aus eigner Lust, gleich Heldenscharen in der Schlacht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

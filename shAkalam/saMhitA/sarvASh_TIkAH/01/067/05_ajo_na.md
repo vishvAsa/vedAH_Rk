@@ -150,10 +150,7 @@ Wie der Ungeborene befestigt er den Erdboden; er hat den Himmel mit wahrhaften S
 Als ew'ger trug er – die Erd' als Wohnsitz, durch wahre Sprüche – den Himmel stützend, Die lieben Stätten – der Heerden schütze, alllabend Agni – durchschreit die Schluchten.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -155,10 +155,7 @@ Läutere du dich zum Rauschtrank, du mit dem Herrenauge, zur Götterladung, für
 Du riesle, Männerschauender, zum Rausche recht, zum Göttermahl, Zum Trunk dem Indra, Indu, hin.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

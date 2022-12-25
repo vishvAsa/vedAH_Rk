@@ -184,10 +184,7 @@ Svarnara, die Lufträume, die Lichträume, Himmel und Erde, das Land haben sie m
 Den Glanzesherrn, die Lüfte und des Lichtes Raum, den Himmel und die Erde stützten sie mit Macht; Es preist der Mensch die Götter, sie die leuchtenden, wie Rosse, die mit Schatz beladen hoch erfreun.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

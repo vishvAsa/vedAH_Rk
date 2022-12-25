@@ -168,10 +168,7 @@ Indra, hilf unserem Wagen vorwärts, auch wenn er noch zurück ist, o Herr des P
 Schaff Indra unsern Wagen vor, wenn er zurück bleibt, Schleuderer, Lass meinen an der Spitze gehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

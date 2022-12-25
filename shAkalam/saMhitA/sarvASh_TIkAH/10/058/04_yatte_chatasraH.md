@@ -146,10 +146,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो **यत्ते** **मनः** **प्रदिशः** प्रकृष्टा महादिशः **चतस्रः** **जगाम** **तत्** आवर्तयामः ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

@@ -155,10 +155,7 @@ Wenn Soma nach dem Siegerpreis läuft, in hundert emsigen Strömen, indem er zu 
 Wenn Soma Labetrunk ergiesst geschäft'ge Ströme hundertfach, Wenn er in Indra's Freundschaft tritt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

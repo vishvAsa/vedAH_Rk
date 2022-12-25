@@ -210,10 +210,7 @@ Schmalz ist Stärkung für Vadhryasva´s Feuer, Schmalz seine Speise. Schmalz se
 Fett ist des Agni Vādhriaçva Labetrunk, und Fett ihm Speise, fette Butter seine Mast; Mit Fett begossen dehnt er in die Weite sich, mit Schmalz getränkt erstrahlet er der Sonne gleich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

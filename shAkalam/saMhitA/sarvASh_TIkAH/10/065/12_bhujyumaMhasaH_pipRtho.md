@@ -201,10 +201,7 @@ Ihr Asvin helfet dem Bhujyu aus Not. Den Syava, der Vadhrimati Sohn, belebtet ih
 Ihr Ritter halft dem Bhudschju aus der Fluten Drang, belebtet Çjāva, ihn, der Vadhrimati Sohn, Die Kamadju vermähltet ihr dem Vimada, und den Vischnapu gabt ihr los dem Viçvaka.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -236,10 +236,7 @@ Ohne Beuteanteil bin ich abgezogen, nach deinem, des Starken, Ratschluß, du Wei
 Hinweggegangen bin ich ohne Antheil nach deiner Weisheit, starker du und weiser; Drum hatt' ich Thor, o Manju, dir gezürnet; leibhaftig komme kraftverleihend zu mir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

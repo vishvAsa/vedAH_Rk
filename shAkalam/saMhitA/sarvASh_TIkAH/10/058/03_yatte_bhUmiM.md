@@ -152,10 +152,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो **यत्** **मनः** **भूमिं** **चतुर्भृष्टिम्** । चतुर्दिक्षु भ्रंशो यस्याः सा । तां **जगाम** **तत्** आवर्तयामः ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

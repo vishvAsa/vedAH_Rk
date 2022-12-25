@@ -153,10 +153,7 @@ kṣáyāya ← kṣáya- (nominal stem)
 हे सुबन्धो **यत्** **मनः** **दिवं** **जगाम** **यत्** च **पृथिवीं** **दूरकम्** । दूरकमिति क्रियाविशेषणम् । **तत्** **इह** निवासाय जीवनाय चावर्तयामः ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 

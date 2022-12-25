@@ -190,10 +190,7 @@ Um Glück möchten wir den gabenreichen Indra anrufen in diesem Kampf, den männ
 Den mächt'gen Indra rufen wir zum Heil uns, den männlichsten in diesem Kampf um Beute; Den starken, der erhört zur Hülf' in Schlachten, die Feinde tödtet und ihr Gut erbeutet.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

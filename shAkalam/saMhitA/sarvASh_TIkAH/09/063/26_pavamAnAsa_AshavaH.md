@@ -146,10 +146,7 @@ Die sauberen Renner, die sich läuternden Säfte haben sich ergossen, alle Feind
 Ergossen sind die flammenden, die schnellen Tropfen, licht und schön, Verjagend aller Feinde Schar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

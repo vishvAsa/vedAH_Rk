@@ -213,10 +213,7 @@ Dieser Vajra, der vielmals zersplittert wird unterhalb des Wasserquells der hohe
 Dieser Donnerkeil, der vielfach nach verschiedenen Seiten sich bewegt, befindet sich unter dem Dunstkreis der hohen Sonne; eine andere Herrlichkeit ist jenseit dieses [Dunstkreises]; dahin dringt auf sicherm Wege das Alter der Greise.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

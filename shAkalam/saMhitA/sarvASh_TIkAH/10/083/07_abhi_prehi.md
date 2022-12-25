@@ -207,10 +207,7 @@ Geh drauf los, bleib zu meiner Rechten, dann wollen wir beide viele Feinde ersch
 Komm her zu mir und steh zu meiner Rechten, dann werden viele Feinde wir erschlagen; Ich giess dir zu des Honigs Seim, der Kraft gibt, wir beide wollen leis' als erste trinken.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

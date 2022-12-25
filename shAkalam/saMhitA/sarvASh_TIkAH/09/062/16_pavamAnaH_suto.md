@@ -147,10 +147,7 @@ Der sich läuternde Soma ist von den Männern ausgepreßt gleichsam um den Siege
 Gepresst von Männern, flammend hat der Soma Labung hergeströmt, Setzt kräftig in die Schalen sich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

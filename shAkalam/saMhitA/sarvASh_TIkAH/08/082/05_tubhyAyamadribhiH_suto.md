@@ -167,10 +167,7 @@ Für dich ist dieser Soma mit den Steinen ausgepreßt, mit Milch gemischt zum Ra
 Er ist von Steinen, Indra, dir gepresst, mit Milch zum Rausch vermischt Der Soma wird ergossen dir.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

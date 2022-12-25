@@ -149,10 +149,7 @@ Auf deinen alten Wegen kreise der beliebte Saft in tausend Strömen, in einem Zu
 Auf seinen alten Wegen geh der liebe durch das Widderhaar In tausend Strömen fort und fort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

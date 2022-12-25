@@ -166,10 +166,7 @@ Und lade, o Gott, die Götter zu uns als der Kundigere! Sichere uns alle begehre
 Und ruf uns, Gott, die Götter her, der du am besten es verstehst, Und alles Gut vertrau uns an.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -183,10 +183,7 @@ Nur ihn eifere ich zu großer Freigebigkeit, den Indra zum Trinken an, der auf d
 Ihn, ihn, den Indra treib' ich an, zu grosser Spende und zum Trunk Ihn, dem das erste Lob gebührt der Menschen, ihn, den hohen Herrn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

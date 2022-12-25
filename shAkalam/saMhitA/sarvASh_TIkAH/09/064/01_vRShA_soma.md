@@ -165,10 +165,7 @@ Soma, du bist der glänzende Bulle, du Gott, der Bulle wie ein Bulle wirkend; du
 Du, Soma, bist ein lichter Stier, ein Stier, o Gott, mit Stieres Werk, Als Stier empfängst du die Gebühr.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

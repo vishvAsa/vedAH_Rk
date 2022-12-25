@@ -147,10 +147,7 @@ Als Wagenpferd, o Soma, wachsam, läutere du dich, die Götter einladend, durch 
 So riesle Götter labend du, o Soma, munter fahrend, durch Zum Becher der von Honig trieft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

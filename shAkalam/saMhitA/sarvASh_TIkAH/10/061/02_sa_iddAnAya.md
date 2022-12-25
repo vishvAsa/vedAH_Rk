@@ -188,10 +188,7 @@ Dieser Cyavana baute den Feueraltar aus Überesten, indem er sich um eine unsich
 Dieser Tschjavāna, dem leicht zu täuschenden (?), zu Gaben verhelfend, versah den Altar mit süssen Tränken; siegreich vordringend ergoss der sehr lieblich redende wie eine Flut den das Jetzt überdauernden Samen (?).
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

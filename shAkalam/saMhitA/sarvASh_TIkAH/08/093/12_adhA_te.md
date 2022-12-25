@@ -136,10 +136,7 @@ Darum ehren die beiden Göttinnen Rodasi deinen unaufhaltsamen Ungestüm, du Sch
 Und deine ungehemmte Macht verehren beide Göttinnen, Die Welten, helmgeschmückter du.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

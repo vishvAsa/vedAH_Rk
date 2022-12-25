@@ -163,10 +163,7 @@ Deine, des Pavamana Güsse, sind ausgegossen wie die Strahlen der Sonne, du Allw
 Allweiser, dein, des flammenden, Ergüsse sind hervorgeströmt Gleich wie der Sonne Strahlenschar.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

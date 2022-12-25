@@ -228,10 +228,7 @@ Deine berauschenden raschen Rauschtränke haben sich einzeln in Lauf gesetzt wie
 Ergossen haben deine raschen Säfte sich, die lustigen wie Wagenrosse weit und breit, Des Indutrankes honigsüsse Wellen hin zum Blitzer Indra, wie zum Kalb mit Milch die Kuh.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

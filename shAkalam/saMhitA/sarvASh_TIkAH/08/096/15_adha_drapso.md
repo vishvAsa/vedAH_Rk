@@ -217,10 +217,7 @@ Da behauptete sich Drapsa in schlimmer Lage im Schoße der Amsumati zornfunkelnd
 Da nun erhielt im Schooss des Somastromes der Tropfen funkelnd erst sein rechtes Aussehn; Die gottvergessnen Stämme, die sich nahten, bezwang vereint mit dem Gebetsherrn Indra.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

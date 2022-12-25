@@ -186,10 +186,7 @@ Es putzen dich gemeinsam die Jungfrauen in der Wollseihe im fließenden Wasser u
 Es reinigt dich der Jungfraun Schar im Strom, der durch die Wolle rauscht, Wenn man ins Holz dich Sänger führt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

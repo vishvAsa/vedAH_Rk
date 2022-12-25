@@ -160,10 +160,7 @@ Die Sieghaften, die die vielen Fährlichkeiten brechen und unserem Samen und uns
 Verjagend vieles Ungemach, die raschen, schaffend freie Bahn Dem Stamm, den Rossen fort und fort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

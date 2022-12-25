@@ -200,10 +200,7 @@ Die ersten der Götter waren bei dem Bau der Welt zugegen; die späteren von ihn
 In der Wohnung der Götter standen die ersten, aus ihrem Abfall entsprangen die spätern, drei wasserreiche wärmen die Erde, zwei führen den [zu Regen] verdichteten Nebel herbei.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

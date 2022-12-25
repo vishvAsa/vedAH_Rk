@@ -211,10 +211,7 @@ Ihr verehrungswürdigen Götter, seid ihr uns fein einmütig zu großer Gnade, d
 Drum erweist euch uns nun gross, o ihr ehrwürdigen Götter, zur Hülfe vereint, die ihr Nahrungen herbrachtet, euch vertheilend, die ihr untrügliche Rächer seid.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

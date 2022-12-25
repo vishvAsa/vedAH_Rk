@@ -156,10 +156,7 @@ Pavamana ist durch die Haarseihe gelaufen, er rinnt auf die Krüge zu, in Indra�
 Schon hat die Wolle er durchströmt und eilet jetzt den Schalen zu; Er dringet ein in Indra's Bauch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

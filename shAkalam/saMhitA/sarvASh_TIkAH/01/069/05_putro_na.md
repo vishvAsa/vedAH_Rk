@@ -159,10 +159,7 @@ Wie ein geborener Sohn der Erfreuer im Hause; wie ein freudiges Streitroß den R
 Als Sohn geboren – im Hause lieblich, durchdrang die Stämme – gleich liebem Ross er; Wenn die mit Helden – vereinten Stämme ich ruf', erreiche, – Allgottheit Agni.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

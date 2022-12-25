@@ -143,10 +143,7 @@ Läutere Schmalz in Strömen, der du zu den Opfern am besten die Götter ladest,
 Im Strome riesle Butter her, bei Opfern Götter-labendster, Und ströme Regen uns herbei.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

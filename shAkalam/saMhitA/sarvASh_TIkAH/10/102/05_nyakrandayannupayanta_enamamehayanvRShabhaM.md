@@ -186,10 +186,7 @@ Die Herankommenden reizten ihn zum Brüllen, zum Harnen den Stier mitten im Wett
 Ihm nahend liessen laut den Stier sie brüllen und Wasser lassen mitten auf den Kampfplatz; Durch ihn erlangte Mudgala im Kampfe wohl hunderttausend wohlgenährte Rinder.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

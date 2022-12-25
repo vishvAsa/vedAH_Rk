@@ -157,10 +157,7 @@ Dieser Soma spielt mit den Steinen auf der Kuhhaut, den Indra zum Rausche laut l
 Der Soma hüpft durch Steine nun hernieder auf die Rinderhaut, Den Indra rufend zu dem Rausch.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -183,10 +183,7 @@ Denn es gibt keinen anderen Bereicherer oder guten Lohner und guten Schenker fü
 Niemand, o Indra, kommt dir gleich, kein andrer ist, der so wie du Dem Frommen Schönes schafft und gibt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

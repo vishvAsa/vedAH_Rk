@@ -99,10 +99,7 @@ sumnā́ya ← sumná- (nominal stem)
 8तं त्वेति ॥ शोचिष्ठ दीपयितृतम 'तुश्छन्दसि' इतीष्ठन् । 'तुरिष्ठेमेयस्सु' इति टिलोपः । यद्वा - शोचस्वितम । 'विन्मतोर्लुक्' । हे दीदिवः दीप्यमान जिगीषन्वा । दिवेर्लिटः क्वसुरादेशः, 'तुजादीनाम्' इत्यभ्यासस्य दीर्घत्वम् । तं त्वां तादृशमन्तिकतमत्वादिगुणविशिष्टं त्वां सुम्नाय धनाय सुखाय वा ईमहे याचामहे । नूनमिति पादपूरणे निश्चये वा । यद्वा - नूनं नूतनं अभूतपूवं तं त्वां सखिभ्यः समानख्यानेभ्यः सुहृदयसुहृद्भ्यः । 'क्रियाग्रहणं कर्तव्यम्' इति कर्मणस्सम्प्रदानत्वात्सुम्नायेति चतुर्थी ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 
@@ -135,10 +132,7 @@ So bitten wir dich, du Glühendster, Glanzvoller, jetzt um Wohlwollen für uns F
 Denn dich, o hellster, leuchtender, begehren wir zum Heil nun für die Freunde.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

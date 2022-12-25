@@ -145,10 +145,7 @@ Dies an Herrlichkeit herrliche möge hohen Ruhm auf Ruhm häufen im Feindekampf.
 Es möge herrlich dir an Glanz zum Ruhme dir noch höhern Ruhm verleihen in der Feindesschlacht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

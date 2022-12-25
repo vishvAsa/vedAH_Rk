@@ -200,10 +200,7 @@ Alsbald nachdem sie aufs neue die Freundschaft der Jungfrau erlangt hatten, besc
 Schnell zu des Mädchens Genossenschaft kommend beeilten sie den rechten Samen, wie ein Geschenk (?), als sie dir als glänzende Gabe huldigend darbrachten die Milch der Göttertrank strömenden Kuh.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

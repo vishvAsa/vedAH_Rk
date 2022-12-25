@@ -133,10 +133,7 @@ Den Vielgerufenen, Vielgepriesenen, Tonangebenden, den seit alters Berühmten ne
 Der vielgerufen, vielgelobt, Gesänge leitet weitberühmt, »Das, das ist Indra« also sprecht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

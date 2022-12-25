@@ -146,10 +146,7 @@ Dieses Pavamana´s Vorschriften sind von keinem Übelgesinnten anzutasten. Zersc
 Kein Bösewicht kann widerstehn den Werken dieses flammenden; Wer dich befeindet, den zerbrich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

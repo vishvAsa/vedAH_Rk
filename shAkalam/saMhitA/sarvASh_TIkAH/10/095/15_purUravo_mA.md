@@ -213,10 +213,7 @@ Pururavas, du sollst nicht sterben, nicht davonlaufen; nicht sollen dich die bö
 »Purūravas, nicht sollst du sterben, nicht davon eilen, nicht sollen dich unheilvolle Wölfe verzehren.« Ach es gibt keine dauernde Freundschaft mit den Weibern, ihre Herzen sind Herzen der Wölfe.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

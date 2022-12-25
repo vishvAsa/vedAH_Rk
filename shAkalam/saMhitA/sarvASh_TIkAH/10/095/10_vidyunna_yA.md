@@ -214,10 +214,7 @@ Die wie ein fallender Blitz aufblitzte und mir Liebesgüsse brachte - aus der Fe
 Sie, welche wie ein herabstürzender Blitz leuchtete, brachte mir die begehrungswerthe Feuchtigkeit, und aus dem Nass wurde geboren ein edler Knabe; langes Leben möge Urvaçī verleihen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

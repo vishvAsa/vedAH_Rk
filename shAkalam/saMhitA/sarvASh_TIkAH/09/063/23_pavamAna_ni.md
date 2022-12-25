@@ -153,10 +153,7 @@ O Soma Pavamana, du ergießest ruhmbringenden Reichtum. Geh als Liebling in den 
 Du träufelst rühmenswerthen Schatz herab, o Soma, flammender, Geh ein, du lieber, in das Meer.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

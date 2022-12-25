@@ -133,10 +133,7 @@ Von den Marut begleitet trink du, belohnender, ratreicher Indra, den Soma bei di
 Den Soma mit den Maruts trink, o Indra, gnädig, thatenreich, Bei diesem Opfer hochgelobt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

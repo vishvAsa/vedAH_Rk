@@ -162,10 +162,7 @@ Läutere du dich als Feindevernichter, dessen berauschenden scharfen Saft sie mi
 Du, dessen starkes Rauschgebräu sie mit den Steinen melken aus, Die Feinde schlagend flammenhell.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

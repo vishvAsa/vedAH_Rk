@@ -219,10 +219,7 @@ Diese sollen ihre Rede anheben, wir wollen unsere Rede anheben. Haltet eine Rede
 Sie sollen singen, wir auch wollen singen nun; den Steinen singet euer Lied, den singenden, Wenn ihr gewalt'ge, schnelle Felsen im Verein dem Indra Soma bringend Sang und Klang erhebt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

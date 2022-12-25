@@ -142,10 +142,7 @@ Entgeh, o Soma, wenn du dich läuterst, allen Fährlichkeiten! Du, der Weise, se
 O Soma, flammend rieselnder, dring siegreich hin durch alle Noth Und setz dich, weiser, auf die Streu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

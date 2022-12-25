@@ -162,10 +162,7 @@ Rinne du für Indra zum Trank über die Schafhaare und setze dich auf deinen Pla
 So fliess dem Indu denn zum Trunk durchs Widderhaar und setze dich Auf deinen Sitz, das Holzgefäss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

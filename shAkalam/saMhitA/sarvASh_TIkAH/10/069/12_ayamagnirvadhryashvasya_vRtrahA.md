@@ -202,10 +202,7 @@ Dies ist des Vadhryasva Agni, der Feindetöter, der vor alters entzündete, dem 
 Des Vadhriaçva Feindbezwinger war er von je entflammt voll Demuth angerufen, So tritt zu Boden, Agni Vādhriaçva, die Feinde uns, verwandte, unverwandte.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

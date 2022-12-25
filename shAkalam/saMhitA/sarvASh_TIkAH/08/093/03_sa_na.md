@@ -158,10 +158,7 @@ Dieser liebe Freund Indra möge uns eine Menge Rosse, Rinder, Korn milchen wie e
 Indra, ergiesst als holder Freund, wie eine Kuh, die reichlich strömt, Uns Gut an Gerste, Ross und Rind.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

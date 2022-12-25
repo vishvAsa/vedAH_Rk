@@ -158,10 +158,7 @@ Der Saft entsendet seine Stimme, da er den Siegerpreis gewinnen will, der preisg
 Der Sänger Indu sendet Kraft, der gerne schenkt und Kraft verleiht, Der Thaten uns und Waffen schafft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

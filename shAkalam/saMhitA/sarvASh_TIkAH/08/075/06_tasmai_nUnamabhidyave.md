@@ -142,10 +142,7 @@ Beeile jetzt, o Virupa, das Loblied auf diesen himmlischen Bullen durch eigene R
 Beeile diesem Stiere nun dem Himmelsstürmer Lobgesang, Virupa, siegend fort und fort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

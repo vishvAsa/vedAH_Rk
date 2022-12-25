@@ -150,10 +150,7 @@ Dir riefen die zehn Frauen zu wie ein Mädchen ihrem Buhlen. Du wirst geputzt, o
 Zehn Jungfraun jauchzten jetzt dir zu, gleichwie dem Bräutigam die Braut, Sie läutern, Soma, dich um Gunst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

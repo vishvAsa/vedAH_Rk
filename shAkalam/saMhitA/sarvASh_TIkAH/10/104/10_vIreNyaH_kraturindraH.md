@@ -210,10 +210,7 @@ Indra muß man als seinen Meister wünschen, er ist der gepriesenen Rat. Auch di
 Gewaltig, mannhaft, preisenswerth ist Indra, und auch die Lippe preist den vielgerufnen; Er drängte fort den Vritra, schaffte Raum uns; der starke schlug die Heere überwindend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

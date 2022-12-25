@@ -151,10 +151,7 @@ Läutere dich als Führer des Worts, o Soma, mit deinen wunderbaren Hilfen, um a
 Mit reichen Hülfen riesle du, des Liedes Führer, Soma, uns Die Dichtergaben alle zu.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

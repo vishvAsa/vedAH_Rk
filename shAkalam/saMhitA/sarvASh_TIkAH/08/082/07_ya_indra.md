@@ -165,10 +165,7 @@ Der für dich in den Bechern ist, der in den Camugefäßen gepreßte Soma, von d
 Den Soma, der in Bechern steht, in Schalen, Indra, dir gepresst, Den trinke, dir gehört er an.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

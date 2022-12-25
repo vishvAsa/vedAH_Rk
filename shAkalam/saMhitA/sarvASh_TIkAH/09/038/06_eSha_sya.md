@@ -151,10 +151,7 @@ Derselbige zum Trunke ausgepreßte Falbe rinnt ausdauernd brüllend auf seine li
 Und er zum Trunk erzeugt, der Hengst, der goldne, starke rennt dahin, Anwiehernd den geliebten Sitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

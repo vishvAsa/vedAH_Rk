@@ -170,10 +170,7 @@ Läutere dich, Soma, Rinder, Rosse, alles ersiegend, Erfreuliches ersiegend! Bri
 O Soma riesle, Rind und Ross gewinnend, alles, was erfreut, Bring kinderreichen Schatz herbei.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

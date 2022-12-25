@@ -137,10 +137,7 @@ Du besteigst nach Roß und Rind verlangend des Himmels Rücken, o Soma, nach Man
 Du steigst empor zur Himmelshöh, nach Rossen, Rindern, Heldenschar Begierig, Soma, Herr der Kraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

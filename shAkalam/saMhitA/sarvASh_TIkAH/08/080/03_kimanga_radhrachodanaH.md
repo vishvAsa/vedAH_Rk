@@ -163,10 +163,7 @@ Bist du denn wirklich der Ermutiger des Schwachen, der Helfer des Pressenden? Ge
 Bist du des Matten Stärker nicht, des Somapressers Helfer nicht? Gewiss du Indra bist uns hold.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

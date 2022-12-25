@@ -204,10 +204,7 @@ Haltet Krankheit ab, allen Mangel an Opfern ab, die unzugängliche Mißgunst des
 Verjagt die Krankheit, jede Opferlässigkeit, verjagt des Bösen frevelhafte Uebelthat, O Götter, jaget weit von uns hinweg den Hass und breitet euer Schirmdach über uns zum Heil.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

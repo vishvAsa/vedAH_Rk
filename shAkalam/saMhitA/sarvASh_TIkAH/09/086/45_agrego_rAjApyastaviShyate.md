@@ -208,10 +208,7 @@ Vorangehend zeigt der im Wasser wohnende König seine Stärke, der Ausmesser der
 Der Fluten König, führend sie, erweist sich stark, die Tage messend, in die Wesen eingefügt; Das schöne Ross, das wallende mit Fett bedeckt, den Lichtschein fahrend, strömt als Hausherr reiches Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

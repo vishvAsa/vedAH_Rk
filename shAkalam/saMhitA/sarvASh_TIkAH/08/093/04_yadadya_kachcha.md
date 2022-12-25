@@ -191,10 +191,7 @@ Worüber auch immer du heute aufgegangen bist, du Vritratöter, du Surya, das al
 Wohin du feindetödtend heut, o Sonne, aufgegangen bist, Das, Indra, ist in deiner Macht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

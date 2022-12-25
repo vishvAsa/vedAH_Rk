@@ -217,10 +217,7 @@ Bei dem ausgepreßten Opfer haben sie ihre Stimme erhoben, wie spielende Kinder 
 Beim Opfersafte haben lustig sie geschrien, die Mutter stossend wie beim Spiel die Kinder; Mach, Soma, frei des Kelterers Gebete, die hehren Steine mögen rings sich tummeln.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -159,10 +159,7 @@ Auch von ferne sollen dich, du Herr des Preßsteins, unsere Lobreden erreichen; 
 Auch aus der Fern' o Schleuderer erreich' dich unser Lieder Schall; Wir mögen kommen dir zu pass.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

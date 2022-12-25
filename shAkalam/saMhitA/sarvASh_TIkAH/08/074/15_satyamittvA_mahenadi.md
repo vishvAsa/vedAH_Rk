@@ -177,10 +177,7 @@ Die Wahrheit versichere ich dir, du großer Strom Parusni: nicht gibt es einen S
 Wahrheit will ich dir verkünden, o grosser Strom Paruschni. Es gibt, o ihr Wasser, keinen Sterblichen, der mehr Rosse schenkt als Çavischtha.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

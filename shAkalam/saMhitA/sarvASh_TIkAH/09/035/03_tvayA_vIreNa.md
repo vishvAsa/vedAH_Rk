@@ -145,10 +145,7 @@ Mit dir, dem Helden, du Heldenbegleiter, wollen wir die Angreifer bestehen. Flie
 Lass du, o heldenreicher Held, die Feinde uns bewältigen Und ström uns schönes Gut herbei.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

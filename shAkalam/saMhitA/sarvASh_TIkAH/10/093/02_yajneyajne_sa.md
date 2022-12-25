@@ -152,10 +152,7 @@ Bei jedem Opfer hält der Sterbliche die Götter in Ehren, der recht weithin ver
 Bei jedem Opfer verehrt derjenige Sterbliche die Götter, welcher, am weitesten sich hören lassend, sie durch Preislieder herbeilockt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

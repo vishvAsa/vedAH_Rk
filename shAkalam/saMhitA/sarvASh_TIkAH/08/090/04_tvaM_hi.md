@@ -202,10 +202,7 @@ Denn du, Gabenreicher, der Wahrhafte, Ungebeugte, zwingst viele Feinde. Bring, M
 Denn du bist wahrhaft ungebeugt, o mächtiger, und viele Feinde streckst du hin; So bring', o stärkster, Gut dem Frommen nah herbei, der in der Hand den Blitz du trägst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

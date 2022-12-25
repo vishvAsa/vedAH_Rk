@@ -236,10 +236,7 @@ Ich will ihm Rede stehen, wenn er die Tränen rollen läßt. Wie ein schreiendes
 »Ich will dir antworten; mag er auch Thränen vergiessen, nicht wird er weinen, gedenkend [meiner] heilsamen Pflege; ich werde dir [einst] zusenden das, was du bei uns hast; gehe nach Hause; denn nicht, o Thor, wirst du mich erlangen.«
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -157,10 +157,7 @@ Denn ihr seid ja die Gabenschönen mit Indra an der Spitze, die Himmlischen. Und
 Ja, ihr von Indra angeführt bewohnt den Himmel gabenreich, darum auch rufe ich euch an.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

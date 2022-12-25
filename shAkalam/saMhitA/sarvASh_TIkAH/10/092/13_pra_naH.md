@@ -219,10 +219,7 @@ Pusan, der allen Göttern Befreundete, soll unsere Schritte fördern, Apam Napat
 Mit allen Göttern fördre Puschan unsern Gang, der Sohn der Fluten, Vaju helf uns zum Genuss, Den Hauch, den Wind besingt zu höherm Glücke euch, hört gerngerufne Ritter dies auf eurer Fahrt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

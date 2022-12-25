@@ -167,10 +167,7 @@ Davor sei mir Bewahrung! Der Vritratöter hat seine Manneskraft erwiesen, er dem
 Auch da war er Beschützer mir, und Kraft erwies der Vritrafeind, Unwiderstehlich, unbesiegt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

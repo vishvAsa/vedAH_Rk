@@ -134,10 +134,7 @@ Dieser Gott über alle Götter läutert sich unter altgewohnter Andacht in Strö
 Er rieselt hell im alten Geist, ein Gott er, von den Göttern her Im Strome flammt er ausgepresst.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

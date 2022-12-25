@@ -199,10 +199,7 @@ Denen die Mutter süße Milch quillt, die felsenfeste Himmels-Aditi ihren Rahm, 
 Sie, die die Mutter reichlich tränkt mit süssem Trank, mit Milch der Himmel, unbegrenzt und felsenfest, Die spruchumrauschten, reichen, Männer hegenden Aditja's will zum Heil begrüssen jubelnd ich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -158,10 +158,7 @@ Denn du, Vritratöter, bist der Trinker dieser Soma´s; komm mit den Falben zu u
 Denn du, o Vritratödter, bist's, der diese Somasäfte trinkt, Mit Füchsen komm zu unserm Trank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

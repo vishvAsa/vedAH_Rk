@@ -160,10 +160,7 @@ Alle Güter hole für uns ein mit deiner Kraft, uns zugetan! Schirme unseren mä
 Behütend geh, uns holdgesinnt, mit Kraft um alle Güter uns, Schirm unser männerreiches Haus.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

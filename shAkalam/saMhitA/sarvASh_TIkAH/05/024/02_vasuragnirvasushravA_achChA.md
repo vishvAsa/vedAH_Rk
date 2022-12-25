@@ -101,10 +101,7 @@ rayím ← rayí- ~ rāy- (nominal stem)
 **वसुः** वासकः **अग्निः** सर्वेषामग्रणीः **वसुश्रवाः** व्याप्तान्नस्त्वम् **अच्छ** आभिमुख्येन **नक्षि** अस्मान् व्याप्नुहि **द्युमत्तमम्** अतिशयेन दीप्तिमन्तं **रयिं** पश्वादिलक्षणं धनं **दाः** अस्मभ्यं देहि ॥
 </details>
 
-<details><summary>Wilson</summary>
 
-### English translation:
-</details>
 
 <details><summary>Jamison Brereton</summary>
 
@@ -131,10 +128,7 @@ Gut ist Agni, von gutem Rufe. Komm herbei, schenk uns glänzendsten Reichtum!
 Als guter Agni, Gut-berühmt, komm her und gib uns allerschönsten Reichthum.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

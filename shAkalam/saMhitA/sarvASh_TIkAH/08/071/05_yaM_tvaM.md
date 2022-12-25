@@ -179,10 +179,7 @@ Wen du, beredter Agni, zum Gewinn aneiferst, wenn es sich um die Meisterschaft h
 Welchem, Weiser du, beim Wettkampf hilfst, dass er den Preis erringe, Der gelangt durch dich zu Rindern.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

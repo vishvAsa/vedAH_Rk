@@ -229,10 +229,7 @@ Deine Ströme gehen über die Schafhaarseihe, deine raschen Fahrten gehen ununte
 Ununterbrochen eilen deine Ströme vor, des Flammers Fluten durch der Wolle Rinnen hin; Wenn du mit Milch gesalbt wirst in dem Becherpaar, nimmst Soma du gepresst, in Kufen deinen Sitz.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -161,10 +161,7 @@ So schirr denn wie der Wagenlenker deine Rosse an, die die Götter am besten lad
 Schirr Agni wie ein Fuhrmann dir die Rosse an zur Götterfahrt, Als erster Priester setze dich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

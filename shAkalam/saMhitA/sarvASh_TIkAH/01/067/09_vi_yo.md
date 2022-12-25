@@ -153,10 +153,7 @@ Der in den Pflanzen mächtig wächst, sowohl das neugeborene Kind, als in den be
 Der in den Pflanzen – mit Kraft emporwuchs, und in den Völkern – und in den Müttern; Der Wasser kundig – im Haus erquickend; ihm machten Weise – den Sitz ermessend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

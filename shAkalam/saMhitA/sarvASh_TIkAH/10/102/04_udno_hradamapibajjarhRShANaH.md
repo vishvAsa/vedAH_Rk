@@ -194,10 +194,7 @@ Er trank erregt einen See von Wasser aus; die Holzkeule ging den feindlichen Ans
 Der muntre Stier trank einen See voll Wassers, zerschmetternd drang sein Horn dem Feind entgegen; Der Hodenträger, Ruhm begehrend, streckte behend die Füsse vor nach Beute strebend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -229,10 +229,7 @@ Wahrlich nicht halten sie mich in der Umklammerung auf, auch nicht die Berge, we
 In tiefer Schlucht auch kann mich niemand hemmen, nicht hohe Berge hindern meine Pläne; Vor meinem Toben bebet selbst der taube, ja, täglich fliegt auf meiner Bahn der Staub auf.«
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

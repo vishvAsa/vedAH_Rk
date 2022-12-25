@@ -199,10 +199,7 @@ Ein Sänger, der die Gedanken erfüllt, ist die Hilfe aller. Indra ist die gute 
 Ein Sänger, der den Geist erfüllt und allen hilft, ist Indra, und der gütig für den Opfrer sorgt, Sein Himmels-Euter ist zum Giessen angefüllt; für uns erflehn wir unvergänglich Wohlergehn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

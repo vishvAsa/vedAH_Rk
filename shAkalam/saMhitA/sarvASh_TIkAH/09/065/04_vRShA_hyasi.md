@@ -144,10 +144,7 @@ Denn du bist ein Bulle; dich, den im Glanze Strahlenden rufen wir wohlgesinnt an
 Du bist an Strahlen ja ein Held, drum rufen wir dich glänzenden, O flammender, an Andacht reich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

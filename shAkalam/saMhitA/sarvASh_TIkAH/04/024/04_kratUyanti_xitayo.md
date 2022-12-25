@@ -221,10 +221,7 @@ Die Völker sinnen auf Kriegsfahrt, du Gewaltiger, gegenseitig sich aneifernd zu
 Die Völker mühn sich bei dem Werk, o Starker, im Kampfgewühle aufeinander schnaubend; Wenn handgemein der Streiter Scharen wurden, dann wirken diese Indra-gleich im Treffen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

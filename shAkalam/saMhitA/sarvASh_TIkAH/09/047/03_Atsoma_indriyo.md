@@ -161,10 +161,7 @@ Und Soma, der indrische Saft, wird zur tausendgewinnenden Keule, wenn das Preisl
 Wenn ihm das Loblied wird erzeugt, dann wird des Indra Somatrank Ein Blitz, der tausend Güter schenkt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -149,10 +149,7 @@ Ihn machen alle unsere gunstheischenden Lobreden in alter Weise schön, den Saft
 All unsre Lieder schmücken ihn, Huld suchend wie in alter Zeit, Zum Trunk dem Indra, Indu ihn.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

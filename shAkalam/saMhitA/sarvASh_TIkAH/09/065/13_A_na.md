@@ -159,10 +159,7 @@ Läutere uns, o Saft, hohen Genuß zu, du der Allgesehene uns, Soma, als der Pfa
 O Indu, riesle reichen Trunk uns zu, der du allsichtbar bist, O Soma, Wohlfahrt schaffend uns.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -228,10 +228,7 @@ Also sagen dir diese Götter, o Sohn der Ila: Da du nun einmal ein Todesgenosse 
 »So sprechen zu dir die Götter hier, o Sohn der Idā: Wie du dort ein Todesgenosse bist, so soll dein Geschlecht die Götter mit Opfertrank ehren; du aber sollst im Himmel (svargé) selig sein.«
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

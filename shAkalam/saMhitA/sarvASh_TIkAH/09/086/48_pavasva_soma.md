@@ -247,10 +247,7 @@ Läutere dich, Soma, uns Rat findend, preislich, lauf in dem Schafhaar um als li
 O Soma, riesle Kraft uns zu, gepriesener! und ströme durch die Widderwolle, lieber Meth! Die Fresser und Gespenster alle, Indu, triff, wir mögen laut beim Feste singen heldenreich.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -185,10 +185,7 @@ Diesen meinen Lobgesang auf die Herren, der von glänzender Auffahrt ist, sollen
 Dies mein Lob der Männer [der Götter?], das wie in stetigem Laufe auf glänzender Bahn zur Sonne dringt, haben sie wohlbefestigt, wie der Zimmermann ein nicht abzuschüttelndes Joch der Rosse.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

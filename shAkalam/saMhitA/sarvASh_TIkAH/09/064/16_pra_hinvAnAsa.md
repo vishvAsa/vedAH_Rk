@@ -149,10 +149,7 @@ Die Somasäfte, die Renner, wurden, zur Eile getrieben, zum Meere losgelassen, d
 Die schnellen Rosse, angespornt, sind zu dem Meere vorgeströmt, Die Indu's, durch Gebet beeilt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

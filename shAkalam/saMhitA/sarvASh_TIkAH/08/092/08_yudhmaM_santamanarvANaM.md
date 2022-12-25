@@ -140,10 +140,7 @@ Der der unerreichte Kämpfer ist, den unentwegten Somatrinker, den Herrn, der si
 Den Kämpfer, der unnahbar ist, ein Somatrinker nimmersatt, Ein Mann von unbezwungner Kraft.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

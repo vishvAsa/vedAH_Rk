@@ -162,10 +162,7 @@ Der du uns schon früher immer wieder beigestanden hast, für die Lohngewinnung 
 Der du uns stets geholfen hast zur Preisgewinnung, eifervoll, Du, Indra, sei uns holdgesinnt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

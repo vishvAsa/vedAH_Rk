@@ -165,10 +165,7 @@ Auf ihn stimmet das Lied an, auf Indra, daß er den Soma trinke, denn das ist se
 Besinget diesen Indra nun, begleitend seinen Somatrunk Denn das ist seine Labung ja.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

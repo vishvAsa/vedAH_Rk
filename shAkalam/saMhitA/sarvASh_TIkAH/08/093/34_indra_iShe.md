@@ -156,10 +156,7 @@ Indra soll uns zur Erlabung einen Schatz schenken, der wie Ribhuksan der erste i
 Es gebe Indra uns zum Heil, Ribhukschan, Ribhu, Vadscha uns labungsreiches Gut.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

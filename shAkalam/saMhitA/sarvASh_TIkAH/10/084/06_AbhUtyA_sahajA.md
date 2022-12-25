@@ -206,10 +206,7 @@ Mit dem Erfolg zugleich geboren, du Indrakeule, Geschoß, besitzest du, Überleg
 Entsandter Blitz! mit Tüchtigkeit geboren schon besitzest, übermächt'ger, du die höchste Kraft; Mit deiner Kraft, o Manju, sei Genosse uns, o vielgerufner, im Zusammenstoss der Schlacht.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

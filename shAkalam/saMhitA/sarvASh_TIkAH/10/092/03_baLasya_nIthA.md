@@ -223,10 +223,7 @@ Wahrhaftig, wir wissen zwischen seinen Weisen und denen des Pani zu unterscheide
 Wir sondern traun sein Wesen und des Geizigen, begossen waren seine Aeste zum Genuss; Als die erhabnen drangen zur Unsterblichkeit, da, da gedachte rühmend man des Göttervolks.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

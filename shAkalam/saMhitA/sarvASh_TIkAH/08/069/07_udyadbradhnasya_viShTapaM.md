@@ -191,10 +191,7 @@ Wenn ich und Indra, wir beide, nach Hause zur Höhe der Sonne hinaufsteigen, so 
 Wenn zu des lichten Rosses Haus und Stätte Indra geht mit mir, So bleiben nach des Soma Trunk, drei Wochen wir an Freundes Ort.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

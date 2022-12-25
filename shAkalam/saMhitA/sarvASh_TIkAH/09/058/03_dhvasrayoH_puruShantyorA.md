@@ -154,10 +154,7 @@ Von Dhvasra und Purusanti empfangen wir Tausende. - Er gelange über das Wasser,
 Von den beiden, Dhvasra und Puruschanti haben wir tausende empfangen.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

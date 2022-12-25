@@ -153,10 +153,7 @@ Was, o Ratreicher, dein erleuchtetster Rausch jetzt ist, Indra, mit dem berausch
 Welch wirkungsreichster Rausch dir je o thatenreichster Indra ist, Mit dem berausch dich nun beim Trunk,
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

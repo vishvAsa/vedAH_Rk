@@ -147,10 +147,7 @@ Geputzt sind die langlebigen Säfte ausgelassen zum Meere gegangen nach ihrem or
 Die Indu's, die gereinigten, die schnellen, sind voll Lust zum Meer Gegangen in des Opfers Schooss.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

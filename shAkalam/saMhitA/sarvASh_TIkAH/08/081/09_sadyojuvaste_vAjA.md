@@ -151,10 +151,7 @@ Deine allschimmernden Belohnungen beeilen sich alsbald für uns, und werden von 
 Deine reichgeschmückten Gaben kommen zu uns her in Eile, Durch Gebete nahen schnell sie.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

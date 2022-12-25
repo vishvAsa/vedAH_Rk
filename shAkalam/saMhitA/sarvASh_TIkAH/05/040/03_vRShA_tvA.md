@@ -153,10 +153,7 @@ Als Bulle rufe ich nach dir, dem Bullen, du Keulenträger, mit deinen wunderbare
 Dich ruf' ich an, der Stier den Stier, o Blitzer, an Genüssen reich, O Indra, Stier, mit Stieren Vritratödtendster.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

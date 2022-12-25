@@ -218,10 +218,7 @@ Wenn der Sterbliche, nach diesen Unsterblichen lüstern, sich mit den Gesellscha
 Wenn der Sterbliche mit den unsterblichen Weibern kosend sich mit den flutenden wie aus eigener Lust (?) mischt, dann schmücken sie ihre Leiber wie Tauchenten, wie lustige Rosse einander beissend.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

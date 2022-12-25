@@ -150,10 +150,7 @@ Für jeden, daß er die Sonne sehe, brachte der Vogel als gemeinsamen Besitz den
 Dass jeder recht die Sonne schau, so bracht' der Aar den Schirm des Rechts, Der alles schützt, die Luft durchdringt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

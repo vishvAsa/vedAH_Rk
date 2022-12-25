@@ -208,10 +208,7 @@ Den Agni loben wir, daß er die Feindschaft von uns fernhalte, den Agni, daß er
 Den Agni flehn wir, fortzutreiben unsern Feind, ihn, dass er gebe Heil und Glück, Den man als Helfer rufen muss in jedem Haus, er sei Entflammer hellen Lichts.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

@@ -158,10 +158,7 @@ Indra, bleibe fest; du bist eine Burg! Als Schöne geht diese Dichtung zu deinem
 Sei stark, du Indra, eine Burg, zu dir hin eilet dies Gebet, Das regelrechte, glänzende.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

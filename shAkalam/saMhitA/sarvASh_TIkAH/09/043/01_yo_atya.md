@@ -155,10 +155,7 @@ Der wie ein Rennpferd geputzt wird mit der Milch zur Berauschung, der Begehrensw
 Der wie ein Ross gereinigt wird mit Milch zum Rausch, der liebliche, Ihn hüllen wir mit Liedern ein.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

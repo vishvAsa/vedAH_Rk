@@ -160,10 +160,7 @@ Der doppelt, als der Erzfeindetöter und als der ratreiche Indra, bekannt ist, k
 Der als der Feind vertilgende sich, Indra, reich an Thaten zeigt, Mit Füchsen komm zu unserm Trank.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

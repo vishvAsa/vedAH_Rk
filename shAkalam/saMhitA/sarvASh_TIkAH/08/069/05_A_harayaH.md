@@ -133,10 +133,7 @@ Die Falben sind auf die roten Kühe auf dem Barhis losgelassen, wobei wir in das
 Die goldigen ergossen sich, die Flammenrosse auf die Streu, Wo wir lobsingen allesammt.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 

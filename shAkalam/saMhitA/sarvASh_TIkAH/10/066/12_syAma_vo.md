@@ -206,10 +206,7 @@ Wir Menschen wollen für euch zur Götterladung bereit sein. Geleitet unser Opfe
 Wir Menschen seien Freunde euch zum Göttermahl, und unser Opfer führet grade hin zum Ziel, Aditja's, Rudra's, Vasu's, gabenreiche ihr, belebet die Gebete, die wir sprechen hier.
 </details>
 
-<details><summary>Elizarenkova</summary>
 
--ru-
-</details>
 
 
 
