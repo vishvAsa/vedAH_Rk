@@ -194,6 +194,24 @@ yamáḥ ← yamá- (nominal stem)
 श्मशाने पूर्वं स्थिता हे पिशाचादयः **अतः** अस्मात् प्रसृज्यमानदहनस्थानात् **अपेत** अपगच्छत। **वीत** विशेषेण गच्छत । **वि** सर्पत **च** । इदं स्थानं परित्यज्य नानाभावेन दूरतरं देशं गच्छतेत्यर्थः । **पितरः** **अस्मै** मृतयजमानस्यार्थाय **एतं** **लोकम्** इदं दहनस्थानम् **अक्रन्** । यमस्याज्ञयान्वकुर्वन् । **यमः** अपि **अहोभिः** दिवसैः **अद्भिः** अभ्युक्षणोदकैः **अक्तुभिः** रात्रिभिः **व्यक्तं** संगतम् । शुद्धिनिमित्तैः कालोदकादिभिः शोधितमित्यर्थः । **अवसानं** दहनस्थानम् **अस्मै** मृतयजमानस्यार्थाय **ददाति** दत्तवान् ॥
 </details>
 
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You all go away, depart, and creep away from here. It is for him the manes fashioned this world. Furnished with days, with waters, and nights.  
+Yama gives a resting place for him.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+It evidently refers to the realm of the dead that yama confers on the yajamAna who has himself become a samidh in the antyeShTi. 
+
+The YVs have a distinct version of this incantation. Here yama is said to give him a piece of the earth [for establishing the altar] as indicated in the brAhmaNa. Both incantations mention some unnamed entities who are called upon to leave. This is evidently an allusion to the agents of yama -- that becomes clear with the yajus context where yama is said to cover the entire earth with death. Those death-dealing agents of yama are evidently being asked to leave the spot for the yajamAna in the piling of the altar & the place of the funeral (where the mourners have assembled) in the case of the funerary rite. 
+
+Indeed, the funerary ritual mentions that before a yajamAna attains the H Elysium he will have to outrun the two dogs of yama & see two kings: yama and varuNa.
+</details>
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
