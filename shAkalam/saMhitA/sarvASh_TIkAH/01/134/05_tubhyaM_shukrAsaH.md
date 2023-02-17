@@ -224,6 +224,24 @@ pāsi ← √pā- 1 (root)
 हे वायो **तुभ्यं** त्वदर्थं **शुक्रासः** दीप्ताः **शुचयः** शुद्धाः । सोमस्य पातारोऽत्यन्तं शुद्धा भवन्ति । किमु वक्तव्यं तेषां शुद्धत्वे। **तुरण्यवः** त्वरणयुक्ताः त्वां प्राप्तुं **उग्राः** उद्गूर्णतेजसः सोमाः **मदेषु** तव मदेषु निमित्तभूतेषु **भुर्वणि** भरणवति यागे **इषणन्त** आहवनीयं प्रति गच्छन्ति इच्छन्ति वा ॥ व्यत्ययेन आत्मनेपदम् । शश्नमौ द्वौ विकरणौ ॥ किंच अपां **भुर्वणि** मेघे **इषन्त** उदकमिच्छन्ति उत्पादयितुम् । अग्नौ हूयमानस्य आहुतेरादित्यद्वारा वृष्ट्युत्पादकत्वात् । यद्वा । यजमानाः त्वामुद्दिश्य आजुह्वाना अपां वर्षणम् इषन्त इच्छन्ति। किंच हे वायो **भगं** भजनीयं **त्वां** **त्सारी** त्सरणवान् अत्यन्तभीतः **दसमानः** उपक्षीणो यज्ञविघातकैः पयोव्रतादिनियमैर्वा यजमानः **तक्ववीये** तस्कराणां यज्ञविघातिनाम् अन्यत्र गमनाय **ईट्टे** स्तौति ॥  ‘ ईड स्तुतौ '। अदादित्वात् शपो लुक् ॥ यतः **त्वं** **विश्वस्माद्भुवनात्** सर्वस्माल्लोकात् भूतजाताद्वा लोकत्रयसंबन्धिनो भयात् **धर्मणा** अस्मदीयहविषां धारणेन **पासि** पालयसि । किंच **असुर्यात्** असुरसंबन्धिनो भयात् विशेषेण **पासि** **धर्मणा** अस्मद्धारणेन पोषणेन वा युक्तः सन् । यत एवं करोषि अतः स्तौमीत्यर्थः ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+For you the shining, pure, swift, formidable [soma] libations,  
+flowing as ripples [even as] the waves rippling on water .  
+You (accusative) the stealthy, tiring warrior invokes for luck in his rapid chase  
+You drink before every being [ordained] by the dharma of your asura-hood, you drink [as ordained] by the dharma.
+</details>
+
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Here we may take this dharman, which is described as stemming from Vāyu’s asura-hood, as a signal of his primacy. Moreover, his refreshing the stealthy warrior [perhaps as a zephyr] in his chase reminds one of the Hanumat refreshing the crestfallen Vānara-s in their pursuit when reminded by the old bear Jāmbavant of his Vāyu-hood. 
+
+Also note the word takvavīye derived from takva-vī [falcon], literally meaning the falcon-chase suggesting that the Aryan-s hunted with falcons like other steppe people after them. The word vI: it is a cognate of avis in Latin i.e. bird, which is of PIE provenance. It occurs in the R^igveda in context of hunt or chase under derived word takva-vIye, from takva-vI (falcon)meaning chase with falcon.  
+
+This is earliest textual evidence for hunting with falcon/eagle suggesting that it was 1st initiated by IEans on the steppe& later continued by other steppe peoples as still seen in today's Mongolia.
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
