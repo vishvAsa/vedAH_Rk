@@ -158,7 +158,7 @@ uccárantam ← √carⁱ- (root)
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे **इन्द्र** **पुमांसं** पुंरूपधारिणं **यातुधानं** राक्षसं **जहि** मारय । **उत** अपि च **मायया** वञ्चनया **शाशदानां** हिंसन्तीं **स्त्रियं** राक्षसीं च जहि । अपि च मूरदेवाः मारणक्रीडा राक्षसाः **विग्रीवासः** विच्छिन्नग्रीवाः सन्तः **ऋदन्तु** नश्यन्तु । **ते** तथाविधा राक्षसाः **उच्चरन्तम्** उद्यन्तं **सूर्यम्** आदित्यं **मा** **दृशन्** मा द्राक्षुः ॥
+हे **इन्द्र** **पुमांसं** पुंरूपधारिणं **यातुधानं** राक्षसं **जहि** मारय । **उत** अपि च **मायया** वञ्चनया **शाशदानां** हिंसन्तीं **स्त्रियं** राक्षसीं च जहि । अपि च **मूरदेवाः** मारणक्रीडा राक्षसाः **विग्रीवासः** विच्छिन्नग्रीवाः सन्तः **ऋदन्तु** नश्यन्तु । **ते** तथाविधा राक्षसाः **उच्चरन्तम्** उद्यन्तं **सूर्यम्** आदित्यं **मा** **दृशन्** मा द्राक्षुः ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -190,7 +190,7 @@ This excursion into exotic anthropology seems unlikely to me -- not the sort of 
 <details><summary>Griffith</summary>
 
 Slay the male demon, Indra! slay the female, joying and triumphing in arts of magic.  
-     Let the fools' gods with bent necks fall and perish, and see no more the Sun when he arises.
+Let the fools' gods with bent necks fall and perish, and see no more the Sun when he arises.
 </details>
 
 <details><summary>Geldner</summary>
