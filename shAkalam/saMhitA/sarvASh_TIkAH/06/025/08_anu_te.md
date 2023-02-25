@@ -211,6 +211,10 @@ te ← tvám (pronoun)
 **अनु नृषह्ये**, नृषह्यं नॄणां शत्रूणाम् अभिभवितृत्वम्,  
 सर्वेषां नॄणाम् अयम् अभिभवितेति कृत्वा ।  
 'शकिसहोश्च' इति भावे यत्, पूर्ववद्वितीयाया एकारः, सुषामादित्वात्षत्वम् ॥
+________________
+हे इन्द्र यजत्र यष्टव्य तुभ्यं देवैः ऋत्विग्भ्यः दायि दीयते सामर्थ्याद्धविः । विश्वं कृत्स्नमपि सत्रा सर्तव्येषु यज्ञेषु महदिन्द्रियमनुवीक्ष्य महतेन्द्रियेण तद्वानिति कृत्वा वृत्रहत्यां चानुवीक्ष्य, क्षत्रं धनं सहो बलं चानुवीक्ष्येति ॥
+
+
 </details>
 
 
@@ -238,7 +242,8 @@ To thee for high dominion hath been for evermore, for slaughtering the Vrtras,
 
 To thee hath been assigned for mighty power,  
 For ever, in the slaying of Vrtra,  
-All lordship, and all strength, O thou that art worthy of sacrifice In the overcoming of man, by the gods, O Indra [1].
+All lordship, and all strength, O thou that art worthy of sacrifice  
+In the overcoming of man, by the gods, O Indra [1].
 </details>
 
 

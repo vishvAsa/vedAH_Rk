@@ -173,6 +173,12 @@ víśvasmāt ← víśva- (nominal stem)
 हे **इन्द्राणि** **अहम्** इन्द्रः **सख्युः** मम सखिभूतात् **वृषाकपेर्ऋते** प्रियं वृषाकपिं विना **न** **ररण** न रमे । **अप्यम्** अप्सु भवमद्भिर्वा संस्कृतं **प्रियं** प्रीतिकरम् **इदम्** उपस्थितं **हविः** **देवेषु** देवानां मध्ये **यस्य** ममेन्द्रस्य सकाशं **गच्छति** । यश्चाहम् **इन्द्रः** **सर्वस्मात्** **उत्तरः** । यद्वा । अयमर्थः । हे इन्द्राणि वृषाकपेः सख्युरिन्द्रादृतेऽहं वृषाकपिर्न रारण न रमे। अन्यत्समानम् ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे इन्द्राणि तव सख्युः वृषाकपेः इन्द्रादृते वा मम सख्युः वृषाकपेः आदित्याद्विष्णोर्वा ऋते कञ्चिदपि नाहं रारण न रणामि न कीर्तयामि ततोन्यं न नौमीत्यर्थः । ततोन्येन वा केन चिदपि न रमे । छान्दसो लिट् । तुजादित्वादभ्यासस्य दीर्घत्वम्, 'णलुत्तमो वा' इति वृद्ध्यभावः, रमतेरन्त्यविकारश्छान्दसः । आत्मानं विशिनष्टि - यस्य हविः मम सम्बन्धि हविः अप्यमद्भ्यो हितं, वृष्टिहेतुत्वात् । अप्सु वा भवं सोमपुरोडाशादिकं, तत्कारणत्वात् । छान्दसो यत् । प्रियमिष्टं भूत्वा देवेषु गच्छति सर्वान् देवान् प्राप्नोति । एवं सर्वदेवप्रीणनसमर्थोपि अहं वृषाकपेः ऋते न कञ्चिद्रारण न वा केन चिद्रणे, सखित्वात् । सोहमिदानीं अनेन हविषाराधयामि, अतोस्मत्सेनां संशितां कुर्विति ॥
+</details>
+
+
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
 However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati” – the watery haviṣ might be linked to the carrying of the seed of the gods by Erikepaius. 
@@ -201,6 +207,15 @@ Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of
 Never, Indralni, have I joyed without my friend Vrsakapi,  
      Whose welcome offering here, made pure with water, goeth to the Gods. Supreme is Indra over all.
 </details>
+
+<details><summary>Keith</summary>
+
+I have not joyed, O Indrani,  
+Without my friend Vrsakapi,  
+Whose oblation rich in water  
+Goeth dear to the gods.
+</details>
+
 
 <details><summary>Geldner</summary>
 

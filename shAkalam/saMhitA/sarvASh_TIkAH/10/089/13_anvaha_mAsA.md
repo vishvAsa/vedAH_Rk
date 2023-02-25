@@ -172,6 +172,16 @@ jā́yamānam ← √janⁱ- (root)
 **जायमानं** प्रादुर्भवन्तम् **इन्द्रं** **मासाः** चैत्रादयः **अनु** **अजिहत** अनुगच्छन्ति । **अह** इति पूरणः । **वनानि** अरण्यान्यपीन्द्रम् **अनु** अजिहत । **इत्** इति पूरणः । **ओषधीः** ओषध्योऽपि इन्द्रम् **अनु** गच्छन्ति । **पर्वतासः** पर्वता अपीन्द्रम् **अनु** गच्छन्ति। **वावशाने** कामयमाने **रोदसी** द्यावापृथिव्यावपि **इन्द्रम्** अनु गच्छतः । **आपः** उदकान्यपीन्द्रम् **अनु** गच्छन्ति । मासाद्यधिष्ठातृदेवताः प्रादुर्भवन्तमिन्द्रमनुगच्छन्तीत्यर्थः ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+अहेति पादपूरणे प्रसिद्धौ वा । इदिति समुच्चये । **मासाश्** च **वनानि** च **ओषधीः** ओषधयश्च । पूर्ववत् पूर्वसवर्णदीर्घत्वम् । **पर्वतासः** पर्वताः । पूर्ववद् असुक् ।  
+**रोदसी** रोदस्यौ द्यावापृथिव्यौ च **वावशाने** कामयमाने इन्द्रमेव परस्परं वा । यङ्लुगन्तात्ताच्छीलिकश्चानश्, 'न वशः' इति सम्प्रसारणाभावः ।
+
+**आपश्** चेन्द्रम् एव जायमानम् **अन्वजिहत** अनुजिहते अनुगच्च्छन्ति अनुजायन्ते इत्यर्थः ।
+
+यद्वा - स्वामित्वेन **जायमानम्** इन्द्रम् एवेन्द्रं भजन्ते । छान्दसो लिङ्, 'भृञामित्' इत्यभ्यासस्येत्वम् । स इन्द्र एवम्महाप्रभावः अस्माकं ग्रामं साधयत्विति ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -190,6 +200,15 @@ the two world-halves eagerly gave way to Indra; the waters gave way to  him as h
 Him, verily, the moons, the mountains followed, the tall trees followed and the plants and herbage.  
      Yearning with love both Worlds approached, the Waters waited on Indra when he first had being.
 </details>
+
+<details><summary>Keith</summary>
+
+The months, the woods,  
+The plants, the mountains,  
+The earth and sky in longing,  
+The waters, followed Indra on his birth.
+</details>
+
 
 <details><summary>Geldner</summary>
 
