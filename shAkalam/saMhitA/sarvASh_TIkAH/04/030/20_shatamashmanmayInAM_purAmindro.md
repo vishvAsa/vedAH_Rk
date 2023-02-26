@@ -126,7 +126,7 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 
 <details><summary>Griffith</summary>
 
-For Divodasa, him who brought oblationt, 1ndra overthrew  
+For Divodasa, him who brought oblationt, Indra overthrew  
      A hundred fortresses of stone.
 </details>
 

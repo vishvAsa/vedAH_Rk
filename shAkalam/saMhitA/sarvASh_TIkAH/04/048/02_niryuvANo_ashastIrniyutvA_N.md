@@ -148,7 +148,7 @@ The poet’s playfulness continues. The qualifier niyútvan-, ‘possessing a te
 
 <details><summary>Griffith</summary>
 
-Removing curses, drawn by teams, with 1ndra, seated by thy side,  
+Removing curses, drawn by teams, with Indra, seated by thy side,  
      O Vayu, on refulgent car come to the drinking of the juice.
 </details>
 

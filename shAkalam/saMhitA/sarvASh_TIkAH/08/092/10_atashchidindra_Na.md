@@ -135,7 +135,7 @@ Even from yonder, Indra, drive up close to us with hundred-prized, thousand-priz
 
 <details><summary>Griffith</summary>
 
-Even thence, O 1ndra, come to us with food that gives a hundred powers,  
+Even thence, O Indra, come to us with food that gives a hundred powers,  
      With food that gives a thousand powers.
 </details>
 

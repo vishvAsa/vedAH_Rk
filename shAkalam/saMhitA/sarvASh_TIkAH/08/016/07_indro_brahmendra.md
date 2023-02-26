@@ -138,7 +138,7 @@ great one with great powers.
 
 <details><summary>Griffith</summary>
 
-1ndra is priest and Rsi, he is much invoked by many men,  
+Indra is priest and Rsi, he is much invoked by many men,  
      And mighty by his mighty powers.
 </details>
 

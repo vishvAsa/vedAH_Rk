@@ -146,7 +146,7 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 
 <details><summary>Griffith</summary>
 
-May 1ndra, with the Marut host, with Tvastar, Mitra, Aryaman,  
+May Indra, with the Marut host, with Tvastar, Mitra, Aryaman,  
      Accept the laud and these our gifts.
 </details>
 

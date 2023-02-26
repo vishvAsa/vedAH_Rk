@@ -3,5 +3,4 @@ title = "०७ तस्य वयं"
 
 +++
 
-तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ।  
-स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मे आ॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/13_tasya_vayaM.md"  newLevelForH1="5" includeTitle="false"> </div>  

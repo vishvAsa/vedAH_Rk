@@ -3,5 +3,4 @@ title = "०६ इन्द्रः सुत्रामा"
 
 +++
 
-इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृळी॒को भ॑वतु वि॒श्ववे॑दाः ।  
-बाध॑तां॒ द्वेषो॒ अभ॑यं कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/06/047/12_indraH_sutrAmA.md"  newLevelForH1="5" includeTitle="false"> </div>  
