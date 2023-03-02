@@ -5,6 +5,13 @@ RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 
 +++
+<details><summary>विषयाः</summary>
+
+स्तोत्रम्  
+यज्ञे ऽशक्तिः  
+नामजपः  
+नाम
+</details>
 
 <details><summary>Thomson & Solcum</summary>
 
