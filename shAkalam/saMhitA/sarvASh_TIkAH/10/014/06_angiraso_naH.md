@@ -154,6 +154,13 @@ syāma ← √as- 1 (root)
 **अङ्गिरसः** अङ्गिरोनामकाः **अथर्वाणः** अथर्वनामकाः **भृगवः** भृगुनामकाश्च **नः** अस्माकं **पितरः** **नवग्वाः** अभिनवगमनयुक्ताः । सदा नूतनवत्प्रीतिजनका इत्यर्थः। ते च **सोम्यासः** । सोममर्हन्तीति सोम्याः । **यज्ञियानां** यज्ञार्हाणां **तेषां** **सुमतौ** अनुग्रहयुक्तायां बुद्धौ **वयं** **स्याम** सर्वदा तिष्ठेम । **अपि** च **सौमनसे** **भद्रे** सौमनसस्य कारणे कल्याणे फले स्याम सर्वदा तिष्ठेम ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The a~Ngirasas, the atharvANs, the bhR^igus, are our ancestors who performed the soma pouring, nine month rite;  
+may we be favored as these venerable ones and be auspiciously protected.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
