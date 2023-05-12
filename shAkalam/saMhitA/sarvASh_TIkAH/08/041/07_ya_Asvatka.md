@@ -191,8 +191,24 @@ same ← sama- (pronoun)
 
 <details><summary>सायण-भाष्यम्</summary>
 
---- त्परिमृशतः **वरुणस्य** **पुरो** **गये** रथस्य पुरताद्भवति तस्य वरुणस्य पुरस्तात् **विश्वे** सर्वे **देवाः** **व्रतं** कर्म **अनु** गच्छन्तीत्यर्थः । सिद्धमन्यत् ॥
+**यः** वरुणः **आसु** दिक्षु **अकः** व्याप्तः सन् **आशये** जागृतो वर्तते  
+**यः** वरुणः एषां शत्रूणां **विश्वा** सर्वाणि परिजातानि परितो भूतानि **धामानि** पुराणि **मर्मशत्** परिमृशतो  
+**वरुणस्य** **पुरो** **गये** रथस्य पुरताद्भवति तस्य वरुणस्य पुरस्तात् **विश्वे** सर्वे **देवाः** **व्रतं** कर्म **अनु** गच्छन्तीत्यर्थः । सिद्धमन्यत् ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+He who sleeps on these [heavenly waters], the envelop contacting all beings of these [worlds]
+and their domains. In varuNa’s household, all the gods in front [of him] follow his law. 
+*May the other mean ones burst*[nAbhAka's imprecatory spell]
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The kANva-s and atri-s to a degree show several tendencies that are otherwise common in the Iranic world. The expression of supremacy of varuNa in this sUkta gives a picture of the milieu in which the Zoroastrian counter-religious strain of the Iranic religion arose.  
+A bit of unmAda & you could run away with such
+</details>
+
 
 <details><summary>Wilson</summary>
 

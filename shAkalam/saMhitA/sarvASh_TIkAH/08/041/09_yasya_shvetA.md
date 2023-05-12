@@ -180,8 +180,24 @@ same ← sama- (pronoun)
 
 <details><summary>सायण-भाष्यम्</summary>
 
-**यस्य** वरुणस्य **अधिक्षितः** अन्तरिक्षेऽधिवसतः **श्वेता** श्वेतानि **विचक्षणा** तेजांसि **तिस्रो** **भूमीः** **त्रिरुत्तराणि** तिसृणामधिस्थितानि भुवनानि **पप्रतुः** प्रथयन्ति । तथा च मन्त्रवर्णः -- ‘ तिस्रो भूमीर्धारयन् त्रीँरुत द्यून् ' ( ऋ. सं. २. २७.८) इति । तस्य **वरुणस्य** **सदः** स्थानं **ध्रुवम्** अचलमिति । किंच **सः** वरुणः **सप्तानां** सिन्धूनाम् इरज्यति ईश्वरो भवति । सिद्धमन्यत् ॥
+**यस्य** वरुणस्य **अधिक्षितः** अन्तरिक्षेऽधिवसतः **श्वेता** श्वेतानि **विचक्षणा** तेजांसि **तिस्रो** **भूमीः** **त्रिरुत्तराणि** तिसृणामधिस्थितानि भुवनानि **पप्रतुः** प्रथयन्ति । तथा च मन्त्रवर्णः -- ‘ तिस्रो भूमीर्धारयन् त्रीँरुत द्यून् ' ( ऋ. सं. २. २७.८) इति । तस्य **वरुणस्य** **सदः** स्थानं **ध्रुवम्** अचलमिति । किंच **सः** वरुणः **सप्तानां** सिन्धूनाम् **इरज्यति** ईश्वरो भवति । सिद्धमन्यत् ॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Whose 2 white, wide-gazing ones preside over the 3 earths,  
+3 times [the two] have filled the higher (northern?) [realms], firm is the seat of varuNA.
+He is the master of the seven *May the other mean ones burst*[nAbhAka's imprecatory spell]
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Who are the 2 white ones? Sun and Moon?  
+what does filling the higher/northern realm 3x mean?  
+
+varuNa's seat appear to be associated with the Polestar: dhruva, which the 7 he directs are the stars of the Bear. shunaHshepa also says varuNa placed the  R^ikSha (bear) in the sky
+</details>
+
 
 <details><summary>Wilson</summary>
 
