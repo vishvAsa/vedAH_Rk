@@ -83,6 +83,11 @@ Original R^ivedic version is often termed the kAshmIra-pATha because it appears 
 सन्धत्तं संधीयते प्रज॑या प॒शुभिः ।  
 य ए॒वं वे॒द ।)
 
+( होमेषु क्वचित्-  
+म॒हादेव्यै च॑ वि॒द्महे॑  
+विष्णुप॒न्यै च॑ धीमहि ।  
+तन्नो॑ लक्ष्मीः प्रचो॒दया॑त् ।।
+)
 
 ## काशीकर-पाठः
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -177,3 +182,4 @@ The learned shrI Ravlekar gave me this original R^igvedic form. Based on his ora
 देवा꣡न् अ꣡ग्ने वो꣡चः सुमतिं रो꣡दस्योः।  
 वीहि꣡ स्वस्तिं꣡ सुक्षितिं꣡ दिवो꣡ नॄ꣡न् द्वोषो꣡ अं꣡हांसि दुरिता꣡ तरेम  
 ता꣡ तरेम त꣡वा꣡वसा तरेम॥
+
