@@ -5,6 +5,13 @@ RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - त्रय ऋषिगणाः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

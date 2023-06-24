@@ -5,6 +5,13 @@ RShiH = "द्वित आप्त्यः"
 ChandaH = "उष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - द्वित आप्त्यः
+- छन्दः - उष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

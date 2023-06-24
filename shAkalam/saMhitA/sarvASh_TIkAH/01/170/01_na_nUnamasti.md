@@ -5,6 +5,13 @@ RShiH = "इन्द्रः"
 ChandaH = "बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - इन्द्रः
+- छन्दः - बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

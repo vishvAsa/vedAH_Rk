@@ -5,6 +5,13 @@ RShiH = "सार्पराज्ञी"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सार्पराज्ञी सूर्यो वा
+- ऋषिः - सार्पराज्ञी
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

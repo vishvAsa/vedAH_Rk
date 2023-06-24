@@ -5,6 +5,13 @@ RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - सुमित्रो वाध्र्यश्वः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

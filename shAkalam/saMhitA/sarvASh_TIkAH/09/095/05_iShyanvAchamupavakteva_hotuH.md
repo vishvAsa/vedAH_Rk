@@ -5,6 +5,13 @@ RShiH = "प्रस्कण्वः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - प्रस्कण्वः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

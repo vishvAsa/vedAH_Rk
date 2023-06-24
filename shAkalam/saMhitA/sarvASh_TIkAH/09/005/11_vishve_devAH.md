@@ -5,6 +5,13 @@ RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - स्वाहाकृतयः
+- ऋषिः - असितः काश्यपो देवलो वा
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

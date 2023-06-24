@@ -5,6 +5,13 @@ RShiH = "लुशो धानाकः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - लुशो धानाकः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

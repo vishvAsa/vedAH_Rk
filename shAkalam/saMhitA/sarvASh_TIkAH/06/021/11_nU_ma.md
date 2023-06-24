@@ -5,6 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "लब ऐन्द्रः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आत्मस्तुतिः
+- ऋषिः - लब ऐन्द्रः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

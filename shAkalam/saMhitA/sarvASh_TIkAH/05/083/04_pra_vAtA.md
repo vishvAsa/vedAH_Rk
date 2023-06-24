@@ -5,6 +5,13 @@ RShiH = "भौमोत्रिः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पर्जन्यः
+- ऋषिः - भौमोत्रिः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

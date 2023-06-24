@@ -5,6 +5,13 @@ RShiH = "शकपूतो नार्मेधः"
 ChandaH = "न्यङ्कुसारिणी"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - लिङ्गोक्तदेवताः
+- ऋषिः - शकपूतो नार्मेधः
+- छन्दः - न्यङ्कुसारिणी
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

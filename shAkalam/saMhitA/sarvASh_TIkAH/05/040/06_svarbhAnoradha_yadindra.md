@@ -5,6 +5,13 @@ RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अत्रिः
+- ऋषिः - भौमोत्रिः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

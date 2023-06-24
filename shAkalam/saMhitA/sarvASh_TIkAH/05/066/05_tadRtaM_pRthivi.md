@@ -5,6 +5,13 @@ RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मित्रावरुणौ
+- ऋषिः - रातहव्य आत्रेयः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निरश्विनावुषाः
+- ऋषिः - प्रस्कण्वः काण्वः
+- छन्दः - सतो बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

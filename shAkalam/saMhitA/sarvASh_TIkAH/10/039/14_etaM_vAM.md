@@ -5,6 +5,13 @@ RShiH = "काक्षिवती घोषा"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - काक्षिवती घोषा
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

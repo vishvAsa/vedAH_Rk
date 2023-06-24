@@ -5,6 +5,13 @@ RShiH = "यक्ष्मनाशनः प्राजापत्यः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - राजयक्ष्मघ्नं
+- ऋषिः - यक्ष्मनाशनः प्राजापत्यः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

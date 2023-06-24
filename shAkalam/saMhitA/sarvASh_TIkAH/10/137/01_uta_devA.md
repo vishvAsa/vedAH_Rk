@@ -5,6 +5,13 @@ RShiH = "भरद्वाजः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - भरद्वाजः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

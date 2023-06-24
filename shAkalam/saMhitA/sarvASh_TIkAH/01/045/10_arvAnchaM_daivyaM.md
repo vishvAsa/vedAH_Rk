@@ -5,6 +5,13 @@ RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः;देवाः
+- ऋषिः - प्रस्कण्वः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

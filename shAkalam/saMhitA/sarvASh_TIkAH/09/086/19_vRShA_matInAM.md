@@ -5,6 +5,13 @@ RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - सिकता निवावरी
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

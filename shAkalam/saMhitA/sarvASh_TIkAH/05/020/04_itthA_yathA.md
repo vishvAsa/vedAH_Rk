@@ -5,6 +5,13 @@ RShiH = "प्रयस्वन्त आत्रेयाः"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - प्रयस्वन्त आत्रेयाः
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

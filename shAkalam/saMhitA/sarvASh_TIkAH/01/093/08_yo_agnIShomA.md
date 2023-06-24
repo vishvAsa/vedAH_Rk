@@ -5,6 +5,13 @@ RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्नीषोमौ
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - जगती त्रिष्टुब्वा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

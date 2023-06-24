@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पर्जन्यः
+- ऋषिः - वसिष्ठः कुमारो वाग्नेयः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

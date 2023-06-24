@@ -5,6 +5,13 @@ RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - दैव्यौ होतारौ प्रचेतसौ
+- ऋषिः - दीर्घतमा औचथ्यः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

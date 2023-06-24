@@ -5,6 +5,13 @@ RShiH = "वत्स आग्नेयः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वत्स आग्नेयः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

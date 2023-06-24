@@ -5,6 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "एकपदा विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - एकपदा विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

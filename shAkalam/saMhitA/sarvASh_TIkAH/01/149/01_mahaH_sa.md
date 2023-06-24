@@ -5,6 +5,13 @@ RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - दीर्घतमा औचथ्यः
+- छन्दः - विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

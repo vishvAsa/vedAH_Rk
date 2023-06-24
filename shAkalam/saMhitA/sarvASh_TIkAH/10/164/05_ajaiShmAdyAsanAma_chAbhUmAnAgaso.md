@@ -5,6 +5,13 @@ RShiH = "प्रचेताः"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - दुःस्वप्नघ्नं
+- ऋषिः - प्रचेताः
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - श्यावाश्व आत्रेयः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

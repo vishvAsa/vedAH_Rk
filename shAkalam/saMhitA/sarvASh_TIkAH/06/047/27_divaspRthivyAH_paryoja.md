@@ -5,6 +5,13 @@ RShiH = "गर्गः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - रथः
+- ऋषिः - गर्गः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

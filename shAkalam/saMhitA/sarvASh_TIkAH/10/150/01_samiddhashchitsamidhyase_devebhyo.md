@@ -5,6 +5,13 @@ RShiH = "मृळीको वासिष्ठः"
 ChandaH = "बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - मृळीको वासिष्ठः
+- छन्दः - बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

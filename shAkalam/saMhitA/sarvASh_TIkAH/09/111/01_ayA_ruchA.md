@@ -5,6 +5,13 @@ RShiH = "अनानतः पारुच्छेपिः"
 ChandaH = "अत्यष्टिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - अनानतः पारुच्छेपिः
+- छन्दः - अत्यष्टिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "नृमेधः"
 ChandaH = "पुरउष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - नृमेधः
+- छन्दः - पुरउष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

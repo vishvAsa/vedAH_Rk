@@ -5,6 +5,13 @@ RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "उष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
+- ऋषिः - सप्तवध्रिरात्रेयः
+- छन्दः - उष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - वसिष्ठः
+- छन्दः - बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

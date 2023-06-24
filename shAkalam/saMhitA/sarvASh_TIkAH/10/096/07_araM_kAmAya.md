@@ -5,6 +5,13 @@ RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - हरिस्तुतिः
+- ऋषिः - बरुः सर्वहरिर्वैन्द्रः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

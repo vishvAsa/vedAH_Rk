@@ -5,6 +5,13 @@ RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - लिङ्गोक्तदेवताः पितरो वा
+- ऋषिः - यमः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

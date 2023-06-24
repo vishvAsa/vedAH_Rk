@@ -5,6 +5,13 @@ RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्राबृहस्पती
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

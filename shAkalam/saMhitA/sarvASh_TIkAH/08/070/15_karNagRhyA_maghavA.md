@@ -5,6 +5,13 @@ RShiH = "पुरुहन्मा"
 ChandaH = "पुरउष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - पुरुहन्मा
+- छन्दः - पुरउष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

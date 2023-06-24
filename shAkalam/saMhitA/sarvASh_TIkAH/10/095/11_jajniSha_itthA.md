@@ -5,6 +5,13 @@ RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पुरूरवा ऐळः
+- ऋषिः - उर्वशी ऋषिका
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

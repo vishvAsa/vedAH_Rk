@@ -5,6 +5,13 @@ RShiH = "प्रगाथः काण्वः"
 ChandaH = "आस्तारपङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - प्रगाथः काण्वः
+- छन्दः - आस्तारपङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

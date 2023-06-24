@@ -5,6 +5,13 @@ RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - देवब्रह्माणि
+- ऋषिः - पायुर्भारद्वाजः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निर्हवींषि वा
+- ऋषिः - हर्यतः प्रागाथः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

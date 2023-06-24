@@ -5,6 +5,13 @@ RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "कृतिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - कक्षीवान् दैर्घतमस औशिजः
+- छन्दः - कृतिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

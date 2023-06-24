@@ -5,6 +5,13 @@ RShiH = "कुमार आत्रेयो वृशो वा जान उ
 ChandaH = "शक्वरी"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - कुमार आत्रेयो वृशो वा जान उभौ वा
+- छन्दः - शक्वरी
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

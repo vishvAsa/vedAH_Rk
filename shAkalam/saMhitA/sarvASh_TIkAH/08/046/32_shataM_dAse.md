@@ -5,6 +5,13 @@ RShiH = "वशोश्व्यः"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वायुः
+- ऋषिः - वशोश्व्यः
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

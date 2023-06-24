@@ -5,6 +5,13 @@ RShiH = "भौमोत्रिः"
 ChandaH = "एकपदा विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - भौमोत्रिः
+- छन्दः - एकपदा विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

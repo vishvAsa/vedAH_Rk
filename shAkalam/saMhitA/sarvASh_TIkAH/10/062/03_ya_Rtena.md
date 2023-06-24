@@ -5,6 +5,13 @@ RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः आङ्गिरसो वा
+- ऋषिः - नाभानेदिष्ठो मानवः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

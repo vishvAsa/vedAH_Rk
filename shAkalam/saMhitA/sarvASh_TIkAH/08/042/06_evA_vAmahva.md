@@ -5,6 +5,13 @@ RShiH = "नाभाकः काण्वः अर्चनाना वा"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - नाभाकः काण्वः अर्चनाना वा
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

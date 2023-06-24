@@ -5,6 +5,13 @@ RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - नारदः काण्वः
+- छन्दः - उष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

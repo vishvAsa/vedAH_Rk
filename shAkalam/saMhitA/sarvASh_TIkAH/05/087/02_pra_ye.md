@@ -5,6 +5,13 @@ RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - एवयामरुदात्रेयः
+- छन्दः - अतिजगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

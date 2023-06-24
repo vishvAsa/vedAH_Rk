@@ -5,6 +5,13 @@ RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - उपस्तुतो वार्ष्टिहव्यः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

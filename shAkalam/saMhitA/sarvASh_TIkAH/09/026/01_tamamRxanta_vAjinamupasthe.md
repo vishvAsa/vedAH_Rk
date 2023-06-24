@@ -5,6 +5,13 @@ RShiH = "इध्मवाहो दार्ढच्युतः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - इध्मवाहो दार्ढच्युतः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

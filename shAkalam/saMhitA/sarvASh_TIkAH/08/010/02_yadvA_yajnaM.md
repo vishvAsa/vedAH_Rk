@@ -5,6 +5,13 @@ RShiH = "प्रगाथः काण्वः"
 ChandaH = "मध्येज्योतिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - प्रगाथः काण्वः
+- छन्दः - मध्येज्योतिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

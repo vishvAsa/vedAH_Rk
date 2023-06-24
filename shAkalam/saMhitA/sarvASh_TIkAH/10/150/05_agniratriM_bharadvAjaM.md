@@ -5,6 +5,13 @@ RShiH = "मृळीको वासिष्ठः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - मृळीको वासिष्ठः
+- छन्दः - उपरिष्टाज्ज्योतिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

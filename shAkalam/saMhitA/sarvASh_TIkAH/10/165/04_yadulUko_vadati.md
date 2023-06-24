@@ -5,6 +5,13 @@ RShiH = "कपोतो नैऋतः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - कपोपहतौ प्रायश्चित्तं वैश्वदेवं
+- ऋषिः - कपोतो नैऋतः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

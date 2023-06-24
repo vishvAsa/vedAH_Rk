@@ -5,6 +5,13 @@ RShiH = "चक्षुर्मानवः"
 ChandaH = "उष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - चक्षुर्मानवः
+- छन्दः - उष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

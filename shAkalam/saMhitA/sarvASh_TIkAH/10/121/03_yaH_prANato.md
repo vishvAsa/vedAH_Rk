@@ -5,6 +5,13 @@ RShiH = "हिरण्यगर्भः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - कः
+- ऋषिः - हिरण्यगर्भः प्राजापत्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

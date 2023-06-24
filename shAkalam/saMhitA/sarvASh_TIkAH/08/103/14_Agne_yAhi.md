@@ -5,6 +5,13 @@ RShiH = "सोभरिः काण्वः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निर्मरुतश्च
+- ऋषिः - सोभरिः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

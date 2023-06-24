@@ -5,6 +5,13 @@ RShiH = "बुधः सौम्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवा ऋत्विजो वा
+- ऋषिः - बुधः सौम्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

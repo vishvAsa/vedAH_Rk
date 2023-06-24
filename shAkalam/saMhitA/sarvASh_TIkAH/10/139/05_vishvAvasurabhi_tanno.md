@@ -5,6 +5,13 @@ RShiH = "विश्वावसुर्देवगन्धर्वः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वावसुः
+- ऋषिः - विश्वावसुर्देवगन्धर्वः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

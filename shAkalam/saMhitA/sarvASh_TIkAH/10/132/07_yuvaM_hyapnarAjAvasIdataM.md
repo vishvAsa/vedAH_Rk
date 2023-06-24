@@ -5,6 +5,13 @@ RShiH = "शकपूतो नार्मेधः"
 ChandaH = "महासतो बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मित्रावरुणौ
+- ऋषिः - शकपूतो नार्मेधः
+- छन्दः - महासतो बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

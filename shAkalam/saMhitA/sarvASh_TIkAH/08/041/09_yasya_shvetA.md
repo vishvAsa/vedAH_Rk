@@ -5,6 +5,13 @@ RShiH = "नाभाकः काण्वः"
 ChandaH = "महापङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरुणः
+- ऋषिः - नाभाकः काण्वः
+- छन्दः - महापङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

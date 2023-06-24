@@ -5,6 +5,13 @@ RShiH = "वसिष्ठपुत्राः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ट्-९ वसिष्ठः
+- ऋषिः - वसिष्ठपुत्राः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्राग्नी
+- ऋषिः - वसिष्ठः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

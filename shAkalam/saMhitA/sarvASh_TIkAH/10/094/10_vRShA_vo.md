@@ -5,6 +5,13 @@ RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ग्रावाणः
+- ऋषिः - अर्बुदः काद्रवेयः सर्पः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ईज्यास्तवो यजमानप्रशंसा च
+- ऋषिः - मनुर्वैवस्वतः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

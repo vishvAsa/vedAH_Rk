@@ -5,6 +5,13 @@ RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - उलूखलं
+- ऋषिः - शुनःशेप आजीगर्तिः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

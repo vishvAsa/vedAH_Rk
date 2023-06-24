@@ -5,6 +5,13 @@ RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - स्वाहाकृतयः
+- ऋषिः - जमदग्निस्तत्सुतो वा रामः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

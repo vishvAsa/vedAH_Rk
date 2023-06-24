@@ -5,6 +5,13 @@ RShiH = "प्रचेताः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - दुःस्वप्नघ्नं
+- ऋषिः - प्रचेताः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

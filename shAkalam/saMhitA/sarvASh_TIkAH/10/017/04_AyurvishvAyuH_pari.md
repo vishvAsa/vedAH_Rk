@@ -5,6 +5,13 @@ RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पूषा
+- ऋषिः - देवश्रवा यामायनः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

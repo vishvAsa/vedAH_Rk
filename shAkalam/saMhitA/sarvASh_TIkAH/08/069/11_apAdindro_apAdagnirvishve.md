@@ -5,6 +5,13 @@ RShiH = "प्रियमेध"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः;वरुणः
+- ऋषिः - प्रियमेध
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

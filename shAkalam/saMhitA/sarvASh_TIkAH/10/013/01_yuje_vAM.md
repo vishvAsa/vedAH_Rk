@@ -5,6 +5,13 @@ RShiH = "विवस्वानादित्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - हविर्धाने
+- ऋषिः - विवस्वानादित्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

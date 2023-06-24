@@ -5,6 +5,13 @@ RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - यथानिपातं
+- ऋषिः - अग्निवरुणसोमानां निहवः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

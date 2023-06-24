@@ -5,6 +5,13 @@ RShiH = "वामदेवो गौतमः"
 ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - पदपङ्क्तिः उष्णिग्वा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "वागांभृणी"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वागांभृणी
+- ऋषिः - वागांभृणी
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रावरुणौ
+- ऋषिः - त्रसदस्युः पौरुकुत्स्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वकर्मा
+- ऋषिः - विश्वकर्मा भौवनः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

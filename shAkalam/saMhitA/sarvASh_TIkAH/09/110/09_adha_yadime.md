@@ -5,6 +5,13 @@ RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - त्र्यरुणत्रसदस्यू
+- छन्दः - ऊर्ध्वबृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

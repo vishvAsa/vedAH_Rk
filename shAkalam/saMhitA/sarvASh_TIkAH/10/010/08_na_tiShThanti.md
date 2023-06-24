@@ -5,6 +5,13 @@ RShiH = "यमो वैवस्वतः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - यमी वैवस्वती
+- ऋषिः - यमो वैवस्वतः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

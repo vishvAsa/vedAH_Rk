@@ -5,6 +5,13 @@ RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अलक्ष्मीघ्नं
+- ऋषिः - शिरिंबिठो भारद्वाजः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

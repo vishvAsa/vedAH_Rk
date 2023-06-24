@@ -5,6 +5,13 @@ RShiH = "मेधातिथिः काण्वः"
 ChandaH = "प्रतिष्ठा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आपः
+- ऋषिः - मेधातिथिः काण्वः
+- छन्दः - प्रतिष्ठा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

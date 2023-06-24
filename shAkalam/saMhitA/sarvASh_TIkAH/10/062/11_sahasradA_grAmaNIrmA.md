@@ -5,6 +5,13 @@ RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सावर्णेर्दानस्तुतिः
+- ऋषिः - नाभानेदिष्ठो मानवः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

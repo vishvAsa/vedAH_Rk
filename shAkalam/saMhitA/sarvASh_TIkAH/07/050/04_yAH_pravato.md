@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः"
 ChandaH = "अतिजगती शक्वरी वा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - नद्यः
+- ऋषिः - वसिष्ठः
+- छन्दः - अतिजगती शक्वरी वा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

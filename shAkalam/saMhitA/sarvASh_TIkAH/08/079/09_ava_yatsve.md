@@ -5,6 +5,13 @@ RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सोमः
+- ऋषिः - कृत्नुर्भार्गवः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

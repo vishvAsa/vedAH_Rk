@@ -5,6 +5,13 @@ RShiH = "शबरः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - गावः
+- ऋषिः - शबरः काक्षीवतः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

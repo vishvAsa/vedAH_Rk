@@ -5,6 +5,13 @@ RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - श्यावाश्वः
+- छन्दः - उपरिष्टाज्ज्योतिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

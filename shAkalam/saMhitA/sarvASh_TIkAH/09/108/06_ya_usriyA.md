@@ -5,6 +5,13 @@ RShiH = "ऋजिश्वा"
 ChandaH = "सतो बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - ऋजिश्वा
+- छन्दः - सतो बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

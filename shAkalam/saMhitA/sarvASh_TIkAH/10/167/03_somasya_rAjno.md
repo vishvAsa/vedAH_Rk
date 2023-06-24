@@ -5,6 +5,13 @@ RShiH = "विश्वामित्रजमदग्नी"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - लिङ्गोक्तदेवताः
+- ऋषिः - विश्वामित्रजमदग्नी
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

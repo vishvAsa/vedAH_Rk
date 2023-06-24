@@ -5,6 +5,13 @@ RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - यथानिपातं
+- ऋषिः - अग्निवरुणसोमानां निहवः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

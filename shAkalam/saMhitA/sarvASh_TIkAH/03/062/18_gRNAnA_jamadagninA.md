@@ -5,6 +5,13 @@ RShiH = "गाथिनो विश्वामित्रो जमदग्
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मित्रावरुणौ
+- ऋषिः - गाथिनो विश्वामित्रो जमदग्निर्वा
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

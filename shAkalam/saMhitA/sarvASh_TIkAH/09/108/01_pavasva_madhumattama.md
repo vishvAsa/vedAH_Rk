@@ -5,6 +5,13 @@ RShiH = "गौरिवीतिः"
 ChandaH = "ककुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - गौरिवीतिः
+- छन्दः - ककुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

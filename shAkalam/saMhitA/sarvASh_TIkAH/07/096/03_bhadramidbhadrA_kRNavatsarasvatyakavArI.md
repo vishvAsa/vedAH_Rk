@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सरस्वती
+- ऋषिः - वसिष्ठः
+- छन्दः - प्रस्तारपङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पावमान्यध्येतृस्तुतिः
+- ऋषिः - पवित्रो वसिष्ठो वोभौ वा
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

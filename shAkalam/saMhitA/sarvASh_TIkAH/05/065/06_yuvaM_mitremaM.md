@@ -5,6 +5,13 @@ RShiH = "रातहव्य आत्रेयः"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मित्रावरुणौ
+- ऋषिः - रातहव्य आत्रेयः
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

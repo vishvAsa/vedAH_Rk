@@ -5,6 +5,13 @@ RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - उषाः
+- ऋषिः - सत्यश्रवा आत्रेयः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

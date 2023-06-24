@@ -5,6 +5,13 @@ RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - श्रुतकक्षः सुकक्षो वा
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

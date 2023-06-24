@@ -5,6 +5,13 @@ RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ज्ञानं
+- ऋषिः - बृहस्पतिः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

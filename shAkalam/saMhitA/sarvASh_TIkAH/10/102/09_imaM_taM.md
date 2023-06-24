@@ -5,6 +5,13 @@ RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - द्रुघण इन्द्रो वा
+- ऋषिः - मुद्गलो भार्म्यश्वः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

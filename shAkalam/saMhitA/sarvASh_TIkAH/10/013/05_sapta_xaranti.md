@@ -5,6 +5,13 @@ RShiH = "विवस्वानादित्यः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - हविर्धाने
+- ऋषिः - विवस्वानादित्यः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

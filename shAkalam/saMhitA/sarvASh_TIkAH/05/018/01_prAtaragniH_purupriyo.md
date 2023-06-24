@@ -5,6 +5,13 @@ RShiH = "द्वितो मृक्तवाहा आत्रेयः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - द्वितो मृक्तवाहा आत्रेयः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "मनुर्वैवस्वतः"
 ChandaH = "पादनिचृत्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - दंपत्योराशिषः
+- ऋषिः - मनुर्वैवस्वतः
+- छन्दः - पादनिचृत्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

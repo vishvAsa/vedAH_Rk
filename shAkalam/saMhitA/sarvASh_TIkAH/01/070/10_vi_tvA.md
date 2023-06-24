@@ -5,6 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - पराशरः शाक्त्यः
+- छन्दः - द्विपदा विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

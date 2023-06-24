@@ -5,6 +5,13 @@ RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निरग्निर्वा सविता च
+- ऋषिः - पवित्रो वसिष्ठो वोभौ वा
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

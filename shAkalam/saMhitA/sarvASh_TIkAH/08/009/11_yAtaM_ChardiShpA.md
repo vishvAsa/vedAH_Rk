@@ -5,6 +5,13 @@ RShiH = "शशकर्णः काण्वः"
 ChandaH = "विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - शशकर्णः काण्वः
+- छन्दः - विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

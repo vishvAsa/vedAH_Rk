@@ -5,6 +5,13 @@ RShiH = "आसङ्गः प्लायोगिः"
 ChandaH = "बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आसङ्गस्य दानस्तुतिः
+- ऋषिः - आसङ्गः प्लायोगिः
+- छन्दः - बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

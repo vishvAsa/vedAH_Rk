@@ -5,6 +5,13 @@ RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - ऋषभो वैश्वामित्रः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

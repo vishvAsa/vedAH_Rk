@@ -5,6 +5,13 @@ RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अक्षकृषिप्रशंसा
+- ऋषिः - कवष ऐलूषो अक्षो वा मौजवान्
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

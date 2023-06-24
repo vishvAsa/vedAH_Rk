@@ -5,6 +5,13 @@ RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "उरोबृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सूर्या
+- ऋषिः - सावित्री सूर्या ऋषिका
+- छन्दः - उरोबृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "ऋणंचयः"
 ChandaH = "गायत्री यवमध्या"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - ऋणंचयः
+- छन्दः - गायत्री यवमध्या
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

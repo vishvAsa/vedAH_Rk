@@ -5,6 +5,13 @@ RShiH = "सुहोत्रः"
 ChandaH = "शक्वरी"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - सुहोत्रः
+- छन्दः - शक्वरी
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

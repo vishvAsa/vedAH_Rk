@@ -5,6 +5,13 @@ RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - द्रविणोदा अग्निर्वा
+- ऋषिः - कुत्स आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

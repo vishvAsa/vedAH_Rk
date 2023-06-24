@@ -5,6 +5,13 @@ RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - उषासानक्ता
+- ऋषिः - असितः काश्यपो देवलो वा
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

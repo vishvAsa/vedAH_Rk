@@ -5,6 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "महाबृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अप्तृणसूर्याः
+- ऋषिः - अगस्त्यो मैत्रावरुणिः
+- छन्दः - महाबृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

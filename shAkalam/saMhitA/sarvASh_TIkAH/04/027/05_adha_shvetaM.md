@@ -5,6 +5,13 @@ RShiH = "वामदेवो गौतमः"
 ChandaH = "शक्वरी"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - श्येन इन्द्रो वा
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - शक्वरी
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

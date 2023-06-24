@@ -5,6 +5,13 @@ RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - स्यूमरश्मिर्भार्गवः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

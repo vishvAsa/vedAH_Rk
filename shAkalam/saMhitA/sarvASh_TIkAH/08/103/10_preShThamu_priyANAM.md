@@ -5,6 +5,13 @@ RShiH = "सोभरिः काण्वः"
 ChandaH = "ह्रसीयसी"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - सोभरिः काण्वः
+- छन्दः - ह्रसीयसी
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "पायुर्भारद्वाजः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सारथिः रश्मयः
+- ऋषिः - पायुर्भारद्वाजः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

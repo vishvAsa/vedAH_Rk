@@ -5,6 +5,13 @@ RShiH = "पौर आत्रेयः"
 ChandaH = "निचृत्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - पौर आत्रेयः
+- छन्दः - निचृत्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

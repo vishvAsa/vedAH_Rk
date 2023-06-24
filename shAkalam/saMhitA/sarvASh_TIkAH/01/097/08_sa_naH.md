@@ -5,6 +5,13 @@ RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निरग्निः शुचिर्वा
+- ऋषिः - कुत्स आङ्गिरसः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "सदापृण आत्रेयः"
 ChandaH = "पुरस्ताज्ज्योतिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - सदापृण आत्रेयः
+- छन्दः - पुरस्ताज्ज्योतिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

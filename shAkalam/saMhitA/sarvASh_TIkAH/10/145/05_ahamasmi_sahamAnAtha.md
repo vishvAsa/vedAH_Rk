@@ -5,6 +5,13 @@ RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - उपनिषत्सपत्नीबाधनं
+- ऋषिः - इन्द्राणी
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

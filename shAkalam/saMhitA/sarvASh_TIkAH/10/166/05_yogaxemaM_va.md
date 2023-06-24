@@ -5,6 +5,13 @@ RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "महापङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सपत्नघ्नं
+- ऋषिः - ऋषभो वैराजः शाक्वरो वा
+- छन्दः - महापङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

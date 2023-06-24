@@ -5,6 +5,13 @@ RShiH = "लोपामुद्रा"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - रतिः
+- ऋषिः - लोपामुद्रा
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

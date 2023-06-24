@@ -5,6 +5,13 @@ RShiH = "ऊर्ध्वसद्मा"
 ChandaH = "सतो बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - ऊर्ध्वसद्मा
+- छन्दः - सतो बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - अग्नयो धिष्ण्या ऐश्वराः
+- छन्दः - द्विपदा विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

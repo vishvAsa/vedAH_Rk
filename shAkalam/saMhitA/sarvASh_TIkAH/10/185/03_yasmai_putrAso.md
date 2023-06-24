@@ -5,6 +5,13 @@ RShiH = "सत्यधृतिर्वारुणिः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आदित्यः(स्वस्त्ययनं)
+- ऋषिः - सत्यधृतिर्वारुणिः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

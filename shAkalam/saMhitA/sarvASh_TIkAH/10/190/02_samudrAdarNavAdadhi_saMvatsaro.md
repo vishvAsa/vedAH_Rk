@@ -5,6 +5,13 @@ RShiH = "अघमर्षणो माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - भाववृत्तं
+- ऋषिः - अघमर्षणो माधुच्छन्दसः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वसिष्ठः
+- छन्दः - द्विपदा त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

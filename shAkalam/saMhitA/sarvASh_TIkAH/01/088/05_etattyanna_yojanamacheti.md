@@ -5,6 +5,13 @@ RShiH = "गोतमो राहूगणः"
 ChandaH = "विराड्रूपा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - विराड्रूपा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

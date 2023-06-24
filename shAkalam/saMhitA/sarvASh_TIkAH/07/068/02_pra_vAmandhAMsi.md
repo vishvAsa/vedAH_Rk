@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - वसिष्ठः
+- छन्दः - विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

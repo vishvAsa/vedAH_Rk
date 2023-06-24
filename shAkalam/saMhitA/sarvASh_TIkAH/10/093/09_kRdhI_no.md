@@ -5,6 +5,13 @@ RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अक्षरैः पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - तान्वः पार्थ्यः
+- छन्दः - अक्षरैः पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

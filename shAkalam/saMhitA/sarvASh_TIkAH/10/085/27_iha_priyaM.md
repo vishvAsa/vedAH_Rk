@@ -5,6 +5,13 @@ RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - नृणां विवाहमन्त्रा आशीःप्रायाः
+- ऋषिः - सावित्री सूर्या ऋषिका
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

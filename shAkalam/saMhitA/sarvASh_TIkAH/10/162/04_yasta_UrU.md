@@ -5,6 +5,13 @@ RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - गर्भसंस्रावे प्रायश्चित्तं
+- ऋषिः - रक्षोहा ब्राह्मः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

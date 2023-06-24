@@ -5,6 +5,13 @@ RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - परुच्छेपो दैवोदासिः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

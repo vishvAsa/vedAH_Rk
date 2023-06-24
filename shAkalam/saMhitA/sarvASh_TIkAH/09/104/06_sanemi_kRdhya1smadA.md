@@ -5,6 +5,13 @@ RShiH = "पर्वतनारदौ द्वे शिखंडिन्य
 ChandaH = "उष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - पर्वतनारदौ द्वे शिखंडिन्यौ वा काश्यप्यावप्सरसौ
+- छन्दः - उष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

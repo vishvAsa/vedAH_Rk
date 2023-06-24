@@ -5,6 +5,13 @@ RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आदित्या उषाश्च
+- ऋषिः - त्रित आप्त्यः
+- छन्दः - महापङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

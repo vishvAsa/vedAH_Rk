@@ -5,6 +5,13 @@ RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतो मरुतो वाग्निश्च
+- ऋषिः - श्यावाश्व आत्रेयः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

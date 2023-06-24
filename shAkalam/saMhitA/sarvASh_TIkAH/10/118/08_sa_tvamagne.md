@@ -5,6 +5,13 @@ RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्नी रक्षोहा
+- ऋषिः - उरुक्षय आमहीयवः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

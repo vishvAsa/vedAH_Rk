@@ -5,6 +5,13 @@ RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "विराड्रूपा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - कक्षीवान् दैर्घतमस औशिजः
+- छन्दः - विराड्रूपा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

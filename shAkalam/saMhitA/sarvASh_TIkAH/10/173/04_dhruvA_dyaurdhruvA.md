@@ -5,6 +5,13 @@ RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - राज्ञस्तुतिः
+- ऋषिः - ध्रुवः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

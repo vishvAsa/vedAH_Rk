@@ -5,6 +5,13 @@ RShiH = "शंयुर्बार्हस्पत्यः (तृणपा
 ChandaH = "महासतो बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
+- छन्दः - महासतो बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

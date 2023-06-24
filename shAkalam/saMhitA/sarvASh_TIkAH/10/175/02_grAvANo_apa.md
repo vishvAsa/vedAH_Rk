@@ -5,6 +5,13 @@ RShiH = "ऊर्ध्वग्रावार्बुदिः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ग्रावाणः
+- ऋषिः - ऊर्ध्वग्रावार्बुदिः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

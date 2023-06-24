@@ -5,6 +5,13 @@ RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - चैद्यस्य कशोर्दानस्तुतिः
+- ऋषिः - ब्रह्मातिथिः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

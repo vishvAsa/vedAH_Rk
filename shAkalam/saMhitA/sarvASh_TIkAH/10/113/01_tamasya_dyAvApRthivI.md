@@ -5,6 +5,13 @@ RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - शतप्रभेदनो वैरूपः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

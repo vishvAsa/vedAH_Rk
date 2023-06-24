@@ -5,6 +5,13 @@ RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - स्वस्त्यात्रेयः
+- छन्दः - जगती त्रिष्टुब्वा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

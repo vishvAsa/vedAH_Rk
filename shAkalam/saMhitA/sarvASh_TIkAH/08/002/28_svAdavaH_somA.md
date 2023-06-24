@@ -5,6 +5,13 @@ RShiH = "मेधातिथिः काण्वः प्रियमेध
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

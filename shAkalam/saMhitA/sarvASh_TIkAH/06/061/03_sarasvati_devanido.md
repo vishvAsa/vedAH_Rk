@@ -5,6 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सरस्वती
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - चन्द्रमाः
+- ऋषिः - सावित्री सूर्या ऋषिका
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

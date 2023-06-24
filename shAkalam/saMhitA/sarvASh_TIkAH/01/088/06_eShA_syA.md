@@ -5,6 +5,13 @@ RShiH = "गोतमो राहूगणः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - प्रस्तारपङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

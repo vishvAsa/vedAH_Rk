@@ -5,6 +5,13 @@ RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वनस्पतिः
+- ऋषिः - सुमित्रो वाध्र्यश्वः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

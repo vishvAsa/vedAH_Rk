@@ -5,6 +5,13 @@ RShiH = "शकपूतो नार्मेधः"
 ChandaH = "विराड्रूपा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मित्रावरुणौ
+- ऋषिः - शकपूतो नार्मेधः
+- छन्दः - विराड्रूपा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

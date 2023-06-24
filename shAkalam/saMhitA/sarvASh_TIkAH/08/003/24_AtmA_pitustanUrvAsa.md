@@ -5,6 +5,13 @@ RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पाकस्थाम्नः कौरयाणस्य दानस्तुतिः
+- ऋषिः - मेध्यातिथिः काण्वः
+- छन्दः - बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

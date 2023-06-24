@@ -5,6 +5,13 @@ RShiH = "सोभरिः काण्वः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - सोभरिः काण्वः
+- छन्दः - द्विपदा विराट्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

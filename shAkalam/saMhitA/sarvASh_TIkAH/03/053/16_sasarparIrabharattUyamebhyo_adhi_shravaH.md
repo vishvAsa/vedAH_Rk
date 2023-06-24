@@ -5,6 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वाक्
+- ऋषिः - गाथिनो विश्वामित्रः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "प्रजापतिः परमेष्ठी"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - भाववृत्तं
+- ऋषिः - प्रजापतिः परमेष्ठी
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

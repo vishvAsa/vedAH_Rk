@@ -5,6 +5,13 @@ RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः यूपो वा
+- ऋषिः - कण्वो घौरः
+- छन्दः - बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

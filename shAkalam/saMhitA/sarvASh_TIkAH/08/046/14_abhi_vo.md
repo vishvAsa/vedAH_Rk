@@ -5,6 +5,13 @@ RShiH = "वशोश्व्यः"
 ChandaH = "पिपीलिकमध्या बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - वशोश्व्यः
+- छन्दः - पिपीलिकमध्या बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

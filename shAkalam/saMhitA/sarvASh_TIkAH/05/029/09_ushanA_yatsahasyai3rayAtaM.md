@@ -5,6 +5,13 @@ RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः~इन्द्र उशना वा;इन्द्रः
+- ऋषिः - गौरवीतिः शाक्त्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

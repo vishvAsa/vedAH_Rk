@@ -5,6 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुब्गर्भोष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अन्नम्
+- ऋषिः - अगस्त्यो मैत्रावरुणिः
+- छन्दः - अनुष्टुब्गर्भोष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

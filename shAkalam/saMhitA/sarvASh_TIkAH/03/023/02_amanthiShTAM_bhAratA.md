@@ -5,6 +5,13 @@ RShiH = "देवश्रवा देववातश्च भारतौ"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - देवश्रवा देववातश्च भारतौ
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

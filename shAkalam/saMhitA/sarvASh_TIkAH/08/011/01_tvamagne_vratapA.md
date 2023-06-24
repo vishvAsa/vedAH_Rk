@@ -5,6 +5,13 @@ RShiH = "वत्सः काण्वः"
 ChandaH = "प्रतिष्ठा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वत्सः काण्वः
+- छन्दः - प्रतिष्ठा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

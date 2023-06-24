@@ -5,6 +5,13 @@ RShiH = "इन्द्रमातरो देवजामयः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - इन्द्रमातरो देवजामयः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

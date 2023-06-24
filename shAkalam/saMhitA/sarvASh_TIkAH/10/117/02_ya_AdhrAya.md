@@ -5,6 +5,13 @@ RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - धनान्नदानप्रशंसा
+- ऋषिः - भिक्षुराङ्गिरसः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

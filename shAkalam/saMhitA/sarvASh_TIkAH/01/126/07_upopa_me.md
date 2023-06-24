@@ -5,6 +5,13 @@ RShiH = "रोमशा"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - भावयव्यः
+- ऋषिः - रोमशा
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

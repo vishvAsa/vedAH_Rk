@@ -5,6 +5,13 @@ RShiH = "आप्त्यस्त्रितः कुत्स आङ्ग
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - आप्त्यस्त्रितः कुत्स आङ्गिरसो वा
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

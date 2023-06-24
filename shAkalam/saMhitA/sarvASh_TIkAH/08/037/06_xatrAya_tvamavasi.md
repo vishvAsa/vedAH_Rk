@@ -5,6 +5,13 @@ RShiH = "श्यावाश्वः"
 ChandaH = "महापङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - श्यावाश्वः
+- छन्दः - महापङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

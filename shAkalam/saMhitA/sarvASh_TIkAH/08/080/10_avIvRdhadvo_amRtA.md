@@ -5,6 +5,13 @@ RShiH = "एकद्यूर्नौधसः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - देवाः
+- ऋषिः - एकद्यूर्नौधसः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

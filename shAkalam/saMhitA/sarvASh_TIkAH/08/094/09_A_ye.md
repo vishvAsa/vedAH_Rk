@@ -5,6 +5,13 @@ RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - बिन्दुः पूतदक्षो वा
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

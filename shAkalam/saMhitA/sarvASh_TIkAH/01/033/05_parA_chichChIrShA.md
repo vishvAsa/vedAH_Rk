@@ -5,6 +5,13 @@ RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - हिरण्यस्तूप आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

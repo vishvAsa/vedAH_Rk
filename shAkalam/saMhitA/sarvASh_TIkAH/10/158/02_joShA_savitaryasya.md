@@ -5,6 +5,13 @@ RShiH = "चक्षुः सौर्यः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सूर्यः
+- ऋषिः - चक्षुः सौर्यः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

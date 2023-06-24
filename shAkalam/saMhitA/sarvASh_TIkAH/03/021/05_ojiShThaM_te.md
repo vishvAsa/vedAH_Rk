@@ -5,6 +5,13 @@ RShiH = "गाथी कौशिकः"
 ChandaH = "सतोबृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - गाथी कौशिकः
+- छन्दः - सतोबृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

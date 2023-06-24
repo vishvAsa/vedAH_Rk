@@ -5,6 +5,13 @@ RShiH = "देवश्रवा यामायनः"
 ChandaH = "अनुष्टुप्पुरस्ताद्बृहती वा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आपः सोमो वा
+- ऋषिः - देवश्रवा यामायनः
+- छन्दः - अनुष्टुप्पुरस्ताद्बृहती वा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

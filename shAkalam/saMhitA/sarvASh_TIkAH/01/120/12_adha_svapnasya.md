@@ -5,6 +5,13 @@ RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - दुःस्वप्ननाशनम्
+- ऋषिः - कक्षीवान् दैर्घतमस औशिजः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

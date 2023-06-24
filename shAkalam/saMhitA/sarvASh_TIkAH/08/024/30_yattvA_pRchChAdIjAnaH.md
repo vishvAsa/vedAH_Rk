@@ -5,6 +5,13 @@ RShiH = "विश्वमना वैयश्वः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरोः सौषाम्णस्य दानस्तुतिः
+- ऋषिः - विश्वमना वैयश्वः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

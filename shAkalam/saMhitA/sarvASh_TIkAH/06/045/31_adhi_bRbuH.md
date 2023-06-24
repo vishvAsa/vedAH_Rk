@@ -5,6 +5,13 @@ RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - बृबुस्तक्षा
+- ऋषिः - शंयुर्बार्हस्पत्यः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

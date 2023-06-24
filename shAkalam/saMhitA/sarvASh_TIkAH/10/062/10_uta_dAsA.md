@@ -5,6 +5,13 @@ RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सावर्णेर्दानस्तुतिः
+- ऋषिः - नाभानेदिष्ठो मानवः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

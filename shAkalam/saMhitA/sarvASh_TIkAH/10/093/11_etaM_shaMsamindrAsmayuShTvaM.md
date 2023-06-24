@@ -5,6 +5,13 @@ RShiH = "तान्वः पार्थ्यः"
 ChandaH = "न्यङ्कुसारिणी"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - तान्वः पार्थ्यः
+- छन्दः - न्यङ्कुसारिणी
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

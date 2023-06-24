@@ -5,6 +5,13 @@ RShiH = "अग्निः पावकः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - अग्निः पावकः
+- छन्दः - उपरिष्टाज्ज्योतिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

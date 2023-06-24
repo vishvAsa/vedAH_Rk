@@ -5,6 +5,13 @@ RShiH = "अभितपाः सौर्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सूर्यः
+- ऋषिः - अभितपाः सौर्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

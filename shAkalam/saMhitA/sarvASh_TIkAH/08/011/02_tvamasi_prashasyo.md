@@ -5,6 +5,13 @@ RShiH = "वत्सः काण्वः"
 ChandaH = "वर्धमाना"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वत्सः काण्वः
+- छन्दः - वर्धमाना
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

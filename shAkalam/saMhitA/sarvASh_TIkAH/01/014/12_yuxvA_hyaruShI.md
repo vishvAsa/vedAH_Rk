@@ -5,6 +5,13 @@ RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वे देवाः (विश्वैर्देवैः सहितोग्निः)
+- ऋषिः - मेधातिथिः काण्वः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

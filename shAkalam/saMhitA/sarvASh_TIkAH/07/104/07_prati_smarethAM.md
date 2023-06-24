@@ -5,6 +5,13 @@ RShiH = "वसिष्ठः"
 ChandaH = "जगती त्रिष्टुब्वा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रासोमौ रक्षोहणौ
+- ऋषिः - वसिष्ठः
+- छन्दः - जगती त्रिष्टुब्वा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

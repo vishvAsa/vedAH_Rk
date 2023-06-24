@@ -5,6 +5,13 @@ RShiH = "वशोश्व्यः"
 ChandaH = "ककुम्न्यङ्कुशिरा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - वशोश्व्यः
+- छन्दः - ककुम्न्यङ्कुशिरा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

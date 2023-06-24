@@ -5,6 +5,13 @@ RShiH = "गोपवन आत्रेयः सप्तवध्रिर्
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - गोपवन आत्रेयः सप्तवध्रिर्वा
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

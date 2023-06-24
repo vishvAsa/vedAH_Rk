@@ -5,6 +5,13 @@ RShiH = "विवृहा काश्यपः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - यक्ष्मघ्नं
+- ऋषिः - विवृहा काश्यपः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

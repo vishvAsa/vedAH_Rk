@@ -5,6 +5,13 @@ RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - तिरिन्दिरस्य पारशव्यस्य दानस्तुतिः
+- ऋषिः - वत्सः काण्वः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

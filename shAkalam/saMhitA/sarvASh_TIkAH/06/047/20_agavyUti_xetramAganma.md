@@ -5,6 +5,13 @@ RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - लिङ्गोक्तभूमिबृहस्पतीन्द्राः (क्रमेण प्रतिपादं)
+- ऋषिः - गर्गः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

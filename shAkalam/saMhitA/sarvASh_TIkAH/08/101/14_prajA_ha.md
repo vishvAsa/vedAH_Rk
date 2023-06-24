@@ -5,6 +5,13 @@ RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः
+- ऋषिः - जमदग्निर्भार्गवः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - लिङ्गोक्त देवताः
+- ऋषिः - परुच्छेपो दैवोदासिः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

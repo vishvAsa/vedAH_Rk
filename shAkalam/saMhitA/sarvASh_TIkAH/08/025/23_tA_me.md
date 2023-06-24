@@ -5,6 +5,13 @@ RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिग्गर्भा"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मित्रावरुणौ
+- ऋषिः - विश्वमना वैयश्वः
+- छन्दः - उष्णिग्गर्भा
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

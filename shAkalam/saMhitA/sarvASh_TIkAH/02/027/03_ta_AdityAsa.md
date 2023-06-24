@@ -5,6 +5,13 @@ RShiH = "कूर्मो गार्त्समदो गृत्समद
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आदित्याः
+- ऋषिः - कूर्मो गार्त्समदो गृत्समदो वा
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

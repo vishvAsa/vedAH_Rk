@@ -5,6 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

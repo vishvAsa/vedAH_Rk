@@ -5,6 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "स्कन्धोग्रीवी बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - अगस्त्यो मैत्रावरुणिः
+- छन्दः - स्कन्धोग्रीवी बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "शंयुर्बार्हस्पत्यः (तृणपा
 ChandaH = "ककुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतः
+- ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
+- छन्दः - ककुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "अग्नियुतः स्थौरोग्नियूपो 
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - अग्नियुतः स्थौरोग्नियूपो वा स्थौरः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

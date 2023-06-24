@@ -5,6 +5,13 @@ RShiH = "शंयुर्बार्हस्पत्यः (तृणपा
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पृश्निर्द्यावाभूमी वा
+- ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

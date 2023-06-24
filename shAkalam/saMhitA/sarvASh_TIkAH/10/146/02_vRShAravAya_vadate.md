@@ -5,6 +5,13 @@ RShiH = "देवमुनिरैरम्मदः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अरण्यानी
+- ऋषिः - देवमुनिरैरम्मदः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

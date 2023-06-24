@@ -5,6 +5,13 @@ RShiH = "शंयुर्बार्हस्पत्यः (तृणपा
 ChandaH = "अतिजगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मरुतो लिङ्गोक्तदेवता वा
+- ऋषिः - शंयुर्बार्हस्पत्यः (तृणपाणिः)
+- छन्दः - अतिजगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

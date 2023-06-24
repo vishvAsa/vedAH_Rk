@@ -5,6 +5,13 @@ RShiH = "गाथी कौशिकः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पुरीष्या अग्नयः
+- ऋषिः - गाथी कौशिकः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

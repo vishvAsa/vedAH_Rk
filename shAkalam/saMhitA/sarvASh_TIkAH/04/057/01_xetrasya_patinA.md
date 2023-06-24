@@ -5,6 +5,13 @@ RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - क्षेत्रपतिः
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

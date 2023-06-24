@@ -5,6 +5,13 @@ RShiH = "विभ्राट् सौर्यः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सूर्यः
+- ऋषिः - विभ्राट् सौर्यः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

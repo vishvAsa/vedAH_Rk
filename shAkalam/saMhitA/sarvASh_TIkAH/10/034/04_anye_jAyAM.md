@@ -5,6 +5,13 @@ RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अक्षकितवनिन्दा
+- ऋषिः - कवष ऐलूषो अक्षो वा मौजवान्
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

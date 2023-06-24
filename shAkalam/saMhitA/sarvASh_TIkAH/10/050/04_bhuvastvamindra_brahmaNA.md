@@ -5,6 +5,13 @@ RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "अभिसारिणी"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रो वैकुंठः
+- ऋषिः - इन्द्रो वैकुंठः
+- छन्दः - अभिसारिणी
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

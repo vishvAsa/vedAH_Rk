@@ -5,6 +5,13 @@ RShiH = "वशोश्व्यः"
 ChandaH = "सतो बृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वायुः
+- ऋषिः - वशोश्व्यः
+- छन्दः - सतो बृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

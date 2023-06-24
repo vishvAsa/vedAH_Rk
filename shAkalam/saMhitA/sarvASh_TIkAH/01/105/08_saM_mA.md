@@ -5,6 +5,13 @@ RShiH = "आप्त्यस्त्रितः कुत्स आङ्ग
 ChandaH = "यवमध्या महाबृहती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - आप्त्यस्त्रितः कुत्स आङ्गिरसो वा
+- छन्दः - यवमध्या महाबृहती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

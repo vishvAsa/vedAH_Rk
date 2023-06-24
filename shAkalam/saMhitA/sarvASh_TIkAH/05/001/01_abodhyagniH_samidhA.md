@@ -5,6 +5,13 @@ RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - बुधगविष्ठिरावात्रेयौ
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

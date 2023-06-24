@@ -5,6 +5,13 @@ RShiH = "शङ्खो यामायनः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पितरः
+- ऋषिः - शङ्खो यामायनः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - देवाः
+- ऋषिः - प्रगाथः काण्वः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - यक्ष्मनाशनी दंपत्योः
+- ऋषिः - सावित्री सूर्या ऋषिका
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

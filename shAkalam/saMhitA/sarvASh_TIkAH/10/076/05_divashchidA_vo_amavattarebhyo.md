@@ -5,6 +5,13 @@ RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ग्रावाणः
+- ऋषिः - जरत्कर्ण ऐरावतः सर्पः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

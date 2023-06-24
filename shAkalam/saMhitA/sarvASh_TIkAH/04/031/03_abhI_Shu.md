@@ -5,6 +5,13 @@ RShiH = "वामदेवो गौतमः"
 ChandaH = "पादनिचृत्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - पादनिचृत्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

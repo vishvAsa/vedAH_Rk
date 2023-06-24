@@ -5,6 +5,13 @@ RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

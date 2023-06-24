@@ -5,6 +5,13 @@ RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः, मित्रावरुणौ;रात्रिः, सविता
+- ऋषिः - हिरण्यस्तूप आङ्गिरसः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

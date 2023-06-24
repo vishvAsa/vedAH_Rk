@@ -5,6 +5,13 @@ RShiH = "पायुर्भारद्वाजः"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - युद्धभूमिब्रह्मणस्पत्यदितयः
+- ऋषिः - पायुर्भारद्वाजः
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

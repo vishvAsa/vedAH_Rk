@@ -5,6 +5,13 @@ RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - कवच-सोम-वरुणाः
+- ऋषिः - पायुर्भारद्वाजः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

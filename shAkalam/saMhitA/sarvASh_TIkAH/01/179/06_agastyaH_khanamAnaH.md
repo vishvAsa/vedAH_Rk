@@ -5,6 +5,13 @@ RShiH = "अन्तेवासी ब्रह्मचारी"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - रतिः
+- ऋषिः - अन्तेवासी ब्रह्मचारी
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

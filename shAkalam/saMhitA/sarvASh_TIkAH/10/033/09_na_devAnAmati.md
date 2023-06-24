@@ -5,6 +5,13 @@ RShiH = "कवष ऐलूषः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - उपमश्रवा मैत्रातिथिः
+- ऋषिः - कवष ऐलूषः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

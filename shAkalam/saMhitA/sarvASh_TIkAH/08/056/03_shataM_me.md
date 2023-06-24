@@ -5,6 +5,13 @@ RShiH = "पृषध्रः काण्वः"
 ChandaH = "गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
+- ऋषिः - पृषध्रः काण्वः
+- छन्दः - गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

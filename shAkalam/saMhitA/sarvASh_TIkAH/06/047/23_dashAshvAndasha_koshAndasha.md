@@ -5,6 +5,13 @@ RShiH = "गर्गः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - प्रस्तोकस्य सांर्जयस्य दानस्तुतिः
+- ऋषिः - गर्गः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

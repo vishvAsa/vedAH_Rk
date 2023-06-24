@@ -5,6 +5,13 @@ RShiH = "नाभाकः काण्वः अर्चनाना वा"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरुणः
+- ऋषिः - नाभाकः काण्वः अर्चनाना वा
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

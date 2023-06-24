@@ -5,6 +5,13 @@ RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - उपस्तुतो वार्ष्टिहव्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "गयः प्लातः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पथ्या स्वस्तिः
+- ऋषिः - गयः प्लातः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

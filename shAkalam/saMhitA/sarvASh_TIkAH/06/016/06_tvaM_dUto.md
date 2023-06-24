@@ -5,6 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "वर्धमाना गायत्री"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - वर्धमाना गायत्री
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

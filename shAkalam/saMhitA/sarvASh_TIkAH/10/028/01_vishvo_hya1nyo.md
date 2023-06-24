@@ -5,6 +5,13 @@ RShiH = "इन्द्रस्नुषा वसुक्रपत्नी 
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - इन्द्रस्नुषा वसुक्रपत्नी ऋषिका
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मन्युः
+- ऋषिः - मन्युस्तापसः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

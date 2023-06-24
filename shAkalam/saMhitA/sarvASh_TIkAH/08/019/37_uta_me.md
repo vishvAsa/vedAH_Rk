@@ -5,6 +5,13 @@ RShiH = "सोभरिः काण्वः"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - त्रसदस्योर्दानस्तुतिः
+- ऋषिः - सोभरिः काण्वः
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

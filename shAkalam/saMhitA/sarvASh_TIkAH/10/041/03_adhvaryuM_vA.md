@@ -5,6 +5,13 @@ RShiH = "सुहस्त्यो घौषेयः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - सुहस्त्यो घौषेयः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

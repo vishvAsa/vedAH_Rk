@@ -5,6 +5,13 @@ RShiH = "मनुर्वैवस्वतः"
 ChandaH = "पुरउष्णिक्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - मनुर्वैवस्वतः
+- छन्दः - पुरउष्णिक्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

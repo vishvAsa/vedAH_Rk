@@ -5,6 +5,13 @@ RShiH = "नृमेधः"
 ChandaH = "ककुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - नृमेधः
+- छन्दः - ककुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

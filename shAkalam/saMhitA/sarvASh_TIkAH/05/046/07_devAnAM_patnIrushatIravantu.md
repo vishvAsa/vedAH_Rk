@@ -5,6 +5,13 @@ RShiH = "प्रतिक्षत्र आत्रेयः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - देवपत्न्यः
+- ऋषिः - प्रतिक्षत्र आत्रेयः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

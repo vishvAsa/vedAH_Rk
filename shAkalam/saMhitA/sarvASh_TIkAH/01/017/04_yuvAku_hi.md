@@ -5,6 +5,13 @@ RShiH = "मेधातिथिः काण्वः"
 ChandaH = "पादनिचृत्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रावरुणौ
+- ऋषिः - मेधातिथिः काण्वः
+- छन्दः - पादनिचृत्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

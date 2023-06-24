@@ -5,6 +5,13 @@ RShiH = "कृशः काण्वः"
 ChandaH = "अनुष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
+- ऋषिः - कृशः काण्वः
+- छन्दः - अनुष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

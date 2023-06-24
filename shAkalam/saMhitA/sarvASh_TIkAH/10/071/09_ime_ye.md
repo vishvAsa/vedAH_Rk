@@ -5,6 +5,13 @@ RShiH = "बृहस्पतिः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - ज्ञानं
+- ऋषिः - बृहस्पतिः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

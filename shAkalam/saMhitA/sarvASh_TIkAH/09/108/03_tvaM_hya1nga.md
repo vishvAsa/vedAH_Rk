@@ -5,6 +5,13 @@ RShiH = "शक्तिः"
 ChandaH = "ककुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - शक्तिः
+- छन्दः - ककुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

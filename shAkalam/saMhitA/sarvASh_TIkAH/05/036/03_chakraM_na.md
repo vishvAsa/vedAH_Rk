@@ -5,6 +5,13 @@ RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - प्रभूवसुराङ्गिरसः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

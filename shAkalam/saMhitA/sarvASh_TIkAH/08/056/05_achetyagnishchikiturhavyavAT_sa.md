@@ -5,6 +5,13 @@ RShiH = "पृषध्रः काण्वः"
 ChandaH = "पङ्क्तिः"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निसूर्यौ
+- ऋषिः - पृषध्रः काण्वः
+- छन्दः - पङ्क्तिः
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

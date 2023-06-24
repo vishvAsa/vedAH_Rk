@@ -5,6 +5,13 @@ RShiH = "अनिलो वातायनः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वायुः
+- ऋषिः - अनिलो वातायनः
+- छन्दः - त्रिष्टुप्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

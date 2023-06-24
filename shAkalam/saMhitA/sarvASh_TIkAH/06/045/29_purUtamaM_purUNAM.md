@@ -5,6 +5,13 @@ RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अतिनिचृत्"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - शंयुर्बार्हस्पत्यः
+- छन्दः - अतिनिचृत्
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 

@@ -5,6 +5,13 @@ RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 
 +++
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्विनौ
+- ऋषिः - कक्षीवान् दैर्घतमस औशिजः
+- छन्दः - जगती
+</details>
+
 
 <details><summary>Thomson & Solcum</summary>
 
