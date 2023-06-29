@@ -194,6 +194,15 @@ ródasī ← ródasī- (nominal stem)
 तथा **रोदसी** द्यावापृथिव्यौ नाश्नुवाते । सर्वेभ्योऽतिरिच्यस इत्यर्थः। ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान्दिवो ज्यायानेभ्यो लोकेभ्यः' (छा. उ. ३. १४. ३) इति श्रुतेः ॥ ॥ ८ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+If a 100 Heavens o indra,  
+as also a 100 Earths could be yours,  
+O vajrin, a 1000 suns were not equal to you  
+even as you were born, nor were world-hemispheres
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
