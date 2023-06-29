@@ -186,7 +186,12 @@ ródasī ← ródasī- (nominal stem)
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे **इन्द्र** **ते** तव प्रतिमानार्थं **यत्** यदि **द्यावः** द्युलोकाः **स्युः** तथापि नाश्नुवन्ति । **उत** अपि च **भूमीः** भूम्यस्ते तव मूर्तिप्रतिबिम्बाय **शतं** स्युः तथापि नाश्नुवन्ति । हे **वज्रिन्** **त्वा** त्वां **सहस्रं** सूर्याः अगणिता अपि सूर्याः **न** **अनु** भवन्ति । न प्रकाशयन्तीत्यर्थः। ‘न तत्र सूर्यो भाति' ( क. उ. ५. १५) इति श्रुतेः । किं बहुना । **जातं** पूर्वमुत्पन्नं किंचन **न** **अष्ट** नाश्नुते । तथा **रोदसी** द्यावापृथिव्यौ नाश्नुवाते । सर्वेभ्योऽतिरिच्यस इत्यर्थः। ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान्दिवो ज्यायानेभ्यो लोकेभ्यः' (छा. उ. ३. १४. ३) इति श्रुतेः ॥ ॥ ८ ॥
+हे **इन्द्र**  
+**ते** तव प्रतिमानार्थं **यत्** यदि **द्यावः** द्युलोकाः **स्युः** तथापि नाश्नुवन्ति ।  
+**उत** अपि च **भूमीः** भूम्यस्ते तव मूर्तिप्रतिबिम्बाय **शतं** स्युः तथापि नाश्नुवन्ति ।  
+हे **वज्रिन्** **त्वा** त्वां **सहस्रं** सूर्याः अगणिता अपि सूर्याः **न** **अनु** भवन्ति । न प्रकाशयन्तीत्यर्थः। ‘न तत्र सूर्यो भाति' ( क. उ. ५. १५) इति श्रुतेः ।  
+किं बहुना । **जातं** पूर्वमुत्पन्नं किंचन **न** **अष्ट** नाश्नुते ।  
+तथा **रोदसी** द्यावापृथिव्यौ नाश्नुवाते । सर्वेभ्योऽतिरिच्यस इत्यर्थः। ‘ज्यायान्पृथिव्या ज्यायानन्तरिक्षाज्ज्यायान्दिवो ज्यायानेभ्यो लोकेभ्यः' (छा. उ. ३. १४. ३) इति श्रुतेः ॥ ॥ ८ ॥
 </details>
 
 <details><summary>Wilson</summary>
@@ -197,13 +202,12 @@ ródasī ← ródasī- (nominal stem)
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
-Not even a thousand suns: there (in **brāhmaṇa**) the sun shines not: **Katha** Upan. 5.15; no created thingwould fill you: the **soul** within my heart is greater than the earth, greater than the sky, greater than the heaven,greater than all these worlds: Chāndogya Up. 3.14
+Not even a thousand suns: there (in **brāhmaṇa**) the sun shines not: **Katha** Upan. 5.15; no created thing would fill you: the **soul** within my heart is greater than the earth, greater than the sky, greater than the heaven,greater than all these worlds: Chāndogya Up. 3.14
 </details>
 
 <details><summary>Jamison Brereton</summary>
 
-Since a hundred heavens and a hundred earths could be yours, Indra, a thousand suns were not equal to you when you were just born, o  
-mace-bearer, nor were the two world-halves.
+Since a hundred heavens and a hundred earths could be yours, Indra, a thousand suns were not equal to you when you were just born, o mace-bearer, nor were the two world-halves.
 </details>
 
 <details><summary>Jamison Brereton Notes</summary>
