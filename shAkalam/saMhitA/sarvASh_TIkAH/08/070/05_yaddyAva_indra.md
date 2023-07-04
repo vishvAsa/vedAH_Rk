@@ -199,7 +199,9 @@ ródasī ← ródasī- (nominal stem)
 If a 100 Heavens o indra,  
 as also a 100 Earths could be yours,  
 O vajrin, a 1000 suns were not equal to you  
-even as you were born, nor were world-hemispheres
+even as you were born, nor were world-hemispheres.
+
+shleSha in aShTa- indicating holy numbers 100+8; 1000+8 though in terms of semantics I believe it is the modal verb from root ash
 </details>
 
 
