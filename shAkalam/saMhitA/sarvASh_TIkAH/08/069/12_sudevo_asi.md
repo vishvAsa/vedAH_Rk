@@ -137,6 +137,24 @@ suṣirā́m ← suṣirá- (nominal stem)
 हे वरुण जलाभिमानिन् देव त्वं **सुदेवोऽसि** **यस्य** सुदेवस्य **ते** तव **काकुदं** तालु समुद्राख्यं **सप्त** **सिन्धवः** गङ्गाद्याः सप्त नद्यः **अनुक्षरन्ति** जिह्वायां सर्वदा स्रवन्ति ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+You are the good god o varuNa,  
+whose are the seven rivers  
+they follow through your throat  
+like through a pipe for good flow.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The peculiar simile suggests that the Indo-Aryans were familiar with pipes to convey water. Of course drain pipes are well known from Harappan sites. Such technology could have been more widely know and also used for supplying water from a reservoir.
+
+In fact my thinking was that this might be a structure similar to a (Iranian) qanat -- or something like that. The priyamedha-s were proximal to the branches that became Iranic.
+</details>
+
+
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
