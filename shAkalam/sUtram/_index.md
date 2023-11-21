@@ -1,4 +1,4 @@
 +++
-title = "+सूत्रम् आश्वलायनम्"
+title = "+सूत्रम्"
 unicode_script = "devanagari"
 +++
