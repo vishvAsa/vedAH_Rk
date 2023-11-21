@@ -86,7 +86,7 @@ Source: [TW](https://archive.org/details/Vaishvadeva/prayogamAlA/page/n3/mode/2u
 
 [[261]]
 
-## समिदाधानक्रमः
+## समिधाधानक्रमः
 
 ऋग्वेदीयसमिदाधानक्रमः
 
