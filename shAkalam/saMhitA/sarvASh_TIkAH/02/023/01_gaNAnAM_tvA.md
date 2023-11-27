@@ -175,7 +175,7 @@ sīda ← √sad- (root)
 हे **ब्रह्मणस्पते** ब्रह्मणो ऽन्नस्य परिवृढस्य कर्मणो वा पते पालयितः!!  
 **गणानान्** देवादिगणानां सम्बन्धिनङ् **गण-पतिं** स्वीयानां पतिङ्  
 **कवीनाङ्** क्रान्तदर्शिनाङ् **कविं**  
-**उपम-श्रवस्तमं** - उपमीयतेनयेत्य् **उपमा** - सर्वेषाम् अन्नानाम् उपमानं, **श्रवो** ऽन्नं यस्य स तथोक्तः, अतिशयेनोपमश्रवाः उपमश्रवस्तमः।  
+**उपम-श्रवस्तमं** - उपमीयते ऽनयेत्य् **उपमा** - सर्वेषाम् अन्नानाम् उपमानं, **श्रवो** ऽन्नं यस्य स तथोक्तः, अतिशयेनोपमश्रवाः उपमश्रवस्तमः।  
 माङ् माने आतश्चोपसर्गे करणे अङ्प्रत्ययः, ङ्यापोः सञ्ज्ञा-छन्दसोर् इति ह्रस्वत्वम्।  
 ज्येष्ठ-राजं ज्येष्ठाःप्रशस्यतमाः तेषाम्मध्येराजन्तं ब्रह्मणाम्मन्त्रणां स्वामिनन्त्वात्वांहवामहे अस्मिन्कर्मण्याह्वयामः किञ्च नोस्माकं स्तुतीः आशृण्वन् त्वंऊतिभिः पाल नैर्हेतुभूतैः सादनंसीदन्त्यस्मिन्नितिसदनंयज्ञगृहमासीदोपविश ॥ १ ॥
 </details>
@@ -184,7 +184,7 @@ sīda ← √sad- (root)
 
 ### English translation:
 
-“We invoke the **Brahmaṇaspati**, chief leaderof the (heavenly) bands; a sage of sage; aboundingbeyondmeasure in (every kind of) food;best lord of prayer; hearing our invocations, come with your protections, and sit down in the chamber of sacrifice.”
+“We invoke the **Brahmaṇaspati**, chief leaderof the (heavenly) bands; a sage of sage; abounding beyond measure in (every kind of) food;best lord of prayer; hearing our invocations, come with your protections, and sit down in the chamber of sacrifice.”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
@@ -194,8 +194,8 @@ Brahmaṇaspati = brahmaṇo annasya parivṛḍhasya karmaṇo vā pālayitā, 
 <details><summary>Jamison Brereton</summary>
 
 We call upon you, the troop-lord of troops, the most famous poet  of poets,  
-the preeminent king of sacred formulations, o lord of the sacred  
-formulation. Hearing us, sit down upon your seat together with your help.
+the preeminent king of sacred formulations, o lord of the sacred formulation.  
+Hearing us, sit down upon your seat together with your help.
 </details>
 
 <details><summary>Griffith</summary>
