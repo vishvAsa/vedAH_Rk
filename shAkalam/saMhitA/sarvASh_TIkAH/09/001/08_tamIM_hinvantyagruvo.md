@@ -123,6 +123,14 @@ vāraṇám ← vāraṇá- (nominal stem)
 **तमीम्** एनं सोमम् **अग्रुवः** अङ्गुलयः **हिन्वन्ति** अभिषवदेशं प्रति प्रेरयन्ति । प्रेरयित्वा च **बाकुरं** भासमानं **दृतिं** दृतिसदृशांशुमेनं सोमं **धमन्ति** अभिषुण्वन्ति । यद्यपि धमतिरभिषवकर्मा न भवति तथाप्यौचित्यादत्राभिषवपरो भविष्यति । तदेतत् सोमात्मकं **मधु** वस्तु **त्रिधातु** त्रिस्थानम् । द्रोणकलश आधवनीयः पूतभृदिति त्रिधातवः । **वारणं** शत्रूणां वारकं च भवति ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The maidens indeed please him
+[by] blowing a bagpipe made of hide:
+he the honey [in the] three-fold fortifications.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
