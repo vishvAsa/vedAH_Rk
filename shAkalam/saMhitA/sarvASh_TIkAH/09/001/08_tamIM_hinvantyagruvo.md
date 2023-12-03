@@ -130,6 +130,22 @@ The maidens indeed please him
 he the honey [in the] three-fold fortifications.
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+We hold that this is an archaic equivalent of the rite occurring after the sale (kraya) in the classical shrauta ritual where the subrahmaNya is sung. In the old rite the subrahmaNya/ its equivalent was probably accompanied by the maids playing a bagpipe. While my knowledge of later H music is very limited, I'm aware that a bagpipe is used across different H musical traditions at least as a drone. This would be the early attestation of the bagpipe in H tradition & probably served as something more than a drone. 
+
+What are 3-fold fortications of the last foot? We agree with sAyaNa that it represents the soma (probably mixed with honey) placed in the three vessels as the yajuSh states:
+
+> atha vA asyaite .agR^ihItA droNakalasha AdhavanIyaH pUtabhR^it tAn yad agR^ihItvopAkuryAt pavamAnaM ...
+
+> the droNakalasha, AdhavanIya and the pUtabhR^it. The AdhavanIya is the mixing vessel. 
+
+The second verse in the sUkta recited here already mentions the soma sitting in the droNa-kalasha: druNA sadhastham Asadat |
+
+The etymology of droNa from wooden=drUNa. Its described as ayohatam in the previous foot: fashioned with metal i.e., a chisel/hammer.
+</details>
+
+
 
 <details><summary>Wilson</summary>
 
