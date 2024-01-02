@@ -3,5 +3,4 @@ title = "११ बृहस्पतिर्नः परि"
 
 +++
 
-बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
-इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु ॥
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/044/11_bRhaspatirnaH_pari.md"  newLevelForH1="5" includeTitle="false"> </div>  

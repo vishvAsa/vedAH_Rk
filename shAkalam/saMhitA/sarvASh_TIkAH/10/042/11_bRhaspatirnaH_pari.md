@@ -186,6 +186,11 @@ várivaḥ ← várivas- (nominal stem)
 **पश्चात्** पश्चिमतो योऽघायुरागच्छति तस्मात् **अघायोः** पापकाच्छत्रोः **नः** अस्मान् **बृहस्पतिः** **परि** **पातु** रक्षतु । **उत** अपि च **उत्तरस्मात्** उत्तरतः **अधरात्** अधस्ताच्च योऽघायुरागच्छति तस्मादघायोः नोऽस्मान् परि पातु । **उत** अपि च **इन्द्रः** **पुरस्तात्** पूर्वतः **मध्यतः** व योऽघायुरागच्छति तस्मादघायोः **नः** अस्मान् परि पातु । किंच **सखा** सखिभूतेन्द्रः **सखिभ्यः** प्रियेभ्योऽस्मभ्यं **वरिवः** धनं **कृणोतु** करोतु ॥ ॥ २३ ॥ ॥ ३ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+बृहस्पतिः नः अस्मान् परिपातु सर्वैः प्रकारैः रक्षतु । पश्चादपरस्यां दिशि अवस्थितात् अघायोः अघं पापं योस्मभ्यमिच्छति तस्मात् पुरुषान्नः पातु । 'छन्दसि परेच्छायामपि' इति क्यच्, 'न छन्दसि' इतीत्वाभावः । उत अपि च उत्तरस्मादुत्तरदिगवस्थितात् अघायोर्नः पातु । अधरात् दक्षिणदिगवस्थिताच्चाघायोर्नः पातु, भूगोळे दक्षिणस्याधरत्वात् । इन्द्रश्च नो ऽस्मान्पुरस्तात्पूर्वतः पातु पूर्वस्यां दिश्यवस्थितात् अघायोः नः पातु । उत अपि च मध्यतः मध्यदिग्व्यवस्थिताच्च । किंच – सखा समानख्यानः सखिभ्यः समानख्यानेभ्यः यजमानेभ्यः वरिवः धनं कृणोतु ददातु । कः? आनन्तर्यादिन्द्रः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -196,7 +201,7 @@ várivaḥ ← várivas- (nominal stem)
 <details><summary>Jamison Brereton</summary>
 
 Let Indra, lord of the formulation, protect us all around, from behind  and from above and from below, from him who wishes ill—  
-from in front and from the middle. Let him, as comrade, create wide  space for his comrades.
+from in front and from the middle. Let him, as comrade/partner, create wide  space for his comrades/partners``.
 </details>
 
 <details><summary>Griffith</summary>
