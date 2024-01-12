@@ -192,6 +192,16 @@ víśvam ← víśva- (nominal stem)
 “He has filled the space of earth and the firmament (with his glory); he has fixed the constellations in the sky; no one has been ever born, now will be born, **Indra**, like you; you have sustained the universe.”
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+He filled the earth's atmosphere;
+He kept expanding the luminous worlds into the heaven.
+There is no one like you, o indra,
+none has been born nor will be born.
+You have waxed beyond the universe.
+</details>
+
+
 <details><summary>Jamison Brereton</summary>
 
 He filled the earthly space; he kept thrusting the luminous realms toward  heaven.  
