@@ -184,6 +184,15 @@ svarā́jyam ← svarā́jya- (nominal stem)
 “This heaven and earth trembled, thunderer, at your wrath, when, attended by the **Maruts**, you slew **Vṛtra** by your prowess, manifesting your own sovereignty.”
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+These two great ones (heaven& earth) verily tremble
+with fear for your wrath,  
+when you o indra, the vajra-bearer, with might
+with the marut-s slew vR^itra  
+[as] they worship your independent rule.
+</details>
+
 <details><summary>Jamison Brereton</summary>
 
 Even these two great (world-halves) here tremble with fear before your  battle-fury,  
