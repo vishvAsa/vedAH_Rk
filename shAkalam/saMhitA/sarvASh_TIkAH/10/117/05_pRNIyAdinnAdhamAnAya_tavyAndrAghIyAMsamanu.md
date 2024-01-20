@@ -194,6 +194,19 @@ tiṣṭhanta ← √sthā- (root)
 धनवन्तं पुरुषं दाने प्रेरयति । **तव्यान्** तवीयान् धनैरतिशयेन प्रवृद्धः पुरुषः **नाधमानाय** याचमानायातिथये **पृणीयादित्** धनानि दद्यादेव ॥  ‘ पॄ पालनपूरणयोः ' । क्र्यादिः । प्वादीनां ह्रस्वः ॥ यदि दद्यात् **द्राघीयांसम्** । दीर्घशब्दादीयसुनि ' प्रियस्थिर ' इत्यादिना द्राघीत्यादेशः॥ दीर्घतमं **पन्थां** पन्थानं सुकृतमार्गम् **अनु** **पश्येत** अनुपश्येत् । व्यत्ययेनात्मनेपदम्। तत्र कारणमाह। **रायः** धनानि **ओ** **हि**। आ उ। आ **वर्तन्ते** एव खलु। एकत्र न तिष्ठन्तीत्यर्थः । तत्र दृष्टान्तः । **रथ्येव** यथा रथ्यानि ॥  ‘ रथाद्यत् ' ( पा. सू. ४. ३. १२१ ) इति तस्येदम्' इत्यर्थे यत् ॥ रथसंबन्धीनि **चक्रा** चक्राण्युपर्यधोभावेनावर्तन्ते तद्वदावृत्तिमेव दर्शयति । **अन्यमन्यं** पुरुषं धनानि **उप** **तिष्ठन्त** उपतिष्ठन्ते । समवेतानि भवन्ति । उपाद्देवपूजासंगतिकरण ' (का. १. ३. २५. १) इत्यात्मनेपदम् ॥ तस्माद्धनानि देयानीति भावः ॥ ॥ २२ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The endowed should give to the indigent supplicant,  and should look along the longer path,  
+as like the wheels of a chariot turn on riches approach one and then another.
+</details>
+
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The "A~ngirasa ethics" are a rare fossil of early Aryan "dharma-subhAShita-s" preserved in the shruti. This may be taken as an early expression of the game theory foundation for altruism due the inherent instability of circumstance.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
