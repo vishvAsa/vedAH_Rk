@@ -112,12 +112,27 @@ dhīnā́m ← dhī́- (nominal stem)
 **देवी** दानादिगुणयुक्ता **वाजिनीवती** । वाजोऽनं यस्यां क्रियायां सा वाजिनी । तद्युक्ता । **धीनां** ध्यातॄणां स्तोतॄणाम् **अवित्री** रक्षित्री । एवंभूता **सरस्वती** **वाजेभिः** अन्नैः **नः** अस्मान् **प्र** **अवतु** प्रकर्षेण तर्पयतु ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+**देवी सरस्वती वाजेभिः** वाजैः रसैर् नो ऽस्मान् प्रावतु प्रकर्षेण रक्षत्वन्नादि दत्वा । सरस्वती विशेष्यते - **वाजिनीवती** वाजवत्-क्रियावती **धीनां** धियां **अवित्री** अभिमतप्रदानेन तर्पयित्री । यद्वा - धीनेति वाङ्नाम । अस्माकं धीनां वाचं प्रावतु, अभिमतप्रदानेन अवित्री पालयित्री तृप्ता वा अस्मदभिमतं शत्रुमारणं करोत्विति ।  
+यद्वा - अस्मद्दत्तैर्वाजैः पुरोडाशादिभिरन्नैः देवी प्रकर्षेणावतु । 'उपसर्गाद्बहुलम्' इति नसो णत्वम् । धीनामिति । छान्दसो नुट्, 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् ॥
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
 
 “May the divine **Sarasvatī**, the acceptress of (sacrificial) food, the protectress o her worshippers, sustain us with (abundant) viands.”
 </details>
+
+<details><summary>Keith</summary>
+
+May the goddess Sarasvati  
+With strength, rich in mares,  
+Further us, she that aideth prayer.
+</details>
+
 
 <details><summary>Jamison Brereton</summary>
 

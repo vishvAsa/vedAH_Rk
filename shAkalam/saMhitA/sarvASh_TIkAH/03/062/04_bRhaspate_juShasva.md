@@ -105,6 +105,11 @@ rátnāni ← rátna- (nominal stem)
 **विश्वदेव्य** सर्वदेवहित हे **बृहस्पते** **नः** अस्मत्संबन्धीनि **हव्यानि** हवनयोग्यानि पुरोडाशादीनि हवींषि **जुषस्व** सेवस्व । ततस्त्वं **दाशुषे** हविर्दत्तवते यजमानाय मह्यं **रत्नानि** उत्तमानि धनानि **रास्व** देहि ॥ रास्व । ‘रा दाने '। व्यत्ययेनात्मनेपदम् ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे बृहस्पते विश्वदेव्य विश्वेभ्यो देवेभ्यो हित । गवादिर्द्रष्टव्यः । अस्माकं हव्यानि जुषस्व सेवस्व । यद्वा - बृहस्पते बृहतां पते ब्रह्मन् विश्वदेव्य विश्वदेवमय हव्यानि जुषस्व सेवस्व आमन्त्रितस्य विद्यमानवत्त्वादाख्यातस्य निघाताभावे अदुपदेशाल्लसार्वधातुकानुदात्तत्वे शस्योदात्तत्वम् । सेवित्वा च दाशुषे तद्दत्तवते अस्मै यजमानाय रत्नानि रमणीयानि रास्व देहि । रातेश्छान्दसमनुदात्तत्वम्, तेनात्मनेपदम् सार्वधातुकानुदात्तत्वं च । 'दाश्वान् साह्वान्' इति दाशेः क्वसुन्निपात्यते ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -117,6 +122,14 @@ rátnāni ← rátna- (nominal stem)
 Br̥haspati belonging to the All Gods, enjoy our oblations.  
 Grant treasures to the pious man.
 </details>
+
+<details><summary>Keith</summary>
+
+O Brhaspati, with the All-gods,  
+Do thou rejoice in our oblations;  
+Grant riches to the generous giver.
+</details>
+
 
 <details><summary>Griffith</summary>
 
