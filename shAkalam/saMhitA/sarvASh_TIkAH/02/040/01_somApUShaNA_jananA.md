@@ -166,6 +166,11 @@ nā́bhim ← nā́bhi- (nominal stem)
 सोमापूषणा हे सोमापूषणौ युवांरयीणान्धनानां जनना जनयितारौ दिवः द्युलोकस्यापि जनना जनयितारौ पृथिव्याः प्रथितायाश्च जनना जनयितारौभवतः किञ्च जातौजातमात्रावेव युवांविश्वस्यभुवनस्य कृत्स्नस्यजगतः गोपौ गोप्तारौ देवाअमृतस्यामरणस्यनाभिं हेतुमकृण्वन् अकार्षुः ॥ १ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे सोमापूषणौ । पूर्ववदाकारः । रयीणां धनानां जनना जननौ जनयितारौ युवाम् । 'नामन्यतरस्यां' इति नाम उदात्तत्वम् । दिवश्च पृथिव्याश्च जनयितारौ । 'ऊडिदम्' इति दिवो विभक्तिरुदात्ता । 'उदात्तयणः' इति पृथिव्याः । जातौ जातमात्रावेव युवां विश्वस्य भुवनस्य भूतजातस्य गोपा गोपयितारौ । इर्दृशौ युवां देवा अकृण्वन् अकुर्वन् । अमृतस्य नाभिं नहनौ बन्धनौ ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -189,6 +194,16 @@ The published translation does not capture the etymological play between the tra
 
 It is only in d that it becomes clear that the dual nominal phrases in the first 3 pādas are in the acc. and are the obj. of akṛṇvan.
 </details>
+
+<details><summary>Keith</summary>
+
+O Soma and Pusan, begetters of wealth,  
+Begetters, of sky, begetters of earth,  
+Born as protectors of the whole world,  
+The gods have made (you) the navel of immortality.
+
+</details>
+
 
 <details><summary>Griffith</summary>
 

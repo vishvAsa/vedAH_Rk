@@ -169,6 +169,21 @@ usríyāsu ← usríya- (nominal stem)
 इमौ सोमापूषणौ देवौ द्योतमानौ जायमानौ उत्पन्नमात्रावेव जुषन्त सर्वेदेवाः अजुषन्त सेवितवन्तइतियावत् किञ्च इमौ सोमापूषणौ अजुष्टा आसेव्यानितमांसि गूहतान्नाशयतः किञ्च आभ्यामेताभ्यां सोमापूषभ्यांसहइन्द्रः आमासुतरुणीषुउस्रियासुगोष्वन्तर्मध्येऊधःप्रदेशेपक्वं परि क्वम्पयोजनत् जनयति ॥ २ ॥
 </details>
 
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इमौ देवाविति त्रिष्टुप् ॥ **इमौ** देवौ सोमापूषणौ जायमानाव् एवावस्थितौ **जुषन्त** अजुषन्त सेवितवन्तः सर्वे देवाः । 'बहुलं छन्दस्यमाङ्योगेपि' इत्यडभावः ।   
+किञ्च - **इमौ** देवौ **तमांसि अजुष्टा** अजुष्टानि अप्रियाणि । 'शेश्छन्दसि' इति लोपः । **अजुष्टा** अजुष्टौ तमोभिरसेवितारौ । पूर्ववदाकारः । **गूहताम्** अनाशयताम् । छान्दसो लिङ्, 'ऊदुपधाया गोहः' ।
+यद्वा - इमौ खलु सर्वस्य तमांसि **गूहतां** गूहयतः । लडर्थे लिङ् ।  
+किञ्च – **आभ्यां** सोमापूषभ्यां सह । अन्वादेशत्वेपि व्यत्ययेन निघाताभावः, 'ऊडिदम्' इति विभक्त्युदात्तत्वमेव प्रवर्तते । **आभ्यां सहेन्द्रः**, **आमासु** तरुणीषु **उस्रियासु** गोषु **अन्तः** परिपक्वं पयो **जनत्** जनयति उत्पादयति । जनेर्ण्यन्तात्पूर्ववल्लङ्, पूर्ववदडभावः, 'छन्दस्युभयथा' इति शप आर्धधातुकत्वाण्णिलोपः । ताविमावेवम्महानुभावौ अस्माकं दुश्चर्मतां नाशयतां शोभनानि दत्तामित्यर्थः ॥
+
+इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये प्रथमे काण्डे अष्टमे प्रपाठके द्वाविंशोनुवाकः ॥
+प्रपाठकस्समाप्तः काण्डश्च ॥
+
+हरिः ओम् ॥
+
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -194,6 +209,15 @@ This vs. contains three injunctives: juṣanta (a), gūhatām (b), janat (d), th
 
 Another ambiguity is posed by ābhyā́m … somāpūṣ́abhyām in cd, which can be instr., dat., or abl. dual. Geldner takes it as instr.: Indra performed this feat along with the two gods; Renou and Witzel Gotō (see also Hoffmann, Injunk. 124, 193-94) as a dat.: Indra did it for them. I also interpr. the phrase as a dat. -- though not with any strong conviction. On the one hand this deed (putting “raw” milk into “cooked” cows) is almost always attributed to Indra alone, so having Soma and Pūṣan as his accomplices seems somewhat unlikely. But on one occasion (VI.72.4) it's attributed to Indra and Soma in a dual dvandva índrāsomā. However, that hymn basically lays out Indra's great deeds and attributes them to Indra and Soma jointly, so there's no independent evidence of Soma's involvement in this action. As for how they could benefit from the exploit and thus be in the dative -- Soma would benefit from the creation of milk because he (or the ritual substance bearing his name) is mixed with milk in the Soma Sacrifice (a point also made by Witzel Gotō). But what Pūṣan would gain from it isn’t clear -- unless he likes milk with his habitual food, porridge (karambhá- ). (We should probably be wary of reading Anglo-American breakfast habits back into Vedic India.)
 </details>
+
+<details><summary>Keith</summary>
+
+In the birth of these gods they rejoiced;  
+They concealed the hateful darkness;  
+Through these two, Soma and Pusan,  
+The Indra made the cooked (milk) among the raw cows.
+</details>
+
 
 <details><summary>Griffith</summary>
 
