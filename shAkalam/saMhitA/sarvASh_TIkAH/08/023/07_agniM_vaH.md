@@ -153,6 +153,12 @@ vaḥ ← tvám (pronoun)
 **चर्षणीनां** मनुष्याणां **होतारं** होमनिष्पादकं **पूर्व्यं** पुरातनं **वः** यष्टृत्वेन युष्मत्संबन्धिनम् **अग्निं** **हुवे** आह्वयामि । आहूय च **तम्** अग्निम् **अया** अनया सूक्तरूपया **वाचा** गिरा **गृणे** शंसामि । किंच **वः** युष्मदर्थं **तमु** तमेवाग्निं **स्तुषे** स्तौमि ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तत्र - अग्निं व इत्यनुष्टुप् ॥ हे ऋत्विग्यजमानाः वः युष्मदर्थं अग्निं पूर्व्यं पूर्वैः कृतं पूर्वैराराधितं ते यौ [तया] च गिरा स्तुत्या देवमीडे याचे । यद्वा - गिरा स्तोत्रेण स्तौमि । वसूनाम् । चतुर्थ्यर्थे षष्ठी । वस्वर्थं **सपर्यन्तः** पूजयन्तः । सपर पूजायाम्, कण्ड्वादिः । पूजार्थमेकस्मिन् बहुवचनं, तदा ईडे इति व्यत्ययेनैकवचनम् । यद्वा - हे **सपर्यन्तः** । व्यत्ययेनामन्त्रिताद्युदात्तत्वम्, रभावः औणादिको वा, वसन्तानिवत् झच् । सपर्यन्तोहमीडे । अग्निर्वीशेष्यते - पुरुप्रियं बहूनां प्रियं **मित्रं न** मित्रमिव क्षेत्रस्य साधयितारम् ॥
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -165,6 +171,15 @@ vaḥ ← tvám (pronoun)
 I call upon Agni on your behalf, the foremost Hotar of the settled  domains.  
 I shall hymn him with this speech, and I shall praise him for you all,
 </details>
+
+<details><summary>Keith</summary>
+
+Agni for you I honour in song,  
+The god first of the bright ones;  
+Honouring him who prospereth the fields  
+Like a much loved friend.
+</details>
+
 
 <details><summary>Griffith</summary>
 

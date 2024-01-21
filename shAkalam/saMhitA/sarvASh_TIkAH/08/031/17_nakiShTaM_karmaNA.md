@@ -194,6 +194,13 @@ bhuvat ← √bhū- (root)
 **यः** यजमानः **देवानां** **मनः** यष्टुमिच्छति **तं** **नकिः** न कश्चिदपि **नशत्** स्वकीयेन **कर्मणा** न व्याप्नोति । नशतिव्याप्तिकर्मा । किंच स यष्टा **न** **प्र** **योषत्** स्वस्मात् स्थानान्न विभक्तः पृथक्कृतो न भवति । किंच **न** **योषति** पुत्रादिभिर्धनादिभिश्च न विभक्तो भवति । ‘यु मिश्रणामिश्रणयोः' इत्यस्य उभयत्र लेट्यडागमः । शिष्टं व्याख्यातम् ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+14अथ चतुर्थी - नकिरिति ॥ तमिति प्रथमास्थाने द्वितीया । स खलु कर्मणा धर्मेण नशत् नश्यति न दुःखाभिभूतो भवति । पूर्वजन्मकृतेन पापेन कर्मणा न बाध्यते । नशेर्लेटि व्यत्ययेन शप् ।     
+केचिदाहुः - कर्मणेति प्रथमैकवचनस्य लुगपवादः 'सुपां सुलुक्' इत्याकारः । नशेर्ण्यन्ताल्लेटि 'बहुलं संज्ञाछन्दसोः' इति णिलुक् ।
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -207,6 +214,15 @@ Because of his (ritual) work no one can catch up to him, nor send him  away, nor
 – Just he who, as sacrificer, seeks to attain the mind of the gods will  
 surpass non-sacrificers.
 </details>
+
+<details><summary>Keith</summary>
+
+No one shall in act approach him,  
+No one shall anticipate him nor stay him.  
+[He who by sacrifice is fain to win the mind of the gods  
+Shall prevail over those who sacrifice not.]
+</details>
+
 
 <details><summary>Griffith</summary>
 

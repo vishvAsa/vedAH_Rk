@@ -174,6 +174,14 @@ bhuvat ← √bhū- (root)
 हे **यजमान** **यः** भवान् **देवानां** **मनः** **इयक्षति** स त्वं **न** **रिष्यसि** विनष्टो न भवसि । किंतु पुत्रपौत्रादिभिर्वर्धसे । हे **सुन्वान** सोमाभिषवं कुर्वन् यः सुन्वंस्तेषां मन इयक्षति स त्वमपि **न** रिष्यसि । हे **देवयो** देवान् कामयमान यो देवानियक्षति तादृशस्त्वमपि **न** रिष्यसि किंतु धनादिभिर्वर्धसे । देवानां मनो यो यजमानो यष्टुमिच्छति स यागमकुर्वतो जनानभिभवति ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+12अथ द्वितीया - हे यजमान इष्ट्यादीन् कुर्वाण त्वं न रिष्यसि न हिंस्य असि । हे सुन्वान सोमानाहरन् त्वमपि न रिष्यसि । हे देवयो देवानात्मन इच्छन् पाकयज्ञादिभिः प्रचरन् त्वमपि न रिष्यसि । 'न छन्दस्यपुत्रस्य' इतीत्वाभावः, 'क्याच्छन्दसि' इत्युप्रत्ययः । किं कारणमित्याह - देवानां य इन्मन इत्यनुषज्यते । अयज्वानस्सोपद्रवा भवन्तीति शेषः ॥
+
+[कः पुनरसौ देववानित्याह – य एव देवानाम्मनो भवति, यमेव देवा मन्यन्ते, देवानेव वा यो मन्यते । ईदृशो यो यजमानः इयक्षति पुनर्देवान्यष्टुमिच्छति । आदिवर्णलोपश्छान्दसः । किञ्च - अयज्वनः अयजमानान् अभिभुवत् अभिभवदेव । तस्माद्वयमप्येवमर्थं यजामह इति । भवतेर्लेटि शपो लुक्, 'लेटोडाटौ' इत्यडागमः, 'भूसुवोस्तिङि' इति गुणाभावः ॥]
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -188,10 +196,19 @@ You suffer no harm, o sacrificer, nor do you, o presser, nor you, o seeker  of t
 surpass non-sacrificers.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou art not harmed, O sacrificer,  
+Nor thou, O pourer, nor thou, O pious one;  
+[He who by sacrifice is fain to win the mind of the gods  
+Shall prevail over those who sacrifice not.]
+</details>
+
+
 <details><summary>Griffith</summary>
 
 Ne'er are ye injured, worshipper, presser of juice, or pious man.  
-     The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
+The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
 </details>
 
 <details><summary>Geldner</summary>
