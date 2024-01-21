@@ -199,6 +199,12 @@ tanū́ṣu ← tanū́- (nominal stem)
 हे **सोमारुद्रा** सोमारुद्रौ **युवं** युवाम् **अस्मे** अस्माकं **तनूषु** अङ्गेषु **एतानि** प्रसिद्धानि **विश्वा** सर्वाणि **भेषजानि** **धत्तं** धारयतम् । किंच **नः** अस्माकं **तनूषु** अङ्गेषु अस्माभिः **कृतं** **बद्धं** च **यत्** **एनः** पापम् **अस्ति** विद्यते तत् पापम् **अव** **स्यतं** क्षपयतं श्लथयतम् । शिथिलबन्धं कुरुतमित्यर्थः । **अस्मत्** अस्मत्तः **मुञ्चतं** च ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सोमारुद्रा युवमिति त्रिष्टुप् ॥ हे सोमारुद्रा युवं युवां एतानि भेषजानि यानि लोके सन्ति तानि विश्वा विश्वानि अस्मे अस्माकम् । 'सुपां सुलुक्' इति शे आदेशः । तनूषु शरीरेषु धत्तं स्थापयतं, दत्तं वा ।   
+किञ्च - नः अस्माकं तनूषु बद्धं यदस्माभिः कृतं एनः पापमस्ति तत्प्रथमं तावदस्मत् अस्मत्तः मुञ्चतं विश्लेषयितम् । तिङः परत्वान्न निहन्यते । ततो मुक्त्वा तदवस्यतं अवसाययितं विनाशयितम् । न इत्यस्य 'प्रकृत्यान्तःपादम्' इति प्रकृतिभावः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -227,6 +233,15 @@ baddhám and kṛtám could simply modify the neut. énaḥ directly. But the st
 Provide, O Soma-Rudra, for our bodies all needful medicines to heal and cure us.  
      Set free and draw away the sin committed which we have still inherent in our persons.
 </details>
+
+<details><summary>Keith</summary>
+
+O Soma and Rudra, do ye give to us,  
+In our bodies, all these medicines;  
+Loosen and remove the evil we have done  
+That is bound within our bodies.
+</details>
+
 
 <details><summary>Geldner</summary>
 
