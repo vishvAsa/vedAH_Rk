@@ -20,6 +20,13 @@ ChandaH = "विराट्"
 तुवां꣡ श꣡श्वन्त उ꣡प यन्ति वा꣡जाः
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+प्रेद्धो॑ अग्ने दीदिहि पु॒रो नोऽज॑स्रया सू॒र्म्या॑ यविष्ठ ।  
+त्वाꣳ शश्व॑न्त॒ उप॑ यन्ति॒ वाजाः᳚ ।
+</details>
+
+
 <details><summary>Vedaweb annotation</summary>
 
 #### Strata
@@ -137,6 +144,12 @@ yanti ← √i- 1 (root)
 <details><summary>सायण-भाष्यम्</summary>
 
 **यविष्ठ** युवतम हे **अग्ने** **प्रेद्धः** प्रकर्षेण समिद्धस्त्वम् **अजस्रया** अशरणशीलया **सूर्म्या** ज्वालया **नः** अस्मदर्थं **पुरः** पुरस्तात् आहवनीयायतने **दीदिहि** दीप्यस्व । **त्वां** **शश्वन्तः** बहवः **वाजाः** अन्नानि हवींषि **उप** **यन्ति** उपगच्छन्ति ।
+_____________
+पाठस्तु– प्रेद्धो अग्न इति।  
+हेग्ने प्रेद्धः पूर्वमपि प्रकर्षेण दीप्तस्त्वं पुरो नोऽस्माकं पुरोदेशेऽजस्त्रया निरन्तरवर्तिन्या सूर्म्या सूर्मिसमानया ज्वालया दीदिहि पुनरपि दीप्यस्व।  
+ज्वलन्ती लोहमयी स्थूणा **सूर्मी**।  
+हे यविष्ठ युवतमाग्ने त्वां **शश्वन्तो**  
+२१९२ निरन्तर-भाविनो वाजा अन्नान्य् उपयन्ति सामीप्येन प्राप्नुवन्ति ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -154,6 +167,13 @@ With undecaying radiance: ajasrayā **sūrmyā**: surmi = samitkāṣṭham, kin
 
 When you are kindled forth, Agni, shine in front for us with your  inexhaustible shaft of light, o youngest one.  
 Prizes of victory ever go toward you.
+</details>
+
+<details><summary>Keith</summary>
+
+Enkindled, O Agni, shine before us,  
+O most youthful, with unfailing beam;  
+Ever upon thee strength awaiteth.
 </details>
 
 <details><summary>Griffith</summary>
