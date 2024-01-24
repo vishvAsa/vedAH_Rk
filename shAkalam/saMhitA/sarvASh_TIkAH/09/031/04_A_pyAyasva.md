@@ -157,6 +157,14 @@ sides, Soma.
 Be at the gathering for the prize.
 </details>
 
+<details><summary>Keith</summary>
+
+Swell up, lot thy strength be gathered  
+From all sides, O Soma;  
+Be strong in the gathering of might.
+</details>
+
+
 <details><summary>Griffith</summary>
 
 Soma, wax great. From every side may vigorous powers unite in thee:  

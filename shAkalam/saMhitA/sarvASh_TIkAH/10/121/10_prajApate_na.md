@@ -255,6 +255,12 @@ O Prajapati, none other than thou
 Hath encompassed all these beings;  
 Be that ours for which we sacrifice to thee  
 May we be lords of wealth.
+________________
+O Prajapati, none other than thou  
+Comprehendeth all these creatures [6].  
+What we seek when we sacrifice to thee, let that be ours;  
+May we be lords of riches.
+
 </details>
 
 <details><summary>Griffith</summary>
