@@ -187,6 +187,19 @@ vapantu ← √vap- 2 (root)
 हेस्तोतः श्रुतंविश्रुतम्प्रख्यातंरुद्रंस्तुहि कीदृशं गर्तसदं गर्तोरथस्तत्रसीदन्तंयुवानन्नित्यतरुणं भृगं- नभीमं मृगंसिंहमिवभयङ्करं उपहन्तुं उपहन्तारं शत्रूणांउग्रमुद्गूर्णं हेरुद्र त्वंस्तवानः अस्माभिः स्तू- यमानः सन् जरित्रेस्तोत्रेमह्यम्मृळसुखय तेत्वदीयाः सेनाः अस्मदन्यं अस्मद्भतिरिक्तं पुरुषन्निवपन्तु निघ्नन्तु ॥ ११ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अथाष्टमीमाह— स्तुहि श्रुतमिति हे मदीयंवचः श्रुतं प्रसिद्धं रुद्रं स्तुहि।  
+कीदृशम् गर्तसदं गर्तसदृशे हृदयपुण्डरीके सर्वदा तिष्ठन्तम्।  
+‘ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति’ इति स्मृतेः।  
+युवानं नित्यतरुणम्।  
+उपहत्नुमुग्रं प्रलयकाले सर्वं जगत्संहर्तुमुग्ररूपिणम्।    तत्र दृष्ठान्तः भीमं मृगं न भयंकरं सिंहमिव।  
+यथा गजविदारणायोग्रः सिंहो भवति तद्वत्।  
+हे रुद्र स्तवानोऽस्मद्वचसा स्तूयमानो जरित्रे जरणशीले दिने दिने क्षीयमाणेऽस्मच्छरीरे मृड सुखं कुरु।  
+ते त्वदीयाः सेना अस्मदन्यं वैरिणं निवपन्तु विनाशयन्तु
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
@@ -198,6 +211,12 @@ vapantu ← √vap- 2 (root)
 
 Praise the famed youth, sitting upon the high seat, the mighty one,  pouncing like a terrifying wild beast.  
 Being praised, have mercy on the singer, Rudra. Let your weapons cast  down another than us.
+</details>
+
+<details><summary>Keith</summary>
+
+Praise [3] the famous youth, mounted on the chariot seat, Dread and destructive like a fierce wild beast;  
+Being praised, O Rudra, be merciful to the singer; Let thy missiles smite down another than us.
 </details>
 
 <details><summary>Griffith</summary>
