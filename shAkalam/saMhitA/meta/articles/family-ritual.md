@@ -13,7 +13,8 @@ Unless RV.pdf ritual reconstuctors are deluded in thinking a Vishvāmitra or vas
 
 > Once RV.pdf for compiled, all mantras (eg. vaishvAmitra sAvitrI) became common property, and not clan-exclusive?
 
-RV consolidation is later than the family books no? So the eligibility to draw from the common book is from a later śrauta evolution which the reconstructor isn't willing to acknowledge. It's only due to the eligibility from tradition, we even offer tarpanas
+RV consolidation is later than the family books no? So the eligibility to draw from the common book is from a later śrauta evolution which the reconstructor isn't willing to acknowledge. It's only due to the eligibility from tradition, we even offer tarpanas To "our fathers, the bhŕgus, the atharvans, the navagvas.." during pitŕ tarpaņam.
+
 
 
 > a question I would have, and this might potentially be off-base, is whether the necessary step of the Nyasa of the Rsi is in some way related to this - of course, the (legit) Diksha for element means connexion *is* there (& thus one is *able* to 'emplace' Rsi for the thing?) 
