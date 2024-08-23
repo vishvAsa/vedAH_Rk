@@ -119,6 +119,18 @@ vásuḥ ← vásu- (nominal stem)
 **यः** रुद्रः **सूर्यः** इव **शुक्रः** सूर्यवद्दीप्तिमान् **हिरण्यमिव** **रोचते**। यथा सर्वेषां प्राणिनां हिरण्यं प्रीतिकरं भवति तथा रुद्रोऽपि । स च **देवानां** सर्वेषां मध्ये **श्रेष्ठः** **वसुः** निवासहेतुश्च ॥ रोचते ।  ‘ रुच दीप्तावभिप्रीत्यां च ' । अदुपदेशात् लसार्वधातुकानुदात्तत्वे धातुस्वरः । श्रेष्ठः । प्रशस्यतरः । प्रशस्यशब्दात् इष्टनि प्रशस्यस्य श्रः' (पा. सू. ५. ३. ६० ) इति श्रादेशः । नित्त्वादाद्युदात्तत्वम् । वसुः । वासयति सर्वमिति वसुः । ‘वस निवासे' । अन्तर्भावितण्यर्थात् ' शृस्वृस्निहि°! इत्यादिना उप्रत्ययः ।  ‘ नित्' इत्यनुवृत्तेराद्युदात्तत्वम् ॥ ॥ २६ ॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+He who shines like the Venu, the sun, like gold,
+[is] the rich chief of the gods, 
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Some RV mantravAdin-s suggest replacing this incantation of kaNva in the midst of the long sUkta of gR^itsamada to rudra (A te pitar marutAm...), in place of the R^ik-s alluding to his fiercer tendencies.
+</details>
+
+
 <details><summary>Wilson</summary>
 
 ### English translation:
