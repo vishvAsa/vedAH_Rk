@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gárbhaḥ ← gárbha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ svéṣu ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “THe embryo (of heaven and earth), the showerer (of benefits), the glorious, rejoices; the excellentchild (of morn and eve), the celebrator of holy rites calls aloud; assiduous in exertions at the worship of the gods,he moves chief in his own abodes.”
 </details>

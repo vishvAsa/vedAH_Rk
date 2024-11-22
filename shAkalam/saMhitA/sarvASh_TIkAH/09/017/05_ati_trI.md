@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -134,7 +137,8 @@ sū́ryam ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, mounting beyond the **three worlds**, you illumine heaven, and moving, you urge on the sun.”
 </details>

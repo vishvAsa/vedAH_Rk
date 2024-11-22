@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ketúm ← ketú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -159,11 +162,13 @@ rātím ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mātariśvan** brought, as a friend, to **Bhṛgu**, the celebrated **Vahni**, the illuminato of sacrifices, the careful protector (of his votaries), the swift-moving messenger (of the gods), the offspring of two parents, (to be to him) as it were a precious treasure.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rātim bhṛguṇām, son of the **Bhṛgus**; or, the wind brought **Agni** to the sage Bhṛgu, as a friend (**rāti**); cf. **arāti** = enemy, one who is not a friend. Offspring of two parents: eigher of heaven and earth, or of the two pieces of wood
 </details>

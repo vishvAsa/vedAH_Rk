@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 purāṣā́ṭ ← purāṣáh- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Indra**, the destroyer of cities, had slain the most mighty (**Vṛtra**), then he the Vṛtra-slayer filledthe waters; he was manifest (to all), the subduer of enemies, the lord of all, the most opulent; may he do thatwhich we desire to have done.”
 </details>

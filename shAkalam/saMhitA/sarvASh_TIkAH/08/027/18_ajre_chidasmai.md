@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájre ← ájra- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You enable him (**Manu**) to proceed by an unobstructed road; you grant him easy access to difficultpasses; may the weapon (of the foe) be far from him, and, inflicting no injury, perish.”
 </details>

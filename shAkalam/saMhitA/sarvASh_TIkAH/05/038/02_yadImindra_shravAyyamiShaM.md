@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -133,7 +136,8 @@ híraṇyavarṇa ← híraṇyavarṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Although, most mighty **Indra**, you possess well-known abundance (of food), yet golden-hued (deity) it is most notoriously reported as difficult(to be procured).”
 </details>

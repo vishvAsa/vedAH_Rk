@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ādhrā́ya ← ādhrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ vindate ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who, possessed of food, hardens his heart against the feeble man craving nourishment, againstthe sufferer coming to him (for help), and pursues (his won enjoyment even) before him, that man finds noconsoler.”
 </details>

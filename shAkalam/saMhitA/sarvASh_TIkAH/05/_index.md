@@ -5,7 +5,8 @@ title = "+05"
 
 <details><summary>Jamison Brereton</summary>
 
-### Sages  
+_________
+**Sages**  
 Only fourteen of the eighty-seven hymns of the maṇḍala are attributed or alternately attributed to Atri himself (V.27, 37–43, 76–77, 83–86). The majority of the  hymns were composed by Ātreyas, descendants of Atri, thirty-six of whom are  mentioned by the Anukramaṇī in Maṇḍala V.  In the Anukramaṇī’s reckoning,  only three of the Ātreyas— Vasuśruta (3–6), Sutambhara (11–14), and Śyāvāśva  (52–59, 81–82)—composed more than one or two hymns, and only Atri himself,  Śyāvāśva, and Avasyu Ātreya (31, 75) provided hymns to more than one deity or  set of deities in this book. 
 
 Unlike, for example, Maṇḍala III, the Viśvāmitra Family  Book, the eponymous poet is thus not the major poet of Maṇḍala V. Rather, Atri  is principally an ancestor, perhaps a fairly distant one, of a large family of poets.  Atri appears as a figure in hymns by Ātreyas (2, 7, 15, 73, 74, 78) and in one hymn  of his own (40), sometimes in reference to narratives associated with him, such  as his rescue by the Aśvins (73.6, 78.4) or Atri’s restoration of the sun (40.6–8).  In final verses poets occasionally refer to themselves and their people as “Atris”  (22.4, 39.5, 40.9, 67.5)—a plural that only occurs in the Vth Maṇḍala. 
@@ -14,7 +15,8 @@ In addition  to Atri and Ātreyas, there are other poets from families connected
  
 Geographically, the Atris ranged broadly from the rivers in the northwest, including the Kabul (Kubhā) and Kurram (Krumu) rivers, extending to the Yamunā in the  east.+++(5)+++ Strikingly, it is the same poet, Śyāvāśva, who mentions rivers in the northwest  (53.9) and the Yamunā (52.17).  
 
-### Gods  
+_________
+**Gods**  
 The Atris and their associates address a broader range of deities in their hymns  than do many of the other poetic families. The distribution is as follows:  Agni  (1–28), Indra (29–40), the All Gods (41–51), the Maruts (52–61), Mitra and Varuṇa  (62–72), the Aśvins (73–78), Dawn (79–80), Savitar (81–82), Parjanya (83), Earth  (84), Varuṇa (85), Indra and Agni (86), and the Maruts (87). 
 
 The last hymn, which  returns to the Maruts, is an addition to the original collection and unusual in a  number of respects. Metrically it is in a long lyric meter, and thematically it features  an unusual pairing of the Maruts with Viṣṇu.  

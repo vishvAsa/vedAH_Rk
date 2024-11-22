@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 ahve ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -141,11 +144,13 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the powerful **Indra** for (aid in) the food-bestowing combat; be near unto us for our happiness;be a friend for our increase.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Bhara** = sacrifice; for our happiness: when wealth or happiness is sought,
 </details>

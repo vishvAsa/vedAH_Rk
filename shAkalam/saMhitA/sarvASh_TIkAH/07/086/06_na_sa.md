@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dákṣaḥ ← dákṣa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ svápnaḥ ← svápna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “It is not our own choice, **Varuṇa**, not our condition, (that is the cause of our sinning); it is that which isintoxication, wrath, gambling, ignorance; there is a senior in the proximity of the junior; even a dream is aprovocation to sin.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Our condition: na sa svo dakṣo dhrutiḥ = the condition appointed by **destiny** at the time ofbirth is the cause of the committal of sin, not our own power or will, dhrutiḥ stirotpattisamaye nirmitā daivagatihpāpapravṛttau kāraṇam na svabhūtam balam;
 

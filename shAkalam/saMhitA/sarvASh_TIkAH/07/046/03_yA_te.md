@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávasr̥ṣṭā ← √sr̥j- (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
 
@@ -201,7 +204,8 @@ tokéṣu ← toká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your blazing (weapon), which, discharged from heaven, traverses the earth, avoid us; thine,appeaser of the wind, are a thousand medicaments; inflict not evil upon our sons and grandsons.”
 </details>

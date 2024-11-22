@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dānā́ ← dāmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ mahā́n ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As a wild elephant emitting the dews of passion, he manifests his exhilaration in many plural ces; no onechecks you, (**Indra**), come to the libation; you are mighty, and goes (everywhere) through your strength.”
 </details>

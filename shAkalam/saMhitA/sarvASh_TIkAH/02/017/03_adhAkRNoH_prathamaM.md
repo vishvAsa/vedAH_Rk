@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -204,7 +207,8 @@ sisrate ← √sr̥- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, **Indra**, you have displayed your first great prowess, when, (propitiated) by the prayer (of the worshipper), you have put forth your withering (vigour) in his presence; and when the congregated enemies (of the gods), hurled down by you in youur chariot, drawn by your horses, fled, scattered.”
 </details>

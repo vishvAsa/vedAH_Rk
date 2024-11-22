@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótā ← hótar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -120,7 +123,8 @@ vácaḥ ← vácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Propitiated) by brilliant strains, do your, ever-youthful **Agni**, selected by us, become our ministrant priest, (invested) with radiance.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 aṅgiraḥ ← áṅgiras- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -116,7 +119,8 @@ yaviṣṭhya ← yáviṣṭhya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We augment you, **Aṅgiras**, with fuel and with butter; blaze fiercely, youngest (of the gods).”
 </details>

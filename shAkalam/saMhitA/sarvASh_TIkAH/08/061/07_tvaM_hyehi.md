@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -152,11 +155,13 @@ indra ← índra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are (bounteous), come, may you obtain wealth to distribute to the worshipper; shower your bounty,**Maghavan**, on me desiring cows, shower it, **Indra**, on me desiring horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cerave = cetayitre = **medhāvin**, theworshiper
 </details>

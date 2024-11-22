@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 śaucadrathé ← śaucadrathá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -167,7 +170,8 @@ sújāte ← sujātá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Daughter of heaven, who have dawned upon **Sunitha**, the son of Śucadratha, bright-born, and praised sincerely for (the gift of) horses, dawn upon the powerful son of **Vayya**, **Satyaśravas**.”
 </details>

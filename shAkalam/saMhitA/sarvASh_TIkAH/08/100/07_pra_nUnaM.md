@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 dhāvata ← √dhāv- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -167,11 +170,13 @@ vájram ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Haste now severally forward; he is not here who stopped your way-- has not **Indra** let fall histhunderbolt in the very vitals of that enemy?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That enemy who was running forward and stayed not apart and didnot hinder you-- Indra has thrown (nyapīpatat) his bolt in the vitals of that enemy
 </details>

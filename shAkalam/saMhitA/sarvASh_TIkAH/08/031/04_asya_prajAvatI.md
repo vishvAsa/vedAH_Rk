@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -112,11 +115,13 @@ duhe ← √duh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In his house perpetual abundance, accompanied by progeny, (is present), and kine are milked day byday.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In his house perpetual abundance, accompanied by progeny and cattle, is milked day by day; or, Iḷā =goddess of cows; hence, duhe = milks forth, bestows
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -187,11 +190,13 @@ suvānáḥ ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit the protection of heaven and earth; (we solicit) the maternal rivers, the mountains with theirlakes, the sun and the dawn, for freedom from sin; may the **Soma** that is now effused secure to us today goodfortune.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The mountains with their lakes = liṭ, the mountains of (the lake) Śaryaṇāvat
 </details>

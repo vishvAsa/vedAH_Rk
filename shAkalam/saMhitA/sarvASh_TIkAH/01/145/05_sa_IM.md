@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápyaḥ ← ápya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the searcher, the accessible, the dweller in woods, has been plural ced (amidst the fuel), as in the similitude of (an enveloping) skin; the wise **Agni**, the appreciater of sacrifice, the veracious, has declared to mortals (the knowledge of) their religious duties.”
 </details>

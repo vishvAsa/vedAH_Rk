@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devāsaḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -146,7 +149,8 @@ yachata ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gods, who are here present, all to whom this full sacrifice is offered, bestow upon us, upon our cattleand horses, happiness far renowned.”
 </details>

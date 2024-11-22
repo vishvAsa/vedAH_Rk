@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -181,7 +184,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether, **Aśvins**, you abide today in the west, whether opulent in food, you abide in the east, whetheryou sojourn with **Druhyu**, Anu, Turvaśu or **Yadu**, I invoke you, therefore, come to me.”
 </details>

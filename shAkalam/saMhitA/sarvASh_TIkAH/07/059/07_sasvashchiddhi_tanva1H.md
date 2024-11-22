@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -199,7 +202,8 @@ sávane ← sávana- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Maruts** yet unrevealed, decorating their person ns, descend like black-backed swans; let theentire company gather round me like happy men rejoicing together at a solemn rite.”
 </details>

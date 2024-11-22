@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cariṣṇvàm ← cariṣṇú- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -181,11 +184,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have broken to pieces the moveable city of **Śuṣṇa** with your weapons; you who are light havefollowed him; wherefore, **Indra**, you are in two ways to be worshipped.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Two ways: **dvitā** **havyaḥ**, by praisersand by sacrificers, stotṛbhir yaṣṭṛbhiśca
 </details>

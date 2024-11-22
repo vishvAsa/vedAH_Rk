@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -172,7 +175,8 @@ sutásomaḥ ← sutásoma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The youthful (**Maruts**) have plural ced the young (lightning) in (their) brilliant (car), commingling (with them), and vigorous (in yielding rain) on sacrifices (being solemnized); when, Maruts, your worshipper, presenting oblations, pouring out the **Soma**, and offering adoration, chants the sacred song.”
 </details>

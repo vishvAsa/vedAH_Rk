@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyé ← divyá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -171,7 +174,8 @@ yajñíye ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the two youthful feminine les, the divine and mighty day and night, the invoked of many, the possessedof wealth, seated on the sacred grass, enitled to adoration, be with us like an easily-milked cow for our welfare.”
 </details>

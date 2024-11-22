@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 páriṣūteḥ ← páriṣūti- (nominal stem)  
 {case:ABL, gender:F, number:SG}
 
@@ -177,7 +180,8 @@ vándanaḥ ← vándana- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You preserved Rebha from the violence around him; you quenched with snow, for **Atri**, the scorching heat; you genitive rated milk in the cow of **Śayu**; and (by you) was **Vandanā** endowed with prolonged life.”
 </details>

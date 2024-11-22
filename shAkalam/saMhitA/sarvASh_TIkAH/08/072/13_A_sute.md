@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -114,11 +117,13 @@ vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drop into the milked (stream) the admixture, which reaches, (as it boils), heaven and earth; set the bullin the liquor.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Admixture: goat's milk which is poured into the cow's milk in the **gharma**; heaven and earth: theAśvins (**NIrukta** 12.1); bull in the liquor: **vṛṣabha** = bull, **Agni**;
 

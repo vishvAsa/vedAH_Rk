@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́rutam ← mā́ruta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -229,7 +232,8 @@ vásu ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I now (glorify) the brilliant vigour of the company of the **Maruts**, loud-sounding, irresistible, cherishing, whereby hundreds and thousands (of treasures) are bestowed collectively upon men; may that (company) make hidden wealth manifes; may it render the wealth easily accessible to us.”
 </details>

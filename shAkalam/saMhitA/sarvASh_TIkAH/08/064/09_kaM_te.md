@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 asakṣata ← √sac- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -140,7 +143,8 @@ ukthé ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In what character, O slayer of **Vṛtra**, do the sacrificial offerings honour you, or the brave praises in thehymn? Who is nearest (in time of battle)?”
 </details>

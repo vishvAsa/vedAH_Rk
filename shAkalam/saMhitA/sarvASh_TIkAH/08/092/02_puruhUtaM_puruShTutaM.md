@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruhūtám ← puruhūtá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -103,7 +106,8 @@ bravītana ← √brū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Proclaim that deity as **Indra**, who is invoked by many, who is praised by many, who is worthy of songsand renowned as eternal.”
 </details>

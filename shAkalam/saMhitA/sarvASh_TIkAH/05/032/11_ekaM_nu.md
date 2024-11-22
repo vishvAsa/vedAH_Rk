@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ékam ← éka- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ vástoḥ ← vástu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily I hear you as chief among men, the protector of the good, friendly to the five classes of beings, the begotten, the renowned; may my (progeny), representing (their wishes), and uttering, his praises night and day, propitiates the glorified **Indra**.”
 </details>

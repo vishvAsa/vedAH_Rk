@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śárdhāya ← śárdha- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ vidátheṣu ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer, **Nodhas**, earnest praise to the company of the **Maruts**, the senders of rain and ripeners of fruit, deserving of adoration. Composed, and with folded **hands**, I utter the praises conceived in my mind, which are efficacious in sacred rites, (and flow rreadily) as the waters.”
 </details>

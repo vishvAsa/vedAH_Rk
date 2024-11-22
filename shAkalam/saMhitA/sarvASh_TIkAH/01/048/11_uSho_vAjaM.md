@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -190,7 +193,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, accept the (sacrificial) food which of many kinds exists among the human race, and thereby bring to the ceremony the pious, who offering oblations, praise you.”
 </details>

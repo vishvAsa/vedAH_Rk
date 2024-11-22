@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cárcaram ← cárcara- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -182,7 +185,8 @@ vāyúḥ ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fierce (**Aśvins**), like two powerful (heroes), you enable this moving, perishable mortal (frame) to crossover to the objects (of its destination) as over water; extremely strong, like the **Ṛbhus**, your chariot attained itsdestination swift as the wind, it pervaded (everywhere), it dispensed riches.”
 </details>

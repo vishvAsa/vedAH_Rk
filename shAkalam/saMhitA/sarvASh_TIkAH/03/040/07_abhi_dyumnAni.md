@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -114,7 +117,8 @@ vāvr̥dhe ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The brilliant and imperishable (**Soma**), offered by the worshipper, encompasses **Indra**; having drunk of the libation, he increases (in vigour).”
 </details>

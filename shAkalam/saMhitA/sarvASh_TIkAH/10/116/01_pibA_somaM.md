@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indriyā́ya ← indriyá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ vr̥ṣasva ← √vr̥ṣ- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink (**Indra**) the **Soma** for the invigoration of your organs, drink, most mighhty one, for the death ofVṛtra; drink when invoked for wealth, for strength; drink of the exhilarating Soma, and being satisfied, Indra,shower down (blessings).”
 </details>

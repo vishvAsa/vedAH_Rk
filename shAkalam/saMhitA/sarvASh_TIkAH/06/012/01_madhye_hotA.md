@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíṣaḥ ← barhís- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -190,11 +193,13 @@ tatāna ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the invoker of the gods, the lord of sacrifice, abides in the dwelling of the instrumental tutor of the rite, to offer sacrifice to heaven and earth; he, the son of strength, the observer of truth, has overspread (the world) from afar, like the sun, with light.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of the instrumental tutor: todasya, from tud, to torment or distress; he who is distressed by ascetic devotion, tapasā pīḍyate, i.e. the **yajamāna**
 </details>

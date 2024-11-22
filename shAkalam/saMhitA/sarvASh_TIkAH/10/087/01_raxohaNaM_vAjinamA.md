@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -206,7 +209,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer clarified butter to the powerful **Agni**, the slayer of **rākṣasas**, I approach the most spaciousdwelling, the friend (of worshippers); Agni sharpening (his flames) is kindled by pious men; may he guard us frommalignant spirits by day and by night.”
 </details>

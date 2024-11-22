@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghŕ̥ṣuḥ ← ghŕ̥ṣu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -112,7 +115,8 @@ dīdhet ← √dhī- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the brilliant, (**Indra**), who is a benefactor among thwese his own (people), for the sake ofthe hymn; **Suparṇa**, the son of the Tārk.sya. ahiśuvaḥ = name of an **asura**; the subject of the verb may beSoma and not Indra\].”
 </details>

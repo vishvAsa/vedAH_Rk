@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́sitha ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -145,7 +148,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who has ever been the friend of those who praise you, and the insurer of their happiness by your protection, grant us felicity.”
 </details>

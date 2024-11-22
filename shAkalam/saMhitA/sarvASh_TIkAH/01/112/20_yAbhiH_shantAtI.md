@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhávathaḥ ← √bhū- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -188,11 +191,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you are bestowers of happiness upon the donor (of oblations), by which you have protected **Bhujyu** and **Adhrigu**, and by which you have granted delighting and nourishing (food) to **Ritastubh**; with them. **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Adhrigu was a sacrificer, immolator, along with **Capa**, of the gods: **adhrigus** **capas** ca devānām śamitārau (**Taittirīya** **Brāhmaṇa** 3.6.6.4; **Ṛtastubh** was a ṛṣi
 </details>

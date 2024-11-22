@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́ ← mā́ (invariable)  
 {}
 
@@ -182,11 +185,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Subject us not, adorable (deities), to the robber or his wife; not to any one designing us harm; for you are the regulators of our person ns, of our strength, of our speech.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the robber: mā no vṛkāya vṛkye rīradhatā: hiṃsakāya, stenāya, to the injurer, the thief; tasya stiyai, to his woman or wife; **vṛka** may mean wild-dog or wolf, **araṇya** śvān; **vṛki** is a feminine le wolf
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácyutāni ← ácyuta- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -183,7 +186,8 @@ vratā́ya ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You alone casting down the firmly-footed (**asuras**) proceed, destroying the **Vṛtras**, and obedient to your command the heaven and earth and the mountains stood as if immoveable.”
 </details>

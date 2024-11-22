@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 dháneṣu ← dhána- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -127,7 +130,8 @@ yéṣām ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(His worshippers) invoke him to take part (in spoiling) the trasures deposited (with the foe); theyconquer, of whom **Indra** is (the partisan).”
 </details>

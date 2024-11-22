@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 enam ← ena- (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -207,11 +210,13 @@ tásarāṇi ← tásara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The first man spreads out this (web), the first man rolls it up, he spread it above in this heaven; thesehis rays have sat down on the seat (of sacrifice), they have made the prayers serve as shuttles for weaving.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Saprāpatiryajñamatanuta: **Aitareya** **Brāhmaṇa** 5.32
 </details>

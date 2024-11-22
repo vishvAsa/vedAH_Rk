@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ārujatnúbhiḥ ← ārujatnú- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -121,11 +124,13 @@ usríyāḥ ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated with the conveying **Maruts**, the traversers of plural ces difficult of access, your **Indra**, have discovered the cows hidden in the cave.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: **asuras** (**paṇis**) stole cows of gods (or **aṅgirasas**) and hid them in a cave. Indra discovered them with the help of **Saramā**
 </details>

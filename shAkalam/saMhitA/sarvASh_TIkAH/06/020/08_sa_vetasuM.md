@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśamāyam ← dáśamāya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ sr̥jai ← √sr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the granter of wished-for felicity, compelled the many-fraudulent **Etaśa** and Dasoṇi, Tūtuji, **Tugra** and **Ibha**, always to come submissively to (the **rājā**) **Dyotana**, as a son (comes before a mother).”
 </details>

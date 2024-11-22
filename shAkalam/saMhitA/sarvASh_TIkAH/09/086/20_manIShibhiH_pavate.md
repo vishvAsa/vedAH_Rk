@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavíḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ vāyóḥ ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ancient sage (**Soma**) is purified by the wise, guided by the priests he roars into the receptacles; genitive rating the water of the threefold (**Indra**), he distils sweet juice to gain Indra's and **Vāyu**'s friendship.”
 </details>

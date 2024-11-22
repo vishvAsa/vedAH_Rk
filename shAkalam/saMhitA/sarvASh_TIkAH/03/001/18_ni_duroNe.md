@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ víśvāni ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The immortal being has sat down in the dwelling of mortals, accomplishing (their) sacrifices; **Agni**, who is cognizant of all sacred rites, shines with expanded bulk when fed with clarified butter.”
 </details>

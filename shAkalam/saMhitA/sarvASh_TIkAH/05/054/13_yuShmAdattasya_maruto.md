@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -168,11 +171,13 @@ sahasríṇam ← sahasrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, who are possessed of chariots, intelligent **Maruts**, become (proprietors) of wealth, comprising food bestowed by you; of wealth that vanishes not, as **Tiṣya** (declines not) from the sky; therefore, Maruts, gratify us with infinite (riches).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tiṣya: = **Āditya**; it is the eighth lunar mansion
 </details>

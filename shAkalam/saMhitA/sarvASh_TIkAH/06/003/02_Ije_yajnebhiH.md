@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ījé ← √yaj- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -185,7 +188,8 @@ prádr̥ptiḥ ← prádr̥pti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who has presented (oblations) to **Agni**, the possessor of desired (wealth), sacrifices with (all) sacrifices, and is sanctified by (all) holy acts; him, the wand of excellent (posterity) does not afflict, nor does sin or pride affect a mortal.”
 </details>

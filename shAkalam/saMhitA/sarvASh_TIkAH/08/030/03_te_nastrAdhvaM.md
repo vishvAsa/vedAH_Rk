@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avata ← √avⁱ- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -194,11 +197,13 @@ parāvátaḥ ← parāvát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you preserve us, do you protect us, do you direct us (to our good); lead us not afar from the paternalpaths of **Manu**, nor from those still more distant.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From the paternal paths of Manu: Manu is said to be theuniversal father, and the paths he enjoins are those of austerity and ceremonial. **brahmacarya** agnihotrādikarmāṇi yena mārgeṇa **bhavanti** tam evam asmānnayata; lead us not away from the far-reaching paternalpath of Manu, but away from any which is distant therefrom
 </details>

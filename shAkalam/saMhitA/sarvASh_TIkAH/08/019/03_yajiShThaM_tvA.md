@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
 
@@ -118,11 +121,13 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We adore you, the most adorable deity, the invoker of the gods, the immortal, the perfecter of thissacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 "We adore you, the most adorable, the deity among deities, the invokeṛ."
 </details>

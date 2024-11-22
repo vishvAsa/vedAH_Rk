@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -116,7 +119,8 @@ vájram ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, bear your well-beloved and adorable thunderbolt in your arms, sharpening it with yourmight.”
 </details>

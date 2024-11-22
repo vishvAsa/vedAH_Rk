@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 bhávantam ← √bhū- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -119,7 +122,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[7-8\] He who knows **Agni** hidden in the hollows; he who approaches him as the maintainer of truth; those who, performing worship, repeat his praises, to them assuredly he promises affluence.”
 </details>

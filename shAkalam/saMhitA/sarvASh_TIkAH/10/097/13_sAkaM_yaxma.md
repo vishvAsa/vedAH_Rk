@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 pata ← √pat- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -135,11 +138,13 @@ sākám ← sākám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fly forth, sickness, with the jay, with the blue jay, with the velocity of the wind, perish along with theiguana.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Iguana: kikidīvinā: an epithet of cāṣeṇa, making these **kiki**; perhaps, an allusion to the severaldiseases arising from vitiated **bile**, phlegm and wind (**Yajuṣ**)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrim ← ádri- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**) recovered (the hidden cattle), hurling his thunderbolt from heaven at the prayers of the **Aṅgirasas**; the rays of the approaching dawn are spread around; the divine sun, scattering the clustered gloom, has risen and set open the doors of (the habitations of) men.”
 </details>

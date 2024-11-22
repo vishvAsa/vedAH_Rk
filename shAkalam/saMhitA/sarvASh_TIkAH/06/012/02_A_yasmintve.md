@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -189,7 +192,8 @@ yájadhyai ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable and resplendent **Agni**, to whom, mature in wisdom, the worshipper offers oblations at every sacred rite, do you, who are present in the three (worlds), move with the speed of the traverser (of the sky, the sun), to convey the valuable oblations of men (to the gods).”
 </details>

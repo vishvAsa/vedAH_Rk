@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgaiḥ ← áṅga- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -189,11 +192,13 @@ yoṣat ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Firm) with strong limbs, assuming many forms fierce, and tawny-coloured, he shines with brilliant golden ornaments; vigour is inseparable from **Rudra**, the supreme ruler and lord of this world.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vigour: asuryam = **bala**, strength; or, it may connect Rudra with the **asuras**
 </details>

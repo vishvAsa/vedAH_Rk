@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́naṭ ← √naś- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -202,11 +205,13 @@ vājī́ ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drinker of the **Soma**, **Vāyu**, you elevate him who among mortals offers to you who are the lord anexcellent oblation, the pure Soma; repeatedly born, he is born for the acquisition of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jāyate vājyasya =dhanasya prāptaye
 </details>

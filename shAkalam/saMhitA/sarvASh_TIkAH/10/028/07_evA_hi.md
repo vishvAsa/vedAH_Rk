@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -205,11 +208,13 @@ vrajám ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since, **Indra**, the gods have known me to be powerful, fierce in every act, the showerer (of oblations);exulting I have slain **Vṛtra** with your thunderbolt, and by my might have opened the clouds for the donor (ofoblations).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gods: or, the priests and **yajamānas**
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -111,7 +114,8 @@ saparyéma ← √sapary- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Granter of riches, may we, your worshippers, propitiate you, who are desirous of (sacrificial) wealth, and deserving of laudation, by our praise.”
 </details>

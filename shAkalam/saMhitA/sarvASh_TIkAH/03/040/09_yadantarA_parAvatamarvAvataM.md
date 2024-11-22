@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 antarā́ ← antarā́ (invariable)  
 {}
 
@@ -131,7 +134,8 @@ tátas ← tátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether you are called from nigh or from afar, or from mid-space, come hither, **Indra**, from thence.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diví ← dyú- ~ div- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ruling over the water that are in heaven and earth, impelled by you, (the clouds) assume the form ofrain may the auspiciously manifested **Mitra**, the royal **Aryaman**, the powerul **Varuṇa**, accept our oblatioṇ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Impelled by you the clouds: pra vām ghṛtasya nirṇijo dadīran = yuvābhyām **preritā** **meghā** udakasyarūpāṇi prayacchanti, impelled by you the clouds give the forms of water; or, **ghṛta** keeps its ordinary sense,the forms of butter, i.e., oblations, are given to you
 </details>

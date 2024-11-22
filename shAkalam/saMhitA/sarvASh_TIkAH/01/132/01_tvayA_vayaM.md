@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dháne ← dhána- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -249,11 +252,13 @@ vājayántaḥ ← √vājay- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Possessed of) former opulence, **Maghavan**, (through your bounty); protected, **Indra**, by you, may we overcome those who are arrayed in (hostile) hoste; may we anticipate (our) assailants. (The sacrifice) of today being nigh, speak encouragingly to the presenter of the libation; may we bring together at this rite (suitable offerings and praises) to you, the victor in war; worshipping you, the victor in war.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhare kṛtam = saṅgrāme jayasya kartāram; **bhara** iti saṅgrāmanāma, bharatervā haratervā (**Nirukta** 4.24)
 </details>

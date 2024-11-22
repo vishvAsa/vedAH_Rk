@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -168,7 +171,8 @@ yájamānāya ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I support the foe-destroying **Soma**, **Tvaṣṭā**, **Pūṣan** and **Bhaga**; I bestow wealth upon the instrumental tutorof the rite offering the oblation, deserving of careful protection, pouring forth the libation.”
 </details>

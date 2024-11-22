@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 draviṇodā́ḥ ← draviṇodā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -116,7 +119,8 @@ r̥túbhiḥ ← r̥tú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Draviṇodas desires to drink with the Ṛtu from the cup of **Neṣṭā** (= **tvaṣṭā** or one of 16 officiating priests); hasten, (priest, to the hall of offering); present the oblation, and depart.”
 </details>

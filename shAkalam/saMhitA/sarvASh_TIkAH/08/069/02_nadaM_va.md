@@ -23,15 +23,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nadám ← nadá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -119,11 +122,13 @@ iṣudhyasi ← √iṣudhy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Invoke) for yourselves the author of the dawns, (I invoke) for you the roarer of the rivers; (I invoke) foryou the lord of the inviolable ones; (O sacrificer), you desire kine.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Author of the dawns: **anda** = utpādaka; Indrais called he author of the dawns as being identified with the sun, as one of the twelve **Ādityas**; inviolable ones:aghnyānām = cows
 </details>

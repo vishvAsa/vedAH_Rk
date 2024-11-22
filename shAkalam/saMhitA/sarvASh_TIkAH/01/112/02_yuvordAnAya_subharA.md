@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asaścátaḥ ← asaścát- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -211,7 +214,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Earnest and exclusive adorers stand, **Aśvins**, round your car, (to benefit) by your bounty, as (disciples listen) to the words (of a teacher) for instrumental uction; with those aids with which you defend the pious who are engaged in acts of worship, come, Aśvins,wilingly hither.”
 </details>

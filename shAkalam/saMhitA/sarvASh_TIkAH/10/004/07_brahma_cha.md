@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhma ← bráhman- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -219,7 +222,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this oblation, **Jātavedas**, this reverence, this praise, ever magnify you. Protect, **Agni**, our sons,our grandsons, and diligently defend our person ns.”
 </details>

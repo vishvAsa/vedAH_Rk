@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇádbhyaḥ ← √gr̥̄- 1 (root)  
 {case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -200,7 +203,8 @@ vr̥śca ← √vr̥śc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To those, **Agni**, who repeat new (praises) to you, the object of their worship from age to age, grant riches and famous (posterity); strike don, undecaying, sovereign, the sinner with your blaze like the thunderbolt, as if he were a tree.”
 </details>

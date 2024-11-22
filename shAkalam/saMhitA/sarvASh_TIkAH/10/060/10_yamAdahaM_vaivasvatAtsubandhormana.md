@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -135,7 +138,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agni** speaks). I bring the spirit of ASubandhu from **Yama**, the son of **Vivasvat**, for life, not for death,but for security.”
 </details>

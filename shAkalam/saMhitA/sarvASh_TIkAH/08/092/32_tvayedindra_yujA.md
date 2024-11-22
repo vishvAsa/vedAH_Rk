@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -136,7 +139,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With you, **Indra**, as our helper, let us answer our enemies; you are ours, we are yours.”
 </details>

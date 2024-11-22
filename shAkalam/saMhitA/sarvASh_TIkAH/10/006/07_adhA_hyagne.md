@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -196,7 +199,8 @@ prathamā́saḥ ← prathamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since you, **Agni**, born in your glory and having sat down (on the altar), are immediately entitled to theoblation; therefore, the holy (priests) come to that your ensign and the mos worthy (worshippers) prosperprotected (by you).”
 </details>

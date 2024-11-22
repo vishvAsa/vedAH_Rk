@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -139,7 +142,8 @@ kṣetrasā́dhasaḥ ← kṣetrasā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those **posts** which have been cut down upon the earth, and which have been fabricated by the priests, those which are the accomplishers of the sacrifice, convey our acceptable (offering) to the gods.”
 </details>

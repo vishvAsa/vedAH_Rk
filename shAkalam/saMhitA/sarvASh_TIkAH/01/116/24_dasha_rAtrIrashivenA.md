@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśivena ← áśiva- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -176,7 +179,8 @@ sruvéṇa ← sruvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, you raised up, like **Soma** in a ladle, Rebha, who for ten nights and nine days, had lain (in a well), bound with tight bonds, wounded, immersed, and suffering distress form the water.”
 </details>

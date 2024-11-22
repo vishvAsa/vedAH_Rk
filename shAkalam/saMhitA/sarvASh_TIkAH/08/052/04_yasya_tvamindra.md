@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 cākánaḥ ← √kanⁱ- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
 
@@ -171,7 +174,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Śatakratu**, you who are bountiful to him whose praises and oblations you delight in, we, desiringwealth, invoke you, as the milkers call a cow which bears abundant milk.”
 </details>

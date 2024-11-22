@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 apibat ← √pā- 2 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -174,7 +177,8 @@ síṣāsan ← √sanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rejoicing, he drank up the pool of water, he cleft the mountain peak, he went against the enemy;endowed with vigour, eager for fame, assailing the quick-moving (foe), he seized him with his two arms.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ántaraḥ ← ántara- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -119,11 +122,13 @@ ripúḥ ← ripú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerers of wealth, (bring to us) such (riches) that the malevolent man, or foe, whether he be far off or nigh, may not take (it) away.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whether he be far of for nigh: na yat para nāntara: para = dūrastha, being at a distance;
 

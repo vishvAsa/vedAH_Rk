@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -188,7 +191,8 @@ nūnám ← nūnám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, verily, glorifying me, and enjoying boundless fame and food (through my favour), edo you, of golden colour, and invested with glory, cover me in requital verily, (with renown).”
 </details>

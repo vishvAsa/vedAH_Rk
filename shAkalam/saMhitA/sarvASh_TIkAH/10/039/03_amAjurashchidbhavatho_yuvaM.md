@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amājúraḥ ← amājúr- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -202,11 +205,13 @@ yuvā́m ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Nāsatyās**, are the good fortune of a damsel growing old in (her father's) mansion; thepreservers of the famishing, the protectors of the object, of the blind, of the feeble, they call you the physicians ofthe sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A damsel: **ghoṣā**
 </details>

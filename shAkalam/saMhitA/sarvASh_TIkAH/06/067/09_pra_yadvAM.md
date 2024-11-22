@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -188,11 +191,13 @@ putrā́ḥ ← putrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Exterminate also), **Mitra** and **Varuṇa** those who emulously contending, disturb the rites that are agreeable and beneficial to you both; those divinities, those mortals, who are not diligent in adoration, those who performing works perform not sacrifices, those who do not propitiate you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Exterminate also: na ye devāsa ohasā na martā ayajñasāco apyo na putrāḥ: ohasā = vahanasādhanena, by the means of conveying-- perhaps wishes, i.e. stotreṇa, by praise;
 

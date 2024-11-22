@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -182,11 +185,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the everwhere-going, straight-proceeding, chariot-bearing seeds, bring the mighty **Indra** uin his strong-wheeled car to our rite; let not the ambrosial **Soma** waste in the wind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma, it is said, if allowed to remain some time in the vessel containing it, may be dried up the air; Indra is therefore urged to drink it before it dries up
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ vidhartar ← vidhartár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are **Indra**, the showerer (of bounties) on the good; you are adorable **Viṣṇu**, the hymned of many; you **Brahmaṇaspati**, are **Brahmā**, the possessor of riches; you, the author of various (conditions) are associated with wisdom.”
 </details>

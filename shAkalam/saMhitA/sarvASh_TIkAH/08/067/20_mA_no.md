@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 hetíḥ ← hetí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -126,11 +129,13 @@ vadhīt ← √vadhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not this weapon of **Vivasvat**, this net made with **hands**, **Ādityas**, destroy us before old age.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vivasvat: i.e. **Yama**, son of Vivasvat; before old age: **purā** = pūrve nu idānīm sarvadetyarthaḥ jarasahidānīm jīrṇān: let it not destroy us, now and of old infirm
 </details>

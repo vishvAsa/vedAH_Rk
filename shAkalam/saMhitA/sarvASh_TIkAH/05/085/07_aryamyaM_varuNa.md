@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryamyàm ← aryamyà- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -215,11 +218,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, **Varuṇa**, we have ever committed an offence against a benefactor, a friend, a companion, a brother, a near neighbour, or, Varuṇa, a dumb man, remove it from us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Benefactor a friend: aryamyam mitryam vā = **aryaman** and **mitra**, the final ya being plural onastic; the first is **dātrī** a giver; **guru**, a spiritual preceptor; a dumb man: varuṇāraṇam vā; the **pada** separates the word into varuṇa and araṇam;
 

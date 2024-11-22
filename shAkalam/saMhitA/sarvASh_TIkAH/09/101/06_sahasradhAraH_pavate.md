@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pavate ← √pū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -130,7 +133,8 @@ sákhā ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The thousand-streamed ocean, **Soma** the stimulator of praise, the lord of riches, the friend of **Indra** flows day by day.”
 </details>

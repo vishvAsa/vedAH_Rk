@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsu ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -181,7 +184,8 @@ rérihat ← √rih- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And who, issuing forth the first in those encounters, rushes in various directions with rows of chariots; like an elegant (courser), friendly to man, decorated with a garland, raising the dust, and champing his bit.”
 </details>

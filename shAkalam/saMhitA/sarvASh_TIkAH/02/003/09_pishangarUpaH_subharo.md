@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 piśáṅgarūpaḥ ← piśáṅgarūpa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ pā́thaḥ ← pā́thas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May a tawny-hued, well-grown (son), the bestower of food, active, manly, a worshipper of the gods, be born; may **Tvaṣṭā** prolong for us a continuous (line of) progeny, and may the food of the gods come also to us.”
 </details>

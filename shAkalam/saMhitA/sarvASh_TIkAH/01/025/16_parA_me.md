@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhītáyaḥ ← dhītí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -125,7 +128,8 @@ urucákṣasam ← urucákṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My thoughts ever turn back to him who is beheld of many, as the kine return to the pastures.”
 </details>

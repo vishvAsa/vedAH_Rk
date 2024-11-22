@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dasmáḥ ← dasmá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -208,7 +211,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The destroyer, (**Agni**), consumes numerous (trees) by his flames, and shares with manifold radiance in the forest; the favouring wind blows (the flames) onwards day by day, like the swift arrows (**śaryā** iṣavaḥ śaramayyaḥ--**Nirukta** 5.4) of an archer.”
 </details>

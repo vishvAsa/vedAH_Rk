@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -227,7 +230,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (**Indra**), is renowned, whether conquering or slaying (his foes), or whether in conflict he recovers the cattle; when Indra truly entertains anger all that is stationary or moveable is in fear of him.”
 </details>

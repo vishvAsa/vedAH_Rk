@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 bravāma ← √brū- (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -180,11 +183,13 @@ gauráḥ ← gaurá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We celebrate the name **Ghṛta** at this sacrifice, we offer it with adoration; may the four-horned **Brahmā** listen to its being glorified; the fair-complexioned-deity perfect this rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The four-horned brahmā: brahmā **catuḥ** **śṛṅgaḥ**: brahmā, the **mantra**; parivṛḍho **devaḥ**, the augmented, developed, or great deity; his four horns are the four **vedas**; Brahmā is also explained as Ṛtij, priest; the fair-complexioned deity perfects this rite: avamid-**gaura** etat: gaura = **yajña**, with epithets catuḥ **śṛṅga**, the sacrifice with four priests, obtains the object for which it is solemnized; the verse is said to apply to **Agni** as the sun; but it is applied to ghī. Since ghī is the secret name for **Soma**, the object for which it is solemnized is Soma
 </details>

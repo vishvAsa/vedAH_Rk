@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ havíṣā ← havís- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, when kindled, spreads lustre through the firmament, and shines widely in the presence of the dawn; Viśvavārā, facing the east, glorifying the gods with praises, and bearing the ladle with the oblation, proceeds (to the sacred fire).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bearing the ladle with the oblation: haviṣā **ghṛtācī** = purodāśādilakṣaṇena yuktayā ghṛtācyā srucā sahitā, with the ladle of ghī connected with the cakes and other articles of the oblation;
 

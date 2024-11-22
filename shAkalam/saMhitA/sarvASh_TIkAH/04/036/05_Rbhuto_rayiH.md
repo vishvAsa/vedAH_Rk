@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prathamáśravastamaḥ ← prathamáśravastama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -174,7 +177,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “From the **Ṛbhus** may wealth, the best and most productive of food, (come to me); that which the leaders of rites renowned together with the **Vājas**, have engendered; that which has been fabricated by Vibhvan and is to be celebrated at sacrifice; that which, deities you protect, that is to be beheld.”
 </details>

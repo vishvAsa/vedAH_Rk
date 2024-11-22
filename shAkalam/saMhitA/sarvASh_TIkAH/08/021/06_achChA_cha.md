@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -204,7 +207,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We salute you with this adoration; why do you so often mediate (upon our requests)? Master of baysteeds, let our desires be granted. You are their bestower, we are your (suppliants) and our sacred rites are(addressed to you).”
 </details>

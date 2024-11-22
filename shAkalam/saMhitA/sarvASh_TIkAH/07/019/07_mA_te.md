@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyā́m ← ayám (pronoun)  
 {case:LOC, gender:F, number:SG}
 
@@ -173,7 +176,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful **Indra**, lord of horses, let us not be exposed at this ceremony, addressed to you, to themurderous despoiler; protect us with impregnable defences; may we be held dear among your worshippers.”
 </details>

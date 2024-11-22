@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dhānā́ḥ ← dhānā́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -185,7 +188,8 @@ vr̥ṣāyámāṇaḥ ← √vr̥ṣāy- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Partake, **Indra**, of the barley and the delicious cakes and butter of the midday sacrifice, when your zealous worshipper, hastening to adore you, and eager as a bull, is present, and celebrates (yo) with hymns.”
 </details>

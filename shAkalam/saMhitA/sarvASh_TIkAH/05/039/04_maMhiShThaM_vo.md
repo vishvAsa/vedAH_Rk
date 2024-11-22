@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 maghónām ← maghávan- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -131,7 +134,8 @@ pūrvī́bhiḥ ← purú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With ancient (hymns) the pious approach **Indra**, to laud him who is most worthy of the beverage (the offering) of you who are opulent; (him) who is theking of men.”
 </details>

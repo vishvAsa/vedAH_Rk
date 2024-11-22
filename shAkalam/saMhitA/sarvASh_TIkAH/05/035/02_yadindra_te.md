@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cátasraḥ ← catúr- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -184,11 +187,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever protections, **Indra**, may be yours, whether four, or, hero, three, or those accorded to the five (classes) of men, bestow them freely upon us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Four, three, oṛ..five classes: whatever favours may be granted to the four **varṇas**, the three **lokas**, or the five orders of men, **pañca** kṣitinām
 </details>

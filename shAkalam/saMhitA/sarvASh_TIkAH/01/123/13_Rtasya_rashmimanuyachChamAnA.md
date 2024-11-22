@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anuyáchamānā ← √yam- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
 
@@ -189,7 +192,8 @@ syuḥ ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Co-operating with the rays of the true (sun), confirm in us every propitious act; earnestly invoked byus today, disperse, Uṣā, (the darkness), that wealth may devolve upon us, (already) affluent (in sacrificial treasures).”
 </details>

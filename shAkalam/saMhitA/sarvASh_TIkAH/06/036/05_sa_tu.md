@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duvoyúḥ ← duvoyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ yugé-yuge ← yugá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear, **Indra**, (the praises) that may be heard (by you), you, who are gratified by our adoration, and, like the sun, (prevail) over the ample riches of the enemy; endowed with strength, being glorified in every age, rendered comprehensible by (sacrificial) food, be to us no other (than as such as you have been).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the sun: dyaur na bhūmābhi rāyo **aryaḥ** = arer dhnāni bahutarāṇi **sūrya** iva abhibhavasi;
 

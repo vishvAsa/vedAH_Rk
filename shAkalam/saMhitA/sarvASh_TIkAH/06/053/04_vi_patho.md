@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 patháḥ ← pánthā- ~ path- (nominal stem)  
 {case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
 
@@ -134,7 +137,8 @@ ugra ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pierce **Pūṣan**, select (fit) roads for the passage of provisions; drive away all obstructors, (thieves, or the like), so that our holy rites may be accomplished.”
 </details>

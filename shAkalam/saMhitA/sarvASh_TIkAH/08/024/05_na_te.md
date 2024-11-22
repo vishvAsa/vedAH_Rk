@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dákṣiṇam ← dákṣiṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ paribā́dhaḥ ← paribā́dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of steeds, in the recovery of the cattle the opponents resist not your left **hand** nor your right, yourenemies (resist you) not.”
 </details>

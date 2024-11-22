@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dhénāḥ ← dhénā- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -170,11 +173,13 @@ mr̥gā́ḥ ← mr̥gá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They flow uninterruptedly like plural asing rivers, purified by the mind that is seated in the heart; these streams of Ghī descend (upon the fire), like deer flying from the hunter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The allusion is to the ghī poured from the ladle on the fire; antahṛdā **manasā**: hṛdayamadhya gatena cittena, by the mind gone within the heart;
 

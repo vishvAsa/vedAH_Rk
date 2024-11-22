@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -195,11 +198,13 @@ váhate ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I celebrate that greatness of the **Maruts**, which is true, and worthy of celebration, inasmuch as their high-minded,haughty, and ever-enduring (bride), supports a flourishing progeny.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 High-minded, haughty: The epithets, vṛṣamaṇā, ahaṃyuḥ, **sthirā** are feminine nine; the reference is to **Rodasī**, the wife of the Maruts, who, by contributing to the rain, assists in the sustenance of mankind
 </details>

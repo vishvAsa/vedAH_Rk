@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -213,7 +216,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring to his own abode with hymns that **Agni**, the possessor of all riches, whom the descendants of **Bhṛgu** plural ced by the strength of all beings upon the navel of the earth; for, like **Varuṇa**, he reigns sole (monarch) over (all) treasure.”
 </details>

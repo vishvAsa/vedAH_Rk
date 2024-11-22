@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áśvasya ← áśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -208,11 +211,13 @@ tā́-tā ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “There is one immolator of the radiant horse, which is Time; there are two that hold him fast; such of your limbs as I cut up in due season, I offer them, made into balls (of meat) upon the fire.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Time: ṛtuḥ, properly season; by metonymy, time; there are two: day and night, or heaven and earth
 </details>

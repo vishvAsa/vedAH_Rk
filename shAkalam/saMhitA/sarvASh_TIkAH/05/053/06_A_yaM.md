@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -166,7 +169,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders (of the rain), munificent givers, they cause that which is the treasury (of water) to fall from the sky for (the benefit of) the donor (of the offering); they let loose the rain cloud, and the shedders of rain spread (everywhere) with (abundant) water.”
 </details>

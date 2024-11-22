@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 íti ← íti (invariable)  
 {}
 
@@ -148,7 +151,8 @@ r̥tāyaté ← √r̥tāy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Aśvamedha** gives to him who solicits of him as a benefactor, saying (bestow wealth) upon me, and comes (to him) with a verse (in your praise), do you, **Agni**, grant intelligence to (the **Rājā**) who wishes to offer sacrifice (to you).”
 </details>

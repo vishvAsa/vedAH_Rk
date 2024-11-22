@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ní ← ní (invariable)  
 {}
 
@@ -124,11 +127,13 @@ kṣatríyā ← kṣatríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Observers of truth, doers of good deeds, they sit down for the office of sovereignty; observant ofobligations, endowed with strength, they acquire vigour.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vigour: **kṣatriyā** kṣatram āśatuḥ = balavantau balamvyāpnutaḥ
 </details>

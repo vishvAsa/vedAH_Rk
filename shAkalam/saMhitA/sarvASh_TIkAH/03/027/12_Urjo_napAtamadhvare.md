@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ kavíkratum ← kavíkratu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I adore at this sacrifice **Agni** the grandson of (sacrificial) food, shining above in the firmament, the creation of the wise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Grandson of food: ūrjo napātam or the son of the oblation, as blazing when fed by butter and the like; or the descent may be differently accounted for, from the oblation proceed: **Āditya**, and from Āditya, Agni; the creation of the wise: kavikratum of whom, kavayaḥ, the wise, that is the **adhvaryu** and the rest, are the makers, **kartāraḥ**, by their rubbing the sticks to evolve flame
 </details>

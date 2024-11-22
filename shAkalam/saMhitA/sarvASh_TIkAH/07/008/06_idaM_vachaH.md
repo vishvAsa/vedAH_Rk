@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 idám ← ayám (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -181,11 +184,13 @@ rakṣohā́ ← rakṣohán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vasi**.ṣṭha illustrious in both heaven and earth, rich with a hundred and a thousand (head of cattle), hasaddressed this hymn to **Agni**, that such fame- conferring disease-removing, fiend-destroying (laudation) may be(the means of) happiness to the eulogists and their kindred.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Illustrious: dvibarhaḥ dvayoḥ sthānayor **mahān**(**Yāska**); vidyākarmābhyām bṛhana, eminent in both wisdom and devotion
 </details>

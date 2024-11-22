@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 susaṁdŕ̥śam ← susaṁdŕ̥ś- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ yójā ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We praise you, **Maghavan**, who look benignly (upon all); thus praised by us, repair (in your car), filled with treasure, to those who desire your presence; **Indra**, quickly yoke your horses.”
 </details>

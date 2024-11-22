@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -167,7 +170,8 @@ mithastúraḥ ← mithastúr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the renowned stones bring us the effused **Soma**, (may they establish us) with brilliant praise inthe brilliant (Soma-sacrifice), where the priests milk forth the desirable Soma, crying out all around, and racingeach other.”
 </details>

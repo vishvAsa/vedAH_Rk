@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -120,11 +123,13 @@ yávāśiraḥ ← yávāśir- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the handsome-jawed, has drunk of th dropping **Soma** cooked with barley, (the offering) ofSudakṣa assiduous in sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sudakṣa** = name of a ṛṣi; sudakṣasya prahoṣiṇaḥ = epithets of Soma
 </details>

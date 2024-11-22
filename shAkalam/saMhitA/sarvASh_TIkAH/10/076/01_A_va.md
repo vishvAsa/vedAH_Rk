@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -173,11 +176,13 @@ varivasyā́taḥ ← √varivasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I propitiate you at the commencement of the food-possessing (dawns); you reveal **Indra**, the **Maruts**,heaven and earth; both heaven and earth being united attend on us in all the chambers of sacrifice; (may they fillus) with wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Commencement: udbhidā = at their opening (or commencement) ahanī = the two halves ofthe day
 </details>

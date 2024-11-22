@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánimiṣā ← ánimiṣ- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -171,11 +174,13 @@ viṣpitásya ← viṣpitá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Beholding) with unclosing eyes, and cognizant (of the things) of heaven and earth, they conduct theignorant man (to duty); in the lowes depth of the river, (through them), there is a bottom; may they lead us to theopposite shore of the vast expanse.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the opposite shore: viśpitasya parṣam: vyāpitasya, edpanded; theimplied substantive: karmaṇaḥ, act, duty
 </details>

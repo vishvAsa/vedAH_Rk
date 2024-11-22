@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asr̥kṣi ← √sr̥j- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -203,11 +206,13 @@ supéśasaḥ ← supéśas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desiring food, I put forth this laudatory hymn; may the sounding and swift-moving grandson of the waters bestow abundant food upon me his worshipper; may he make us of goodly appearance, for verily he is propitiated by praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Grandson of the waters: apām **napāt**, the son of the trees or fuel which are the progeny of the rains; a different etymology makes the term an epithet of the sun
 </details>

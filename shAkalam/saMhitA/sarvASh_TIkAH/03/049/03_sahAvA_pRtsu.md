@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvā ← árvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ vayodhā́ḥ ← vayodhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vigorous, rushing through (hostile hosts), like a war-horse, he has pervaded heaven and earth, sending down rain; he is to be worshipped with oblations at the solemn (rite) like **Bhaga**; he is as the father of those who adore (him); he is beautiful, worthy of invocation, the bestower of food.”
 </details>

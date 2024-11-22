@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhe ← √dhā- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -124,11 +127,13 @@ uśíjam ← uśíj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, strength-engendered, Iḷā (the daughter) of **Dakṣa** has sustained you, the desirable, the resplendent, and longing (for the oblation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Iḷā = earth or the altar
 </details>

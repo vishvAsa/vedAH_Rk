@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -186,11 +189,13 @@ prajā́bhiḥ ← prajā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as I who am a mortal earnestly invoke you who are an immortal, praising you with a devoted heart; therefore, **Jātavedas**, grant us food, and may I obtain immortality through my posterity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Immortality: an unbroken succession of descendants, amṛtatvam santatyaviccheda lakṣaṇam (amṛtatvam = tadu te partyāmṛtam : **Taittirīya** **Brāhmaṇa** 1.5.5.6); another text may be cited: prajām anu prajāyate tad u te martyamṛtam, when progeny is born after progeny, that verily is the immortality of your mortality
 </details>

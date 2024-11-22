@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 kánikradat ← √krand- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -159,11 +162,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Parjanya**, sounding loud and thundering, you destroy the wicked (clouds), this whole (world) rejoices, and all that is upon the earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Destroy the wicked clouds: **haṃsi** **duṣkṛtaḥ**, the wicked, i.e. the clouds not yielding their water
 </details>

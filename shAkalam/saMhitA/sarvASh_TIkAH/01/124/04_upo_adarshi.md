@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adarśi ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -196,11 +199,13 @@ púnar ← púnar (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She is beheld nigh at **hand**, (radiant) as the breast of the illuminator (the sun); and, like **Nodhas**, has made manifest many plural asing (objects); like a matron she awakens (her) sleeping (children), and of all (feminine les who are) stirring betimes, she, the most unvarying, repeatedly appears.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śundhyuvo na **vakṣas**: śundhyu = sun, the collective solar rays;
 

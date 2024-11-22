@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádribhiḥ ← ádri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -195,7 +198,8 @@ síndhoḥ ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ten fingers of the skillful (one) milk you forth with the stones into the water most sweet-flavoured, the showerer (of benefits); **Soma**, exhilarating **Indra** (and) the celestial people, you rush forth, when filtered, like the wave of a river.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvam ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ yáviṣṭham ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Atri**, whom the irresistible (**asuras**) dragged bound like a swift horse, you unloosed like a strongknot, (setting him) the youngest born upon the earth.”
 </details>

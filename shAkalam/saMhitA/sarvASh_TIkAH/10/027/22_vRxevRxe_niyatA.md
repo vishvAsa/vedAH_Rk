@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gaúḥ ← gáv- ~ gó- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -198,11 +201,13 @@ sunvát ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bowstring fixed to each bow clangs loudly; then the man-destroying (shafts like) birds fall upon(the foes); and the whole of this world is alarmed, presentinglibations to **Indra**, and donations to the Ṛṣis.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lit. :The cow lows attaached tree by tree (to different trees), the man-eating birds fly out from it (?from the tree)
 </details>

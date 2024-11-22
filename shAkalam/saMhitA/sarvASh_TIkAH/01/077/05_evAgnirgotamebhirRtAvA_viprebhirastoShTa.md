@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus has **Agni**, the celebrator of sacrifices, and by whom all things are known, been hymned by the pious descendant of **Gotama**; to them he has given the bright **Soma** to drink, along with the sacrificial food, and gratified by our devotion, he obtains nutriment (for himself).”
 </details>

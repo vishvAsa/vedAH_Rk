@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ajaniṣṭa ← √janⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -181,11 +184,13 @@ prajānán ← √jñā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pūṣan** has been born on the best path of paths, on the best path of heaven on the best path ofearth, he goes forward and backward over both (worlds), the assemblies longed for by all, discriminating (themerits of the dead).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pūṣan has been born: i.e., manifested in order to conduct men after death to theirdestination, according to their merits; he goes forward: i.e., favourably to the virtuous to show the fruit of goodowrks, backward, i.e., he walks adversely to the wicked; discriminating the merits: i.e., he walks adversely to thewicked
 </details>

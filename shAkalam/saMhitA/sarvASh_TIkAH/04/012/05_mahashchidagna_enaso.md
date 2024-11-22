@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhī́ke ← abhī́ka- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -194,11 +197,13 @@ yós ← yós (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not us, **Agni**, who are your friends, ever suffer harm from any great or comprehensive offence against either gods or men; bestow forgiveness upon our sons and grandsons, the reward of what has been well done.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Reward of what has been well done: yaccha tokāya, tanayāya, sam yoḥ: sam = pāparūpodravaṇam śantim, pacification of violence of the nature of sin; yoḥ sukṛtotpāditam sukham, happiness produced by what is done well
 </details>

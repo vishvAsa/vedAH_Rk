@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bharata ← √bhr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -226,7 +229,8 @@ stavāma ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer fervently, may war-loving companions, true praise to **Indra**, if he truly exists; **Nema** says, "verilythere is no Indra", who has ever seen him? Whom shall we praise?”
 </details>

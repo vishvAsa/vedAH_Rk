@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 giríḥ ← girí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ vásunā ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is vast and self-sustained like a mountain, the radiant and formidable **Indra**, born of old for the destruction (of the foes of the gods), the wielder of the ancient thunderbolt, charged with splendour, like a jar (filled) with water.”
 </details>

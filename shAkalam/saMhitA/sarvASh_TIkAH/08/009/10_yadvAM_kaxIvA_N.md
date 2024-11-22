@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kakṣī́vān ← kakṣī́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ evá ← evá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Consider (my praises) in the same maner as (you have considered) when **Kakṣīvat** praied yo, whenthe ṛṣi **Vyaśva**, when **Dīrghatamas**, or Pṛthin, the son of **Vena**, glorified you in the chambers of sacrifice.”
 </details>

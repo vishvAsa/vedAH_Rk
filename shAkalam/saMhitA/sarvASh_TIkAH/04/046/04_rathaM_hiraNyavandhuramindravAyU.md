@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 híraṇyavandhuram ← híraṇyavandhura- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -121,7 +124,8 @@ sthā́thaḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mount, **Indra** and **Vāyu**, the golden-seated chariot, propitious to sacrifice, soaring to heaven.”
 </details>

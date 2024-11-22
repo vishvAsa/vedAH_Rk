@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -156,11 +159,13 @@ pārayanti ← √pr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Four ships launched into the midst of the receptable (of the waters), sent by the **Aśvins**, brought safe to shore the son of **Tugra**, who had been cast headlong into the waters (by his foes), and plural nged in extricable darkness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Four ships: catasro **nāvaḥ**, four boats or ships; in this context, **samudra** = ocean
 </details>

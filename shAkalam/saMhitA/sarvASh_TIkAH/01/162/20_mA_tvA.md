@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 apiyántam ← √i- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -211,7 +214,8 @@ míthu ← míthu (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not your precious body grieve you, who are going verily (to the gods); let not the axe linger in your body; let not the greedy and unskilful (immolator) missing the members, mangle your limbs needlessly with his knife.”
 </details>

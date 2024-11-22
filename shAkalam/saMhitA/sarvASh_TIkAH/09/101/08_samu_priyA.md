@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 anūṣata ← √nu- ~ nū- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -147,11 +150,13 @@ pávamānāsaḥ ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The affectionate emulous cows celebrate (**Soma**) for his exhilaration; the brilliant filtered (Soma) juices make paths (for themselves to flow).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cows: or, voice of praise
 </details>

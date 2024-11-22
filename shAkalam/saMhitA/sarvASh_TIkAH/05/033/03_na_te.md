@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -233,7 +236,8 @@ yamase ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since, mighty **Indra**, those who, differing from us, and not united with you through their lack of devotion, are not yours; therefore, divine holder of of the thunderbolt, who are possessed of excellent horses, ascend the car, whose reins you guide, (to come to our sacrifice).”
 </details>

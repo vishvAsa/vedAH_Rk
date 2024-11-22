@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 8+4
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -144,7 +147,8 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come to us, **Indra**, beloved one, triumphant, and whom, none can conceal- - lord of heaven, vast on allsides as a mountain.”
 </details>

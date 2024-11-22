@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adbhyáḥ ← áp- (nominal stem)  
 {case:DAT, gender:F, number:PL}
 
@@ -196,7 +199,8 @@ uruśáṁsāya ← uruśáṁsa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that desirable wealth which is granted to us, **Savitā**, by you, proceed from the sky, from the waters from the earth; and may the happiness (which belongs) to the race of those who eulogise you, devolve upon me, repeating diligently your praises.”
 </details>

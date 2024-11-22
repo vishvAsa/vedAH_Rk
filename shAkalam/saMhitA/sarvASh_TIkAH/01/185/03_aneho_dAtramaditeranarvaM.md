@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áditeḥ ← áditi- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -171,11 +174,13 @@ rákṣatam ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I solicit of **Aditi**, wealth, without pain or decay, like heaven (in fullness of enjoyment), exempt from injury, and abounding in food; grant, Heaven and Earth, such wealth to him who praises you; defend us, Heaven and Earth, from great (danger).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aditi = the firmament
 </details>

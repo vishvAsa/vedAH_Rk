@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asutŕ̥pau ← asutŕ̥p- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -188,11 +191,13 @@ púnar ← púnar (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The messengers of **Yama**, broad-nosed, and of exceeding strength, and satiating themselves with thelife (of mortals), hunt mankind; may they allow us this day a prosperous existence here, that we may look uponthe sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May they allow...the sun: or, may they now restore to us that fair life to look upon the sun (still speakingof the departed worshipper)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mŕ̥gayam ← mŕ̥gaya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have subjugated Pipru and the mighty **Mṛgayā** for the sake of Ṛjiṣvan, the son of Vidathin, you have slain the fifty thousand **Kṛṣṇas**; and, as old age (destroys) life, you have demolished the cities (of **Śambara**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mṛgayā = name of an **asura**;
 

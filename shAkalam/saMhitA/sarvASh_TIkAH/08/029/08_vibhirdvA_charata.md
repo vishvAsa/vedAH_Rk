@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carataḥ ← √carⁱ- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -113,7 +116,8 @@ vasataḥ ← √vas- 3 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Two (the **Aśvins**), travel with swift (horses) along with one (bride **Sūrya**), like travellers to foreigncountries.”
 </details>

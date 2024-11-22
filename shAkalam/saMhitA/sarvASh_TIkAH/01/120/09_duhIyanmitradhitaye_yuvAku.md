@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 duhīyán ← √duh- (root)  
 {number:PL, person:3, mood:OPT, tense:PRS, voice:MED}
 
@@ -137,7 +140,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who adore you obtain (wealth) for the support of their friends; direct us to opulence, bestowing food; direct us to food, associated with kine.”
 </details>

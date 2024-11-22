@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -206,7 +209,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Upon its moving, our minds have been raised on high in praise; our hymns reach (the **Aśvins**). I sweeten the oblation; the assistants come nigh; Ūrjāni, (the daughter of the sun), has ascended, Aśvins, your car.”
 </details>

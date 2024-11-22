@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 avardhayat ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -129,11 +132,13 @@ opaśám ← opaśá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sacrifice has magnified **Indra**, so that he has supported the earth (with rain), making (the cloud)quiescent in the firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cakrāṇa opaśam **divi** = antarikṣe megham opaśam upetya śayānam kurvan
 </details>

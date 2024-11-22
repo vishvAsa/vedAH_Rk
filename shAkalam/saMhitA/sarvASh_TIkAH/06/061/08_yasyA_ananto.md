@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhrutaḥ ← áhruta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -113,7 +116,8 @@ róruvat ← √rū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May she whose might, infinite, undeviating, splendid, progressive, water-shedding, proceeds loud-sounding.”
 </details>

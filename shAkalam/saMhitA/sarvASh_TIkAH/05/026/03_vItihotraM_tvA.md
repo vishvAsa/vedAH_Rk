@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kave ← kaví- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -116,7 +119,8 @@ br̥hántam ← br̥hánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We kindle you at the sacrifice, wise **Agni**, whose food is the oblation, who are brilliant and vast.”
 </details>

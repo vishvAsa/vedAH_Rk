@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́śa ← √aśⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -212,11 +215,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever the flies may eat of the raw flesh of the horse; whatever (grease) is smeared upon the brush or upon the axe; (what is smeared) upon the **hands** or the nails of the immolator, may all this be with you, (horse), amongst the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whatever is smeared: svarau svadhitau riptam, or liptam, smeared: the flesh that is smeared;or, unguent with which the animal is anointed;
 

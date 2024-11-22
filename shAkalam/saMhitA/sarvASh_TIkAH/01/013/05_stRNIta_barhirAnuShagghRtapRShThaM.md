@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ānuṣák ← ānuṣák (invariable)  
 {}
 
@@ -110,11 +113,13 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Strew, learned priests, the sacred grass, well bound together (in bundles), and sprinkled with clarified butter, the semblance of ambrosia.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Barhis** is an appellative of **Agni**; **amṛta**-samānasya ghṛtasya or **maraṇa**-rahitasya barhirnāmakasya, agneḥ:amṛta (clarified butter sprinkled on grass) has the appearance of ambrosia; or agni is immortal
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -217,11 +220,13 @@ yajñā́ya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra**, (the **Soma**) that is effused for your exhilaration; stop your friendly steeds; let them loose; sitting in our society, respond to our hymns; give food to him who lauds and worships you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sitting in our society: uta pra **gāya** gaṇe ā niṣadya: pragāya = asmābhiḥ kṛtam stotram upaślokaya, return verses to the praise made by us
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ var ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the exhilaration of the **Soma**, you have restored the celebrated herd of cattle, hidden (in the cave), for the sake of sacrifice, (to the **Aṅgirasas**); when, **Indra**, the threefold crest engages in combat, he opens the doors of the tyrannical descendants of **Manu**”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Threefold crest: elevated as a triple crest in the **three worlds**
 </details>

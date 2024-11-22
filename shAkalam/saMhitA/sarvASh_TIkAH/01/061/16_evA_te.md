@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1;; repeated line
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -189,7 +192,8 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, harnesser of steeds, the descendants of **Gotama** have offered to you prayers of efficacy to secure your presence; bestow upon them every sort of affluence; may he who has acquired wealth by pious acts, come hither quickly in the morning.”
 </details>

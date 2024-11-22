@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 etát ← eṣá (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -207,7 +210,8 @@ yamā́ya ← yamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that which the owl shrieks be in vain, (and may it be in vain) that the pigeon takes his plural ce uponthe fire; may this reverence be paid to **Yama**, (the god of) Death, as whose messenger he is sent.”
 </details>

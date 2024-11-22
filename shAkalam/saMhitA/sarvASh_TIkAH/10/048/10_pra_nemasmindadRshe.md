@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -205,11 +208,13 @@ tasthau ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** is seen in one of the two (combatants); the cowherd (**Indra**) manifests the other with histhunderbolt; the latter warring against the sharp- horned bull, remains in great (darkness) bound by the victoṛ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Nema** = part, half; or, one of two (combatants); the combatants are the yaṣṭā who offers libations and theyaṣṭā, one who does not; the latter assails the bull, Indra
 </details>

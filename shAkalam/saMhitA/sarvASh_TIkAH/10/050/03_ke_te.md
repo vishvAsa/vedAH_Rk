@@ -23,15 +23,18 @@ ChandaH = "अभिसारिणी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -214,7 +217,8 @@ urvárāsu ← urvárā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What men, **Indra**, are they who (are eminent in offering food to you, who are desirous of obtaining fromthe happiness and opulence, who send you (oblations) for the sake of strength (to fight) the **asura**, who (sentoblations) for the sake of obtaining spontaneously-flowing waters and cultivable lands, and manly vigour?”
 </details>

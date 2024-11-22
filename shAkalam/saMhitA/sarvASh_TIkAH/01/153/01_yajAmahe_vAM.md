@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 maháḥ ← mahás- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -170,7 +173,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty **Mitra** and **Varuṇa**, dispensers of butter, we worship you, rejoicing, with oblations; with reverential homage, and with (offerings of) water; so that our ministrant priests may propitiate you by (our) devotions.”
 </details>

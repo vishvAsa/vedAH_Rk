@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 énī ← éta- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -181,7 +184,8 @@ vápuṣī ← vápuṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Straight-flowing, white-coloured, bright-shining (**Sindhu**) bear along in its might the rapid waters; theinviolable Sindhu, the most efficacious of the efficacious, is speckled like a mare, beautiful as a handsomewoman.”
 </details>

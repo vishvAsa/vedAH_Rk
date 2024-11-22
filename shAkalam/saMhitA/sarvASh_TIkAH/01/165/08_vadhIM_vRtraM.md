@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indriyéṇa ← indriyá- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -189,7 +192,8 @@ vájrabāhuḥ ← vájrabāhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**): By my own prowess, **Maruts**, I, mighty in my wrath, slew **Vṛtra**; armed with my thunderbolt, I created all these pellucid genitive ly-flowing waters for (the good of) man.”
 </details>

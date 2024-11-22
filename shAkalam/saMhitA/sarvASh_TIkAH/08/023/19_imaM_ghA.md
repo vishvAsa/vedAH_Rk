@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tam ← amŕ̥ta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -130,7 +133,8 @@ víhāyasam ← víhāyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious mortal has appointed this immortal, purifying, dark-moving, mighty (**Agni**), his messenger.”
 </details>

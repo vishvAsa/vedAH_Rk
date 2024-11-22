@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -182,7 +185,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** be favourably disposed towards us every day, may the royal **Soma** accept our praise, sothat they may bestow upon us friendly treasures; we long for the universal **Aditi**.”
 </details>

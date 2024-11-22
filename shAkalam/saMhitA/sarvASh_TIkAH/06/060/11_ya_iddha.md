@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āvívāsati ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
 
@@ -116,7 +119,8 @@ sutárāḥ ← sutára- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mortal who presents the gratifying (oblation) to **Indra** in the kindled (fire), to him (Indra grants) acceptable waters for his sustenance.”
 </details>

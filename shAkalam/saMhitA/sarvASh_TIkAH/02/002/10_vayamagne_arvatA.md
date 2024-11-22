@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ uccā́ ← uccā́ (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we manifest vigour among other men, **Agni**, through the steed and the food (which you have given); and may our unsurpassed wealth shine like the sun over (that of) the five classes of beings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Over the five classes: **pañca**-kṛṣṭiṣu = janeṣu, men; the four **varṇas** and **niṣādas**
 </details>

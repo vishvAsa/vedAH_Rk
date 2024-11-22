@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 aśvatthé ← aśvatthá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -161,11 +164,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your abode is in the **Aśvattha**, your dwelling is established in the **Palāśa**, you are assuredly thedistributer of cattle, inasmuch as you bestow them on the physician.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aśvattha and Palāśa: the trees bear achief part in sacrifices and are, therefore, said to be the abode of plural nts. The vessels in which the offerings arepresented are made of the wood of these two trees (**Yajus**. 12.79). Aśvattha = ficus religiosa;
 

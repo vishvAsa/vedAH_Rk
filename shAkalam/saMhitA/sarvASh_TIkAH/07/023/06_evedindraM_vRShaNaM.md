@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -203,11 +206,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In this manner the **Vasiṣṭhas** glorify with hymns **Indra**, the showerer, the bearer of the thunderbolt; mayhe so glorified grant us wealth, comprising **male** posterity and cattle; and do you ever cherish us with blessingṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Pāta** svastibhiḥ **sadā** naḥ: addressed to the priests, yuyam ritvijaḥ: **Yajus**. 20.54
 </details>

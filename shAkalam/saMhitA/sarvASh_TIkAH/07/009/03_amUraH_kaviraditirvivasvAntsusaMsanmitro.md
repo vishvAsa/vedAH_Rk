@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -194,11 +197,13 @@ viveśa ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unperplexed, far-seeing elevated, resplendent, right-directing, a friend, a guest, the bestower ofprosperity upon us, the wonderfully radiant he shines before the dawns, the embryo of the waters, he hasentered into the nascent plural nts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Prasva a viveśa = jayamana **oṣadhiḥ**
 </details>

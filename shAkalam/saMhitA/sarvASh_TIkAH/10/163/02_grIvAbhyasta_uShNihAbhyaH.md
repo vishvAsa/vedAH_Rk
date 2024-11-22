@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 grīvā́bhyaḥ ← grīvā́- (nominal stem)  
 {case:ABL, gender:F, number:PL}
 
@@ -134,7 +137,8 @@ vr̥hāmi ← √vr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I banish disease from your neck, from your sinews, from your bones, from your joints, from your upperarms, from your shoulders, and from your fore- arms.”
 </details>

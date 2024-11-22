@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apaśyam ← √paś- (root)  
 {number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -181,11 +184,13 @@ yúdhyata ← √yudh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “"I have seen the swift-moving (demon) lurking in an inaccessible plural ce, in the depths of the riverAṃśumatī, (I have seen) **Kṛṣṇa** standing there as (the sun) in a cloud; I appeal to you, showerers; conquerhim in battle".”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This is **Indra**'s speech to the **Maruts**. Though the demon thinks he is concealing himself, he isseen as clearly by Indra as the sun is behind a cloud
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -127,7 +130,8 @@ vibhvāsáham ← vibhvāsáha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring us, **Indu**, strength-bestowing riches, desired bymany, supporting many, far-celebrated and overcoming mighty (foes).”
 </details>

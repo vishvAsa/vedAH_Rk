@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -183,7 +186,8 @@ kaláśe ← kaláśa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The lustres, **Soma**, of you when being purified, approach with abundant milk with copious streams like a woman (giving milk to her child); the green-tinted Soma, the desired of many, has been brought to the waters and cries repeatedly in the pitcher of the god-loving (worshippers).”
 </details>

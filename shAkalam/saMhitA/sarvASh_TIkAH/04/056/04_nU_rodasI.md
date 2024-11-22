@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 br̥hádbhiḥ ← br̥hánt- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -171,7 +174,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Heaven and Earth, vast, universal, adorable, united in satisfaction and disposed to give us food, protect us with our spacious dwelings, inhabited by our wives, and may we for our (pious) acts be possessed of chariots and slaves.”
 </details>

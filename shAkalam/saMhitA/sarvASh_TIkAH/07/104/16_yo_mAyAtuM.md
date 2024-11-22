@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ha ← √ah- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -223,7 +226,8 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** slay with his mighty weapon him who calls me the **Yātudhāna**, which I am not, therākṣasa, who says (of himself), I am pure; may he, the vilest of all beings, perish.”
 </details>

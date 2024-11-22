@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hitáḥ ← √dhā- 1 (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -266,11 +269,13 @@ maháḥ ← máh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** is a most amiable friend in human infirmity through the means of sacrifices; the beloved protector of all in sacrifices, like a victorious prince, he alights upon the oblations of men when plural ced upon the altar; he preserves us from the malignity of **Varuṇa**; from the malignity of the mighty deity (of sin).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Trāsate varuṇasya dhūrter maho **devasya** dhūrteḥ, preserves us from the malevolence of the obstructor of religious rites (varuṇa = **vāraka**, the impeder)-- from the malevolence of the mighty deity presiding over sin, **pāpa**-**devatā**
 </details>

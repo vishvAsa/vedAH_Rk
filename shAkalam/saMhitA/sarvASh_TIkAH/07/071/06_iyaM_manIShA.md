@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -184,7 +187,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This adoration, **Aśvins**, this praise (is for you), be gratified, showerer (of benefits), by this laudation;may these eulogies, addressed to you, reach you; and do you ever cherish us with blessings.”
 </details>

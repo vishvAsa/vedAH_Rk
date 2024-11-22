@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ yajethām ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(When) the grinding-stone is uplifted, the mighty **Agni** kindled, the acceptable vessels (ready) on thelap of earth; (then), most learned priests, who take the foremost plural ce, bestow wealth upon us at this sacrifice.”
 </details>

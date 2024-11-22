@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -195,7 +198,8 @@ uṣásā ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your easy-rolling car alights upon the earth, where favourable to the sacred rite, you stop for the sake of the (sacrificial) food; may this hymn, promotive of your person nal (welfare), be associated with your forms, and do you unite with the dawn, the daughter of heaven.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvitā́ ← dvitā́ (invariable)  
 {}
 
@@ -174,11 +177,13 @@ vavréḥ ← vavrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Twofold is my empire, that of the whole **kṣatriya** race, and all the immortals are ours; the gods associate me with the acts of **Varuṇa**; I rule over (those) of the proximate form of man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Twofold is my empire: mama **dvitā** rāṣṭram kṣatriyasya viśvayoḥ; an allusion to the military and regal order; all the immortals are ours: viśve **amṛtā** yathā naḥ, therefore he is king also over **svarga**; the gods associate me with the acts of **Varuna**: kratum sacante varuṇasya **devā** rājāmi kṛṣṭer upamasya vavreḥ: vavreḥ = **rūpa**, form;
 

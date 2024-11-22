@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́dityāḥ ← ādityá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -204,11 +207,13 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ādityas**, upholders of pious works, and who are to be sought by all, remove sin far from me, like a woman delivered in secret; knowing, **Mitra**, **Varuṇa** and (universal) gods, the good that follows from your hearing our prayers, I invoke you for (our) protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Delivered in secret: rahasūriva; rahasyanyairajñāte pradeśe sūyata iti rahasūrvabhicāriṇī = like a loose woman who has child privately and who abandons it in some distant plural ce; this comparison is to the distant removal of sin prayed for
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cákṣuḥ ← cákṣus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -142,7 +145,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give sight, **Sūrya**, to our eyes, (bestow) sight for the illumination of our bodies, so that we may lookupon and into this (world).”
 </details>

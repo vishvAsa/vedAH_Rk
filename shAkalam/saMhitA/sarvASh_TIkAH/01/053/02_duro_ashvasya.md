@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -202,7 +205,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, are the giver of horses, of cattle, or barley, the master and protector of wealth, the foremost in liberality, (the being) of many days; you disappoint not desires (addressed to you); you are a friend to our friend; such an Indra we praise.”
 </details>

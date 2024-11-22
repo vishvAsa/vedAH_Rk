@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gāma ← √gā- (root)  
 {number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
 
@@ -149,11 +152,13 @@ sthuḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us not depart, **Indra**, from the path; let us not (depart) from the sacrifice of the offerer of thelibation; let not our adversaries remain (in our plural ce).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A legend explains the origin of the **sūkta**: there were fourbrothers, **purohitas** of the **rājā** Asamāti: **Bandhu**, **Subandhu**, Śrutabandhu and Viprabandhu. The king havingdismissed them, appointed to others, Māgavins (magicians), at which the brothers being offended, instrumental tutedmagic ceremonies for the rājā's destruction; hearing of this, the Māgavins put Subandhu to death; on whichthe other three composed this sūkta for their own safety. The offerer of the libation: i.e., king Asamāti; or,taking sominaḥ as nominative plural, may we the offerers of the **Soma** not depart from the sacrifice
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -196,7 +199,8 @@ turā́ṇām ← turá- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I adore those sons of the showerer, **Rudra**; may the **Maruts**, repeatedly invoked, again come to us; maywe expiate (by praise) whatever we have committed secretly or openly against the swift-moving Maruts, by whichthey are displeased.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 mātárā ← mātár- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -129,11 +132,13 @@ r̥tāvŕ̥dhā ← r̥tāvŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That mighty and pure son, when born, illumines his mighty parents (heaven and earth), the progenitors (of all things), the augmenters of the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Alternative rendering: that pure son (the **Soma**) illumined his mothers, he the born, them too born, he the great, them the great, the augmenters of sacrifice
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dákṣapitr̥̄n ← dákṣapitar- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -175,11 +178,13 @@ yajatā́ḥ ← yajatá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Radiant **Sūrya**, render the luminous deiies, who have **Dakṣa** for their progenitor, void of offence towards us; they who are twice born, desirous of sacrifice, observant of truth, possessors of wealth, deserving of worship, whose tongue is **Agni**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who have Dakṣa: Dakṣapitṛn = **dakṣaḥ** pitāmaho yeṣām, they of whom Dakṣa is the grandfather; the grandchildren of Dakṣa were sentiments and passions; pitara, therefore, is understood only in the genitive ral sense of priority or seniority; they who are twice born: dvijanmānaḥ, they who have two births, i.e. they who are manifest or present in two spheres, heaven and earth
 </details>

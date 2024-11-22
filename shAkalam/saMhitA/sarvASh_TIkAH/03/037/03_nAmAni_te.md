@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nā́māni ← nā́man- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -108,7 +111,8 @@ abhimātiṣā́hye ← abhimātiṣā́hya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We recite, **Indra**, who is worshipped in a hundred rites, (your many) names in all our hymns for strength to resist our foes.”
 </details>

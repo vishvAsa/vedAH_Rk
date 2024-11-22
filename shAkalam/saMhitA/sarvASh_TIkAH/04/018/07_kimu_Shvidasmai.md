@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What do the sacred expiatory strains declare to me? the waters reeive the reproach of **Indra**; my son has slain **Vṛtra** with the mighty thunderbolt; he has set those rivers free.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 What do the sacred strains declare: kinuṣvid asmai nivido manante: the nivids are certain verses repeated at some sacrifices to Indra and the **Maruts** in their honour, and are tantamount to an acquittal of the charge imputed to Indra, and here anticipated by **Aditi** of brhmanicide, Vṛtra being a **brahman**; the crime was transferred to the waters in the shape of foam
 </details>

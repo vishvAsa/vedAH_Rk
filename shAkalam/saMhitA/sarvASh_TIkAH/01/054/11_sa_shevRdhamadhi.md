@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -220,7 +223,8 @@ svapatyaí ← svapatyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestow upon us, **Indra**, increasing reputation; (bestow upon us) great, augmenting, and foe subduing strength; preserve us in affluence; cherish those who are wise; and supply us with wealth from which proceed excellent progeny and food.”
 </details>

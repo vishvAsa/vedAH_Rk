@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árhāt ← √arh- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -207,11 +210,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati**, born of truth, grant us that wonderful treasure, wherewith the pious man may worship exceedingly; that (wealth) which shines amongst men; which is endowed with lustre, (is) the means of (performing holy) rites, and invogirates (its possessor) with strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Draviṇam citram = liṭ, various or wonderful wealth; in the **Brāhmaṇas** it is interpreted as **brahma** **varcas** or **tejas**, brahmanical virtue or energy (cf. **Yajus**. 26.3;
 

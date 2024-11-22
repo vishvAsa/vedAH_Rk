@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhadrám ← bhadrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -167,11 +170,13 @@ vanéma ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give us that resolute mind in conflict by which you conquer in combats; humble the many firm (resolves)of our foes; may we propitiate you by our sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In conflict: vṛtratūrye, in conflict, saṅgrāme; or,pāpanāśāya (**Yajus**. 15,39), for the exptirpation of sin; ava **sthirā** tanuhi = make the strong bows withoutbowstrings, sthirāṇi dhanuṃṣi jyārahitāni **kuru**
 </details>

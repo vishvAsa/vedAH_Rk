@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīdhŕ̥taḥ ← carṣaṇīdhŕ̥t- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -101,11 +104,13 @@ dyumnám ← dyumná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirable food and most renowned wealth are (the gifts) of the divine **Mitra**, the supporter of man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 2.62;
 

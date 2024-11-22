@@ -26,10 +26,12 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -253,7 +256,8 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offering libations, (the worshipper) obtains a (safe) asylum; offering libations, he destroys his prostrate foes; (he destroys) the enemies of the gods; abounding with food, and unsubdued (by adversaries), he hopes to attain, when offering libations, infinite (riches), for **Indra** grants to him who offers libations whatever there is (that he desires); he grants (him) accusative ulated wealth.”
 </details>

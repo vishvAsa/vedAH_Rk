@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -168,11 +171,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divinities of benevolent vigour, since you preside over the rite today, at the rising of the sun, since,possessors of all wealth, (you are present) at his setting, or at his waking, or at the meridian of the day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Presideover the rite: since you uphold the house (rendered prosperous), gṛham kalyāṇabhūtam dhārayatha
 </details>

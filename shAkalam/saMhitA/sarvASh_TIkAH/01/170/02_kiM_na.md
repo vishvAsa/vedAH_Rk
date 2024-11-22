@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -152,11 +155,13 @@ vadhīḥ ← √vadhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Agstya): Why, **Indra**, do you purpose to slay us; the **Maruts** are your brothers; share with them (the offering) in peace; destroy us not in enmity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Maruts are your brothers: being equally with Indra, the sons of **Aditi**; the allusion is to the affinity of function
 </details>

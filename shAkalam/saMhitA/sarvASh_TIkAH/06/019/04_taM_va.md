@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ anavadyā́ḥ ← anavadyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desiring sustenance, we invoke you, the renowned **Indra**, on this occasion, the destroyer (of enemies), together with his powerful allies (the **Maruts**); as his ancient adorers have been, (may we be), exempt from blame, irreproachable, unharmed.”
 </details>

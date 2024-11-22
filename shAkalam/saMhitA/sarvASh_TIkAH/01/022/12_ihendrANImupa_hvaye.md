@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 hvaye ← √hvā- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -109,7 +112,8 @@ sómapītaye ← sómapīti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoke hither, **Indrāṇī**, **Varuṇānī**, and **Agnāyī**, for our welfare, and to drink the **Soma** juice.”
 </details>

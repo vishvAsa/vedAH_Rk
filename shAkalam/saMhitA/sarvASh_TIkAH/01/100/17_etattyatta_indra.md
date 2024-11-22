@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etát ← eṣá (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -160,7 +163,8 @@ surā́dhāḥ ← surā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, showerer (of benefits), the Vārṣāgirās, **Ṛjrāśva** and his companions, **Ambariṣa**, **Sahadeva**, Bhayamāna, and Surādhās, address to you this propitiatory praise\].”
 </details>

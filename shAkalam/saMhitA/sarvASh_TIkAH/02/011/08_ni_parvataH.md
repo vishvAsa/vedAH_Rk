@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 áprayuchan ← áprayuchant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -170,7 +173,8 @@ paprathan ← √prathⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The cloud, not heedless (of its office), is suspended (in the sky); resonant with maternal (waters), it has spread about; (the winds), augmenting the sound in the distant horizon; have promulgated the voice uttered by **Indra**.”
 </details>

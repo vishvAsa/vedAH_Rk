@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -199,7 +202,8 @@ Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I am not happy, **Indrāṇi**, without my friend **Vṛṣākapi**; whose acceptable oblation here, purified withwater, proceeds to the gods; **Indra** is above all (the world).”
 </details>

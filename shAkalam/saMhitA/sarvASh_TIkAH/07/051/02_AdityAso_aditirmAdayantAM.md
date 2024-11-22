@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -165,7 +168,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Ādityas** and **Aditi**, and the upright **Mitra**, **Āryaman**, and **Varuṇa**, be exhilarated (by thelibation); may the guardians of the world be ours also; may they drink the **Soma** today for our preservation.”
 </details>

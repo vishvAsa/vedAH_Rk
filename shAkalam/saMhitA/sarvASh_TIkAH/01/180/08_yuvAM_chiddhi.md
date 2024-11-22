@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -173,11 +176,13 @@ sahásraiḥ ← sahásra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, **Agastya**, eminent among the leader of men, arouses you daily with numerous (invocations) like an instrumental ument of sound, for the sake of obtaining a manifold (flow) of a torrent (of rain).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like an instrumental ument of sound: kāradhunīva = from **kārā**, sound, **śabda**;
 

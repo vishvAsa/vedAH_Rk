@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What suitable praise may bring the son of strength, **Indra**, before us, to give us wealth; the hero, the lord of cattle, is the donor, oḥ man, of the wealth of his adversaries to him who glorifies him.”
 </details>

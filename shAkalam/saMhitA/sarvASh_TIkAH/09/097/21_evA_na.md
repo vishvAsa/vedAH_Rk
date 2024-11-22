@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -189,7 +192,8 @@ vīrávantam ← vīrávant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “So, **Indu**, at our sacrifice pour the water from the firmament into the vessels; may **Soma** bestow upon us desirable riches in abundance with **male** offspring and strength.”
 </details>

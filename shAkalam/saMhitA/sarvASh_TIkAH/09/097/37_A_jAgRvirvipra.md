@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -166,11 +169,13 @@ suhástāḥ ← suhásta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vigilant **Soma**, the knower of true praises, being purified, has sat down in the vessels-- (the Soma) whom the **adhvaryus** touch, combined, emulous, leaders of the sacrifice, auspicious-handed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Touch: sapati spṛśatikarmā (**Nirukta** 5.16)
 </details>

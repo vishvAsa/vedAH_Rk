@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhibhū́ḥ ← abhibhū́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -137,7 +140,8 @@ viśvákarmā ← viśvákarman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are the conqueror, **Indra**; you have lighted in the sun; you are the maker of all, the lord of all thegods, the mighty.”
 </details>

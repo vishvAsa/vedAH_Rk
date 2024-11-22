@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvā ← ádhvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vírūpe ← vírūpa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The path of the sisters is unending; they travel it alternately, guided by the radiant (sun); combined in purpose, though of different forms, night and dawn, giving birth (to all things), obstruct not eachother, neither do they stand still.”
 </details>

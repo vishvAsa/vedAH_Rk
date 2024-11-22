@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ viśé-viśe ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This invoker of the gods and minister of frequent worship, who is to be glorified at sacrifices, has been plural ced first (of the gods) by the performers of the rite; the **Agni** whom Apnavāna and other **Bhṛgus** lighted in the woods for the sake of all men, marvellous (in his acts), and soverign (over all).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 3.15; the rite: the Agni here is **āhavanīya** which is kindled before the **dakṣiṇā**; Apnavāna and other Bhṛgus: Apnavānaḥ is the name of a ṛṣi of the family of **Bhṛgu**;
 

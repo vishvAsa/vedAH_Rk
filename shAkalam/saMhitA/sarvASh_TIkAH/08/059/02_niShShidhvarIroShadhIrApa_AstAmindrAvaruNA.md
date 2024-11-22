@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -171,7 +174,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The plural nts and the waters were efficacious, they have attained their power, O **indra** and **Varuṇa**, youwho have gone beyond the path of the firmament, no godless man is worth being called your enemy.”
 </details>

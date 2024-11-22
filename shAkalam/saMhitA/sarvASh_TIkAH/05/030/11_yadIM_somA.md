@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámandan ← √mand- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -173,7 +176,8 @@ usríyāṇām ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the libations effused by **Babhru** had exhilarated him, the showerer (of benefits) shouted aloud in the combats; **Indra**, the destroyer fo cities, quaffing (the **Soma**), restored to him his milk-yielding cattle.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -177,11 +180,13 @@ turī́yeṇa ← turī́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, you were dissipating those illusions of **Svarbhānu** which were spread below the sun, then **Atri**, by his fourth sacred prayer, discovered the sun concealed by the darkness impeding his functions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., by the four stanzas of this **sūkta** from the fifth to the eighth
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -180,7 +183,8 @@ iṣitáḥ ← √iṣ- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The graceful messenger (of the gods) goes between heaven and earth; sitting (on the altar), and plural ced before men, he ornaments, the spacious chambers (of sacrifice) with his rays, animated by the gods, and affluent in wisdom.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káṇvam ← káṇva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -143,11 +146,13 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders (of rites), protect us with those protections with which you have protected **Kaṇva** andMedhātithi, **Viśa** and Daśavraja, with which you have protected Gośarya.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gośarya: or, **śayu**, whose barrencow the **Aśvins** enabled to give milk; cf. RV. 1.116.22
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ yajñíyān ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great, the unconquerable (**Agni**), the showerer, milks openly with a (great) milking the streams (ofprosperity) from heaven for the unwearying sacrificer; like **Varuṇa**, he knows everything by his understanding;may he who is skilled in sacrifice observe the sacrificial seasona.”
 </details>

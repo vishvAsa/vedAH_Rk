@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṇvāni ← áṇva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -193,7 +196,8 @@ suvānáḥ ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rapid streams of you when you are purified,being collected together pass through the interstices of the fleece; when you are mixed with water in the ladles, you, **Soma**, on being effused alight on the pitchers.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvān ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -102,11 +105,13 @@ sanam ← √sanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have received together (with my other gifts) six horses with their mares from te pious **Indrota**, the sonof **Atithigva**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Together: sacā: i.e. together with the gifts of **Ṛkṣa** and **Aśvamedha**; Indrota's gift is incidental andno part of the original sacrifice. The implied meanings could be: trees and horses used in the **yajña**
 </details>

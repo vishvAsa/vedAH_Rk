@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, born of the race of **Gotama**, praise you, **Agni**, with acceptable (hymns), as the lord of riches; rubbing you, the bearer of oblations, (as a rider rubs down), a horse; may he who has acquired wealth by sacred rites, come hither quickly in the morning.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text has only rubbing or rather, sweeping, you as a horse; expanded as, brushing the plural ce of the fire for the burnt-offering, the altar. This is comparable to a person n who mounts a horse first rubs with his **hands** the back of the horse
 </details>

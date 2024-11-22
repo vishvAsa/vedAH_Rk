@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -153,7 +156,8 @@ yā́man ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Truly have they called you, **Aśvins**, the bestowers of felicity; such may you be when earnestly invoked to our sacrifice; bountiful bestowers of felicity at our sacrifice.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -153,11 +156,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we ever follow prosperously our path, like the sun and the moon; may we be associated with a requiting, grateful and recognisant (kinsman).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Punardadatā aghnatā jānatā = with one who gives again, one who does not kill or harm, i.e., one who not make an evil return to kindness, one who is grateful (one who does not inflict injury by long-suspended anger);
 

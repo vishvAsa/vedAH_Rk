@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhójanāni ← bhójana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -188,7 +191,8 @@ vyántu ← √vī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your favours, **Indra**, to **Sudāsa**, the donor (of offerings), the presenter of oblations, are infinite;showerer (of benefits), I yoke for you (your vigorous) steeds; may our prayers reach you who are mighty, towhom many rites are addressed.”
 </details>

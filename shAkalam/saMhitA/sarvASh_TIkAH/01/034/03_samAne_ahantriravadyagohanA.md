@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhan ← áhar ~ áhan- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -188,7 +191,8 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thrice in one entire day do you repair the faults (of your worshippers); thrice today sprinkle the oblation with sweetness; and thrice, evening and morning, **Aśvins**, grant us strength-bestowing food.”
 </details>

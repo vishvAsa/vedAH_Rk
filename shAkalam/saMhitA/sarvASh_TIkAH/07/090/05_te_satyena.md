@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dī́dhyānāḥ ← √dhī- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
 
@@ -183,11 +186,13 @@ sacante ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those (worshippers) illustrious by sincere adoration, assiduous in the discharge of their own duties,bring to you, **Indra** and **Vāyu**, a hero-bearing chariot, and present to you, two soverigns, (sacrificial) fooḍ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hero-bearing chariot: vīravāham ratham = aśvai vahanīyam, to be borne by your steeds, or stotṛbhihprāpaṇīyam, to be obtained by the worshippers;
 

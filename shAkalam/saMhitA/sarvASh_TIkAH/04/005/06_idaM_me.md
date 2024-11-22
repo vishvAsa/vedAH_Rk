@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -196,11 +199,13 @@ yahvám ← yahvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purifier, **Agni**, bestow on me, not neglecting your worship, this acceptable and vast (wealth), like a heavy load on a feeble (bearer), together with invigorating food; (wealth), secure, abundant, tangible, and consisting of the seven elements.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Saptadhātu** = seven sorts of animals; sapta **gramya** paśavaḥ saptāraṇyaḥ, seven tame, seven wild animals (**Taittirīya** **Saṃhitā** 7.2.2.1)
 </details>

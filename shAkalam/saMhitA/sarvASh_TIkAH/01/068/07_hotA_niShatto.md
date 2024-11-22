@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ápatye ← ápatya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -120,11 +123,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[7-8\] You have abided with the descendants of **Manu** as the invoker (of the gods); you are indeed the lord of their possessions; they have desired (of you) procreative vigour in their bodies, and, associated with their own excellent offspring, they contemplate (all things) undisturbed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Descendants of Manu: mankind
 </details>

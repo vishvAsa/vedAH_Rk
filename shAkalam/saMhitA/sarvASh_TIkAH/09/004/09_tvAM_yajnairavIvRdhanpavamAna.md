@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 avīvr̥dhan ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -120,11 +123,13 @@ vásyasaḥ ← vásyaṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pure-dropping (**Soma**), they glorify you with the holy rites for their own upholding make us happy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vidharmaṇi = ātmavidhāraṇārtham; or, yajne--'they glorify you with the hymns in the sacrifice'
 </details>

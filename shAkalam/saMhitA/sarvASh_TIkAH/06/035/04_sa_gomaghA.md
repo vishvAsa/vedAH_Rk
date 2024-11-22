@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvaścandrāḥ ← áśvaścandra- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -182,7 +185,8 @@ surúcaḥ ← surúc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant, **Indra**, to your adorer (abundant) food, productive of cattle, plural asant with horses, and renowned for vigour; multiply nourishment, and (cherish) the kine easily milked, and render them so that they may be resplendent.”
 </details>

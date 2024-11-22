@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apsarásaḥ ← apsarás- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -170,11 +173,13 @@ yā́cante ← √yāc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The nymphs of the firmament seated in the midst flow towards the sagacious **Soma**; they cherish him the sprinkler of the hall of sacrifice; (the worshippers) solicit **Pavamāna** (the undecaying) for a boon.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the midst: in the middle of the sacrifice, i.e., in the cups
 </details>

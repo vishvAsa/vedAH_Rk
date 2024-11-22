@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhire ← √dhā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -211,11 +214,13 @@ viśváhā ← viśváhā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The plural nts bear him as the embryo (conceived) in due season; the maternal waters bring forth **Agni**;yes, the trees and the pregnant creepers bring him forth daily like themselves.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Samānam = equal to (or like)themselves, since he enters them as an embryo
 </details>

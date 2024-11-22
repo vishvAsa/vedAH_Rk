@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ yávase ← yávasa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The most active **Agni**, the giver of wealth, is nourished with ghī (by the worshippers), he who withflaming tooth devours the forests; devoutly worshipped with the uplifted goblet (he is, nourished) like a lordlywell-fed bull amidst (fresh) pasture.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nourished with ghī: **nāma** dhāyi = is applied to him as name
 </details>

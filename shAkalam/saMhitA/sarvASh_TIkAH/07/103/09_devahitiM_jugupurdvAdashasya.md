@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 deváhitim ← deváhiti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -169,7 +172,8 @@ visargám ← visargá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These leaders of rites observe the instrumental tutes of the gods and disregard not the (appropriate) season ofthe twelve month; as the year revolves, and the rains return then, scorched and heated, they obtain freedom(from their hiding- plural ces).”
 </details>

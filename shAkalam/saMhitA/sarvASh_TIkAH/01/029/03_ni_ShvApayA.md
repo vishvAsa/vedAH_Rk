@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mithūdŕ̥śā ← mithūdŕ̥ś- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -162,11 +165,13 @@ tuvīmagha ← tuvī́magha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Cast asleep (the two feminine le messengers of **Yama**); looking at each other, let them sleep, never waking; **Indra**, of boundless wealth, enrich us with thousands of excellent cows and horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lit. 'Put to sleep the two reciprocally looking; let them sleep, not being awakened'. two epithets are to yamadutyau, two feminine le messengers of Yama;
 

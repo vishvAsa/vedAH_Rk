@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ahvanta ← √hū- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -178,7 +181,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious **Vasiṣṭha** invoked you, **Agni**, at the sacrificial meetings, praising you, the mighty one;continue the sustenance of riches among the instrumental tutors of the rite, and do you (gods) ever cherish us withblessings.”
 </details>

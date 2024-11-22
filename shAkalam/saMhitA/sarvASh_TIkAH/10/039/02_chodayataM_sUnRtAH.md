@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 codáyatam ← √cud- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -211,7 +214,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Stimulate, **Aśvins**, our words of truth, perfect (our) sacred rites, and inspire (our) numerous facultires;this (is what) we wish; grant us a glorious portion (cf. wealth); put us like prosperous **Soma** among the affluent.”
 </details>

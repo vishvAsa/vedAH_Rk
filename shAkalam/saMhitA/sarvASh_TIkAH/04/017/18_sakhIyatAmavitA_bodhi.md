@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avitā́ ← avitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ maháyantaḥ ← √mahay- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Regard yourself as a protector of those who desire your friendship; be a friend deserving of commendation; grant, **Indra**, food to him who praises (you); suffering difficulties, we make our suppications to you, worshipping you with these holy rites.”
 </details>

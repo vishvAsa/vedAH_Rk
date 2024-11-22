@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -183,7 +186,8 @@ víṣvañcam ← víṣvañc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Soma**) fit for good flows towards the delightful waters in which the mighty (Soma) is fostered; the beholder of all, the great (Soma) mounts themighty sun's chariot which go everywhere.”
 </details>

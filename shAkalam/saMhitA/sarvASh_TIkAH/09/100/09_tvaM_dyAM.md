@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -152,7 +155,8 @@ pávamāna ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Observer of manifold rites, you support both heaven and earth; O **Pavamāna**, (who are endowed) with greatness, you put on your coat of mail.”
 </details>

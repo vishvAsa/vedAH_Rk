@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́yuḥ ← ā́yus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -188,11 +191,13 @@ trís ← trís (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Nāsatyas**, bearing strength and wealth with posterity and vigour-sustaining food, you came, with one intention, to the family of **Jahnu**, (provide) with (sacrificial) viands, and possessing a third portion of the daily (offerings).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Family of Jahnu: **jāhnavī**, an adjective of **prajā**, progeny (jahnoḥ prajām). Jahnu is a **Mahaṛṣi**; he is a prince of the lunar dynasty
 </details>

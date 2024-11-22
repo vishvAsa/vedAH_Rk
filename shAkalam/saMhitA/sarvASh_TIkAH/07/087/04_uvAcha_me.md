@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
 
@@ -191,11 +194,13 @@ yugā́ya ← yugá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa** thus spoke to me, possessed of understanding; the cow (speech) has thrice sevenappellations; the wise and intelligent Varuṇa, giving instrumental uction to me, his worthy disciple, had declared themysteries of the plural ce (of **Brahma**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The cow: aghnyā = vāk, speech;
 

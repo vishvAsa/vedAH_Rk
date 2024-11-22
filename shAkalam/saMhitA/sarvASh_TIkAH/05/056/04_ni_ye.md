@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ní ← ní (invariable)  
 {}
 
@@ -165,11 +168,13 @@ yā́mabhiḥ ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They who with ease destroy (their foes) by their prowess, like horses difficult to be restrained, they send down by their movements the vast and sounding water-laden cloud.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like horses: the text has **gāvaḥ**; the translation is **aśvaḥ**, horses
 </details>

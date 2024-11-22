@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádbhutaḥ ← ádbhuta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The friend (of all), the wonderful (**agni**), has upheld heaven and earth; he has hidden darkness within light; he has spread out the two sustaining (worlds, heaven and earth), like two skins; **vaiśvānara** comprehends all (creaive) energy.”
 </details>

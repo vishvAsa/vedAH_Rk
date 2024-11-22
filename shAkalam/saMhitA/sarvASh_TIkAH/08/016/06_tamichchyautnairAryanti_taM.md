@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 ā́ryanti ← √ār- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -123,7 +126,8 @@ varivaskŕ̥t ← varivaskŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They honour him with animating (hymns), men (honour) him with sacred rites, for **Indra** is the giver ofwealth.”
 </details>

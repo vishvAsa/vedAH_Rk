@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aryamā́ ← áryaman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ vīryā̀ṇi ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let neither **Mitra** nor **Varuṇa**, **Aryaman**, Āyu, **Indra**, **Ṛbhukṣin**,nor the **Maruts**, censure us; when we proclaim in the sacrifice the virtus of the swift horse sprung from the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Āyu = **vāyu** (āyuḥ satatagantā **vāyuḥ**, vakāralopo vā);
 

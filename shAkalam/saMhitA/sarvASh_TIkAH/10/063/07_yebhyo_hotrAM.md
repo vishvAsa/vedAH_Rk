@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyejé ← √yaj- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -216,7 +219,8 @@ svastáye ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ādityas**, to whom, **Manu**, having kindled the fire, offered the first sacrifice with (reverent) mind,(aided) by the seven ministrant priests, do you bestow upon us prosperity, free from peril; provide for us plural asantpaths easy to travel for our well-being.”
 </details>

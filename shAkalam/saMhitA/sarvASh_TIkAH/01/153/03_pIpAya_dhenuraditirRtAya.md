@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -181,11 +184,13 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the productive cow, **Mitra** and **Varuṇa**, furnish abundant nutriment to the pious man who presents you with oblations, as when Rātahavya, glorifying you, propitiates you in the solemnity, like the ministrant priest of a man (who instrumental tutes the rite).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rātahavya = name of a **rājā**, king
 </details>

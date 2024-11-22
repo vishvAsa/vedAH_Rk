@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -181,7 +184,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, make our sacriice ascend to heaven free from injury, happy for the attainment of our desires;make the fire to which she is offered blaze up towards (the gods); we solicit today this protection of our gods.”
 </details>

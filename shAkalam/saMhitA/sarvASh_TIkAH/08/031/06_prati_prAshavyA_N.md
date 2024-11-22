@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 itaḥ ← √i- 1 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -120,11 +123,13 @@ vāyataḥ ← √vā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Constantly associated, may they acquire appropriate (sacrificial) viands; may they be able to offersacrifice; may the never be wanting in food (given by the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Na tā vājeṣu vāyataḥ =devairdatteṣvanneṣu na gacchataḥ **sarvadā** annasahitau tiṣṭhatām
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árhan ← √arh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -197,11 +200,13 @@ vaí ← vaí (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worthy (of reverence), you bear arrows and a bow; worthy (of praise), you wear an adorable and omniform necklace; worthy (of adoration), you preseve all this vast universe; there is no one more powerful than you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Worship of reverence: arhan = **arha**, **yogya**, fit for, or worthy of;
 

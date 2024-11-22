@@ -24,16 +24,19 @@ ChandaH = "महासतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ási ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -193,11 +196,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are the lord of the dwelling, and of all men the descendants of **Manu**; protect me, youngest (of the gods), when kindling you, with a hundred defences against iniquity; (grant me) a hundred winters, (as well as to those) who bestow gifts upon your worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The lord of the dwelling: **gṛhapati**, master or protector of the house
 </details>

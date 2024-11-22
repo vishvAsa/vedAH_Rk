@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámartyaḥ ← ámartya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Traversing the seven regions (of the universe), immortal **Agni**, bestow wealth, giving liberally to thepious liberal giver. Gratify with easily obtainable riches, together with fair offspring, him who feeds you with fueḷ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Giving liberally: dāśat yaḥ: to the pious worshipper who gives
 </details>

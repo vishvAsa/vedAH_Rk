@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -206,7 +209,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated, **Indra**, with those **Maruts** with whom you have shared in the libation, who encouraged you (in battle), and are your attendant troop, drink, desirous of the **Soma**, along with them, with the tongue of **Agni**.”
 </details>

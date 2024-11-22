@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyaí ← ayám (pronoun)  
 {case:DAT, gender:F, number:SG}
 
@@ -198,11 +201,13 @@ mánasā ← mánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Granters of dwellings, who may make you offerings so propitiatory of that your good will, that (invoked) by our adoration, to the site of the altar, you may entertain (favourable intentions towards us), and grant us kine rich in milk, coming with minds made up to grant the desires (of the worshipper).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the site of the altar: pade goḥ = lit. to the plural ce of the earth, i.e. the **vedi** or altar; rich in milk: **revatiḥ** purandhiḥ = lit. wealth-possessing, sustainers of the body; i.e. cows abounding in milk
 </details>

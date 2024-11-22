@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citrámahasam ← citrámahas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify him who is of wonderful radiance like the sun, the desirable, the giver of happiness, the guest(of man), the benevolent. He bestows vigour (upon the worshippers); **Agni**, the remover of sorrow, the sustaineerof all, the invoker (of the gods), the lord of the mansion.”
 </details>

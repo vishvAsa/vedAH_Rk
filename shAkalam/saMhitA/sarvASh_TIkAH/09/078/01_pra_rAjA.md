@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asiṣyadat ← √syand- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -200,11 +203,13 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This royal (**Soma**) producing a sound flows forth; clothing himself with the water he advances towards the praises (of the worshipper); the sheep with its fleece lays hold of the impure form; purified he approaches the station of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The sheep: i.e., the filter
 </details>

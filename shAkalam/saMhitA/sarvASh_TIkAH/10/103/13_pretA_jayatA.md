@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 ita ← √i- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -157,7 +160,8 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Advance, warriors, and conquer; may **Indra** grant you happiness, may your arms be strong, so that youmay be invincible.”
 </details>

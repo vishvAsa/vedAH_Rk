@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 suṣā́mṇe ← suṣā́man- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -119,11 +122,13 @@ yāthaḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Say), Varu (thus), **Nāsatyās**, senders of rain, affluent showerers (of benefits), as you came toSuṣāman with your protections to (grant him) great riches, (so come to me).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Say, Varu, thus: varu, vocative: hevarunāmaka **rājan**, evam brūhīti ṛṣir vadati; to grant him great riches: mahe tane = mahate dhanāya;mahyam āyātam
 </details>

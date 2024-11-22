@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -206,11 +209,13 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This day, may all the **Maruts**, all the (deities), be for our protection; and may all the fires be kindleḍMay all the gods come for our preservation, and may all wealth and food be ours.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protection: ūtī, **avasā** =rakṣaṇam;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 háribhyām ← hári- (nominal stem)  
 {case:INS, gender:M, number:DU}
 
@@ -216,7 +219,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let (your car), **Indra**, drawn by your horses (rush) downwards (upon the **asuras**); let your destroying thunder-bolt fall upon your enemies; slay those that assail in front or in rear, or that fly (from the combat); make the universe (the abode of) truth; (let such power) be concentrated in you.”
 </details>

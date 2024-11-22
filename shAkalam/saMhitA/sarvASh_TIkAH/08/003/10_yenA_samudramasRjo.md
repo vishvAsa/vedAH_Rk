@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apáḥ ← áp- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -188,11 +191,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wherewith you have sent the great waters tot he ocean; such as is your wish-fulfilling strength; thatmight of **Indra** is not easily to be resisted which the earth obeys.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Such is your wish-fulfilling: or, that your strengthwherewith... is wish-fulfilling
 </details>

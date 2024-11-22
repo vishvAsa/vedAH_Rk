@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ tveṣám ← tveṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, young (of the deities), the gods have made you, when kindled, their messenger, the bearer of oblations; you, who are rapid in movement, and of whom butter is the source, they have made, when invoked, the brilliant eye (of the universe), instrumental gated by the understanding.”
 </details>

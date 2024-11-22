@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhibhaṅgā́ya ← abhibhaṅgá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -151,7 +154,8 @@ vocata ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer adoration to **Indra**, the overcomer, the destroyer, the munificent, the invincible, the all-enduring, the creator, the all-adorable; the sustainer, the unassailable, the ever-victorious.”
 </details>

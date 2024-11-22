@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásvāpayat ← √svap- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -107,7 +110,8 @@ māyáyā ← māyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He put to sleep, by delusion, with his destructive (weapons), thirty thousand of the servile (races), for the sake of **Dabhīti**.”
 </details>

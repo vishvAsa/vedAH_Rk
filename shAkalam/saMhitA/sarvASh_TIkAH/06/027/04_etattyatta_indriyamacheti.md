@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aceti ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -188,11 +191,13 @@ svanā́t ← svaná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such as your power (is) it has been comprehended (by us) as that wherewith you have slain the race of Varaśikha, when the boldest (of them) was demolished by the noise of your thunderbolt hurled with (all your) force.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varaśikha: name of an **asura**; or, perhaps, the name of a people
 </details>

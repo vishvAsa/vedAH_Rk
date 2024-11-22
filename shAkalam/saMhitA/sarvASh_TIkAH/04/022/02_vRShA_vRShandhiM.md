@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásyan ← √as- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -169,11 +172,13 @@ yásyāḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer (of benefits), casting with his **hands** the quadrangular bolt that causes rain, fierce, the chief of leaders, the achiever of (glorious) acts, is desirous of the prosperity of the investing Paruṣṇi (river), whose (bordering) districts he has frequented through regard.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The investing Paruṣṇi: ūrṇām paruṣṇīm = acchādikām parvavatīm nadīm, the river having joints or bends covering; whose bordering districts he has frequented: the text is, yasyāḥ parvāṇi sakhyāya vivye = liṭ, those joints through friendship he has approached; the explanation: yasyāḥ nadhyaḥ bhinnān deśān sakhikarmaṇe saṃvṛtavān, the separate districts of which river he has, for the sake of friendly acts,covered or concealed
 </details>

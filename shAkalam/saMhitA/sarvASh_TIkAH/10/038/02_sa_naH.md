@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣumántam ← kṣumánt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -212,11 +215,13 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Indra**, heap up in our dwelling famous riches, comprising food and herds of cattle; may we,**Śakra**, be vigorous (through the favour) of you, the victorious; grant us, **Vasu**, that which we desire.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Comprisingfood and herds of cattle: where cattle are abundant like water
 </details>

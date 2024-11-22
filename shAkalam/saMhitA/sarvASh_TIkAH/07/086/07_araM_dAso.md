@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -175,7 +178,8 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Liberated from sin, I may perform diligent service, like a slave, to the divine showerer (of benefits), thesustainer of the world; may he, the divine lord, give intelligence to us who are devoid of understanding; may hewho is most wise, guide the worshipper to wealth.”
 </details>

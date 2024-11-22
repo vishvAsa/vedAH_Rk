@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhíyaḥ ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -220,11 +223,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we be able to kindle you; perfect the rite, for through you the gods partake of the offered oblations; bring hither the **Ādityas**, for we love them; let us not suffer injury, **Agni**, through your friendship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ādityas: sons of **Aditi**, i.e. all the gods
 </details>

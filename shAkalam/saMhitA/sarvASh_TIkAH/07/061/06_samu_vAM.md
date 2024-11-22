@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahayam ← √mahay- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -194,7 +197,8 @@ kr̥tā́ni ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer sacrifice to you two with praises, I invoke you, **Mitra** and **Varuṇa**, when in trouble; may thepresent hymns be capable of gratifying you; may these (my) prayers be acceptable to you both.”
 </details>

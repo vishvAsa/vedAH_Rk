@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávobhiḥ ← ávas- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -167,7 +170,8 @@ vibhā́vā ← vibhā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This is that **Agni** by whose protections the worshipper (diligent) in sacrifice prospers in his dwelling;who is radiant, travels everywhere invested with the excellent splendours of his rays.”
 </details>

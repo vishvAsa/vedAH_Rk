@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -178,11 +181,13 @@ yāhi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer (of benefits), propitiated by the praise, come to him who glorifies you to make him happy among men with abundant food, with exceeding strength, and with young (mares) with numerous colts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nīvyābhi puruvīrābhiḥ = navatarābhiḥ bahūnām vīrayitribhir vaḍavābhiḥ, with very new or young mares bearing **male** progeny of many
 </details>

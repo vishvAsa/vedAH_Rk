@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -147,7 +150,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Aśvins**, with your glossy steeds, **Dasras**, riding in golden chariots, lords of good fortune,upholders of truth, drink the **Soma**.”
 </details>

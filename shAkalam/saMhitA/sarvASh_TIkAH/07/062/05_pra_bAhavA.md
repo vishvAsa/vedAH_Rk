@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bāhávā ← bāhú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -200,7 +203,8 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Stretch forth your arms for the prolongation of our existence, bedew with water the pastures of ourcattle, render us honoured among men; ever youthful **Mitra** and **Varuṇa**, hear these my invocations.”
 </details>

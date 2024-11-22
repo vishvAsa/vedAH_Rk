@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánīkena ← ánīka- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -177,7 +180,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you with this (your) host (of attendants), be of good promise to us; do you, the especial worshipper of the gods, their unassailable protector, as well as our preserver, light up (all) with shining and affluent well-being.”
 </details>

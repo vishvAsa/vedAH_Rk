@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápūrvyā ← ápūrvya- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -135,7 +138,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The beloved Uṣas, until now unseen, scatters darkness from the sky; **Aśvins**, I greatly praise you.”
 </details>

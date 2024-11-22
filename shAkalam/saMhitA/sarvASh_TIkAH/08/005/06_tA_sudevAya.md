@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 dāśúṣe ← dāśváṁs- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -119,7 +122,8 @@ ukṣatam ← √ukṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sprinkle well with water the pure unfailing pasturage (of his cattle) for the devout donor (of theoblation).”
 </details>

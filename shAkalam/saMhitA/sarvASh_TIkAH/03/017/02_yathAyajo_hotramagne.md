@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As you did offer the burnt-offering, **Agni**, (on behalf of) earth; as you, **Jātavedas**, who are cognizant (of sacred rites, did offer sacrifice on behalf) of heaven; so with this oblation worship the gods, and perfect this rite today (as you did) that of **Manu**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhā ← áhar ~ áhan- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -204,7 +207,8 @@ subhágāya ← subhága- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, fortunate days arise, when you advance your emblem in battles, the strong **Agni**, theinvoker of the gods, summoning the gods hither for our benefit, sits down on the sacred grass.”
 </details>

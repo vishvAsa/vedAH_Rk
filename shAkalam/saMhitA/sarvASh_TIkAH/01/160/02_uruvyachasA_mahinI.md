@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asaścátā ← asaścát- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -185,7 +188,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wide-spreading, vast, unconnected, the father and mother (of all beings), they two preservethe worlds. Resolute, as if (for the good) of embodied (beings), are Heaven and Earth, and the father ahs invested evry thing with (visible) forms.”
 </details>

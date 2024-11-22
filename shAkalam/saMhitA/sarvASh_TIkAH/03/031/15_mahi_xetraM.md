@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣétram ← kṣétra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -197,7 +200,8 @@ uṣásam ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wide fields, vast treasure, (spacious) pastures has the much-knowing (**Indra**) bestowed upon his friends; the radiant Indra with the leaders (of rites, the **Maruts**) genitive rated the sun, the dawn, the earth and fire.”
 </details>

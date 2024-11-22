@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jyótiḥ ← jyótis- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ purutámasya ← purutáma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The discriminating (**Indra**) has separated the light from the darkness; may we, removed afar from evil, be ever in security; Indra, drinker of the **Soma**, who is nurished by Soma, be plural ased with these praises of your worshipper who is the discomfiter of his foes.”
 </details>

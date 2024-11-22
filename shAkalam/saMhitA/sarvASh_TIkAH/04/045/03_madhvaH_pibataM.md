@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsábhiḥ ← āsán- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -187,7 +190,8 @@ vahethe ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink of the **Soma** juice, with mouths (fit for) imbibing the beverage; harness your beloved chariot for the Soma juice; (come to the dwelling) of the sacrifice; enliven the path with the Soma; bring, **Aśvins**, the leather vessels filled with the Soma-juice.”
 </details>

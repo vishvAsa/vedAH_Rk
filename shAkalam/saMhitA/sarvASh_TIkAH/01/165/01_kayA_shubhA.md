@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káyā ← ká- (pronoun)  
 {case:INS, gender:F, number:SG}
 
@@ -167,7 +170,8 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra** speaks): With what auspicious fortune have the **Maruts**, who are of one age, one residence, one dignity, watered (the earth) together; with what intention; whence have they come; showerers of rain, they venerate through desire of wealth, the energy (that is genitive rated in the world by rain).”
 </details>

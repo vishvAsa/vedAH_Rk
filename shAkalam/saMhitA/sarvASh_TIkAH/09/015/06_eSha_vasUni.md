@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 eṣá ← eṣá (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -115,11 +118,13 @@ gachati ← √gam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Overpowering at the juncture of time the discomfited concealers (the **rākṣasas**), he descends upon those doomed to destruction.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Another reading (St. Petersburg Dictionary): 'at the juncture of time passing beyond the solid treasures (of heaven and earth), he descends upon the young **Soma**'
 </details>

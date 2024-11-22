@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvam ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ vratā́ ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “genitive rating food, cows, horses, plural nts, trees, the earth, mountains and waters, elevating the sun inheaven, munificent, promoting sacred observances upon the earth, (they abide everywhere).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Genitive rating food:**brahman** = vṛdh to sustain, foster
 </details>

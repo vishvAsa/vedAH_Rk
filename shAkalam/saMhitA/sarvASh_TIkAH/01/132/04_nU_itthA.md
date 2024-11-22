@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -282,11 +285,13 @@ hr̥ṇāyántam ← √hr̥ṇāy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your exploits, **Indra**, are worthy to be glorified; now, verily, as well as in former times, when you did open the cloud for the **Aṅgirasas**, restoring to them their cattle--conquer for us, fight for us, as you did for them; humble in behalf of those who present libations, him who offers no worship; him who rages against us, and offers no worship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vrajam = a cloud; in the second repetition, the cattle of the Aṅgirasas, stolen by **Paṇi**; hence, vrajam = a cow-pen or pasture
 </details>

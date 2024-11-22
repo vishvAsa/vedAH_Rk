@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -160,7 +163,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Therefore today at sunrise we solicit you with hymns for (wealth), which **Varuṇa**, **Mitra**, **Aryaman**,bearers of water, you convey.”
 </details>

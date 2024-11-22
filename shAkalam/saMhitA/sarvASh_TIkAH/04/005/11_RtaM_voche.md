@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 námasā ← námas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -201,7 +204,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Interrogated with respect, I declare the truth, that this (wealth is acquired), **Jātavedas**, by the praise of you; you rule over it, (over) all that (it may be), the wealth that is in heaven or on earth.”
 </details>

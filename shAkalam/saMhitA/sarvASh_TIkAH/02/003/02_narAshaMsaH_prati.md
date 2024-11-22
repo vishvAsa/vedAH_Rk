@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 añján ← √añj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -187,11 +190,13 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the bright Narāśaṃsa, illuminating the receptacles (of the offering) making manifest by his greatness the three radiant (regions) and diffusing the oblation at the season of sacrifice with butter-dispensing purpose, satisfy the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Narāśaṃsa: in the preceding **sūktas**, **tanūnapāt** is the second person nification of **Agni** addressed; in this **sūkta**, he is omitted
 </details>

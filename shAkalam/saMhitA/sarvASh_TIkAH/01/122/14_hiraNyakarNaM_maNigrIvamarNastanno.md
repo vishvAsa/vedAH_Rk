@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árṇaḥ ← árṇas- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -191,11 +194,13 @@ usrā́ḥ ← usrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May all the gods favour us with a person n decorated with golden earrings and jewel necklace; may the venerable (company of the deities) be propitiated by the praises issuing (from the mouth of the worshipper); may our offerings be acceptable to them, and (may they be plural ased) with both (our praises and offerings).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Arṇas** = rūpe, form; i.e., a son; may they be plural ased with both = may they reward us in both worlds; the text has only ubhayeṣu, in both
 </details>

@@ -20,12 +20,15 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 anibādhé ← anibādhá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -73,7 +76,8 @@ uraú ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[16-17\] May we ever be participant of the unprecedent joy-conferring, and well-guiding protection of the **Aśvins** bring to us, immortal (Aśvins), riches, **male** progeny, and all good things.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gha ← gha (invariable)  
 {}
 
@@ -130,7 +133,8 @@ pā́nti ← √pā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fortunate in sacrifice is that mortal whom the guileless **Maruts**, whom **Aryaman** and **Mitra**, protect.”
 </details>

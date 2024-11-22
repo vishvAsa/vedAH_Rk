@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásuraḥ ← ásura- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ vā́rebhiḥ ← vā́ra- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The animating invocation of these (**Aṅgirasas**) pervaded heaven; (the gods) with minds desirous offood kissed the earth; and there beholding (the lost cattle), the gods for their own benefit made (illumination) likethe sun by their glorious radiance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kissed: arrived; the subject of niṃsata may be the Aṅgirasas, who were sentby **Indra** to point out where the cattle of the worshippers were
 </details>

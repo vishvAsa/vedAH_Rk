@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -206,7 +209,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vex thoroughly, **Agni**, our assailing enemies, disappoint the purpose of the adversary who offers not worship; giver of dwellings, who are cognizant (of sacred rites), vex those who have no thought (of pious acts) so that your undecaying, all-pervading (rays), may ever abide.”
 </details>

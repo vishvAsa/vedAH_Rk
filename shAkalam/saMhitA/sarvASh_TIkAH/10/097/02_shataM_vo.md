@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 amba ← amba (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -168,7 +171,8 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mothers (of mankind) a hundred are your applications, a thousandfold is your growth; do you who fulfila hundred functions, make this my (people) free from disease.”
 </details>

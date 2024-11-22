@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 bhaṅgurā́vataḥ ← bhaṅgurā́vant- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -135,7 +138,8 @@ tápuragrābhiḥ ← tápuragra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Consume, **Agni**, the treacherous **rākṣasas** with your all-pervading sharp flame, with yourflame-pointed darts.”
 </details>

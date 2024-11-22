@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sahásram ← sahásra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -109,11 +112,13 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit, **Indra** for a thousand well-trained, swift-going horses, for a hundred jars of **Soma** juice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jars: **khāri** = a certain measure, by metonymy, a jar or ewer, droṇakalaśa, holding such a quantity; it is a grain measure equal to sixteen **droṇas**, or about three bushels
 </details>
@@ -128,7 +133,8 @@ for a hundred measures of soma.
 
 For vyáti- (RV 3x), despite Mayrhofer’s apparent skepticism (EWA s.v.) I follow Renou’s deriv. (EVP 15: 37) from vi √yam with a presumed development ‘hold separate/apart’ à ‘pair’, though Renou doesn’t deign to indicate what the semantic channel might be.
 
-khārī́-, a measure of capacity’, is found only here and much later in the sūtras and Classical Skt, but it appears to be widespread in MIA. See EWA s.v. ### 20
+khārī́-, a measure of capacity’, is found only here and much later in the sūtras and Classical Skt, but it appears to be widespread in MIA. See EWA s.v. _________
+**20**  
 mā́dabhrám (“not a little!”) is a prohibitive lacking a verb, though an aor.
 
 injunc. can easily be supplied of course: *dāḥ matching the impv. dehi in the positive expression preceding it. Or alternatively s-aor. *bhāḥ (i.e., *bhār) to match flg. bhara.

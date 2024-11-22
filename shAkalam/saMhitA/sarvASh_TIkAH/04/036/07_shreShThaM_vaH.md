@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -210,7 +213,8 @@ vedayāmasi ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “An excellent and agreeable form has been assumed by you; (this is our own) praise; **Vājas** and **Ṛbhus** be gratified (thereby), for you are wise, experienced, and intelligent; such we make you known (to be) by this (our) prayer.”
 </details>

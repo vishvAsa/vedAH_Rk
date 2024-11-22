@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -197,11 +200,13 @@ sákhāyaḥ ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “"When the lovers of sacrifice ascended to me sitting alone on the back of my well-loved (formament),then my mind verily proclaimed to my heart, ' my friends with their children are crying to me' ".”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 On th back of mywell-loved firmament: haryatasya pṛṣṭhe = kāntasya antarikṣasya pṛṣṭhe
 </details>

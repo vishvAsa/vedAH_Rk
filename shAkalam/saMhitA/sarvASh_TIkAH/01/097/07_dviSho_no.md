@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 dvíṣaḥ ← dvíṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -125,7 +128,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, whose countenance is turned to all sides, send off our adversaries, as if in a ship, (to the opposite shore); may our sin be repented of.”
 </details>

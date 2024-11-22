@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávarāsaḥ ← ávara- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -198,11 +201,13 @@ yā́t ← yā́t (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Humble (worshippers), adoring him, commemorate, **Indra**, your excellent, ancient, and glorious (deeds); so, hero, who are attracted by prayer, we praise you who are mighty, for those great actions with which we are acquained.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who are attracted by prayer: **brahmavāhaḥ** = mantrairvahanīya, to be borne or conveyed by prayers
 </details>

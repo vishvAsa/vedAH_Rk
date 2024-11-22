@@ -20,12 +20,15 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M
-#### Morph
+_________
+**Morph**  
 ásiknyām ← ásita- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -72,11 +75,13 @@ yájamānaḥ ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the sacrificer (pours the oblation) at night upon the fire.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Asikanyām yajamāno na **hotā**: hotā = hotāram, the invoker, **Agni**, āhvātāram agnim; siñcati **somam**, he sprinkles the **soma**; the verse with one **pāda** may relate to the previous verse
 </details>

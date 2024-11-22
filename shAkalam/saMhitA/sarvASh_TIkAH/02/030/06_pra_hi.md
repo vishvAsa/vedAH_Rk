@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -189,11 +192,13 @@ ulokám ← uloká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Soma**, eradicate the worker (of evil), whom you hate; be the encouragers of the liberal instrumental tutor of the rite; protect us in this plural ce of peril, and make the world (free from fear).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Make the world free from fear: kṛṇutam u lokam = liṭ, make the world; the verb is not used in the sense of creating; to specify what is done, added: bhayarahitam = freed from fear
 </details>

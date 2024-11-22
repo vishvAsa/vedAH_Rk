@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -185,7 +188,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Heaven and Earth, the effusers of water, the milkers of water, dischargers of the functions of water, divinities, the promoters of sacrifice, the bestowers of wealth, of renown, of food, of **male** posterity, combine together.”
 </details>

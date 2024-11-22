@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ráthānām ← rátha- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -137,7 +140,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise that brilliant company of the **Maruts**, who have your strength of recent chariots, you whom the rains attend.”
 </details>

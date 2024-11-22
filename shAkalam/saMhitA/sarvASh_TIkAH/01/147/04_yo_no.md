@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aghāyúḥ ← aghāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ tanvàm ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When a wicked (man), with twofold (malignity of thought and speech), obstructing our offerings, and refraining from gifts (himself), reviles us, may his prayer be heavy on him, and involve his person n (in the consequences of) his evil words.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The epithets such as aghāya seem to refer to asmai (not to **mantra**); the allusion is to the use of maledictory prayers or imprecations
 </details>

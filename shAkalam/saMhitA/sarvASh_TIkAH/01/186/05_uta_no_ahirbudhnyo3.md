@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhiḥ ← áhi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May, **Ahirbudhnya** grant us happiness; may **Sindhu** come, nourishing us as a (cow her) calf, whereby we may propitiate the grandson of the waters, (**Agni**), whom the clouds, swift as thought, convey.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sindhu = name of a river;
 

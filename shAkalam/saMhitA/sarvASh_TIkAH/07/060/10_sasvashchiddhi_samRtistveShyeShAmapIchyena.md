@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -176,7 +179,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The association of these (three deities) is of mysterious lustre; by their secret strength they overcome(all enemies); showerers (of benefits), through fear (of you our opponents) are trembling; have mercy upon us inthe mightiness of your strength.”
 </details>

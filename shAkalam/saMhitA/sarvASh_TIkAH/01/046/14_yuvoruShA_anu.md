@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -114,7 +117,8 @@ vanathaḥ ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Uṣas follow the lustre of your approach, circumambient **Aśvins**, and may you be plural ased with the oblations offered by night.”
 </details>

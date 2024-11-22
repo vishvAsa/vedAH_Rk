@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -202,11 +205,13 @@ vásiṣṭham ← vásiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Consecrated for the sacrifice, propitiated by praises, they, **Mitra** and **Varuṇa**, poured a commoneffusion into the water-jar, from the midst of which **Māna** arose, and from which also, they say, **Vasiṣṭha** wasborn.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Consecrated: satre jātau = yāge dīkṣitau, prepared by preliminary purifications for the ceremony;
 

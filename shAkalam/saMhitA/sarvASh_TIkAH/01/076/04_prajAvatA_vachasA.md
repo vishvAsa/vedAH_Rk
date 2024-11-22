@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsā́ ← ā́s- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ vásūnām ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke (you), who are the conveyor (of oblations), with your flames, with a hymn productive of progeny (to the worshipper); sit down here with the gods, and do you, who are deserving of worship, discharge the office of **Hotā**, or of **Potā** and awaken us, you who are the depository and genitive rator of riches.”
 </details>

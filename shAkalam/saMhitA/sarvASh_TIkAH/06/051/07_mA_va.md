@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyákr̥tam ← anyákr̥ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -212,7 +215,8 @@ tanvàm ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us not suffer for the sin committed by another; let us not do that which, **Vasus**, you prohibit; you rule universal gods, over the universe; (so provide that) mine enemy may inflict injury on his own person n.”
 </details>

@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kṣápaḥ ← kṣáp- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -221,11 +224,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He embraces the nights; of goodly aspect, and quick of movement, he encompasses the universe byhis acts; all who are desirous (of his favour) diligently offer him worship at the three diurnal rites; may all ouradversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Quick of movement: utsaraṇaśīlaḥ: usra = morning
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 dvaú ← dvá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -181,7 +184,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These two winds blow to the regions which are far beyond the ocean; may the one bring you vigour,may the other blow away all evil.”
 </details>

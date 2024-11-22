@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 devatrā́ ← devatrā́ (invariable)  
 {}
 
@@ -174,7 +177,8 @@ satyaíḥ ← satyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Agni**, to our presence with the **Pitṛs**, who are possessed of knowledge, who having attained aseat among the gods, thirst (for the **Soma**), skilled in sacrifices, reciters of praises with hymns, truth-speaking,seers, frequenters of sacrifices.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́rayā ← dhā́rā- 1 (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -112,7 +115,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Indu** good for sacred rites which when effused flows forth in a purifying stream, (swift) as a horse.”
 </details>
@@ -125,7 +129,8 @@ drop, like a horse that gets results,
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Rather than making c a nominal main clause (with Geldner and Renou), I think it better to take the whole vs. as a rel. cl., dependent on tám, which opens the next vs. ### 03
+Rather than making c a nominal main clause (with Geldner and Renou), I think it better to take the whole vs. as a rel. cl., dependent on tám, which opens the next vs. _________
+**03**  
 On the impossible word duróṣa(s)- see comm. ad VIII.1.13. This is the only one of its three occurrences where it qualifies soma, though in Avestan dūraošais only used of haoma. Geldner refuses to tr. (though he discusses it extensively in n. 3a); Renou ‘difficile à mouvoir’ (see his n. for disc.).
 
 The lengthened ī́of abhī́may represent abhí + ī, the enclitic acc., as I suggest for the same form in the preceding hymn, IX.100.1. In fact, just as in 100.1, it could represent a degeminated īm before the nasal of náraḥ.

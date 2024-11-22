@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhúvanāni ← bhúvana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -196,7 +199,8 @@ vr̥tā́n ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All beings recognize you (**Varuṇa**), and your, worshipper, address these (encomiums) to Varuṇa; you, **Indra**, are renowned as slaying **Vṛtra**; you have set the obstructed rivers free to flow.”
 </details>

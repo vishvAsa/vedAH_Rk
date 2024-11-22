@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hárīṇām ← hári- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -145,7 +148,8 @@ yātu ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harness, **Vāyu**, a hundred plural mp steeds, or even a thousand, and let your chariot come with rapidity (hither).”
 </details>

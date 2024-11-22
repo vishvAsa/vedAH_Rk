@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhúvanānām ← bhúvana- (nominal stem)  
 {case:GEN, gender:N, number:PL}
 
@@ -206,7 +209,8 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is the sustainer of the worlds, who knows the hidden and secret names of the (solar) rays, he isthe sage who cherishes the acts of sages, as the heaven cherishes numerous forms; may all our adversariesperish.”
 </details>

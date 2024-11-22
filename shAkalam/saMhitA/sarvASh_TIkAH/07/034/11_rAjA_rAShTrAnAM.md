@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 nadī́nām ← nadī́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -102,7 +105,8 @@ viśvā́yu ← viśvā́yu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is the king of kings; the beauty of the rivers his all-pervading strength is irresistible.”
 </details>
@@ -119,7 +123,8 @@ lifelong lordship has been conceded to him.
 
 After several vss. with a ritual, priestly focus, we return to the semiriddling listing of gods, with these two vss. devoted to Varuṇa. In 10 the subj.
 
-Varuṇa is withheld till the 2nd half, thereby producing a quickly solved riddle. Vs. 11 does not name him at all, but the referent is clear from the phraseology, as well as the previous vs. ### 10
+Varuṇa is withheld till the 2nd half, thereby producing a quickly solved riddle. Vs. 11 does not name him at all, but the referent is clear from the phraseology, as well as the previous vs. _________
+**10**  
 The easiest thing to do with fem. gen. pl. āsām is to have it modify fem.
 
 gen. pl. nadī́nām, as Geldner and Renou do (e.g., “de ces rivières”). But it is unaccented and therefore should be a pronominal demonstrative, rather than an adjectival one. I therefore assume that it picks up the waters (ā́paḥ) earlier in the hymn (2c, 3a); the connection of Varuṇa with the waters, though not as firm in the RV as it is later, would evoke them. The rivers are then in apposition to these unnamed waters. Renou in his comm. notes the “lien” of āsām with ā́paḥ earlier in the hymn but seems to stop short of syntactically separating āsām from the rivers in this vs. For further disc. see comm. ad I.68.7.

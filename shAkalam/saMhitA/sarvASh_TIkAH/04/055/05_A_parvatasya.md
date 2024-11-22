@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -180,7 +183,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have recourse to the protection of **Parvata**, of the **Maruts**, and of the divine protector, **Bhaga**; may the lord (**Varuṇa**) preserve us from human wretchedness, and may **Mitra** defend us with a friendly regard.”
 </details>

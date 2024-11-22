@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajāyata ← √janⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -183,7 +186,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then was the sacrifice produced for you, then too the joyous hymn; then did you surpass all, whateverhas been or will be born.”
 </details>

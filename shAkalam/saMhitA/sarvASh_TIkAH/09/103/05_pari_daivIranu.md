@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -131,11 +134,13 @@ vāghát ← vāghát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Proceed in the same chariot with **Indra** to the celestial hosts, a priest purified by priests, immortal.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purified by priests: vāghat = carried by the priests;or, fetching wealth for the worshippers
 </details>

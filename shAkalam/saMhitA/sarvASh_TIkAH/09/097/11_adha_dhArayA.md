@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -174,7 +177,8 @@ matsaráḥ ← matsará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Milked forth by the stones the **Soma** flows through the (sheep's) hair coming into contact (with the gods) with its sweet-flavoured stream; the divine exhilarating **Indu** desiring the friendship of **Indra** flows for the exhilaration of the deity.”
 </details>

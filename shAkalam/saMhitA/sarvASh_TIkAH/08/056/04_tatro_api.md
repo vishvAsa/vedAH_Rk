@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 anīyata ← √nī- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:PASS}
 
@@ -122,7 +125,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “There too has been brought for Putakrata a well-adorned mare, which is not one of the common horsesof the herd.”
 </details>

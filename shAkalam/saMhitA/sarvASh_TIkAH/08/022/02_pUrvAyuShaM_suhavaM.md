@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -134,7 +137,8 @@ vídveṣasam ← vídveṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Celebrate, Sobhari, with praises (that chariot), the benefactor of former (encomiasts), the worthilyinvoked, the desired of many, the preserver, the foremost in battles, the relied upon by all, the scatterer ofenemies, the exempt from ill.”
 </details>

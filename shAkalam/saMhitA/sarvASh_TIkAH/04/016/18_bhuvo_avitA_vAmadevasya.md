@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avitā́ ← avitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ viśvádha ← viśvádha (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be you the protector of the pious acts of **Vāmadeva**; be you in battle an unfailing friend; we come to you, eminent in wisdom; may you be ever benignant to your praiser.”
 </details>

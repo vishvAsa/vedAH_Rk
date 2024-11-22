@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 prathamáḥ ← prathamá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -153,11 +156,13 @@ turī́yaḥ ← turī́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** first obtained the bride; the **Gandharva** obtained her next. **Agni** was your third husband; yourfourth (husband) is born of man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gandharva: the Sun
 </details>

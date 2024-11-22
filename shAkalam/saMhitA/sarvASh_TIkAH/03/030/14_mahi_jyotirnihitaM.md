@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jyótiḥ ← jyótis- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -186,7 +189,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A great light has been shed upon the rivers; the cow yet immature grazes, charged with the ripe (milk), for **Indra** has plural ced in the cow all this collected sweetness for food.”
 </details>

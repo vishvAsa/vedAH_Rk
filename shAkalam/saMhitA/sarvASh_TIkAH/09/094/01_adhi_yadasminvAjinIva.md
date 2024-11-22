@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -190,11 +193,13 @@ vrajám ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the fingers vie with each other in this (**Soma**), as the trappings on a horse or the rays in the sun, clothed in the waters he flows desiring his worshippers like (a cowherd going to) a plural asant cow-stall for the nourishment of his cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vie with each: spardhanti = aham purastācchodhayām yaham **puraḥ** śodhayāmītyahamahamikayopatiṣṭhanti
 </details>

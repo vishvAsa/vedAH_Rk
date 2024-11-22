@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -134,11 +137,13 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By which earth may (be induced to) grant the gifts of **Rudra** to our cattle, our people, our cows, and our progeny.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Aditi** = earth who acts (karat) so that Rudrīya may be obtained. Rudrīya = rudra **sambandhi** bheṣajam, **medicines** presided over by Rudra; ya te rudra **śiva** **tanuḥ**, śiva **viśva** ha, bheṣaji śiva, rudrasya bheṣajiti: whatever are your auspicious forms, O Rudra, they are all auspicious; auspicious are medicaments, the medicaments of Rudra
 </details>

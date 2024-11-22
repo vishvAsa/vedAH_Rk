@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jinvan ← √ji- 2 ~ jinv- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -191,7 +194,8 @@ uṣásam ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The contiguous fingers, loving the affectionate **Agni**, as wives love their own husbands, plural ase him (with offered oblations), and honour him, who is entitled to honour, (with gesticulations), as the rays of light (are assiduous in the service) of the dawn, which is (at first) dark, (then) glimmering, and (finally) radiant.”
 </details>

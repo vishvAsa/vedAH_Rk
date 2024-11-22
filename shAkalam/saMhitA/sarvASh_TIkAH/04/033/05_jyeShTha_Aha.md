@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āha ← √ah- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -230,7 +233,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The eldest said, let us make two ladles; the younger said, let us make three: **Tvaṣṭā**, **Ṛbhus**, has applauded your proposal.”
 </details>

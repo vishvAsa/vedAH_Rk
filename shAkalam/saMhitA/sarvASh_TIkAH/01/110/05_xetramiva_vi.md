@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -160,7 +163,8 @@ ichámānāḥ ← √iṣ- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lauded by the bystanders, the **Ṛbhus**, with a sharp weapon, meted outt the single sacrificial ladle, like a field (measured by a rod), soliciting the best (libations) and desiring (to participate of) sacrificial food amongs thte gods.”
 </details>

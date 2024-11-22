@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 pacatyàm ← pacatyà- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -119,7 +122,8 @@ túbhyam ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accept, **Indra**, the prepared cakes and butter; eat them eagerly; the oblations flow for you.”
 </details>

@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ási ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -143,7 +146,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, protector of the virtuous, as you are the benefactor of the worshipper offering you libations,or by whose prayers you are propitiated, so now (be gratified) by our libations.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhujé ← bhúj- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -231,11 +234,13 @@ ukthyàm ← ukthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My praiser, the refuge (of all), was food to enjoy; (him, men) use in two ways, to search for their cattle,and to be their freiend, when I bestow upon him a weapon in his battles, and make him worthy of celebrity andpraise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When I bestow: when I appropriate
 </details>

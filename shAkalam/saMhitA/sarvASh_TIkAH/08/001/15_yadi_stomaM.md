@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 máma ← ahám (pronoun)  
 {case:GEN, number:SG}
 
@@ -143,11 +146,13 @@ tugryāvŕ̥dhaḥ ← tugryāvŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If he hear our praise, then may our libations, flowing through the filter, dropping quickly, and diluted withconsecrated water, exhilarate **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Through the filter: An epithet is added: the filtering cloth is plural ced slantingly:**tiras**;
 

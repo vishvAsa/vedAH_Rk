@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhánva ← dhánvan- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -191,7 +194,8 @@ vīḷú ← vīḷú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of whom neither heaven and earth, nor the water, nor the firmament, nor the mountains (are theobstructions) for him doth the **Soma** exude, when his wrath reaching his enemies destroys the strong and breaksthe firm.”
 </details>

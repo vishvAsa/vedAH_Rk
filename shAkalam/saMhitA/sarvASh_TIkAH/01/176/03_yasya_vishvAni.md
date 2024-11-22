@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hástayoḥ ← hásta- (nominal stem)  
 {case:LOC, gender:M, number:DU}
 
@@ -145,7 +148,8 @@ jahi ← √han- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In whosehands are all the treasures (that are desired by) the five classes of beings; destroy, **Indra**, him who oppresses us; slay him, (as if you were yourself) the heavenly thunderbolt.”
 </details>

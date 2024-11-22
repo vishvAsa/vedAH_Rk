@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁhaḥ ← áṁhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -206,11 +209,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sin contaminates not, difficulties assail not, nor distress at any time afflicts the mortal, **Indra** andVaruṇa, to whose sacrifices you, deities, go, and of which you approve; such a man ruin never destroyṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Contaminates: naśate = vyāpnoti, encompasses, takes hold of
 </details>

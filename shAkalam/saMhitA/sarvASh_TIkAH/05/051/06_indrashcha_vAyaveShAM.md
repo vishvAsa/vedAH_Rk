@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -139,7 +142,8 @@ práyaḥ ← práyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Vāyu**, you ought to tdrink these libations; be gratified by them, benevolent (divinities), and partake of the sacrificial food.”
 </details>

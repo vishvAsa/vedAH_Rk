@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́t ← ā́t (invariable)  
 {}
 
@@ -183,7 +186,8 @@ práti ← práti (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thereupon he fixed firmly heaven and earth, and resolutely advancing, filled (**Vṛtra**), like a deer, with terror, stripping off his covering, **Indra**, slew the **Dānava**, endeavouring to hide, and panting with affright.”
 </details>

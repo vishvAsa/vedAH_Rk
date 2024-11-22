@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -131,11 +134,13 @@ tvā́ṁkāmayā ← tvā́ṁkāma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vatsa**, by the praise that seeks to propitiate you, **Agni**, would draw your thought from the supremeassembly (of the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vatsa = **yajamāna**, the sacrificer dear to Agni, as a calf, or child: vatsa **samaḥ** priyahh(**Yajus**. 12.115); would draw their thought: mano yamat = **mana** āyamavati; or, mana **āhṛtya** gṛhṇātimanonigraham **karoti**; tvāmāmayā **girā** = tvām kāmaye girā, I desire you with my hymn
 </details>

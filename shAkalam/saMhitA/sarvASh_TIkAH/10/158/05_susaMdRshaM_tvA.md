@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 susaṁdŕ̥śam ← susaṁdŕ̥ś- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -123,7 +126,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we look upon you, **Sūrya**, the bright beholder (of all), may we look into the things which arevisible to mankind.”
 </details>

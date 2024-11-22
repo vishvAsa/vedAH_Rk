@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhiśríṣaḥ ← abhiśríṣ- (nominal stem)  
 {case:ABL, gender:F, number:SG}
 
@@ -147,11 +150,13 @@ víhrutam ← √hvr̥- ~ hru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who without healing materials before the flow of blood from the necks was the effecter of there-union, the opulent **Maghavan**, again makes whole the dissevered (parts).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Possibly the description of therestoration of **Etaśa**, wounded in his conflict with the sun
 </details>

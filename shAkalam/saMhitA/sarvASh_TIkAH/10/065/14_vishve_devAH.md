@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -183,7 +186,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the universal gods, accompanied by sacred rites and abundant wisdom, adorable (at thesacrifice) of men, immortal, the knowers of truth, waiting on the oblation to be given, arriving together (at thesacrifice), omniscient, graciously accept all our praises and abundant food with well-sung hymns.”
 </details>

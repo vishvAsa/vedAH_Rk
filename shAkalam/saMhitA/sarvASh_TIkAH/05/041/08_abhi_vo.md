@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -165,7 +168,8 @@ vánaspátīn ← vánaspáti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify you, leaders (of rites), cherishers (of many), gratifying (with oblation, you) **Tvaṣṭā** the lord of foundations, and the goddess of speech, bestower of opulence, and share in the satisfaction (of the other divinities); also the lords of the forest, and the herbs, that I may obtain riches.”
 </details>

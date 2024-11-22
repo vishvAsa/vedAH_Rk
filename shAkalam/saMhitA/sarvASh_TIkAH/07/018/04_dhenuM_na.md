@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenúm ← dhenú- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -209,7 +212,8 @@ sumatím ← sumatí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of milking you like a milch cow at pasture, **Vasiṣṭha** has let loose his prayers to you; everyone of my people proclaims you the lord of cattle; may **Indra** be present at our praises.”
 </details>
@@ -230,7 +234,8 @@ Because of the overt switch to the 1st ps. in c, I take the pf. sasṛje in b as
 
 (flg. JPB p.c.), with vásiṣṭhaḥ doubling the underlying subject. The pf. form is of course ambig. between 1st and 3rd.
 
-As noted in the published introduction, this vs. exhibits a kind of ring comp. via an anagrammatic pun: 1c vásu ... vániṣṭhaḥ “best gainer of goods” is compressed into the name of the poet vásiṣṭhaḥ (vás[u]… [ván]iṣṭhaḥ). This brings the first section of the hymn to a close; the battle scene erupts abruptly in the next vs. ### 05
+As noted in the published introduction, this vs. exhibits a kind of ring comp. via an anagrammatic pun: 1c vásu ... vániṣṭhaḥ “best gainer of goods” is compressed into the name of the poet vásiṣṭhaḥ (vás[u]… [ván]iṣṭhaḥ). This brings the first section of the hymn to a close; the battle scene erupts abruptly in the next vs. _________
+**05**  
 My tr. of the 2nd hemistich follows Oldenberg’s, contra Geldner
 </details>
 

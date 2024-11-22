@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -205,7 +208,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hasten (**Soma**) to give food to **Indra** and **Vāyu** like a horse, for (the sake of giving us) food, to acquire wealth; give us abundant thousand-fold food; Soma, when filtered become the dispenser of riches.”
 </details>

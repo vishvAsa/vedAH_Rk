@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 āśáyānam ← √śī- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -160,7 +163,8 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty **Indra** has shattered the guileful **Vṛtra** reposing in the cloud;heaven and earth shook, alarmed at the thundering bolt of the showerer.”
 </details>

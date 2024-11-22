@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -178,11 +181,13 @@ antarikṣaprúdbhiḥ ← antarikṣaprút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Tugra**, verily, **Aśvins**, sent (his son) **Bhujyu** to sea, as a dying man parts with his riches; but you brought him back in vessels of your own, floating over the ocean, and keeping out the waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tugra was a friend of the Aśvins; he was annoyed by enemies residing in a different island. He sen this son Bhujyu agains thtem, with an army on board a ship; after sailing some distance, the vessel foundered in a gale. Bhujyu applied to the Aśvins, who brought him an dhis troops back in their own ships, in three days' time
 </details>

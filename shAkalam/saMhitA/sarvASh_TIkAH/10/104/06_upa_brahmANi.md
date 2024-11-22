@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhmāṇi ← bráhman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -174,7 +177,8 @@ praketáḥ ← praketá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of bay horses, come with your two bays to our adorations to drink of the effused **Soma**; thesacrifice, **Indra**, reaches to you who are enduring; cognizant of the sacrifice, you are the donor of the reward.”
 </details>

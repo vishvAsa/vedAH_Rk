@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -114,11 +117,13 @@ vidhyati ← √vyadh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the wise **Agni** entirely obviate, by his powe,r the removable (ills) of men the descendants of **Manu**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Entirely obviate the removable ills: atikṣipreva vidhyati = kṣepyanyeva vināśayitum arhāṇi atiśayena nāśayatu, may he entirely destroy the evils which are capable of being destroyed
 </details>

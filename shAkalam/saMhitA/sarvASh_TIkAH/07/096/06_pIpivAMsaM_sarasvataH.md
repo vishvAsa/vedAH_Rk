@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pīpivā́ṁsam ← √pī- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -111,11 +114,13 @@ prajā́m ← prajā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we recline upon the protuberant breast of **Sarasvati**. Which is visible to all; that we may possessprogeny and food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May we recline: pīpivāṃsam **sarasvatas** stanam: bhakṣīmahi and stanam = means ofcloud, **megha**; so, the ṛca is rendered: may we obtain the distend and loud-thundering (of breast-like) cloud ofSarasvat. Which is visible to all; (may we obtain) progeny and food
 </details>

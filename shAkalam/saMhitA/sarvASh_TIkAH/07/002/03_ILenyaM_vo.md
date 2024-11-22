@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásuram ← ásura- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us ever worship the **Agni** who is to be adored by us; the mighty, the dextrous, the messengerpassing between heaven and earth, the speaker of truth, kindled (of old) by **Manu**, as now by men, that (he maycome) to the solemnity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Tanūnapāt**, is omitted; the **sūkta** is called an Āprī sūkta, apra śabdoktatvānidam tanūnapād rahitam; Agni who is to be adored by us: īḷenyam agnim is the īḷita of the other āprīsūktas;
 

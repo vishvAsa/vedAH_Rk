@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 daívī ← daívī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -173,7 +176,8 @@ pr̥ṇanti ← √pr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Paṇis**). What is **Indra** like, O **Saramā**? What is the appearance of him as whose messenger youhave come to this plural ce from afar? (They then say to one another:) Let her approach; let us make friends withher, and let her be the lord of our cattle.”
 </details>

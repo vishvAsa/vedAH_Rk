@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 agníbhiḥ ← agní- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -161,7 +164,8 @@ srídhaḥ ← srídh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the two divine physicians, the **Aśvins**, grant us health; may they drive away from hence iniquity;(may they drive) away our foes.”
 </details>

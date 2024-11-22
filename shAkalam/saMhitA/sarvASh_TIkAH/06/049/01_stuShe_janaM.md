@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánam ← jána- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I commend with new hymns the man observant of his duty, and the beneficent **Mitra** and **Varuṇa**; may they, the mighty ones, Varuṇa, Mitra, and **Agni**, come to our rite, and listen (to our praises).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The man observant: stuṣe janam suvratam = daivyam janam, the divine people, devasaṅgham, the company of the gods
 </details>

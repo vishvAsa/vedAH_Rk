@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -198,11 +201,13 @@ karate ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the truthful **Maghavan** the accepter of the spiritless **Soma**, come to us; may his horses hasten to us; to him we offer this sacrifice, the very potent beverage; may he grant the fulfilment of our desires.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Spiritless soma: ṛjīṣin = from ṛjīṣa, vigata **sāraḥ** **somaḥ**, the Soma of which the essence is gone
 </details>

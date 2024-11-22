@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 cakṣva ← √cakṣ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -144,7 +147,8 @@ yātumádbhyaḥ ← yātumánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, do you and **Indra** severally watch (the **rākṣasas**), be vary, be vigilant; hurl the thunderbolt atthe malignant rākṣasas.”
 </details>

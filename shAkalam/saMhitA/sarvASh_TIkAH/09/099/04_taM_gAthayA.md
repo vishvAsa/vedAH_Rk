@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gā́thayā ← gā́thā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -146,7 +149,8 @@ nā́ma ← nā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They celebrate the purified **Soma** juice with an ancient hymn of praise, and the fingers exercising their pressure are able (to prepare the oblation) for the gods.”
 </details>

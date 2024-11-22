@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyé ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -153,7 +156,8 @@ vatsáḥ ← vatsá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What others than ourselves adore the **Aśvins** with praises? The Ṛṣi **Vatsa**, the son of **Kaṇva**, hasmagnified you with hymns.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -121,7 +124,8 @@ píbatam ← √pā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Vāyu**, this (libation) is poured out sympathizing with the gods, drink it in the dwelling of the donor.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 arocata ← √ruc- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -186,7 +189,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who has seven ministering priests, shines eternally; when he has blazed upon the bosom and lap of his mother (earth), he is vociferous (with delight); day by day he never slumbers after he is born from the interior of the (spark) emitting wood.”
 </details>

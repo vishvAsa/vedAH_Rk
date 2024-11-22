@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eti ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -179,7 +182,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The auspicious **Sūrya** rises, the eye of all, the common (parent) of men; the divine eye of **Mitra** andVaruṇa, who breaks through the glooms as through (investing) skin.”
 </details>

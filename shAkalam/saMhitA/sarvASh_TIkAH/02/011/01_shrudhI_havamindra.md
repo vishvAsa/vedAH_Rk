@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 hávam ← háva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vasūyávaḥ ← vasūyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, hear (my) invocation; disregard it not; may we be (thought worthy) of the gift of your treasures; these oblations, designed to obtain wealth, flowing (abundantly) like rivers, bring to you augmented vigour.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 dātā́ ← dātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who gives to us is our father, the mighty, the strong, he who acts as the sovereign, may he, thestrong rich **Maghavan**, give us kine and horses, even without our asking for it.”
 </details>

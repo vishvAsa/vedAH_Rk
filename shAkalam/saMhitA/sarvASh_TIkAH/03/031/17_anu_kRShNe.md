@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -168,11 +171,13 @@ sákhāyaḥ ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The two adorable (alternations of) day and night, upholding (all things) by the might of the sun, successively revolve; your sincere and acceptable friends (the **Maruts**) are ready to encounter (your foes) and maintain your greatness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Day and night: the text has ubhe kṛṣṇe = both the blacks, i.e. ahorātre, day and night; by the might of the sun: sūryasya maṃhanā: **sūrya** = **Indra**, the impeller, **preraka**, of the world
 </details>

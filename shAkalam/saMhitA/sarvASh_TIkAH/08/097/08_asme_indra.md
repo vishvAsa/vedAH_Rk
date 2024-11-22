@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -182,7 +185,8 @@ suté ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sit with us, **Indra**, at the oblation to drink the **Soma**; **Maghavan**, perform a mighty protection for yourworshipper, (seated) with us at the oblation.”
 </details>

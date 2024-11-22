@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -170,7 +173,8 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Illustrious (**Pūṣan**), my cattle go forth occasionally to pasture, may that wealth (of herds), immortaldeity, be permanent; being my protector, Pūṣan, be the granter of felicity, be most bountiful in bestowing food.”
 </details>

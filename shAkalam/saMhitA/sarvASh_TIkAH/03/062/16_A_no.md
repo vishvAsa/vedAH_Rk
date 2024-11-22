@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -130,11 +133,13 @@ sukratū ← sukrátu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, sprinkle our cow-stalls with butter; performers of good works, (sprinkle) the worlds with honey.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sprinkle the worlds with honey: ghṛtair gavyūtim ukṣatam madhvā rajāṃsi: **gavyūti** = gavām mārgam, or gonivāsasthānam, and the prayer implies, give us cows abounding in milk;
 

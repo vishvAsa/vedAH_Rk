@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ yā́man ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The blazing flames of that mighty **Agni** do not (deter) his adorers; the fierce flames of the friendlyauspicious adorable (Agni), the showerer of (benefits), the vast, the strong-mouthed, are visible in the sacrifice.”
 </details>

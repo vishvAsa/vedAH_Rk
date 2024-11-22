@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 aráṇī ← aráṇi- ~ aráṇī- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -139,7 +142,8 @@ sū́tave ← √sū- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke your embryo which the A'vins have churned with the golden pieces of touchwood, that youmay bring it forth in the tenth month.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pā́rāvatasya ← pā́rāvata- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -115,11 +118,13 @@ vánasya ← vána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then (having received) the horses, attached to the rolling-wheeled chariot, given from afar, we departto the middle of the forest.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Given from afar: pārāvatasya rātiṣu: **pārāvata** = name of a king; the gift ofParāvata
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 avamā́rjanāni ← avamā́rjana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -172,11 +175,13 @@ yā́ḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have beheld, Horse, these your purifying (regions) these impressions of the feet of you who share in the sacrifice; and here your auspicious reins, which are the protectors of the rite that preserve it.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Avamārjanāni = the water with which the horse is sprinkled; śaphānām nidhānā, the plural ce of sacrifice, or the field in which he is pastured; **raśanā** ṛtasya **gopā** = either the guards attending on the horse, or the priests
 </details>

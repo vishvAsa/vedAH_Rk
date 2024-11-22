@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apiṁśata ← √piś- 1 (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -187,11 +190,13 @@ yúvānā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhus**, you covered the cow with a hide, and reunited themother with the calf; sons of **Sudhanvan**, leaders (of sacrifice), through your good works you rendered your aged parents young.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: a ṛṣi, whose cow had died, leaving a calf prayed to the ṛbhus for assistance, on which, they formed a living cow, and covered it with the skin of the dead one, from which the calf imagined it to be its own mother
 </details>

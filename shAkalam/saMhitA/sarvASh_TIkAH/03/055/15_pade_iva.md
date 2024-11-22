@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -196,7 +199,8 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like two (distinguishing) impressions, they (day and night) are plural ced visible in the midst (between heaven and earth), one hidden, one manifest; the path (of both) is common, and that is universal (for good and evil) great and unequalled is the might of the gods.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ātutóda ← √tud- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -202,11 +205,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Should the black crow, the ant, the snake, the wild beast, harm (a limb) of you, may **Agni** theall-devourer, and the **Soma** that has pervaded the **brāhmaṇas**, make it whole.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The wild beast: jackal orhyaena
 </details>

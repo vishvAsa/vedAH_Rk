@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -191,11 +194,13 @@ vr̥ṇate ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the gods then plural ced you, **Indra**, as their mighty chief in front for battle; when the impious (**asuras**) assailed the deities; the **Maruts** supported Indra in the conflict.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Maruts: according to the legent the gods ran away, the Maruts alone stood by Indra
 </details>

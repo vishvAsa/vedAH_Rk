@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhiṣájaḥ ← bhiṣáj- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -209,11 +212,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yours, O king, are a hundred and a thousand medicaments; may your favour, comprehensive and profound, be (with us); keep afar from us **Nirṛti**, with unfriendly looks, and liberate us from whatever sin we may have committed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nirṛti = deity of sin, **pāpa**-**devatā**
 </details>

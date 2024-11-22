@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 brā́hmaṇāt ← brā́hmaṇa- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -134,7 +137,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink the **Soma** juice, **Indra** from the precious vase of the **Brāhmaṇa** ( = Brāhmanical wealth) after Ṛtu, for whom your friendship is uninterrupteḍ brāhmaṇād-rādhasaḥ = lit. from brāhmanical wealth; explained as a costly or wealthy vessel: dhanabhūtāt pātrāt; brāhmaṇād = **brāhmaṇācchaṃsi**, one of the sixteen priests employed in sacrifices, who perhaps holds some ladle or vase in which the offering is presented: tasya sambandhyucchiṣṭas **camasaḥ**, the relation is the ladle that has the leavings\].”
 </details>

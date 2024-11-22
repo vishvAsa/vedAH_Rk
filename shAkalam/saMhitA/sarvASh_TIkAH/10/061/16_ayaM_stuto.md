@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -202,7 +205,8 @@ raghudrú ← raghudrú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This royal (**Soma**), this glorified creator, is praised (by all), and, like a sage, constituting his owncause-way, he traverses the firmament; he made **Kakṣīvat** tremble, he (made) **Agni** (shake) as horses (agitate)the light- whirling, revolving-wheel (of a chariot).”
 </details>

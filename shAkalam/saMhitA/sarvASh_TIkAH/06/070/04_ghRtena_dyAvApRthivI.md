@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhī́vr̥te ← √vr̥- (root)  
 {case:NOM, gender:F, number:DU, non-finite:PPP}
 
@@ -176,11 +179,13 @@ víprāḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are surrounded, Heaven and Earth, by water; you are the asylum of water; imbued with water; the augmenters of water; vast and manifold; you are first propitiated in the sacrifice; the pious pray to you for happiness, that the sacrifice (may be celebrated).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pray to you: īḷate sumnam iṣṭaye, ask happiness for the sacrifice; for, where there is happiness, sacrifices proceed, sukhe **sati** **yāgaḥ** pravartante
 </details>

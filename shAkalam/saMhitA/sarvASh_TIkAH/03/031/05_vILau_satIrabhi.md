@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -192,7 +195,8 @@ viveśa ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven intelligent ages (the **aṅgirasas**) having ascertained that (the cows) were concealed in the strong (cavern), propitiated (**Indra**) by mental devotion; they recovered them all by the path of sacrifice; for Indra, knowing (their pious acts), and offering them homage, entered (the cave).”
 </details>

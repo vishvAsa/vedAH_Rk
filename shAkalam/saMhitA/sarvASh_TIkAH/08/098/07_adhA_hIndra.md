@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -143,11 +146,13 @@ yántaḥ ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** worthy of hymns, we send our earnest praises to you as men going by water (splash their friends)with handfuls.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Praises: or, desires, prayers; cf. RV 1.81.8; splash their friends with handfuls: in sport; udevagamanta udabhiḥ = as men going by the water, i.e. a river, or the waters, i.e., the sea
 </details>

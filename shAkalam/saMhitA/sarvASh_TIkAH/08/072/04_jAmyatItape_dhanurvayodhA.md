@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 atītape ← √tap- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -115,11 +118,13 @@ jihváyā ← jihvā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agni**), the giver of food, scorches the vast bow (Of the sky); he mounts the water; he smites the cloudwith his tongue.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With his tongue: **jāmi** = pravṛddham, sarvam atiricya vartamānam; his own; may be areference to a forest conflagration; he mounts the forest, he smites the rock (dṛṣadam) with his tongue
 </details>

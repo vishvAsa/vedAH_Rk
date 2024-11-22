@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -188,7 +191,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The grandson of the waters has ascended the firmament above (the region) of the tortuously-moving (clouds), arrayed in lightning; the broad and golden-coloured (rivers) spread around, bearing (to all quarters) his exceeding glory.”
 </details>

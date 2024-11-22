@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -121,7 +124,8 @@ yájiṣṭham ← yájiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The masters of many mansions have, by their praises, kindled you, **Agni**, the bearer of oblations, whoare most adorable among human beings.”
 </details>

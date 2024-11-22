@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -117,7 +120,8 @@ trā́sadasyavam ← trāsadasyavá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, the Sobharis, have come to the thousand-rayed, the sincerely- worshipped, the universalsovereign, the ally of **Trasadasyu**, for his protection.”
 </details>

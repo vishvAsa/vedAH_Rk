@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávidhat ← √vidh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -167,7 +170,8 @@ prā́cāmanyo ← prācāmanyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, whether it be the unskilled or the skilled who celebrate your praise, each rejoices in his desire foryou, O **Śatakratu**, whose wrath presses ever forwards, who meet the foe, proclaiming, "It is I".”
 </details>

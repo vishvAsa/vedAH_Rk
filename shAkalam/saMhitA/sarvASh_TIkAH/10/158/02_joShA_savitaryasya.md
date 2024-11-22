@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 jóṣa ← √juṣ- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -135,7 +138,8 @@ pátantyāḥ ← √pat- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Savitā**, whose radiance merits a hundred acknowledgments, be propitiated (by our praises); protectus from the falling bolts (of our enemies).”
 </details>

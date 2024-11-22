@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ várivaḥ ← várivas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Bṛhaspati** defend us from a malignant (foe) coming from behind, from above, or from below; mayIndra defend us from foes in front and in the middle; may he, our friend, bestow wealth upon (us) his friends.”
 </details>

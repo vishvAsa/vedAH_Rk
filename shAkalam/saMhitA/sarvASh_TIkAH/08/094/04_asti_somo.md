@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ásti ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -119,11 +122,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Soma** is effused (by us); the self-resplendent **Maruts** drink of it, and the **Aśvins**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svarājaḥ: anepithet of **asya** (Somasya) not of **marutaḥ**; This Soma, the self-resplendent is effused (by us); Maruts drink of it,and the Aśvins
 </details>

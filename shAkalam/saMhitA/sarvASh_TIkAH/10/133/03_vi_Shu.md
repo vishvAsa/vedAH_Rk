@@ -26,10 +26,12 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 árātayaḥ ← árāti- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -238,7 +241,8 @@ jyākā́ḥ ← jyāká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May all our assailants, who make no offerings, quickly perish, may our praises (be successful); you,**Indra**, hurl the weapon at the foe who seeks to slay us, may that liberal (**hand**) of yours be the giver of wealth (tous); may the bowstrings on the bows of our enemies be destroyed.”
 </details>

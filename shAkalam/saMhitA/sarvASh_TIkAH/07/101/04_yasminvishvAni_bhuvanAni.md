@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 bhúvanāni ← bhúvana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -164,7 +167,8 @@ virapśám ← virapśá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In whom all beings exist; the **three worlds** abide; from whom the waters flow in three directions (east,west, and south); the three water-shedding masses of clouds (east, west, and north) pour the waters round themighty (**Parjanya**).”
 </details>

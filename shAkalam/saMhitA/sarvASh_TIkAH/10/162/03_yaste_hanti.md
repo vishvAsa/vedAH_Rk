@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 hánti ← √han- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -154,7 +157,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we exterminate from hence (the evil spirit) who destroys the impregnating energy, the germ as itsettles, the moving embryo, who seeks to destroy (the babe) when born.”
 </details>

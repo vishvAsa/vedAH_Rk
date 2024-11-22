@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ásr̥gram ← √sr̥j- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -129,7 +132,8 @@ vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have addressed to you, **Indra**, the showerer (of blessings), the protector (of your worshipers), praises which have reached you, and of which you have approved.”
 </details>

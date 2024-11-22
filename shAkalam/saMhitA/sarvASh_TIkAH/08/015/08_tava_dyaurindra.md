@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyaúḥ ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -136,7 +139,8 @@ tvā́m ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The heaven invigorates your manhood, **Indra**, the earth (spreads) your renown; the waters, themountains propitiate you.”
 </details>

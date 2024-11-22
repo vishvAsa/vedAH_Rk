@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -168,7 +171,8 @@ vidhán ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the lord of great wealth, the granter (of desires) comes (to the plural ce of sacrifice); he, the lord of lords, comes to the plural ce of affluence, (the altar); the stones prepare (the libation fo rhim) as he approaches.”
 </details>

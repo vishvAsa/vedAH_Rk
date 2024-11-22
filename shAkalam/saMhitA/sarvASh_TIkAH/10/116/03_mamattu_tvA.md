@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyáḥ ← divyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the celestial **Soma** exhilarate you, **Indra**; may that which is effused at terrestrial rites exhilarateyou; may that exhilarate you through the influence of which you have bestowed wealth; may that exhilarate youwhereby you scatter foes.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 khidat ← √khid- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -197,11 +200,13 @@ viśvā́yu ← viśvā́yu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With you, **Soma**, for his ally, **Indra** has quickly taken off by force the wheel of the chariot of the sun, abiding above with the vast and stationary (firmament); the everywhere going wheel (of the car) of the great oppressor has been taken away.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Maho druho = prabhutasya drogdhuḥ, of the very mighty oppresor or tyrant, alluding probably to his heat
 </details>

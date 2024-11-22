@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 daívyam ← daívya- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -191,11 +194,13 @@ sahásrabhr̥ṣṭiḥ ← sahásrabhr̥ṣṭi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Possessed of water, you go clothed in the liquid water, to the great celestial abode to (take) the sacrifice; as king you ascend to the battle, mounted to your filter-chariot; armed with a thousand weapons you win (us) abundant food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the liquid water: **haviḥ** in contrast to **nabhaḥ**; to the battle: i.e., the sacrifice
 </details>

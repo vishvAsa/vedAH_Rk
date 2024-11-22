@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -217,7 +220,8 @@ urúḥ ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You who have caused, by culture, the flowering and fruitful (plural nts) to spread over the field; who have genitive rated the various luminaries of heaven; and who, of vast bulk, comprehend vast (bodies); you are he who is to be praised.”
 </details>

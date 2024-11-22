@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyā́dya ← adyá (invariable)  
 {}
 
@@ -182,7 +185,8 @@ rakṣiṣaḥ ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Save us, **Indra**, every today, every tomorrow, and every succeeding day; lord of the good, protect us,your praisers, in all days, by day and night.”
 </details>

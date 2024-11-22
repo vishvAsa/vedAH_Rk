@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anát ← √anⁱ- (root)  
 {case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
 
@@ -173,11 +176,13 @@ sáyoniḥ ← sáyoni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Life endowed with breath, eager (in discharge of its functions), reposes, steady, in the midst of its (proper) abodes; the life of the mortal body, cognate with the mortal frame, endures immortal (sustained) by (obsequial) offerings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By obsequial offerings: svadhābhiḥ **putra** kṛtaiḥ, by offerings made by the sons
 </details>

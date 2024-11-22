@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 asrídhaḥ ← asrídh- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -163,11 +166,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your harmless steeds which draw your chariot, which surpass the strength of the wind, with which yousilence the enemy of man and with which you go round the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Or, of **Manus**, dasyum **manuṣaḥ**
 </details>

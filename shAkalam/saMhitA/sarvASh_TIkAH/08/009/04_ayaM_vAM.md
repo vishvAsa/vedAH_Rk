@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -149,11 +152,13 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This oblation is poured out, **Aśvin**, to you with praise; this sweet- savoured **Soma** is offered to you, whoare alluent with food, (animated) by which you meditate (the destruction) of the foe.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Oblation: **gharma** =pravargyam, a ceremony so-called; also the name of a sacrificial vessel, as well as of the oblation it contains:gharmasya haviṣa ādhārabhūto mahāvīro **gharmaḥ**
 </details>

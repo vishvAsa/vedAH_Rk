@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 brahmakŕ̥taḥ ← brahmakŕ̥t- (nominal stem)  
 {case:NOM, number:PL}
 
@@ -213,11 +216,13 @@ sutásya ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sage **Indra**, the reciters of pious hymns to you who assembled together when (the **Soma**) is effused,(worship you) for the donation of riches and treasures; may they be competent (to acquire) you felicity by thepathway of the mind; when you are exhilarated with the effused Soma food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Riches and treasures: vasūnām =abundant wealth;
 

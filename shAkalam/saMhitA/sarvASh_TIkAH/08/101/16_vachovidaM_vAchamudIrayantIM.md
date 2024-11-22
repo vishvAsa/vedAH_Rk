@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 udīráyantīm ← √īr- (root)  
 {case:ACC, gender:F, number:SG, tense:PRS, voice:ACT}
 
@@ -178,11 +181,13 @@ mártyaḥ ← mártya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine cow, who herself utters, speech and gives speech to others, who comes attended by everykind of utterance, who helps me for my worship of the gods-- it is only the fool who abandons her.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gives speechto others: men are silent while they are hungry,but begin to speak when they have eaten food
 </details>

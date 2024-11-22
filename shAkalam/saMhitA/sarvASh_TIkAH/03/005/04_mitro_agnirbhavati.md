@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, when kindled, is **Mitra**; and, as Mitra, is the invoker (of the gods); **Varuṇa** is **Jātavedas**; Mitra is the ministering priest; Damunas is the agitator (**Vāyu**); Mitra (is the associate) of rivers and mountains.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The hymn attempts to identify Agni with Mitra, the sun, and of both with Varuṇa and Vāyu
 </details>

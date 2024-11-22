@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhutsi ← √budh- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -168,7 +171,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I awake with the pious praise of the **Aśvins**; scatter, goddess, (the darkness) at my eulogy; bestowwealth upon (us) mortals.”
 </details>

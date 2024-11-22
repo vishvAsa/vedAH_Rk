@@ -23,15 +23,18 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 12 = 5+7, ending LHX  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 4+7, ending HLX  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 duḥśī́me ← duḥśī́ma- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ viśrā́vi ← √śru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This I proclaim in the presence of Duśīma, Pṛthavāna, **Vena**, the mighty **Rāma**, and (other)opulent (princes); those who (come), having yoked five hundred (chariots), their affection for us is renowned onthe road.”
 </details>

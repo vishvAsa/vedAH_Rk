@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhimāyāḥ ← áhimāya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -192,11 +195,13 @@ varivasyantu ← √varivasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those mighty deities, having power to destroy, whether they have been manifested upon earth or in heaven, or in the abode of the waters, bestow upon us and our posterity abundant sustenance both by night and day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Having power to destroy: ahimāyāḥ = āhantṛ prajñāH, having the wisdom or knowledge that kills; our posterity: asmabhyam iṣaye: iṣi is derived from iṣ, to wish, and is explained putrādi, sons and the rest, asmabhyām tasmai ca, to us and to it, that is, posterity, as the object of desire.
 </details>

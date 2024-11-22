@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahayan ← √mahay- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -184,7 +187,8 @@ yajñíyām ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (worshippers) offer you, (gods), this sacrifice, with prostrations; the ministrant priest, who is nearus repeating pious praise, excels (all others); worship well the gods; resplendent (**Agni**), make the venerableearth revolve.”
 </details>

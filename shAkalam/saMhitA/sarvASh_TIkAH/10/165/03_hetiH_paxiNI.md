@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asmā́n ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -216,7 +219,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the winged weapon (of mischief) do us no harm; he takes his plural ce upon the touchwood, the seatof **Agni**; may prosperity attend our cattle and our people, let not the pigeon, gods, do us harm in this (dwelling).”
 </details>

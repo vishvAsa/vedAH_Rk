@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -252,7 +255,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this **Soma** be gratifying to **Mitra** and **Varuṇa**, to be enjoyed by them as they drink of it inclining downwards; a divine (beverage), fit to be enjoyed by the gods; may all the gods, well plural ased, today accept it; therefore, royal (deities), do as we request; you, who are ever truthful, do as we request.”
 </details>

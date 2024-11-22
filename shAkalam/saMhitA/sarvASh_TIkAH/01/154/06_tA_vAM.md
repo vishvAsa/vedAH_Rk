@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gámadhyai ← √gam- (root)  
 {case:DAT, number:SG, tense:AOR}
 
@@ -204,11 +207,13 @@ paramám ← paramá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We pary (to **Viṣṇu**) that you may both go to those regions where the many-pointed and wide-spreading rays (of light expand); for here the supreme station of the many-hymned, the showerer (of benefits), shines (with) great (splendour).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You both: the sacrificer and his wife. In the **Yajus**. VI.3 the **pāda**: tā vām vāstūnyuśmasi gamadhyai is varied: ya te dhāmānyuśmasi gamadhyai, those plural ces to which we desire your going; the hymn is addressed to the **yūpa**, or **post** of sacrifice, while trimming it to shape; the second pāda is retained in tact, replacing avabhāti with avabhāri
 </details>

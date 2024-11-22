@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -213,7 +216,8 @@ vivásvataḥ ← vivásvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Aśvins**, with the chariot that is swifter than thought, which the **Ribhus** made for you; inconnection with which the daughter of heaven, (the dawn), is born and both the auspicious day and night fromVivasvat.”
 </details>

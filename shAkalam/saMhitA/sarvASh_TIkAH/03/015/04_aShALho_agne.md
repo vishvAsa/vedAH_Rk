@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -168,11 +171,13 @@ supraṇīte ← supráṇīti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is irresistible and the showerer (of benefits), consume victorious all the cities (of the foe) and (all their) precious things; do you, the duly worshipped, the knower of all that is born, (be for us) the conductor of the first great preserving sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The first great preserving sacrifice: of the **jyotiṣṭoma** which is the first and the most important of sacrifices
 </details>

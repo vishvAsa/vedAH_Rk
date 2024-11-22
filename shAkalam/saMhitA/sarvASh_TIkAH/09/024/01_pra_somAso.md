@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 adhanviṣuḥ ← √dhanv- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -106,7 +109,8 @@ mr̥ñjata ← √mr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The purified effused **Soma**-juices have flowed forth-- mixing (with curds and milk) they are cleansed in the waters.”
 </details>

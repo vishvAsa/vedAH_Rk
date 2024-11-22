@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ántam ← ánta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ vyòma ← vyòman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I ask you, (instrumental tutor of the rite), what is the uttermost end of the earth; I ask you, where is the navel of the world. I ask you, what is the fecundating power of the rain-shedding steed; I ask you, what is the supreme heaven of (holy) speech.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The next hymn answers the questions
 </details>

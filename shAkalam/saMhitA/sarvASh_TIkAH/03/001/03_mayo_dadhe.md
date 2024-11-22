@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhe ← √dhā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -182,7 +185,8 @@ svásr̥̄ṇām ← svásar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods discovered the graceful **Agni** (concealed) amidst the waters of the flowing (rivers), for the purpose of (sacred) acts; Agni, who is intelligent,of purified vigour, and friendly; who from his birth bestowed happiness on earth and heaven.”
 </details>

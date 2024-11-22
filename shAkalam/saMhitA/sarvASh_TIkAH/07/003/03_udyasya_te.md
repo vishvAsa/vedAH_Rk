@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 návajātasya ← návajāta- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -206,7 +209,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The kindled undecaying flames of you, the newly born, the showerer, rise up; the luminous smokespreads along the sky; and you, **Agni**, proceed as their messenger to the gods.”
 </details>

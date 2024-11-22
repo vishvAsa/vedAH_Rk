@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kathā́ ← kathā́ (invariable)  
 {}
 
@@ -179,11 +182,13 @@ kát ← ká- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Why to the great and nutriment-conveying **Pūṣan**? why to **Rudra**, the object of worship, the giver of the oblation (to the gods)? why to the many-hymned **Viṣṇu**? why tell our sin to the extensive year?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the extensive year: śarave bṛhatyai: **śaruḥ**, **śarat**, **saṃvatsaraḥ**; or, **śaru** = **nirṛti**, the feminine le person nification of evil; niṛṛti also occurs as a masculine (nirṛtir yajñavighāti **rākṣasaḥ**, an evil spirit disturbing sacrifice : **Taittirīya** **Yajus**. 1.2,11);
 

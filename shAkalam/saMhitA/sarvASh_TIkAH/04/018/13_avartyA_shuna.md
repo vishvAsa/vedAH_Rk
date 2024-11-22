@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āntrā́ṇi ← āntrá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -177,11 +180,13 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In extreme destitution I have cooked the entrails of a dog; I have not found a comforter among the gods; I have beheld my wife disrsepected; then the falcon, (**Indra**), has brought to me sweet water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In extreme destitutuin: So **Manu** has, **Vāmadeva**, who well knew right and wrong, was by no means rendered impure, though desirous when oppressed with hunger, of eating the flesh of dogs for the preservation of his life; icchan attum, wishing ot eat; the text has śuno āntrāṇi pece, I cooked the entrails of a dog; the falcon: i.e., as swift as a hawk, **śyena** vat śīghragāmīndraḥ; **Sūkta** 18: Ṛṣi vāmadeva, while yet in the womb, was reluctant to be born and chose to come into the world through his mother's side; aware of his purpose, the mother prayed to **Aditi**, who thereupon came, with her son Indra, to expostulate with the Ṛṣi; this is the subject of the Sūkta
 </details>
@@ -210,7 +215,8 @@ IV.19. Indra
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
-See the published introduction. for uncertainties about the interpr. of these vss. In some sense they seem to enlarge on the theme of “Indra’s disgrace” (índrasyāvadyám) in 7b -- the blood guilt Indra incurs from even sanctioned killing, made far worse by the intra-family slaughter depicted in vs. 12. Which leads to Indra’s extreme loss of status, isolation, and shunning by the other gods in the final vs. ### 12
+See the published introduction. for uncertainties about the interpr. of these vss. In some sense they seem to enlarge on the theme of “Indra’s disgrace” (índrasyāvadyám) in 7b -- the blood guilt Indra incurs from even sanctioned killing, made far worse by the intra-family slaughter depicted in vs. 12. Which leads to Indra’s extreme loss of status, isolation, and shunning by the other gods in the final vs. _________
+**12**  
 In light of d, which describes Indra’s killing his father, the question in a, “who made your mother a widow,” can only be answered “you did!” The final word of the vs. pādagṛ́hya ‘having grasped him by the foot’ is puzzling. It might seem to exclude Vṛtra as the victim (and as Indra’s father) since, as a snake, he has no feet -- though it might be a way of indicating picking up a snake by its tail. The only other occurrence of this cmpd gerund is in the desperately difficult hymn X.27, vs. 4, where the context is similar and the referent does seem to be Vṛtra.
 
 </details>

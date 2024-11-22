@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -217,7 +220,8 @@ purūvaso ← purūvásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, **Indra**, your worshippers have formerly obtained felicity, confer that also upon us; irresistible Indra, subduer of foes, invoked of many, abounding in wealth, what is the portion, what the offering (due) to you who are the slayer of the **asuras**?”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gā́t ← √gā- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -193,7 +196,8 @@ sukrátuḥ ← sukrátu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the bright **Agni**, radiant with his own diffusive lustre, issues (from the touchwood) like asharpened axe; and he who is desirable, the doer of great deeds, the purifier, is born of his two parents; (heappears) for the worship of the gods.”
 </details>

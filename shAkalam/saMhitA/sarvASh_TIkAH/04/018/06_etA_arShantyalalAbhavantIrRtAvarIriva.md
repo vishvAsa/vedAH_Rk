@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 alalābhávantīḥ ← alalābhávant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -167,11 +170,13 @@ rujanti ← √ruj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These (rivers) flew murmuring as if, being filled with water, they were uttering sounds (of joy); ask them what is this they say; what is the encompassing cloud that the waters break through?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ask them what is this they say: i.e., they are proclaiming the greatness of **Indra**, by which, and not by their own efforts, they have been extricated from the cloud
 </details>

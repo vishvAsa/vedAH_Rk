@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ uśígbhiḥ ← uśíj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable **Agni**, you are sagacious, and in a short time discriminate between both those men (who do and do not worshhip you); approach the worshipper at the proper time, and be compliant (with his wishes); like an instrumental tutor of the rite, (who is directed) by the desires (of the priests).”
 </details>

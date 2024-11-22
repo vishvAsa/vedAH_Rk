@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -163,7 +166,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether, **Aśvins**, you are at present far, whether you are nigh, whether you are (straying) many plural ces, or whether you are in mid-air, do you, who partake of many offerings, come hither.”
 </details>

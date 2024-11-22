@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gírvaṇaḥ ← gírvaṇas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -125,7 +128,8 @@ yáśaḥ ← yáśas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who is glorified with praise, drink this our libation, for you are sprinkled with the drops of the exhilarating (draught); the (sacrificial) food is verily purified by you.”
 </details>

@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 adhām ← √dhā- 1 (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -204,7 +207,8 @@ vā́r ← vā́r- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I make you the triumphant (herb) my pillow, I support you with that more triumphant (pillow); let yourmind hasten to me as a cow to her calf, let it speed on its way like water. not fear assail you?”
 </details>

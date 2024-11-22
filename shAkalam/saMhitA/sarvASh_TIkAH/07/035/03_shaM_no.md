@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -231,7 +234,8 @@ suhávāni ← suháva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the creator be to us for happiness; may the discriminator (between virtue and vice, **Varuṇa**) be(with us) for our happiness; may the wide earth (contribute) with sustenance to our happiness; may the vastheaven and earth be (to us for) happiness; may the mountains (yield) us happiness; may our pious invocations ofthe gods secure us happiness.”
 </details>

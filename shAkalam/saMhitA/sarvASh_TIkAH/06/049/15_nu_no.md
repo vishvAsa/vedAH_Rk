@@ -24,16 +24,19 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇiprā́m ← carṣaṇiprā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -220,7 +223,8 @@ víśaḥ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant us, (universal gods), riches, comprehending chariots, numerous dependants, many **male** offspring, (wealth) the giver of efficiency to the solemn rite, and a dwelling free from decay, wherewith we may overcome malevolent men and unrighteous (spirits), and afford support to those people who are devoted to the gods.”
 </details>

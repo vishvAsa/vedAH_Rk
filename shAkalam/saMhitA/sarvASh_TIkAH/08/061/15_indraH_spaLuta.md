@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the all-knower, the slayer of **Vṛtra**, the protector, is to be chosen by us; may he guard our (son),our last (son), our middle (son), may he protect us from behind and before.”
 </details>

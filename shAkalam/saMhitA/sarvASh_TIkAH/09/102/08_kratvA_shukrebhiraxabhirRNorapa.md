@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 akṣábhiḥ ← ákṣi ~ akṣán- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -137,11 +140,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, by your act drive away with your brilliant organs the darkness from the sky, effusing into the sacrifice (your juice) the lustre of the rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dīdhitim is deried from dhṛ, the supporter of the rite
 </details>

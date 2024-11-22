@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśa ← dáśa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -111,7 +114,8 @@ vr̥trahan ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we obtain from you, ten golden ewers, for you, slayer of **Vṛtra**, are a bountiful giver.”
 </details>

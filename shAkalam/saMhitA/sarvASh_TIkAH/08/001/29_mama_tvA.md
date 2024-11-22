@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 máma ← ahám (pronoun)  
 {case:GEN, number:SG}
 
@@ -149,11 +152,13 @@ stómāsaḥ ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May my prayers when the sun has risen, those also at noon, those also when evening arrives, bringyou back, giver of riches (to my sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Also when evening arrives: also in the night, śārvare kālepi
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 aganmahi ← √gam- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -143,7 +146,8 @@ vr̥ṇákti ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have travelled along the road prosperously traversed and free from evil, and by which (a man) avoids adversaries and acquires wealth.”
 </details>

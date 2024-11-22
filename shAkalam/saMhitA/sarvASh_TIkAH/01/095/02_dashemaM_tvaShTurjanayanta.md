@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśa ← dáśa- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -168,11 +171,13 @@ virócamānam ← √ruc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vigilant and youthful Ten beget, through the wind, this embryo **Agni**, inherent (in all beings), sharp-visaged, universally renowned, shining among men; him they conduct (to every dwelling).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ten: the ten regions of space, which genitive rate lightning, as an embryo in the clouds, using the winds: agner hi **vāyuḥ** kāraṇam, vāyor **agniḥ**, wind is the cause of fire, fire of wind. Tvaṣṭuḥ = wind or its agency: diptānmadhyamād vāyoḥ sākaṣāt, the brilliant central proximity of wind. Ten: the ten fingers which genitive rate Agni through the act of attrition as an embryo in the sticks. vibhṛtram = deposited in all creatures,i.e. inheret
 </details>

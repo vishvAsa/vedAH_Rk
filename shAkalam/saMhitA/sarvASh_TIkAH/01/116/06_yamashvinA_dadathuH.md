@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvam ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -208,11 +211,13 @@ vājī́ ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, the white horse you gave to **Pedu**, whose horses were indestrucible, was ever to him success; that, your precious gift, is always to be celebrated; the horse of Pedu, the scatterer (of enemies), is always to be invoked.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pedu was a **rājaṛṣi**, who worshipped the Aśvins; therefore, they gave him a white horse, possessing which, he was always victorious over his enemies.
 </details>

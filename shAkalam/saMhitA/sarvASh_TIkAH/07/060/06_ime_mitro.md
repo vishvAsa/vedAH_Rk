@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūḷábhāsaḥ ← dūḷábha- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -180,7 +183,8 @@ tirás ← tirás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These, the unsubdued **Mitra**, **Varuṇa** and **Aryaman**, animate with energies the unconscious (sleepers);repairing tot he intelligent performer (of pious acts), they lead (him), by safe pahs (to heaven), removing alliniquity.”
 </details>

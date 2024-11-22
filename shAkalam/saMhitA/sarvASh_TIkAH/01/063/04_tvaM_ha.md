@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 codīḥ ← √cud- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -211,11 +214,13 @@ yónau ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You verily did animate him to (acquire) such (renown) as that which, sender of rain and wielder of the thunderbolt, you (dis-acquire) when you slew **Vṛtra**, and when, munificent hero, who easily conquer (your foes) you did put to fight the **Dasyus** in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dasyus are enemies of **Kutsa**: kutsasyopakṣayatāraḥ
 </details>

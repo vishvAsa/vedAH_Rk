@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṁśúḥ ← aṁśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ práyobhiḥ ← práyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The green-tinted **Soma** effused and sent forth (by the priests) is let loose, like a chariot upon the filter, for the acquisition (of riches); being filtered he acquires (**Indra**'s) praise, he gratifies the gods with conciliatory (oblations).”
 </details>

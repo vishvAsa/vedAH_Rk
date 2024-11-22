@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 suprátīke ← suprátīka- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -115,7 +118,8 @@ uṣā́sam ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We glorify the evening and the morning lovely, food-bestowing, mighty, the mothers of sacrifice.”
 </details>

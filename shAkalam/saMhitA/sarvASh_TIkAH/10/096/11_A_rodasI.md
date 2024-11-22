@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,7 +193,8 @@ sū́ryāya ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You (**Indra**) who are the object of desire (fill) heaven and earth with your greatness, you desire gratefulpraise ever new and new; O powerful one, make manifest the desirable dwelling of the water to the”
 </details>

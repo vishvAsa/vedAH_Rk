@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -190,7 +193,8 @@ traíṣṭubham ← traíṣṭubha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the birds in quest of their food, according to the season, proclaim their circumambulations like the celebrators (of sacred rites); he utters both notes, as the chanter of the **sāma** recites the gayatrī and tṛṣṭubh, and delights (the hearers).”
 </details>

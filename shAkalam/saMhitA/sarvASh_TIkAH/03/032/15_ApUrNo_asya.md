@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́pūrṇaḥ ← √pr̥̄- 1 (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -183,7 +186,8 @@ sómāsaḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vase is filled for him (with **Soma**); welcome **Indra**; I pour it out for you to drink, as a water-carrier (pours water) from his bag; may the grateful Soma flow in reverence round Indra for his exhilaration.”
 </details>

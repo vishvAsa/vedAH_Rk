@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devásya ← devá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -136,11 +139,13 @@ vr̥ṇīta ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let every man solicit the friendship of the divine leader (of heaven and sun); let every man desire (of him) riches; let him request affluence (wherewith) to nourish (his descendants).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 4.8
 </details>

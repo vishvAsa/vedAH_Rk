@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -222,7 +225,8 @@ yodháḥ ← yodhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who, like the roaring of the winds, like a victorious host, like the thunderbolt in heaven, is not to be arrested, devours and destroys (our foes) with sharpened teeth (bharva hiṃsāyām; bharvatirattikarmā: **Nirukta** 9.23), and, as a warrior (annihilates his enemies), he, (Agni), lays waste the woods.”
 </details>

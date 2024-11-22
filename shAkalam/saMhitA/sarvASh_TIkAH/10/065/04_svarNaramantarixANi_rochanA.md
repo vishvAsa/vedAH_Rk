@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antárikṣāṇi ← antárikṣa- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -159,11 +162,13 @@ sūráyaḥ ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They have sustained by their strength the leader of all (the sun), the luminaries of the firmament,heaven and earth, the outstretched (firmament), honouring (their worshippers) like those who give food (to thepoor), the genitive rous gods bestowing wealth on man are glorified (at this sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those who give food to thepoor: bringing riches into contact with the poor; derived from pṛc, to touch
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -147,11 +150,13 @@ stómebhiḥ ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Familiar with heaven, come to us from the sky, or from above the bright (firmament); favourably inclidedto the worshipper, (come), induced by his pious acts; hearers of invocations (come, induced) by our praiseṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Familiar with heaven: **svar** vidak\_ = dyulokasya lambhayitārau, causing to obtain heaven; induced by his piousacts: dhībhiḥ... aśvinā, come with your minds (favourable ro us)
 </details>

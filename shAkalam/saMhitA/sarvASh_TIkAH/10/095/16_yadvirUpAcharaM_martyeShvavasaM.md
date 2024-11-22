@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ácaram ← √carⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -182,11 +185,13 @@ tātr̥pāṇā́ ← √tr̥p- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When changed in form I wandered among mortals. I dwelt (with them) four delightful years. I ate oncea day a small quantity of butter; satisfied with that I now depart.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Delightful years: praramayitrīḥ = pūrayitrīḥ,i.e., satisfying; or, **rātrīḥ**: I spent my nights there during four years
 </details>

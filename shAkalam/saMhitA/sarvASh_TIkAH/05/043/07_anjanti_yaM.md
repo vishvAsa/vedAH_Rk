@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 añjánti ← √añj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -189,11 +192,13 @@ r̥táyan ← √r̥tay- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vessel which the priests, celebrating (it), supply with butter, as if roasting a marrow-yielding animal with fire, has been plural ced, desirous of the sacrifice, upon the fire, like a son upon the lap of his father.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The vessel: **gharma**
 </details>

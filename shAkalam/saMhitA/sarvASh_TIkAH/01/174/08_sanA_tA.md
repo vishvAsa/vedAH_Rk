@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,7 +193,8 @@ vádhar ← vádhar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sages have celebrated your everlasting (as well as your) recent (exploits, in achieving which) you have endured many injuries in putting an end to war; verily, you have demolished hostile and undivine cities; you have bowed down the thunderbolt of the undivine **asura**.”
 </details>

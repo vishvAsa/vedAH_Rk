@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -186,7 +189,8 @@ nr̥ṇā́m ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, at your comings wise men turn their minds to benefactions; of these men, the most wise **Kaṇva** proclaims the fame.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ādityā́ḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -180,7 +183,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the Ādiyas, the **Rudras**, the **Vasus**, be gratified by this new and now repeated praise; maycelestial and terrestrial (beings), the progeny of the cow, (**Pṛśni**), and those who were entitled to worship, hearour (invocations).”
 </details>

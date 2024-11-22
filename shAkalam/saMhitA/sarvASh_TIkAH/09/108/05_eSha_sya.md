@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́rayā ← dhā́rā- 1 (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -132,7 +135,8 @@ krī́ḷan ← √krīḍ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (**Soma**) when effused flows most exhilarating through the woollen fleece, sporting like a wave of water.”
 </details>

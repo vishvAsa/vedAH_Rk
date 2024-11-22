@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávare ← ávara- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -217,7 +220,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who is all-pervading and delighting, is willing to sustain by his strength the noble, worshipper, as well as one who is in low distress; greatly is that **Brahmaṇaspati** renowned amongst the gods, and therefore is he verily supreme above all (beings).”
 </details>

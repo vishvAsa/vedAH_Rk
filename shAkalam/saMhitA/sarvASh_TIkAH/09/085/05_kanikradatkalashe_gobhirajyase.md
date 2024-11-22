@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajyase ← √añj- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
 
@@ -179,7 +182,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Crying aloud you are blended in the pitcher with curds and milk, you pass through the woollen fleece in the midst; being cleansed like a horse, distributing (gifts), you flow, **Soma**, into **Indra**'s belly.”
 </details>

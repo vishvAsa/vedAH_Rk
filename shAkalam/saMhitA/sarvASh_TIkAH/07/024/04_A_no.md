@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -180,7 +183,8 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of bay steeds, propitiated by our praise, come to us with all your protections, sharing insatisfaction, handsome-chinned, with the ancient (**Maruts**), overthrowing repeatedly (your) foes, and granting usa strong and vigorous (son).”
 </details>

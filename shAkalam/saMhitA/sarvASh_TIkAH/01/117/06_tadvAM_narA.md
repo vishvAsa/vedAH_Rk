@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 narā ← nár- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -166,7 +169,8 @@ mádhūnām ← mádhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That (exploit) of yours, leaders (of sacrifice), is to be celebrated, **Nāsatyas**, by **Kakṣīvat**, of the race of Pajra, when you filled for the (expectant) man a hundred vases of sweet (liquors) from the hoof of your fleet horse.”
 </details>

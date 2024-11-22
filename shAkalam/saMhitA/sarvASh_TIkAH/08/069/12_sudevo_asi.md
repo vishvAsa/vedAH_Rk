@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -157,11 +160,13 @@ In fact my thinking was that this might be a structure similar to a (Iranian) qa
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are a glorious god, **Varuṇa**, across whose palate the seven rivers keep pouring as a fair-flowing(stream) into an abyss.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Across whose palate: sūrmyam suṣirām iva: (**Yāska** **Nirukta** 5.27); grammariansadvocate the study of grammar; seven rivers are the seven declensional affixes; across whose palate the sevenrivers keep flowing a (fire penetrates and purifies) a beautiful perforated metal image); seven rivers are Gangaetc. and Varuṇa's palate is the ocean
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etā́ni ← eṣá (pronoun)  
 {case:NOM, gender:N, number:PL}
 
@@ -180,11 +183,13 @@ vanínaḥ ← vanín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have filled these waters, you, **Indra**, who are the lord (of all) bear (the thunderbolt) in your **hands**;the gods glorify you (who are endowed) with strength; you have made the clouds with their roots upwards.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Youhave made... roots upwqards: i.e., you have turned them upside down-- adhomukhān, with their faces turneddownwards;
 

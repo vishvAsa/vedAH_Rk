@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prathamám ← prathamá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -172,11 +175,13 @@ yā́bhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Sindhu**, in order to reach the swift-moving **Gomatī**, have united, yourself first with theTṛṣṭāmā; (now be united) with the **Susartu**, the **Rasā**, the Śveti, the **Kubha**, and the Mehatnu, inconjunction with which streams you do advance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In conjunction with: saratham = lit. having mounted the samechariot with them
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -165,11 +168,13 @@ gamat ← √gam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** listen to both these our hymns; may the mightiest **Maghavan** come to us, (plural ased) with ourdevoted offering, to drink the **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Satrācyā dhiyā = come to us with your wholemind; both our hymns: i.e.whether recited (**śāstra**) or sung praises (**stotra**)
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 jāgr̥tam ← √gr̥- (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
 
@@ -123,7 +126,8 @@ yachatam ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By this unfailing sacrifice, by you rendered vigilant, **Indra** and **Agni**, in the station which affords knowledge (of the consequence of acts), and bestow upon us happiness.”
 </details>

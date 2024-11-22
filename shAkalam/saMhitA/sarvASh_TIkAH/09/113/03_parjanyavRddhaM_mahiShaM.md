@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 mahiṣám ← mahiṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -209,11 +212,13 @@ srava ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The daughter of **Sūrya** brought the vast **Soma** large as a rain-cloud; the **gandharva** seized upon it and plural ced the juice in the Soma; flow, **Indu**, for **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Daughter of Sūrya: **śraddhā** vai sūryasya duhitā (**Śatapatha Brāhmaṇa** 12.7.3.11)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 óṣadhīḥ ← óṣadhī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -141,11 +144,13 @@ vīryàm ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural nts, which have the **Soma** for your king, who are scattered over the earth, the offspring ofBṛhaspati, give vigour to this (infirm body).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Infirm body: or, to this drug that I have taken (**Yajus**. 12.93)
 </details>

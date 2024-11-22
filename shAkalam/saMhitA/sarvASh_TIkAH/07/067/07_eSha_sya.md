@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣá ← eṣá (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ vikṣú ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This treasure given by us has been plural ced, **Mādhvis**, before you, like (an envoy) who has come to thepresence (of a prince) for (acquiring his) friendship; come to our presence with benevolent thoughts, acceptingthe oblations offered among human beings.”
 </details>

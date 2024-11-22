@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adr̥śran ← √dr̥ś- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -186,7 +189,8 @@ támaḥ ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These luminous (beams of the) dawn are beheld in the east diffusing light; (the dawn) enger sacrifice,fire; the odious glooms, descending, disappear.”
 </details>

@@ -22,15 +22,18 @@ ChandaH = "पिपीलिकमध्या बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -159,11 +162,13 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the time of the exhilaration of the **Soma**, sing, according to your hymns, with a loud voice, you wisehero **Indra**, the humbler of enemies, the strong, the ever-worthy to be praised.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your wise hero: vaḥ = yuyanr; or,yuṣmākam hitayā; vaco yathā = in the **gāyatrī** or **triṣṭubh** metre;
 

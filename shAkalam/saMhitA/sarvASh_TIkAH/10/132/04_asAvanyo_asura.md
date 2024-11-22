@@ -23,15 +23,18 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 anyáḥ ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -173,11 +176,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Mitra**), scatterer of darkness, the Heaven gave birth to you the other; you, **Varuṇa**, are sovereignover all. The head of (your) chariot desired (this sacrifice); opposing the destroyer, (the rite) is not (vitiated) bythe smallest defect.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Heaven gave birth: **anyaḥ** = anyam, other than Varuṇa; head of your chariot: or, thehead of the sacrifice, i.e., **Soma**
 </details>

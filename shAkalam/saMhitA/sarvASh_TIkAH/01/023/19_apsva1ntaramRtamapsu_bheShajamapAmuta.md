@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 amŕ̥tam ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -131,11 +134,13 @@ vājínaḥ ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ambrosia is in the waters; in the waters are medicinal herbs; therefore, divine (priest), be prompt in their praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Deva** = **ṛtvij** and other **brāhmaṇas**; ete vai **devāḥ** pratyakṣam yad brāhmaṇāḥ = these dieties, who are perceptibly (present) are the brāhmaṇas (**Taittirīya** **Saṃhitā** 1.7.3.1)
 </details>

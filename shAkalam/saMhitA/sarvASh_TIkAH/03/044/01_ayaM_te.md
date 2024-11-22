@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -186,11 +189,13 @@ tiṣṭha ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this desirable and gratifying **Soma** expressed by the stones,by, **Indra**, for you ascend the verdant chariot, and with your tawny (steeds) come to us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The **sūkta** highlights the changes on the derivatives of the root hri, to take; the former sūkta used the root vṛṣ, shower. haryataḥ = taking, captivating, desirable; **harit**, the stone that bruises the Soma; Indra's horses in the dual or plural ral, are **hari**, **harayaḥ**;
 

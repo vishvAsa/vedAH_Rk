@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jajñe ← √janⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -195,7 +198,8 @@ trātā́ ← trātár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fierce and powerful (**Indra**) has been born for heroic (deeds); friendly to man, he is theaccomplisher of whatever act he undertakes to perform; ever youthful, he invests the (sacrificial) hall withdefences (against interruption); be our preserver, Indra, from heinous sin.”
 </details>

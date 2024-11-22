@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gaurā́ ← gaurá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -201,7 +204,8 @@ yaman ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders of rites, like (thirsty) cattle, thirsting for the radiant (**Soma**), hasten today to our sacrifice; inmany ceremonies do the pious propitiate you with praises; let not other devout worshippers detain you.”
 </details>

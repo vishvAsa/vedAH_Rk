@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havate ← √hū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -186,7 +189,8 @@ yúdhyan ← √yudh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The son of **Vājini**, (**Bharadvāja**), offering (sacrificial) viands, invokes you for (the sake of) acquiring obtainable and abundant food; (he invokes) you, **Indra**, the preserver of the good, the defender (from the wicked), when enemies (assail him); he depends upon you when, lifting up his fist, he is fighting for (his) cattle.”
 </details>

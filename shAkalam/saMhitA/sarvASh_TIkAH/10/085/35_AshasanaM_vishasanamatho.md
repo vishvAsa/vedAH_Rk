@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 āśásanam ← āśásana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -136,11 +139,13 @@ tú ← tú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Behold the forms of **Sūrya**, the āśasana (bordercloth) the **viśasana** (headcloth), the adhivikartana(divided skirt); of these the **Brāhmaṇa** relieves her.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Āśasana = tūṣādhāna, the receptacle of the fringe, ofa different colour;
 

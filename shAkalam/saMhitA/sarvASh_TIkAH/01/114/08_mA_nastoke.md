@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyaú ← āyú- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -227,7 +230,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harm us not, **Rudra**, in our sons or grandsons, or other **male** descendants, nor in our cattle, nor in our horses; inflamed with anger, kill not our valiant men, for we, presenting clarified butter perpetually invoke you.”
 </details>

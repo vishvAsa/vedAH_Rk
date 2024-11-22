@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -172,11 +175,13 @@ yajñéṣu ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aṅgirasa**, son of strength, the ladles go to find you in the sacrifice; we praise the ancient **Agni** in ourofferings, the grandson of food, butter-haired.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Butter-haired: Agni is called ghṛtapṛṣṭhā, 'butter-backed' (RV.5.4.3); pradīpta **kalaśa** **sthānīya** **jvālāḥ**; pradīpta kalaśa = pradīpta **keśa**; cf. RV 5.37.1
 </details>

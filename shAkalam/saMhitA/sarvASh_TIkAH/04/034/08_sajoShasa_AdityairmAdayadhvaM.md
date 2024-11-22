@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityaíḥ ← ādityá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -141,11 +144,13 @@ síndhubhiḥ ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhus**, be exhilarated, sympathizing with the **Ādityas**, sympathizing with the **Parvatas**, sympathizing with the divine **Savitā**, sympathizing with the wealth-bestowing (deities of the) rivers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With the parvatas: parvatebhiḥ; parvavadbhiḥ parvaṇyarcyamānair devaviśeṣaiḥ, deities to be worshipped at the **parvas**, certain periods of the month, such as the new and full moon
 </details>

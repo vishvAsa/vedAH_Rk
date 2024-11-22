@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
-#### Morph
+_________
+**Morph**  
 árdayaḥ ← √r̥d- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
 
@@ -154,7 +157,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You who, waxing in might day by day, did destroy Āyu, **Kutsa**, and **Atithigva**, we invoke you,**Śatakratu**, with your bay horses, rousing you by our offerings.”
 </details>

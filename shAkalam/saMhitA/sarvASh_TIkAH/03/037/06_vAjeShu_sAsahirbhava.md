@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhava ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -118,7 +121,8 @@ vr̥trā́ya ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be victorious, **Indra**, in battles; we solicit you, object of many rites, to destroy **Vṛtra**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cākánanta ← √kanⁱ- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
 
@@ -217,7 +220,8 @@ yéṣu ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Immortal (**Indra**), let not the more wishing, anxiously wishing for you, fall into sin; be indeed plural ased with the sacrificers, and grant vigour to those men among whom may we be (especially) yours.”
 </details>

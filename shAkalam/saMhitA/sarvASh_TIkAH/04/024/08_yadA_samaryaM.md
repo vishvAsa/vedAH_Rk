@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácet ← √ci- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -184,11 +187,13 @@ somasúdbhiḥ ← somasút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the destroyer (of enemies) distinguishes a mortal foe; when the lord is engaged in the long (continued) battle, (his) bride summons to the dwelling the showerer (of benefits), encompassed by the offerers of the libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When the lord is engaged in the long battle: dīrgham yad ājim abhyakhyad **arya**: arya = **svāmi**, lord, i.e., **Indra**; patnī in the next verse is Indra's wife
 </details>

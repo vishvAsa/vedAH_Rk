@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́gamiṣṭhaḥ ← ā́gamiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who will make us happy? which of the gods is the most prompt to come to our sacrifice? which is the most willing to grant us felicity? what chariot do they say is quick and drawn by rapid steeds? That which the daughter of **Sūrya** selected.”
 </details>

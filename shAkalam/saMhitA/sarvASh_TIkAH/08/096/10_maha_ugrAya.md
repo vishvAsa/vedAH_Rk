@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahé ← máh- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ védat ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Send forth an excellent hymn to great (**Indra**), the strong, might and most fortunate, (that he mayprosper) my cattle; utter many praises to Indra who is borne by praise, may he speedily give much wealth to me.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who is borne by praise: cf. RV 1.30.5; 61.4
 </details>

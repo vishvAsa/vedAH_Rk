@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -176,7 +179,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That **Soma** which, drunk into our hearts, has entered, immortal, into us mortals-- to him, fathers, let usdo worship with oblations; may we abide in his bliss and favour.”
 </details>

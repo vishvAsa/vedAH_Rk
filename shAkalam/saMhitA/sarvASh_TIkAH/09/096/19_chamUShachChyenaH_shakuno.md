@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 camūṣát ← camūṣád- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ vivakti ← √vañc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Seated on the ladles, praiseworthy, competent, supporting, acquiring cattle, flowing, bearing arms, attending upon the firmament, the sender of the waters, the mighty (**Soma**) attends the fourth sphere.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. the region of the moon which is above that of the sun
 </details>

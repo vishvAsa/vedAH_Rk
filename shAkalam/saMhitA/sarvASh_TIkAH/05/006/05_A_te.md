@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -187,7 +190,8 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you, radiant **Agni**, lord of light, giver of plural asure, destroyer (of foes), protector of man, the bearer of oblations, to you the oblation is offered with the sacred verse; do you bring to your adorers.”
 </details>

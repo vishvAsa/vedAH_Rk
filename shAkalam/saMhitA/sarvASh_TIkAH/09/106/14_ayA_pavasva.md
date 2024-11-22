@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayā́ ← ayám (pronoun)  
 {case:INS, gender:F, number:SG}
 
@@ -127,7 +130,8 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Devoted to the gods flow with that (stream); (your) streams of exhilarating beverage are let loose; with a roar you pass through the filter in all directions.”
 </details>

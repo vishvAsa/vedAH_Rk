@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁśaḥ ← áṁśa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,11 +183,13 @@ turā́saḥ ← turá- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine **Bhaga**, **Savitā**, the lord of wealth, **Aṃśa**, **Indra** (the slayer) of **Vṛtra**, (all) the conquerors of riches, **Ṛbhukṣin**, **Vāja** and also Purandhi, immortals, hastening (to our sacrifice) preserve us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhukṣin: a name of Indra, but here it implies **Ṛbhu**, while Purandhi = **Vibhu**, making, with Vāja, the triad. Aṃśa is an apparent reference to **Soma**
 </details>

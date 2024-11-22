@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -198,7 +201,8 @@ vájram ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The hymns, **Indra**, that glorify you, attain unto you, as rivulets (flow into) a lake. **Tvaṣṭā** has augmented your appropriate vigour; he has sharpened your bolt with overpowering might.”
 </details>

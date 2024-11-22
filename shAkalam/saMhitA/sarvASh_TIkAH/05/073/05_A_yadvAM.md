@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -159,11 +162,13 @@ varante ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Sūrya** has ascended your ever easy-moving car, then bright-waving, resplendent rays (of light) encompass you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Pari** vām aruṣā vayo ghṛṇā varanta **ātapaḥ** = radiant horses, **vayaḥ**, **aśvaḥ**, ghṛṇā, bright, scorchers, ātapaḥ, of enemies, accompany you
 </details>

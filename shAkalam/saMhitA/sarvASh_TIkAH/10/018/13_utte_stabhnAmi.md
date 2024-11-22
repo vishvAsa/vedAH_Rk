@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 pári ← pári (invariable)  
 {}
 
@@ -217,7 +220,8 @@ yamáḥ ← yamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May they come back to me and be fostered under this (their) protector; do you **Agni**, keep them here;may whatever wealth (there is) remain here.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ yā́maḥ ← yā́ma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those, your coursers, which traverse the regions in their speed, proceed, self-guided; all worlds, all dwellings, are alarmed, for marvellous is your coming; (such fear as is felt) when spears are thrust forth (in battle).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -178,7 +181,8 @@ kútsena ← kútsa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, you and **Uśanas**, with vigorous and rapid courses went to the dwelling of **Kutsa**, then destroying his foes, you went in one chariot with Kutsa and the gods, and verily you have slain **Śuṣṇa**”
 </details>

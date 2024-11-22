@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dharúṇaḥ ← dharúṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ pavate ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The prop of heaven, the support of earth-- all beings (are) in his **hands**; may (**Soma**) the fountain (of desires) be possessed of horses for you (his) adorer; the filament of the sweet-flavoured (Soma) is purified for (the sake of winning) strength.”
 </details>

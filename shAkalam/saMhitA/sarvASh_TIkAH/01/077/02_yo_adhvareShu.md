@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaréṣu ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -211,11 +214,13 @@ yajāti ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring hither, with praises, him who is most constant in sacrifice, observant of truth, and the invoker (of the gods), for **Agni**, when he repairs to the gods on the part of man, knows those (who are to be worshipped), and worships them with reverence.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Manasā** = with the mind; this is read as: namasā = with reverence, assuming a transposition
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nā́dhamānasya ← √nādh- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -184,11 +187,13 @@ tatāna ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “From which genitive rous prince, soliciting (my acceptance), I, **Kakṣīvat**, unhesitatingly accepted a hundred **niṣkas**, a hundred vigorous steeds, and a hundred bulls, whereby he has spread his imperishable fame through heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Niṣka** = a weight of gold = four **suvarṇa** (**Manu**. viii.134); = 108 **suvarṇas** (**Amarakośa**)
 </details>

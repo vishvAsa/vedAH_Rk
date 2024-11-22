@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apratimānám ← apratimāná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -196,7 +199,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thunderer, you, the resolute one, did smite that unrivalled might with your bolt; you destroyed Śuṣṇawith your weapons, you recovered the cows, **Indra**, by your wisdom.”
 </details>

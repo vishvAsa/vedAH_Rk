@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣódasā ← kṣódas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -171,7 +174,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gliding (torrents), issuing (from the clouds), overspread the firmament with water, as cows (yield milk), and like rapid horses let loose upon the road, the rivers rush in various directions.”
 </details>

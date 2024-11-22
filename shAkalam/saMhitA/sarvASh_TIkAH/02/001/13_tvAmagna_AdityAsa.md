@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ādityā́saḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -188,7 +191,8 @@ tvé ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Ādityas** have made you, **Agni**, their mouth; the pure (deities) have made you, **Kavi**, their tongue; the (gods), the givers of wealth, depdn upon you at sacrifices; they eat the offered oblation through you.”
 </details>

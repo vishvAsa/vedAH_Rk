@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -189,7 +192,8 @@ sma ← sma (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Varuṇa**, the murderous (weapons) of my enemy distressme; foes among the malignant(assail me); you two are sovereigns over both (celestial and terrestrial) wealth; protect us therefore, onthe day ofbattle.”
 </details>

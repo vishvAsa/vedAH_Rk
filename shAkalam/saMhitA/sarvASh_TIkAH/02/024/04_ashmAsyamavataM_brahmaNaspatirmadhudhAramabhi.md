@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśmāsyam ← áśmāsya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ udríṇam ← udrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That stone-like, solid, down-hanging, water-laden (cloud), which **Brahmaṇaspati** has with his strength divided, the universal solar rays have drunk up; but they have again shed together the showering and water-spreading (rain).”
 </details>

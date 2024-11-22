@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kṣatrám ← kṣatrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,11 +211,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These birds, that are flying (through the air), have not obtained, **Varuṇa**, your bodily strength or your prowess, or (are able to endure your) wrath; neither do these waters that flow increasingly, nor (do the gales) of wind, surpass your speed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Savitā** refers Śunahśepas to Varuṇa
 </details>

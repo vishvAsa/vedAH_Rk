@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ayajanta ← √yaj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -188,11 +191,13 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods sacrifice with sacrifice, for such are their first duties; those mighty ones assemble in heaven, where the divinities who are to be propitiated (by sacred rites) abide.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Where the divinities: **yatra** pūrve **sādhyāḥ** **santi** **devāḥ**: sādhyāḥ = **karma**-**devaḥ**, divinities presiding over or giving effect to religious acts, yajñādi sādhanavantaḥ; or, the term may mean those who have obtained the portion, or the condition of gods, by the former worship of **Agni**, or the **sādhyās** = **ādityas**, or the **aṅgirasas**, or deities presiding over the metres, chando abhimāninaḥ; sādhyās are named among the minor divinities in **Amarakośa**
 </details>

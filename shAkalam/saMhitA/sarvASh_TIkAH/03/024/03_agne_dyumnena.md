@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -133,11 +136,13 @@ sadaḥ ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, son of strength, vigilant (in the exercise of) your energy, take your seat when invoked on the sacred grass (strewn at) my (sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vigilant: dyumnena jāgṛve = svatejasā **sarvadā** jāgaraṇopeta (jāgṛvir jāgaraṇāt: **Nirukta** 9.8), always endowed with his vigilance by own lustre or energy, **loka**-rakṣārtham, for the preservation of the world
 </details>

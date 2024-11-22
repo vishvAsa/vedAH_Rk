@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mātáraḥ ← mātár- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -139,7 +142,8 @@ vídharmaṇi ← vídharman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The innocent maternal (waters) caress you, the green-tinted, upon the filter, O **Pavamāna**, at the sacrifice, as kine caress their new-born calf.”
 </details>

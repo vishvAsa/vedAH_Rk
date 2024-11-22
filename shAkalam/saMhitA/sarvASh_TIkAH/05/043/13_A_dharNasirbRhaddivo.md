@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -174,11 +177,13 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the sustainer of all, (**Agni**), the greatly radiant, the delighter, come, with all his protecting (faculties), when invoked; he who is clothed with flames and with plural nts; who is irresistible; who has horns of three colours, the showerer (of benefits), the accepter of oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Horns of three colours: tridhātu **śṛṅgaḥ**, his flames of three colours, red, white and black (or smoke). Or, tridhātu may simply connote protrusions of three elemental ores
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ávobhiḥ ← ávas- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -185,7 +188,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the protecting, opulent **Indra** be the bestower of felicity by his protections; may he, who is all-knower of felicity by his protections; may he, who is all-knowing, foil our adversaries; may he keep us out of danger, and may we be the possessors of excellent posterity.”
 </details>
@@ -215,12 +219,14 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 
 <details><summary>Whitney</summary>
 
-### Translation
+_________
+**Translation**  
 1. Let Indra be well-saving, well-aiding with aids, very gracious,  
    all-possessing; let him put down (*bādh*) hatred, let him make for us  
    fearlessness; may we be lords of wealth in heroes.
 
-### Notes
+_________
+**Notes**  
 This hymn and the following are two successive verses in RV. (x. 131. 6,  
 7, or vi. 47. 12, 13), and are also found together in VS. (xx. 51, 52),  
 TS. (i. 7. 13⁴⁻⁵), and MS. (iv. 12. 5). All these agree in leaving out  

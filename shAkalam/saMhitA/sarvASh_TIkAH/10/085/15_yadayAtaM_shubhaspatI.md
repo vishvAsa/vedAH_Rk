@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 áyātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -161,7 +164,8 @@ tasthathuḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, lords of water, you came to the giver-away (to get) **Sūrya**, where was the one wheel of yourcar, where did you stand to make the gift?”
 </details>

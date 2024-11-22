@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -205,11 +208,13 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, divine **Agni**, are **Aditi** to the donor of the oblation; you are **Hotā** and **Bhāratī**, and thive by praise; you are Iḷā of a hundred winters to him who makes you gifts; you, lord of wealth, are the destroyer of **Vṛtra**, **Sarasvatī**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Iḷā of a hundred winters: tvam iḷā;
 

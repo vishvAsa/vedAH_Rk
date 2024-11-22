@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -208,7 +211,8 @@ viśvā́yuḥ ← viśvā́yu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such as you are, **Agni**, men preserve you constantly kindled in their dwellings, in secure plural ces, and offer upon you abundant (sacrificial) food; do you, in whom is all existence, be the bearer of riches (for our advantage).”
 </details>

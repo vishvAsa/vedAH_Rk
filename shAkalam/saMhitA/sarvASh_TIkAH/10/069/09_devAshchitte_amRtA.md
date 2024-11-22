@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -179,7 +182,8 @@ tvā́vr̥dhebhiḥ ← tvā́vr̥dha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The immortal gods have proclaimed your greatness. **Jātavedas**, Vadhryaśva (**Agni**); when humanbeings, came to inquire (who would slay the **asuras**), then you with (the gods), the leaders of all, fostered by youdid overcome (those who impeded the ceremony).”
 </details>

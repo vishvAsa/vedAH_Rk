@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrúḥ ← √kr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -208,7 +211,8 @@ vedayāmasi ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you respectfully, **Vājas** and **Ṛbhus**, to drink of this libation, for you are the wise sages, who, by mental meditation, made the well-constructed undeviating car (of the **Aśvins**).”
 </details>

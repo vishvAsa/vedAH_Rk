@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarásya ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ jánāya ← jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have made the wise (**Agni**) the ministrant priest, and bearer of the sacrifice. Agni giives to theman who performs the prescribed rite and presents (the offering), wealth, with virtuous **male** posterity.”
 </details>

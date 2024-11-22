@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -121,7 +124,8 @@ vr̥traghnī́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the fierce **Sarasvatī**, riding in a golden chariot, the destructress of enemies, be plural ased by our earnest laudation.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 avasr̥ján ← √sr̥j- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -140,11 +143,13 @@ médhiraḥ ← médhira- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vanaspati**, here present of your own accord, convey our offerings to the gods; the divine and intelligent **Agni** accepts (the oblations) for the deities.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vanaspati: the fire,or Agni of the sacrificial **post**, or **yupa**, from its being of timber
 </details>

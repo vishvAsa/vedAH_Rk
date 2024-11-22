@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agman ← √gam- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -190,7 +193,8 @@ somyásya ← somyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The green **Soma** flows at our sacrifice, and purified, proceed direct into the pitcher; may the ancient illustrious **Indra**, the soverign of the exhilarating Soma libation, drink of this our offering.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dūtā́saḥ ← dūtá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -172,7 +175,8 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My praises, (my) messengers soliciting ((audience), come to **Indra**, praying (his) favourable (thoughts),heart-touching, spoken from the **soul**; (therefore, Indra) grant me various fertilizing riches.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsīt ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -202,7 +205,8 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**): Where, **Maruts**, has that (sacrificial) food been assigned to you, which, for the destruction of Ahi was appropriated to me alone; for I indeed am fierce and strong, and mighty, and have bowed down all mine enemies with death-dealing shafts.”
 </details>

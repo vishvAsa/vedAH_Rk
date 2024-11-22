@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -204,7 +207,8 @@ viṣvadryàk ← viṣvadryàñc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fierce **Indra**, when animated by like fierce armies, encounter them; let the bright (weapon) wielded bythe arms of you who are mighty and the friend of man descend for our protection; let not your all-pervading mindwander (away from us).”
 </details>

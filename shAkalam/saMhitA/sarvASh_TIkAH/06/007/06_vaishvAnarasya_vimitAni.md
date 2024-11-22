@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cákṣasā ← cákṣas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -187,11 +190,13 @@ visrúhaḥ ← visrúh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The summits of the firmament are measured by the light of **vaiśvānara**, the manifester of ambrosial (rain); all the regions are overspread (by the vapour) on his brow, and the seven gliding (streams) spring from thence like branches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 All the regions: i.e., the smoke that rises from sacrificial fires become clouds in the atmosphere, whence the rain falls and rivers are filled
 </details>

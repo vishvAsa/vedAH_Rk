@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ápnaḥ ← ápnas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -184,7 +187,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever valuable wealth the Uṣās convey is beneficial to the sacrificer and to the praiser. May **Mitra**, **Varuṇa**, **Aditi**--ocean, earth, and heaven, be favourable to this our prayer.”
 </details>

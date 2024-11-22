@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anavadyásya ← anavadyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -147,11 +150,13 @@ pravádbhiḥ ← pravát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The adherants of **Vṛtra**) encountered the army of the irreproachable (**Indra**); men of holy lives encouraged him. Scattered before him, conscious (of their inferiority), like the emasculated contending with men, they fled by precipitous paths.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kṣitayaḥ navagvāḥ = men whose practices were commendable; the men may be the **aṅgirasas** offering libations to Indra for nine months
 </details>

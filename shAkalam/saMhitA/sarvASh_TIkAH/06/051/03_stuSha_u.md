@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gopā́n ← gopá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -178,7 +181,8 @@ voce ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise you, protectors of the solemn sacrifice, the well-born **Aditi**, **Mitra** and **Varuṇa** and **Aryaman** and **Bhaga**; I celebrate the gods whose acts are unimpeded, the bestowers of wealth, the dispensers of purity.”
 </details>

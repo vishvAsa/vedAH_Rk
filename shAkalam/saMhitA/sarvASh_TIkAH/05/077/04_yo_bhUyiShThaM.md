@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́yiṣṭham ← bhū́yiṣṭha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -182,7 +185,8 @@ tuturyāt ← √tūr(v)- ~ tur- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who, in the appointment (of the offerings), presents to the **Nāsatyas** the most ample (share) of (the sacrificial) food, who gives (them) the largest portion of the viands, secures, by his acts, the welfare of his son, and ever has the advantage of those who light no sacred fires.”
 </details>

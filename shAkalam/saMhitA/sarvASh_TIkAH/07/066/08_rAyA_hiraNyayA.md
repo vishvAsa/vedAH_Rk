@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 hiraṇyayā́ ← hiraṇyayā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -116,7 +119,8 @@ víprā ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this praise (be effective) for unimpeached strength, alone with golden treasure; may it (beeffective), sages, for the fulfilment of (the objects of) the sacrifice.”
 </details>

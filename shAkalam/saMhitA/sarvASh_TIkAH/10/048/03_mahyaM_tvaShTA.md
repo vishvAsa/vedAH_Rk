@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 atakṣat ← √takṣ- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -209,11 +212,13 @@ mā́m ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For me **Tvaṣṭā** fabricated the metal thunderbolt; in me the gods have concentrated pious acts; mylustre is insurmountable, like that of the Sun; men acknowledge me as lord in consequence of what I have done,and of what I shall do.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 My lustre is the Sun: my army is hard to overcome, like the sun's lustre;
 

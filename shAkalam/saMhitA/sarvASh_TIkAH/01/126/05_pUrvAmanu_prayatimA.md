@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -204,11 +207,13 @@ pajrā́ḥ ← pajrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have accepted a prior grant, (kinsmen), for you; three and eight harnessed chariots and cattle of incalculable value; may the kindred Pajras, like well-disposed relations, be desirous of acquiring renown by their abundant offerings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Perhaps, 3 and 8 connote a different sense of 11; aridhāyaso gāḥ = aribhir-iśvarair-dhāraṇīyā, to be held or attained by rich men; i.e. bahumūlyaḥ, of great price; viśyā iva vrāḥ = viśām vrātā yathā parasparam anurāgavantaḥ, like troops of people having mutual affection; abundant offerings: the text has, having carts or barrows, anasvantaḥ;
 

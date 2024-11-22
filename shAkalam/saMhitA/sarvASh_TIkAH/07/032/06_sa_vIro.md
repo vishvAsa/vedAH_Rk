@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápratiṣkutaḥ ← ápratiṣkuta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -160,7 +163,8 @@ sunóti ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Slayer of **Vṛtra**, the hero who offers sacrifices to you, who eagerly approaches you (with praises), he,(protected) by **Indra**, is unresisted (by anyone), and is honoured by men.”
 </details>

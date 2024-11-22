@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mátsi ← √mad- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
 
@@ -201,7 +204,8 @@ mátsi ← √mad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, exhilarate **Varuṇa**, exhilarate **Mitra**; O Soma **Pavamāna**, exhilarate **Indra** and **Viṣṇu**, exhilarate the company of the **Maruts**, exhilarate the gods, exhilarate the mighty Indra, O **Indu**, for his exhilaration.”
 </details>

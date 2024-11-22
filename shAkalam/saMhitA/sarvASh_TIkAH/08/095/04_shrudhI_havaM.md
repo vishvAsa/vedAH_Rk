@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávam ← háva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -152,7 +155,8 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear, **Indra**, the prayer of Tiraści who worships you, and satisfy him with wealth bringing gallantoffspring and cattle-- for you are mighty.”
 </details>

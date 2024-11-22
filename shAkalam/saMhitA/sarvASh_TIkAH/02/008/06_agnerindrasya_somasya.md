@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -137,7 +140,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, uninjured, be secure in the protection of **Agni**, **Indra**, **Soma** and the gods, and confident in battle overcome (our enemies).”
 </details>
@@ -152,7 +156,8 @@ not suffering harm. May we surmount those who do battle.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
 <details open><summary><h2>04-06 ...{Loading}...</h2></summary>
 
-As the just-mentioned structural device expires in 4a, another takes its place. An unbroken alliterative string runs from the end of 4b through the beginning of 5: … arcíṣa / añjānó ajárair abhí // átrim ánu …, and the first words of the most of the remaining pādas also start with a- (5b agním, 6a agnér, 6c áriṣyantaḥ, 6d abhí). Since ádhi is the 2nd word in 5c, only 6b is not part of the chain. ### 04-05 On the disguised Svarbhānu myth in these two vss., see published introduction. Most tr./comm. are puzzled by the appearance of Atri here, and Geldner and Oldenberg in particular speculate on possible emendations. But the presence of the Svarbhānu formula guarantees that the text is genuine, in my opinion.
+As the just-mentioned structural device expires in 4a, another takes its place. An unbroken alliterative string runs from the end of 4b through the beginning of 5: … arcíṣa / añjānó ajárair abhí // átrim ánu …, and the first words of the most of the remaining pādas also start with a- (5b agním, 6a agnér, 6c áriṣyantaḥ, 6d abhí). Since ádhi is the 2nd word in 5c, only 6b is not part of the chain. _________
+**04-05 On the disguised Svarbhānu myth in these two vss., see published introduction. Most tr./comm. are puzzled by the appearance of Atri here, and Geldner and Oldenberg in particular speculate on possible emendations. But the presence of the Svarbhānu formula guarantees that the text is genuine, in my opinion.**  
 
 </details>
 </div>

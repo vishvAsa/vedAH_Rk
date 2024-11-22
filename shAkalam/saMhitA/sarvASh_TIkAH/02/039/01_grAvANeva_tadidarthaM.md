@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ártham ← ártha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -199,11 +202,13 @@ purutrā́ ← purutrā́ (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Descend, **Aśvins**, like falling stones, for the purpose (of destroying our foes); hasten to the presence of the wealth-possessing (worshippers), like vultures to a tree; like two **Brāhmaṇas** repeating hymns, (be present) at the sacrifice, and come like (royal) messengers in the land, welcomed by many people.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like two Brāhmaṇas: brahmāṇa iva = brāhmaṇau; this seems to imply a priestly order
 </details>

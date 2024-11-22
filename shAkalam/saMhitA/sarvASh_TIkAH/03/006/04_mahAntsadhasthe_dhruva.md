@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -163,11 +166,13 @@ urugāyásya ← urugāyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great and adorable **Agni** is firm seated on his spacious throne between heaven and earth; and the powerful fellow-brides (of the sun), the imperishable uninjurable (heaven and earth) are the two milk-yielding cows of the wide-extending (Agni).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The fellow-brides: **sapatnī**, the two brides of one; i.e. the sun: **samāna** ekaḥ **sūryaḥ** patiryayoste sapatnyau
 </details>

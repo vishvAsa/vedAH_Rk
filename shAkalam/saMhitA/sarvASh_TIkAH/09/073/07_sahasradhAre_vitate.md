@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -173,11 +176,13 @@ sváñcaḥ ← sváñc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The intelligent sages extol the voice (of the firmament) in the purifying extended (**Soma**) with its thousand streams; the **Rudras** are their servants, swift-moving, inviolable, revered, of goodly aspect, the beholders of men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Their servants: spaśaḥ = **vācā** vaśinaḥ (obedient voices)
 </details>

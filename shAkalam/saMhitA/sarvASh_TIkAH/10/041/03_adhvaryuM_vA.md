@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaryúm ← adhvaryú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Aśvins**, to **Suhastya**, whether as the ministrant priest bearing the **Soma** in his **hand**, or as thecompetent lowly-minded feeder of the sacred fire; although you go to the sacrifices of (some other) sage, (yet)come, Aśvins, from them to the Soma (which I offer).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Competent lowly-minded feeder: damunasa = intending togive, dānamanasam
 </details>

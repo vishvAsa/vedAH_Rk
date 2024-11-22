@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods, intending to dwell (in heaven), left, as a dear friend among the human races, that **Agni**, who, present in the chamber of sacrifice, is bounteous to the donor of offerings, and shines on the nights when he is wished for.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Shines on the nights: dīdayad uśatīrūrmya: uśatīḥ = kāmayamānāḥ, to be desired; ūrmyā **rātriḥ** = nights, all nights or the whole night: sarvāsu rātriṣu dīpyate; or, **sarva** rātrir ādīpayati, he shines on all nights, or he lights up all nights
 </details>

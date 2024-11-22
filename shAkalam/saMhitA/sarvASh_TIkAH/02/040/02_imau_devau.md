@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 devaú ← devá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -186,11 +189,13 @@ usríyāsu ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The gods) propitiate these two divinities at the moment of the ir birth, for they drive away the disagreeable glooms; with these two, **Soma** and **Pūṣaṇ**, **Indra** genitive rates the mature (milk) in the immature heifers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The mature milk: i.e. the rain inthe clouds
 </details>

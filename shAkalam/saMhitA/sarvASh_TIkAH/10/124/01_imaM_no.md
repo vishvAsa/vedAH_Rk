@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -203,11 +206,13 @@ támaḥ ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Agni**, to this our sacrifice, which has five oblations, three- fold, spread out by seven (priests); bethe bearer of our oblations, be our preceder, you have long been sleeping in profound darkness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Five oblations:or, regulated by five, i.e., by the **yajamāna** and the four chief priests, the **Hotā**, the **Udgātā**, the **Adhvaryu**,and the **Brahmā**
 </details>

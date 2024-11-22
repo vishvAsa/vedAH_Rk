@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -143,11 +146,13 @@ vipā́m ← víp- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They stretch the bow of manhood for the beloved courageous (**Soma**); (the priests) wishing to worship spread out the white filter for the mighty (Soma) in the presence of the sage (deities).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In RV. 9.006.003, the ṛṣis are the two rebhasunus = son of Rebha. spread out the white filter: nirṇijam vayanti = they weave a garment
 </details>

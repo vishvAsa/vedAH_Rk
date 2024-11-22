@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pāvaka ← pāvaká- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -129,7 +132,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purifier, **Agni**, holy, adorable, you shine exceedingly when (you are) worshipped with (oblations of) butter.”
 </details>

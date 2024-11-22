@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puróhitaḥ ← puróhita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -211,7 +214,8 @@ vŕ̥thā ← vŕ̥thā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, **Brahmaṇaspati**, is the aggregator and subjugator (of objects); the family priest (of the gods) and the renowned in battle; the beholder (of all), who bestows food and desired treasures, whence the radiant sun shines without exertion.”
 </details>

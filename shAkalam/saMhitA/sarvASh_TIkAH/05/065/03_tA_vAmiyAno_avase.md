@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávase ← ávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -167,7 +170,8 @@ vā́jān ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approaching you, ancient (divinities), I invoke you together for protection; possessed of good steeds, (we praise you) who are provident to give us food.”
 </details>

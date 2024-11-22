@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dadarśa ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -201,11 +204,13 @@ vidvā́ṁsam ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who has seen the primeval (being) at the time of his being born; what is that endowed with substance which the unsubstantial sustains; from earth are the breath and blood; but where is the **soul**; who may repair to the sage to ask this?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tha endowed with subtance: asthanvantam yad anasthā bibharti = liṭ, that which having bone the boneless sustains; the boneless is the **prakṛti** of the **sāṅkhya**, or the **māyā** of the vedāntins, which is formless matter, or spiritual illusion, from which the material and visible world proceeds; where is the soul: bhūmyā asur-asṛg-**ātmā** kva svit: **bhūmi** = **sthūla śarīra**, gross body;
 

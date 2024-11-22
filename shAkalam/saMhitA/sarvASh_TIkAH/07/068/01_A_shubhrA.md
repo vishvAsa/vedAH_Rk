@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -154,7 +157,8 @@ vītám ← √vī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Illustrious **Aśvins**, lords of handsome horses, come hither, propitiated; Dasrasā, by the praises of youradorer, and partake of our consecrated oblations.”
 </details>

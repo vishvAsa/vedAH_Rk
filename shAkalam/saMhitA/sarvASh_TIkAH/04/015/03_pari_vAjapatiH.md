@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavíḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -127,11 +130,13 @@ agni, the lord of the booty, the seer, has walked around the oblations, conferri
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage, **Agni**, the lord of food, has encompassed the oblation, giving precious things to the donor.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 2.35;
 

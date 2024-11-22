@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥tádhvajaḥ ← kr̥tádhvaj- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -207,11 +210,13 @@ vocatam ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where men assemble with uplifted banners, in whatever conflict, there is something unfavourable;where living beings, looking to heaven, are in fear, there, **Indra** and **Varuṇa**, speak tous (encouragement).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 There is something unfavourable: 'everything is evil'; **yatra** ca yuddhe **bhuvanā**, bhuvanāni, bhūtajātānisvardṛśaḥ, śarīrapatad ūrdhvam svargasya draṣṭāro **vitas**' ca bhayante, bibhyati, tatra, tadriśe saṅgrāmehe indrāvaruṇau no'sman adhivocatam, asmatpakṣapātavacanau bhavatām = in whatever (battle) livingbeings and those seeing heaven (i.e. gone to heaven, departed) are in fear, there, Indra and Varuṇa, plural ad ourcause
 </details>

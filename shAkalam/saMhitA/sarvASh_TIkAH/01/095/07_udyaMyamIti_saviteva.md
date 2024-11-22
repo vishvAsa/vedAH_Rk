@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bāhū́ ← bāhú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -198,7 +201,8 @@ The first hemistich compares the rising Agni with the arms of Savitṛ and speci
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like the sun, he stretches forth his arms, and the formidable **Agni**, decorating both heaven and earth (with brightness), labours (in his duties); he draws up from everything the essential (moisture), and clothes (the earth) with new vestments (derived) from his maternal (rains).”
 </details>

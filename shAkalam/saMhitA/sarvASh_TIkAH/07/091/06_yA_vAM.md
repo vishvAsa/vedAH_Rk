@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 niyútaḥ ← niyút- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -187,7 +190,8 @@ prátibhr̥tasya ← √bhr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come to our presence, **Indra** and **Vāyu**, with those munificent **Niyut** steeds, who, the desired of all,wait upon you both by hundreds and thousands; drink, leaders (of rites), of the sweet **Soma** plural ced near (thealtar).”
 </details>

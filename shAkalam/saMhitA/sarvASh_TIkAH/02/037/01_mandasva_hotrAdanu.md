@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -207,11 +210,13 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be gratified, Draviṇodas, by the sacrificial food presented as the offering of the **Hotā**; he desires, priests, a fall libation; present it to him, and influenced (by it, he will be your) benefactor; drink, Draviṇodas, along with the Ṛtus, the **Soma**, the offering of the Hotā.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Drink, Draviṇodas, along with the Ṛtus: **somam** draviṇodaḥ piba ṛtubhiḥ: this is the refrain of the next two hymns also and of the last hymn;
 

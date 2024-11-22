@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 praminā́ma ← √mī- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -198,11 +201,13 @@ yébhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O gods, when we who are most ignorant neglect the offices addressed to you who are wise, may thewise **Agni** complete the whole by (appointing) those seasons by which he regulates the worship of the godṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May the wise Agni: may Agni complete the whole, knowing at what seasons he should appoint the gods (to beworshipped); lit. = with what seasons he shoudl fix the gods
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ usríyābhiḥ ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**), who flows in a hundred streams, pour rain from the firmament, you who are the giver of hundredfold (wealth), the bestower of food at the banquet of the gods; desirous of (the mixture) combine with the waters in the pitchers and with the curds and milk, prolonging our life.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desirous of the mixture: or, with a noise
 </details>

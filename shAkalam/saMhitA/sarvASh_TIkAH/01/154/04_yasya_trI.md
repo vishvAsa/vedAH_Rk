@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhunā ← mádhu- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -193,11 +196,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whose three imperishable paces, filled with ambrosia, delight (mankind) with sacred food; who verily alone upholds the three elements, and earth and heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The three elements: tṛdhātu, the aggregate of three elements, earth, water, light: pṛthivyaptejorūpa dhātutrayaviśiṣṭam; or, the three periods of time, or the three qualities
 </details>

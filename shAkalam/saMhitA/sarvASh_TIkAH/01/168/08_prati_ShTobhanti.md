@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pavíbhyaḥ ← paví- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -165,7 +168,8 @@ yádi ← yádi (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rivers are arrested by the thunderbolts when they utter the voice of the clouds; but the lightnings smile in the firmament when the **Maruts** sprinkle water on the earth.”
 </details>

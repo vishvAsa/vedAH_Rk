@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 īrayatha ← √īr- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -185,7 +188,8 @@ yātā́m ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You send (the rain), **Maruts**, from the firmament; charged with the waters you shower down the rain; destroyers of foes, your kine are never dry; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>

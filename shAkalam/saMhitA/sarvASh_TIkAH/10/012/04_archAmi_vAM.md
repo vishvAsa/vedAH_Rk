@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápaḥ ← ápas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -184,7 +187,8 @@ pitárā ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I worship you, waters that pour forth ghī, and you, heaven and earth, for your increase; hear me, youworlds; when worshippers at the daily or nightly rite proceed to their pious purpose, then may the parents (of all)sanctify us with ambrosia.”
 </details>

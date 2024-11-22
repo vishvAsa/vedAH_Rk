@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithim ← átithi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -159,7 +162,8 @@ vyùṣṭiṣu ← vyùṣṭi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise **Agni** at the break of day, the best and youngest (of the gods), the guest (of man), the universally-invoked, who is friendly to the man that offers (oblations), who knows all that are born, that he may go (to bring) the other divinities.”
 </details>

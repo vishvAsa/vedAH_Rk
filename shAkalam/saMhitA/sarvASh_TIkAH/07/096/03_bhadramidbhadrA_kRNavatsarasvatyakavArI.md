@@ -23,15 +23,18 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhadrā́ ← bhadrá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -164,7 +167,8 @@ vasiṣṭhavát ← vasiṣṭhavát (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the auspicious **Sarasvatī** bestow auspicious fortune upon us; may the faultless-movingfood-conferring (goddess) think of us; glorified (as you have been) by Jamadagnī, (be now) glorified byVasiṣṭha.”
 </details>

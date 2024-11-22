@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 évaiḥ ← éva- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -167,11 +170,13 @@ víbhiḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dissipators of affliction, as you were praised with former praises by **Tugra**, so were you again adored (by him), when you brought **Bhujyu** safe from the tossing ocean with swift ships and rapid horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vibhiḥ = swift naubhiḥ (ships)
 </details>

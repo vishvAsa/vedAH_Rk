@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhāgáḥ ← abhāgá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -212,11 +215,13 @@ tanū́ḥ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sage **Manyu**, taking no part in the worship of you, the powerful one, I have retreated (from before myfoes); worshipping not, I was angry with you; (yet) being (incorporated with) my body, approach me to give mestrength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Taking no part in the worship: liṭ, being without a share in your acts (kṛtvā), i.e., not sacrificing to youat the sacrifice, and therefore being deprived of your favour\]. Manyu, bearer of the thunderbolt, come up to me, let us slay the **Dasyus**, think upon you kinsman.
 </details>

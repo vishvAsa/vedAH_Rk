@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásti ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -201,11 +204,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With that chariot, lords of men, which is your vehicle, which has three benches, is laden with wealth,and is the precursor of day, come **Nāsatyās**, to us; with that chariot which traverses (the sky) as yourall-pervading form.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lord of men: nṛpatī nṛṇām yajamānānām pālakau; with that chariot: abhi yad vamviśvapsnyo jigāti = yo ratho vam vyāptarūpo abhigacchati; or, since **Vasiṣṭha** praises you, viśvapsnyaḥ =vasiṣṭha
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -186,11 +189,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When were his mighty forces ever languid? When was aught undestroyed before the slayer of **Vṛtra**?**Indra** by his energy overpowers all the huckstering usurers who see only this world's days.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Huckstering usurers:cf. **Nirukta** 6.26; usurers and hucksters;
 

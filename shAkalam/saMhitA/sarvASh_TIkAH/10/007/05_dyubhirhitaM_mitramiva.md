@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyúbhiḥ ← dyú- ~ div- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -174,7 +177,8 @@ vikṣú ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men have genitive rated with their arms **Agni**, who is decorated with rays of light, selected as a friend, theancient priest, the accomplisher of the sacrifice, and they have appointed him among people, the invoker of thegods.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -202,7 +205,8 @@ rejate ← √rej- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fierce **Maruts**, sons of **Rudra**, who ride in easy chariots (drawn by) celebrated steeds, (at your coming) the woods bow down with fear, the earth tremles, and the mountains (shake).”
 </details>

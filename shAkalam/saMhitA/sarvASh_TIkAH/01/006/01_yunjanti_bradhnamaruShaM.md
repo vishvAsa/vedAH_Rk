@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 aruṣám ← aruṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ rócante ← √ruc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The circumstationed (inhabitants of the **three worlds**) associate with (**Indra**), the mighty (Sun), the indestructive (fire), the moving (wind), and the lights that shine in the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Paritasthuṣaḥ, those who are standing around; or, lokatrayavarttinaḥ **prāṇinaḥ**, the living beings of the three worlds;
 

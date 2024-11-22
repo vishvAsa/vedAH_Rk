@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 aśrīrā́ ← aśrīrá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -147,7 +150,8 @@ svám ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (bridegroom's) body is lacking in beauty; shining with this wicked (**Kṛtyā**), when he wishes toclothe his own limbs with his wife's garments.”
 </details>

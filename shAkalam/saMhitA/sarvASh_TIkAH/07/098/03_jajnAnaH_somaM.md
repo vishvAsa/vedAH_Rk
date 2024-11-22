@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 jajñānáḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
 
@@ -192,11 +195,13 @@ yudhā́ ← yúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as born, **Indra** you have drunk the **Soma** for your invigoration; your mother (**Aditi**) proclaimedyour greatness; hence you have filled the vast firmament. Indra, you have gained in battle treasure for the godṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your mother: a reference to Aditi's speech; cf. RV 4.018.04
 </details>

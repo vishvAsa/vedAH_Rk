@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nā́ke ← nā́ka- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ yónau ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those desiring you in their hearts contemplated you travelling as a strong-winged bird in the sky, thegolden-winged messenger of **Varuṇa**, the bird which nourishes (the world) in **Yama**'s dwelling.”
 </details>

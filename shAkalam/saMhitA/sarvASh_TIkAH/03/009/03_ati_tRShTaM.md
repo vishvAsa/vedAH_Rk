@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -184,11 +187,13 @@ yéṣām ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You wish exceedingly to convey satisfaction (to your worshippers) and are thereto well-disposed; of those in whose friendship you are cherished, some precede while others sit around.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Some prece: the allusion is to the sixteen priests, of whom the **adhvaryu** and eleven others take an active part in the ceremonial while the **udgātā** and other three are sitting byengaged in the recital of the prayers and hymns
 </details>

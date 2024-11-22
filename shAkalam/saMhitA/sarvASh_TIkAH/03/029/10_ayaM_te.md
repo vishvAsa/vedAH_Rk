@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ vardhaya ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This in every season, **Agni**, is your plural ce, whence, as soon as genitive rated, you have ever shone; knowing that to be so, Agni, there abide, and thrive by our praises.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajurveda** 3.14; your plural ce: the allusion is to the **araṇi**, the stick of **vetasa** of **aśvattha**, or other trees; alternatively, may refer to **gārhapatya** or household fire; vardhayā **giraḥ** = give us increase of riches
 </details>

@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 īśe ← √īś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -194,11 +197,13 @@ The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, an
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: He who is endowed with vigour begets not progeny, but he who is impotent; Indra isabove all (the world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indra speaks\]: He who is endowed with vigour begets not progeny, but he who is impotent; Indra isabove all (the world).
 </details>

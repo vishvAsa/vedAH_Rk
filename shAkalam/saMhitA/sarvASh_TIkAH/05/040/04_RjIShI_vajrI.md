@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥jīṣī́ ← r̥jīṣín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,11 +183,13 @@ sávane ← sávana- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the accepter of the spiritless libation, the wilder of the thunderbolt, the showerer (of benefits), the overcomer of quick- (flying foes), the mighty, the monarch, the slayer of **Vṛtra**, the drinker of the **Soma**, having harnessed his horses, come down (to us); may **Indra** be exhilarated at the mid-day sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Accepter of the spiritless libation: ṛjīṣin = the possessor or ruler of the ṛjīṣa, here explained as gatasāra **somarasa**, or that which ahs been offered at the morning and midday ceremonies, and of which the residue is now presented at the evening sacrifice
 </details>

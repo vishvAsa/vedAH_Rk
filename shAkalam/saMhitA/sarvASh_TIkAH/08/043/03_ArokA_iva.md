@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 áha ← áha (invariable)  
 {}
 
@@ -133,11 +136,13 @@ vánāni ← vána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your fierce flames, **Agni**, consume the forest, as wild animals destroy (the plural nts) with their teeth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wildanimals: arokāḥ = arocamānāḥ paśavaḥ; cf. **Śatapatha Brāhmaṇa** 3.1.2.18: madhye chidrāṇi; (yourfierce flames) glancing, as it were, through the trees
 </details>

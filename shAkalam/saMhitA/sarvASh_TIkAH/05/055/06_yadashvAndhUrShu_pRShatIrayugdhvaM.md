@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áśvān ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -201,7 +204,8 @@ yātā́m ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you yoke your spotted mares to the poles (of your chariots), you lay aside your golden breast-plural tes, for you dissipate all hostility; may the cars of the quick-moving (**Maruts**) arrive for our good.”
 </details>

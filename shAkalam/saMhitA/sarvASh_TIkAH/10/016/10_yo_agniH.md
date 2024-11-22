@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ sadhásthe ← sadhástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The flesh-devouring deity **Agni**, who has entered your dwelling, I turn him out, for the worship of thePitṛs, upon beholding this other (Agni) **Jātavedas**; let him celebrate the sacrifice (to the **Pitṛs**) in the mostexcellent assembly.”
 </details>

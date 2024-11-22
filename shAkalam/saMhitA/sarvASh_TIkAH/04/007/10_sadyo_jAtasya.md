@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádr̥śānam ← √dr̥ś- (root)  
 {case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
 
@@ -189,7 +192,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The light of the speedily-genitive rated is visible, and when the win fans the flame, he (**Agni**) spreads his blazing tongue among the trees, and with his (glowing) teeth consumes the standing (fuel, his) food.”
 </details>

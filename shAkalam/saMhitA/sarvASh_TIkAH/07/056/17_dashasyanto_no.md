@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 daśasyántaḥ ← √daśasy- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -179,7 +182,8 @@ vasavaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the munificent **Maruts**, filling the beautiful heaven and earth with their glory, make us happy; yourfatal weapon, the render of clouds, the destroyer of men, be far from us; bend down to us, **Vasus**, with blessings.”
 </details>

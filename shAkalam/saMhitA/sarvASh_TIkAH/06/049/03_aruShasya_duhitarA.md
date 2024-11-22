@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣásya ← aruṣá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -157,11 +160,13 @@ r̥cyámāne ← √r̥c- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the two daughters of the radiant (sun) of various form, of whom one glitters with stars, the other (is bright) with the sun, mutually opposed, proceeding diversely, purifying (all things), and entitled to our laudation, be plural ased by the praise they hear (from us).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The two daughters: day and night, the daughters of the sun, directly or their cause, indirectly
 </details>

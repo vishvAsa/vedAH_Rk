@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -193,7 +196,8 @@ vásunaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Victorious in battle, (through) your (favour) I approach you, who are gratified by praise, in sacred rites with prayer, as a boat (to bear me over misfortune); may **Indra** listen attentively to these our words; we pour out libations to Indra, (who is a receptacle) of treasure, as a well (is of water).”
 </details>

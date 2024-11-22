@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajā́śvaḥ ← ajā́śva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -169,11 +172,13 @@ saṁcákṣāṇaḥ ← √cakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rider of the goat, the protector of animals, in whose dwelling good is abundant, the propitiated by sacred rites, who has been plural ced over the whole (world), the divine **Pūṣan**, brandishing his loosened goad, proceeds (in the sky), contemplating all beings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Plural ced over the whole world: plural ced so by **Prajāpati**, in his capacity of nourishing all things, poṣakatvena; proceeds in the sky: as identical with the sun
 </details>

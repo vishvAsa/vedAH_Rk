@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gávām ← gáv- ~ gó- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -203,7 +206,8 @@ naraḥ ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You bear, for your decoration, an excellent (diadem) like the horn of cattle; as the sun, the eye (of day, dispenses light), so (are you diligent) in the distribution of the rains; graceful are you, and rapid as horses, and like (pious) mortals, you, leaders (of rites), consider (holy ceremonies) for their glory.”
 </details>

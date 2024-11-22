@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhipitvé ← abhipitvá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -126,11 +129,13 @@ mehánā ← mehánā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Upon the acceptance of this donation to me, the very trees have exclaimed; (see these ṛṣis) haveacquired excellent cows excellent horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Have acquired: gām bhajanta mehanāśvam bhajanta mehanām:maṅhanīyam, praśasyam, commendable or excellent; derived from me iha na (**Nirukta**: 4.4), of me here not,i.e., all the people, with the trees at their head, say, a gift such as this that has now been given was never givento me; ihāsmin **rājani** tad **dānam** mama nāsīn mama nāsīd iti **vṛkṣa**-pramukhāḥ sarvepi **janāḥ** procurityarthaḥ
 </details>

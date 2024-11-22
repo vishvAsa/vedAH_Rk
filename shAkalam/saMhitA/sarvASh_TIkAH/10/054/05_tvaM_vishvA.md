@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dadhiṣe ← √dhā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
 
@@ -219,7 +222,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have in your keeping all treasures, which are yours exclusively, whether they be manifest orhidden; thwart not, therefore, Maghavat, my desire (for wealth); for you are cognizant (of my desire), you are thedonor.”
 </details>

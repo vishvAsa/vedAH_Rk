@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asūta ← √sū- 2 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -203,11 +206,13 @@ tápuṣaḥ ← tápus- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The parent of twins (the dawn), has brought forth the twin (**Aśvins**) on this occasion, (in the praise of whom) the tip of my tongue remains tremulous; they two, the dispersers of darkness, combine, assuming bodies as a pair (of twins) at the origin of the day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At the origin of the day: the aśvins are worshipped at the morning ceremony
 </details>

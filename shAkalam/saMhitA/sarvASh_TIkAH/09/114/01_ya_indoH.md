@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 índoḥ ← índu- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ srava ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **brāhmaṇa**) who attends to the stations of the filtered **Soma**-juice-- him men call rich in children, who applies his mind to you, Soma; flow, **Indu** for **Indra**.”
 </details>

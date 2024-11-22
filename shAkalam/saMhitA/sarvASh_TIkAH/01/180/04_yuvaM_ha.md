@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átraye ← átri- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You rendered the heat as soothing as sweet butter to **Atri**; wishing (for relief), and invested it with coolness,like water; therefore, for you, **Aśvins**, leaders (of rites) the fire-offering (is made); to you the **Soma** (drips) run like chariot wheels (down a declivity).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The fire-offering is made: tad vam paśva **iṣṭī** **paśu** = fire; agrees with the text agnir paśur-āsīt, **agni** was the victim; the implication is that the oblations are presented through fire to the Aśvins
 </details>

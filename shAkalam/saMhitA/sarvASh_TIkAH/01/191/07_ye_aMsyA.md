@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 áṁsyāḥ ← áṁsya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -161,11 +164,13 @@ sárve ← sárva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those (who move with their) shoulders, those (who move with their) bodies, those who sting with sharp fangs, those who are virulently venomous; what do you here, you unseen, depart together far from us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those who move: ye aṃsyā ye aṅgyāḥ, what relates to the shoulders, or the body genitive rally;
 

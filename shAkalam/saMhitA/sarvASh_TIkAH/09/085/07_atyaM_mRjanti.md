@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyam ← átya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ viśanti ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ten fingers clean the horse in the pitcher; among the **vipras** the worshippers send forth praises; the filtered (juices) hasten to the fair praise, the exhilarating **Soma** juices enter **Indra**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átriḥ ← átri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Gotama**, Purimiḷha, **Atri**, (each) offering oblations, invokes you for his protection; like unto a wayfarer, who (makes for his intended direction) by a straight (path) do you, **Dasras**, come (direct) to my invocation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like unto a wayfarer: the simile applies to the person n invoking **Aśvins**, as the direct path to the realization of his wishes
 </details>

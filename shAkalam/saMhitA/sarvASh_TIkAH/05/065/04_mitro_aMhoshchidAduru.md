@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṁhóḥ ← aṁhú- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -147,7 +150,8 @@ vidhatáḥ ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** grants even to the sinful (worshipper) the (means of) repairing to his spacious dwelling; the favour of Mitra, the destroyer fo foes, is (granted) to (his) adorer.”
 </details>

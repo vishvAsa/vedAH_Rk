@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 pate ← páti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protector of the dwelling, may we be possessed of a comfortable, delightful, opulent abode, bestowedby you; protect our wealth, whether in possession or expectaion; and do you, (gods), ever cherish us withblessings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Opulent: gatumatya = melodious; from ga, to sing; or, **dhanavatī**, having wealth; and do you god:yuyam = tvam, do you **Vāstoṣpati** etc.
 </details>

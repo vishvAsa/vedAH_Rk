@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhasu ← áhar ~ áhan- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -192,7 +195,8 @@ uṣā́saḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of all these sisters who have gone before, a successor daily follows the one that has preceded. So may new dawns, like the old, bringing fortunate days, shine upon us blessed with affluence.”
 </details>

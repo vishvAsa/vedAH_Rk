@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -190,7 +193,8 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yellow-tinted (**Soma**) is stored up sufficient to whet his desires, the yellow-tinted Soma urges his twoswift bay horses for the salwart (**Indra**). His (chariot) which rushes with spirited bay horses to the conflict, hasreached his desire (the sacrifice) in which the Soma is presented.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -129,11 +132,13 @@ tā́m ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, grant us that invigorating food which may satisfy us, having dispelled the gloom (of want).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text has: tamastiraḥ, 'dispenser of darkness'; darkness signifying poverty: **daridrya** rupandhakāraḥ
 </details>

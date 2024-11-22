@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhinā ← áhi- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ ugra ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you did encounter the indestructible **Vṛtra**, wielding your weapons for combat, you acquirerenown; all the associated **Maruts** of their own accord magnified your great might appropriate to **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vṛtra:ahinā, liṭ, the dragon; or ahi; or, ahantavyena, not to be slain
 </details>

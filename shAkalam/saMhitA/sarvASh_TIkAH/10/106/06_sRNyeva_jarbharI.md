@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -168,11 +171,13 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are like two mad elephants bending their forequarters and smiting the foe, like the two sons ofare victorious, (render) my decaying mortal body free from decay.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Epithets: śṛṇya = from **śreṇi**, a goad, thedestroying (foes): **dvividhā** ṣṛṇirbhavati bhartā ca **hantā** ca tathāśvinau ca-pi bhartārau jarbharībhartārāvity **arthas** turpharītū hantārau: **Nirukta** 13.5
 </details>

@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 dāśvā́n ← dāśváṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -153,11 +156,13 @@ todásya ← todá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Presenting many offerings, I address you, **Agni**, ever coming into your presence (like a servant) in the dwelling of a mighty master.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like a servant: arir agne tava svidā: ari = enemy, assailant **amitra**, unfriend (**Nirukta** 5.7); the word is equated with artā, a servant, in the character of bringing oblations and the like before Agni: yato aham agne tava svit tavaiva ā abhimukhyena arir artā havirādi prāpaṇena sevako aham, 'Since I, Agni, going verily into your presence for the purpose of conveying oblations, I am a servant'. A mighty master: todasya, a governor, a master; śikṣakasya svāminaḥ = lit. a tormentor, a tyrant
 </details>

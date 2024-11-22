@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -182,11 +185,13 @@ vrajám ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, **Aśvins**, you protect the feeble man; you protected **Śayu**; you protect him who worshipsaccording to rule, and the widow, (**Vadhrimati**); you set open, O Aśvins, for the donors of oblations theseven-mouthed thundering cloud.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The feeble man: or, **Kṛśa**, a proper name; seven-mouthed: saptāsyam = liṭ,seven-mouthed; i.e., having shifting doors or openings, sarpaṇaśīladvāram; **Ghoṣā**, having become eligibleas a wife, here expresses her desire for a husband
 </details>

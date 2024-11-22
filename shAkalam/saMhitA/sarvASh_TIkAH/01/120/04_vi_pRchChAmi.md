@@ -22,14 +22,17 @@ ChandaH = "नष्टरूपी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 devā́n ← devá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -152,11 +155,13 @@ yuvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invite not the gods immature (in wisdom), but you, **Dasras**; drink of the wonderful and strength-giving burnt-offering, and make us vigorous.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pākyā = to be ripened;not yet mature in wisdom, paktavyaprajñānan
 </details>

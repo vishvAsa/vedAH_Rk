@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dā́nam ← dā́na- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -116,7 +119,8 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit a gift from this **Indra**, the displayer of might, the fearless; we solicit wealth from the lord.”
 </details>

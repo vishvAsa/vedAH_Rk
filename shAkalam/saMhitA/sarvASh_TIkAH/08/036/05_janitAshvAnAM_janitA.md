@@ -25,10 +25,12 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
@@ -36,7 +38,8 @@ genre M;; line affected by realignment;; repeated line
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -233,7 +236,8 @@ satpate ← sátpati- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are the genitive rator of horses, the genitive rator of cattle; drink joyfully, **Śatakratu**, the **Soma** for yourexhilaration-- that portion which (the gods) assigned you, **Indra**, lord of the virtuous, who are the victor over all(hostile) hosts, the conqueror of many, the subduer of the waters, the leader of the **Maruts**.”
 </details>

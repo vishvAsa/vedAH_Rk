@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvyaḥ ← áśvya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -156,11 +159,13 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He **Śakra**, who is the purifier (of his worshippers), and well-skilled in horses, who is wonderful andgolden-bodied-- he, **Indra**, the slayer of **Vṛtra**, shakes the hiding-plural ce of the numerous herd of kine.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mṛkṣaḥ =stotṛṇām śodhakaḥ, paricaraṇīyaḥ;
 

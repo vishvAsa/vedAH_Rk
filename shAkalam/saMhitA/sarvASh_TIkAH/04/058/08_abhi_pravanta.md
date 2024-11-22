@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -166,7 +169,8 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The streams of Ghī incline to **Agni** as devoted wives, auspicious and smiling, to a husband; they feed (the flame) like fuel, and **Jātavedas**, propitiated, accepts them.”
 </details>
@@ -179,7 +183,8 @@ The streams of ghee approach the kindling sticks. (Agni) Jātavedas  delights, t
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The violence of the movement of the ghee-streams in the preceding vs. is abruptly replaced by the placid and benign approach of these same streams in this vs. ### 11
+The violence of the movement of the ghee-streams in the preceding vs. is abruptly replaced by the placid and benign approach of these same streams in this vs. _________
+**11**  
 Renou points out the ring composition of 11d mádhumantaṃ ta ūrmím and 1a ūrmír mádhumān.
 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">

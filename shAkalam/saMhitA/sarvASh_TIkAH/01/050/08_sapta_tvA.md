@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 harítaḥ ← harít- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -121,11 +124,13 @@ vicakṣaṇa ← vicakṣaṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine and light-diffusing **Sūrya**, your seven coursers bear you, bright-haired, in your car.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sapta **haritaḥ** = seven rays; seven horses = seven days of the week; or, is there an allusion to seven scattered prismatic rays?
 </details>

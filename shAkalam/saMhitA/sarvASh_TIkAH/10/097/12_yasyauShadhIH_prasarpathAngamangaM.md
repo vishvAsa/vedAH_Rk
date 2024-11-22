@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 oṣadhīḥ ← óṣadhī- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -148,11 +151,13 @@ ugráḥ ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “From him, oḥ plural nts, in whom you creep from limb to limb, from joint to joint, you drive away diseaselike a mighty (prince) stationed in the midst of his host.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mighty prince: or, as **Rudra** pierces the world with thecentral point of his trident (**Yajus**. 12.86)
 </details>

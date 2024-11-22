@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 puroḷā́śam ← puroḷā́ś- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -126,7 +129,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, renowned of old, accept our cakes and butter, offered at dawn; for great are your deeds.”
 </details>

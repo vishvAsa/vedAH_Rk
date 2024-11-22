@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhmāṇi ← bráhman- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -148,7 +151,8 @@ námaḥ ← námas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May these praises exalting the **Aśvins** be productive of happiness, the praise that we fabricate as (a wheelwright) a car; we proclaim aloud fervent adoration.”
 </details>

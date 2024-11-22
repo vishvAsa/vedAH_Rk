@@ -23,15 +23,18 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhimāyasya ← áhimāya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ r̥jíśvane ← r̥jíśvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have scatered by force, wielder of the thunderbolt, the strong cities of the deadly-deluding Pipru; you have given, bountiful **Indra**, uninjurable wealh to rijiṣvat, the donor of sacrificial gifts.”
 </details>

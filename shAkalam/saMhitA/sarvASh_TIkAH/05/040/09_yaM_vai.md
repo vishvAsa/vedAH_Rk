@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -153,7 +156,8 @@ nahí ← nahí (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun, whom the **Asura**, **Svarbhānu**, had enveloped with darkness, the sons of **Atri** subsequently recovered; no others were able (to effect his release).”
 </details>

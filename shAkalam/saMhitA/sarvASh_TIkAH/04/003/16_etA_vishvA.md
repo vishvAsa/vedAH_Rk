@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etā́ ← eṣá (pronoun)  
 {case:ACC, gender:N, number:PL}
 
@@ -170,11 +173,13 @@ vípraḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, creator, to you who are wise, acquainted with the past, I address, oḥ sage, these soliciting mysterious words, (these) ever-to-be-recited poems, together with praises and prayers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ever to be recited poems: nivacanā(ni) kāvyāni: nitarām vaktavyāni kavibhiḥ kṛtāni, those which are made by poets ever to be recited
 </details>

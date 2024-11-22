@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghr̥tásnuḥ ← ghr̥tásnu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your car, **Aśvins**, approaches, coated with gold, honey-tinted, water-shedding, laden with ambrosia, as quick as thought, as rapid as the wind, wherewith you pass over all obstacles.”
 </details>

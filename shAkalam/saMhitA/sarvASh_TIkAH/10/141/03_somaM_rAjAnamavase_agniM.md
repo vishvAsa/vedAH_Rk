@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292);; repeated line  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 ávase ← ávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -140,7 +143,8 @@ ca ← ca (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke for our protection the royal **Soma**, (we invoke) **Agni** with praises, (we invoke) the **Ādityas**,**Viṣṇu**, **Sūrya**, **Brahmā** and **Bṛhaspati**.”
 </details>

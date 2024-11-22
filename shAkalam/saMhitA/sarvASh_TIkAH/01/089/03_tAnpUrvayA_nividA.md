@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hūmahe ← √hū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -198,7 +201,8 @@ subhágā ← subhága- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke them with an ancient text, **Bhaga**, **Mitra**, **Aditi**, **Dakṣa**, Asridh, **Aryaman**, **Varuṇa**, **Soma**, the **Aśvins**; and may the gracious **Sarasvatī** grant us happiness.”
 

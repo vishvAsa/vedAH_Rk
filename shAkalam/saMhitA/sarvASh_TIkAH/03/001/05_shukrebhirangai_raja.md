@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgaiḥ ← áṅga- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -177,7 +180,8 @@ mimīte ← √mā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Spreading through the firmament with shining limbs, sanctifying the rite with intelligent and purifying (energies), and clothed with radiance, he bestows upon the worshiper abundant food and great and undiminished prosperity.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhikrándan ← √krand- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -169,7 +172,8 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rapid (**Soma**), thelord of heaven, the thousand-streamed, the beholder (of all), rushes crying aloud to the pitcher, the green-tinted one alights upon **Mitra**'s dwelling plural ce, cleansed by the sheep's hairs and the waters, the shower.”
 </details>

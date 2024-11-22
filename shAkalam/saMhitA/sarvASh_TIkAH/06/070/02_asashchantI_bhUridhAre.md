@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásaścantī ← ásaścant- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -182,7 +185,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uncollapsing, many-showering, water retaining, yielding moisture, beneficent, pure in act; do you two, Heaven and Earth, rulers over created beings, grant us vigour, that may be favourable to (the increase of) mankind.”
 </details>

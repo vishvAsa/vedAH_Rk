@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -184,11 +187,13 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine **Savitā**, the benefactor of all men, come benignantly to our solemnity, together with the divinities of earth, and do you, who are (always) young, willingly present at our sacrifice, exhilarate us, as (you exhilarate) the whole world.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Another interpretation: **viśvānara** = an epithet of Savitā, **viśva nara** hitakāri, the doer of good to all men;
 

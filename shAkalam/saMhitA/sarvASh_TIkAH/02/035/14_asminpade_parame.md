@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmín ← ayám (pronoun)  
 {case:LOC, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ yahvī́ḥ ← yahvī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The abundant waters, bearing sustenance to their grandson, flow round him with spontaneous movements; when abiding in his supreme sphere, and shining daily with imperishable (rays).”
 </details>

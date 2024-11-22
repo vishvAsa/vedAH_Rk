@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádevaḥ ← ádeva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ yāsi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No ancient **rākṣasa** abides, **Sūrya**, near you when you desire to yoke to your chariot your rapidsteeds; one ancient radiance follows (you) while you rise with another.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 One ancient radiance: i.e., the light of themoon (prācīnam = turned towards the east)
 </details>

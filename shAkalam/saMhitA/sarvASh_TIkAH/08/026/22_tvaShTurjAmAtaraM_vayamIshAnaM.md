@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 jā́mātaram ← jā́mātar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -120,7 +123,8 @@ vāyúm ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, the offerers of **Soma**, solicit riches from the sovereign, the son- in-law of **Tvaṣṭā**; (may webecome) wealthy.”
 </details>

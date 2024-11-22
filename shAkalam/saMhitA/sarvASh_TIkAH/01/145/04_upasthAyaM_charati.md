@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carati ← √carⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -179,11 +182,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When (the priest) proceeds to effect his development, he is (at once) manifested; and as soon as engendered, is associated with his objects; he provides for the gratification (of his worshipper), plural cidly engaged in the agreeable (rite), when the (oblations) that desire (his acceptance) reach him present (at the sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Is associated with his objects: tatsāra yujyebhiḥ;
 

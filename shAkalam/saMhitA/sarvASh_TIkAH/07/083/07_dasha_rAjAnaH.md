@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyajyavaḥ ← áyajyu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ eṣām ← ayám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ten confederated irreligious **rājās** did not prevail, **Indra** and **Varuṇa**, against **Sudāsa**; the praiseof the leaders (of rites), the offerers of sacrificial food, was fruitful; the gods were present at their sacrifices.”
 </details>

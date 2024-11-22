@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámamaduḥ ← √mad- (root)  
 {number:PL, person:3, mood:IND, tense:PLUPRF, voice:ACT}
 
@@ -174,11 +177,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Parāśara**, the destroyer of hundreds (of **rākṣasas**), and **Vasiṣṭha** they who, devoted to you, haveglorified you in every dwelling, neglect not the friendship of you (their) benefactor; therefore prosperous daysdawn upon the pious.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The destroyer: śatayātu, that is, **śakti**, the son of Vasiṣṭha, the father of Parāśara(**Viṣṇu Purāṇa** 8.4)
 </details>

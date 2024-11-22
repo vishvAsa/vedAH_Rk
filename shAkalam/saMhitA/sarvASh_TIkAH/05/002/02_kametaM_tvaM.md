@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etám ← eṣá (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Young mother, what boy is this whom you, (become) a malevolent spirit, foster? The mighty (**queen**) has given him birth; the embryo has thrived through many years; I have seen him born as the mother brought him forth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The allusion to the product of fire by attrition is blended with reference to the circumstances narrated in the legend described in the notes of the previous verse
 </details>

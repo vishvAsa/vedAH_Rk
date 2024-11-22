@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 janitā́rā ← janitár- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -171,7 +174,8 @@ stómāsaḥ ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the prayers that are prepared to you reach you, **Indra** and **Viṣṇu**; may the praises that are chanted reach you; you are the genitive rators of all praisses, pitchers recipient of the **Soma** libation.”
 </details>

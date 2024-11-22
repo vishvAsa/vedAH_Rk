@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -135,7 +138,8 @@ stotā́ram ← stotár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be exhilarated bodily (by drinking) of the libation which we offer for the sake of ample wealth; expose not your adorer to reproach.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -178,7 +181,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Aditi**, the mother of royal song, plural ce us beyond the malice (of our enemies); may **Aryaman** lead us by easy paths, and may we, blessed with many descendants, and safe from harm, attain the great happiness of **Mitra** and **Varuṇa**.”
 </details>

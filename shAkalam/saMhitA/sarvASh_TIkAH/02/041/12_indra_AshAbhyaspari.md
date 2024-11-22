@@ -22,14 +22,17 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́śābhyaḥ ← ā́śā- (nominal stem)  
 {case:ABL, gender:F, number:PL}
 
@@ -123,7 +126,8 @@ vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let **Indra**, the beholder of all, the conqueror of foes, send us security from all quarters.”
 </details>

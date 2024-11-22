@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -189,7 +192,8 @@ svābhúvaḥ ← svābhū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, divine **Indra**, who are yours, are they, hero, who are praising you and offering rich libations; grantto (your) pious (worshippers) an excellent abode; and may they, prosperous, attain old age.”
 </details>

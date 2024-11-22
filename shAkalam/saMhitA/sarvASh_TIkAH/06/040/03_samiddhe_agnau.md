@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnaú ← agní- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ yāhi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fire is kindled; the **Soma**, **Indra**, is effused let your vigorous horses bring you hither; I invoke yo, Indra, with a mind wholly devoted to you; come for our great prosperity.”
 </details>

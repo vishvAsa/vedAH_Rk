@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,7 +193,8 @@ yā́su ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May these laudatory words, these eulogistic verses, these voices (proceeding) from us, reach him thegiver of wealth, **Jātavedas**; these wealth- desiring (words) in which when they are perfected, the perfecterdelights.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryaman ← áryaman- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ yáchata ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aryaman**, **Mitra** and **Varuṇa**, easy is the path (you show us), and free from thorns, and plural asant; therefore, **Ādityas** (lead us) by (it); speak to us favourably, and grant us happiness difficult to be disturbed.”
 </details>

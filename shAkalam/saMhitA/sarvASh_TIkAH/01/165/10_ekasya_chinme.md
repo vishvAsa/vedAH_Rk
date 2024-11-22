@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -220,7 +223,8 @@ yā́ni ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**): May the prowes of me alone be irresistible; may I quickly accomplish whatever I contemplate in my mind; for verily, **Maruts**, I am fierce and sagacious and to whatever (objects) I direct (my thoughts), of them I am the lord, and rule (over them).”
 </details>

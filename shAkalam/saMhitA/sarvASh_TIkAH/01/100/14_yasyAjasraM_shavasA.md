@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ájasram ← ájasra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -183,11 +186,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, of whom the excellent measure (of all things), through strength, eternally and everywhere cherishes heaven and earth, propitiated by our acts, convey us beyond (evil); may **Indra**, associated with the **Maruts**, be our protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Śavasā**-mānam, the distributor of all things, through his power, i.e. he is the prototype of everything endued with vigour
 </details>

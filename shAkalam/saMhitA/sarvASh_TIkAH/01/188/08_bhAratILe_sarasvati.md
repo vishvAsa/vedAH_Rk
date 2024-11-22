@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhā́rati ← bhā́ratī- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -133,11 +136,13 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bhāratī**, Iḷā, **Sarasvatī**, I invoke you all, that you may direct us to prosperity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhāratī, the goddess presiding over the heaven; Iḷā, the goddess presiding over the earth; Sarasvatī, the goddess presiding over the firmament; they are all three considered to be special manifestations of the majesty of the sun: etis **tisra** ādityaprabhāva viśeṣarūpa ityāhuḥ
 </details>

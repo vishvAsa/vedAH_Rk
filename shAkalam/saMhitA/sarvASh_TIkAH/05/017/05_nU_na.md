@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -189,11 +192,13 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Quickly, (**Agni**, give us) desirable (wealth), such as the devout, combining with (pious) praise, (obtain); son of strength (be favourable) to (my) desires; protect us (from calamity); be alert for our prosperity; come for our success in battles.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be alert for our prosperity: śagdhi svastaye: i.e., yace, I ask for; or, it may mean, śakto **bhava**, be able
 </details>

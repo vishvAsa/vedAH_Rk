@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -169,11 +172,13 @@ yāvayasva ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Render transitory the riches of those who partake of enjoyment without giving satisfaction (to those who are eminent) by holy hymns; put apart from the sun those who perform not sacred rites, and who, though prospering in their posterity, are the adversaries of prayer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Put apart from the sun: sūryād yavayasva, make them separate, condemn them to darkness
 </details>

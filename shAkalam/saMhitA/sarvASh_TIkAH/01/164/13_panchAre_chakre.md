@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cakré ← cakrá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -199,11 +202,13 @@ sanā́t ← sanā́t (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All beings abide in this five-spoked revolving wheel; the heavily-loaded axle is never heated; its eternal compact nave is never worn away.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Five-spoked wheel: the five seasons; or the cycle of five years
 </details>

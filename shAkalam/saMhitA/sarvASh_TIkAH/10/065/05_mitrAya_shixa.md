@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāśúṣe ← dāśváṁs- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -191,11 +194,13 @@ yáyoḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship the liberal **Mitra** and **Varuṇa**, the two royal deities who are never negligent in their thoughts,whose vast body is resplendent through their functions, upon whom the two solicitous worlds (heaven and earth)remain (dependent).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Their functions: of illuminating the world; two solicitous worlds: nādhasi = solicitous; or,abounding in gods and men
 </details>

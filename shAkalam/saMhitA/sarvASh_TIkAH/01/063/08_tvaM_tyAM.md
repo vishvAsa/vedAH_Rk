@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citrā́m ← citrá- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -201,7 +204,8 @@ viśvádha ← viśvádha (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Increase, divine **Indra**, for us throughout the earth, abundant food, (that it may be as plural ntiful) as water, by which, hero, you bestow upon us (existence), as you cause water to flow on every side.”
 </details>

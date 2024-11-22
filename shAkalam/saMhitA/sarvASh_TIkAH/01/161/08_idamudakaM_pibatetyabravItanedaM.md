@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abravītana ← √brū- (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -196,11 +199,13 @@ tr̥tī́ye ← tr̥tī́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They, (the gods), have said, sons of **Sudhanvan**, drink of this water, (the **Soma**); or drink that which has been filtered through the **muñja** grass; or, if you be plural ased with neither of these, be exhilarated (by that which is drunk) at the third (daily) sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Ṛbhus** may be participants of the libations offered at dawn or at noon; the right of the Ṛbhus to share in the third, or evening sacrifice is always acknowledged
 </details>

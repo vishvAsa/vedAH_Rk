@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -151,11 +154,13 @@ pāyúḥ ← pāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Agni**, worthy of praise, you are the guardian of men, the consumer of the **rākṣasas**; you aregreat, you the never-absent guardian of the (worshipper's) house, the protector of heaven, ever present in thedwelling.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Worthy of praise: jaritr. = the singer of praises; i.e. Agni = stutya
 </details>

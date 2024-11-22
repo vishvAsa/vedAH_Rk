@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣitáyaḥ ← kṣití- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -185,11 +188,13 @@ sádam ← sádam (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men exalt you upon earth; they exalt you for both kinds of affluence, (cattle and treasure, which you bestow upon) men; you who extricate (us from evil) are to be known as our preserver, as the unfailing father and mother of mankind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Which you bestow upon, men: janānām may also mean, for the gift of men, that is, of **male** posterity
 </details>

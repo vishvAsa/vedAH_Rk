@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ántam ← ánta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine, **Agni**, may the (sacrificial) food, the vast yielder (of benefits to men), the sustainer of riches, support the utmost of your vigour; and do you considering (the means of acquiring) great riches, like a thief keeping concealed the article (he has stolen), be propitious to **Atri**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like a thief: the implication may be that wealth bestowed upon the ṛṣi is deposited in a secure receptacle, like the hidden booty of a thief, padam na tayur guham dadhānaḥ
 </details>

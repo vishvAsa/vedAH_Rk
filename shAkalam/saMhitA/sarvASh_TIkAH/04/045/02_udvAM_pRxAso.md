@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īrate ← √r̥- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -187,7 +190,8 @@ tanvántaḥ ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your food-bearing, **Soma**-laden, well-horsed chariots, appearing at the opening of the dawn, scattering the surrounding darkness like the sun, and spreading bright radiance over the firmament.”
 </details>

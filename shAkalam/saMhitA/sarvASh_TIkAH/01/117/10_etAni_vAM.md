@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etā́ni ← eṣá (pronoun)  
 {case:NOM, gender:N, number:PL}
 
@@ -187,7 +190,8 @@ yātám ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Liberal givers, these your exploits are to be celebrated, and the resounding prayer propitiates you while abiding in heaven and earth; when the descendants of Pajra invite you, **Aśvins**, come with food, and grant strength to the sage (who worships you).”
 </details>

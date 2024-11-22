@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gíraḥ ← gír- ~ gīr- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -160,7 +163,8 @@ saparyataḥ ← √sapary- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine heaven and earth adore that vigour of his, which our hymns augment, the appropriator of the riches of the foe.”
 </details>

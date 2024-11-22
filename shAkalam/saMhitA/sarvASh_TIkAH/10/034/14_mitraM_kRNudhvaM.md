@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 khálu ← khálu (invariable)  
 {}
 
@@ -216,11 +219,13 @@ prásitau ← prásiti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be friends with us (dice); bestow upon us happiness; approach us not in terrible wrath; let your angerlight upon our enemies; let our enemy fall under the bondage of the tawny (dice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let your anger light upon ourenemies: let your hostile wrath against us settle down, i.e., grow calm, cease
 </details>

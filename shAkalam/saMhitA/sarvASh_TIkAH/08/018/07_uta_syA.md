@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 dívā ← dívā (invariable)  
 {}
 
@@ -163,7 +166,8 @@ srídhaḥ ← srídh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the monitress **Aditi** come to us, for our prosecution by day; may she grant us tranquil felicity, andlive away, (our) enemies.”
 </details>

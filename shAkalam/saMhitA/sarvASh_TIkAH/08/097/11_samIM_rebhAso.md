@@ -23,16 +23,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 asvaran ← √svar- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -175,11 +178,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The Rebhas have together praised **Indra** that he may drink the **Soma**; when (they praise) the lord ofheaven that he may wax strong (by the oblations), then he, observant of pious rites, is united to his strength andhis protecting guards.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 United: by the praises of the worshippers he acquires strength, and the **Maruts** are hisguards
 </details>

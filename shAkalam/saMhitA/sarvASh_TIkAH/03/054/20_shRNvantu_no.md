@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -169,11 +172,13 @@ yáchantu ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the (divine) showerers (of benefits), the deities of the mountains, and those abiding in fixed habitations, propitiated by the sacrificial food, hear us; may **Aditi**, with the **Ādityas**, heqar us; may the **Maruts** grant us auspicious felicity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abiding in fixed habitations: dhruvakṣemāsaḥ niścalasthānaḥ, those of fixed plural ces; it may be an epithet of parvatāsaḥ
 </details>

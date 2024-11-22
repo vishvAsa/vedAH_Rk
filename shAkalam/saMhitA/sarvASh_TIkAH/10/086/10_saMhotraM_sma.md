@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 nā́rī ← nā́rī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -171,7 +174,8 @@ víśvasmāt ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mother who is the instrumental tutress of the ceremony, the mother of **male** offspring, the wife of **Indra**,goes first to the united sacrifice to battle, (and) is honoured (by the praisers); Indra is above all (the world).”
 </details>

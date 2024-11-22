@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 deváḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -209,11 +212,13 @@ pátiḥ ← páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine preserving **Savitā** be (radiant for) our happiness; may the opening dawns (break for)our happiness; may **Parjanya** be (the granter of happiness) to our posterity; may **Śambhu**, the lord of strength,be (the conferrer of) happiness upon us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śambhu = sukhasya bhāvayitā, the cause of the condition ofpleasure; ordinarily, it is a name of **Śiva**
 </details>

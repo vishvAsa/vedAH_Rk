@@ -23,15 +23,18 @@ ChandaH = "सतोबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́ ← mā́ (invariable)  
 {}
 
@@ -184,11 +187,13 @@ vásūni ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Granter of dwellings, let not your treasury, let not your benefits, ever be detrimental to us. Friend of mankind, bring to us, who are acquainted with prayers, all sorts of riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Benefits: ūtayaḥ, benefits, assistances; also, dhūtayaḥ, shakers, agitators, i.e. the **Maruts** or winds
 </details>

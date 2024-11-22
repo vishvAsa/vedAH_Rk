@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -157,11 +160,13 @@ sácemahi ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine (leader of heaven), these (worshippers) are yours, and (so are they) who praise these (other gods); these (borth) we associate with opulence, we (seek) to unite with (our) desires.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Te **rāyā** hi a pṛce sacemahi sacathyai = te ubhaye dhanena sacemahi te hi te aparcaniyaḥ sarvaiḥ kāmaiḥ saṅgacchemahi
 </details>

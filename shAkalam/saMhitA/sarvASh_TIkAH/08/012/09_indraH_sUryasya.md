@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ vāvr̥dhe ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, with the rays of the sun, utterly consumes his adversary; like fire (burning) the forests, hespreads victorious.”
 </details>

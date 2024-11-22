@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákavābhiḥ ← ákava- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -190,11 +193,13 @@ yúdhyantaḥ ← √yudh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Indra**, who are all-pervading, be a friend, and a protector with irreproachable protections for our prosperity; when warring in number-thinning conflicts, we invoke you for the acquisition of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When warring: yudyanto nemadhitā pṛtsu: **nema** = **ardha**, a half; or, some, katipayāḥ **puruṣā** dhīyanta eṣu, in those battles, pṛtsu, in which some men are engaged or killed;
 

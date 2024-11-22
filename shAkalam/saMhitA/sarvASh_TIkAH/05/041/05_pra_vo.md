@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bharadhvam ← √bhr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -200,7 +203,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, do you bring wealth comprising horses; to acquire and preserve riches the wise man offers you praise; may the ministrant priest, (**Atri**), of the son of Uśij (**Kakṣīvat**), be made happy by those swift-going (horses) which are the swift-going (horses), Maruts, of you who are rapid in motion.”
 </details>

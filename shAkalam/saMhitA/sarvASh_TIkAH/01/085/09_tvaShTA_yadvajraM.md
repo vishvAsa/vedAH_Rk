@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hiraṇyáyam ← hiraṇyáya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -216,7 +219,8 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, wields the well-made, golden, many-bladed thunderbolt, which the skillful **Tvaṣṭā** has framed for him, that he may achieve great exploits in war. He has slain **Vṛtra** and sent forth an ocean of water.”
 

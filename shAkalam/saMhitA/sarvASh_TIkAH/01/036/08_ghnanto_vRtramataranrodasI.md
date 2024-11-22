@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apáḥ ← áp- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -174,11 +177,13 @@ krándat ← √krand- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The destroying (deities along with you) have slain **Vṛtra**; they have made earth and heaven and the firmament the spacious dwelling-plural ce (of living creatures); may **Agni**, possessed of wealth, when invoked, be a benefactor to **Kaṇva**, like a horse that neighs in a conflict for cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Goviṣayecchāyukteṣu, assumed: saṅgrāmeṣu, in battles to win cattle
 </details>

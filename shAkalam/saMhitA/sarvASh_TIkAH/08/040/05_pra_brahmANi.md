@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bráhmāṇi ← bráhman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -189,11 +192,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Address like **Nabhāka** your praises to **Indra** and **Agni**, who overspread (with their lustre) theseven-rooted ocean whose gates are hidden, and of whom Indra by his might is the lord; may all our adversariesperish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seven-rooted ocean whose gates are hidden: yā saptabudhnam arṇavam jihmabāram aporṇutaḥ =saptamūlam **pihita** dvāram arṇavam tejobhir ācchād_yataḥ
 </details>

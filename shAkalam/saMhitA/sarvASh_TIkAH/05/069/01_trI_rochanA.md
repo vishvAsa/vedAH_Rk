@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyū́n ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -176,11 +179,13 @@ vratám ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, you uphold the three realms of light, the three heavens, the three regions (of the earth), augmenting the force of the vigorous (**indra**) and protecting the imperishable rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Augmenting the force of the vigorous Indra: vāvṛdhānau amatim kṣatrīyasya: amati = **rūpa**;
 

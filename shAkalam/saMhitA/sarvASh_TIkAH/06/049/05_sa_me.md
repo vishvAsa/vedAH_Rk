@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aśvínoḥ ← aśvín- (nominal stem)  
 {case:GEN, gender:M, number:DU}
 
@@ -192,7 +195,8 @@ yātháḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that splendid car of the **Aśvins**, which is harnessed at a thought, clothe my form (with radiance); that (car) with which, **Nāsatyās**, leaders of (rites), you go to the dwelling (of the worshipper) to fulfil his desires for his posterity and himself.”
 </details>

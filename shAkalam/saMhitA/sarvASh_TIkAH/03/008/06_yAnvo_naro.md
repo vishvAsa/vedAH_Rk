@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devayántaḥ ← √devay- (UNK_TYPE)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -174,7 +177,8 @@ rátnam ← rátna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those (**posts**) which devout men have cut down, or which, **Vanaspati**, the axe has trimmed, may they standing resplendent with all their parts (entire) bestow upon us wealth with progeny.”
 </details>

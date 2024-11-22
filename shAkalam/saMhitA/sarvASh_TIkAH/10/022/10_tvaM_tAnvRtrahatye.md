@@ -23,15 +23,18 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 codayaḥ ← √cud- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
 
@@ -156,11 +159,13 @@ viśā́m ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, **Indra**, wielder of the thunderbolt, you have animated those chiefs (the **Maruts**) to the slaughterof **Vṛtra** in battle, when (you hear) the mystical (praises) of the sages, the worshippers praising the might of theconstellations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nakṣatraśavasām = armies of raisers approaching the gods
 </details>

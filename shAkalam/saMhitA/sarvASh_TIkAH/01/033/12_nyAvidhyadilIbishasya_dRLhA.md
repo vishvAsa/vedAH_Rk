@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āvidhyat ← √vyadh- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -180,7 +183,8 @@ vájreṇa ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** set free (the waters) obstructed by (**Vṛtra**), when sleeping in the caves of the earth, and slew the horned dryer up (of the world). You, **Maghavan**, with equal swiftness and strength, did kill with your thunderbolt the enemy defying you to battle.”
 </details>

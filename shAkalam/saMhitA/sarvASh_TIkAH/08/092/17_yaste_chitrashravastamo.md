@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 citráśravastamaḥ ← citráśravastama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -127,7 +130,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** of yours, **Indra**, which is most widely renowned, most destrucive of your enemies, and mostrenovating to your strength.”
 </details>

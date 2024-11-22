@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ r̥cyámānā ← √r̥c- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Reciting (his praise, the worshipper) calls aloud, that by the sound he may reach the ears of **Indra**, although abiding afar off; may this invocation of the deity, inducing, him (to come), bring Indra to my presence.”
 </details>

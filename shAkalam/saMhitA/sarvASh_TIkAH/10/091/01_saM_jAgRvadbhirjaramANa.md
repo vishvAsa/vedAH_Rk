@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 idhyate ← √idh- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
 
@@ -177,10 +180,12 @@ vibhúḥ ← vibhú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 10.091.01 Damūnas, being glorified by his diligent (worshippers), desiring food upon the footmark of Iḷā, iskindled in the chamber (of sacrifice), the offerer of every oblation, the object of veneration, the lord, theresplendent, to him who desires his friendship.
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Damūnas: an epithet of **Agni**; genitive rous or submissive
 </details>

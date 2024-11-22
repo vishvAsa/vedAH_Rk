@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 gopā́ḥ ← gopā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -207,7 +210,8 @@ vásyaḥ ← vásyaṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Soma**, you are the guardian of our bodies, you dwell in each limb as the beholder of man; though weimpair your rites, yet, divine one, bless us, you who are possessed of most excellent food and good friends.”
 </details>

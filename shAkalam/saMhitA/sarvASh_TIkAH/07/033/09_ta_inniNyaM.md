@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hŕ̥dayasya ← hŕ̥daya- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -181,11 +184,13 @@ vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By the wisdom seated in the heart the **Vasiṣṭhas** traverse the hidden thousand branched world, andthe **Apsarasas** sit down wearing the vesture spread out by **Yama**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The hidden thousand-branched world: niṇyamsahasravalśam abhisañcaranti, they completely go over the hidden, tirohitam, or durjñānam, ignorant,**sahasra** valśam, thousand-branched, that is, saṃsāram, the revolving world of various living beings, or thesuccession of many births; the allusion is to the repeated births of **Vasiṣṭha**, who is the first of the **Prajāpatis**,or mind-born sons of **Brahmā**, who is the son of **Urvaśī**; hṛdayasya praketaiḥ prajñānaiḥ, internalconvictions or knowledge; this may imply the detachment of Vasiṣṭha or his sons from the world. The **apsaras** sitdown: yamena tatam paridhim vayanto **apsarasa** upasedur vasiṣṭhāḥ: te vasiṣṭhāḥ, those vasiṣṭhas or thatvasiṣṭha;
 

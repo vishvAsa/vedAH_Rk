@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kathā́ ← kathā́ (invariable)  
 {}
 
@@ -210,7 +213,8 @@ yauṣṭam ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “How **Vimanas** once praised you, and you gave him understanding for the attainment of excellent wealth!**Viśvaka** now invokes you for the sake of his son; sever not our friendships, but fling loose (your reins and gallophere).”
 </details>

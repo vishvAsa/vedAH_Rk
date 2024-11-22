@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ vácasā ← vácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whereupon **Maghavan** has destroyed with his thunderbolt at once his (**Śambara**'s) ninety and nine cities; the **Maruts** glorifying **Indra** in a common dwelling with the **Triṣṭubh** hymn, he destroyed the bright (city of the **asura**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cities: the text has bhogān = cities, bhogān ityantodāttaḥ puravācanaḥ
 </details>

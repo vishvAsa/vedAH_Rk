@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 adāt ← √dā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -192,11 +195,13 @@ tirante ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the cow-toned, the goat-toned, the speckled, the green (frog, severally) grant us riches! May thefrogs in the fertilizing (season of the rain), bestowing upon us hundreds of cows, prolong (our) lives!”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In thefertilizing season of the rain: sahasrasāve = the genitive rator of thousands of plural nts, grains and the like
 </details>

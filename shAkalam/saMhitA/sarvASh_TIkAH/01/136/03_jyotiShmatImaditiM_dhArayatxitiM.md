@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditim ← áditi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -234,11 +237,13 @@ yātayájjanaḥ ← yātayájjana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Your worshipper) has prepared ground (for tha altar), free from defect, radiant (with sacrificial fire), and conferring heaven; come to it together every day, you who are vigilant; every day (at sacrifices) receive invigorated energy (by coming hither), sons of **Aditi**, lords of munificence; of those two, **Mitra** is the animator of mankind, and so is **Varuṇa**; **Aryaman** (likewise) is the animator of mankind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The animator of mankind: yātayaj-**janaḥ**, by whom men are being impelled to exertion, or incited to the discharge of their respective functions; as applied to Aryaman, in the repetition, it may imply one by whom the irreligious, or those not performing religious worship, may be cast into the infernal regions, yātyāmānaḥ nipatyamānaḥ narake
 </details>

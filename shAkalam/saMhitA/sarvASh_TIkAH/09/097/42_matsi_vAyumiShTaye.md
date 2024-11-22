@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -173,7 +176,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Exhilarate **Vāyu** for (our) food and wealth, exhilarate **Mitra** and **Varuṇa** as soon as you are filtered; exhilarate the company of the **Maruts**, exhilarate the gods, exhilarate heaven and earth, divine **Soma**.”
 </details>

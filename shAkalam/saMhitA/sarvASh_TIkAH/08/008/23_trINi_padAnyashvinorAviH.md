@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínoḥ ← aśvín- (nominal stem)  
 {case:GEN, gender:M, number:DU}
 
@@ -146,11 +149,13 @@ pári ← pári (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The three wheels (of the chariot) of he **Aśvins**, which were invisible, have become manifest; do youtwo, who are cognizant of the past, (come) by the paths of truth to the presence of living beings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Paths of truth:patmabhir = padair, wheels;
 

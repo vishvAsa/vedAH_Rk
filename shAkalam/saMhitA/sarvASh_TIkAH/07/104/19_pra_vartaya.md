@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áśmānam ← áśman- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ rakṣásaḥ ← rakṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hurl, **Indra**, your thunderbolt from heaven; sanctify, **Maghavan**, (the worshipper) sharpened by theSoma; slay with the thunderbolt the **rākṣasas**, on the eas, on the west, on the south, on the north.”
 </details>

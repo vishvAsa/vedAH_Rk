@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhujé ← bhúj- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -210,11 +213,13 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Consume, afluent **Indra**, (the foe that is) like you (in might); praised on this occasion, do you who arethe drinker of the libation be favourable to our advancement. May **Savitā**, with the gods, defend our sacrifice;we long for the universal **Aditi**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aditi: sarvatāti = all; or, all-pervading, from tai, to extend
 </details>

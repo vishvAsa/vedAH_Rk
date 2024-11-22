@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -209,11 +212,13 @@ páśyan ← √paś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He verily knows the threads of the warp and or the woof, he speaks in due season what is to be said, who comprehends all this (universe); who is the protector of ambrosial water, sojourning both above and below, and contemplating (the world) under a different (manifestation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Contemplatingthe worlds: or, as the sun, while upon earth **Agni** or **vaiśvānara** is manifest as fire
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imā́ḥ ← ayám (pronoun)  
 {case:NOM, gender:F, number:PL}
 
@@ -157,11 +160,13 @@ stómaiḥ ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**), abounding in wealth, may these my praises magnify you; the brilliant pure sages glorify you withhymns.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pāvakavarṇa = agnisamānatejasaka, radiant as **Agni**; the **devatā** of the **sūkta** may be **Āditya**
 </details>

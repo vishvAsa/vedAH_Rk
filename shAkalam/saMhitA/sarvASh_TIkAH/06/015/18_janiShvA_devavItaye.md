@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devávītaye ← devávīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -145,7 +148,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be born, **Agni**, at the sacrifice, for the welfare of the offerer (of oblation) to the gods; bring hither the immortal deities, the augmenters of the (sacred) rite present our sacrifice to the gods.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śriyé ← śrī́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -201,7 +204,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, (**Indra**), who are radiant in heaven, spread through the regions, for the good (of mankind), those the beautiful (waters) of the unyielding cloud; doer of good deeds, you are the preserver (of men), not (destined) for their detriment; you are superior to all delusions; you names abides in the world of truth.”
 </details>

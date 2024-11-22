@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāsomā ← índrāsóma- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -166,7 +169,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Soma**, you have led on the dawns; you have upraised the sun with his splendour, you have propped up the sky with he supporting pillar (of the firmament); you have spread out the earth, the mother (of all).”
 </details>

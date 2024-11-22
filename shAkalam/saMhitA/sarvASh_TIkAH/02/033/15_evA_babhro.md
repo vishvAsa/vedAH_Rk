@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 babhro ← babhrú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Cherisher of the world, showerer (of benefits), omniscient and divine (**Rudra**), hearer of our invocation, so consider us on this occasion, that you may not be irate, nor slay us; but that, blessed with excellent descendants, we may worthily glorify you at this sacrifice.”
 </details>

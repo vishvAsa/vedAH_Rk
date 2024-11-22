@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -179,7 +182,8 @@ vájrabāhuḥ ← vájrabāhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(That **Indra**), who repairs to the suppliant or (his) protection, to the sage in this manner invoking and praising him; he who, armed with the thunderbolt, plural ces, of his own accord, hundred and thousands of swift-going (horses) in the shafts (of their cars).”
 </details>

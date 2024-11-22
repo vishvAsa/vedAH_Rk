@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -214,7 +217,8 @@ véḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What objection (can be offered) to this my assertion, that they affirm that the milk of the kine, which (the milkers) obtain like water, is plural ced in concealment (by **Vaiśvānara**), and cherishes the excellent and valued expanse of the wide earth.”
 </details>

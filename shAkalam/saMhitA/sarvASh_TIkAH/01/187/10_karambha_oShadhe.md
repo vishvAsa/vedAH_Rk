@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhava ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -129,11 +132,13 @@ vā́tāpe ← vātāpi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vegetable cake of fried meal, do you be substantial, wholesome, and invigorating; and, Body, do you grow fat.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vegetable cake of fried meal: **karambha** oṣadhe: karambha = a lump or cake of parched meal, **śaktu** **piṇḍa**, identified with a herb or vegetable, tadātmaka **oṣadhiḥ**
 </details>

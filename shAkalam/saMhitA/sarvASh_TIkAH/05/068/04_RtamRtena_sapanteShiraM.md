@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 r̥tám ← r̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -113,11 +116,13 @@ vardhete ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rewarding with rain the holy rite, they favour the zealous worshipper; benevolent deities, may you prosper.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They favour the zealous worshipper: ṛtam ṛtena sapanta iṣiram dakṣam āśāte = **udakena** nimittena yajñam spriśantau eṣanavantam pravṛddham yajamānam havir vā vyāpnutaḥ, they two, for the sake of water touching or affecting the sacrifice, they pervade the inquiring, powerful instrumental tutor of the rite, they reward him; or, it may be, they pervade or accept the efficacious, adequate oblation.
 </details>

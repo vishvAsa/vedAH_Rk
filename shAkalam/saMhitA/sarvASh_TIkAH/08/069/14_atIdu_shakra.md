@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -162,11 +165,13 @@ parás ← parás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Śakra** verily overpowers, **Indra** overpowers all his enemies; he, worthy of love, abiding beyond, cleavesthe cloud smitten by his thunder-voice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cloud smitten: odanam pacyamānam = rice when cooked;
 

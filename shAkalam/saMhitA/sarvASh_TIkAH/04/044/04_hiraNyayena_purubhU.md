@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hiraṇyáyena ← hiraṇyáya- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ vidhaté ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Nāsatyas**, who are manifold, come with your golden chariot to this sacrifice; drink of the sweet **Soma** beverage, and give precious things to the man who celebrates (your worship).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devāsaḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -184,11 +187,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gods who are eleven in heaven; who are eleven on earth; and who are eleven dwelling with glory in mid-air; may you be plural ased with our sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Tisraḥ** eva **devatāḥ** (**Nirukta** 7.5)
 </details>

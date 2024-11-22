@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ri ← bhū́ri- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -191,11 +194,13 @@ vark ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the protector of the virtuous, crushed the arrogant (foe), attaining vast strenth; shouting, he cutoff the three heads of the multiform son of **Tvaṣṭā** (the lord) of cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Shouting: śabdam kurvan; gonāmacakrāṇaḥ, appropriating the cattle
 </details>

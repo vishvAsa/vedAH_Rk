@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhava ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -180,7 +183,8 @@ saraṇyán ← √saraṇy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Slayer of **Vṛtra**, do you, who is long lived the showerer (of benefits), the giver of food, be the lord of our true praises, repairing (to the sacrifice), come to us great, with great, friendly, and auspicious protections.”
 </details>

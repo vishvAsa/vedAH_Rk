@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ávaḥ ← ávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -178,7 +181,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** is the fulfiller of pious acts, the glorifier of all, the guardian of the offerers of libations, theauspicious forethought, for his libation the divine pitcher is filled (with **Soma**). We long for the universal **Aditi**.”
 </details>

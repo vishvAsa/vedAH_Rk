@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 háriḥ ← hári- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -118,7 +121,8 @@ yáśaḥ ← yáśas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The delightful green-tinted (juice) flows with rapidity into the crooked (pitchers); bringing the worshippers, food and **male** offspring.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámavat ← ámavant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -153,7 +156,8 @@ vr̥traghné ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Overpowering is the might of these two; the bright (lightning) is shining in the **hands** of **Maghavan**, as they go toether in one chariot for the (recovery of the) cows and the destruction of **Vṛtra**.”
 </details>

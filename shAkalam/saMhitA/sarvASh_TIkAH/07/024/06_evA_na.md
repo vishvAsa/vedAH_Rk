@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -191,7 +194,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In this manner, **Indra**, satisfy us (with the gift) of desirable (wealth); may we repeatedly experience yougreat giver; bestow upon us who are opulent (in offerings) food with **male** descendants; do you ever cherish uswith blessings.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -137,11 +140,13 @@ vīryàm ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, illuminators of heaven, be ever graced (with victory) in battles, for such your prowess proclaims.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 All the hymns of this **Sūkta** are found in the **Sāmaveda**
 </details>

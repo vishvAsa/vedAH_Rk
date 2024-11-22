@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhmaṇaḥ ← bráhman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -161,11 +164,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Brahmaṇaspati** approach us; may the goddess, speaker of truth, approach us; may the gods (drive away) every adversary, and present, conduct us to the sacrifice which is beneficial to man, and (abounds) with respectably-presented offerings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Devi** sunṛtā = goddess of speech or vāk **devatā**; she is priyasatyarūpa, lover of truth, a form of **Sarasvatī**
 </details>

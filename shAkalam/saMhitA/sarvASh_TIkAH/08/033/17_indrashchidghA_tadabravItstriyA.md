@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abravīt ← √brū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -151,11 +154,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily **Indra** said that the mind of a woman is not to be controlled, he declared also that her intellect wassmall.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mind of a woman: the legend: **Asaṅga**, the son of plural **yoga**, the patron of the ṛṣi, has been changed to awoman
 </details>

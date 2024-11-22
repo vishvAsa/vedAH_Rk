@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ihá ← ihá (invariable)  
 {}
 
@@ -186,11 +189,13 @@ vratā́ ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the praised of many, associated with **Ṛbhu**, and with **Vāja**, exult with **Śaci**, at this our sacrifice; these self-revolving (days) are devoted to you, as well as the ceremonies (addressed) to the gods, and the virtuous acts of man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śaci = **karman**, act, rite
 </details>

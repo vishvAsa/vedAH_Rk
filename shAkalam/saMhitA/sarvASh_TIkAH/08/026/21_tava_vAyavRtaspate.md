@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥taspate ← r̥taspati- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -112,11 +115,13 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit your protection, **Vāyu**, lord of sacrifice wonderful son-in- law of **Tvaṣṭā**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tvaṣṭā: i.e.**Brahmā**; or, Vāyu, the wind, having taken water from **Āditya**, fertilizes it, as rain, and is, therefore, as it were,his son-in-law, identifying Tvaṣṭā with Āditya (**Yajus**. 27.34)
 </details>

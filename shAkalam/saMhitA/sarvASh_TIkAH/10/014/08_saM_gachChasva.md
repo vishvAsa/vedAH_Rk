@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gachasva ← √gam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -185,11 +188,13 @@ tanvā̀ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be united with the **Pitṛs**, with **Yama**, and with the fulfilment of your wishes in the highest heaven;discarding iniquity, return to your abode, and unite yourself to a luminous body.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This and previous ṛca areaddressed to the spirit of a dying person n
 </details>

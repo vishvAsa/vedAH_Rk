@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryavaḥ ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -218,11 +221,13 @@ vástraiḥ ← vástra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, offer this libation, which, like the wind in the firmament, (is the cause of rain), to him who slew Dṛbhīka, destroyed **Bala**, andliberated the cows; heap **Indra** with **Soma**, as an old man (is covered) with garments.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dṛbhīka, an **asura**
 </details>

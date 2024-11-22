@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apaśyat ← √paś- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -202,7 +205,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where is that hero? who has seen **Indra** seated in his easy chariot travelling with his horses, the thunder, the invoked of many, who, desirous of the libation is proceeding with riches to the habitation (of his worshipper) for his preservation?”
 </details>

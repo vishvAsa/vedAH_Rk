@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhadré ← bhadrá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -196,7 +199,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Both the auspicious ones (day and night or two pieces of wood rubbed together to produce flame) wait upon him like two feminine le attendants, as lowing kine (follow their calves) by the paths (that they have gone); he has been the lord of might among the mighty, whom (the priests) on the right (of the altar) anoint.”
 </details>

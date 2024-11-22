@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dhenúm ← dhenú- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -223,11 +226,13 @@ vocam ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the cow that is easily milked, that the handy milker may milk her; may **Savitā** accept this our excellent libation, that his heat may (thereby) increase; it is for this, verily, that I earnestly invoke him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The cow is the cloud, the milk is the rain; **Vāyu** or win, is the milker; the metaphor is continued in the following three hymns, where the calf is the world or mankind anxious for the rain, as the cause of abundance
 </details>

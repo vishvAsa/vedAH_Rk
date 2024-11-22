@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 enam ← ena- (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us glorify that opulent **Indra**, that he may give us vast and valuable riches, he who is the chiefprotector of the religious rites of the worshippers; do you ever cherish us with blessings.”
 </details>

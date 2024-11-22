@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávaḥ ← √avⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
 
@@ -206,11 +209,13 @@ vr̥traháṇam ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, friend of man, mount the horses whom you cherish, who are fleet as the wind, are easily yoked, and who bear (theri burden) well; you have sharpened the foe-destroying thunderbolt, the slayer of **Vṛtra**, which inspiring (weapon) **Uśanas**, the son of **Kavi**, gave you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Which inspiring weapon: The weapon was the gift of **Ṛbhu**;and is also attributed to Uśanas
 </details>

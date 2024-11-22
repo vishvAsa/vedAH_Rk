@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -198,11 +201,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Agni**, whom the earth and heaven, whom the waters, whom **Tvaṣṭā**, the glorious creator,engendered, who are cognizant of the path, the road of the **Pitṛs**, shine brilliantly, being kindled.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pitṛyāṇampitaro yena mārgena gacchanti
 </details>

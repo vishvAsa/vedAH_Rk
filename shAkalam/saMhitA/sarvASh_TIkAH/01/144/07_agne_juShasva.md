@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -202,7 +205,8 @@ sáṁdr̥ṣṭau ← sáṁdr̥ṣṭi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who confers happiness, who accepts oblations, who was born for sacrifice, and are the performer of good works, be plural ased (with this rite), attend to this prayer; for you are in presence of all (the world), are visible (to all), are plural asant in their sight, and are their refuge, like a (bountiful) distributor of food.”
 </details>

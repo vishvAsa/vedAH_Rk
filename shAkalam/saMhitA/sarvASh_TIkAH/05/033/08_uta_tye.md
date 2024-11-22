@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -169,7 +172,8 @@ saśce ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those ten bright homes, the tift to me of the pious gold-possessing **Trasadasyu**, the son of **Purukutsa**, of the raceof Girikṣita, convey me (to the sacrifice) and may I proceed quickly with the rites.”
 </details>

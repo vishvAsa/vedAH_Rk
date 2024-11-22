@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -206,7 +209,8 @@ sú ← sú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, lord of cattle, (divide the clouds and send us) rain, whence nutritious food may come to us; showerer (of benefits), you are spread through the sky, and powerful through truth; **Maghavan**, consider yourself as our protector.”
 </details>

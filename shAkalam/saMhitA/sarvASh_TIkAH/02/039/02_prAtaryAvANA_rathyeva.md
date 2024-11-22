@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -187,7 +190,8 @@ kratuvídā ← kratuvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Moving at dawn like two heroes in a cr; like a pair of goats; like two women lovely inform, or like husband and wife; come together, knowing (how sacred) ites (are to be celebrated) amongst men, (to bestow) happiness (on the worshipper).”
 </details>

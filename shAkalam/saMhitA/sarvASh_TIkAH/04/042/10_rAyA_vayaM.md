@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 madema ← √mad- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
 
@@ -172,11 +175,13 @@ viśvā́hā ← viśvā́hā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, glorifying you both, be delighted by riches; may the gods be plural ased by oblations, the cows by pasture; and do you, **Indra** and **Varuṇa**, daily grant us that same cow, (riches) free from any imperfection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 7.10; free from any imperfection: anapasphurantim = ahiṃsitam, unharmed; or, not going to another, ananyagāminam
 </details>

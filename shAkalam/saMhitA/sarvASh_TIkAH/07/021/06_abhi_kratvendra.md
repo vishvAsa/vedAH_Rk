@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -215,7 +218,8 @@ yudhā́ ← yúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, by your function, preside over the beings (of earth); all the regions (of the world) do notsurpass your magnitude; by thine own strength you have slain **Vṛtra**; no enemy has effected your destruction inbattle.”
 </details>

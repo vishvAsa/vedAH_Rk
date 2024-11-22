@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mā́rutīḥ ← mā́ruta- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -142,11 +145,13 @@ yemire ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, your people, the **Maruts**, were regulated by you, then all existent beings were subject untoyou.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Regulated: or, subdued the world for you, tvadartham niyacchanti bhūtajātāni
 </details>

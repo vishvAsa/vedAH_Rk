@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 napāt ← nápat- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -125,11 +128,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**), who was the offspring of Śṛṅgavṛṣa, of whom the kuṇḍapāyya rite was the protector, (thesages) have fixed (of old) their minds upon this ceremony.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śṛṅgavṛṣa: yas te śṛṅgavṛṣo napātpraṇapātkuṇḍapāyyaḥ = he was, Śṛṅgavṛṣa, your grandson, your great-grandson, Kuṇḍapāyya; alegend is cited: Indra takes upon himself the character of the son of a ṛṣi names Śṛṅgavṛṣa (orŚṛṅgavṛṣan);
 

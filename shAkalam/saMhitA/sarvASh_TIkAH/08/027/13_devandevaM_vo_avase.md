@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávase ← ávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -147,7 +150,8 @@ gr̥ṇántaḥ ← √gr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We would invoke each deity among you (gods) for protection, each deity for the attainment of ourdesires, each deity for the acquisition of food, glorifying you with divine praise.”
 </details>

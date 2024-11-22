@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Present the offering of praise to **Indra**, since he enjoys it; (the priests) augment the ample food of theSoma-loving Indra with their recited hymns, Indra's gifts are worthy of praise.”
 </details>

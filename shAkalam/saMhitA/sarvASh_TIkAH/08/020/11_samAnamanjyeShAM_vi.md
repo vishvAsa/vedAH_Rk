@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 añjí ← añjí- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -120,7 +123,8 @@ r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Their decoration is the same; gold (necklaces) shine (on their breasts), lances gleam upon theirshoulders.”
 </details>

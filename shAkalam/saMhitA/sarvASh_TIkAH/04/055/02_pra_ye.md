@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árcān ← √r̥c- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -184,7 +187,8 @@ rurucanta ← √ruc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (deities) who bestow ancient plural ces (of enjoyment on their worshippers), and (with minds) unperplexed, are the separators of light (from darkness); they, the eternal distributors (of rewards), grant (what is desired), and shine of plural asing aspect, the true (recompensers) of pious actṣ”
 </details>

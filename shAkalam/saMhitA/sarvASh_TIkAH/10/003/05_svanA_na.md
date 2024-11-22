@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhā́māsaḥ ← bhā́ma- 1 (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -167,7 +170,8 @@ várṣiṣṭhebhiḥ ← várṣiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The flames of whom, radiant, vast, bright-shining, go roaring like the winds; who covers the sky withmost excellent, most lustrous, most sportive and most mighty rays.”
 </details>

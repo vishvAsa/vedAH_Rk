@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adruhaḥ ← adrúh- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -164,7 +167,8 @@ várūtham ← várūtha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unoppressive deities, bestow upon us a mansion without defect, so that, subduers (of foes), no onemay injure our defences, whether from afar or near.”
 </details>

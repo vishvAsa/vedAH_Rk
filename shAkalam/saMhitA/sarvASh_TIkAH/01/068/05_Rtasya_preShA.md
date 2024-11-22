@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 dhītíḥ ← dhītí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -114,7 +117,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[5-6\] Praises are addressed to him who has repaired (to the solemnity); oblations (are offered) to him who has gone (to the sacrifice); in him is all sustenance, (and to him) have all (devout person ns) performed (the customary) rites. Do you, **Agni**, knowing (the thoughts of the worshipper), grant riches to him who presents to you oblations, or who wishes (to be able to present them).”
 </details>

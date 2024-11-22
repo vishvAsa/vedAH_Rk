@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áraṁkr̥tiḥ ← áraṁkr̥ti- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -201,7 +204,8 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What satisfaction is there to you from our hymns? When, **Maghavan**, may we indeed present to you(oblations)? I expatiate in all praises addressed to you; hear, **Indra**, these my invocations.”
 </details>

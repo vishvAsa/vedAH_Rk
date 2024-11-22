@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 abhicákṣe ← √cakṣ- (root)  
 {case:DAT, number:SG}
 
@@ -200,11 +203,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun, is the sight of **Mitra** and **Varuṇa**, displays his form (of brightness) in the middle of the heavens, and his rays extend, on one **hand**, his infinite and brilliant power, or, on the other, (by their departure), bring on the blackness of night.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mitra and Varuṇa, by metonymy, refer to the world. His rays: **haritaḥ**, may also mean his horses
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámateḥ ← ámati- (nominal stem)  
 {case:ABL, gender:F, number:SG}
 
@@ -182,11 +185,13 @@ gātuvít ← gātuvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Deliver from us this poverty, hunger and calumny; give us (our desire) by your protection and wondrousworking; O mightiest, you know the right way.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 O **Maghavan**: śaciṣṭha (RV 4.20.9): atiśayena **prajña**; (RV4.43.3): śaktimattara
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 apā́m ← áp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -199,11 +202,13 @@ trivártu ← trivártu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he who is the augmenter of plural nts, the increase of the waters, who rules divine over the wholeearth, bestow upon us a three-storied dwelling and felicity; may he grant us the desired light (of the sun) at thethree (bright) seasons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three-storied dwelling: tridhātu śaraṇam = tribhūmikam gṛham, a house with threeearths, either chambers or floors; trīṇi vā ādityasya tejāṃsi prātagrīṣme madhyandineśaradyaparāhne: **Taittirīya** **Saṃhitā** 2.1.2.5; the desired light: the rays of the sun are said to be mostpowerful at dawn in the spring, at noon in the hot season, and in the afternoon in autumn
 </details>

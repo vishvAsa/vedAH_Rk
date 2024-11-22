@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhinát ← √bhid- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -174,7 +177,8 @@ sáran ← √sr̥- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The subduer of foes, manifesting his energy and hurling his thunderbolt, shattered the mountain by his strength; he slew **Vṛtra** with the thunderbolt, exulting, and the waters whose obstructor was destroyed rushed forth with rapidity.”
 </details>

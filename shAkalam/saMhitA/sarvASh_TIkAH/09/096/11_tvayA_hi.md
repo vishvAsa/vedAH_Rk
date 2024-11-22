@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -203,11 +206,13 @@ vīrébhiḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** **Pavamāna**, by you our ancient and wise progenitors performed their religious rites; harming the foes (yourself) unharmed slay the **rākṣasas** and be liberal in enriching us with **male** offspring and horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yourself unharmed: **avataḥ** = tair, i.e. śatrubhir abhigataḥ
 </details>

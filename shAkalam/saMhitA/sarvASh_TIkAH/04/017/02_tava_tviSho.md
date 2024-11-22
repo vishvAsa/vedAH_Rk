@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyaúḥ ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ saráyante ← √sr̥- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the birth of you who are resplendent, trembled the heaven (and) trembled the earth through fear of your wrath; the mighty clouds were confined; they destroyed (the distress of drought), spreading the waters over the dry plural ces.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhūrṣádam ← dhūrṣád- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ yaṁsate ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The kindler (of the sacrificial fire) propitiates **Agni**, of glistening form; the upholder of your ceremony, like a friend; well kindled and well supplied (with fuel); blazing brightly at holy rites, he illumines our pure and pious observances.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Well kindled: **akraḥ** = from kram, to go= **akranta** or anukrānta, surpassed or exceeded by; **jvālā** samidādibhiḥ, flame, fuel and the like
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 bíbhratam ← √bhr̥- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -126,7 +129,8 @@ sukr̥tyáyā ← sukr̥tyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By sacred rites we solicit (wealth) of you, auspicious, bearing wealth, abiding in the regions of the vast heaven.”
 </details>

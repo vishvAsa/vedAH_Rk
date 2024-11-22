@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cátuṣkapardā ← cátuṣkaparda- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -174,11 +177,13 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The quadrangular (altar) youthful, handsomely decorated, bright with oblation, clothes herself in piousrites; the two birds, the showerers of oblations, have sat down thereon where the gods receive their share.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Twobirds: the husband and wife, or the **yajamāna** and the **brāhmaṇa**
 </details>

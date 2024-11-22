@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avardhan ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -177,7 +180,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the praises of Gaurivīti exalt you; you have humbled Pipru for the son of Vidathin; Ṛjiśvan preparing dressed viands, has, through your friendship brought you (to his presence), and you have drunk of his libation.”
 </details>

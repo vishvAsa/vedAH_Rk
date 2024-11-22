@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mandrásya ← mandrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -180,11 +183,13 @@ uśántam ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise (worshippers) know the form of the exhilarating **Soma**-juice, the food that the falcon brought from afar; they cleanse in the waters the fostering (Soma) delighting (the gods), flowing around, and deserving laudation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The falcon brought from far: a bird in the form of **gāyatrī** brought it from heaven
 </details>

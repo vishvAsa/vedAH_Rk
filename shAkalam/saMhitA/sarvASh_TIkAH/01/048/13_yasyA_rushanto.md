@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcáyaḥ ← arcí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -165,7 +168,8 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that Uṣas whose bright auspicious rays are visible all around, grant us desirable, agreeable, and easily-attainable riches.”
 </details>

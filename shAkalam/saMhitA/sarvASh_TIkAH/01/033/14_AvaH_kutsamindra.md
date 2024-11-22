@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́vaḥ ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -180,11 +183,13 @@ tasthau ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, have protected **Kutsa**, grateful for his praises; you have defended the excellent **Daśadyu** engaged in battle; the dust of your courser's hoofs ascended to heaven; the son of Śvita, (through your favour), rose up, to be again unborn by men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kutsa is a ṛṣi, a founder of a **gotra**, a religious family; **Daśadyuḥ** is also a ṛṣi and a warrior; **Śvaitreya** or **Śvitrya** is the son of mother **Śvitra**. Next hymn described Śvitra as having hidden himself in a pool of water to avoid the enemies
 </details>

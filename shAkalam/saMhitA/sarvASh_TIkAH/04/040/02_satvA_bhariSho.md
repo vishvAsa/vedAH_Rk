@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhariṣáḥ ← bhariṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -167,7 +170,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Dadhikrāvaṇ, the active, the cherisher, the giver of cattle, who abides with the devout, the swift-going, be willing to accept (the sacrificial) food at the time of the desirable dawn; may he who is true, moving, rapid, and leaping like a grasshopper, produce (for us) food, strength and heaven.”
 </details>

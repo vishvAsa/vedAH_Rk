@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etu ← √i- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -180,7 +183,8 @@ devayū́ni ← devayú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the sacrifice proceed like a swift course (tot he gods); elevate, (priests), with one occurred, yourladles, charged with butter; spread for the solemnity the sacred grass;le the flames (of the burnt-offering) to thegods ascend on high.”
 </details>

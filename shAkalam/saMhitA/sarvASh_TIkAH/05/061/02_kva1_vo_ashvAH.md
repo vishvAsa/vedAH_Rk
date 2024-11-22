@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhī́śavaḥ ← abhī́śu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -142,7 +145,8 @@ yámaḥ ← yáma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where are your horses? where your reins? what is your capability? where are you going? The saddle is on the back (of the steeds), the bridle in their nostrils.”
 </details>

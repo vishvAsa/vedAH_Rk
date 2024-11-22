@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyám ← anyá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ varcínam ← varcín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, becoming manifest from his abode (in the firmament), dissipates, day by day, the resembling glooms, (so that he may distinguish) the other portion, (or the day); and the showerer has slain the two wealth-seeking slaves, Varcin and **Śambara**, in (the country of) Udavraja.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Udavraja, **deśa** **viśeṣaḥ**, a sort of country, one into which the waters flow, udakāni vrajantyasmin
 </details>

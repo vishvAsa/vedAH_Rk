@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 acakrat ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
 
@@ -205,11 +208,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who has made your mother a widow? who has sought to slay the sleeping and the walking? what deity has been more gracious than you since you have slain the father, having seized him by the foot?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Since you have slain the father: yat prākṣiṇāḥ pitaram pādagṛhya; cf. **Taittirīya** **Saṃhitā** 6.1.3.6)
 </details>
@@ -224,7 +229,8 @@ What god was merciful toward you when you destroyed your father,  having grasped
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
 <details open><summary><h2>12-13 ...{Loading}...</h2></summary>
 
-See the published introduction. for uncertainties about the interpr. of these vss. In some sense they seem to enlarge on the theme of “Indra’s disgrace” (índrasyāvadyám) in 7b -- the blood guilt Indra incurs from even sanctioned killing, made far worse by the intra-family slaughter depicted in vs. 12. Which leads to Indra’s extreme loss of status, isolation, and shunning by the other gods in the final vs. ### 12
+See the published introduction. for uncertainties about the interpr. of these vss. In some sense they seem to enlarge on the theme of “Indra’s disgrace” (índrasyāvadyám) in 7b -- the blood guilt Indra incurs from even sanctioned killing, made far worse by the intra-family slaughter depicted in vs. 12. Which leads to Indra’s extreme loss of status, isolation, and shunning by the other gods in the final vs. _________
+**12**  
 In light of d, which describes Indra’s killing his father, the question in a, “who made your mother a widow,” can only be answered “you did!” The final word of the vs. pādagṛ́hya ‘having grasped him by the foot’ is puzzling. It might seem to exclude Vṛtra as the victim (and as Indra’s father) since, as a snake, he has no feet -- though it might be a way of indicating picking up a snake by its tail. The only other occurrence of this cmpd gerund is in the desperately difficult hymn X.27, vs. 4, where the context is similar and the referent does seem to be Vṛtra.
 
 </details>

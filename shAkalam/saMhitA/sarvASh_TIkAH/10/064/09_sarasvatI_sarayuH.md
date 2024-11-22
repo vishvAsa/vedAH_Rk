@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sárasvatī ← sárasvant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -179,7 +182,8 @@ páyaḥ ← páyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the very great rivers, **Sarasvatī**, **Sarayu**, **Sindhu**, come with their waves for (our) protection; maythe divine maternal animating waters grant us their water mixed with butter and honey.”
 </details>

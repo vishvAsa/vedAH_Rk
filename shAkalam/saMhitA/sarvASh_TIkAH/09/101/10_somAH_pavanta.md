@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índavaḥ ← índu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -130,7 +133,8 @@ svarvídaḥ ← svarvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The brilliant **Soma** juices flow for us knowing the right path, friendly (to the gods), effused sinless, contemplative, all-knowing.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánmañ-janman ← jánman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -161,7 +164,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The undecaying **Jātavedas**, who in every birth is established (among men), is kindled by the **Viśvāmitras**; may we, (enjoying) his favour, ever be (held) in the auspicious good-will of that adorable (deity).”
 </details>

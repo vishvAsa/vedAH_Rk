@@ -23,15 +23,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 maṁsīmáhi ← √man- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
 
@@ -139,11 +142,13 @@ víprāṇām ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We glorify you, divine **Pūṣan**, the accomplisher of our desires, who make the pious to quake.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Quake: ādhavam = making them shake with reverence and respect\]. the devout, scattering (his foes).
 </details>

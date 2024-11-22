@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sunirájam ← sunirája- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -151,11 +154,13 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, by you is food (rendered) everywhere abundant, easy of attainment, and assuredly perfect; wielder of the thunderbolt, set open the cow-pastures, and provide (ample) wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lit. Indra, as the sender of rain, should fertilize the fields, and by providing abundant pasturage, enable the cattle to yield store of milk
 </details>

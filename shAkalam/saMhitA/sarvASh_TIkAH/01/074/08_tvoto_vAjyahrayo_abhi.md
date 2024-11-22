@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhrayaḥ ← áhraya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who was formerly subject to a superior, having been protected, **Agni**, by you, now stands in your presence as an offerer (of oblations) without bashfulness, and supplied with food.”
 </details>

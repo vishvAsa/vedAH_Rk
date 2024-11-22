@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ jarate ← √gr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni**'s regards be benevolent to Vadhryaśva; may his guidance be auspicious, his approaches(to the sacrifice) favourable; when the **Sumitra** people first kindled Agni, then fed with butter and brilliantly blazinghe is glorified.”
 </details>

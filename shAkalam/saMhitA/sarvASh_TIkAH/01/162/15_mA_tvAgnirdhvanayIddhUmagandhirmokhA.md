@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not smoke-smelling **Agni** cause you, (horse), to utter sound; let not the glowing cauldron, odoriferous (with its contents), be overturned; the gods accept a horse that has been selected (for sacrifice); that has been led (round the fire); that has been devoutly offered, and has been consecrated by (the exclamation), vaṣat.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let not: this may be addressed to the horse before the horse is killed; or, to the horse's limbs in process of cooking, to desire them not to boil too loud, that is, too fast, lest the fire split the cauldron;
 

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahaya ← √mahay- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -203,7 +206,8 @@ vavr̥tyām ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship well that ram who makes heaven known, whom a hundred worshippers at once are assiduous in praising. I implore **Indra** with many prayers to ascend the car, which hastens like a fleet courser to the sacrificer for my protection.”
 </details>

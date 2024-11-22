@@ -23,15 +23,18 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -163,7 +166,8 @@ viśvavedasaḥ ← viśvávedas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And may the **Rudras**, the **Aśvins**, make us happy, (may) the universal gods, the lord of chariots,**Bhaga**, **Ṛbhu**, **Vāja**, Ribhukṣaṇa, the circumambient (**Vāyu**) and the omniscient (deities make us happy).”
 </details>

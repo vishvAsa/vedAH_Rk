@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akṣaíḥ ← akṣá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -213,11 +216,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Giving serious attention (to my advie), plural y not with dice; pursue agriculture; delight in wealth (soacquired); there, gambler, are cows; there is a wife; so has this (visible) sovereign **Savitā** declared to me.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Their: there, i.e., in agriculture
 </details>

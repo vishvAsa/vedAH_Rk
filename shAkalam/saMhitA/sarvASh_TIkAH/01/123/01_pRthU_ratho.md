@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayoji ← √yuj- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -179,11 +182,13 @@ mā́nuṣāya ← mā́nuṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The spacious chariot of the graceful (dawn) has been harnessed; the immortal gods have ascended it; the noble and all-pervading Uṣā has risen up from the darkness, bringing health to human habitations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dakṣiṇāyāḥ = of the clever one; she who is skilled in her own function, svavyāpāra-**kuśala**; bringing health: cikitsanti, healing, remedying the malady of darkness
 </details>

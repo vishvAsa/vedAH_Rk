@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aktū́n ← aktú- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -209,7 +212,8 @@ yachanti ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The dawns send their rays to the ends of the sky. They advance like people arrayed like people (inmartial order); your rays, Uṣas, annihilate the darkness; they diffuse light as **Savitā** (spreads out) his arms.”
 </details>

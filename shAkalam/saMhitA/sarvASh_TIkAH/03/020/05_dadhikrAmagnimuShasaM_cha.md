@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vásūn ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke to this rite, Dadhikrā, **Agni**, the divine Uṣas, **Bṛhaspati**, the divine **Savitā**, the **Aśvins**, **Mitra** and **Varuṇa**, **Bhaga**, the **Vasus**, the **Rudras**, and **Ādityas**.”
 </details>

@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ápi ← ápi (invariable)  
 {}
 
@@ -205,7 +208,8 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Cut off (the foe), **Indra**, as and old (pruner) the protruding (branch) of a creeper, humble the strength ofthe **Dāsa**; may we divide his accusative ulated treasure (despoiled) by Indra; may all our adversaries perish.”
 </details>

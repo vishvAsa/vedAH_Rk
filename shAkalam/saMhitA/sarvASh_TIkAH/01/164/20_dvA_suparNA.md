@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dvā́ ← dvá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -177,11 +180,13 @@ cākaśīti ← √kāś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Two birds associated together, and mutual friends, take refuge in the same tree; one of them eats the sweet fig; the other abstaining from food, merely looks on.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Two birds associated together: the vital and **supreme spirit**, jivātmā and **paramātmā**, are here alluded to using the metaphor of the two birds; eats the sweet fig: pippalam **svādu** **atti**: the vital spirit enjoys the rewards of acts. dvau dvau pratiṣṭhitau sukṛtau dharmakartārau: two species of **souls** to be intended as abiding in one body (**Nirukta** 14.30)
 </details>

@@ -24,16 +24,19 @@ ChandaH = "अतिजगती शक्वरी वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 popular;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 nivátaḥ ← nivát- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -210,11 +213,13 @@ sárvāḥ ← sárva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine rivers, whether flowing down declivities, in hollow plural ces, or upwards, whether filled withwater or dry, nourishing all with their water, be auspicious to us communicating not disease; may all the rivers beunproductive of harm.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Communicating not disease: aśipadā bhavantu: name of a malady; may they beunproductive of the śipada complaint; unproductive of harm: aśimidā bhavantu: śimi = **vadha**, killing; ahiṃsaprada, not doing harm or injury
 </details>

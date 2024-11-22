@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ mánman ← mánman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bearers of oblations (the **Aṅgirasas**), **Indra** honouring the sacrifice, have through your friendshiptorn **Vala** to pieces, when praise (being offered) desiring to give the dawns to **Kutsa** (you were engaged in)freeing the waters, and Ahi's exploits (were foiled).”
 </details>

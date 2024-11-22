@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etám ← eṣá (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him have they milked from heaven, the shedder of exhilarating juice, the thousand-streamed, the showerer (of benefits), bearing all treasures.”
 </details>

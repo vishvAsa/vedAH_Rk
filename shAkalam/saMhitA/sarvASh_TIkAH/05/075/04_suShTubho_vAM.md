@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 suṣṭúbhaḥ ← suṣṭúbh- (nominal stem)  
 {case:GEN, number:SG}
 
@@ -177,11 +180,13 @@ máma ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer of wealth, the praise of your worshipper is addressed to your chariot; (to it), as well as to you, does this distinguished, devoted, embodied (adorer) offer sacrificial food; masters of mystic lore, hear my invocation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Distinguished, devoted, embodied (adorer): the epithets are: **kakuha**, **mṛga** vāpuṣa = **mahān**, great, mṛgayitā searcher, **vapuṣmān**, having body, **yajamāna** (impled)
 </details>

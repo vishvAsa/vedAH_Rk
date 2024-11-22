@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ápaśyam ← √paś- (root)  
 {number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -175,11 +178,13 @@ sadyás ← sadyás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I beheld the crowd coming from afar, moving of themselves without wheels; the lord of all, (**Indra**),regulates the seasons (worship of men), younger in vigour, destroying at once the herds of evil beings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Herds:śiśnā = destructive herds or fākṣasas
 </details>

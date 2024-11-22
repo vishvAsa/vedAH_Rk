@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 góbhiḥ ← gáv- ~ gó- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -204,11 +207,13 @@ yajñíyānām ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With a (willing) mind, **Indra**, you associate us with cattle, with pious (priests) and, lord of steeds, with prosperity, with (sacrificial) food that is agreeable to the gods, and with the favour of the adorable deities.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 2.15
 </details>

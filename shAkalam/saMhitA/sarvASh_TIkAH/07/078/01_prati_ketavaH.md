@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adr̥śran ← √dr̥ś- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -177,7 +180,8 @@ vāmám ← vāmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The first signs of the Dawn are visible, her rays are spreading not high; you bring us, Uṣas, desirable(riches) in your vast, descending and resplendent chariot.”
 </details>

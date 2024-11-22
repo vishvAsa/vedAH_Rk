@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -160,11 +163,13 @@ r̥tā́vā ← ŕ̥tāvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Celebrate the divine **Agni** for his protection; may he who presides over dwellings grant (our desires); may the son of the ṛṣis, the observers of truth, save us from those who hate us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The son of the ṛṣis: Agni is termed the son of the ṛṣis, as genitive rated by their rubbing the sticks together which produce fire
 </details>

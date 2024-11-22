@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -189,11 +192,13 @@ yā́damānāḥ ← √yād- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the common herd (of cattle had been stolen) then, associating, they concurred, nor mutuallycontended; they obstructed not the sacrifices of the gods, but, unoffending, proceeded with the light (they hadrecovered).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lit. = in the common vast assembled they agree, nor do they strive mutually; they injure not theobservances of the gods, not harming, going with treasures, or with the **vasus**;
 

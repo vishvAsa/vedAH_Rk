@@ -23,15 +23,18 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
-#### Morph
+_________
+**Morph**  
 ávidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -157,11 +160,13 @@ uruṣyā́ ← uruṣyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, appreciates him who is skilled (in holy rites); a recent friend, quaffing (the libation), he heaps excellent (wealth) upon the devout; partaking of (the sacrificial) food, (and brought) by his robust agitators (of the earth, his steeds), he, through his benevolence, is a protector to his friends.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By his robust: sthaulābhir dhautarībhiḥ = sthūlābhiḥ kampanakāriṇībhiḥ, with the stout causers of trembling;
 

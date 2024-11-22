@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ávaḥ ← ávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -109,7 +112,8 @@ sumr̥ḷīkā́n ← sumr̥ḷīká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit for protection those **kṣatriyas**, the **Ādityas** who bless (their votaries) abundantly to theattainment of their desires.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 asuryā̀ṇi ← asuryà- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -180,11 +183,13 @@ yébhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Four are the **asura**-slaying uninjurable forms of you the mighty one: you know them all wherewith,Maghavat, you have achieved your exploits.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Four forms: cf. **sūkta** 55, ṛca 1;
 

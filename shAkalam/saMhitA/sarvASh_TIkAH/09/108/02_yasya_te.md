@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pītvā́ ← √pā- 2 (root)  
 {}
 
@@ -179,7 +182,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By drinking whom the showerer **Indra** is invigorated, by drinking you who are the beholder of everything, the intelligent (Indra) reaches the viands (of the enemy) as a horse (reaches) the battle.”
 </details>

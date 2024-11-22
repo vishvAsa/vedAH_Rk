@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́naṭ ← √naś- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -213,7 +216,8 @@ yakṣi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Tvaṣṭā**, since you have attained to beauty (through our oblations), and have become theassociate of the **Aṅgirasas**, do you, the bestower of wealth, possessed of precious treasure, and knowing (towhom each portion belongs), offer the food of the gods (to them).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 airat ← √īr- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -188,11 +191,13 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He has filled the two vast receptacles (heaven and earth) united (with creatures); they are both penetrated by his lustre; the hero spoiling the treasures (of the foe) is renowned; great and unequalled is the might of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The two vast receptacles: camvau, the two vessels in which gods and men and men eat, camanty adanty anayor devamanuṣaḥ; this would imply vessels or ladles, but the explanation is that the two that are or enjoyed by living beings, i.e. heaven and earth
 </details>

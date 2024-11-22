@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -217,11 +220,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the waters increase like young; may your worshippers, **Indra**, possess water (in abundance); comelike the wind with the **Niyut** steeds, for you, (propitiated) by holy rites, verily bestow upon us food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Alternativeinterpretation: apaschit pipyuḥ staryo na **gavaḥ** = the waters augment the **Soma** as those Vaidik texts by whichthe Soma is effused; **Yajus**. 33.18
 </details>

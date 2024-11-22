@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -203,11 +206,13 @@ sámr̥te ← √r̥- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Comprehending hidden (mysteries) here on earth, they have, through their power, made manifest (the things of) heaven and earth; they have set limits to themby their elements; they connected them both mutually united, wide-spread and vast, and fixed the intermediate (firmament) to sustain them.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They have set limits: sam mātrābhir mamire = mātrābhiḥ rodasyau iyattayā paricchinne cakruḥ, wiḥ the elements they made determinate divisions of heaven and earth by so much, i.e., to a definite limit or extent
 </details>

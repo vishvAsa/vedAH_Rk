@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -188,11 +191,13 @@ vr̥jánam ← vr̥jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise offerer of oblations, like **Pūṣan**, praises you, **Aśvins**, as (he would praise) **Agni** and Uṣā, (at the season) at which I invoke you praising with devotion that we may thence obtain food, strength, and long life.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At the season: the allusion is to the time at which it is especially proper to worship Aśvins, the morning sacrifice
 </details>

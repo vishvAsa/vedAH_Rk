@@ -25,10 +25,12 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -36,7 +38,8 @@ popular;; epic anuṣṭubh (525);; repeated line
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 saptá ← saptá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -224,11 +227,13 @@ madhulā́ ← madhulá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the thrice-seven sparks (of **Agni**) consume the influence of the venom; they verily do not perish;nor shall we die; for, although afar off, the Sun, drawn by his coursers, will overtake the poison; the science of antidotes has converted you, (Poison), to ambrosia.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The thice seven sparks: the seven tongues, or flames of fire, may be multiplied as red, white and black; or viśpuliṅgakā = catikā, a feminine le sparrow of which there are 21 varieties, eaters of poison with impunity
 </details>

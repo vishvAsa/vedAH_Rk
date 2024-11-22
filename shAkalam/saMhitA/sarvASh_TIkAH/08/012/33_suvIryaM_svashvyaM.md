@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -143,7 +146,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestow upon us, **Indra**, (wealth), comprising worthy **male** ofspring, excellent horses, and good cattle;like the ministrant priest (I worship you) at the sacrifice, (to secure) your prior consideration.”
 </details>

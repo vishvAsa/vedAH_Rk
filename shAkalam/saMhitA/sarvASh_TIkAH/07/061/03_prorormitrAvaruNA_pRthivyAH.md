@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -172,11 +175,13 @@ yatáḥ ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are vaster, **Mitra** and **Varuṇa**, than the ample earth, vaster, bounteous donors, than the gloriousand expansive heaven; you maintain beauty in plural nts and in people, diligent observers of truth, and vigilantlyprotecting (us).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You are vaster: pra = prariricāte
 </details>

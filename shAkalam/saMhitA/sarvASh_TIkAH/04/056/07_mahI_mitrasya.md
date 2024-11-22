@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahī́ ← máh- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -120,7 +123,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty (Heaven and Earth), you fulfil the desires of your friend; distributing food and giving sustenance you have sat down at the sacrifice.”
 </details>

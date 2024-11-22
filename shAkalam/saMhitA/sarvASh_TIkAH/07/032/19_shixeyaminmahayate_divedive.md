@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divé-dive ← dyú- ~ div- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ vásyaḥ ← vásyaṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I daily distribute wealth to the venerable wherever abiding; no other, **Maghavan**, than you is to besought by us; (no other is to us) a most excellent protector.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aptúraḥ ← aptúr- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -162,7 +165,8 @@ hinvānā́ḥ ← √hi- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise **Uśijas**, celebrating his praises, have obtained by their sacrifice, from the sender of water (knowledge) of the path (of their cattle); seeking the aid of **Indra**, and celebrating his praises, they have acquired, whilst uttering hymns and offering adoration (valuable) treasures.”
 </details>

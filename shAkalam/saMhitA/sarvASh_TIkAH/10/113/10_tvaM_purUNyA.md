@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -194,7 +197,8 @@ vidá ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Indra**, grant me ample riches and excellent horses with which I may honour (the gods)proffering praises; with well-acquired (riches) let us cross over all iniquity, accept our praise today with the mighṭto cross over with ease\].”
 </details>

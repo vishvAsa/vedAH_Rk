@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cákṣuṣaḥ ← cákṣus- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -185,11 +188,13 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The maker of the senses, resolute in mind, engendered the water, (and then) these two (heaven andearth) floating (on the waters); when those ancient boundaries were fixed, then the heaven and earth wereexpanded.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The maker of the senses: liṭ, the father of the eye; **manasā** **dhīraḥ** = reflecting that there was noone equal to himself; āpo vā idam agre; āpa eva sasarjādau: **Taittirīya** **Saṃhitā** 7.1.5.1; **Manu** 1.8
 </details>

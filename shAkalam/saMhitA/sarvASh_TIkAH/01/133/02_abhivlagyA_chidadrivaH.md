@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 abhivlágya ← √vlag- (root)  
 {non-finite:CVB}
 
@@ -125,11 +128,13 @@ padā́ ← pád- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Devourer (of foes) having trampled on the heads of the malignant (hosts), crush them with your wide-spreading foot; you vast wide-spreading foot.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yātumatīnām = hiṃsavatīnām senānām, of injury-inflicting armies, or ayudhavatīnām, of those possessing weapons; or, yātu = **rākṣasas**, of hosts composed of rākṣasas
 </details>

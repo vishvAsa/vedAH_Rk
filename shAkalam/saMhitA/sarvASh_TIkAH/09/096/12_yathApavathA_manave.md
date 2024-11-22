@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápavathāḥ ← √pū- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:MED}
 
@@ -183,7 +186,8 @@ tiṣṭha ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As you did flow to **Manu** possessing food, slaying enemies, acquiring wealth, having oblations, so now flow bringing us riches; abide you in **Indra**; make manifest (your) weapons.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣétrasya ← kṣétra- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -160,11 +163,13 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With the master of the field, our friend, we triumph; may he bestow upon us cattle, horses, nourishment, for by such (gifts) he makes us happy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With the master of the field: kṣetrasya patinā may be a reference to **Rudra** or **Agni**
 </details>

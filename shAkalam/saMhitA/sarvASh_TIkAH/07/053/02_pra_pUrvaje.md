@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 návyasībhiḥ ← návyas- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -189,7 +192,8 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural ce before (us) in the hall of sacrifice, with new songs, the ancient parents (of all beings); come to us,Heaven and Earth, with the celestial people, for vast is your protecting (wealth).”
 </details>

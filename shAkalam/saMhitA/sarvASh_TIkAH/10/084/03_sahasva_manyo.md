@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhímātim ← abhímāti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -210,7 +213,8 @@ vaśī́ ← vaśín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Overthrow, **Manyu**, our assailant; advance against our foes, wounding, killing, annihilating them; (who)can resist your fierce might? O you who are without companion, subjecting them you lead them subject.”
 </details>

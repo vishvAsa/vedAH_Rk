@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṇī́ṣu ← aruṇá- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -202,11 +205,13 @@ vavanvā́ṁsā ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the dark night rettires before the purple oxen (of the chariot of the dawn), I invoke you,Aśvinschildren of heaven; be desirous of my sacrifice; come to my food and to my viands like (two horses) eatingtogether, oblivious of offence.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Children of heaven: divo napāta = not making heaven to fall
 </details>

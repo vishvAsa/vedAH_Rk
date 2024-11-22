@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 doṣā́ ← doṣā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -208,11 +211,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Preserve from sin the liberal sacrificer who glorifies you morning and evening, and presenting oblations, does what is acceptable to you in his own abode, like a horse with golden caparisons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aśvo na sve dame hemyāvān = suvarṇanirmita kakṣyāvān, having a girth made of gold, the epithet is applied to the horse, though separated by sve dame, in his own house
 </details>

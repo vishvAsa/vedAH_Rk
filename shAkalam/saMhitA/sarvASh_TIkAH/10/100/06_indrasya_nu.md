@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 daívyam ← daívya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -209,7 +212,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine force of **Indra** is well constructed; **Agni** (abides) in our dwelling, the praiser of the gods, thereceiver of oblations, the sage, and is worthy of sacrifice at the altar, beautiful and most near (to us). We long forthe universal **Aditi**.”
 </details>

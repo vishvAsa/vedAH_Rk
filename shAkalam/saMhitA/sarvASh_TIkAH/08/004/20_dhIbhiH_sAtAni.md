@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhībhíḥ ← dhī́- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -155,7 +158,8 @@ yūthā́ni ← yūthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I, the Ṛṣi (**Devātithi**), have received subsequently the complete donation; the sixty thousand herds ofpure cattle merited by the devotions of the pious son of **Kaṇva**, and by the illustrious **Priyamedhas**.”
 </details>

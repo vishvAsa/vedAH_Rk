@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṅgá ← aṅgá (invariable)  
 {}
 
@@ -176,7 +179,8 @@ vácaḥ ← vácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful, **Indra**, be present and be favourable to the mortal (who adores you); there is no other giver of felicity, **Maghavan**, than you; hence, Indra, I recite your praise.”
 </details>

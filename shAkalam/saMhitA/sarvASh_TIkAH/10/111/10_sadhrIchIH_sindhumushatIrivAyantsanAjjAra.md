@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyan ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -193,7 +196,8 @@ sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They hasten associated together to the ocean, like loving wives (to a husband); (**Indra**), the witherer offoes, the demolisher of cities, is their impeller of old; may our oblations, the treasures of earth, and our copiouspraises, proceed, Indra, to your dwelling.”
 </details>

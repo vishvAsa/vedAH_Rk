@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ yātudhā́nasya ← yātudhā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Regard, beholder of men, the **rākṣasas** among the people; cut off his three heads; cut off his flankswith your might; cut off the triple foot of the **Yātudhāna**.”
 </details>

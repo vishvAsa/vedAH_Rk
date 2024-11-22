@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -201,11 +204,13 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (**Soma**) flows to **Indra**'s belly for (his) food, giving extreme exhilaration, clothed with vigour, giving good fortune he spreads forth towards all beings; sporting (on the altar), green-tinted, swift-moving, the showerer of benefits, he flows forth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For his food: or, for the sake of getting food for the sacriricer
 </details>

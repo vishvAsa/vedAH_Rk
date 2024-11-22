@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duḥśáṁsam ← duḥśáṁsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -141,11 +144,13 @@ udadhím ← udadhí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroy with your fatal (weapons) the mortal who is malignant, ignorant, strong, rapacious; destroy himlike a water jar, with your weapons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rapacious: ābhogam = he who enjoys good things taken from theworshippers
 </details>

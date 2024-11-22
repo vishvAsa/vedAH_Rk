@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -181,7 +184,8 @@ yudhyāmadhím ← yudhyāmadhí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven worlds praise (**Sudāsa**) as if he were **Indra**; him whose fame (spreads) through thespacious heaven and earth; who, munificent, has distributed (wealth) on every eminent person n, and (for him) theflowing (rivers) have destroyed Yudhyamadhi in war.”
 </details>

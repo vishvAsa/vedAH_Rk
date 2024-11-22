@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 jagāra ← √gr̥̄- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -175,11 +178,13 @@ vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Vasukra speaks). The hare graps the assailing beast of prey; with a clod of clay I cleave the distant(mountain); I can compel the great to submit to the small; swelling (with courage) the calf attacks the bulḷ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kṣuram= a long hard, sharp claw, like a razor, belonging to lion, tiger, etc., i.e., a strong fierce wild beast. If kṣuramimplies, a razor as in RV 8.4.16, the use of metal for tool-making is apparent
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -187,7 +190,8 @@ tápiṣṭhena ← tápiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The man, **Maruts**, who wounds our feelings, he who, rebuked by all, yet seeks, **Vasus**, to kill us, hewoudl bind us in the wounds of (**Varuṇa**), the avenger (of iniquity), such a man do you destroy with a consumingfatal weapon.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 kr̥dhi ← √kr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -120,7 +123,8 @@ sr̥jānáḥ ← √sr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Green-tinted (**Soma**) lauded by hymns,being dropped into the curds and milk and being purified, bestow wealth and food upon the worshipper.”
 </details>

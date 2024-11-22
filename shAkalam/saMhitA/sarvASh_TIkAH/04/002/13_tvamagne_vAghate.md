@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ pr̥thú ← pr̥thú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Resplendent **Agni**, young of the gods, the satisfier of (the desires of) men, who are easily to be conducted (to the altar), bestow joy-yielding and abundant wealth for his preservation upon the worshipper who praises and worships you and offers you libations.”
 </details>

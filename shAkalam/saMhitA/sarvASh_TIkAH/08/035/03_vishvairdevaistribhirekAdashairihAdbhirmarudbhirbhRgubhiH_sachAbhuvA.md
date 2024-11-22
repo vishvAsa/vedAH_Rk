@@ -23,15 +23,18 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
-#### Morph
+_________
+**Morph**  
 devaíḥ ← devá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -166,7 +169,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated with all the thrice-eleven deities at this ceremony, with the waters, with the **Maruts**, with theBhṛgus, united with the dawn and with **Sūrya**, drink, **Aśvins**, the **Soma**.”
 </details>

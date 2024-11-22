@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́m ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -213,7 +216,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your chariot travels widely round the heaven until it plural ces you beyond the firmament; dispensers of sweet (water, the priests) are diluting the **Soma** juice with milk, that the boiled (barley) may be united with the libation offered to you.”
 </details>

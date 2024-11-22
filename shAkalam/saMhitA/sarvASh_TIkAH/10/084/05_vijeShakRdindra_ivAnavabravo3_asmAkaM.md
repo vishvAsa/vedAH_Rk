@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anavabraváḥ ← anavabravá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ yátas ← yátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Manyu**, the giver of victory like **Indra**, irreproachable, be you our protector at this (sacrifice); enduringone, we sing to you acceptable praise; we know this to be the source whence you have become (mighty).”
 </details>

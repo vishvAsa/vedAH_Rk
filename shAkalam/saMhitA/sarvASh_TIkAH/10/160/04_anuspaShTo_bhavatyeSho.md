@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánuspaṣṭaḥ ← √spaś- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -189,7 +192,8 @@ hanti ← √han- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is mindful of him who, as a rich man, offers **Soma** to him; possessed of riches (**Indra**) holds him inhis **hand**, and unsolicited destroys (his enemies) who hate the **Brāhmaṇa**.”
 </details>

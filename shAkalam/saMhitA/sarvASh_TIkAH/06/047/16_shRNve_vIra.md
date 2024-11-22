@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 damāyán ← √damⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -156,7 +159,8 @@ víśaḥ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The hero **Indra** is renowned; humiliating every formidable (foe), and repeatedly changing the plural ce of one (worshipper) with that of another; Indra, the enemy of the arrogant, the soverign of both (heaven and earth), calls again and again (to encourage) the men who are his worshippers.”
 </details>

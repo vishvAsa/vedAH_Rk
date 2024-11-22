@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhojáḥ ← bhojá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is liberal who gives to the suppliant desiring food, wandering about distressed; to him there is anample (recompense), and he contracts friendship with his adversaries.”
 </details>

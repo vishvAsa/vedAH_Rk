@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ vr̥dháḥ ← vr̥dhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** by means of the priests of Vadhryaśva pouring out libations always conquers his foes; you(Agni) shining with varied splendour, have consumed the battle; (your praiser) self-fostered has destroyed hispowerful (assailant).”
 </details>

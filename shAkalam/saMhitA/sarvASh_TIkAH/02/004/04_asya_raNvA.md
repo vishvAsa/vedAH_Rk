@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ vā́rān ← vā́ra- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The cherishing of **Agni** is as agreeable as (the cherishing) of one's self; (plural asant) is his appearance, when spreading abroad, and consuming (the fuel); he brandishes his flame among the bushes, as a chariot-horse lashes with his tail.”
 </details>

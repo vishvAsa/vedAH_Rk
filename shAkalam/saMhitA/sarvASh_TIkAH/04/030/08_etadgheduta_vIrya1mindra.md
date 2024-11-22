@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etát ← eṣá (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -158,11 +161,13 @@ vádhīḥ ← √vadhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Indra**, as you have displayed such manly prowess, you have slain the woman, the daughter of the sky, when meditating mischief.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The daughter of the sky: the dawn, extinguished by the ascendancy of Indra throughout the day
 </details>

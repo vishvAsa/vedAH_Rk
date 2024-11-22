@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jániṣṭhāḥ ← √janⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
 
@@ -180,11 +183,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have been born, (**Indra**), for strength, for slaying (enemies); powerful, adorable, most mighty,extremely proud; the **Maruts** animated Indra in the (**Vṛtra**-fight) when (his) sustaining mother sustained the hero.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mother: **Dhaniṣṭhā**, another name of **Aditi**; **Yajus**. 33.64
 </details>

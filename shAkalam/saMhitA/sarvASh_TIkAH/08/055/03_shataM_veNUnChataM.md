@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 śatám ← śatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -142,7 +145,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A hundred bamboos, a hundred dogs, a hundred dressed hides, a hundred bunches of **balbaja** grass,and four hundred red mares are mine.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhayānām ← ábhaya- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -176,7 +179,8 @@ yúvānam ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We glorify with praises **Agni**, the self-famous, who dwells among these fearless beings; we praise theirresistible **Aditi**, together with all the wives (of the gods); we praise the young (lord) of night (the moon), wepraise the friend of man (the sun), we praise (**Indra**) the lord (of all).”
 </details>

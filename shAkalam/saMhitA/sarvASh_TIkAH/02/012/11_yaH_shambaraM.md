@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣiyántam ← √kṣi- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -168,11 +171,13 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who discovered **Śambara** dwelling in the mountains for forty years; who slew Ahi, growing in strength, and the sleeping son of **Dānu**; he, men, is **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who slew Ahi: ahi = the slayer, āhantāram;
 

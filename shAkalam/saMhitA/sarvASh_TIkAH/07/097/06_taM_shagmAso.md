@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣā́saḥ ← aruṣá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -174,11 +177,13 @@ vásānāḥ ← √vas- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May his powerful brilliant horses, wearing a lustrous form like (that of) the sun, acting together, bring(hither) that Bṛhaspai, in whom strength abides like that of a substantial mansion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In whom strength abides: or,to whom belongs strenght, and whose friendship bestows a dwelling
 </details>

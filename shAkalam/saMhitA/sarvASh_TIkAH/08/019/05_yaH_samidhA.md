@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́hutī ← ā́huti- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -139,11 +142,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The man who has presented (worship) to **Agni** with fuel, with burnt offerings, with the **Veda**, with(sacrificial) food, and is diligent in pious rites.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With the Veda: vedena = vedādhyayanena, by studying the Veda;or, it may mean, a bundle of grass
 </details>

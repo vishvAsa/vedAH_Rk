@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gávāśiram ← gávāśir- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ vr̥ṣasva ← √vr̥ṣ- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, drink the **Soma** mixed with milk, with butter-milk, or fresh; we offer it for your exhilaration, associated with the devout company of the **Maruts** and the **Rudras**; drink it till you are satisfied.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mixed with milk: gavaśiram, manthinam, śukram: manthinam = manthasaṃyuktam, mixed with butter-milk;
 

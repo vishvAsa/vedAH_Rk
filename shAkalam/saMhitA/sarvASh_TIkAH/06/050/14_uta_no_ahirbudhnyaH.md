@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhiḥ ← áhi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ stutā́ḥ ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Ahirbudhnya**, Aja-ekapād, and Earth and Ocean, hear us; may the universal gods, who are exalted by sacrifice, they who are invoked and praised (by us), to whom mystical prayers are addressed, and who have been glorified by (ancient) sages, preserve us.”
 </details>

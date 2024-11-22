@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhan ← áhar ~ áhan- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ vidhántam ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Tanūnapāt**, whom the deities, **Mitra**, **Varuṇa** and **Agni**, worship daily thrice a day, render this our sacred rain-engendering sacrifice productive of water.”
 </details>

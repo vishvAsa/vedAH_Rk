@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 máhikeravaḥ ← máhikeru- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -114,7 +117,8 @@ agním ← agní- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The performers of great ceremonies, the offerers of acceptable sacrifices, have invoked for (their protection), **Agni**, shining amidst the solemnities, with pure resplendence.”
 </details>

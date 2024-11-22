@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhíṣṭaye ← abhíṣṭi- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -107,7 +110,8 @@ nā́nā ← nā́nā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I invoke him) to come to our help, whose might ever waxes more and more-- to whom men appeal foraid in various ways in battles.”
 </details>

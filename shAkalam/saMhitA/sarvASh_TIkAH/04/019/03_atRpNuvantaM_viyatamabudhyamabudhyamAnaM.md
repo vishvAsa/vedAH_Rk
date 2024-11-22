@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abudhyám ← abudhyá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “On the day of full moon you have slain with the thunderbolt the insatiable, unnerved, ignorant, unapprehending, slumbering Ahi, obstructing the gliding-downward-flowing (streams).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 On the day of the full moon: aparvan = paurṇamāsyām (ghnanti vā enam **paurṇamāsa** : **Taittirīya** **Saṃhitā** 2.5.2.5)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ vr̥heva ← √vr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yami** speaks). The desire of **Yama** has approached me **Yamī**, to lie with him in the same bed; I willabandon my person n as a wife to her husband; let us exert ourselves in union like the two wheels of a wagon.”
 </details>

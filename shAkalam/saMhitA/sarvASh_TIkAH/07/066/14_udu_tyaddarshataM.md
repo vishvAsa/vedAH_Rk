@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 darśatám ← darśatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -170,7 +173,8 @@ víśvasmai ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That beautiful orb (of the sun) rises on the near margin of the sky as the swift, divine, white-coloured(steed) bears it along for the beholding of all men.”
 </details>

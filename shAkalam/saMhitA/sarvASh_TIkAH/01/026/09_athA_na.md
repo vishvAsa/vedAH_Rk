@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átha ← átha (invariable)  
 {}
 
@@ -106,7 +109,8 @@ santu ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Immortal **Agni**, may the praises of mankind be henceforth mutually (the sources of happiness) to both, (to ourselves and to you).”
 </details>

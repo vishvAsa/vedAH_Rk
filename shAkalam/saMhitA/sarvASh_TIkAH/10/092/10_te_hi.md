@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábharanta ← √bhr̥- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -196,11 +199,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as **Bṛhaspati**, the showerer (of benefits) and the kindred of **Soma** (the Visvedevās),bestow food (for the support) of people, **Atharvan** was the first to invigorate (the gods) with sacrifices; withstrength the gods and **Bhṛgus** discovered (the cattle).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With strength: i.e., with the strength acquired from thesacrifice which they had eaten; having gone to the sacrifice made by Atharvan, they discovered the cattle; cf. RV1.83.5
 </details>

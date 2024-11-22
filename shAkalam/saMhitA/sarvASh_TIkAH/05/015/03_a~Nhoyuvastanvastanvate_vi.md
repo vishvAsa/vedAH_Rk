@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṁhoyúvaḥ ← aṁhoyú- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -190,11 +193,13 @@ sthuḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They who (present) to the chief (of the gods) the great food (of sacrifice), unattainable (by the **rākṣasas**), enjoy forms exempt from defect; may that new-born **Agni** scatter assembled (hosts); let them stand from around me as (deer avoid) an angry lion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Enjoy forms exempt from defect: aṃhoyuvastanvas tanvate = svastanur aṃhasa viyojika vistārayanti, they effect the extension of their own person n, disjoined by or separated from sin
 </details>

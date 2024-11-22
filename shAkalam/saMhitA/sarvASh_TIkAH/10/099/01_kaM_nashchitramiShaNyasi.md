@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cikitvā́n ← √cit- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -175,7 +178,8 @@ vr̥tratúram ← vr̥tratúr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What marvellous (wealth), comprehensive and laudable, do you, **Indra**, knowing (what is needed),bestow upon us for our advantage? What gift (has been made to us) upon the development of his strength? Hefabricated the **Vṛtra**- slaying thunderbolt, and let the waters flow.”
 </details>

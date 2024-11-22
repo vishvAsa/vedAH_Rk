@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -184,7 +187,8 @@ svadhā́bhiḥ ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The green-tinted **Soma** cries aloud when let loose, sitting when filtered in the belly of the pitcher; collected by the priests, he assumes his shape, (putting on) the products of the kine, therefore raise praises (to him) with oblations.”
 </details>

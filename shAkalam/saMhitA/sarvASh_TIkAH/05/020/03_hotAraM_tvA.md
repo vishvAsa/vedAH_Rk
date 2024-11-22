@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -131,11 +134,13 @@ práyasvantaḥ ← práyasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, Prayasvats, have recourse to you, the invoker (of the gods), the means of strength; we glorify you first at sacrifices with praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Prayasvats: prayasvantaḥ = liṭ, those having food, annavantaḥ
 </details>

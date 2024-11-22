@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágruḥ ← ágru- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ vanavat ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage **Sūrya**, advancing, accompanied by his bride, (the dawn), proceeds boldly, intent on combat with his enemies; may he on whom riches are dependent, secure our entire felicity, (and grant) a brilliant and everywhere protecting mansion.”
 </details>

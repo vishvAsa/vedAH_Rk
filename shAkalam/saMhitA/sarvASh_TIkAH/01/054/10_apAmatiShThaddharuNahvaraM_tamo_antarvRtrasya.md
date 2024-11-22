@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apā́m ← áp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -183,7 +186,8 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The darkness obstructed the current of the waters; the cloud was within the belly of **Vṛtra**; but **Indra** precipitated all the waters which the obstructor had concealed, in succession, down to the hollows (of the earth).”
 </details>

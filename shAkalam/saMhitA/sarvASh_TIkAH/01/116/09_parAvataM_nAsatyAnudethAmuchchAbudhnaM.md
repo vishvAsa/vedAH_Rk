@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anudethām ← √nud- (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:MED}
 
@@ -160,11 +163,13 @@ tŕ̥ṣyate ← √tr̥ṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Nāsatyas**, you raised up the well, and made th ebase, which had been turned upwards, the curved mouth, so that the water issued for the beverage of the thirsty **Gotama**, the offerer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Water issued: Related to the **Maruts**; describes the manner in which the well was presented to Gotama
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áśvān ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -215,7 +218,8 @@ viśvávāraḥ ← viśvávāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As cattle hasten to the village, as the warrior to his horses, as affectionate milk-giving cows to the calf,as a husband to his wife, so may **Savitā**, the upholder of the sky, the desired of all, hasten to us.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -203,7 +206,8 @@ avātā́ḥ ← avātá- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Tha **Indra** whom in heaven the libations sprinkled on the sacred grass replenish, as the kindred rivers hastening to it fill the ocean; that Indra whom the **Maruts**, the driers up of moisture, who are unobstructed, and of undistorted forms, attended as auxiliaries at the death of **Vṛtra**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 devī́m ← devī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -181,11 +184,13 @@ vitanvaté ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun follows the divine and brilliant Uṣā, as a man (follows a young and elegant) woman; at which season, pious men perform (the ceremonies established for) ages, worshipping the auspicious (sun), for the sake of good (reward).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ages: yugāni, also meaning 'yokes for plural ughs'; at this season (dawn), men seeking to propitiate the gods by the profit which agriculture yields, equip their plural ughs, or engage in the labours of the field
 </details>

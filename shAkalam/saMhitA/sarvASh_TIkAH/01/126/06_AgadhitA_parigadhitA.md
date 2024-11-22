@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 ā́gadhitā ← √gadh- (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
 
@@ -132,11 +135,13 @@ yā́śūnām ← yā́śu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She, who, when her desires are assented to, clings as tenaciously as a feminine le weasel, and who is ripe for enjoyment, yields me infinite delight.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Bhāvya** says this to his wife **Lomaśa**;
 

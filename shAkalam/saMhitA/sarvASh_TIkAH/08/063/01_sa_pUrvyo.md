@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahā́nām ← mahá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -150,11 +153,13 @@ dhíyaḥ ← dhī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, (**Indra**), the chief of those to be honoured, desirous of our offerings, approaches; he, the doors ofwhose favour, the sacred rites, **Manu**, the (universal) father, attained among the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ānaje = ātmānamvyaktīkaroti;
 

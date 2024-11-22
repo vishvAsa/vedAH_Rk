@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 r̥tvíjam ← r̥tvíj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -130,7 +133,8 @@ své ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They praise you as the priest, the invoker (of the gods) at sacrifice; shine forth the protector of the pious rite in your own abode.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -125,7 +128,8 @@ yaśástamasya ← yaśástama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise quickly the yoked chariot of the glorious and munificent **Agni**, like one who is desirous of food.”
 </details>

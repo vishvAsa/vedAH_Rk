@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 asmayúḥ ← asmayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The son of strength, for he verily is propitious to us, to whom let us offer oblations as to the conveyer of them (to the gods); may he be our defender in battles; may he be our benefactor and the grandsire of our offspring.”
 </details>

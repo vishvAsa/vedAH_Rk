@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūma ← √bhū- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -184,7 +187,8 @@ mármr̥jataḥ ← √mr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have worshipped you (**Agni**), and have thereby become the performers of a good work, adoring the full and variously delighting Agni, the beautiful lustre of the radiant divinity, when the brilliant dawns have arrayed (themselves) in light.”
 </details>

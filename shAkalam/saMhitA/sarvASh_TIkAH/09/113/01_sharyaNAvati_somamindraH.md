@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 śaryaṇā́vati ← śaryaṇā́vant- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -180,11 +183,13 @@ srava ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let **Indra**, the slayer of **Vṛtra**, quaff the **Soma** on the Śaryaṇāvat, infusing strength into himself, about to show great prowess; flow, **Indu**, for Indra.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śaraṇyāvat: a lake in the **Kurukṣetra** region
 </details>

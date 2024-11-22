@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūtám ← dūtá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We constitute you our most renowned messenger; bring the gods to partake (of the oblations); bestowupon us, son of strength, all human blessings; whatsoever we solicit of you.”
 </details>

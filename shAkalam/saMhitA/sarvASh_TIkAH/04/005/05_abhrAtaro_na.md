@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhrātáraḥ ← abhrātár- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -178,11 +181,13 @@ padám ← padá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like women who have no brethren, going (about from their own to their father's house), women adverse to their lords going astray, so the wicked, false (in thought), false (in speech), they give birth to this deep abyss (of hell).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 False in thought, false in speech: anṛtāḥ mānasasatyarahitā asatyāḥ vācikasatyarahitāḥ; this deep anyss of hell: idam padam ajanatā gabhīram, they engender this deep station, i.e. narakasthānam
 </details>

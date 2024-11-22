@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -150,11 +153,13 @@ vidaḥ ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lead us past our opponents; conduct us by an easy path; know, **Pūṣan**, how to protect us on this (journey).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The refrain in this and the next two hymns: pūṣan iha kratum **vidaḥ**: Pūṣan, know here, the act or business (act of sacrifice); on this occasion or journey, know how to fulfill your function of giving us protection
 </details>

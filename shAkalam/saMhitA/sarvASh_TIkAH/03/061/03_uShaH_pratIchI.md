@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhúvanāni ← bhúvana- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -175,7 +178,8 @@ vavr̥tsva ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, who spread over all the regions, you abide on high, the ensign of the immortal (sun), purposing to travel the same road, repeatedly turn back over new, (revolving) like a wheel.”
 </details>

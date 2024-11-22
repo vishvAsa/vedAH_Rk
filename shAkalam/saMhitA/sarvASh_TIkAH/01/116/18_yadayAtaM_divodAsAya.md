@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -174,11 +177,13 @@ yuktā́ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Aśvins**, being invited, you went to his dwelling (to give due rewards) to **Divodāsa**, offering oblations, then your helping chariot conveyed (food and) treasure, and the bull and the porpoise were yoked together.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The bull and the porpoise: the **Vṛṣabha** and **Śiṃśumāra**. The latter is **a graha**, which is properly an alligator; but the śiṃśumāra is a gangetic porpoise; they were yoked to the car of the Aśvins, to display their power
 </details>

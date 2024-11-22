@@ -23,15 +23,18 @@ ChandaH = "विष्टारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ kave ← kaví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your, **Agni**, is the most excellent sacrificial food; your flames, O opulent in radiance, blaze fiercely;wise and widely luminous (Agni), you bestow upon the donor (of the oblation) the choicest food with strength.”
 </details>

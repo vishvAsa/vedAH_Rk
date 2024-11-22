@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ víṣṇum ← víṣṇu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise you, the (company of **Maruts**), for the distribution of wealth; (the company that), like **Indra**, is the achiever of great deeds; sagacious like **Varuṇa**; adorable as **Aryaman** and munificent as **Viṣṇu**.”
 </details>

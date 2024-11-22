@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 manāmahe ← √man- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
 
@@ -171,11 +174,13 @@ sákhāyam ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We are not evil who worship him, nor too poor to offer gifts, nor destitute of sacred fires-- sinceassembled together, when the **Soma** is effused, we make **Indra**, the showerer, our friend.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 We are not evil:manamahe = to appear, we do not appear eviḷ..
 </details>

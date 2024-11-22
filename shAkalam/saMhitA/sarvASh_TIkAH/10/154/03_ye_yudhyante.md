@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
-#### Morph
+_________
+**Morph**  
 pradháneṣu ← pradhána- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -160,7 +163,8 @@ tā́n ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To those who engage in battles, heroes who have given up their lives, or who have presentedthousands of offerings, to them (O dead one) go.”
 </details>

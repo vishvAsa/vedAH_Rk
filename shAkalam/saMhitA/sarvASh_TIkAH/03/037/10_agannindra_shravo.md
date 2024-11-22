@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágan ← √gam- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -132,7 +135,8 @@ tirāmasi ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the abundant (sacrificial) food (we offer) reach you, **Indra**; grant us wealth that may not easily be surpassed; we augment your vigour (by our offerings).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 nú ← nú (invariable)  
 {}
 
@@ -206,11 +209,13 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your acts are (like) those of the royal **Varuṇa**, vast and profound, **Soma**, is your abode; you are pure as the beloved **Mitra**, munificent are you, Soma, as **Aryaman**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varuṇa: 'I quickly perform the sacrifices of you the cover';
 

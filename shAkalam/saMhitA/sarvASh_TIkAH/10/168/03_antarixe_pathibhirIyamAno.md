@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 antárikṣe ← antárikṣa- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -194,7 +197,8 @@ svit ← svit (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Traversing the firmament by its paths, (**Vāyu**) rests not for a single day; the friend of the waters, thefirst-born, the utterer of truth-- where has he been genitive rated, whence was he manifested?”
 </details>

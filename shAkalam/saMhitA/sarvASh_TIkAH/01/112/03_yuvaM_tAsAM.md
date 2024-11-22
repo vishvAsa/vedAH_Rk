@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 divyásya ← divyá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -200,11 +203,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By the vigour infused from celestial nectar, you are able, leaders (of sacrifice), to rule over those beings (who people the three worldds); with those aids by which you gave (milk) to the barren cow, come, **Aśvins**, willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: To the cow of a ṛṣi, named **Śayu**, to which, although barren, the Aśvins, at his entreaty, gave abundance of milk
 </details>

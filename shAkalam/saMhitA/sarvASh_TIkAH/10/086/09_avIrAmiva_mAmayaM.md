@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 avī́rām ← avī́ra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -185,11 +188,13 @@ Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[**Indrāṇī** speaks\]: This savage beast (**Vṛṣākapi**) despises me as one who has no **male** (protector),and yet I am the mother of male offspring, the wife of **Indra**, the friend of the **Maruts**; Indra is above all (the world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indrāṇī speaks\]: This savage beast (Vṛṣākapi) despises me as one who has no male (protector),and yet I am the mother of male offspring, the wife of Indra, the friend of the Maruts; Indra is above all (the world).
 </details>

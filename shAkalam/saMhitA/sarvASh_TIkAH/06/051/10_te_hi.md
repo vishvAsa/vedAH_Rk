@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -193,7 +196,8 @@ vakmarā́jasatyāḥ ← vakmarā́jasatya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May they, exceeding in splendour, so guide us, that all iniquities may disappear, they, the very powerful **Varuṇa**, **Mitra**, **Agni**, practisers of truth, and faithful to those who are prominent in (their) praise.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́mne ← dhā́man- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -192,11 +195,13 @@ vr̥ṇānā́ ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When may we offer adoration to the benevolent splendour, strong in its own (strength), self-sustaining with food, deserving of worship; when the delusive (energy of **Agni**), investing (the heavens), spreads the waters above the clouds over the unbounded firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This is addressed to Agni as the lightning
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 árvataḥ ← árvant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -216,11 +219,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the halter and the heel-ropes of the fleet courser, and the head-ropes, the girths, and any other (part of the harness); and the grass that has been put into his mouth; may all these be with you, (horse), amongst the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The heel-ropes: **dāma** = a rope fastened round the horse's neck;
 

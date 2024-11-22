@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ójasā ← ójas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -144,11 +147,13 @@ vavakṣatuḥ ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When your (younger brother) **Viṣṇu** by (his) strength stepped his three paces, then verily your belovedhorses bore you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Viṣṇu: yadā te viṣṇur ojasā = when Viṣṇu by your strength; or, te tavānujaḥ; veily yourbeloved horses: ād it te haryatā (kāntau) **harī** vavakṣatuḥ, its having served as the burden of the ttwopreceding ṛcas
 </details>

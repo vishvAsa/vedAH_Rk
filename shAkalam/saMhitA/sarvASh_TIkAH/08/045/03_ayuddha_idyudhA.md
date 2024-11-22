@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 áyuddhaḥ ← áyuddha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -135,11 +138,13 @@ yúvā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Though before powerless to combat, the hero by his might now subdues one surrounded by allies, (ifhelped by those) of whom the ever-young **Indra** is the friend.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Powerless to combat: ayuddhaḥ = unopposed;prāg ayoddha eva; but, cf. RV 1.32.6
 </details>

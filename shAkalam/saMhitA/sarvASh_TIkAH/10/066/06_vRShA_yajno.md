@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 santu ← √as- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -169,7 +172,8 @@ vr̥ṣastúbhaḥ ← vr̥ṣastúbh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our sacrifice be the showerer (of benefits); may the gods who are worthy of sacrifice be theshowerers (of benefits); may the priest, may the presenters of the oblation, be the showerers (of benefits); mayheaven and earth receiving adoration be the showerers (of benefits); may **Parjanya** be the showerer (of rain);may those who praise (the gods) with showers be showerers.”
 </details>

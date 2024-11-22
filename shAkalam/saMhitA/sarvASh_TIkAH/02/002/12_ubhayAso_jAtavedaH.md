@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātavedaḥ ← jātávedas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ svapatyásya ← svapatyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, knowing all that is born, may we, both adorers and priests, be thine for the sake of felicity; and do you bestow upon us wealth of dwellings, of cattle, of much gold, of many dependents and virtuous offspring.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -160,7 +163,8 @@ yāváya ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give, **Indra**, to the affluent, and to me also, a sheltering and prosperous dwelling combining three elements, and defending in three ways and keep from them the blazing (weapon of our foes).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 avīvr̥dhan ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -122,11 +125,13 @@ vardhantu ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The chants (of the **Soma**) have magnified you, **Śatakratu**, the hymns (of the Ṛk) have magnified you; may our praises magnify you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Stomāḥ, praises of the singers of the **Sāma** (Sāmagānām sytotrāṇi); **ukthā**, hymns of the reciters of bahvṛc (bahvṛcānām śastrāṇi)
 </details>

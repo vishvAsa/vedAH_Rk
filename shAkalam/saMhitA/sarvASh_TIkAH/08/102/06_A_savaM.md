@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -125,11 +128,13 @@ samudrávāsasam ← samudrávāsas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke **Agni** dwelling in th emidst of the sea, like the energy of **Savitā**, like the enjoyments granted byBhaga.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the energy of Savitā: savam **savituḥ** = prerakasya **devasya** prasavam; cf. 8.100.12; like theenjoyments granted by **Bhaga**: bhagasyeva bhujim = bhagākhyasya devasya bhogam iva; or, bhuji =like thefavour of Bhaga
 </details>

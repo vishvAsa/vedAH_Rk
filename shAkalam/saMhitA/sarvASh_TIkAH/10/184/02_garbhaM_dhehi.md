@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 dhehi ← √dhā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -153,7 +156,8 @@ púṣkarasrajā ← púṣkarasraj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sustain the embryo, **Sinīvāli**, sustain the embryo, **Sarasvatī**, may the divine **Aśvins**, garlanded withlotuses, sustain your embryo.”
 </details>

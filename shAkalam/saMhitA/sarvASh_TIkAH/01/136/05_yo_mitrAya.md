@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávidhat ← √vidh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -262,7 +265,8 @@ vratám ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever individual offers adoration to **Mitra** and **Varuṇa**, do you preserve him entirely unharmed from sin; (preserve) from sin the mortal who presents you (with oblations); may **Aryaman** protect him who is sincere in his devotion, who offers worship addressed to both (Mitra and Varuṇa) with prayers; who offers worship with praises.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śíśānaḥ ← √śā- ~ śī- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -154,11 +157,13 @@ yahúḥ ← yahú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** tosses his horns, sharpening them as a bull; his sharp jaws are not to be resisted; he is mightytoothed, this son of strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Not to be resisted: na = iva (hanava iva);
 

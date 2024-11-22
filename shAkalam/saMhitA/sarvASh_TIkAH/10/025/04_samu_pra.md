@@ -25,17 +25,20 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhītáyaḥ ← dhītí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -193,7 +196,8 @@ vívakṣase ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Our praises converge (**Soma**) towards you, as herds towards a well; establish our pious acts, Soma,for us to live (long), as (the priest sets up) the cups for your exhilaration; for you are mighty.”
 </details>

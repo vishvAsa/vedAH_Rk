@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
 
@@ -164,11 +167,13 @@ iva ← iva (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approach me, (husband); deem me not immature; I am covered with down like a eve of the gandhārins.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This is **Lomaśa**'s reply. \[This and previous verse are brought in abruptly and in a different metre; perhaps, these hymns echoe some ancient popular song
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirasaḥ ← áṅgiras- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -181,11 +184,13 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Aṅgirasas**, prompt (in worship), soliciting him obtain preious (wealth) from **Savitā**; may the mightyadorable parent, and the universal god alike favourable minded, approve (of the donation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Parent: **pita** may beVaruṇa, the father of **Vasiṣṭha**, or **Prajāpati**, the father of all
 </details>

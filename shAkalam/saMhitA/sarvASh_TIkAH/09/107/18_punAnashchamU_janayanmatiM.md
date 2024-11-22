@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 camū́ ← camū́- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -172,11 +175,13 @@ váneṣu ← vána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purified in the cups, exciting laudation, the sage **Soma** rejoices among the gods; clothed with the waters sitting in the wooden bowls, he is surrounded with the curds and milk.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purified in the cups: **camu** = camuṣu; effused on the plural nks
 </details>

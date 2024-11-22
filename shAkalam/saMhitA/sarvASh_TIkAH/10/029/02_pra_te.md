@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áparasyāḥ ← ápara- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -196,7 +199,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we be prosperous at the coming of the present or of any future dawn, (through the adoration) ofyou, the chief leader of men; through your favour **Triśoka** obtained a hundred followers; the chariot which wascommon to him and you was acquired by **Kutsa**.”
 </details>

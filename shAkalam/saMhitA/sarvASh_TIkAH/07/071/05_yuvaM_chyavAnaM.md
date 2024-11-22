@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amumuktam ← √muc- (root)  
 {number:DU, person:2, mood:IND, tense:PLUPRF, voice:ACT}
 
@@ -188,11 +191,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You exempted **Cyavana** from decay; you mounted **Pedu** upon a swift charger; you extricated **Atri** fromtorture and darkness; you replaced **Jāhuṣa** in his rebellious kingdom.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mounted Pedu: niramhasastamasahspartam atrim = amhasaḥ: ribisat tuṣagneḥ sakāśāt tamasaśca guhantaḥ sthitaccha
 </details>

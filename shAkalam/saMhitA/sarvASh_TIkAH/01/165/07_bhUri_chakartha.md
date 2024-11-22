@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -180,7 +183,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Maruts**): Showerer (of benefits), you have done much; but it has been without united equal energies; for we, too, most powerful **Indra**, have done many things, and by our deeds (we are, as) we desire to be, Maruts.”
 </details>

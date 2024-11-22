@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 r̥tāvŕ̥dhau ← r̥tāvŕ̥dh- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -116,11 +119,13 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke **Mitra** and **Varuṇa**, who with true speech, are the encouragers of pious acts, and are lords of true lighṭ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mitra and Varuṇa are among the eights sons of **Aditi**, **Ādityas**\]. \[ṛtasya **jyotiṣas**-**pati**: śrutyantare cāṣṭau putrāso aditeḥ ityupakramya mitraśca varuṇaśca ityādikam āmnātam (**Taittirīya** **Āraṇyaka** 1.13.2-3)
 </details>

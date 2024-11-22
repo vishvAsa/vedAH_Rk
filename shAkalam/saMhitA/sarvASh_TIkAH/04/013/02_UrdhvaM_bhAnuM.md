@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśret ← √śri- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -189,11 +192,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine **Savitā** diffuses his light on high, dispersing the dew, and like a vigorous (bull) ardent for the cow; then **Varuṇa**, and **Mitra**, and other (divinities), hasten to (fulfil) their offices when they elevate the sun in the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hasten to fill their offices: yat sūryam divy ārohanti; yad raśmayaḥ sūryasya ārohaṇam kārayanti, when the rays of light cause the ascent of the sun
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -178,11 +181,13 @@ varṣayathaḥ ← √vr̥ṣ- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Imperial and mighty showerers, lords of heaven and earth, beholders of the universe, you approach, **Mitra** and **Varuṇa**, with variegated clouds to hear the sound (of your praises), and cause the sky to (send down) rain by the power of the emitter of showers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By the power of the emiter of showers: asurasya māyayā = **udaka** nirasituḥ parjanyasya sāmarthyena, by the power of **Parjanya**, the caster-forth of water, influenced by Mitra and Varuṇa as the deities presiding over day and night
 </details>

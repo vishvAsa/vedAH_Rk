@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 avatám ← avatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -110,7 +113,8 @@ udríṇam ← udrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I pour out (the water of) the well, whose cattle troughs are prepared, well fitted with straps, fit to bepoured out, full of water, inexhaustible.”
 </details>

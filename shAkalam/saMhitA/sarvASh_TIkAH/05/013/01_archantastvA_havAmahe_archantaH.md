@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árcantaḥ ← √r̥c- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -114,7 +117,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adoring you, **Agni**, we invoke you, adoring you we kindle you, adoring you for protection.”
 </details>

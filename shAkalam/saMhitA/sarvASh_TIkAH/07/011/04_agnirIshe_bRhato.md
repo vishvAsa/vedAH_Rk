@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarásya ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ havyavā́ham ← havyavā́h- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** presides over the solemn rite, over every consecrated oblation; the **Vasus** approved of his acts;the gods have made him the bearer of the offering.”
 </details>

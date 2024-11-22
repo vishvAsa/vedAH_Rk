@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥haté ← br̥hánt- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ vibhā́ti ← √bhā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Repeat acceptable and all-comprehensive praise to the imperial mighty divine **Varuṇa**, he who, endowed with greatness, with wisdom, and with splendour, illumines the spacious (heaven and earth).”
 </details>

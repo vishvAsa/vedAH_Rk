@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -202,11 +205,13 @@ vaha ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With all these in one chariot, **Agni**, or in many (chariots), come to our presence, for your horses are able; bring the three and thirty divinities with their wives, for the sake of (the sacrificial) food, and exhilarate them (all with the **Soma**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The three and thirty divinities with their wives: patnīvatas triṃśatam trīṃśca devān: the first is, literally, having wives, but sometimes considered a proper name
 </details>

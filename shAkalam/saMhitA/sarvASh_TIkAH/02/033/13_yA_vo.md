@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bheṣajā́ ← bheṣajá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -213,11 +216,13 @@ yós ← yós (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, I solicit of you those medicaments which are pure; those, showerers (of benefits), which give great plural asure; those which fonfer felicity; those which (our) sire, **Manu**, selected; and those (medicaments) of **Rudra** which are the alleviation (of disease), and defence (against danger).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those which our sire Manu selected: yāni **manur** avṛṇītā **pitā** naḥ: **Mahābhārata** legend: reference to the vegetable seeds which Manu was directed to take with him into the vessel in which he was preserved at the time of the **deluge**
 </details>

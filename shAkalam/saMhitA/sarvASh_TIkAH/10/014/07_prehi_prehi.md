@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ihi ← √i- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -190,11 +193,13 @@ yamám ← yamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Depart, depart, by the former paths by which our forefathers have departed; there shall you behold thetwo monarchs **Yama** and the divine **Varuṇa** rejoicing in the **Svadhā**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Shall you behold: **paśya** = behold!
 </details>

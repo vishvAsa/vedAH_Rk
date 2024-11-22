@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ vaṣṭi ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The people earnestly call upon you in battles, **Indra**, (they call upon you) when standing together inthe conflict; at this (call) Indra makes him his friend who offers oblations; the hero desires not friendship with himwho presents no libation.”
 </details>

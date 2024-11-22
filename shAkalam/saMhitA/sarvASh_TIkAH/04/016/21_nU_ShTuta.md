@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -193,11 +196,13 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorified (in the past), glorified, **Indra**, at present, satisfy your worshipper with food, as rivers (are filled with water); lord of horses, a new hymn has been made for you; may we possessed of chariots, be ever delighted in (your) praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A new hymn has been made for you: akāri **Brahmā**
 </details>

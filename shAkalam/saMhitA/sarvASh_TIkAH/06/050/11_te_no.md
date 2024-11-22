@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyumátaḥ ← dyumánt- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ mr̥ḷáta ← √mr̥ḍ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be unto us, gods, donors of splendid, invigorating riches, comprising **male** descendants, and celebrated by many; celestial **Ādityas**, terrestrial **Vasus**, offspring of **Pṛśni**, children of the waters, granting our desires, make us happy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Celestial Ādityas: **divyā**, the celestial, that is, the Ā **dityas**; pārthivāsāḥ, terrestrial, that is, the Vasus; go-**jātāḥ**, cow-born, born of Pṛśni, the **Maruts**; apyāḥ, the aquatic, born in the firmament, the **Rudras**
 </details>

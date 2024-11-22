@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 candráḥ ← candrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -146,11 +149,13 @@ vanúṣaḥ ← vanús- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sage **Agni**, the mortal (who propitiates you) becomes a moon in heaven, the most eminent of the great (deities); may we, therefore, ever be in an especial manner your worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A moon in heaveṅ so candro maryaḥ: he becomes like the moon the rejoicer of all, āhlādakaḥ sarveṣām; or, he even becomes the moon, **candra** eva **bhavati**; according to the Chandogās: candratvaprāptim chandogā āmananti, the Chandogās are authority for obtaining the condition of the moon; pitṛlokādākāśam ākāśāc-candramasam eṣa somo **rājā**, from the region of the **pitṛs** to the **ākāśa**; from ākāśa to the moon, this is **soma**, the king. **Muṇḍaka Upaniṣad** also refers to: dyulokaprāptiḥ, the attainement of heaven
 </details>

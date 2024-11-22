@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -178,7 +181,8 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The daughter of **Sūrya** made choice of your chariot at the approach of night; you defend the devoutworshipper by your deeds, when the resplendent (sacrificial) food proceeds to you to secure your protection.”
 </details>

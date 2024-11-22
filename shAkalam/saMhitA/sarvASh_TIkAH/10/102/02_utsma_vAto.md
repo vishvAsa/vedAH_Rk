@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asyāḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -186,7 +189,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wind raised her vesture when she won a thousand cart-loads. Mudgalānī was the charioteer inthe quest of the cattle, the army of **Indra** recovered (the spoil) taken in battle.”
 </details>

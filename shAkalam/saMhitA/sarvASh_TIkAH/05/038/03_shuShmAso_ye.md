@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrivaḥ ← adrivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -148,7 +151,8 @@ rājathaḥ ← √rāj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wielder of the thunderbolt, yours are the strong (**Maruts**), who are adorable, and whose exploits are renowned; both divinities, (you and they), rule at plural asure over heaven and earth.”
 </details>

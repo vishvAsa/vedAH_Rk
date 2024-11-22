@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -179,11 +182,13 @@ kṣā́m ← kṣám- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Make hot the regions of earth, of heaven, of mid air, for the oppressive race (of the **rākṣasas**); showerer (of benefits), consume them everywhere with your radiance, make the heaven and the firmament (too) hot for the impious.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Brahmadviṣe = **brāhmaṇa** dveṣṭre, the hater of **brāhmaṇas**; perhaps, a reference to the enemy or hater of the **veda** or of prayer
 </details>

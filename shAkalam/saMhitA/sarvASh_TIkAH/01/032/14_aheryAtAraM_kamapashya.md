@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áheḥ ← áhi- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -212,11 +215,13 @@ rájāṁsi ← rájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When fear entered, **Indra**, into your heart when about to slay Ahi, what other destroyer of him did you look for, that, alarmed, you did traverse ninety and nine streams like a (swift) hawk?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When fear entered Indra: his fear was the uncertainty whether he should destroy **Vṛtra** or not
 </details>

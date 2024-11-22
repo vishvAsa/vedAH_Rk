@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājaú ← ājí- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ pakthī́ ← pakthín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All this, **Indra**, has been your work in war; you have put to sleep, (in depth), the slumbering **Dhunī** and Cumurī; and thereupon **Dabhīti**, pouring the libation, preparing the oblation, and supplying the fuel, has glorified you with **Soma** offerings.”
 </details>

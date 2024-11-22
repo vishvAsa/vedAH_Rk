@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dáśakakṣyebhyaḥ ← dáśakakṣya- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -160,11 +163,13 @@ yuktā́ḥ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship (priests), those imperishable (stones) which have ten workers, ten girths, ten yokes, tenagents, ten encompassers, which are possessed of ten burdens, which bear (the sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ten workersetc., are the ten fingers; **Nirukta** 3.9
 </details>

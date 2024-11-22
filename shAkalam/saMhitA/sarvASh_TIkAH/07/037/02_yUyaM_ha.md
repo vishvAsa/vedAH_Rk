@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhattha ← √dhā- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -177,7 +180,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you, **Ṛbhukṣins**, beholders of heaven, preserve unmolested the precious (treasure) for us who areaffluent (in sacrificial offerings); do you who are possessed of strengh, drink fully at (our) solemnities, and with(favourable) minds bestow upon us riches.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́yuḥ ← ā́yus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -201,11 +204,13 @@ savitrā́ ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The engendered domestic radiance of **Agni** spreads through various dwellings, and presides over all (sorts of sacrificial) food; the mother, (Dawn), has assigned to her son, (Agni), the best portion (at sacrifices), which is the manifestation of him imparted by **Savitā**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The **agnihotra** rite is to be performed at dawn, which may be therefore considered as enjoined or instrumental gated by the rising sun
 </details>

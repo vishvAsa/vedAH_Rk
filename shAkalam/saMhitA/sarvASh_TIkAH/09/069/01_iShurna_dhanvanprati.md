@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhánvan ← dhánur ~ dhánvan- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -219,11 +222,13 @@ vratéṣu ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Our) praise is attached (to **Indra**) as an arrow to the bow; (the **Soma**-juice) is let loose to (Indra) the fosterer as a calf to the udder to its mother; (Indra sheds blessings) as a cow having a copious stream of milk yields it when coming into the presence (of the calf); in Indra's sacrifices the Soma is stimulated.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The fosterer: ūdhani = Indra, because he is the nourisher of everything
 </details>
@@ -245,7 +250,8 @@ The making of Soma’s garments was something of a preoccupation of the previous
 
 There is another problem in this little phrase - one of my own making. By my rules (“Vedic anyá- 'another, the other': Syntactic disambiguation,” in Sound Law and Analogy [Fs. Beekes], ed. A. Lubotsky, 1997: 111-18), 2nd position anyá-, the position anyā́takes here, should be definite. I have so translated it (“the four other … worlds”), though I cannot identify which four other worlds these would be. Neither five (1+4) or four is a standard number for cosmic divisions in the RV. The standard tr. take it as indefinite (e.g., Geldner “vier andere schöne Wesen”), and I admit that an indefinite reading is less problematic (though scarcely unproblematic). Perhaps the presence of a numeral in first position may displace anyá- to the right, or perhaps it even performs a quasi-definitizing function. The quantifier víśva- always occurs with non-initial anyá-, though usually pāda-final (1997: 112, 114). In any case I would now favor an alternative tr. “He made four other dear worlds to be his raiment,” though in the absence of an understanding of what the “four” are—no good solutions have so far been suggested—a definite interpr. remains a possibility.
 
-Though Geldner renders ṛtaíḥ as “nach den Regeln,” Lüders (438, 566) is surely right that ṛtá- here refers to hymns (Kultlieder), which are in some sense true speech. Renou points out the presence of both satyá- (b) and ṛtá- (d) in the vs. ### 02
+Though Geldner renders ṛtaíḥ as “nach den Regeln,” Lüders (438, 566) is surely right that ṛtá- here refers to hymns (Kultlieder), which are in some sense true speech. Renou points out the presence of both satyá- (b) and ṛtá- (d) in the vs. _________
+**02**  
 The phrase amṛ́tasya cā́ruṇaḥ recurs in the same position in vs. 4 and must have the same referent. (See also IX.108.4, 110.4.) What that referent is is disputed.
 
 Unlikely is Lüders’s interpr. (237), fld. by Renou, that it refers to a celestial seat: Soma separates Heaven and Earth in order to make a place for himself, from which he can create the heavenly streams. Geldner tr. “Göttertrank,” and (n. 2a) equates this with the heavenly Soma. In this I think he is correct, with amṛ́ta- here the nominalized neut.

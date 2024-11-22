@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvantaḥ ← árvant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -195,11 +198,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those universal horses (of the deities), who listen to invocations, who are vigorous, swiftroadsters, hear our summons; they who spontaneously are the givers of thousands, as if at sacrifice; they whohave won great wealth in battles.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As if at sacrifice: medhasātāv iva tvamanā = medhasātā saniṣyavaḥ =desiring to give in the hall of sacrifice (**Yajus**. 9.17); ahavarvai mitro rātrirvaruṇaḥ: **Aitareya** **Brāhmaṇa** 4.10
 </details>

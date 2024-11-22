@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 īmahe ← √yā- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -138,7 +141,8 @@ dvitā́ ← dvitā́ (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit with ancient and gratifying (offerings) him who is mighty and the invoked of many; may he sitdown on the plural asant sacred grass, and accept the two-fold (offering of cakes and **Soma**).”
 </details>

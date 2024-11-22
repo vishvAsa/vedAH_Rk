@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; 11 = 4+7, ending HLX
-#### Morph
+_________
+**Morph**  
 janúṣam ← janúṣ- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ víśvyā ← víśvya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Crying repeatedly, and foretelling what will come to pass, (the **kapiñjala**) gives (due) direction to its voice, as a helmsman (guides) a boat; be ominous, bird, of good fortune, and may no calamity whatever befall you from any quarter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kapiñjala: The Anukramaṇikā has kanimatarūpindro **devatā**;
 

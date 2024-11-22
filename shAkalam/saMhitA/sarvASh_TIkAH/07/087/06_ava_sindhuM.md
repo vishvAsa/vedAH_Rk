@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -195,11 +198,13 @@ supārákṣatraḥ ← supārákṣatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Radiant) as the sun, **Varuṇa** plural ced the ocean (in its bed) white as a drop (of water), vigorous as anantelope, objects of profound praise, distributor of water, the powerful transporter beyond sin, the ruler of thisexisting (world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 White as a drop of water: drapso na śveto **mṛgas** tuviṣmān: **śveta** is attached to **mṛga**:drapso na dravaṇaśīla udabindur iva **śvetaḥ** śubhravaṇo **mṛgaḥ** gauramṛga iva tuviṣmān **balavān**;distributor of water: nirmātā, creator
 </details>

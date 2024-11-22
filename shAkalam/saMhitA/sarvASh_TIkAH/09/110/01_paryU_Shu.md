@@ -22,14 +22,17 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhanva ← √dhanv- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -149,7 +152,8 @@ tarádhyai ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hasten, **Soma**, to bring us sustenance; gifted with endurance (attack our) foes; the acquitter of our debts, you approach to disperse our enemies.”
 </details>

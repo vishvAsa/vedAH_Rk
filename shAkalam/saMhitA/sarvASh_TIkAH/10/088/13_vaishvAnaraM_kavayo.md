@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kaváyaḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -166,11 +169,13 @@ yakṣásya ← yakṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise and adorable gods engendered the imperishable **Agni** **Vaiśvānara**; he overcame (with hislight) the ancient swift-moving **Nakṣatra**, the overseer of the adorable (deity), mighty and great.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Overseer:yakṣasyādhyakṣam: adhyakṣam = perceptible; the lord; or, the moon, the lord of the **yakṣas** (isn't the lord ofthe yakṣas, **Kubera**?
 </details>

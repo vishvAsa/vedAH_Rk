@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcanti ← √r̥c- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -125,7 +128,8 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The reciters of prayers, the repeaters of praise, who are skilled in sacred song, worship you both; I have recourse to **Indra** and **Agni** for food.”
 </details>

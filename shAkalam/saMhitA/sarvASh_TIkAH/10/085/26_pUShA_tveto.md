@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hastagŕ̥hya ← hastagŕ̥hya (invariable)  
 {non-finite:CVB}
 
@@ -210,7 +213,8 @@ vidátham ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Pūṣan** lead you hence, taking you by the **hand**; may the **Aśvins** convey you away in their car,go to the dwelling (of your husband) as you are the mistress of the house; you, submissive (to your husband),give orders to his household.”
 </details>

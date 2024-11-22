@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -210,11 +213,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Daughter of heaven, (Uṣas), whatever ill-omened dream threatens our cattle, keep it, O brilliant one,far from **Trita** Āptya; y our aids are void of harm, your aids, are true aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Far from Trita Āptya: trita-yaāptyāya: keep it far away for Trita Āptya; Ṛcas 14 and 15 are used in **Āśvalāyana**'s Gṛhy **Sūtras** to berecited after an unpleasant dream
 </details>

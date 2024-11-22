@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 etā́vataḥ ← etā́vant- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -155,7 +158,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we once more know you as such, O gracious hero, as when you did aid **Etaśa** in the decisivebattle, or **Vaśa** against Daśavraja.”
 </details>

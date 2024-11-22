@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 rāke ← rākā́- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -186,7 +189,8 @@ subhage ← subhága- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Rākā**, with those your kind and gracious intentions, wherewith you grant riches to the donor (of oblations), approach us today; you who are auspicious of good fortune, favourably inclined, and bestowing a thousand blessings.”
 </details>

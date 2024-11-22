@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 idám ← ayám (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -197,11 +200,13 @@ yamyā̀ ← yamī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Behold), men, this indescribable form from which the rivers (spring), and where the waters dwell; when (form, the firmament), the two, (day and night), associated and equally allied, as well as other (seasons), born (of it, as of a parent), here and there sustain.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 (Behold): may be rendered also, as men, look at the form which is to be seen; here and there sustain: apparently the firmament is supported or maintained in its plural ce by the various changes of times and seasons which it may be considered to genitive rate
 </details>

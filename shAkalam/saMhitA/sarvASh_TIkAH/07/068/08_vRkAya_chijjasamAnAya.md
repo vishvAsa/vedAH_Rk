@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -177,7 +180,8 @@ staryàm ← starī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have granted (his desires) to **Vṛka**, exhausted by his devotions; when called upon you havelistened to **Śayu**; you are they who have filled the barren cow (with milk) as (a river) with water; you have(endowed her) with strength, **Aśvins**, by your deeds.”
 </details>

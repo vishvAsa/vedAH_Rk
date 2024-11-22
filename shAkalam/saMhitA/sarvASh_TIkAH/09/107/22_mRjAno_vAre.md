@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avyáye ← avyáya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -158,7 +161,8 @@ góbhiḥ ← gáv- ~ gó- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer of benefits, cleansed and filtered in the woollen fleece, you cried aloud in the water; **Soma** **Pavamāna**, mixed with the curds and milk, you go to the prepared (station) of the gods.”
 </details>

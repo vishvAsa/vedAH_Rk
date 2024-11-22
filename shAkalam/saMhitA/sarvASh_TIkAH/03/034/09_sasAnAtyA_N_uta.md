@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyān ← átya- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -190,11 +193,13 @@ várṇam ← várṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He gave horses, he gave also the sun, and **Indra** gave also the many-nourishing cow; he gave golden treasure, and having destroyed the **dasyus**, he protected the **ārya** tribe.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ārya tribe: ārya varṇam = implies only the best tribe, or order, uttamam varṇam, or the three first castes collectively
 </details>

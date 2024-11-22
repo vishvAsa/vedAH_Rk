@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -202,11 +205,13 @@ vadāti ← √vadⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I understand not the threads (of the warp), nor the threads of the woof, nor that (cloth) which those who are assiduous in united exertion weave; of what (man) may the son declare the words that are to be spoken in the next world, (instrumental ucted) by a father abiding below.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 According to those who know tradition, sampradāyavidaḥ, the reference to **tantuṃ**.. is a figurative allusion to the mysteries of sacrifice; the threads of the warp, **tantu**, are the metres of the **vedas**, those of the woof, otu, the liturgic prayers and ceremonial, the combination of which two is the cloth, or sacrifice; the ātmavidaḥ or vedāntins understand it as an allusion to the mysteries of creation, the threads of the warp are the subtle elements, those of the woof are the gross elements; the elements combine to form the universe. In the second half of the ṛca, **putra** = **manuṣya**, a man;
 

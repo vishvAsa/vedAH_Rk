@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 idám ← ayám (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -182,7 +185,8 @@ supippalā́ḥ ← supippalá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This praise is addressed to the self-irradiating **Parjanya**; may it be plural ced in his heart; may he begratified by it; may the joy-diffusing rains be ours; may the plural nts cherished by the deiy be fruitful.”
 </details>

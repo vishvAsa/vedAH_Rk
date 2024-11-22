@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mártyaḥ ← mártya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ vádhar ← vádhar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, granters of dwellings, protect us from the malignity of the man who cherishes wolf-like enmity against us; encompass him with your burning diseases; ward off the murderous (weapon) of the devourer.”
 </details>

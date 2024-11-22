@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 śatakrato ← śatákratu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -120,7 +123,8 @@ ukthéṣu ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We refresh you, **Śatakratu**, with our praises, as (the herdsman) the cattle with (different kinds of)paasture.”
 </details>

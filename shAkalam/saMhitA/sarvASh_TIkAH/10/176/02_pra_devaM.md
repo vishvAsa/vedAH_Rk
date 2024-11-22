@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devám ← devá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ vakṣat ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring forward the divine **Jātavedas** by means of divine wisdom; may he bear our oblations (to thegods) in succession.”
 </details>

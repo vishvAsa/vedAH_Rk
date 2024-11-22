@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āhuḥ ← √ah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -200,7 +203,8 @@ r̥tám ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The expounders of the **Vedas**) spoke to **Kaṇva**, the son of **Nṛṣad**, and he the dark-tinted, havingfood, acquired wealth; (**Agni**) sprinkled (the milk of the brilliant udder for the dark (complexioned sage); no otherdivinity so favours the sacrifice for him\].”
 </details>

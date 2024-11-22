@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agnidagdhā́ḥ ← agnidagdhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -159,11 +162,13 @@ yathāvaśám ← yathāvaśám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those who are agnidagdhas, and those who are not, be satisfied with **svadhā** in the midst ofheaven; and do you supreme lord, associated with them, construct at your plural asure that body that is endowedwith breath.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agnidagdhas: those whose bodies have been burnt by the obsequial fire; supreme lord: svarāt. =**Agni**; or **Yama** (**Yajus**. 19.60); asunītim tanvam = the body that leads to life-- a divine body; or long-lived
 </details>

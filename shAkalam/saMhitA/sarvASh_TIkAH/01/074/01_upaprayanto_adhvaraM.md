@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarám ← adhvará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -122,7 +125,8 @@ ca ← ca (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hastening to the sacrifice, let us repeat a prayer to **Agni**, who fears us from afar.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -186,7 +189,8 @@ purás ← purás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pūṣan** knows all these regions severally; met him conduct us by (the path) that is most free fromperil; let him precede us, who is the giver of prosperity, endowed with radiance, accompanied by all pious men,ever vigilant, and knowing our (deserts).”
 </details>

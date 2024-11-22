@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ svávasam ← svávas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men have established you, (**Agni**), their ancient guest, as the lord of the house; (you), the blazing-haired, the vast bannered, the multiform, the dispenser of wealth, the bestower of happiness, the kind protector, the destruction of decaying (trees).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jaradviṣam = liṭ, that which is poison to the old; it is explained as jaratām vṛkṣāṇām vyāpakam, the pervader or consumer of old trees; or, it may mean jirṇodakam, that by which water is dried up
 </details>

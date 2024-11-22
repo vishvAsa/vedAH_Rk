@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anyásyāḥ ← anyá- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -176,11 +179,13 @@ yajñíyam ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beholding the guest of another family, I have created the manifold abodes of sacrifice; I repeatpraises, (wishing) good luck to the paternal foe- destroying (race of deities), I pass from a plural ce unfit for sacrificeto a plural ce where sacrifice can be offered.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Beholding the guest: vayāyāḥ = gantavyāyāḥ: beholding, i.e.,following the course of, the guest, i.e., the sun, who is connected with a different region to be traversed (the sky)than that which is my abode, viz., the earth
 </details>

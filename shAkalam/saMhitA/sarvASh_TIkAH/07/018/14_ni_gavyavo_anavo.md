@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánavaḥ ← ánu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -200,11 +203,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The warriors of the Anus and **Druhyus**, intending (to carry off the) cattle, (hostile) to the pious(**Sudāsa**) perished to the number of sixty-six thousand six hundred and sixty; such are all the glorious acts ofIndra.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sixty- thousand: ṣaṣṭiḥ **śata** śat. **sahasra** ṣaṣṭir **adhi** śat. = sixty hundreds, six thousands, sixty, withsix more;
 

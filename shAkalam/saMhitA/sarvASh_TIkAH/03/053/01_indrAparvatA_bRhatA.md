@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hatā́ ← br̥hánt- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ várdhethām ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Parvata**, bring hither, in a spacious car, delightful viands (genitive rative of) good progeny; partake, deities, of the oblations (offered)at (our) sacrifices, and gratified by the (sacrificial) food, be elevated by our praises.”
 </details>

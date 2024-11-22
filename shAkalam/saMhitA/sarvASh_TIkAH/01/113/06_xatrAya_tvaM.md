@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kṣatrā́ya ← kṣatrá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -180,7 +183,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The dawn rouses one man to acquire wealth, another to earn food, another to achieve greatness, another to sacrifices, another to his own (pursuits), another to activity, and lights all men to their various means of maintaining life. Uṣās has given back all the regions.”
 </details>

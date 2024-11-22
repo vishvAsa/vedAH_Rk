@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ghr̥távat ← ghr̥távant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -125,11 +128,13 @@ padé ← padá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise taste, through their pious acts, the **ghee**-resembling waters of these two, (abiding) in the permanent region of the **Gandharvas**. (**Antarikṣa**, the sphere of gandharvas, **yakṣas** and **apsarasas**, the firmament between heaven and earth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ākāśe varmānayoḥ dyāvāpṛthivyoḥ
 </details>

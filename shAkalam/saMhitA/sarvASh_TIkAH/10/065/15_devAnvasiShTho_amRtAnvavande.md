@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 amŕ̥tān ← amŕ̥ta- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -188,7 +191,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Descendant of) **Vasiṣṭha**, I have glorified the immortal gods who preside over all worlds; may theythis day bestow upon us widely-famed food; do you always cherish us with blessings.”
 </details>

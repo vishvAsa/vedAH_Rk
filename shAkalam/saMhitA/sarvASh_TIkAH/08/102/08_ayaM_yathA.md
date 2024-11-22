@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ābhúvat ← √bhū- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -129,7 +132,8 @@ yáśasvataḥ ← yáśasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Draw near) that he may deal with us as a carpenter (**TVaṣṭā**) deals with the timber he has to cut;may we become renowned by his skill.”
 </details>

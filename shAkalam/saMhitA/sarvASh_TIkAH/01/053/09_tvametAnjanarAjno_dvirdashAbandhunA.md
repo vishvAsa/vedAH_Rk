@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśa ← dáśa- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -179,11 +182,13 @@ ráthyā ← ráthya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, renowned **Indra**, overthrown by your not-to-be- overtaken chariot-wheel, the twenty kings of men, who had come against **Suśravas** unaided, and their sixty thousand and ninety-nine followers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Perhaps, a reference to **Āyus**, son of **Purūravās**
 </details>

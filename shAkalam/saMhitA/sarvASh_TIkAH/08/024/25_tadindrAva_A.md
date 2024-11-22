@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -147,11 +150,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, of goodly aspect, bring to the offerer (of the oblation) that (protection) wherewith to defend himyou have twice slain (the goe) for **Kutsa**; show the same (care of us).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bring to us that protection wherewith (youprotect your) offerer; send to us (that protection wherewith) you have twice slain (the foe) for Kutsa
 </details>

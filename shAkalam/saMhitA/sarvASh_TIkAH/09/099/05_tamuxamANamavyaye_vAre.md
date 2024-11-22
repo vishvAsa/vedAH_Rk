@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avyáye ← avyáya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -138,11 +141,13 @@ manīṣíṇaḥ ← manīṣín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him sprinkled (with water) the supporter (of all things) they purify in the woollen filter; the wise (worshippers) instrumental uct him as a messenger to proclaim (their prayers) beforehand (to the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The wise worshippers instrumental uct: śāsate = they desire him
 </details>

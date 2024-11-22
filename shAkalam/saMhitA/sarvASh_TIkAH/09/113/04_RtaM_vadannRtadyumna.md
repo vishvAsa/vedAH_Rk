@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 r̥tadyumna ← r̥tadyumna- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ srava ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, the utterer of truth, radiant with truth, truth-speaking, truthful in act, speaking faith; lord (of worshippers), you are decorated by the upholder (of the rite); flow, **Indu** for **Indra**.”
 </details>

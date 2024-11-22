@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 śatám ← śatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -195,11 +198,13 @@ rátnam ← rátna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May hundreds of your protections, handsome-chinned, be (secured) to the liberal donor (of oblations);may thousands of blessing be bestowed (upon me) as well as wealth; cast the fatal weapon on the mischievousmortal; grant us food and wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dyumnam = either food or fame: **Nirukta**. 5.5
 </details>

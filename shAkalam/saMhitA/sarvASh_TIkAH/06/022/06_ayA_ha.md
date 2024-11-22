@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayā́ ← ayám (pronoun)  
 {case:INS, gender:F, number:SG}
 
@@ -183,11 +186,13 @@ virapśin ← virapśín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Self-invigorated **Indra**, you have crushed by your knotted (thunderbolt), quick as thought, that **Vṛtra**, growing in strength by this cunning; very radiant and mighty (Indra), you have demolished by (your) irresistible (shaft) the unyielding, compact, and strong (cities of the **asuras**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Growing in strength: ayā māyayā vāvṛdhānam, by this guile or deception
 </details>
@@ -200,7 +205,8 @@ You boldly shattered even the immovable, firm fastnesses, o you of  good might w
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Indra’s overwhelming power, viewed with some apprehension in the previous vss., is a positive force when it is exercised for our benefit against external foes, and the hymn now turns to this happier theme. The published translation assigns the instr. phrase ayā́… māyáyā “with this magic power” to Indra, whereas Geldner and Oldenberg assume that the phrase goes with vāvṛdhānám and refers to Vṛtra’s māyā́; Oldenberg is in fact quite scornful of the former interpr. However, see comm. ad nearby VI.18.9, where I argue that Indra is regularly credited with māyā́in this Indra cycle. See, e.g., 1d in this hymn and 2d in the previous one (VI.21.2), both with purumāyá- qualifying Indra. It is also the case that this hymn contains hostile māyā́; see 9d. I therefore now think that māyayā́in this vs. has double application. Its tight embedding in the acc. phrase tyám māyáyā vāvṛdhānám does suggest that it belongs to Vṛtra, but the initial near-deictic ayā́, outside that NP, refers, in my opinion, to “this (māyā́) right here” -- namely Indra’s. I would therefore amend the tr. to “With this (magic power of yours) right here … (you shattered) him who had grown strong with his magic power.” The identification of the vajra with “the mountain that has the speed of thought” goes back to Sāyaṇa. Though the first hemistich lacks a verb, it is easy enough to supply ‘shattered’ from rujó ví in the 2nd half-vs. ### 07
+Indra’s overwhelming power, viewed with some apprehension in the previous vss., is a positive force when it is exercised for our benefit against external foes, and the hymn now turns to this happier theme. The published translation assigns the instr. phrase ayā́… māyáyā “with this magic power” to Indra, whereas Geldner and Oldenberg assume that the phrase goes with vāvṛdhānám and refers to Vṛtra’s māyā́; Oldenberg is in fact quite scornful of the former interpr. However, see comm. ad nearby VI.18.9, where I argue that Indra is regularly credited with māyā́in this Indra cycle. See, e.g., 1d in this hymn and 2d in the previous one (VI.21.2), both with purumāyá- qualifying Indra. It is also the case that this hymn contains hostile māyā́; see 9d. I therefore now think that māyayā́in this vs. has double application. Its tight embedding in the acc. phrase tyám māyáyā vāvṛdhānám does suggest that it belongs to Vṛtra, but the initial near-deictic ayā́, outside that NP, refers, in my opinion, to “this (māyā́) right here” -- namely Indra’s. I would therefore amend the tr. to “With this (magic power of yours) right here … (you shattered) him who had grown strong with his magic power.” The identification of the vajra with “the mountain that has the speed of thought” goes back to Sāyaṇa. Though the first hemistich lacks a verb, it is easy enough to supply ‘shattered’ from rujó ví in the 2nd half-vs. _________
+**07**  
 The predicated inf. paritaṃsayádhyai has no clear subject, but vaḥ must serve in this capacity, referring to the poets, who will perform this action with “their newer insight” (dhiyā́návasyā). The model for this action is the previous poets referred to in 2ab who praised and stimulated Indra, here represented by the adverbial pratnavát ‘in the ancient way, as the ancients did’. The force of pari- in the infinitive must be to indicate that poets from all competing groups will try to pull Indra to their side.
 
 Geldner renders animāná- as ‘ohne Vorbild’ (pattern, model), but there seems to be no support for this tr. The only occurrence of ní √mā that I know of in the RV is in the enigmatic creation hymn III.38.7d ní … mamire, where it is paired with ā́… mamire (7a), with both verbs referring to the ‘measuring out’ of creation and created things. There is another occurrence of the negated adj. animāná- in I.27.11, but nothing in that passage pushes the word to mean anything beyond ‘without measure’.

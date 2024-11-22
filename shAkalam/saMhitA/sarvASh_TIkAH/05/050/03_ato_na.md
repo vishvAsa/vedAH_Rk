@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -149,11 +152,13 @@ yū́yuviḥ ← yū́yuvi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship, therefore, the leaders (of our rites), our guests, (the gods), and the wives (of the deities); may the (divine) discriminator drive to a distance every adversary, (and all our) enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Worship, therefore... : ato na ā nṛn atithīn ataḥ patnīr daśasyata = bestow upon us **male** descendants, guests, and wives
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divaḥ ← dyú- ~ div- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ urugāyám ← urugāyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, Uṣas, the **Aṅgirasas** through your (favour) recover the herd of cattle from the summit of the mountain; by adoration and by prayer they have divided (the rock); unfailing was the praise of the gods uttered by the oleaders (of rites).”
 </details>

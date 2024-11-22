@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 káśā ← káśā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -121,11 +124,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, stir up (mimikṣatam = mix intimately, rapidly like a whip) the sacrifice with your whip that is wet the foam (of your horses), and lashing loudly.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Kāśa** = whip, may also mean speech; **madhumatī** and sunṛtāvatī = wet and loud, signifying sweet and veracious--come with such speech, Aśvins and taste the libation
 </details>

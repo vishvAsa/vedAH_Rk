@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 īrmā́ntāsaḥ ← īrmā́nta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -153,11 +156,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The full-haunched, slender-waistd, high-spirited, and celestial coursers (of the sun), gallop along like swans in rows, when the horses spread along the heavenly path.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Īrmāntāsaḥ silika **madhya** **māsaḥ** = thin-ended or thin-haunched, and plural mp-waisted; the allusion is to a troop or herd of horses
 </details>

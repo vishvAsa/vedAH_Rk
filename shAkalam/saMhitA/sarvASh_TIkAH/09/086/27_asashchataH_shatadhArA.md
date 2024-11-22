@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhiśríyaḥ ← abhiśrī́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -184,11 +187,13 @@ tr̥tī́ye ← tr̥tī́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Separate, hundred-streamed, commingling (with the **Soma**), water-desiring, (the sun's rays) approach the green-tinted (Soma); the fingers cleanse him pervaded by rays, in the third sphere illumined by the sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hundred-streamed: or, śatadhāraiḥ = Soma and juices;
 

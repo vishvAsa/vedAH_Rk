@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -186,11 +189,13 @@ kr̥ta ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With thos your golden vessels, which navigate within the ocean-firmament, you discharge the office of messenger of the sun; desirous of the sacrificial food, you are propitiated by (that which is) willingly offered.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Messenger of the sun: yāsi dūtyām sūryasya: a legend is related; on one occasion, when **Sūrya**, with the gods, had set out to fight the **asuras**, he sent **Pūṣan** to his abode to console his wife, who was greatly afflicted by his going to the wars; for which office Pūṣan is here commended
 </details>

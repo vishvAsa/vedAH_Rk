@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kakuháḥ ← kakuhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -147,7 +150,8 @@ narā ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your strong, lofty, moving, ever-progressing (ear) has been renowned at sacrifices ever since; **Aśvins**, leaders (of rites), **Atri** was rescued by your acts.”
 </details>

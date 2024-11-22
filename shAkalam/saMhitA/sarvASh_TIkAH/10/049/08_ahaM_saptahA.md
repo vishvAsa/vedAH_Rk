@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -194,11 +197,13 @@ vrā́dhataḥ ← √vrādh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I am the slayer of seven (**asuras**); I am the especial bond of bonds; I have made **Turvaśa** and Yadufamous through prowess; I have strengthened another (worshipper) with strength; I have demolished ninety andnine powerful (foes).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I am the slayer of seven asuras: aham saptahā, I am the slayer of seven asuras, asNamuci and others, or the destroyer of seven cities: RV. 1.174.2: sapta yatpuraḥ **śarma** **śāradīḥ**
 </details>

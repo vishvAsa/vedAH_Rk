@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káḥ ← ká- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -130,7 +133,8 @@ vásu ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What genitive ine and most esteemed of the exhilarating juies of the (sacriiial) beverage may delight you to demolish the substantial treasures (of the foe)?”
 </details>

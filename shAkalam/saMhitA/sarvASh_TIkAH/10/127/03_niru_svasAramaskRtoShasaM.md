@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 askr̥ta ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -144,7 +147,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The advancing goddess prepared (the way for) her sister Dawn, and then the darkness departs.”
 </details>

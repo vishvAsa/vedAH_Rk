@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -211,11 +214,13 @@ vivāse ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Reverence be to the potent (company of universal gods); I offer (them) reverence; reverence sustains both earth and heaven; revernce be to the gods; reverence is sovereign over them; I expiate by reverence whatever sin may have been committed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Reverence sustains: earth and heaven, by receiving **namas** or **namaskāra**, the reverential salutation or homage of mortals, continue throughout a long period for their enjoyment
 </details>

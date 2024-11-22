@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avocam ← √vac- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -178,7 +181,8 @@ rakṣatām ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Endowed with understanding, I repeat to Heaven and Earth this initial praise, to be heard around; may paternal (heaven) and maternal (earth) preserve us from reprehensible iniquity; and ever nigh defend us with their protection.”
 </details>

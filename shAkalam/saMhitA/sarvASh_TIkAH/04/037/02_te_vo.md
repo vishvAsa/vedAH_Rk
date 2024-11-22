@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -194,7 +197,8 @@ pītā́ḥ ← √pā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May these sacrifices be (acceptable) to you in heart and mind; may today the sufficient (juices) mixed with butter to you; the full libations are prepared for you; may they, when drunk, animate you for glorious deeds.”
 </details>

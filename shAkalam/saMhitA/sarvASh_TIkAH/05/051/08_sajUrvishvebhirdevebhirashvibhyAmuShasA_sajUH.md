@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 devébhiḥ ← devá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -141,11 +144,13 @@ suté ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accompanied by all the gods, accompanied by the **Aśvins**, and by Uṣas, come **Agni**, and like **Atri** delight in the libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Atri = sacrifice of the ṛṣi; delight as at the **yajña** of Atri
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 iṣudhéḥ ← iṣudhí- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Purūravā**). The arrow is not to be cast from the quiver for glory. I am no longer the impetuousdespoiler of the cattle (of the enemy), nor of their hundred-fold (riches). My prowess having lost its strength, (mymight) no longer flashes forth; (my warriors) the terrifiers (of the foe) hear not my shout in battle.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
-#### Morph
+_________
+**Morph**  
 jinvatam ← √ji- 2 ~ jinv- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -166,11 +169,13 @@ sunvatáḥ ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be propitious to the strong, be propitious to men, slay the **rākṣasas**, remedy diseases, united with thedawn and with **Sūrya**, (drink), **Aśvins**, the **Soma** of the offerer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be propitious to the strong: kṣatram jinvatamuta jinvatam nṛn: kṣatram = kṣatriyam;
 

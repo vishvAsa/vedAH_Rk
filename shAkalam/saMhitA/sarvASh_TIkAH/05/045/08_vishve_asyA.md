@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyā́ḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -182,7 +185,8 @@ vidat ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When all the **Aṅgirasas**, on the opening of this adorable dawn, came in contact with the (discovered) cattle, then milk and the rest were offered in the august assembly, for **Saramā** had found cows by the path of truth.”
 </details>

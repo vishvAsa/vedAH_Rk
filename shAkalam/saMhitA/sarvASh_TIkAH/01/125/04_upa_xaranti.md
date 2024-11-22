@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣaranti ← √kṣar- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -186,11 +189,13 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The copiously-yielding and joy-conferringkine, distil (their milk) for the celebration of the (**Soma**) sacrifice; and for him who has undertaken its celebration; the nutritious streams of butter coverage from every quarter towards him, who both propitiates (his progenitors), and benefits (mankind).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pṛṇantam ca papurim- ca = agent who gives plural asure or who gives satisfaction; pṛṇantam is applied to the **pitṛs**, or progenitors (pitram pṛṇayantam; papurm is applied to all living beings (**prāṇinaḥ** **sarvadā** pṛṇayantam puruṣam)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrogha ← adroghá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -218,7 +221,8 @@ varanta ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Doer of no wrong, such was your true greatness, that as soon as born, you have quaffed the **Soma**; neither the heavens, nor days, nor months, nor years, resist the force of you who is mighty.”
 </details>

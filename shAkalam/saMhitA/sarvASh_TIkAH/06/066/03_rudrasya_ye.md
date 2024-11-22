@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -230,7 +233,8 @@ subhvè ← subhū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They (who are) the sons of the showerer **Rudra**, whom the nursing (firmamen is able) to sustain, and of whom, the mighty ones, it is known that the great **Pṛśni** has received the germ for the benefit (of man).”
 </details>

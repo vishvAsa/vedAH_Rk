@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380);; repeated line  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 devā́nām ← devá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -153,7 +156,8 @@ uttānápadaḥ ← uttānápad- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the firsst age of the gods the existent was born of the non- existent; after that the quarters (of thehorizon) were born, and after them the upward-growing (trees).”
 </details>

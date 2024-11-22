@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -199,7 +202,8 @@ vidyút ← vidyút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, who are distinguished in troops, who are benevolent to men, who are heroes, and whose strength is deadly in your anger, you make heaven and earth resound (at your coming); your (glory) sits in the seat-furnished chariots, conspicuous as (a beautiful) form, or as the lovely lightning.”
 </details>

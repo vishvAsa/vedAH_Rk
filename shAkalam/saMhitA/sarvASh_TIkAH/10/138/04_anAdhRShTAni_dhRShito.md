@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánādhr̥ṣṭāni ← ánādhr̥ṣṭa- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -185,7 +188,8 @@ virúkmatā ← virúkmant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bold (**Indra**) has annihilated the (hitherto) unbaffled (hosts of the **asura**), the objects of **Ayasya**'sadoration has despoiled the impious of their treasures; the sun as if with the (aid of the) moon has seized uponthe wealth of the cities (of the **asuras**), glorified (by his worshippers), he has demolished the foe with his blazing(thunderbolt).”
 </details>

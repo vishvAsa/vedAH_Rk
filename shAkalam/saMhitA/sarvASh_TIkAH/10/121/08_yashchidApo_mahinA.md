@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -192,11 +195,13 @@ vidhema ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who by his might beheld the waters all around containing the creative power and giving birth tosacrifice, he who among the gods was the one supreme god -- let us offer worship with an oblation to the divineKa.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Dakṣa** = **Prajāpati**
 </details>

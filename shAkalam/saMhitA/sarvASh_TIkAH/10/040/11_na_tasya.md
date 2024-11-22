@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -225,7 +228,8 @@ uśmasi ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We do not know this (happiness) of his; do you, (**Aśvins**), clearly explain how it is that the young(husband) dwells in the bride's house; let us, Aśvins, go the dwelling of (my) dear youthful, vigorous, and manlyhusband; this is our desire.”
 </details>

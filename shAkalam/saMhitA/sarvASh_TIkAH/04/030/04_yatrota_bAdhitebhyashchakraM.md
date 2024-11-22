@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bādhitébhyaḥ ← √bādhⁱ- (root)  
 {case:DAT, gender:M, number:PL, non-finite:PPP}
 
@@ -115,11 +118,13 @@ sū́ryam ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In wihc (contests), for the sake of **Kutsa** and his allies, you hae stolen, **Indra**, the (wheel of the car) of the sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You have stolen: the text has muṣāya sūryam, you have stolen the sun
 </details>

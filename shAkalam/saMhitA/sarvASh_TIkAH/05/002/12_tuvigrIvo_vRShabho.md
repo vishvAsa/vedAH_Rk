@@ -24,16 +24,19 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tuvigrī́vaḥ ← tuvigrī́va- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -210,11 +213,13 @@ yaṁsat ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The many-necked, the showerer (of benefits), ever increasing, collects together the wealth of the enemy without opposition; the immortals have enjoined **Agni** that he will bestow happiness on the man who offers sacrifice; that he will bestow happiness on the man who offers oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That he will bestow happiness: barhiṣmate manave **śarma** yaṃsat is repeated with a slight variation of the first word, haviṣmate
 </details>

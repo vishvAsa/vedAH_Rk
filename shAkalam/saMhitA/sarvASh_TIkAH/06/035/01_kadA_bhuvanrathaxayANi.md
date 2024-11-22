@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhuvan ← √bhū- (root)  
 {number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -198,7 +201,8 @@ vā́jaratnāḥ ← vā́jaratna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When may our prayers (be with you) in your chariot? When will you grant to your adorer the (means of) maintaining thousands? When will you recompense my adoration with riches? When will you render sacred rites productive of food?”
 </details>

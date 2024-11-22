@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apaptan ← √pat- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -199,11 +202,13 @@ mártyāya ← mártya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At your dawning, (Uṣā), the various birds rise up from their nests, and men who have to earn their bread (quit their homes). You bring, divine (Uṣā), much wealth to the liberal mortal who is present in the chamber (of sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Naraśca pitubhājaḥ-annārthinaḥ, seeking for food
 </details>

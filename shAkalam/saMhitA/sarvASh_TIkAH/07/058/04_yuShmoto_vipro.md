@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -185,7 +188,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious man protected, **Maruts**, by you, is the possessor of hundreds; the assailant, overcomer (ofhis foes), protected by you, is the possessor of thousands; protected by you, the emperor slays his enemy; maythe wealth that is given, agitators, by you ever be abundant.”
 </details>

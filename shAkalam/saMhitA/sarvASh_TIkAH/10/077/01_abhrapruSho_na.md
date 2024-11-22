@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
-#### Morph
+_________
+**Morph**  
 abhraprúṣaḥ ← abhraprúṣ- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -192,7 +195,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Maruts**), plural ased with our praise like water-drops sent down by clouds, shower wealth; they arethe genitive rators (of the world) like sacrifices abounding with oblations; I have not praised the mighty band ofMaruts (adequately) for their honour or of their glory.”
 </details>

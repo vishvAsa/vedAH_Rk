@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -193,11 +196,13 @@ vásunā ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of whom a sound is heard when scattering his rays like (that) of the sun; the brilliant showerer (of benefits) clamours among the (burning) plural nts; he who, moving not with a shifting, variable motion, but, humbling (our foes), fills the well-wedded earth and heaven with wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fills the well-wedded: ā **rodasī** vasunā supātnī, śobhanapatikā **dyāvā** pṛthivyau dhanena pūrayati = he fills with wealth heaven and earth, both having a brilliant husband or lord; may be a reference to **Agni** or **Indra**
 </details>

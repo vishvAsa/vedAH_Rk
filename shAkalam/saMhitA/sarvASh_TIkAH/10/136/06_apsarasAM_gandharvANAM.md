@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 apsarásām ← apsarás- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -131,11 +134,13 @@ svādúḥ ← svādú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wandering in the track of the **Apsarasas** and the **Gandharvas**, and the wild beasts, the radiant (Sun),cognizant of all that is knowable, (is my) sweet and most delightful friend.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Radiant Sun: or, **Agni**, or **Vāyu**
 </details>

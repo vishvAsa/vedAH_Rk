@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -173,11 +176,13 @@ vaso ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, pre-eminent over the wind, become manifest to the worshipper, in approbation of his worship. Heaven and earth tremble (at your power); you have sustained the burden in the rite for which the priest was appointed; your, **Vasu**, has worshipped the venerable (gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Prathamo mātariśvane, first in, or on the wind; alluding to the text, agnirvāyurādityaḥ: fire, air, sun in which Agni precedes **Vāyu**
 </details>

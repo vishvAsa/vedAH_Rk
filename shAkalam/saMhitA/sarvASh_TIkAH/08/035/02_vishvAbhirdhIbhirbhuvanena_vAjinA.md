@@ -23,15 +23,18 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
-#### Morph
+_________
+**Morph**  
 bhúvanena ← bhúvana- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -159,7 +162,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful (**Aśvins**), associated with all intelligences, with all beings, with heaven, with earth, with themountains, united with the dawn and with the **Sūrya**, drink, Aśvins, the **Soma**.”
 </details>

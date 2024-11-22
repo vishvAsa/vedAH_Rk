@@ -24,16 +24,19 @@ ChandaH = "यवमध्या महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carkr̥tíḥ ← carkr̥tí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -201,7 +204,8 @@ vr̥trahám ← vr̥trahá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whose functions spread quickly round the heavens, like (the light of) the divine sun, since the **maruts** possess brillian, foe-humiliating, and adorable foe-destroying strength, most excellent foe-destroying strength.”
 </details>

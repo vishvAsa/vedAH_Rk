@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 doṣā́ ← doṣā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -189,7 +192,8 @@ rudrau ← rudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We adore those lords of water, leaders on the road of battle, in the evening, at dawn, and at mid-day;therefore, **Rudras** who are rich in food, give us not up hereafter to a mortal adversary; rudravartanī : yuddherodanaśilamārgau stūyamānamārgau vā\].”
 </details>

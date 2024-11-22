@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -210,11 +213,13 @@ sidhrám ← sidhrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One man propitiates **Indra**, augmenting (his vigour) by sacrifice; another, who is insincere, worships (him), with mind averted, (to worldly thoughts); (to the first he is) like a lake to a thirsty (pilgrim) near a sacred spot; (to the other) like a long road, which retards the end (of the journey).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like a lake: the comparisons may also refer to the sacrificers
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 maghavan ← maghávan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -162,7 +165,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sages (your worshippers), **Maghavan**, the overcomers (of foes), the terrifiers of (hostile) people,pass over various (calamities by your aid); come near and bring manysorts of food, and available for ourpreservation.”
 </details>

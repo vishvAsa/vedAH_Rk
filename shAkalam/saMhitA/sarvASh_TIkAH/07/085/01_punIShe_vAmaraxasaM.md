@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arakṣásam ← arakṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -179,7 +182,8 @@ yā́man ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer to you both adoration, uninterrupted by **rākṣasas**, presenting the **Soma** to **Indra** and to **Varuṇa**,-- (adoration), of which the members are radiant as the celestial dawn; may these two protect us at the time ofgoing to battle.”
 </details>

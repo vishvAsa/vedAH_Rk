@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīsáham ← carṣaṇīsáh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That man glorifies **Indra**, the lord of bay steeds, the protector of the good, the overcomer of enemies,who rejoices (in the fulfilment of his wishes); may **Maghavan** bestow upon us, his worshippers, hundreds of cattleand horses.”
 </details>

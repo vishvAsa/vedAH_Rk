@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devásya ← devá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -107,7 +110,8 @@ rātím ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of food, we solicit with praise of the divine **Savitā**, the gift of affluence.”
 </details>

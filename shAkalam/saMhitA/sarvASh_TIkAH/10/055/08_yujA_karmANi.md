@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 janáyan ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -192,7 +195,8 @@ yudhā́ ← yúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accomplishing his duty with their assistance, the all-powerful **Indra**, the destroyer of the wicked, theall-wise, the quick subduer of foes, descending from heaven, and quaffing the **Soma**, invogirated and a hero, hedemolishes the **Dasyus** with his thunderbolt.”
 </details>

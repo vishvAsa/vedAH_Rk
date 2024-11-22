@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 vartaním ← vartaní- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -116,7 +119,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who knows the path of the vast, the graceful, and the excellent wind, and who knows those who reside above.”
 </details>

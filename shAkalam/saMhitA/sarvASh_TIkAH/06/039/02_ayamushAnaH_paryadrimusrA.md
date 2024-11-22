@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrim ← ádri- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ yodhat ← √yudh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Determined (to recover) the cattle hidden in the mountain, associated with the animated by (their) veracious (praise), this (**Indra**) fractured the infrangible rock of **Bala**, and overwhelmed the **Paṇis** with reproaches.”
 </details>

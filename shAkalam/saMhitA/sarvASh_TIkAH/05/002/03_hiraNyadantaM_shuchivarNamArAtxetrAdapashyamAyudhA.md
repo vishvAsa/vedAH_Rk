@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ārā́t ← ārā́t (invariable)  
 {}
 
@@ -178,7 +181,8 @@ mā́m ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have seen him from a near plural ce, golden-toothed, bright-coloured, wielding (flames like) weapons, (when) offering to him the ambrosial, all-diffusing (oblation); what can those who acknowledge not **Indra**, who repeat not his praise, do unto me.”
 </details>

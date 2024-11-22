@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhruvā́ ← dhruvá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -140,7 +143,8 @@ sákhā ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of dwellings, may the (roof) pillar be strong; may there be vigour of body for the offerers of libation;may **Indra**, the drinker (of the **Soma**), the destroyer of the numerous cities (of the **asuras**), ever be the friend ofthe **Munis**.”
 </details>

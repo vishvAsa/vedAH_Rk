@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devávītau ← devávīti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -177,7 +180,8 @@ suhántu ← suhántu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, the lord of horses, who are honoured by men, have destroyed, along with the **Maruts**, numerousenemies at the sacrifice of the gods; you have put to sleep with the thunderbolt the **Dasyus**, Chumuri, and **Dhuni**,on behalf of **Dabhīti**.”
 </details>

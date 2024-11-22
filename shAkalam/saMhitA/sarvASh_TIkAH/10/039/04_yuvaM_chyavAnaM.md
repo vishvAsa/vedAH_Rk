@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cyávānam ← cyávāna- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -196,11 +199,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You made the aged **Cyavana**, when like a worn out chariot, again young and able to go; you bore theson of **Tugra** above the waters; all these your (exploits) are to be celebrated at our sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Son of Tugra: i.e.,**Bhujyu**
 </details>

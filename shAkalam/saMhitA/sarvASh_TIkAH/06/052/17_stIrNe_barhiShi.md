@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnaú ← agní- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the sacred grass is strewn, when the fire is kindled, and when I worship (you) with a hymn, and with profound veneration, then, adorable universal gods, rejoice in the oblation (offered) today at this our sacrifice.”
 </details>

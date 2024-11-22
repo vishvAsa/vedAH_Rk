@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ svàrṇaram ← svàrṇara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give to this our (worshipper) engaged in celebrating your sacred rites, **Indra**, (the wealth) whereby youhave protected the son of **Puru**, grant to the man (aspiring) to heaven (the wealth wherewith) you havepreserved, O Indra, **Ruśama**, Śyāvaka and **Kṛpa**.”
 </details>

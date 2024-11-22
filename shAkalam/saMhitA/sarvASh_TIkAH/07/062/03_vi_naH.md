@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -190,7 +193,8 @@ stávānāḥ ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Varuṇa**, **Mitra** and **Agni**, the alleviators of pain, the observers of truth, bestow upon us thousands(of riches); may they, the givers of delight, grant us excellent (food); glorified by us, many they fulfil our desires.”
 </details>

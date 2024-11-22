@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajirā́saḥ ← ajirá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -157,7 +160,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rays (of light) extending round, fulfilling, their duty (of bringing on the day), abiding in contact with the orb of the immortal (sun), unlimited and diffusive, spread everywhere through heaven and earth.”
 </details>

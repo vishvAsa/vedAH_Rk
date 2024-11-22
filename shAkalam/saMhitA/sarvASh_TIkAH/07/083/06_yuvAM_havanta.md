@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājíṣu ← ājí- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -185,7 +188,8 @@ tŕ̥tsubhiḥ ← tŕ̥tsu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Both (**Sudāsa** and the Tṛtsus) call upon you two (**Indra** and **Varuṇa**), in combats for the acquisition ofwealth, when you defend Sudāsa, together with Tṛtsus, when attacked bythe ten **rājās**.”
 </details>

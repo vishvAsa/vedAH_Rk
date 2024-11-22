@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 imé ← ayám (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -200,11 +203,13 @@ yavayantu ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May these glory-conferring protecting **Soma**-streams knit together my joints as cows draw together achariot falling in pieces; may they keep us from a loosely-knit worship; may they deliver me from sickness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cows:**gāvaḥ** = Soma streams, as the Soma is mixed with milk, and thus considered the product of the cows; aloosely-knit worship: when the Soma is drunk, the ceremony becomes consolidated
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 astambhīt ← √stambhⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -179,11 +182,13 @@ sántam ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty **Agni**, being the best of the heavenly luminaries, sustained the heaven with radiance, when the wind kindled the bearer of oblations, (till then concealed) in a cave from the **Bhṛgus**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Concealed from the Bhṛgus: yadi bhṛgubhyaḥ **guhā** santam: bhṛgubhyaḥ = ādityasya raśmibhyaḥ, from the rays of the sun
 </details>

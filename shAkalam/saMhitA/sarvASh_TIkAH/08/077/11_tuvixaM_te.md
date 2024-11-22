@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhánuḥ ← dhánur ~ dhánvan- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -174,11 +177,13 @@ r̥dūvŕ̥dhā ← r̥dūvŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Far-darting is your well-made auspicious bow, unfailing is your golden arrow; your two warlike arms areready equipped, destructively overthrowing, destructively piercing.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yāska** **Nirukta** 6.33: ṛdūpe cidṛdūvṛdhā; like two bees delighting in sweetness;
 

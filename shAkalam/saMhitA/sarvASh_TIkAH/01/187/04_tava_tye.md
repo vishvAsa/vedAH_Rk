@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pito ← pitú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ vā́tāḥ ← vā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your flavours, **Pitā**, are diffused through the regions, as the winds are spread through the sky.”
 </details>

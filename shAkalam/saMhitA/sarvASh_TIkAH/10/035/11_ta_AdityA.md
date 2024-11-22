@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -191,7 +194,8 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ādityas**, come to our ceremony, being well-plural ased protect the sacrifice for our growth; we solicit forour welfare **Bṛhaspati**, **Pūṣan**, the **Aśvins**, **Bhaga**, and the kindled fire.”
 </details>

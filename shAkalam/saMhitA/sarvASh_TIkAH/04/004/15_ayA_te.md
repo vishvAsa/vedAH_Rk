@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ nidáḥ ← níd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we propitiate you, **Agni**, by this fuel; accept the praise that is recited by us; consume the unadoring **rākṣasas**; you are to be honoured by (your) friends, preserve us from the reproach of the oppressor and the reviler.”
 </details>

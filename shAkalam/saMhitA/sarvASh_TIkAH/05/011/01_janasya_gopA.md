@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajaniṣṭa ← √janⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -178,11 +181,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vigilant, the powerful **Agni**, the protector of man, has been engendered for the present prosperity (of the world); fed with butter, (blazing) with intense (radiance) reaching to the sky, the pure Agni shines brilliantly for the **Bharatas**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 15.27;
 

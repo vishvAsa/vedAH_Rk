@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáyaḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ vepayanti ← √vip- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the swift fires combined with the vigorous winds proceed to the pure (region of the water), uniting the drops (of rain); the **Maruts** irresistible, all-knowing, agitate the copious-shedding clouds.”
 </details>

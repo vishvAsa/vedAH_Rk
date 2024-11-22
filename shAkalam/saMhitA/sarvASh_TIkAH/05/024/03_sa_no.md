@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 8+3
-#### Morph
+_________
+**Morph**  
 bodhi ← √budh- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -114,11 +117,13 @@ uruṣyá ← √uruṣy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[3-4\] Understand us, **Agni**; hear our invocation; defend us from all malevolent (people); most bright and resplendent Agni, we earnestly solicit you for the happiness (of ourselves) and our friends.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sumnāya = sukhāya, sukhibhyaḥ samānakhyātibhyaḥ putrebhyaḥ
 </details>

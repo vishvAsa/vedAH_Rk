@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṇám ← aruṇá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -163,11 +166,13 @@ cakṣate ← √cakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “It was these who sent the red victory-giving **Vasu**, the one son of the three (worlds); they, the invincible,the immortal, overlook the abodes of men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Victory-giving: jenya, vasu: jetavya, what is to be conquered or won;cf. RV 2.5.1; 7.74.3;
 

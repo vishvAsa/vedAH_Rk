@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -169,7 +172,8 @@ gā́yantaḥ ← √gā(y)- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You grant many hundreds and thousands of herds as a gift (to the offerer), uttering long praises, we,hymning **Indra**, the destroyer of cities, bring him before us for our protection.”
 </details>

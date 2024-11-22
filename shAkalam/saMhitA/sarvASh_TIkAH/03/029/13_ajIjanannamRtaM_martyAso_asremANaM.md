@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ájījanan ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -164,11 +167,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mortals have begotten the immortals, the undecaying (**Agni**), the devourer of oblations, the conveyance (by which they cross over sin), the ten sister fingers intertwined proclaim him born as if it was a **male** (infant).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Proclaim him born: when the priests and assistants behold the flame break forth, they clap their **hands** and make sounds of rejoicing, like the parents of a new-born son
 </details>

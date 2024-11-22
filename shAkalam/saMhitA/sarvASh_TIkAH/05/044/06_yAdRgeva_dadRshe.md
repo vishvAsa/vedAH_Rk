@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádr̥śe ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -212,7 +215,8 @@ suvī́ram ← suvī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such as (the deity) is beheld, such is he said (to be); they abide with concentrated splendour in the waters; (may they bestow) upon us honourable and ample (riches) great energy, numerous **male** offspring and undecaying vigour.”
 </details>

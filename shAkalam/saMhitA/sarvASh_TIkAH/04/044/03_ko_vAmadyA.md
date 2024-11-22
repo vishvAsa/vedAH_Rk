@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -202,7 +205,8 @@ yemānáḥ ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What offer of oblations addresses you today with hymns for the sake (of obtaining) protection, for the drinking of the **Soma**, or for the ancient fulfilment of the sacrifice? what offer of adoration may bring you **Aśvins** may bring you Aśvins (to this rite)?”
 </details>

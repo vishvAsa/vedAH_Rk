@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhiré ← √dhā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -203,7 +206,8 @@ yaśásaḥ ← yaśás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, whom the gods appointed as the bearer of oblations, whom men, desiring manifold blessings,regard as the object of worship; do you, **Agni**, bestow food upon him who praises you at the sacrifice; for thedevout worshipper verily obtains great renown.”
 </details>

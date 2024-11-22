@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aramṇāt ← √ram- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -181,11 +184,13 @@ Savitṛ has milked the roaring atmosphere like a horse
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Savitā** has fixed the earth with fetters; Savitā has made the heaven firm in a plural ce where there wasno support; Savitā has milked the cloud of the firmament bound to the indestructible (ether) like a tremblinghorse.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Savitā yantraiḥ pṛthivīm aramayadanārambhaṇentarikṣe savitā dyāmandṛhadaśvamivādhuddhunimantarikṣe megham baddhamatūrṇa iti va- tvaramāṇa iti vā savitā samuditāram:**Nirukta** 10.33
 </details>

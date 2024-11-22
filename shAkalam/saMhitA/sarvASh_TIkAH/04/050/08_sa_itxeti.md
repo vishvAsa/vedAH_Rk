@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -202,7 +205,8 @@ yásmin ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily he abides prosperous in his own abode; for him the earth bears fruit at all seasons; to him (his) subjects willingly pay homage, the prince, to whom the **Brāhmaṇa** first, (duly reverenced), repairs.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -181,7 +184,8 @@ sā́nu ← sā́nu- ~ snú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine **Aditi**, with the gods, preserve us; may the ever-attentive protecting (deity, **Indra**), protect us; we are not able to withhold the elevated (sacrificial) food of **Mitra**, of **Varuṇa**, of **Agni**.”
 </details>

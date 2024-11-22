@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśāyata ← √aśāy- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -187,7 +190,8 @@ tīvraíḥ ← tīvrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Maghavat, the showerer (of benefits), encompasses all people; he contemplates the praises ofmankind; the man in whose sacrifice **Śakra** delights, overcomes (foes) wishing to fight by means of his pungentSoma-libations.”
 </details>

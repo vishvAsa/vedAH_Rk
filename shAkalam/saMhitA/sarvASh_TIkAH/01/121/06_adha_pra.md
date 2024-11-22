@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -194,7 +197,8 @@ sruvéṇa ← sruvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Now is **Indra** manifested; may he, the over-comer (of his foes), grant us happiness,he, who shines brightly, like the sun of this dawn; may the excellent **Soma**, being sprinklled upon the plural ceof sacrifice with a ladle, (exhilarate us), by whom, presenting the oblations we had prepared, it was imbibed.”
 </details>

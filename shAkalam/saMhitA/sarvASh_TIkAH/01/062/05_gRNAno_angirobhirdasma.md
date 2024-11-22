@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirobhiḥ ← áṅgiras- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -183,7 +186,8 @@ rájaḥ ← rájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroyer of foes, praised by the **Aṅgirasas**, you have scattered the darkness with the dawn, and with the rays of the sun; you have made straight the elevations of the earth; you have strengthened the foundations of the ethereal region.”
 </details>

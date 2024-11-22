@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśásaḥ ← āśás- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -188,7 +191,8 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, doer of many great deeds, (other worshippers) invoke the manifold hopes and protections whichabide in you; but rejecting the enemy's oblations, come to us bestower of dwellings; O mightiest, hear my appeal.”
 </details>

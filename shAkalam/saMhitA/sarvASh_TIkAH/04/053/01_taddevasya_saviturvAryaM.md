@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devásya ← devá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit of the divine, powerful, and intelligen **Savitā** that desirable and ample (wealth), along with which he grants a dwelling to the offerer of the oblation of his own accord; may the great deity grant us such every day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tacchardir no **mahān** udayān devo aktubhiḥ: **chardiḥ** = **gṛha**, a house; or, it may mean light;
 

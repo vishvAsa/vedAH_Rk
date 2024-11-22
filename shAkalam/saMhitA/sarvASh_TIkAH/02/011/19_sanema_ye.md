@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 sánema ← √sanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
 
@@ -164,11 +167,13 @@ tritā́ya ← tritá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us honour those men, who, through your protection, surpass all their rivals, as the **Dasyus** (are surpassed) by the **Arya**; this (have you wrought) for us; you have slain **Viśvarūpa**, the son of **Tvaṣṭā**, through friendship of **Trita**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Trita: in this and next hymn, he is referred to as a **maharṣi**
 </details>

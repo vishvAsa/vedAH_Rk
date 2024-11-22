@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īḷényaḥ ← īḷénya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -167,7 +170,8 @@ samidhānám ← √idh- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are to be glorified in (all) the ages of men; you, **Jātavedas**, who are illustrious whenengaged in battle; our praises wake up the kindling (Agni), him who shines with conspicuous splendour.”
 </details>

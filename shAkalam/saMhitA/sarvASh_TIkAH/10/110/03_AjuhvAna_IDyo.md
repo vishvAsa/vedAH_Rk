@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājúhvānaḥ ← √hu- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -189,7 +192,8 @@ yakṣi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who are the invoker (of the gods), and are to be solicited and praised, come, being propitiated,along with the **Vasus**; you, O mighty (Agni), are the invoker of the gods; do you, who are most entitled to worship,solicited by us, offer them adoration.”
 </details>

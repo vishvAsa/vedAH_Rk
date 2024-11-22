@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the sacrifice in the dwellings of man upon earth, where the devout leaders of (rites) rejoice, wherethe libations to **Indra** are poured out, there may he descend before (other gods) from heaven for his exhilaration;(may his) swift (horses approach).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the dwellings: at the sacrifice which is the home of the priests upon earth
 </details>

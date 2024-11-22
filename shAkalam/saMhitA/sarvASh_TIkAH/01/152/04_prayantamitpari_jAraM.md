@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -161,11 +164,13 @@ váruṇasya ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We behold the lover of the maiden (dawns), ever in movement, never resting for an instrumental nt, wearing inseparable and diffusive (radiance), the beloved abode of **Mitra** and **Varuṇa**”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The lover of the maiden: the Sun
 </details>

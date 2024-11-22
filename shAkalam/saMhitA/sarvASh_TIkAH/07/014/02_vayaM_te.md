@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we perform your rites, **Agni**, with fuel; may we offer you, adorable Agni, pious praises; may we(gratify you), ministrant of the sacrifice, with clarified butter; divine Agni, of auspicious lustre, may we (worshipyou) with oblations.”
 </details>

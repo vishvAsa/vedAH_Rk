@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṅgirasvát ← aṅgirasvát (invariable)  
 {}
 
@@ -188,11 +191,13 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Address, worshippers, after the manner of **Aṅgiras**, a new (hymn) to that **Indra**, whose withering (energies) were developed of old; who, in the exhilaration of the **Soma**, forced open the obstructed and solid clouds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yad **gotrā**, i.e. gotrāṇi, clouds; from go, water; tra, to preserve or contain;
 

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nú ← nú (invariable)  
 {}
 
@@ -183,11 +186,13 @@ yuvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the libation is effused I celebrate, **Indra** and **Agni**, your heroic exploits; the Pitaras, the enemies of the gods, have been slain by you, and you survive.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Pitaras: **asuras**, as derived from the root pi, to injure, piyatir hiṃsākarme
 </details>

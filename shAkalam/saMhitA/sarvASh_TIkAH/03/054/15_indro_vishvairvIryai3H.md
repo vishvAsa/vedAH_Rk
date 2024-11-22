@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ saṁgŕ̥bhya ← √gr̥bhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, invested with all energies, has filled both heaven and earth with his greatness; do you, who are the destroyer of cities, the slayer of **Vṛtra**, the leader of a conquering host, collect cattle and bestow them abundantly upon us.”
 </details>

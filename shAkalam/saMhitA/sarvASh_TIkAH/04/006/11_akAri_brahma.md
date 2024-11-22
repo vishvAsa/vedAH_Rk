@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákāri ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -195,11 +198,13 @@ uśíjaḥ ← uśíj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Well-kindled **Agni**, for you the prayer has been composed; may (the priest) propitiate (you) by (his) praise; the (sacrificer) offers worship; bestow upon us manifold (wealth); desiring (riches), men sit down adoring Agni, the invoker of the gods, the glorifier of mankind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The prayer has been composed: akāri **brahma** + the prayer or praise has been made
 </details>

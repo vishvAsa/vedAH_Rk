@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prácetāḥ ← prácetas- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -172,11 +175,13 @@ vratám ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Affluent Uṣas, giver of sustenance, possessed of intelligence, be propitiated by the praise of him who lauds you, (and worships) with (sacrificial) food; divine Uṣas, adored by all, who (though) ancient are (still) young, the object of manifold worship, you are present at the recurring (morning) rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 RV. 1.48.16; 1.123.11
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -132,11 +135,13 @@ r̥tásya ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Maruts**), for whom the sacred grass is trimmed, it cannot be (that you submit to be detained), for youhave derived strength from the sacrifice, formerly (accompanied) by our praises.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sacred grass: vṛkta **barhiṣaḥ**(barhiriti yajñanāma) = those by whom the grass has been trimmed, i.e. the priests; "It cannot be, for, priests,by your praises preceding (those of others) you have propitiated the energies of the Maruts, the objects of thesacrifice"; for you have derived strength: or, for by the former praises (of others) you have nourished strengthconnected with the sacrifice
 </details>

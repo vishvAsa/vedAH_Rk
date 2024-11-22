@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣétrasya ← kṣétra- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -183,7 +186,8 @@ r̥tásya ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of the field, bestow upon us sweet abundant, (water), as the cow (yields her) milk, dropping like honey, blend as butter; may the lords of the water make us happy.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 arṇavásya ← arṇavá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** by his might has cleft the brow of the vast watery cloud, he has slain Ahi; he has made the sevenrivers flow; do you, heaven and earth, along with the gods, protect us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Indra; ie., **Bṛhaspati**
 </details>

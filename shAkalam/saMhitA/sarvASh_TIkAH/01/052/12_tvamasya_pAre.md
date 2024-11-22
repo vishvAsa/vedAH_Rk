@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -202,7 +205,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Firm-minded **Indra**, abiding (secure) in your strength beyond the limit of the wide-expanded firmament, you have framed the earth for our preservation; you have been the type of vigour; you have encompassed the firmament and the sky as far as to the heavens.”
 </details>

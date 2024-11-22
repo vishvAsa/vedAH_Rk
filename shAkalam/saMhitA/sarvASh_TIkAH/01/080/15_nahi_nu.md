@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adhīmási ← √i- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -200,11 +203,13 @@ svarā́jyam ← svarā́jya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We know not of a certainty the all-pervading **Indra**; who (does know him, abiding) afar off in his strength? for in him have the gods concentrated riches, and worship, and power, manifesting his own sovereignty.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ko-vīryāparaḥ, lit. who with vigour
 </details>

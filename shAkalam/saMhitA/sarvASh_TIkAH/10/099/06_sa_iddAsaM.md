@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dán ← dám- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ vipā́ ← víp- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sovereign **Indra** attacking him overcame the loud-shouting, six- eyed, three-headed **Dāsa**, andTrita, invigorated by his strength, smote the water-laden (cloud) with his iron-tipped finger.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Water-laden cloud:liṭ, the boar\]. leader of men, manifested favourably for our (aid), laudable, slew the bodies (of the enemies) in the slaughter ofthe Dasayus.
 </details>

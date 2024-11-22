@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antarikṣasát ← antarikṣasád- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -215,11 +218,13 @@ r̥tám ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is the **Haṃsa**, (the sun), dwelling; **Vasu** (the wind), dwelling in the firmament; the invoker of the gods (**Agni**), dwelling on the altar; the guest (of the worshipper), dweling in the house (as the culinary fire); the dweller among men, (as consciousness), the dweller in the most excellent (orbl, the sun), the dweller in truth, the dweller in the sky (the air), born in the waters, in the rays of light, in the verity (of manifestation) in the (eastern) mountain, the truth (itself).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Repeated twice in **Yajus**. 10.24 and 12.14 and also in **Aitareya** **Brāhmaṇa** 4.20.1; haṃsa is identified with **Ādityas**, or the sun; dadhikrā is identified with **parabrahma**, or the universal deity, the supreme being;
 

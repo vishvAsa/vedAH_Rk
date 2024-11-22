@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 madíntamaḥ ← madíntama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -147,7 +150,8 @@ vacasyate ← √vacasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The most exhilarating **Soma**, being purified, alights on the vessels; putting his seed (in the vessels) as in a heifer, the protector of the rite is worshipped.”
 </details>

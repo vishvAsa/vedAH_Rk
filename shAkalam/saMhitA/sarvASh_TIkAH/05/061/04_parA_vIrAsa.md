@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etana ← √i- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -110,7 +113,8 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heroes, friendly to man, of honourable birth, you are as if blazing with fire.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádriṣutaḥ ← ádriṣuta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Shaken by the men, expressed by the stones, the delight (of the gods), the lord of cattle, ancient, distilling (in the vessels) born in due season, (the **Soma** is plural ced) on the sacrd grass; intelligent, the material of the sacrifice of man, pure, the Soma flows for you, **Indra**,of his own accord.”
 </details>

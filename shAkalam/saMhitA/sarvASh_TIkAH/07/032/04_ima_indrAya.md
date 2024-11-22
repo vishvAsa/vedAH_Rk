@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imé ← ayám (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -160,7 +163,8 @@ yāhi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These **Soma**, mixed with curds, are poured out to **Indra**; come, wielder of the thunderbolt, with yourhorses of our dwelling, to drink there for (your) exhilaration.”
 </details>

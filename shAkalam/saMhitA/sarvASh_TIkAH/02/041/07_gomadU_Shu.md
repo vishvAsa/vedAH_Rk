@@ -22,14 +22,17 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gómat ← gómant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -119,11 +122,13 @@ vartíḥ ← vartís- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, in whom there is no untruth; **Rudras**, go by the (direct) road to (the sacrifice at which the libation) is to be drunk by the leaders (of sacred rite), for which (the offerer may receive the reward of) cows and horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. repeats this and the following two hymns: 20.80-83
 </details>

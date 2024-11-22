@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ yū́ne ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, the best of all beings, the assailer and humiliator (of your foes), the chief ot the **Ṛbhus**, the friend of man, the subduer of enemies, did aid the young and illustrious **Kutsa**, and slew Śuṣna, in the deadly and close-fought fight.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhukṣa = Ṛbhūnām **adhipati**; teṣu kṛtanivāsaḥ, he who abides in the Ṛbhus;
 

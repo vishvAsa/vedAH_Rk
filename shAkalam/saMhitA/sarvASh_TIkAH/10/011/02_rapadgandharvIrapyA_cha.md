@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ápyā ← ápya- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -220,11 +223,13 @@ vocati ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Gandharvī** and the water-consecrated feminine nine oblation praise **Agni**; may he be favourable tothe thought of me, raising my voice in his praise; may Agni plural ce us in the midst of the sacrifice; the chief (of theworshipers), our elder brother, repeats his various laudations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agni: **aditiḥ** = akhaṇḍanīyogniḥ, the indivisibleAgni
 </details>

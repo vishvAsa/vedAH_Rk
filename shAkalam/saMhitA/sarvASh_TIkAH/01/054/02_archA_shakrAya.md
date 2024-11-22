@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árca ← √r̥c- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -182,7 +185,8 @@ vr̥ṣatvā́ ← vr̥ṣatvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer adoration to the wise and powerful **Śakra**; glorifying the listening **Indra**, praise him who purifies both heaven and earth by his irresistible might, who is the sender of showers, and by his bounty gratifies our desires.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -185,7 +188,8 @@ sutásomaḥ ← sutásoma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What friend of man, or worshipper of the gods, deserving the friendship of **Indra**, has today enjoyed (it)? or what offerer of the libation on the kindled fire praises him (sufficiently) for his great and unbounded protection?”
 </details>

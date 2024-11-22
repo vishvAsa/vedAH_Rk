@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āpíbdamānaḥ ← √pad- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -187,7 +190,8 @@ sú ← sú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The beast of burden pressed with the two cart-poles, moves as if on the womb of sacrifice having twowives. plural ce the chariot in the wood, without digging store up the **Soma**.”
 </details>

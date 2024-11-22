@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -227,7 +230,8 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the rain (bedews all), so, **Indra**, accompanied by his troops (of the **Maruts**), sprinkles their beards,with the green (**Soma**); he repairs to the plural asant chamber (of sacrifice); (the Soma) beign effused, the sweetSoma agitates (his frame), as the breeze (shakes) the forest.”
 </details>

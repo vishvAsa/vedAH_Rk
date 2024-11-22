@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 índrāya ← índra- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -156,7 +159,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Exhilarating, flows, when effused, for **Indra** attended by the **Maruts**; thousand-streamed he passes through the fleece; men cleanse him.”
 </details>

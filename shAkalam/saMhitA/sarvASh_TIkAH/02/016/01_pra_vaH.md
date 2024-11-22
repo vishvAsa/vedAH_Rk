@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jyéṣṭhatamāya ← jyéṣṭhatama- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ yúvānam ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I bear the libation for you to the best of the holy (gods, to be poured) on the kindled fire, (and I offer to him fitting praise); we invoke for (our) protection the ever-youthful **Indra**, the undecaying, the causer of decay, sprinkled (with the **Soma**).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ajáḥ ← ajá- 2 (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -229,11 +232,13 @@ vaha ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The unborn portion; burn that, **Agni**, with your heat; let your flame, your splendour, consume it; withthose glorious members which you have given him, **Jātavedas**, bear him to the world (of the virtuous).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Theunborn portion: ajo **bhāgaḥ** = the goat is your portion; antarapuruṣa, which has no body, no organs of sense;heat, flame and splendour: **tapas**, śocis and **arcis**: the positive, comparative and superlative radiance of Agni
 </details>

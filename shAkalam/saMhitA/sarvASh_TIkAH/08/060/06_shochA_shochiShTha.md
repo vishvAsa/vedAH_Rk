@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīdihí ← √dī- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
 
@@ -172,11 +175,13 @@ svagnáyaḥ ← svagní- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Most resplendent (**Agni**), shine forth and illuminate (us); give happiness to your people, to yourworshipper, for you are great; may my priests abide in the bliss of the gods, subduing their enemies, possessingbright fires.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 My priests: sūrayaḥ = stotaro medhāvinaḥ asmākam putrādayo vā
 </details>

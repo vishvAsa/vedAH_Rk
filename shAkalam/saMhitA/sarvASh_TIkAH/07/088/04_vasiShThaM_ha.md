@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -203,11 +206,13 @@ yā́t ← yā́t (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “So **Varuṇa** plural ced **Vasiṣṭha** in the ship, and by his mighty protection made the ṛṣi a doer of goodworks; the wise Varuṇa plural ced his worshipper in a fortunate day of days, he extended the passing days, thepassing nights.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In a fortunate day: sudinatve: state or property of a lucky day by its being fruitful, phalatvena;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Soma**, who are car-borne, being filtered (at) our (sacrifice), flow quickly into the cups; most sweet-flavoured in the waters, full of delight, offered at the sacrifice, stimulator of all, who like a god are the object of true praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Flow quickly into the cups: camvoḥ = adhiśavṇa phalakayoḥ; apsu is related with **parisrava**
 </details>

@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ciketa ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -188,11 +191,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** is known by his most powerful and manifold deeds; he is the invoker of the eternals; surroundedby victims, he proceeds against the foe; may all our adversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The eternals: śasvatīnām =bahvīnām devatānām; against the foe: pratīvyam = yajñam;
 

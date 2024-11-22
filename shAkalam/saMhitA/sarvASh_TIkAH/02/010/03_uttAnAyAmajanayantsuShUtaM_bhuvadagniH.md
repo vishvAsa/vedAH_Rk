@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajanayan ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -162,11 +165,13 @@ vasati ← √vas- 3 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They have genitive rated (**Agni**) when soundly sleeping on his upturned (couch); that Agni who is an embryo in many (vegetable) forms, and who, (rendered manifest) by the oblations, abides conscious in the night, unenveloped by darkness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When soundly sleeping: uttānāyam suṣūtam = on the lower of the two sticks which are rubbed together
 </details>

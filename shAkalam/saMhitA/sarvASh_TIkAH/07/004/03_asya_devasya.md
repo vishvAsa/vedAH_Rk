@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánīke ← ánīka- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -173,7 +176,8 @@ durókam ← duróka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whom mortals apprehend as white (shining) in the principal station of that divinity; he who assents tomanly adoration, and blazes for the good of man, and the discomfiture (of his foes).”
 </details>

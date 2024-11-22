@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíṣi ← barhís- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -150,7 +153,8 @@ yuvā́m ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Omniscient **Aśvins**, stationed on the thrice-heaped sacred grass, sprinkle the sacrifice with the sweet juice; the illustrious **Kaṇvas**, with effused libations, invoke you.”
 </details>

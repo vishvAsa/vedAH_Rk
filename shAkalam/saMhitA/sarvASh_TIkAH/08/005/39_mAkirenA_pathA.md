@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 enā́ ← ayám (pronoun)  
 {case:INS, gender:M, number:SG}
 
@@ -160,7 +163,8 @@ jánaḥ ← jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No one proceeds by that path which the **Cedis** follow, no other proud man as a more liberal benefactorconfers (favour on those who praise him).”
 </details>

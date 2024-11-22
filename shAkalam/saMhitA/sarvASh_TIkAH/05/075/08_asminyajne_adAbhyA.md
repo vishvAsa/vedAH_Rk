@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adābhyā ← ádābhya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -165,7 +168,8 @@ máma ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invincible **Aśvins**, lords of water, favour **Avasyu**, glorifying you at this sacrifice; masters of mystic lore, hear my invocation.”
 </details>

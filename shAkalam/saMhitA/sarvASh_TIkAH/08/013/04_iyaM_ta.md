@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 girvaṇaḥ ← gírvaṇas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -134,11 +137,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This gift of the offerer of the libation flows to you, **Indra**, who are gratified by praise, exhilarated bywhich you reign over the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Over the sacrifice: **barhiṣaḥ** = over the sacred grass; i.e. the rite at which it isstrewn
 </details>

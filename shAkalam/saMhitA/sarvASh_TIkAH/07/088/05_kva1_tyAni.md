@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 babhūvuḥ ← √bhū- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -190,7 +193,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What has become of those our ancient friendships? Let us preserve them unimpaired as of old;food-bestowing **Varuṇa**, may I go to your vast comprehensive thousand-doored dwelling.”
 </details>

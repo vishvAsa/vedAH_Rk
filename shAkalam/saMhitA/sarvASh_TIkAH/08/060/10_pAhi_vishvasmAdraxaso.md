@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árāvṇaḥ ← árāvan- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -171,11 +174,13 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protect us from every impious **rākṣasa**, shield us in battles; we approach you, our nearest neighbour,our kinsman, for sacrifice and for increase.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Impious: not giving (sacrificial) gifts
 </details>

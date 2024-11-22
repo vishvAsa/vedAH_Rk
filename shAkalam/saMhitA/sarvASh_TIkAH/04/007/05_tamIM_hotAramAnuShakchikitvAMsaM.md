@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ānuṣák ← ānuṣák (invariable)  
 {}
 
@@ -141,7 +144,8 @@ yájiṣṭham ← yájiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They (the worshippers) have seated him in his due order, the invoker (of the gods), the intelligent, the agreeable, the purifyingly-radiant, the performer of frequent sacrifice, (brilliant) with seven flames.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gavyā́ ← gavyā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -124,7 +127,8 @@ varivasyá ← √varivasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of wealth, visit us as of old, go give us cows, horses and chariots.”
 </details>

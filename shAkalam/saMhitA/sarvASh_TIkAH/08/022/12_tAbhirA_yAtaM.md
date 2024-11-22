@@ -23,15 +23,18 @@ ChandaH = "मध्येज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -199,11 +202,13 @@ yā́bhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then, showerers, come to my manifold all-propitiating invocation with those (protections), with which,leaders (of rites), you, who are gratified (by oblations), munificent (in gifts), and the overcomers of numerous(foes), gave augmentation to the well; with such (protections) come here.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gave augmentation: the Aśvinsmiraculously filled the well with water, and so rescued **Vandana**
 </details>

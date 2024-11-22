@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mā́ ← mā́ (invariable)  
 {}
 
@@ -187,7 +190,8 @@ yātā́m ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Send us felicity, **Maruts**, harm us not; bestow upon us exceeding happiness; reward our adoration by your friendship; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>

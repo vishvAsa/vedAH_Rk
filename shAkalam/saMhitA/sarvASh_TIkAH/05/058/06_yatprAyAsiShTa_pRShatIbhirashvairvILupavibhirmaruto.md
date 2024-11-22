@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvaiḥ ← áśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -170,11 +173,13 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Maruts**, you come with stout-axled cars drawn by spotted steeds, then the waters descend, the forests are damaged,a nd the bright showerer (of the rain), influenced by the solar rays, may emit a downward sound.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May emit a downward sound: avosriyo **vṛṣabhaḥ** krandatu **dyauḥ**: dyaur--vṛṣabhaḥ = the shining showerer, i.e., **Parjanya**, or **Indra**, in that capacity; usriyaḥ, in connection with the usra or rays of the sun, avakrandatu, avāṅgmukham śabdayatu, may sound with his face turned downwards, vṛṣyartham, for the sake of rain
 </details>

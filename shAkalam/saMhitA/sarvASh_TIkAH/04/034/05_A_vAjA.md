@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -199,7 +202,8 @@ navasvàḥ ← navasū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vājas**, Ṛbhukṣans, leaders (of rites), come to us eulogizing exceeding wealth; these draughts (of **Soma**) proceed to you at the decline of day, like newly-delivered cows to their stalls.”
 </details>

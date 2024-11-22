@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṣāḷham ← áṣāḷha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -152,11 +155,13 @@ kṣā́maḥ ← kṣám- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I laud) him who is not to be withstood, the mighty, the conqueror in hostile hosts; whom, when he wasborn, the strong rushing cows welcomed and the heavens and the earths praised.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Kṣāmaḥ** = kṣamiḥ;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpa ← √āp- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -196,7 +199,8 @@ paspárśat ← √spr̥ś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** (and **Varuṇa**), Varuṇa (and Indra), what praise of you accompanied by oblations may obtain for us felicity, (such as) the immortal invoker of the gods, (**Agni**, may bestow); may (the praise) which is addressed by us to you both, Indra and Varuṇa, sanctified by acts and prompted by veneration, touch your heartṣ”
 </details>

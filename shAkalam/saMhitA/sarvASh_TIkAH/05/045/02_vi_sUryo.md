@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amátim ← amáti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -205,7 +208,8 @@ súmitā ← súmita- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun distributes his radiance as it was a substance; the parent of the rays of light, (the dawn), knowing his approach, comes from the spacious (firmament); the rivers with running waters flow, breaking down their banks; the heaven is stable like a well-constructed pillar.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 pitŕ̥bhiḥ ← pitár- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, you in conjunction with the fathers do stretch our successively heaven and earth-- to you let usdo worship with oblations, may we be lords of wealth.”
 </details>

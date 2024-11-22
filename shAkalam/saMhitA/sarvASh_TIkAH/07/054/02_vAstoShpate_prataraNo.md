@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 edhi ← √as- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -190,7 +193,8 @@ putrā́n ← putrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protector of the dwelling, be our preserver and the augmenter of our wealth; possessed of catle andhorses, **Indra**, may we, through your friendship, be exempt from decay; be favourable to us, like a father to hissons.”
 </details>

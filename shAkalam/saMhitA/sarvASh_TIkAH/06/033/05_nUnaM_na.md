@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aparā́ya ← aparā́ya (invariable)  
 {}
 
@@ -188,11 +191,13 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Indra**, now and at (all) other times be verily ours; be the bestower of happiness according to our condition; and in this maner, worshipping at dawn, and glorifying you, may we abide in the brilliant and unbounded felicity of you who are mighty.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Worshipping at dawn: goṣatamā = **vartamānā** bhavema, may we be present;
 

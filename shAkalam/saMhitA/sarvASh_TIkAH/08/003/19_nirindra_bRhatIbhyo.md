@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hatī́bhyaḥ ← br̥hánt- (nominal stem)  
 {case:ABL, gender:F, number:PL}
 
@@ -152,7 +155,8 @@ párvatasya ← párvata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have extirpated **Vṛtra** with your mighty weapons; you have been the destroyer of the deceptiveArbuda and Ṃgaya; you have extricated the cattle from the mountain.”
 </details>

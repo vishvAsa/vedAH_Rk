@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -200,7 +203,8 @@ vā́japeśasam ← vā́japeśas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, who are of one mind, come to the food that is offered at (our) sacrifices, as (you come) to the praises of men; nourish the cow, (the cloud), so that it may be like a mare with a full udder, and render the pious rite productive of abundant food to the worshipper.”
 </details>

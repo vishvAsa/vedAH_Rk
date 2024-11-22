@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -137,7 +140,8 @@ medhyātithe ← médhyātithi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise (me), praise (me), Medhyātithi, for among the wealthy we are the most liberal donors of wealthto you; (praise me as one) who outstrips a horse in speed, follows the right path, and bears the best arms.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 aráṇyoḥ ← aráṇi- ~ aráṇī- (nominal stem)  
 {case:LOC, gender:F, number:DU}
 
@@ -151,7 +154,8 @@ manuṣyèbhiḥ ← manuṣyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Jātavedas** has been deposited in the two sticks as the embryo is deposited in pregnant women; **Agni** is to be adored day by day by vigilant men laden with oblations.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citáyante ← √cit- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -178,7 +181,8 @@ ugrébhiḥ ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rays of the ever-recurring mornings, favoured, **Indra**, by your vigour, confer consciousness as they shine; showerer of benefits, ancient (of days), bestower of strength, fierce, (and attended), by the fierce **Maruts**, grant us (abundant) food.”
 </details>

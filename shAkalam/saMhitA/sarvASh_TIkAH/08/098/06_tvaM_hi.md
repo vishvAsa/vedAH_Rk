@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M;; 12 = 8+4
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -146,11 +149,13 @@ vr̥dháḥ ← vr̥dhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, are the stormer of many hostile cities, the slayer of the **Dasyu**, the fosterer of man, the lordof heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fosterer of man: manoḥ = the man who offers sacrifice
 </details>

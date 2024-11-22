@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vā ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -204,11 +207,13 @@ yán ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven and earth, declarers of truth, principal (of things), be present at the invocation, associatedwith the rite, when the divine (**Agni**), exciting mortals to sacrifice, sits down in their presence as the invoker (ofthe gods) putting forth his flame.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Associated with the rite: ṛtena prathame = first by right
 </details>

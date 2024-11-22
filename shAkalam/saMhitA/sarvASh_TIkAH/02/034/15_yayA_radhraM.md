@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁhaḥ ← áṁhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -210,7 +213,8 @@ vāśrā́ ← vāśrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, may that protection wherewith you convey the worshipper beyond sin, wherewith you rescue the reciter of your praise from the scoffer, be present with us; may your benign disposition tend towards us, like a lowing (cow towards her calf).”
 </details>

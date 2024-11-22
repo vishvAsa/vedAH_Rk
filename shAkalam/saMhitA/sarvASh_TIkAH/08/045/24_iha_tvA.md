@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 góparīṇasā ← góparīṇas- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let (the worships) gladden you here with the **Soma** mixed with milk, for the attainment of great wealth;drink it as the buffalo a lake.”
 </details>
@@ -138,7 +142,8 @@ Drink a lake, as a buffalo does.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-mahé was mistakenly omitted in the published translation Substitute “to great generosity.” I follow Oldenberg in taking góparīṇasā as standing for -āḥ, nom. pl. to a thematic stem, rather than, with Geldner (and Pp.), as -ā and instr. sg. of the s-stem. In the simplex both párīṇas- and parīṇasá- exist, though the latter occurs only once (IX.97.9), where it is indirectly associated with cows/milk. Oldenberg points out that soma is generally the subject of √mand (as in 14b mandantu … índavaḥ), and taking góparīṇasā(ḥ) here as modifying a plural form of soma drinks or drops would save having to supply another element in the instrumental. However, Geldner’s interpretation does have in its favor that the more common simplex is párīṇas- and that it is regularly found in the instrumental. ### 25-27 The proclamation of Indra’s deeds called for in 25c is presumably contained in the following two verses.
+mahé was mistakenly omitted in the published translation Substitute “to great generosity.” I follow Oldenberg in taking góparīṇasā as standing for -āḥ, nom. pl. to a thematic stem, rather than, with Geldner (and Pp.), as -ā and instr. sg. of the s-stem. In the simplex both párīṇas- and parīṇasá- exist, though the latter occurs only once (IX.97.9), where it is indirectly associated with cows/milk. Oldenberg points out that soma is generally the subject of √mand (as in 14b mandantu … índavaḥ), and taking góparīṇasā(ḥ) here as modifying a plural form of soma drinks or drops would save having to supply another element in the instrumental. However, Geldner’s interpretation does have in its favor that the more common simplex is párīṇas- and that it is regularly found in the instrumental. _________
+**25-27 The proclamation of Indra’s deeds called for in 25c is presumably contained in the following two verses.**  
 </details>
 
 <details><summary>Griffith</summary>

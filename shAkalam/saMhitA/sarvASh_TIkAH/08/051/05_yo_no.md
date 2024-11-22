@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
-#### Morph
+_________
+**Morph**  
 dātā́ ← dātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -174,7 +177,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke that **Indra** who gives us wealth; for we know his new favour; may we obtain a stall rich incows.”
 </details>

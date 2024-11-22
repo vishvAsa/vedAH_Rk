@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhūt ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -239,11 +242,13 @@ kr̥dhi ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This person n, **Agni**, was your praiser, for there is nothing else attainable, O son of strength; holy is thehappiness derived from you, a triple defence; remove far from us, who are susceptible of harm, your scorchingflame.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Triple defence: a defence against the three evils of existence
 </details>

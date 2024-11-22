@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áyāma ← √i- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -113,11 +116,13 @@ vajrivaḥ ← vajrivant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Śakra**, let us go, proved in deeds, to deeds; thunderer, cleaver of mountains, let us conquer in battlesby your steeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Steeds: by steeds given by you
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tántum ← tántu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ támaḥ ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine (sun), you proceed with most powerful (horses), spreading your web (or rays), and cutting down the black abode (of night); the tremulous rays of the sun throw off the darknes which is spread like a skin over the firmament.”
 </details>

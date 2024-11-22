@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánimiṣantaḥ ← ánimiṣant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -166,7 +169,8 @@ vasate ← √vas- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods, the never-slumbering beholders of mankind, and entitled (to their adoration), have obtainedgreat immortality; conveyed in chariots of light, possessed of unsurpassable wisdom, devoid of sin, they inhabitthe exalted station of heaven for the well-being (of the world).”
 </details>

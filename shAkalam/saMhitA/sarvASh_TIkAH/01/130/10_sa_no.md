@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -181,11 +184,13 @@ vāvr̥dhīthā́ḥ ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer of benefits, destroyer of cities, propitiated by our new songs, reward us with gratifying blessings; glorified, **Indra**, by the descendants of **Divodāsa**, increse (in power), like the sun in (revolving) days.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Divodāsebhiḥ = by us, the paruchepas, or me, **parucchepa**, the plural is honorific
 </details>

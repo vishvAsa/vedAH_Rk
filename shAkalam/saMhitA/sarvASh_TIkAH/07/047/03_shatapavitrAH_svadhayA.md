@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádantīḥ ← √mad- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
 
@@ -181,7 +184,8 @@ síndhubhyaḥ ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine Waters, the purifiers of many, gratifying men with food, pursue the paths of the gods; theyimpede not the sacred rites of **Indra**; offer, (priests), the butter-charged oblation to the rivers.”
 </details>

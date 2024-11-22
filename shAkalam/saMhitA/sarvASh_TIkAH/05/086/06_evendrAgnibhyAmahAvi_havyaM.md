@@ -25,17 +25,20 @@ ChandaH = "विराट्पूर्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -201,11 +204,13 @@ gr̥ṇátsu ← √gr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The invigorating oblation has been offered, like the **Soma**-juice expressed by the sounding stones; do you bestow food uponthe pious; great riches upon those who praise you; bestow food also upon those who praise you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the Soma juice expressed: ghṛtam na pūtam adribhiḥ: mention of the stones restricts the sense of ghṛtam to the Soma effusion
 </details>

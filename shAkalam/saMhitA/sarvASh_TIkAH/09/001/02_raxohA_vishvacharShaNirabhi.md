@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 rakṣohā́ ← rakṣohán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ sadhástham ← sadhástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The all-beholding destroyer of **rākṣasas** has stepped upon his gold-smitten birthplace, united with the wooden cask.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 26.26; variant ayohate droṇe for ayohatam druṇa; his gold-smitted birth-plural ce: druṇā = a wooden cask (droṇakalaśa), or the plural nks of the **Soma** press;
 

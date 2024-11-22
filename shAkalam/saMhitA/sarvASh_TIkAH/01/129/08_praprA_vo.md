@@ -26,10 +26,12 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -37,7 +39,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -251,7 +254,8 @@ vakṣati ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** is powerful in discomfiture of the malevolent by his self-glorifying aids, (granted) unto you and unto us; (he is) the tearer o fthe malevolent (to pieces); the impetuous ogre that was sent against us by devouring (foes) to destroy us, has been itself destroyed; it will not reach us; it will not do us harm.”
 </details>

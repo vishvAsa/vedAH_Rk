@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -215,7 +218,8 @@ viśvā́yuḥ ← viśvā́yu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The heaven bowed down in the two-fold dread of your thunderbolt, and your individual wrath, when **Indra**, the giver of food, struck to the sleep (of death) the assailing Ahi.”
 </details>

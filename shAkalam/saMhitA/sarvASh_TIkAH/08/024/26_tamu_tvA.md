@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īmahe ← √yā- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -149,7 +152,8 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**) of goodly aspect, we implore you who are entitled to praise, for (our) preservation; for you arethe overcomer of all our adversaries.”
 </details>

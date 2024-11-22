@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 arvā́k ← arvā́ñc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -193,7 +196,8 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “COme to us, the first (before other gods), like a pair of horns, or like two hoofs, travelling with rapid (steps); like a pair of **cakravākas**, awaiting day; overthrower of foes, like warriors in cars, able (to perform all things), come to our presence.”
 </details>

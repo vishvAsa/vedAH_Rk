@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 mahemate ← mahemati- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -134,7 +137,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Munificently minded, do you, who are quick of movement, come with shining and swift steeds to thesacrifice, for verily there is gratification to you thereby.”
 </details>

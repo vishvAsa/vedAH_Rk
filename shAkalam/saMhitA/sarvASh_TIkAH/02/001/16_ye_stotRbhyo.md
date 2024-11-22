@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvapeśasam ← áśvapeśas- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -220,7 +223,8 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious are they who present, as a gift, to the reciters of your praises, an excellent cow and an excellent horse; do you, **Agni**, lead both us and them to the best of abodes, (or heaven), that we and our worthy descendants may repeat the solemn prayer to you at the sacrifice.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirāḥ ← áṅgira- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -202,7 +205,8 @@ paśúm ← paśú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Aṅgirasas** first prepared (for **Indra**) the sacrificial food, and then, with kindled fire, (worshipped him) with a most holy rite; they, the instrumental tutors (of the ceremony); acquired all the wealth of **Paṇi**, comprising horses, and cows, and (other) animals.”
 </details>

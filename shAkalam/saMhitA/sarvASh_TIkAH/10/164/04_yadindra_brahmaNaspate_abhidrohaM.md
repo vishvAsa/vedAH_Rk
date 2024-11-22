@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 brahmaṇaḥ ← bráhman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -140,11 +143,13 @@ pātu ← √pā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Indra**, O **Brahmaṇaspati**, whatever sin we run into, (save us thereform), and may **Pracetas** of theAṅgirasas protect us from the malignity of our enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pracetas: may be a reference to **Varuṇa**; or,
 </details>

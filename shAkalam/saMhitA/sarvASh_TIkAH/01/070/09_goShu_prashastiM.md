@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 dhiṣe ← √dhā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
 
@@ -113,7 +116,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[9-10\] **Agni**, confer excellence upon our valued cattle, and may all men bring us acceptable tribute; offering in many laces sacrifices to you, men receive riches from you, as (sons) from an aged father.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ síndhubhyaḥ ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise **Indra**, the chief leadere (of rites), whose glory surpasses the lustre (of others), and the ends ofthe earth; the sustainer of man, who exceeding the ocean in magnitude, fills (heaven and earth) with radiance.”
 </details>

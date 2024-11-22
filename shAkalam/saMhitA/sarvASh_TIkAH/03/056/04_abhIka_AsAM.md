@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhī́ke ← abhī́ka- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -178,11 +181,13 @@ vrájantīḥ ← √vraj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The year) is awake, the path in the vicinity of those (plural nts); I call upon the beautiful name of the **Ādityas**; the divine waters wandering severally (now) give it delight, and (now) depart from it.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ādityas: that is, upon the months over which the twelve Ādityas preside; now give it delight and now depart from it: during the four months of the year when the rains fall the rivers are filled; during the other eight they are more or less dried up
 </details>

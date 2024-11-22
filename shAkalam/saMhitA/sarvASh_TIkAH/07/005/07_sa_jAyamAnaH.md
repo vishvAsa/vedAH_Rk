@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jā́yamānaḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -190,11 +193,13 @@ jātavedaḥ ← jātávedas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Born in the highest heaven, you ever drink (**Soma**) like **Vāyu**; genitive rating the waters, you thunder,granting (his wishes) to your offspring, the worshipper.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Drink (Soma): In the cups dedicated to two deities thelibation is offered first to Vāyu or to **Vaiśvānara**; or, you drink or dry up water like the wind
 </details>

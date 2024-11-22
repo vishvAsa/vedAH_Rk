@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -163,11 +166,13 @@ putrásya ← putrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are the chief giver of wealth, you are truthful and make your worshippers rulers; we solicit(blessings) worthy of you, lord of vast riches, mighty son of strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. produced as the cause of strength, inorder to destroy enemies (RV 8.92.14); this strength or victory through strength, is the final cause of hisproduction or manifestation by the rite; and the final causse being then taken for the efficient, strenth may thus becalled the father
 </details>

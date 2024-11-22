@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -220,7 +223,8 @@ púṣyati ← √puṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The man whom, **Maruts**, you defend with your protection, quickly surpasses all men in strength; with his horses he acquires food, and with his men, riches; he performs the required worship, and he prospers.”
 </details>

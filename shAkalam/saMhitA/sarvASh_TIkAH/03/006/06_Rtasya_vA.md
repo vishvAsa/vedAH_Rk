@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 keśínā ← keśín- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -185,7 +188,8 @@ svadhvarā́ ← svadhvará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harness with traces, to your car, your long-maned, ruddy (steeds, to come) to the sacrifice; bring hither, divine **Jātavedas**, all the gods, and make them propitious to the oblation.”
 </details>

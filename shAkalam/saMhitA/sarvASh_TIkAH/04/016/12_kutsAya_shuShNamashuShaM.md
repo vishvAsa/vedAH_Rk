@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aśúṣam ← aśúṣa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ vr̥hatāt ← √vr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For **Kutsa**, you have slain the unhappy **Śuṣṇa** and in the forepart of the day, attended by thousands (you have slain) **Kuyava** with the thunderbolt; you have swiftly destroyed the **Dasyus**, and you have cut them to pieces in the battle, with the wheel (of the chariot of) the sun.”
 </details>

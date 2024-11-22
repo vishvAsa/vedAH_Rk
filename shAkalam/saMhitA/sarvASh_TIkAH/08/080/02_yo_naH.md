@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́vitha ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -135,7 +138,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O you, the invulnerable, who have always in former times protected us for the battle, do you, **Indra**,make us happy.”
 </details>

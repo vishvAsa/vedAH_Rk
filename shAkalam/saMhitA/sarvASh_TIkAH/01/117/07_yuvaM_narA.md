@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥ṣṇiyā́ya ← kr̥ṣṇiyá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -161,11 +164,13 @@ pátim ← páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You restored, leaders (of sacrifices), Viṣṇāpu (his lost son) to **Viśvaka**, the son of **Kṛṣṇa**, when he praised you; you bestowed, **Aśvins**, a husband upon **Ghoṣā**, growing old and tarrying inher father's dwelling.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ghoṣā was the daughter of **Kakṣīvat**; she was a leper, and therefore, unfit to be married; but when advanced in years, she prayed to the Aśvins, who healed her leprosy and restored her to youth and beauty, so that she obtained a husband
 </details>

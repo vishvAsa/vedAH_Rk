@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nárāśáṁsaḥ ← nárāśáṁsa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -110,7 +113,8 @@ mádhuhastyaḥ ← mádhuhastya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Narāśaṃsa animates this sacrifice he who is uninjurable, who verily is wise and sweet-handed.”
 </details>

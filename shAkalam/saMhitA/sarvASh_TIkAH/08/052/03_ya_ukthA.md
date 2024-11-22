@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 dadhé ← √dhā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -169,7 +172,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(It is **Indra**) who has appropriated the hymns for himself, who has bravely drunk the **Soma**, for whomViṣṇu strode the three steps according to the ordinances of **Mitra**.”
 </details>

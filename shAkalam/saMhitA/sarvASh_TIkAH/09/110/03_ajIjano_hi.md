@@ -22,14 +22,17 @@ ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájījanaḥ ← √janⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -125,7 +128,8 @@ ráṁhamāṇaḥ ← √raṁh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pavamāna**, by your might you ahve genitive rated the sun in (the firmament), the support of the water, hastening on with abundant wisdom that procures cattle (for your worshippers).”
 </details>

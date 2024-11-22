@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -183,11 +186,13 @@ vāvr̥dhe ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The words of the desirable (praise), of a certain tranquil person n (Nābhānediṣṭha), attain theprototype (**Indra**). Do you, who are the giver of wealth (**Agni**), hear us; offer sacrifice, you are magnified by thesincere eulogies of **Aśvaghna**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aśvaghna: patronymic from **Āśvaghna**, the slayer of sacrificer of a horse; aname of **Manu**, the father of Nābhānediṣṭha
 </details>

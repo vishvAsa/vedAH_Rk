@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devájuṣṭam ← devájuṣṭa- (nominal stem)  
 {case:VOC, gender:N, number:SG}
 
@@ -190,7 +193,8 @@ yakṣi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our (sacred grass) acceptable to the gods, twining crookedly be stretched out, may it be long,lengthy, and fragrant; with mind free from wrath, divine **Barhis**, offer worship to the gods desiring (the sacrifice),of whom **Indra** is the chief.”
 </details>

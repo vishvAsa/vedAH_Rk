@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 bhā́ratī ← bhā́ratī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -147,7 +150,8 @@ tisráḥ ← trí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the three beautiful goddesses, **Bhāratī**, **Sarasvatī**, and mighty Iḷā, come to this our offering of the **Soma**.”
 </details>

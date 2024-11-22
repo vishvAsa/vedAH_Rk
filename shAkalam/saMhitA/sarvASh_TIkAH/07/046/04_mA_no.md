@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dāḥ ← √dā- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -217,7 +220,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harm us not, **Rudra**; abandon us not; let us not fall under the bondage of you when displeased; makeus partakers of the life-promotion sacrifice; and do you, (gods), ever cherish us with blessings.”
 </details>

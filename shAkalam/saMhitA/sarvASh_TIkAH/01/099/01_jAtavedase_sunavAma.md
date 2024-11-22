@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātávedase ← jātávedas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ síndhum ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We offer oblations of **Soma** to **Jātavedas**, may he consume the wealth of those who feel enmity against us; may he transport us over all difficulties; may **Agni** convey us, as in a boat over a river, across all wickedness.”
 </details>

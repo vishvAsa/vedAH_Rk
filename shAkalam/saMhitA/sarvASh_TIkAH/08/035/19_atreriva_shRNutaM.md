@@ -23,15 +23,18 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 átreḥ ← átri- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -152,11 +155,13 @@ tiróahnyam ← tiróahnya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Humblers of the pride (of your enemies), hear the earnest praise of **Śyāvāśva** offering libations as(you did) that of **Atri**, and, united with the dawn and with **Sūrya**, (drink), **Aśvins**, (the **Soma**) prepared theprevious day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma prepared the previous day: tiro ahnyam = Soma prepared the day before, and drunk at earlydaawn, at the worship of the Aśvins
 </details>

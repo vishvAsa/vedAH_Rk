@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amuyā́ ← amuyā́ (invariable)  
 {}
 
@@ -191,7 +194,8 @@ tā́sām ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The waters, that delight the minds (of men), flow over him, recumbent on this earth, as a river (bursts through) its broken (banks). Ahi has been prostrated beneath the feet of the waters, which **Vṛtra**, by his might, had obstructed.”
 </details>

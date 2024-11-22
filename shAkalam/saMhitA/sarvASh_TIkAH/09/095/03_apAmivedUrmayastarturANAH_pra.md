@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apā́m ← áp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -198,7 +201,8 @@ viśanti ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The priests hurrying like the waves of the waters dispatch praises towards **Soma**; adoring him they approach and come up together, longing for him who longs for them they enter him.”
 </details>

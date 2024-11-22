@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -209,11 +212,13 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the waters that are in the sky, or those that flow (on the earth), those (whose channels) have beendug, or those that have sprung up spontaneously, and those that seek the ocean. All pure and purifying, maythose divine waters protect me here (on earth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those whose channels have been dug: khanitrimā = khanenanivṛttaḥ, formed, or perhaps stopped by digging, canals or reservoirs. A possible indication of irrigation systemsin use
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyúbhiḥ ← dyú- ~ div- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -163,11 +166,13 @@ vā́ram ← vā́ra- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For that **Agni**, (endowed) with the lustre of the strength of his arms, is the ministrant priest of mortals, who (presents) the oblation to the gods in succession, and like **Bhaga** distributes desirable wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhaga = **Sūrya**
 </details>

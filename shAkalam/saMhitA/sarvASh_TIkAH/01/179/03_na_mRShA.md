@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ávanti ← √avⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -204,7 +207,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agastya**): Penance has not been practised in vain; since the gods protect us, we may indulge all our desires; in this world we may triumph in many conflicts, if we exert ourselves mutually together.”
 </details>

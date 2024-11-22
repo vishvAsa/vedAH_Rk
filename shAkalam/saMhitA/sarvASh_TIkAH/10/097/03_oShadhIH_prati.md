@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 modadhvam ← √mud- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -124,7 +127,8 @@ vīrúdhaḥ ← vīrúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rejoice, plural nts, bearing abundant flowers and fruit, triumphing together (over disease) like (victorious)horses, sprouting forth, bearing (men safe) beyond (disease).”
 </details>

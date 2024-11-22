@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnā́ ← agní- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -162,7 +165,8 @@ vurīta ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the mortal who propitiates **Agni** by devotion and worship, together with praises, quickly become distinguished as first (among men), and acquire ample food for the support (of his children).”
 </details>

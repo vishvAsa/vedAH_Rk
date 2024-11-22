@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 imám ← ayám (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ viśvā́hā ← viśvā́hā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, leaders (of rites), associate with this augmenter (of our prosperity), in whom (abide) riches contributing to felicity, you who (are victorious) over (your) enemies in battle, who daily humble (your) foes.”
 </details>

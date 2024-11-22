@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -202,11 +205,13 @@ yuvase ← √yu- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you the praises and prayers of the worshipper hasten like a torrent down a declivity; and you thunderer, aggregate the immense wealth (of sacrificial offerings), copious libations, and milk, and the **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Apo gāḥ yuvase samindūn: apo = vasatīvarī which is said by **Kātyāyana** **Sūtra** 8.9.7-10 to be portions of water taken from a running stream on the evening previous to the ceremony, and kept in jars in different parts of the sacrificial chamber, to be mixed with the Soma; cf. **Taittirīya** **Yajus**., **Prapāṭhaka** III. Anuvāka XII).
 </details>

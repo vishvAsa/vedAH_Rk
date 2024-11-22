@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṅkuśám ← aṅkuśá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ suté ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I bear this your well-made goad, (excited) by which, Maghavat, you urge on the slayers of powerfulfoes. Let your abode be at this my sacrifice. Accept, Maghavat, who are to be adored, (my praise) at the sacrificeat which (the **Soma**) is effused.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Goad: **aṅkuśa**, metaphorically for praise, which urges or goads one to exertion;slayers of powerful foes: i.e., the elephants, **airāvata**, etc., śaphārujaḥ = striking with the hoof; **śamba** itivrānāma śamayatervā śātayatevrvā: **Nirukta** 5.24
 </details>

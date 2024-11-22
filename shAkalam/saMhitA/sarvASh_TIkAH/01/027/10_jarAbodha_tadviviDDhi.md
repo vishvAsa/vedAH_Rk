@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 járābodha ← jarābodha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -113,11 +116,13 @@ stómam ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Jarābodha, enter into the oblation for the completion of the sacrifice that benefits all mankind; the worshipper offers agreeable laudation to the terrible (**Agni**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jarābodha = he who is awakened (**bodha**) by praise (**jarā**); **rudra** is equated with the fierce or cruel Agni: krurāya Agnaye
 </details>

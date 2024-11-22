@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 atirātré ← atirātrá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like **Brāhmaṇas** at the **Soma** libation, at the **Atirātra** sacrifice, you are now croaking around thereplenished lake (throughout the night), for on that day of the year you frogs are everywhere about, when it is theday of the serving of the rains.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Croaking: rātrau śabdam kurvāṇaḥ; the atirātra rite is a noctural ceremony,when the priests recite the hymns at night; rātrim atītya vartate ityatirātraḥ yathātirātrākhye somayāgebrāhmaṇā rātrau stutaśāstrāṇi paryāyeṇa śaṃsanti
 </details>

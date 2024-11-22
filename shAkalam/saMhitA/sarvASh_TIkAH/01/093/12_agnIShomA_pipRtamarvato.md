@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ágnīṣomā ← agnī́-ṣóma- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -171,7 +174,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** and **Soma**, cherish our horses, and may our cows, affordin g(milk that yields butter for) oblations, be well nourished; give to us, who are affluent, strength (to perform) religious rites, and make our sacrifice productive of wealth.”
 </details>

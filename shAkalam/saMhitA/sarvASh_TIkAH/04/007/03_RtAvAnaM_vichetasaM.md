@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -126,7 +129,8 @@ haskartā́ram ← haskartár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Contemplating you in every dwelling, truthful intelligent, (brilliant with sparks) like the sky with stars, the perfecter of all sacrifices.”
 </details>

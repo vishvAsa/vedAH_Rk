@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágopāḥ ← ágopā- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -175,7 +178,8 @@ rántayaḥ ← ránti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They who ride on particoloured cattle, (the **Maruts**), despatched by **Pṛṣṇi** and recalling theengagement made by them with their friend (**Indra**), came like cattle from the pasturage, when left without aherdsman; the exulting **Niyut** steeds brought them quickly (against the foe).”
 </details>

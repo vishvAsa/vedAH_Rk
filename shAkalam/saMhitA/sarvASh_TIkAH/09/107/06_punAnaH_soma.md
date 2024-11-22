@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -158,7 +161,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, who are purified, vigilant, agreeable (you flow) through the woollen fleece; you are intelligent, the chief of the **Aṅgirasas**, sprinkle our oblation with your exhilarating juice.”
 </details>

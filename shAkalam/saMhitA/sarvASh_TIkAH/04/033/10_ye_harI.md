@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hárī ← hári- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -206,7 +209,8 @@ r̥bhavaḥ ← r̥bhú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those **Ṛbhus** who gratified the horses (of **Indra**) by pious praise, who constructed for Indra his two docile steeds, bestow upon us satiety of riches, and wealth (of cattle), like those who devise prosperity for a friend.”
 </details>

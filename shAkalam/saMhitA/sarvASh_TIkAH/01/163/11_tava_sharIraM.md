@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 arvan ← árvan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -164,11 +167,13 @@ járbhurāṇā ← √bhur- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your body, horse, is made for motion; your mind is rapid (in intention) as the wind; the hairs (of your mane) are tossed in manifold directions; and spread beautiful in the forests.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The horse is identified with **Agni**, whose flames consume the forests
 </details>

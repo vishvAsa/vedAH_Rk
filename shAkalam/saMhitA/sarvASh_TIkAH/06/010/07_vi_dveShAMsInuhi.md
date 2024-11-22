@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dvéṣāṁsi ← dvéṣas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -107,7 +110,8 @@ suvī́rāḥ ← suvī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Scatter (our enemies); augment our abundance; and may we, blessed with virtuous **male** descendants, enjoy happiness for a hundred winters.”
 </details>

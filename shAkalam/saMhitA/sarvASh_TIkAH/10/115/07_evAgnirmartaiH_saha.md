@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ sánti ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In this manner, **Agni**, the son of strength, is glorified by (us his) worshippers, together with piousmortals, for the sake of wealth-- (his worshippers) who, like delighted friends, desiring the sacrifice, like shining(ones), overcome (hostile) men through his might.”
 </details>

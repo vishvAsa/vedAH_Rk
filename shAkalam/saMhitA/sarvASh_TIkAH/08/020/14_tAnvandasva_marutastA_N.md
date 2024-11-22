@@ -23,15 +23,18 @@ ChandaH = "सतो विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise them, praise the **Maruts**, for we are (dependen) upon those agitators (of all things) as a menial isupon his lords; therefore are their donations (characterized) by munificence; such are their (gifts).”
 </details>

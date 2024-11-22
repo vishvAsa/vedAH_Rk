@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sáhyase ← sáhyaṁs- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -169,7 +172,8 @@ mahíntamāya ← mahíntama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Agni**, who has fair ancestors, (I have) arrived quickly to (praise) you, the most bountiful bestower offood, the overcomer (of foes), the **Jātavedas**, (I who offer) the best to you, the most mighty being, the protectorin calamity, with your capable (bow).”
 </details>

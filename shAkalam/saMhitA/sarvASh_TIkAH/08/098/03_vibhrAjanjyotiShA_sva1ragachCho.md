@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 jyótiṣā ← jyótis- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -131,11 +134,13 @@ yemire ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have pervaded the light of the sky, illumining heaven by your splendour; the gods, **Indra**,submissively solicit your friendship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Light of the sky: rocanam **divaḥ**; you have pervaded and illumined by yourlight heaven which manifests the sun (as being its receptacle).
 </details>

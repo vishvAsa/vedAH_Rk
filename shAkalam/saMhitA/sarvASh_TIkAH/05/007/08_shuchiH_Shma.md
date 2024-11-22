@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 atrivát ← atrivát (invariable)  
 {}
 
@@ -168,11 +171,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bright as an axe is he to whom the (worshipper), like **Atri**, proceeds (to offer worship); he whom his prolific mother has brought forth, bestowing (a benefactor on the world), when (**Agni**) obtains (sacrificial) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bright as an axe: **śuci** sma yasmā atrivat pra svadhītīva rīyate: the comparison may apply to the worshipper, eager to offer an oblation as an axe to cut; may also apply to Agni;
 

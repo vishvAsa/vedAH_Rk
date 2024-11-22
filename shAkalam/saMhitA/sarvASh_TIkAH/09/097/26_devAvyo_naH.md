@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devāvyàḥ ← devāvī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -154,11 +157,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Soma** juices which are gratifying to the gods when poured around (into the vessels) bring us a dwelling and **male** offspring-- (the juice) endeavouring to gain the favour (of the gods), desired by all offering (to the gods) in heaven like the ministrant priests, most exhilarating.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Endeavouring to gain the favour of the gods: āyajyavaḥ sumatim viśvavārāḥ
 </details>

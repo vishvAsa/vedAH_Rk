@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 abhī́vr̥tam ← √vr̥- (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
 
@@ -175,7 +178,8 @@ táviṣīm ← táviṣī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The many-rayed adorable **Savitā**, having power (to disperse) darkness from the world, has mounted his nigh-standing chariot, decorated with many kinds of golden ornaments, and furnished with golden yokes.”
 </details>

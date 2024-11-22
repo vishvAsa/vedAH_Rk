@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine **Indra**, when lauded (by **Etaśa**), humbled the Sun (in behalf) of the mortal who offered to him the libation; for the munificent Etaśa presented him with mysterious and inestimable riches; as (a father gives) his portion (to a son).”
 </details>

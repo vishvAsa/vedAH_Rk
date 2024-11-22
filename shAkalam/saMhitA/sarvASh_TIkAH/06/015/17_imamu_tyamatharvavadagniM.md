@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 atharvavát ← atharvavát (invariable)  
 {}
 
@@ -142,11 +145,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The priests churn you, **Agni**, as was done by **atharvan**, and bring him from the glooms of night wandering deviously, but not bewildered.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wandering deviously, but not bewildered: aṅkuyantam amuram: the reference is to a legent of Agni's attempting at first to run away from the gods, devebhyaḥ pālayamānam
 </details>

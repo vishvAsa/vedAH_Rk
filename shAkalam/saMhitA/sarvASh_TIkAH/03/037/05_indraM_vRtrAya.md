@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hántave ← √han- (root)  
 {case:DAT, number:SG}
 
@@ -109,7 +112,8 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke you, **Indra**, who is invoked of many for the slaying of **Vṛtra**, and the granting of food (as the spoil) of battle.”
 </details>

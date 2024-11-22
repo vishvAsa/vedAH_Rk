@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 airatam ← √īr- (root)  
 {number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -178,7 +181,8 @@ yúvānam ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By your deeds, **Dasras**, you raised up **Vandanā**, and, showerers (of benefits), Rebha; you bore the son of **Tugra** over the sea, and made **Cyavana** young.”
 </details>

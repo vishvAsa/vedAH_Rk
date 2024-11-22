@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́nām ← devá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -182,7 +185,8 @@ urú ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the messenger of the gods, engendered in many plural ces, everywhere proclaim us void of offence; may earth and heaven, the waters, the sun, and the vast firmament, with the constellation, hear us.”
 </details>

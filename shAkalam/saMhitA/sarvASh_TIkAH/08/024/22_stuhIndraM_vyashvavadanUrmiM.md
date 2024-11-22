@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -128,11 +131,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify **Indra**, the unassailable, the powerful, the regulator (of man), as was done by **Vyaśva**, he, thelord, gives a spacious dwelling to the donor (of the oblation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Donor: yamam = stotṛbhiḥ suniyatam, who isconciliated by his praisers; maṃhamānam gayam = honourale wealth; or, a house for the worship of the gods
 </details>

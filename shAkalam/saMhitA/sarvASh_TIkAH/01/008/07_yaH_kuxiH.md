@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 kukṣíḥ ← kukṣí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -123,11 +126,13 @@ urvī́ḥ ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The belly of **Indra**, which quaffs the **Soma** juice abundantly, swells like the ocean, (and is ever) moist, like the ample fluids of the palate.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Urvīnāpo na **kākudaḥ**: **kākuda** = **kākud**, the pinnacle of a mountain; the rendering: 'like the abundant waters (or torrents) from the mountain-tops'
 </details>

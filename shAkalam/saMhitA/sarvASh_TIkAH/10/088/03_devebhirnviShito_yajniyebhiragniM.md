@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 devébhiḥ ← devá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -175,7 +178,8 @@ ródasī ← ródasī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sent by adorable gods I praise the undecaying and mighty **Agni**, who by his radiance has spread forththe earth and this heaven, the two worlds and the firmament.”
 </details>

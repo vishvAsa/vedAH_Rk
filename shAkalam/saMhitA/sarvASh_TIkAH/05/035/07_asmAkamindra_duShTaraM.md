@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -136,11 +139,13 @@ vājayántam ← √vājay- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Defend, **Indra**, our chariot, difficult (to be stopped), mingling foremost in combats, followed by attendants, and eagerly striving for repeated spoil.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Our chariot: ava ratham: the latter may also signify a son, he whose nature it is to give delight to his parents, raṃhaṇasvabhāvam putram
 </details>

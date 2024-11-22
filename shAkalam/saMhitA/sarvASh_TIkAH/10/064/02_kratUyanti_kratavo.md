@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhītáyaḥ ← dhītí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -190,7 +193,8 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The desires cherished in my heart strive to offer worship; (our) wishes long for (the gods) andexpressed (by us) go forth to (the gods); no other bestower of happiness exists except them; upon the gods aremy desire concentrated.”
 </details>

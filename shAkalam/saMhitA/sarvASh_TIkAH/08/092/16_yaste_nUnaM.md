@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nūnám ← nūnám (invariable)  
 {}
 
@@ -132,7 +135,8 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rejoice us, **Indra**, **Śatakratu**, as you rejoice in that most glorious exhilaration of the **Soma**.”
 </details>

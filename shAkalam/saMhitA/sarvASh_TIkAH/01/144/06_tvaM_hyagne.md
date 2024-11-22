@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ vákvarī ← vákvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, reign over (the dweller in) heaven, and over those of earth, according to thine own (will), as a herdsman over his (herd), and those two, (heaven and earth), bright, vast, adorable, beneficent, and sounding (agreeably), partake of the oblation.”
 </details>

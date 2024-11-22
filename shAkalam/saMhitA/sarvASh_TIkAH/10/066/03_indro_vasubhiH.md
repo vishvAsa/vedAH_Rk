@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gáyam ← gáya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ tváṣṭā ← tváṣṭar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** with the **Vasus** guard our dwelling; may **Aditi** with the **Ādityas** grant us felicity; may thedivine **Rudra** with the **Rudras** make us happy;may **Tvaṣṭā** with the wives of the gods be favourable to us forour prosperity.”
 </details>

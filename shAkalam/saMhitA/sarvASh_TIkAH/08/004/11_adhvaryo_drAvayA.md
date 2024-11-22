@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryo ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -166,7 +169,8 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Quickly, priest, pour forth the **Soma**, for **Indra** is thirsty; verily he has harnessed his vigorous steeds, theslayer of **Vṛtra has** arrived.”
 </details>

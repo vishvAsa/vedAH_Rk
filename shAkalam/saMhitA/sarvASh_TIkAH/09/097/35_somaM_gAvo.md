@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenávaḥ ← dhenú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -173,7 +176,8 @@ triṣṭúbhaḥ ← triṣṭúbh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The kine (are) longing for the **Soma**; wise men (are) inquiring for him with praises; Soma being effused is purified blended (with milk), our adorations in the **triṣṭubh** metre are united in the Soma.”
 </details>

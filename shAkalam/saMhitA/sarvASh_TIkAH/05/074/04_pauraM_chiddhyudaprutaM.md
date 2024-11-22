@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -150,11 +153,13 @@ siṁhám ← siṁhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pauras**, send to **Paura** the rain-shedding cloud drive it to him who is engaged in sacrifice, as (hunters chase) a lion in a forest.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Paura: pauram cid udaprutam paura paurāya jinvathaḥ: the name of the ṛṣi is applied to the **Aśvins**,because they are in relation with Paura as the author of the **sūkta**;
 

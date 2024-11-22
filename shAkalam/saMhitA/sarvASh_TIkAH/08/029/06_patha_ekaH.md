@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ékaḥ ← éka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ This connection with paths & thieves is shared plainly with Hermes.
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One (**Pūṣan**) watches the roads like a robber, and is cognizant of hidden treasures.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. roads ofheaven or hell
 </details>

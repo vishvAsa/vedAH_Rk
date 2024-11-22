@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dámpatī ← dámpati- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -218,7 +221,8 @@ véda ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yami** speaks). The divine omniform genitive rator **Tvaṣṭā**, the progenitor, made us two husband andwife, even in the womb: none frustrate his undertaking; earth and heaven are conscious of this our (union).”
 </details>

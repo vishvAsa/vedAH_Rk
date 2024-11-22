@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indrāgníbhyām ← indrāgní- (nominal stem)  
 {case:DAT, gender:M, number:DU}
 
@@ -222,7 +225,8 @@ The Arya-s had a sense that the ways of the gods are probabilistic and implicit 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I direct my eulogy of **Indra** and **Agni**; with sacred prayers I directed (my praise) like a vessel (launched)upon the ocean; like holy priests, the gods themselves reverence us, being the donors (to us) of wealth and theextirpators (of our foes).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -190,7 +193,8 @@ vājinīvasū ← vājínīvasu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yoke today, **Aśvins**, your rolling car conveying (you), the leaders (of the rite); and setting yu down before us; mix the oblations with the sweet juice; come you are affluent with (abundant) food, and drink the **Soma**.”
 </details>

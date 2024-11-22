@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; line affected by realignment;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 kṣapáḥ ← kṣáp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -110,7 +113,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[7-8\] **Agni**, whom many variously-tinted (mornings) and nights increase, whom, invested with truth, all moveable and immoveable things augment, has been propitiated, and is kindly seated at the holy rite, as the invoker (of the gods), and rendering all (pious) acts (productive) of reward.”
 </details>

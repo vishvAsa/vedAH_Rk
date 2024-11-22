@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágman ← √gam- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -208,7 +211,8 @@ vāmám ← vāmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Indra** into whom the sharp abundant **Soma** effused by (the priests), the showerers (of the Soma),have entered; he, Maghavat, deserts not the donor of the sacrifice, but bestows ample wealth upon him whopresents libations.”
 </details>

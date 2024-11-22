@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ rátnavantam ← rátnavant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be plural ased, **Agni**, son of strength, with the cakes and butter offered at the third (daily sacrifice), and do you (propitiated) by praise convey the precious imperishable and awakening (oblation) to the immortal gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Awakening oblation: jāgṛvim; the **Soma** is offered at dawn is termed jāgṛvi, the sleep-dispelling, svapnanivārakaḥ; but, the reference here is to the third or evening worship
 </details>

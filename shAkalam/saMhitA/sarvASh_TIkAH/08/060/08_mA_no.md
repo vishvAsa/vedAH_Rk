@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́ ← mā́ (invariable)  
 {}
 
@@ -157,7 +160,8 @@ pāyúbhiḥ ← pāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Subject us not to a strong mortal enemy, nor to the malevolent; O most youthful, guard us with yourunharming delivering auspicious protections.”
 </details>

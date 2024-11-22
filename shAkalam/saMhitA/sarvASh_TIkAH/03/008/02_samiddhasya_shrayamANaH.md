@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 purástāt ← purástāt (invariable)  
 {}
 
@@ -163,7 +166,8 @@ saúbhagāya ← saúbhaga- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Standing on the east of the kindled (fire), dispensing food (as the source) of undecaying (health) and excellent progeny, keeping off our enemy at a distance, stand up for great auspiciousness.”
 </details>

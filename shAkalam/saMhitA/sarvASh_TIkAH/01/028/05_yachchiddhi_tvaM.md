@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -151,11 +154,13 @@ jáyatām ← √ji- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If indeed, O Mortar, you are present in every house, give forth (in this rite) a lusty sound, like the drum of a victorious host.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 It is the divinities presiding over the mortar and pestle, not the implement themselves, are addressed
 </details>

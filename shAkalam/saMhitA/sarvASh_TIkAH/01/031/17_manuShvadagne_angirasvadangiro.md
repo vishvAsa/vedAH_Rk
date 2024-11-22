@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ yákṣi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pure **Agni**, who goes about (to receive oblations), go in your presence to the halll of sacrifice, as did **Manu**, and **Aṅgiras**, and **Yayāti**, and others of old; bring hither the divine person **nages**, seat them on the sacred grass, and offer them grateful (sacrifice).”
 </details>

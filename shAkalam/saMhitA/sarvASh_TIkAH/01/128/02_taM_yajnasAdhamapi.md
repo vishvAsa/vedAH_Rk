@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápi ← ápi (invariable)  
 {}
 
@@ -238,11 +241,13 @@ parāvátaḥ ← parāvát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We propitiate that instrumental ument of sacrifice by the path of sacrifice, by reverential salutation, and by oblations of clarified butter; by oblations (offered) to the gods and he accepts our offerings, and through his benignity quits not (the rite until its close), the divinity whom the wind brought from afar for the service of **Manu**; (may he come) from afar (to our sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhāḥ **parāvata**-abhāsīt, shone or made to shine, plural ced suitably upon earth, having been brought from the distant sun: atidūram gatavata ādityād abhāsīt aucityena bhūmau sthāpitavān
 </details>

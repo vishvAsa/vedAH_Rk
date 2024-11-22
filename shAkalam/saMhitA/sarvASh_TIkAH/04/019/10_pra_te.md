@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káraṇāni ← káraṇa- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -183,7 +186,8 @@ rājan ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage, (**Vāmadeva**), knowing, royal **Indra**, the ancient deeds of you who are all wise, has proclaimed the actions, such as you ahve performed them, genitive rative of rain, self-evolved, and beneficial to man.”
 </details>

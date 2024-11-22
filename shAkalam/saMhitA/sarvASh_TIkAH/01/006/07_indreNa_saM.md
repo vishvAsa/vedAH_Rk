@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 dŕ̥kṣase ← √dr̥ś- (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:MED}
 
@@ -119,11 +122,13 @@ samānávarcasā ← samānávarcas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May you be seen, **Maruts**, accompanied by the undaunted **Indra**; (both) rejoicing, and of equal splendour.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: battle between Indra and **Vṛtra**: Indra is aided by the gods who were driven away by Vṛtra's dogs; Indra, to obtain superiority, summoned the Maruts to help him
 </details>

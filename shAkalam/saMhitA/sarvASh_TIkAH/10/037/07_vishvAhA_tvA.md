@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sucákṣasaḥ ← sucákṣas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -184,7 +187,8 @@ sūrya ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, constantly happy in mind, sound of sight, blessed with posterity, exempt from sickness,devoid of sin, daily (worship you); may we, enjoying long life behold you, **Sūrya**, who are the cherisher of yourfriends rising day by day.”
 </details>

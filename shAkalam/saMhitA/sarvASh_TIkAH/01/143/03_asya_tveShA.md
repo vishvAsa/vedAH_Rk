@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajárāḥ ← ajára- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -192,11 +195,13 @@ rejante ← √rej- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “His radiance is undecaying; the rays of him who is of plural asing aspect, are everywhere visible and bright; the intensely shining, all-pervading, unceasing, undecaying (rays) of **Agni**, desist not (from their functions).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desist not: na rejante, do not tremble; they do not move, or are moved in burning, maturing; dāhapākādiṣu na calanti na cālyante vā anyaiḥ, or na may imply comparison, when bhātvakṣasasor na **sindhavaḥ** = like the rays of the sun
 </details>

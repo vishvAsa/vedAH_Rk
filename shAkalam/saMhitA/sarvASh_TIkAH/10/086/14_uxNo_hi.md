@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -202,11 +205,13 @@ The practice of sacrificing bulls to Indra seems to have been out of date even a
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: The worshippers dress for me fifteen (and) twenty bulls; I eat them and (become) fat,they fill both sides of my belly; Indra is above all (the world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indra speaks\]: The worshippers dress for me fifteen (and) twenty bulls; I eat them and (become) fat,they fill both sides of my belly; Indra is above all (the world).
 </details>

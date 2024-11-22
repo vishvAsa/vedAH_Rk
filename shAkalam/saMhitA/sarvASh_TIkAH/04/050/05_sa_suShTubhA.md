@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gaṇéna ← gaṇá- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ vā́vaśatīḥ ← √vāś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Aided) by the praised and brilliant troop (of the **Aṅgirasas**), he destroyed with sound the mischievous **Bala**, **Bṛhaspati**, shouting aloud, set free the boon-bestowing, oblation-supplying kine.”
 </details>

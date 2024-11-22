@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -172,11 +175,13 @@ bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like birds swimming in water when keeping watch, like the sound of the roaring thunder-cloud, likesounding torrents falling from the clouds, the worshippers glorify **Bṛhaspati**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like birds: as the emitters of water,the husbandmen, call out when keeping the birds off the ripe grain
 </details>

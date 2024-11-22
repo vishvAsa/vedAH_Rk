@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyám ← divyá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ svadhvarā́ ← svadhvará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural ce before you at the progressive, uninterrupted sacrifice, the divine, adorable, perfect **Agni**, with prayers; for he, the resplendent **jātavedas**, makes us prosperous in sacred rites.”
 </details>

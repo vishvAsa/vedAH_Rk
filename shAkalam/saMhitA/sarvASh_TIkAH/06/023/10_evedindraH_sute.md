@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 astāvi ← √stu- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -196,7 +199,8 @@ viśvávārasya ← viśvávāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus has **Indra**, the lord of the opulent, been glorified by the Bhaāradvājas, upon the libation being effused, that he may be th director of his eulogist (to virtue), that Indra may be the giver of all desirable riches.”
 </details>

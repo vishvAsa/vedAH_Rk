@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáyate ← √dā- 3 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -169,7 +172,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To him the invoker of the gods, who ever rejoicing distributes all wealth to men-- to **Agni** proceed ourpraises like the principal cups of the exhilarating **Soma**.”
 </details>

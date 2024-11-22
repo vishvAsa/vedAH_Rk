@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
 
@@ -122,11 +125,13 @@ dī́dyatam ← √dī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer (of benefits) we profusely offering (oblations) kindle you mighty and resplendent **Agni**, who is the sender of showers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The sender of showers: **Manu** III.76: (on the property of Agni), the offering that is sacrificed with fire proceeds entirely to the sun, from the sun genitive rated rain, and from rain food; from thence mankind
 </details>

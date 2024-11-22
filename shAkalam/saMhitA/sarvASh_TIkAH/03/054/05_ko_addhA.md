@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 addhā́ ← addhā́ (invariable)  
 {}
 
@@ -208,11 +211,13 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who knows what is the truth, or who may here declare it? What is the proper path that leads to the gods? Their inferior abiding plural ces are beheld, as are those which (are situated) in superior mysterious rites.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abiding plural ces are beheld: as the constellations; superior mysterious rites: in the latter they are made known, it is said, by the **Veda**
 </details>

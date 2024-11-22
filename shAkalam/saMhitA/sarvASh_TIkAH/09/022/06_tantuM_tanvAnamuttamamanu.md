@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 tántum ← tántu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -114,11 +117,13 @@ uttamā́yyam ← uttamā́yya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Descending rivers follow this excellent (**Soma**) as it spreads out the sacrifice; this rits is glorified thereby.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As it spreads out the sacrifice: tantum = yajñam; or, alternatively, straining-cloth; 'descending river fills out the outspread threads'
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenūnā́m ← dhenú- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -119,7 +122,8 @@ tarantáḥ ← tarantá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who, the son of Vidadaśva, has given me a hundred (head) of cattle, and, like Taranta, many precious gifts.”
 </details>

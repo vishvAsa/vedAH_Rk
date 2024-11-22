@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -197,11 +200,13 @@ yātayāse ← √yat- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Convey him (to safety) in war, son of strength, who like a wise son offers to you (reverence) as to a father; when, sagacious **Agni** do you look upon us; when, director of sacrifice, do you direct us (to good ways).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As to a father: may the bearer of the oblation, the undecaying Agni, be a father to us; or, the relationship may be reversed; protect him, Agni, who, like a father, cherishes you as a son, Agni being genitive rated and maintained by the sacrificer
 </details>

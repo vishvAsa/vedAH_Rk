@@ -22,14 +22,17 @@ ChandaH = "गायत्री यवमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -139,7 +142,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** has been effused who is the bringer of treasures, the bringer of riches, the bringer of food, the bringer of fair homes.”
 </details>

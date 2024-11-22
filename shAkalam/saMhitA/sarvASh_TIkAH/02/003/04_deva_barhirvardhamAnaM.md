@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhiḥ ← barhís- (nominal stem)  
 {case:VOC, gender:N, number:SG}
 
@@ -185,11 +188,13 @@ yajñíyāsaḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine grass, let the **Vasus**, the **VIśvedevas**, the adorable **Āditya**, sit upon this flourishing, invigrating, well-grown, sacred grass, strewn for the sakeof wealth upon this altar, and sprinkled with butter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Divine grass: the **barhis**, or a person nification of **Agni**
 </details>

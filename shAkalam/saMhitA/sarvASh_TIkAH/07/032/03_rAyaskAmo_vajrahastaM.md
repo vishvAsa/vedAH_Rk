@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rāyáskāmaḥ ← rāyáskāma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -100,7 +103,8 @@ putráḥ ← putrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of riches, I call upon the benevolent wielder of the thunderbolt, as a son upon a father.”
 </details>

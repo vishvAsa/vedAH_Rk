@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,11 +196,13 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the mighty **Indra** for protection, and the **Ṛbhu**, **Vājas** and **Maruts** to drink the **Soma**, also both **Mitra**, **Varuṇa** and the **Aśvins**; and may they direct us to opulence, to holy rites, and to victory.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhukṣaṇam indram: Indra who is Ṛbukṣin (of which Ṛbhukṣaṇam is the accusative ative), i.e. the mighty Indra; ṛbhūn and vājān, plural accusative, refer to the three sons of **Sudhanvan**: Ṛbhu, **Vibhu** and **Vāja** (**Nirukta** 11.16)
 </details>

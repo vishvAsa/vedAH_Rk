@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -207,11 +210,13 @@ vidhema ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the vast waters overspread the universe containing the germ and giving birth to **Agni**, then wasproduced the one breath of the gods -- let us offer worship with an oblation to the divine Ka.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The germ: i.e., thegerm of the world, **Brahmā**. The birth of **Hiraṇyagarbha**, or **Brahman**, in and from the mundane egg, asdescribed in **Manu** is alluded to; yat, **tataḥ**: from that (cause) from which
 </details>

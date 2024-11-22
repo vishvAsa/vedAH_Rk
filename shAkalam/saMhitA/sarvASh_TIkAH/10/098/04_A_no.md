@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -182,7 +185,8 @@ saparya ← √sapary- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the sweet drops of rain fall upon us; grant us, **Indra**, a thousand chariot-loads. Sit down, **Devāpi**,to your duties as **Hotā**; in due season sacrifice to the gods, worship them with oblations. functions as Hotā. He has brought down from the upper to the lower ocean the rain waters of heaven.”
 </details>

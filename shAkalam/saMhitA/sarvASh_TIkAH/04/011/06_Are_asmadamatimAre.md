@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámatim ← ámati- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -204,7 +207,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, son of strength, since you protect (your worshippers), far (remove) from us all iniquity; far (remove from us) sin; far (from us) all evil thoughts; for proeperous is he of whom you who are radiant by night promote the well-being.”
 </details>

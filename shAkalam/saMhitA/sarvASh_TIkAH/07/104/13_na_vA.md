@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hinoti ← √hi- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -192,7 +195,8 @@ ubhaú ← ubhá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** instrumental gates not the wicked; he instrumental gates not the strong man dealing in falsehood; he destroys therākṣasa, he destroys the speaker of untruth; and both remain in the bondage of **Indra**.”
 </details>

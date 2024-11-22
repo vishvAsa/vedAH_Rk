@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 cákṣuḥ ← cákṣus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -234,7 +237,8 @@ vakṣyā́mi ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My ears are turned (to hear him), my eyes (to behold him); this light that is plural ced in the heart (seeks to know him); my mind, the receptable of distant (objects) hastens (towards him); what shall I declare him? How shall I comprehend him?”
 </details>

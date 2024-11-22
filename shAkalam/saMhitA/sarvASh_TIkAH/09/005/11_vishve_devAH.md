@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 devāḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -144,7 +147,8 @@ sajóṣasaḥ ← sajóṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O all ye gods, come together to the consecration of the **Soma**-- **Vāyu**, **Bṛhaspati**, **Sūrya**, **Agni** and **Indra**.”
 </details>

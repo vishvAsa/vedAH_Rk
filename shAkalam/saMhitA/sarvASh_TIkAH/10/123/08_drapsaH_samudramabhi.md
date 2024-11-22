@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -181,11 +184,13 @@ tr̥tī́ye ← tr̥tī́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When (**Vena** as) the drop of rain approaches the firmament, contemplating (all things) with the eye ofthe hawk in the supporting (firmament), then the sun, shining with brilliant radiance, makes the precious(showers) in the third sphere.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hawk: gṛdhrasya = the sun desiring the fluid
 </details>

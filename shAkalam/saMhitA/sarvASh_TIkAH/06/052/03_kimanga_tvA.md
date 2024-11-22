@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 aṅgá ← aṅgá (invariable)  
 {}
 
@@ -210,7 +213,8 @@ tápuṣim ← tápuṣi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Why have they called you, **Soma**, the protector of pious prayer? Why (have they called you) our defender against calumny? Why do you behold us subjected to reproach? Cast your destroying weapon upon the adversary of the **brahman**.”
 </details>

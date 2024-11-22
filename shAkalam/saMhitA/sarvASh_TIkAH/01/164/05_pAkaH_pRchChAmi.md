@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ávijānan ← ávijānant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Immature (in understanding) undiscerning in mind, I inquire of those things which are hidden (even) from the gods; (what are) the seven threads which the sages have spread to envelop the sun, in whom all abide?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Immature: **pākaḥ** = lit. ripening, being or making mature; here, it is equated with paktavyaḥ, what is to be matured; apakvamatiraham, I of immature mind; seven threads: sapta tantūn = seven forms of the **soma** sacrifice, or the seven metres of the **vedas**; the seen: vatse baṣkaye **adhi**: vatse = sarvasya nivāsa bhūte;
 

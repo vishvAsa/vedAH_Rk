@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádbhutam ← ádbhuta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -165,11 +168,13 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Tvaṣṭā**, favourably disposed towards us, send to us, for our nourishment and prosperity, the quick (falling), wonderful, abundant (water), in the centre (of the cloud, effecting), of itself much (good).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Qucik (falling), wonderful: the hymn has epithets only related to udakam, water: turīpam adbhutam **puru** **vāram** puru tmanā; in the centre: **nābhā** nābhau meghasya avasthitam udakam, i.e. rain;
 

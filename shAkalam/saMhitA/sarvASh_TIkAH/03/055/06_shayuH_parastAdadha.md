@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -193,11 +196,13 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The child of two mothers sleeps in the west, but (in the morning) the single infant proceeds unobstructed (through the sky); these are the functions of **Mitra** and **Varuṇa**; great and unequalled is the might of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mitra and Varuṇa: Mitra presiding over day; Varuṇa over the night, both being forms of one **Agni**
 </details>

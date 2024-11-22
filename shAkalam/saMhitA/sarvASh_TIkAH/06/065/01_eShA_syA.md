@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divojā́ḥ ← divojā́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -181,11 +184,13 @@ tirás ← tirás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This heaven-born daughter (of the sky), driving away the darkness for us, makes visible human beings; she who with bright lustre is perceived dissipating the glooms, and (extinguishing) the plural nets (shining) in the nights.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Makes visible: udgirati **mānuṣīḥ** **prajāḥ** = vomits them, i.e., brings them up out of darkness into light; in the nights: rāmyāsu = yāmyāsu, rātriṣu
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -213,11 +216,13 @@ vā́ram ← vā́ra- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indu**, purified, plural nges through his foes making all things easy of access to the worshipper; making his body liquid, lovable and wise, he rishes through the filter sporting like a horse.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Liquid: gāḥ = rasamayān
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ sudā́vne ← sudā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Utterly consume all the **rākṣasas**, **Agni**, and be the protector of our sacrifices against interruption. Bring hither the guardian of **Soma**, (**Indra**), with his steeds, that we may show hospitality to the giver of food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Somapati: a remarkable epithet for Indra (though not mentioned in the text, indicated by reference to haribhyām, Indra's two steeds
 </details>

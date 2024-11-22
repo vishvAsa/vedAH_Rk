@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 janāsaḥ ← jána- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -207,11 +210,13 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We proclaim, people, the wealth of the hero, (**Indra**), in horses; the gods know his (affluence); six, or five and five, harnessed to his car, convey him; great and unequalled is the might of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Six or five: ṣoḷhā **yuktāḥ** pañcapañca vahanti = either the six seasons of the year, or, by combining the cold and dewy seasons, five; these are figurately Indra's horses.
 </details>

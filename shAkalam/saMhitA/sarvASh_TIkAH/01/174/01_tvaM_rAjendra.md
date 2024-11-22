@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -203,7 +206,8 @@ vásavānaḥ ← vásavāna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, are king; they who are gods (are subject) to you; therefore, scatterer (of foes), do you protect and cherish us men; you are the protector of the good, the possessor of wealth, the extricator of us (from sin); you are true, the invester (of all with your lustre) the giver of strength.”
 </details>

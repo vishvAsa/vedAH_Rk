@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eti ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -214,11 +217,13 @@ upaprútam ← upaprút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The powerful (**Soma**) advances with a roar like a slayer of men; he puts forth that **asura**-slaying tint of his; he abandons bodily infirmity; the food goes to the prepared (altar); he assumes a form advancing to the outstretched (filter).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Asura-slaying tint: i.e., green;or varṇam means 'protecting strength'; the food: i.e., the Soma;
 

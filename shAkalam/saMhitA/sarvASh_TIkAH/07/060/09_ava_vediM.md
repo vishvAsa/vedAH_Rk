@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -170,7 +173,8 @@ vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let my adversary desecrate the altar by (ill-expressed) praises; repelled by **Varuṇa**, may he (undergo)various sufferings; may **Aryaman** defend us from those who hate us; confer, showerers (of benefits), a vastregion upon the liberal donor (of oblations).”
 </details>

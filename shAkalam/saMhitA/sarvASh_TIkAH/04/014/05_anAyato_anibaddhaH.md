@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ánāyataḥ ← ánāyata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ skambháḥ ← skambhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This sun, not far removed and unobstructed, whether looking downwards or looking upwards, is harmed by no one; what is the power by which he travels? who has (truly) beheld him who, as the collective pillar of heaven, sustains the sky.”
 </details>

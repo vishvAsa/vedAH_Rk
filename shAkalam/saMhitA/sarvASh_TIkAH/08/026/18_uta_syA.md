@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śvetayā́varī ← śvetayā́van- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -112,7 +115,8 @@ síndhuḥ ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily this Śvetayāvarī, the golden-pathed river, is of all rivers the especial bearer of your (praises).”
 </details>

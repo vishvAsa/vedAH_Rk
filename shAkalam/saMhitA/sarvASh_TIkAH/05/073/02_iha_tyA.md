@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ihá ← ihá (invariable)  
 {}
 
@@ -137,7 +140,8 @@ tuvíṣṭamā ← tuvíṣṭama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I approach you (to invite you) hither, you who are the encouragers of many; (who are) the achievers of many (great) exploits, most excellent and irresistible, I invoke you, who are most mighty, for protection.”
 </details>

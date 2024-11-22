@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pári ← pári (invariable)  
 {}
 
@@ -192,7 +195,8 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He invests himself with the rays of the sun stretching out the triple thread in the way he knows; guiding the recent adorations of the truthful (worshipper), the protection of women passes to the consecrated (vessel).”
 </details>

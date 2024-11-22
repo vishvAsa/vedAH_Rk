@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -160,11 +163,13 @@ vyáciṣṭham ← vyáciṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer oblations with butter to **Agni**, who spreads through all regions, vast, expanding, with all-comprehending form, nourished (with sacrificial) food, powerful, conspicuous.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Offer oblations with butter: jigharmy agnim haviṣā ghṛtena = a tva jigharmi **manasā** ghṛtena (**Yajus**. 11.23), I sprinkle you with butter, with a believing mind: śraddhāyuktena cittena; vast, expanding: pṛthum tiraścā = vast with crooked-going or undulating radiance; vayasā bṛhantam = augmenting with smoke
 </details>

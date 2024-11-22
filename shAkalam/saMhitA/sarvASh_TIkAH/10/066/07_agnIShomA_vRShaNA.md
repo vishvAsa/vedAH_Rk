@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnī́ṣómā ← agnī́-ṣóma- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -186,7 +189,8 @@ yaṁsataḥ ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify for the obtaining of food the two showerers (of benefits), **Agni** and **Soma**, the many-laudedshowerers (of benefits), may these two whom the priests have worshipped with divine worship bestow upon us atriply-guarded dwelling.”
 </details>

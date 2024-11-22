@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aghā́ ← aghá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -226,7 +229,8 @@ vahati ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who has thus beheld the evils near at **hand**? The (bull) which they yoke, they stop; to him they bringneither fodder nor water. Being above (the bull) he bears the chariot-pole announcing (victory to his lord).”
 </details>

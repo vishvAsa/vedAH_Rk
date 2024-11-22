@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ádhukṣata ← √duh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -113,11 +116,13 @@ vasiṣṭa ← √vas- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The stream of effused creative **Soma** milks out the joy-giving ambrosia; the accomplisher of holy rites veils itself in the waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Apo **vasiṣṭa** **sukratuḥ**: a reference to the vasatīvarī water with which the soma is sprinkled
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anuyājā́ḥ ← anuyājá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -193,7 +196,8 @@ túbhyam ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The gods). Yours, **Agni**, be the Prayājas and Anuyājas exclusively; yours be the concentrated portions of the oblations; let this sacrifice; Agni, be all yours, and let the four quarters of space bow down beforeyou.”
 </details>

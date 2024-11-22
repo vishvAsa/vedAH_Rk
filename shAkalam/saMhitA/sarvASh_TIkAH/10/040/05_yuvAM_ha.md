@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -213,7 +216,8 @@ rathíne ← rathín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Attending upon you, **Aśvins**, leaders (of rites), I, **Ghoṣā**, the daughter of king (**Kakṣīvat**), speak toyou and request you; be (present at) my (sacrifice) by day, and be (present) by night, be able, (to grant favour) tothe son of my brother, who has horses and a chariot.”
 </details>

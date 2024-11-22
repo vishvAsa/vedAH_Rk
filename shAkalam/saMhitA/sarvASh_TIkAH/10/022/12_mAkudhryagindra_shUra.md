@@ -23,15 +23,18 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 akudhryàk ← akudhryàñc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -157,7 +160,8 @@ vajrivaḥ ← vajrivant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, **Indra**, let not our manifold sacrifices be unavailing, but may we all, thunderer, (through) your(favour) continue in the fruiton of these (our desires).”
 </details>

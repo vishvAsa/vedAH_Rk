@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anájan ← √añj- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -198,7 +201,8 @@ tanū́ṣu ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as the attendant divine (priests) anoint you as the invoker of the gods to offer worship in the sacrifice, therefore do you assent to be our protector on this occasion, and grant abundant food to our descendants.”
 </details>

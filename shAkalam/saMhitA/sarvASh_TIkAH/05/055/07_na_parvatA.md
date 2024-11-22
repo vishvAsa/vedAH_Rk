@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -215,7 +218,8 @@ yātā́m ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not the mountains, let not the rivers, arrest you; whither you purpose, (**Maruts**), thither repair, and compass heaven and earth; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>

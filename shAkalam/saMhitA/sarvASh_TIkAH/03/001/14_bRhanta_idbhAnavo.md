@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhānávaḥ ← bhānú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -191,7 +194,8 @@ dúhānāḥ ← √duh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty sins, like brilliant lightning, associate with the self-shining **Agni**, great in his own abode, as if in a (deep) cavern, as they milk forth ambrosia into the boundless and vast ocean.”
 </details>

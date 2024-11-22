@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 apasyúvaḥ ← apasyú- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -110,7 +113,8 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of fulfilling their functions (the mothers of **Indra**) approaching, worship him as soon as born,and enjoy (affluence) together with **male** progeny.”
 </details>

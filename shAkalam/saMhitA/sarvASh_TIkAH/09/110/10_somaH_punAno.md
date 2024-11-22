@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 avyáye ← avyáya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -142,7 +145,8 @@ sahásradhāraḥ ← sahásradhāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pavamāna** **Soma** sporting like a child drops filtered through the woollen fleece, thousand-streamed, having the might of a hundred, radiant.”
 </details>

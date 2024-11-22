@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 āntrébhyaḥ ← āntrá- (nominal stem)  
 {case:ABL, gender:N, number:PL}
 
@@ -141,11 +144,13 @@ vr̥hāmi ← √vr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I banish disease from your entrails, from your anus, from your abdomen, and from your heart, fromyour kidneys, from your liver, from your (other) viscera.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kidneys: bones near the heart; or, kidneys, made likethe fruit of the mango tree, being in both sides of the body
 </details>

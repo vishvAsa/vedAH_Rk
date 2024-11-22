@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -194,11 +197,13 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who verily pours forth to the offerer the buried wealth accusative ulated by many, he, **Indra**, thethunderer, handsome-jawed, borne on bay steeds, does as he plural ases, (when propitiated) with sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Accusative ulated by many: **puru** saṃbhṛtam = the buried wealth, plural ntiful and accusative ulated; wealth as theaccumulated stores from former sacrifices;
 

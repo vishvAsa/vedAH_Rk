@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -183,7 +186,8 @@ váhanti ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your quick-moving, prancing steeds, rapid as hawks, yoked to your car, bear you, **Aśvins**, (hither), who, quick as (falling) water, like vultures flying through the air, convey you, **Nāsatyas**, to the sacrifice.”
 </details>

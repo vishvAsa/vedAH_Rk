@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhítas ← abhítas (invariable)  
 {}
 
@@ -163,7 +166,8 @@ vevīyate ← √vī- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My ribs pain me on both sides, like rival wives; disease, nakedness, hunger, afflict me; my mindflutters like a bird.”
 </details>

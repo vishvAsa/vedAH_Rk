@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 devā = ← devá- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -180,7 +183,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you, divine **Mitra** and **Varuṇa**, to you this adoration at sacrifices is addressed; remove from us alldifficulties, and ever cherish us with blessings.”
 </details>

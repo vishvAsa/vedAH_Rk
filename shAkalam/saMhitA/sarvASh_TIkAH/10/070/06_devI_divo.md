@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devī́ ← devī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -180,7 +183,8 @@ uraú ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Radiant daughters of heaven, Dawn and Night, sit down on the plural ce of sacrifice; O you, who aredesirous and possessed of affluence, may the gods desirous (of oblations) sit down on your spacious lap.”
 </details>

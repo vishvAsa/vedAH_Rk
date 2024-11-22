@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 parjányāvā́tā ← parjányāvā́ta- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -170,7 +173,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The two showerers (of desires), **Parjanya** and **Vāta**, the two senders of water, **Indra** and **Vāyu**,**Varuṇa**,m **Mitra**, **Aryaman**; we invoke the divine **Ādityas**, **Aditi**, and the gods, who dwell on the earth, or inheaven, or in the waters.”
 </details>

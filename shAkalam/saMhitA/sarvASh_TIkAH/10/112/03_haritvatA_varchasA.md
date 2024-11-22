@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 háritvatā ← háritvant- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -154,7 +157,8 @@ sadhrīcīnáḥ ← sadhrīcīná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Decorate your person n with most beautiful forms with the golden radiance of the sun; invoked by usyour friends, **Indra**, sit down and be exhilarated, accompanied by the **Maruts**.”
 </details>

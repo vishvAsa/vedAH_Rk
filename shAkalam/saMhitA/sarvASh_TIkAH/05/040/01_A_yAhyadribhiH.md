@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -137,7 +140,8 @@ vr̥trahantama ← vr̥trahántama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Indra**, (to our sacrifice); drink, lord of the **Soma**, of the juice expressed by the stones; showerer (of benefits), utter destroyer of **Vṛtra**, (come) with the showering (**Maruts**).”
 </details>

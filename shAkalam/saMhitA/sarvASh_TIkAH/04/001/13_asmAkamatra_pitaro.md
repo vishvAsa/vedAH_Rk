@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -188,11 +191,13 @@ usrā́ḥ ← usrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In this world, our mortal forefathers departed after instrumental tuting the sacred rite, when, calling upon the dawn, they extricated the milk-yielding kine, concealed among the rocks in the darkness (of the cave).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Our mortal forefathers: the **aṅgirasas**; the reference is to the origin of fire-worship by **Aṅgiras** and his followers
 </details>

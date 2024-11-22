@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajati ← √aj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -208,7 +211,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He proceeds to plural nder the wealth of the (avaricious), and bestows the riches that are prized by man upon the donor (of the libation); every man is involved in great difficulty who provokes the might of **Indra** to wrath.”
 </details>

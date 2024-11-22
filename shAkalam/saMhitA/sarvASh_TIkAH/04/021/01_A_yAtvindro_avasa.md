@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -195,11 +198,13 @@ púṣyāt ← √puṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** come to us for protection, and being praised (by us), may the mighty hero be exhilarated along with (us) at this rite; he whose energies are many; may he, like the radiant sun, recruit his own overpowering vigour.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 20.47; along with us: **vasa**, with the gods, devai **saha**; or, asmābhiḥ saha; lie the radiant sun: dyaur na kṣṭram abhibhūti puṣyati, whose many exploits (are celebrated) like the heaven;
 

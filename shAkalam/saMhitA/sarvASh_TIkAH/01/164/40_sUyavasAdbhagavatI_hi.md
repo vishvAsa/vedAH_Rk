@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhágavatī ← bhágavant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -178,7 +181,8 @@ udakám ← udaká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Cow, may you be rich in milk through abundant fodder; that we also may be rich (in abundance); eat grass at all seasons, and, roaming (at will), drink pure water.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -153,11 +156,13 @@ pári ← pári (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mātariśvan** therefore brought for the gods from afar, **Agni**, hiding of himself, and genitive rated by attrition, as (a father brings back) a fugitive (son).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A fugitive (son): the text has only sasṛvāmsam iva, like one going; the father and son are implied; or, the reference may be to master and slave
 </details>

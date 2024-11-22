@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 niyū́ya ← √yu- 1 (root)  
 {non-finite:CVB}
 
@@ -174,11 +177,13 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vanaspati**, who are intelligent, having fastened it with a rope, convey the food of the gods; may thedivine (Vanaspati) taste it, may he take the oblations (to the gods); may heaven and earth protect my invocatioṇ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vanaspati: the sacrificial **post** or stake (**yūpa**)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácyutā ← ácyuta- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -166,7 +169,8 @@ vr̥ścánti ← √vr̥śc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You consume **Agni**, the unfallen (trees) as an animal (feeds) upon pasture, when, undecaying deity, the flames of you who are resplendent shear the forests.”
 </details>

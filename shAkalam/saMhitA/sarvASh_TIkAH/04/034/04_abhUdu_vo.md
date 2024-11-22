@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhūt ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -189,7 +192,8 @@ tr̥tī́yam ← tr̥tī́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Now, leaders (of rites), the treasure that ought to be presented is to be given to the mortqal performing (the sacred rite), the offerer (of the libation); drink, **Vājas** (drink), **Ṛbhus**; I present it to you at the third solemn (diurnal) ceremony for your exhilaration.”
 </details>

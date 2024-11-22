@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajáḥ ← ajá- 2 (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ sárasvatī ← sárasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the armed and thundering (voice of mid-heaven), the upholder of heaven, Aja Ekapād, theocean, the waters of the firmament, the universal gods and **Sarasvatī**, accompanied by sacred rites, andabundant wisdom, hear my words.”
 </details>

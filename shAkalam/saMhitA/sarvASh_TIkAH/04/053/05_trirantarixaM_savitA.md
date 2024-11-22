@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antárikṣam ← antárikṣa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -201,11 +204,13 @@ He drives the three heavenly and the three earthly realms
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Savitā**, encompassing them by his magnitude, pervades th three (divisions of the) firmament, the **three worlds**, the three brilliant sphere, the three heavens, the threefold earth may he, by his three functions, of his own (plural asure) protect us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three divions of the firmament: **antarikṣa** is divided between **Vāyu**, **Vidyut** and **Varuṇa**, in three portions; three brilliant spheres: the regions of **Agni**, Vāyu and **Sūrya**; three heavens: the **lokas** of **Indra**, **Prajāpati** and **Satyaloka**; threefold earth = three ores?; three functions: those of distributing heat, rain and cold
 </details>

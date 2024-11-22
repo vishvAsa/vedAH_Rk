@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imám ← ayám (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -152,7 +155,8 @@ sā́dane ← sā́dana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra**, this excellent, immortal exhilarating libation, the dropf of which pellucid (beverage) flow towards you in the chamber of sacrifice.”
 </details>

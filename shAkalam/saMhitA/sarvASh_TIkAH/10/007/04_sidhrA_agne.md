@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -198,11 +201,13 @@ vāmám ← vāmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, our earnest praises have been composed for you. May he whom you, the perpetual invoker ofthe gods, protect in the sacrificial chamber, be rich in sacrifices, the master of red steeds, the possessor ofabundant food; may the desirable (oblation) be granted him on shining days.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Earnest: enjoying, possessing; maysatyavān vā syām, may I, through your favour having obtained unity with you, be (like you) the possessor ofsacrifices or truth; in the sacrificial chamber: **dama** = asmadyajñagṛhe maryādayāvasthitaḥ; on shining days:dyubhiḥ: form root div or dya, day; dyubhiḥ ahobhiḥ = day by day
 </details>

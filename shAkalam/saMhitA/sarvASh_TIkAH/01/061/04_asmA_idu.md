@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
-#### Morph
+_________
+**Morph**  
 asmaí ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ viśvaminvám ← viśvaminvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I prepare praises fo rhim, as a carpenter constructs a car, (that the driver) may thence (obtain) food; praises well deserved, to him who is entitled to commendation, and excellent oblations to the wise **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ratham na taṣṭeva tatsināya: sina = food;
 

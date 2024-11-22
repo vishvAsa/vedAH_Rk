@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 róhitau ← róhita- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -170,7 +173,8 @@ marutaḥ ← marút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, may all men bow in obedience to that youthful Śrutaratha, the possessor of abundance, who has bestowed (upon us) two bay steeds accompanied by three hundred (cattle).”
 </details>

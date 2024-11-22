@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -210,11 +213,13 @@ véḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have been fed, (**Agni**, with oblations) ever since the **Ādityas**, devising a road to immortality; instrumental tuted all (the sacred rites) that secured them from failing and mother earth, **Aditi**, strove with her magnitude to uphold (the world), along with her mighty sons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ye **viśvā** svapatyāni = śobhanāni apatana-**hetu**-**bhūtāni**, those which were the prosperous causes of not falling; i.e. certain sacred acts which secured to the Ādityas their station in heaven; or, that immortality, th eway to which they had made or devised (**Taittirīya** 7.4.6.1: "the Ādityas, desirous of heaven (su-**varga**, **svarga**) said: 'Let us go down to the earth'; they behld there that (śattriṃṣadrātra) rite of thirty-six nights; they secured it, and sacrificed with it". karmāṇi = acts or ceremonies;
 

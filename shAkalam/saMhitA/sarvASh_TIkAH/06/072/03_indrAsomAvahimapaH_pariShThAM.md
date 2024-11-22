@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhim ← áhi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ samudrā́ṇi ← samudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Soma**, you slew Ahi and **Vṛtra**; the obstructer of the water; for which the heaven venerates you both; you have urged on the waters of the rivers until they have replenished numerous oceans.”
 </details>

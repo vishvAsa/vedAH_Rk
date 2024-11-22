@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ pátibhyaḥ ← páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The husbands who weep for the life (of their wives), make them sit down at the sacrifice, hold in a longembrace, (and) send the **Pitṛs** this desirable offspring, upon these husbands the wives (bestow) happiness inorder to be embraced.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Weep for the life of their wives: jīvam **rudanti** = liṭ, they weep for the living; i.e., weep forthe lie (of their wives); by their very weeping they desire to (pray for) their wives' lives
 </details>

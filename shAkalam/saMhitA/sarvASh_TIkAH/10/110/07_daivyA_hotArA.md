@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 daívyā ← daívya- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -164,11 +167,13 @@ pradíśā ← pradíś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine ministers, prior (to those of earth), repeaters of pious praise, instrumental tuting the sacrifice at whichmen are to worship, (sit down) stimulating (the priests) at the sacrifices, makers (of praises), indicating theeastern fire with the prescribed (text).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Eastern fire: **Āhavanīya**. The two divine ministers, of **Hotā** are **Agni** andĀditya
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -174,11 +177,13 @@ yujā́ ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty with the **Ṛbhus**, opulent with the **Vibhus**, may we overcome by strength, the strength (of ourfoes); may **Vāja** defend us in battle; with **Indra**, our ally, may we destroy the enemy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhus: ṛbhur ṛbhubhihvibhvo vibhubhiḥ: **ṛbhu** and uru = great; **vibhu** **vibhvaḥ** = rich or powerful
 </details>

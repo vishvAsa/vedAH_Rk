@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 daśasyántā ← √daśasy- (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
 
@@ -165,11 +168,13 @@ stuvīmahi ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestowing upon **Manu** the ancient (rain) from the firmament, you enabled him to cultivate (the soil) withthe plural ugh (and reap) the barley; now therefore, **Aśvins**, lords of rain, we glorify you both with praises.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 And reapthe barley: yavam vṛkeṇa karṣathaḥ = you till with the plural ugh barley
 </details>

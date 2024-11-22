@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dvā́daśākr̥tim ← dvā́daśākr̥ti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ saptácakre ← saptácakra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They have termed the five-footed, twelve-formed parent, Puriṣin, when in the further hemisphere of the sky; and others have termed in **Arpita**, when in the hither (portion of the sky); shining in his seven-wheeled car), each (wheel) having six spokes.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Puriṣin: from **puriṣa**, water;
 

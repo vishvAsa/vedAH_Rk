@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhunétayaḥ ← dhunéti- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -167,7 +170,8 @@ yónim ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati**, protect the fruit-yielding, progressive, uninjured ample sacrifice of this (your worshipp0er, at which) they who are the terrifiers (of foes), the delighters of you who are possessed of great wisdom, glorify (you) in our behalf.”
 </details>

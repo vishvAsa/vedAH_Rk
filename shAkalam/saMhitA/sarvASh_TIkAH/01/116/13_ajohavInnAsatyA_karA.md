@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájohavīt ← √hū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -169,11 +172,13 @@ híraṇyahastam ← híraṇyahasta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The intelligent (**Vadhrimati**) invoked you. **Nāsatyas**, who are the accom;ishers (of desires) and the protectors of many, with a sacred hymn; her prayer was heard, like (the instrumental uction of) a teacher, and you, **Aśvins**, gave to the wife of an impotent husband, **Hiraṇyahasta**, her son.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vadrimati was the wife of a certain **rājaṛṣi**, who was im\\potent. The Aśvins, propitiated by her prayers, gave her a son
 </details>

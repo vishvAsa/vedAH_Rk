@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bibhāya ← √bhī- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -183,7 +186,8 @@ sadhryàñcaḥ ← sadhryàñc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mountain, vast and lofty (though it be), is alarmed at your noise, and the summit of the firmament trembles when, lance-armed **Maruts**, you are sporting; you rush along together like waters.”
 </details>

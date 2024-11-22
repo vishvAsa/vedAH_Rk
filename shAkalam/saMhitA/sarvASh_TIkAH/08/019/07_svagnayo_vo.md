@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agníbhiḥ ← agní- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -139,11 +142,13 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Son of strength, lord of (sacrificial) food, may we be favoured with your various fires; do you, (**Agni**),endowed with energy, be well-disposed towards us!”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Energy: **suvīra** = you who are worshipped by nobleheroes
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
 
@@ -139,11 +142,13 @@ manuṣvát ← manuṣvát (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bearing the clipped sacred grass, offering in due order the (sacrificial) food, presenting the effusedSoma, and having the fires kindled, we invoke you, **Varuṇa**, (and the rest), as did **Manus**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varuṇa: when Mitraand Varuṇa are named singly, both are intended, and sometimes even more of the **Viśvadevas**; cf. ŚathapathaBrāhmaṇa 1.8.1, **Manu**'s sacrifice
 </details>

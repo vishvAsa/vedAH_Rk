@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhanadā́ḥ ← dhanadā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ yā́damānāḥ ← √yād- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In him who is observant of pious rites, who is a giver of wealth, who is exalted by the **Soma**, the (lord) of desirable riches, the distributor of food, (in him) the treasures fit (for his worshippers) congregate like rivers flowing into ocean.”
 </details>

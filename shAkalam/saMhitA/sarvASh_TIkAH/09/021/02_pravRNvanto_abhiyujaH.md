@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 abhiyújaḥ ← abhiyúj- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -100,7 +103,8 @@ vayaskŕ̥taḥ ← vayaskŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showing favour, assailing foes, giving wealth to him who rightly effuses them, and bestowing food spontaneously on their praiser.”
 </details>

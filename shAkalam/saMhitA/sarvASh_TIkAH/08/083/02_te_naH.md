@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -130,7 +133,8 @@ vr̥dhā́saḥ ← vr̥dhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those (deities) **Varuṇa**, **Mitra** and **Aryaman**, be ever our allies and supremeley wise helpers.”
 </details>
@@ -143,7 +147,8 @@ and forethoughtful strengtheners.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-viṣpitá- occurs only twice in Skt., here and in VII.60.7. In both occurrences it is the obj. of √pṛ ‘carry across, deliver’, and in both cases there is watery/nautical imagery. Its general value is clear -- a danger that is conceptually like a perilous water crossing -- but it has no good etymology. See EWA s.v. ### 05
+viṣpitá- occurs only twice in Skt., here and in VII.60.7. In both occurrences it is the obj. of √pṛ ‘carry across, deliver’, and in both cases there is watery/nautical imagery. Its general value is clear -- a danger that is conceptually like a perilous water crossing -- but it has no good etymology. See EWA s.v. _________
+**05**  
 Pādas ab appear to be a single clause with the middle part. ī́śānāsaḥ predicated to function as main verb. [Note in passing that Aufr’s typo ī́śānāśo with palatal, pointed out by Oldenberg, has been taken over uncorrected into the Holland & van Nooten Rig Veda edition text.] My tr. of c roughly follows Geldner’s, though I have rendered īm (“it”). He supplies a form of √naś ‘reach’, on the basis of VIII.47.1 … ném aghám naśat “evil will not reach him.” I am hesitant about this interpr. because it requires supplying a main verb with no support in context, but I don’t see a viable alternative. Renou takes c as contrastive with ab, with aghásya parallel to vāmásya (“vous êtes...les régisseurs de la grace / non point ... ceux du maléfice”), but he doesn’t explain the syntax, esp.
 
 what he does with yát, which certainly shouldn’t represent his “ceux.”

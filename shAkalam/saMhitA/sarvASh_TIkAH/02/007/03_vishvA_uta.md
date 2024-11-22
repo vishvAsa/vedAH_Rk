@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tváyā ← tvám (pronoun)  
 {case:INS, number:SG}
 
@@ -118,7 +121,8 @@ gāhemahi ← √gāh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us, through your favour, overwhelm all our foes like torrents of water.”
 </details>

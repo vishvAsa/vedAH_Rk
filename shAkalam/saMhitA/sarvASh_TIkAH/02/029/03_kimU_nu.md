@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápareṇa ← ápara- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ svastím ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What may we do for you, gods, either now, or in the future; what may we do, **Vasus**, by perpetual and practicable (acts of devotion); do you, **Mitra**, **Varuṇa**, **Aditi**, **Indra** and the **Maruts**, maintain our bell-being.”
 </details>

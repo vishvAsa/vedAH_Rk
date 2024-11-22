@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These your flames **Agni**, fed with abundant food, increase, as, by their descent, they seek the pastures of the hoofed cattle; bring, Agni, food to your adorers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They seek the pastures: ye patvabhiḥ śaphānām vrajā bhuranta gonām: ye raśmayaḥ, those rays which patanaiḥ by fallings, icchanti yūthāni śaphānām gonām, wish for or proceed to the herds of hoofed cattle; the spreading flames long for the burnt-offerings, **ayata** **jvālā** homāya kāṅkṣanti ityarthaḥ
 </details>

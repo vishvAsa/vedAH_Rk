@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -184,7 +187,8 @@ yuyotam ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Night retires before the dawn, the sister (of the **Aśvins**); the dark night leaves the path clear for theradiant (sun); upon you, who are affluent in horses, affluenet in cattle, we call day and night; keep away from usthe malevolent.”
 </details>

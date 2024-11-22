@@ -23,17 +23,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ vajrivaḥ ← vajrivant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You shine the sole sovereign of this world, **Indra**, lord of rites, with all your protections; slayer of **Vṛtra**,irreproachable wielder of the thunderbolt, drink of the **Soma** at the mid-day solemnity.”
 </details>

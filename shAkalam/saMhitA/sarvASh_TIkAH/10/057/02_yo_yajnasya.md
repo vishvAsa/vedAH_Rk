@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 prasā́dhanaḥ ← prasā́dhana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -115,7 +118,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we obtain (the favour of) him to whom burnt offerings are presented, (**Agni**), who is the thread, theperfecter of sacrifice, drawn out (by the priests) to the gods.”
 </details>

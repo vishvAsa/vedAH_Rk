@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adadhāḥ ← √dhā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -188,7 +191,8 @@ yájamānāya ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have associated, **Indra**, words of sacred praise with both (the grain and butter of oblation), plural ced together in ladles and jointly presented to you, so that (the sacrificer), undisturbed, remains (engaged) in your worship, and is prosperous; for to the sacrificer pouring out oblations (to you), auspicious power is granted.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -216,7 +219,8 @@ usráḥ ← uṣár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify with praise the beautiful heaven and earth taking in **hand** the stones (to express the libation) at the sweet (**Soma**) juice mixed with milk, as friends (give gifts to friends); the sun is in advance, (therefore come to this rite).”
 </details>

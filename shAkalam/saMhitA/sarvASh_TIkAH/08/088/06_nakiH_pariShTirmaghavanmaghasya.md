@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 maghásya ← maghá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -154,7 +157,8 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “None can hinder your bounty, **Maghavan**, when you give wealth to your votary, most liberal sender (ofwealth), listen to our praise for the attainment of food.”
 </details>

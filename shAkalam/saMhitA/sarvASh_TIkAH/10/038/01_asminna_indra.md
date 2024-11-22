@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmín ← ayám (pronoun)  
 {case:LOC, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ víṣvak ← víṣvañc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You shout, **Indra**, in this glorious and arduous conflict, and assist us to the acquisition (of spoil), in thisbattle where cows are won and men overpowered, wherein the weapons descend on every side upon the fierceand courageous combatants.”
 </details>

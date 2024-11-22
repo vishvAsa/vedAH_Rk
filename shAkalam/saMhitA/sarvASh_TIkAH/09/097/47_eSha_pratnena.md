@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣá ← eṣá (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flowing with (his) ancient food, enveloping the forms of the earth, covering the house of sacrifice which has a threefold protection, (plural ced) in the waters he advances calling aloud at the oblations like a ministrant priest.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Threefold protection: it protects against cold and rain
 </details>

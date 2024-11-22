@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mātŕ̥ṣu ← mātár- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -160,11 +163,13 @@ suvédam ← suvéda- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him, abiding in the maternal (waters) and in the woods, loved, yet unapproached, wonderful, hidden in a cave, endowed with knowledge, seeking (oblations) from any quarter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Loved yet unapproached: vītam kāntam: aśritam, dāhabhaya+dasevitam, bright or beloved, not honoured or served, through fear of being burnt; seeking oblations from any quarter: kūcidarthinam: i.e., kvacit, anywhere, anyhow; seeking fuel, butter: samidājyādi **haviḥ** svīkurvantam
 </details>

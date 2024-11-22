@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāgnī ← indrāgní- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -149,7 +152,8 @@ sū́ryam ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, bestow upon the munificent **Aśvamedha** infinite wealth with excellent posterity, undecaying as the sun in heaven.”
 </details>

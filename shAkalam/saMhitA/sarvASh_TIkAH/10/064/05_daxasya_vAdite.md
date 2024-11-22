@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adite ← áditi- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -171,11 +174,13 @@ víṣurūpeṣu ← víṣurūpa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the birth of **Dakṣa**, at his sacred rite, you, **Aditi**, worshipped the royal **Mitra** and **Varuṇa** at thesacred rite. **Aryaman**, whose course is not hurried, the giver of delight to many, having seven ministering (rays),(proceeds) in his multiform births.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dakṣa = the sun;
 

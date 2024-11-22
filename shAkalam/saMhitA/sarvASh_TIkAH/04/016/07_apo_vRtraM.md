@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahan ← √han- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -189,7 +192,8 @@ pátiḥ ← páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your protecting thunderbolt has slain **Vṛtra** obstructing the (issue of the waters), the conscious earth (co-operating) with you; valiant hero, preserver (of the regions), send down by your strength the waters of the firmament.”
 </details>

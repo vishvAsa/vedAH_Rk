@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -191,7 +194,8 @@ yuktvā́ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, who is the cherisher of men, the benefactor of mankind,t he lord of men, the adored of many, (come to us), Indra, who are praised (by us), and are desirous of the oblation, harness your vigorous steeds, and come down to me for (my preservation).”
 </details>

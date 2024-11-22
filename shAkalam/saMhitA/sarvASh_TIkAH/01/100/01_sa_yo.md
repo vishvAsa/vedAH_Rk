@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he who is the showerer of desires, who is co-dweller with (all) energies the supreme ruler over the vast heaven and earth, the sender of water, and to be invoked in battles; may **Indra**, associated with the **Maruts**, be our protection.”
 </details>

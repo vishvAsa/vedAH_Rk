@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 āsate ← √ās- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -107,7 +110,8 @@ píprataḥ ← √pr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven associated ministers like so many kinsmen filling the receptacle of the single (**Soma**), sit down (at the sacrifice).”
 </details>
@@ -122,7 +126,8 @@ guiding the track of the lone one safely across.
 
 Geldner and Renou take the seven siblings here as the seven dhītí- of 8.4 and 9.4, which is quite likely -- though the priests themselves are also a possibility. Geldner adduces IX.66.8 sám u tvā dhībhír asvaran … saptá jāmáyaḥ “Together the seven siblings cried out to you with insightful thoughts,” which has both the 7 siblings and the thoughts -- but the referent of the siblings in that vs. is not clear. Geldner there takes it as the fingers, which seems somewhat perverse, given that seven is not a canonical number for fingers -- and fingers don’t cry out.
 
-I prefer rivers, since the “seven streams” were mentioned in the previous vs. ### 08
+I prefer rivers, since the “seven streams” were mentioned in the previous vs. _________
+**08**  
 ā́dade belongs to √dā ‘bind’, not ‘give’; see, e.g., Kümmel 242. On the idiom see comm. ad I.139.1, IX.79.4.
 
 Geldner, Renou, and Kümmel all take b as a simile (“wie das Auge an die Sonne”), presumably with cid as the simile particle. But, as I have stated elsewhere (see, e.g., comm. ad I.173.7), I am not at all convinced that cid is ever so used. Here, the point is the real identification of Soma, or his eye, with the sun, not a comparison to Soma’s kinship with me; see ékam ákṣi in 9.4, the transformation of Soma into sun(s) in our vs. 5c, and esp. the transformation of the sun’s eye into Soma’s eye in the next vs. (9c).

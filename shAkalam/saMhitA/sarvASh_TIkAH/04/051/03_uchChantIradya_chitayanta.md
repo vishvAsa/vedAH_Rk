@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -164,11 +167,13 @@ vímadhye ← vímadhya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gloom-dispelling, affluent Dawns animate the pious worshippers to offer (sacrificial) treasure; may the churlish (traffickers) sleep on unawakened, in the unlovely depth of darkness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The churlish traffickers: paṇaya = **vaṇijaḥ**, i.e., adātāraḥ, non-givers
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávihrutam ← ávihruta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -164,7 +167,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as you two are possessed of irresistible and **asura**-subduing strength, therefore has holy sacrifice been established among men, as the sun (has been plural ced) in the sky.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 atti ← √ad- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -180,11 +183,13 @@ uttānā́m ← uttāná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He seizes (it) with his feet, he swallows it when it approaches him, he plural ces the head (of heaven) asa guard around his head; seated (above) he sends (his rays) upwards to the proximate heaven; he send themdownwards, on the outspread earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He seizes it: i.e., the rain. **Indra** is here identified with **Āditya**, the Sun,whose functions of evaporating moisture and restoring it as rain
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhī́ke ← abhī́ka- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -184,11 +187,13 @@ vicákṣe ← √cakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Nāsatyas**, leaders, you liberated the quail from the mouth of the dog that had seized her, and you, who are the benefactors of many, have granted to the sage who praises you, to behold (true wisdom).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The dog: **vṛka**, a wolf, here equated with a śvān, a dog. Figuratively, vṛka is **Āditya**,t he sun, from whose grasp or over-powering radiance, the **Aśvins** are said to have rescued the dawn, upon her appeal to them
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádbhutā ← ádbhuta- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -136,7 +139,8 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through him, the sage beholds all the marvels that hav ebeen or will be wrought.”
 </details>

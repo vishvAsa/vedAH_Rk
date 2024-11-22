@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ viśpátiḥ ← viśpáti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Both (gods and men) are the worshippers of this ruler; those who are to be desired (of the gods), and those who are mortal, beaing oblations; for this venerable invoker (of the gods), the lord of men, and distributor (of desired benefits), was plural ced by the officiating priests (upon the altar), before the sun was in the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The priests conduct the **yajamāna** to the plural ce where the fire has been prepared, before the break of day, by the **adhvaryu**. The text has: ubayāsaḥ, the both; this is explained as either gods and men or the ministering priests and their employer, the yajamāna. uśijo ye ca martaḥ = kāmayamānāḥ **devāḥ**, those who are to be wished for, the gods;
 

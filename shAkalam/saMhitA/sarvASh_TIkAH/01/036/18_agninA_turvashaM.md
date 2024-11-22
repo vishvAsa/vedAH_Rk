@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnínā ← agní- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -150,11 +153,13 @@ turvī́tim ← turvī́ti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke from afar, along with **Agni**, **Turvaśa**, **Yadu** and **Ugradeva**; let Agni, the arrester of the robber, bring hither Navavāstu, **Bṛhadratha** and **Turvīti**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 All were **rājarṣis**, royal sages; **Turvasu** and Yadu were sons of **Yayāti** of the lunar race
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amimīta ← √mā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -187,7 +190,8 @@ svā́hākr̥tam ← svā́hākr̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as he was born, **Agni** constructed a sacrifice, he was the preceder of the gods; may the godspartake of the oblation presented with the **svāhā** through the voice of him the **hotā** of the sacrifice at theeastern station.”
 </details>

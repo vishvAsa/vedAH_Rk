@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {}
 
@@ -183,7 +186,8 @@ pū́rve ← pū́rva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They roar like a hundred, like a thousand (men); they cry aloud with green-tinted faces; obtaining thesacrifice, the pious stones through their piety partake of the sacrificial food, even before (**Agni**), the invoker (ofthe gods).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bheṣajébhiḥ ← bheṣajá- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -207,7 +210,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You two are physicians, (conversant) with (all) medicaments; you ride in a chariot (drawn by) well-trained steeds; therefore, mighty (divinities), resolutely uphold (the worshipper), who, with a mind (devoted to you), offers you oblations.”
 </details>

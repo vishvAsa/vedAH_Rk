@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁhasi ← áṁhas- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Urge us not, **Maghavan**, to this iniquity, to these iniquitous conflicts, for the limit of your strength is not to be surpassed; you have made the waters of the rivers roar; how (is it possible) that the earth should be filled with terror?”
 </details>

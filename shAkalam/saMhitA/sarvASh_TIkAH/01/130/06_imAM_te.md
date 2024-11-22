@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyávaḥ ← āyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -254,7 +257,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men who are desirous of wealth have recited this your praise, as a resolute and provident man (prepares) a chariot (for a journey); they have propitiated you for their good; glorifying you, sage **Indra**, as impetuous in conflicts, they have praised you (as men praise) a conqueror. We praise you for (the acquisition of) strength, wealth, and every kind of affluence; as (they command) a courser (for his good qualities) in battle.”
 </details>

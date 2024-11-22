@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -203,11 +206,13 @@ paúṁsyaiḥ ← paúṁsya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The worshippers) have poured out the vessel full of the sweet (**Soma**) (into the fire) for that **Indra**, forhe is true (to his promises) of wealth; Indra, the friend of man, (distinguished) by his actions, and his prowess, ismagnified throughout the expanse of the firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Note that the Soma is poured into the fire!
 </details>

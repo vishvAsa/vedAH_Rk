@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ī́yase ← √i- 2 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -177,7 +180,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May these your bearers, by whom you are borne along, be satisfied; lord of the forest, be firm, doing no injury, steadfast of resolve; come and being gracious, drink, Draviṇodas, along with the Ṛtus, the **Soma**, the offering of the **Neṣṭā**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 haryaśva ← háryaśva- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of bay horses, by the right guidance of you who are deservedly praised, the bestower ofhappiness the illustrious, the men your praisers, O **Indra**, have acquired your most gracious assistance forexcelling (other suppliants) through your favours.”
 </details>

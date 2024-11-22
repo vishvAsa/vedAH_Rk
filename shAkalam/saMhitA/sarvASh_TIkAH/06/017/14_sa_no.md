@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -211,11 +214,13 @@ sma ← sma (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, resplendent **Indra**, uphold us who are devout, for (the obtaining of) food, of sustenance, of nourishment, of wealth; bestow upon **Bharadvāja** pious posterity, with numerous attendants; be with us, Indra, every future day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For food: vājāya, śaravase, iṣe ca rāye, the first three are synonyms, meaning food
 </details>

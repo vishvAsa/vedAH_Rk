@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥ṣṭívidyutaḥ ← r̥ṣṭívidyut- (nominal stem)  
 {case:NOM, number:PL}
 
@@ -153,7 +156,8 @@ ramáya ← √ram- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify, Ṛṣi, with grateful praise, the company of the **Maruts**, who are manifest, bright with lightning lances, who are wise, and the creators (of all things).”
 </details>

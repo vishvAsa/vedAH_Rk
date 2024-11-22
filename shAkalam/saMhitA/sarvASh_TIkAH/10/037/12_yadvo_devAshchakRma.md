@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakr̥má ← √kr̥- (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
 
@@ -218,7 +221,8 @@ vasavaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever sin, great and exciting the wrath of the gods, we have committed against you, O gods, bythe tongue, or the working of the mind, do you, **Vasu**, transfer that sin to him, who assailing terrifies us.”
 </details>

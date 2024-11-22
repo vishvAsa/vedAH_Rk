@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhijñú ← abhijñú (invariable)  
 {}
 
@@ -153,7 +156,8 @@ marjayadhvam ← √mr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The worshippers bearing the sacred grass offer it with reverence, upon their knees, to **Agni**; worshiphim, priests, with oblations, invoking him to (sit down) on the spotted (grass), smeared with clarified butter.”
 </details>

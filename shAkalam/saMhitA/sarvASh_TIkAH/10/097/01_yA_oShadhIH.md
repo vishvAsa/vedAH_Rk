@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 jātā́ḥ ← √janⁱ- (root)  
 {case:NOM, gender:F, number:PL, non-finite:PPP}
 
@@ -167,11 +170,13 @@ saptá ← saptá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I think of the hundred and seven applications of the brown-tinted plural nts, which are ancient, beinggenerated for the gods before the three ages.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ages: dhāmāni = plural ces to which herbs may be applied by wayof unction, friction, sprinkling etc.; **Nirukta**, 9.28: either plural ces, names, or births;
 

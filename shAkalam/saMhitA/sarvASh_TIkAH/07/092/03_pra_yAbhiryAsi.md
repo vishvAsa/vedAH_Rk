@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -197,7 +200,8 @@ vīrám ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those **Niyut** steeds, with which you go, **Vāyu**, to the donor (of the libation), waiting in this hall tooffer sacrifice, (come to us), and bestow upon us enjoyable riches, bestow **male** progeny, and wealth,comprehending cattle, and horses.”
 </details>

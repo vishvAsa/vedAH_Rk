@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -173,11 +176,13 @@ várūtrī ← várūtrī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whom those solicitous for wealth those enjoying (it), mutually worship, the benefactor of heaven andearth; may **Ahirbudhnya** hear us; may the protectress (the goddess of speech), cherish us with excellen cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ahirbudhnya = a name of **Agni**, of the middle region or firmament; the protectress: varutra = vāgdevatā
 </details>

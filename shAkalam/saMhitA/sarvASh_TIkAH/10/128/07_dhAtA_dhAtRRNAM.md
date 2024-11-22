@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhúvanasya ← bhúvana- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -172,7 +175,8 @@ yájamānam ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The creator of creators, he who is the protector of the universe, (him I praise), the divine defender, thedestroyer of enemies; may the two **Aśvins**, **Bṛhaspati**, and the gods, protect this sacrifice, and save the sacrificerfrom disappointment.”
 </details>

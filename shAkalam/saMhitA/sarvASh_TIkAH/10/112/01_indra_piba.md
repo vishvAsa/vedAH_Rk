@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vīryā̀ ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra**, at will of the effused libation, for it is poured out at the morning sacrifice, and is first drunkby you; exult, hero, in slaying your foes, we will glorify your heroic exploits with hymns.”
 </details>

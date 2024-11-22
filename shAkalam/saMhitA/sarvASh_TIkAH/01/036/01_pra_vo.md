@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -159,7 +162,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We implore with sacred hymns the mighty **Agni**, whom other (ṛṣis) also praise, for the benefit of you who are many people, worshipping the gods of you who are many people, worshipping the gods.”
 </details>

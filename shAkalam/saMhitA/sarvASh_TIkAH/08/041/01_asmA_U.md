@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asmaí ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -191,11 +194,13 @@ The verse though simple is simply misunderstood and mistranslated by most (for e
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer praise to that opulent **Varuṇa**, and to the most sage **Maruts**; (Varuṇa) who protects men by his acts, as (the herdsman guards) the cattle; may all our adversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By his acts: **karmaṇā** = karmaṇi,who protects men's religious acts
 </details>

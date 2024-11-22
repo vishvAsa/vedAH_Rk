@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrayaḥ ← ádri- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -173,7 +176,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vast firm mountains cannot stop you, **Indra**, whatever wealth you would give to a worshipper suchas I none can hinder you therein.”
 </details>

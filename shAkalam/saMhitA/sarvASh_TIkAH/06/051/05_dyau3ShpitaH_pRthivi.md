@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhruk ← adrúh- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -190,7 +193,8 @@ yanta ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Father Heaven, innocent mother Earth, brother **Agni**, and you, **Vasus**, grant us happiness; all you sons of **Aditi**, and you Aditi, alike well-plural ased, bestow upon us ample felicity.”
 </details>

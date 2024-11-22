@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devébhyaḥ ← devá- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -197,7 +200,8 @@ víśvān ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The priests, the ten fingers, milk you forth for the gods, most sweet-flavoured, flowing in a thousand streams; effused by the men, expressed with the stone, do you, **Soma**, the winner of thousand-fold wealth, flow to all the gods.”
 </details>

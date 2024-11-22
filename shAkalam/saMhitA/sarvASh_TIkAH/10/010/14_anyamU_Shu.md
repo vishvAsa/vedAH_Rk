@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anyáḥ ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -241,7 +244,8 @@ súbhadrām ← súbhadra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yama** speaks). Do you, **Yamī**, embrace another; and let another embrace you as a creeper a tree;seek his affection, let him seek you; and make a happy union.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 pavamāna ← √pū- (root)  
 {case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -125,7 +128,8 @@ hiraṇyáyam ← hiraṇyáya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pure **Soma**, consecrate with your streaming ambrosia the green bright golden-hued **Vanaspati** with its thousand branches.”
 </details>

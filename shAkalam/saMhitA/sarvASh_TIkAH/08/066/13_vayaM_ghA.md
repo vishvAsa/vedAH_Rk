@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gha ← gha (invariable)  
 {}
 
@@ -183,7 +186,8 @@ marḍitā́ ← marḍitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, we are your, therefore we, your worshippers, depend on you; other than you, **Maghavan**, invokedof many, there is no giver of happiness.”
 </details>

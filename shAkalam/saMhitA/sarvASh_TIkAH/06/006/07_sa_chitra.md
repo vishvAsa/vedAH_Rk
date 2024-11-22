@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -183,11 +186,13 @@ yuvasva ← √yu- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wonderful **Agni**, of wonderful strength, bestower of delight, grant to us, and to him who praises you with gratifying (praises), wonderful, most wonderful riches, conferring fame, supplying food, comprehending **male** descendants,d electable and infinite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Not the repetition of the word **citra** (wonderful) and **candra** (delightful)
 </details>

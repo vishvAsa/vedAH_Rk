@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́yudham ← ā́yudha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -111,7 +114,8 @@ ugráḥ ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One (**Rudra**) brilliant and fierce, (yet) the distributor of healing **medicines**, holds his sharp weapon in hishand.”
 </details>

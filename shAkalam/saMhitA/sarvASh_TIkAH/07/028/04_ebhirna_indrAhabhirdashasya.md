@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhabhiḥ ← áhar ~ áhan- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -192,11 +195,13 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant us, **Indra**, with these days, (wealth), for unfriendly men approach; may the untruth which the wiseand sinless **Varuṇa** observes in us, (through your favour, Indra), doubly disappear.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Dvita** avasat: the verb isvimochana, loosing, setting free; dvita, **dvidha**: twofold, may mean now and hereafte, or body and mine, or wordand deed
 </details>

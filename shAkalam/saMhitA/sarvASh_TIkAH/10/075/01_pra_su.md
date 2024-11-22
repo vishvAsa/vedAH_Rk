@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpaḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -201,7 +204,8 @@ sŕ̥tvarīṇām ← sŕ̥tvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Waters, the worshipper addresses to you excellent praise in the dwelling of the instrumental tutor of the rite;they flowed by sevens through the three (worlds); but the **Sindhu** surpasses (all) the (other) streams in strength.”
 </details>

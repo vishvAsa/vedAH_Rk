@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 éṣe ← éṣa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ stómaiḥ ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We glorify you both, that your chariots may precede ours by a long distance; accepting the pious worship of Rātahavya with (his) praises.”
 </details>

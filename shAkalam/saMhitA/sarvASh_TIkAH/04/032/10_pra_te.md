@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -127,7 +130,8 @@ púraḥ ← púr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We proclaim your prowess, whereby exhilarated (by the **Soma**), and having gone against them, you have demolished the servile cities.”
 </details>

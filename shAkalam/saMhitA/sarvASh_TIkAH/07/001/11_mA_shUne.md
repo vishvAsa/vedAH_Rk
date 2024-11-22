@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ prajā́vatīṣu ← prajā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us not sit down, **Agni**, in an empty dwelling, (nor in those) of (other) men; let us not be withoutsuccessors; or, being without **male** posterity, let us, friend of dwellings, (by) worshipping you, (come to abide) inhouses filled with progeny.”
 </details>

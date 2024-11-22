@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 supraṇīte ← supráṇīti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approaching you, benevolent **Agni**, and performing all holy acts that are the cause of opulence, offering oblations with earnestness and in abundance, may we overcome the hostile hosts that are without gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May we overcome the hostile: abhiṣyāma pṛtanāyūr adevān;or, it may mean, may we overcome the hosts of those who are not gods, i.e. the **rākṣasas**, or evil spirits, obstructing sacrifices
 </details>

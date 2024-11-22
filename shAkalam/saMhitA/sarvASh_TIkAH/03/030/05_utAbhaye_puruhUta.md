@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhaye ← ábhaya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You alone, when invoked by many, and the slayer of **Vṛtra**, by your prowess, did say firmly (to the gods), fear not! **Indra**, endowed with opulence, vast is your grasp, wherewith you have seized these unbounded regions, heaven and earth.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 asiṣyadat ← √syand- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -122,11 +125,13 @@ puruspŕ̥ham ← puruspŕ̥h- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise (**Soma**) flows widely round, be taking itself to the waves of the river, and uttering a sound desired by many.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The waves of the river are the vasatīvari waters; uttering a sound desired by many: alternative reading may be, 'bearing a hymn beloved by many'
 </details>

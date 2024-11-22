@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 satrāhā́ ← satrāhán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -163,7 +166,8 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke that **Indra** who is the desroyer of mighty foes, the supervisor (of all things); do you, the many organed, the protector of the good, the distributor of wealth, be unto us (the insurer of) success in combats.”
 </details>

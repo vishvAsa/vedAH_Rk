@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -210,7 +213,8 @@ visrásaḥ ← √sraṁs- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bear us across (the sea of life), like two vessels, or (over difficult plural ces), like the poles of a car, the axles, the spokes, the fellies (of two wheels). Be like two dogs, warding off injury to our person ns, and, like two coats of mail, defend us from decay.”
 </details>

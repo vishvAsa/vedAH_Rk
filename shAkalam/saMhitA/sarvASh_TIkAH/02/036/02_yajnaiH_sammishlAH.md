@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pŕ̥ṣatībhiḥ ← pŕ̥ṣant- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -182,11 +185,13 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, together worshipped with sacrifices, standing in the car drawn by spotted mares, radiant with lances, and delighted by ornaments, sons of **Bharata**, leaders in the firmament, seated on the sacred grass, drink the **Soma** presented by the **Potā**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sons of Bharata: bharatasya sūnavaḥ, the first is said to be a name of **Rudra**, as the cherisher or sovereign, bhartā, of the world
 </details>

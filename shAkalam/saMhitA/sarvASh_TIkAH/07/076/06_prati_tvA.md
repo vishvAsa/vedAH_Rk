@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īḷate ← √īḍ- ~ √īḷ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -177,7 +180,8 @@ sujāte ← sujātá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Auspicious Uṣas, the **Vasiṣṭhas**, waking at dawn; and praising you, glorify you, glorify you with hymns;Uṣas, who are the conductress of the cattle (to pasture), the bestower of food, dawn upon us; shine, well-bornUṣas, the first (of the gods).”
 </details>

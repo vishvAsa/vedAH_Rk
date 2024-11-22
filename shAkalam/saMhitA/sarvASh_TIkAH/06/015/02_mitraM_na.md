@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -186,11 +189,13 @@ práśastibhiḥ ← práśasti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wonderful **Agni**, whom, adorable and upward flaming, the **bhṛgus** regard as a friend, deposited in the wood of (attrition), be plural ased with **vītahavya**, since you are glorified by (his) praise everyday.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vītahavya: if applied to **bharadvāja**, it will be an appellation, he by whom oblations are offered
 </details>

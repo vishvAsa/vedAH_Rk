@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -191,11 +194,13 @@ vikṣú ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you, **Indra**, come down; may the **Soma** be sufficient for (the satisfaction of) your person n; exult **Śatakratu** with the libations, defend us in combats, and against the people.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pra asmān avapṛtanāsu pra vikṣu: pra = prasakṣ, especially protect us; na kevalam saṅgrāmeṣu kintu sarvāsu prajāsu, not only in wars, but in or against all people
 </details>

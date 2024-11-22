@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámartyaḥ ← ámartya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ tridhā́tu ← tridhā́tu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer (of benefits) is manifested begetting (light) immortal, destroying the darkness with (his) radiance; glorified by the wise he has assumed his shining robe; the triple (oblation is supported) by his act.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He has assumed his shining robe: he has blended himself with the milk, for the sake of being cleansed
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádr̥śānaḥ ← √dr̥ś- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
 
@@ -195,7 +198,8 @@ sukrátuḥ ← sukrátu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He repeatedly beholding his parents (heaven and earth) proceeds with a loud noise, like cows (looking at their calves and lowing), and with a roar (like the troop) of **Maruts**; knowing that water to be the best which is good for all men, the intelligent (**pavamāna**) chose man to be the offerer of his praise.”
 </details>

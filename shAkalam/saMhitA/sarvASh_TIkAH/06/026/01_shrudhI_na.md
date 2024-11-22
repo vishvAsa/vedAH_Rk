@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hváyāmasi ← √hvā- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -201,7 +204,8 @@ ugrám ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear us, **Indra**, when, offering libations, we call upon you for obtaining abundant food; grant us decided protection when on a future day men are assembling for battle.”
 </details>

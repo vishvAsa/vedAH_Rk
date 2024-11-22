@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrúhaḥ ← adrúh- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ várīmabhiḥ ← várīman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily I propitiate, by my invocations, the mind of the benevolent father, and the great and spontaneous (affection) of the mother (of all beings). The parents, with kindness, have secured, by their excellent protections, the vast and manifold immortality of their progeny.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The mother of all beings: Heaven, dyuloka is the father, and earth, **pṛthivi**, the mother: dyaur vaḥ **pitā**, **pṛthivī** **mātā**;
 

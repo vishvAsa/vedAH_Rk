@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -190,7 +193,8 @@ víśvasmin ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I give excellent treasure to him who praises me, I render sacred prayer (a source) of greatness tomyself, I am the instrumental gator of the worshipper; I am the discomfiter in every battle of him who does not worship.”
 </details>

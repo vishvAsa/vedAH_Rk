@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índavaḥ ← índu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Opulent **Indra**, may the **Soma** drops exhilate you, that you may bestow wealth on the donor of thelibation; for taking it by stealth (when given), you have drunk the Soma poured out into the ladle, and havethence sustained pre- eminent strength.”
 </details>

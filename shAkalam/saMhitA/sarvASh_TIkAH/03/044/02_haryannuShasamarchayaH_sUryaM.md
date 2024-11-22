@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcayaḥ ← √r̥c- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -156,7 +159,8 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desiring (the **Soma**), you honour the dawn; desirng the Soma, yu have lighted up the sun; knowing and discriminating (all our wishes), lord of the tawny steeds, you augment upon us all (sorts of) prosperity.”
 </details>

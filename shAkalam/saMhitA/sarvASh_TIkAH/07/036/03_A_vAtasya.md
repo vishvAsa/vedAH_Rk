@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -175,11 +178,13 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The movements of the restless wind sport around; the milk-yielding kine are in good condition; theshowerer genitive rated in the dwelling of the mighty sun has cried aloud in that his plural ce of abiding, (the firmament).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The showerer: acikradad **vṛṣabhaḥ** sasmin ūdham: **parjanya** has cried n that firmament, tasmin antarikṣeacikradat
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ sumitréṣu ← sumitrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Agni** to whom a long series (of sacrifices has been addressed), who is bright with many rays,covering thousands (in the form of ghī), the leader of hundreds (of burnt offerings), the mighty one, brilliantamong the brilliant, (is) being glorified by the priests; shine (Agni) upon the devout **Sumitras**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To whom a longserieṣ..: liṭ, long-threaded, large-oxed, thousand- heifered, hundred-guider
 </details>

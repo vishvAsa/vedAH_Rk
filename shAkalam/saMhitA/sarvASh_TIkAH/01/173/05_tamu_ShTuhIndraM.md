@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -192,7 +195,8 @@ vihantā́ ← vihantár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify that **Indra** who is mighty, who is a hero, possessing abundant wealth, standing in his car, a valiant combatant against adversaries, the wilder of the thunderbolt, the dispenser of all-enveloping gloom.”
 </details>

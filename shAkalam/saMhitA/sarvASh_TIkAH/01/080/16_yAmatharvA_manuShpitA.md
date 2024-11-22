@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 átharvā ← átharvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ svarā́jyam ← svarā́jya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In like manner as of old, so in whatever act of worship **Atharvan** or father **Manu**, or Dadhyañc engaged, their oblations and their hymns were all congregated in that **Indra**, manifesting his own sovereignty.”
 

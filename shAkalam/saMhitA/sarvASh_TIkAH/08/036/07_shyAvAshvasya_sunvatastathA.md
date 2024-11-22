@@ -24,16 +24,19 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M
-#### Morph
+_________
+**Morph**  
 śr̥ṇu ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -202,7 +205,8 @@ vardháyan ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear (the praises) of **Śyāvāśva** offering the libations, as you have heard (those) of **Atri** engaged inholy rites; you alone, **Indra**, have defended **Trasadasyu** in battle, animating his prayers.”
 </details>

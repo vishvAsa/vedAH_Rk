@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -172,7 +175,8 @@ vītī́ ← vītí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is desirous of food has recourse with a new sacrifice, approachable son of strength (**Agni**), to you the consumer of forests, the dark-pathed, the bright shining, the ministrant (to the gods) of (sacrificial) food, the divine.”
 </details>

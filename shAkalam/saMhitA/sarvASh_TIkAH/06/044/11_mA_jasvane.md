@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jásvane ← jásvan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ vr̥ha ← √vr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give us not up, showerer (of benefits), to the obstructor (of our rites); relying upon the friendship of you, lord of riches, may we be unharmed; many are the hindrances (opposed) to you among men; slay those who make no libations, root out those who present no offerings.”
 </details>

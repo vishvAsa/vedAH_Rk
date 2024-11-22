@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṇayúgbhiḥ ← aruṇayúj- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -197,7 +200,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The DWns in beautiful chariots drawn by purple steeds in pairs, shine gloriously as hey proceed (along the heaven); bringing on the commencement of the great (morning) sacrifice, they disperse the darkness of the night.”
 </details>

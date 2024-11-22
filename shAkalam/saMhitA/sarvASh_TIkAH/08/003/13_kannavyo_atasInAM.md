@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 atasī́nām ← atasí- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -147,7 +150,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What living mortal, the prompter of ever-rising (praises), may now glorify **Indra**? No one of thoseheretofore praising him have attained the greatness of the properties of Indra.”
 </details>

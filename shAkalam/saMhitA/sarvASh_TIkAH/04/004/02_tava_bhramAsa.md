@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśuyā́ ← āśuyā́ (invariable)  
 {}
 
@@ -191,7 +194,8 @@ Spread with thy tongue the flying flames, O agni; unstoppable, hurl forth firebr
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your swift and errant flames descend (on everyside); fierce-shining with vigour consume (the foe); scatter, **Agni**, with the ladle (of oblation), scorching flames and sparks, and brands.”
 </details>

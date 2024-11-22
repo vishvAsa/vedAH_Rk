@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrúḥ ← √kr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -200,7 +203,8 @@ tváṣṭā ← tváṣṭar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The men, (the **Ṛbhus**), spoke the truth, for such (ladles) they made, and thereupon the Ṛbhus partook of that libation; **Tvaṣṭā**, beholding the four ladles, brilliant as day, was content.”
 </details>

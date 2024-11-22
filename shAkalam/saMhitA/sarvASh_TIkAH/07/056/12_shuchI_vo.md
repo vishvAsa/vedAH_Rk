@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havyā́ ← havyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -173,7 +176,8 @@ pāvakā́ḥ ← pāvaká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pure oblations be offered, **Maruts**, to you who are pure; the shedders of water proceed by truth to truth,pure, purifying, of pure birth.”
 </details>

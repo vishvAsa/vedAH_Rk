@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ātmā́ ← ātmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -221,7 +224,8 @@ tiṣṭha ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the eye repair to the sun; the breath to the wind; go you to the heaven or to the earth, according toyour merit; or go to the waters it it suits you (to be) there, or abide with your members in the plural nts.”
 </details>

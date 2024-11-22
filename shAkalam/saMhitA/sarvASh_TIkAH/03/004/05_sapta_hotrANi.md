@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hotrā́ṇi ← hotrá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -194,11 +197,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods who gratify the universe with rain are present at the seven offerings (of the ministering priests), when solicited with (sincerity of) mind; may the many deities who are engendered in sensible shapes at sacrifices come to this our rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Deities in sensible shapes: in preceding **sūktas**, the doors of the hall of sacrifice, are the person nifications specified; here, the divinities presiding over the doors are implied
 </details>

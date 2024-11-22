@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mādáyadhvam ← √mad- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -176,11 +179,13 @@ víbhvā ← víbhvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhu**, (**Vibhu**), and **Vāja**, leaders of rites, possessors of opulence, be exhilarated by our effused(libation); may your active and powerful (horses) bring to our presence your chariot, beneficial to mankiṇḍ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhukṣaṇo **vājaḥ**, the use of the plural ral implies that the three brothers are intended
 </details>

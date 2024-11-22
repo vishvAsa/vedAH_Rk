@@ -22,14 +22,17 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prathamā́ḥ ← prathamá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -164,11 +167,13 @@ vīryā̀ya ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The chief (of men) having cut the sacred grass have fixed their minds, **Soma**, on you for abundant strength and food; do you, O hero, excite us to heroism.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The chief of men: or, the men of old
 </details>

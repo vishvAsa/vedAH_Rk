@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rathyàm ← rathī́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ yajatáḥ ← yajatá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You (gods, adore) the charioteer of the sacrifice, the lord of men, the invoker of the gods, the guest ofnight, the resplendent (**Agni**). Blazing amid the dry (bushes) preying upon the green, the showerer of desires, thebanner (of light), the adorable, he reposes in heaven.”
 </details>

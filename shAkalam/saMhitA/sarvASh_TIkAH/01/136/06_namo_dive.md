@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥haté ← br̥hánt- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -240,11 +243,13 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I proclaim veneration to the mighty Sun, to heaven and earth, to **Mitra**, to the benevolent **Varuṇa**, to the conferer of happiness, the showerer of benefits. Praise **Indra**, **Agni**, the brilliant **Aryaman**, and **Bhaga**, so that enjoying long life, we may be blessed with progeny; we may be happy through the protecting virtues of the **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varuṇāya mīḷhuṣe sumṛḷīkāya mīḷhuṣe:The first attributive is an epithet of **Rudra**, the showerer of desired benefits, abhimataphalasya sektre; the two next words are applied to Mitra, Varuṇa and Rudra\].
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśa ← dáśa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -116,11 +119,13 @@ vāvr̥tuḥ ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ten brown horses bear along the wheel (of my chariot), of mature vigour, of complete power, andtrampling down obstacles.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of complee power: vītavārāsaḥ = krāntabalaḥ prāptabala vā, having sleektails
 </details>

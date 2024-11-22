@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyát ← anyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -212,11 +215,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One of your forms, (**Pūṣan**), is luminous, one is venerable; so that the day is variously complexioned; for you are like the sun; verily, bestower of food, you protect all intelligence; may your auspicious liberality be manifested on this occasion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. **Nirukta**, 12.17; you are like the sun: Pūṣan is identified with both day and night, or is considered as their regulator
 </details>

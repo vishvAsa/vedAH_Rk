@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājaú ← ājí- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts** worshipped you in this (encounter); all the gods in this engagement imitated you in exultation, when you had struck the face of **Vṛtra** with your angular and fatal (bolt).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhṛṣṭimatā vadhena, with the weapon that has angles; **Aitareya** **Brāhmaṇa**: **vajra**, the thunderbolt of **Indra** has eight angles or blades, aṣṭaṣṛr vai **vajraḥ**
 </details>

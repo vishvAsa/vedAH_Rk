@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ rūpám ← rūpá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who, for (the sake of) the showerer (of benefits), milk the agreeable (produce) of the cow, (who is known) by (many) names, they invested with the diversified strength (of the **asuras**) and practising delusive art have deposited their own nature in him.”
 </details>

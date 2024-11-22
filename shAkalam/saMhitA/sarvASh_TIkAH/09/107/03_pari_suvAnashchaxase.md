@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cákṣase ← cákṣas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -102,7 +105,8 @@ vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Being effused the **Indu** flows so as to be seen (of all)-- the exhilarator of the gods, the agent (in holy acts), the observer of all.”
 </details>

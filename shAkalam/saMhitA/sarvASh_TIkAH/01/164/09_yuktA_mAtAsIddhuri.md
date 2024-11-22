@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āsīt ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -181,11 +184,13 @@ yójaneṣu ← yójana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mother, (sky), was associated in (sustaining) the burden of the fulfiller of desires, (the earth); the embryo (water) rested within the (womb of the) clouds; thereupon the calf bellowed, and beheld the omniform cow in the three combinations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The calf bellowed: the cloud thundered; the omniform cow: viśvarūpyam gām triṣu yojaneṣu = the earth diversified by various crops in consequence of the co-operation of the cloud, the wind, and the rays of the sun
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -194,7 +197,8 @@ svādhyàḥ ← svādhī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Well clad and hung with wreaths comes the youthful (pillar); most excellent it is as soon as genitive rated; steadfast and wise venerators of the gods, meditating piously in thei rminds, raise it up.”
 </details>

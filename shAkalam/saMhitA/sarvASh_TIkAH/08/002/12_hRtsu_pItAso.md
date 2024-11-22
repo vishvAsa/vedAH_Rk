@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 hr̥tsú ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -119,11 +122,13 @@ nagnā́ḥ ← nagná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The potations (of **Soma**) contend in your interior (for your exhilaration) like the inebriation caused bywine; your worshippers praise you (filled full of Soma) like the udder (of a cow with milk).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the inebriatioṅdurmadāso na surāyām, like bad intoxications, wine, being drunk. This is an allusion to the fermented winesin use, perhaps, according to **Manu**, an inferior sort of spirit; duṣṭamadā yathā pa-tāram mādayantitadvatvām mādayitum parasparam yudhyanta ityarthaḥ; your worshippers praise you: ūdhar na nagnājarante: the praisers praise like an udder;
 

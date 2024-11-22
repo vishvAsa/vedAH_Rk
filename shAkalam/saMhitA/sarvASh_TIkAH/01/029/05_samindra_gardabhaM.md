@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gardabhám ← gardabhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -173,11 +176,13 @@ tuvīmagha ← tuvī́magha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, destroy this ass, (our adversary), praising you with such discordant speech; and do your, Indra, of boundless wealth, enrich us with thousands of excellent cows and horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nuvantam-pāpayāmuyā, praising with this speech that is of the nature of abuse (nindarūpayā **vācā**); hence, he is called an ass braying harsh sounds: yathā **gardabhaḥ** śrotum aśakyam paruṣam śabdam **karoti**
 </details>

@@ -22,14 +22,17 @@ ChandaH = "वर्धमाना"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ī́śānāḥ ← √īś- (root)  
 {case:ACC, gender:F, number:PL, voice:MED}
 
@@ -98,11 +101,13 @@ yācāmi ← √yāc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Waters, sovereigns of precious (treasures), granters of habitations to men, I solicit of you **medicine** (formy infirmities).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Precious: vāryāṇām = vāriprabhavānām vrīhiyavādinām, the products of the water,rice, barley etc.;
 

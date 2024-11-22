@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dákṣiṇāvān ← dákṣiṇāvant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Paṇis**). These are the cows which you, auspicious **Saramā**, coming to the extremities of thesky, demand. Who will give them up to you without a combat? And our weapons are sharp.”
 </details>

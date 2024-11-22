@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asmi ← √as- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -180,7 +183,8 @@ dardarīmi ← √dr̥- ~ dr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra** speaks): "here I am, worshipper, behold me here; I overpower all beings by my might; the offerersof sacrifice magnify me by their praises; I, the shatterer, shatter the worlds".”
 </details>

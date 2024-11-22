@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 mā́m ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -205,11 +208,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “None resist me (engaged) in combat, not even the mountains when I am resolved; at my shout the dullof hearing is alarmed, and so too even the bright- rayed (sun) trembles day by day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The dull of hearing:kṛdhukarṇa: may be the name of an **asura**; or, may denote one hard of hearing, deaf
 </details>

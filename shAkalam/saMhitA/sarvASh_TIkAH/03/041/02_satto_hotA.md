@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótā ← hótar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The invoking priest is seated at the proper season; the sacred grass woven together has been spread; the stones are plural ced in contact for the morning (libation).”
 </details>

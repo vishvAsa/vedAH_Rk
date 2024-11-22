@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 harítaḥ ← harít- (nominal stem)  
 {case:ACC, number:PL}
 
@@ -189,11 +192,13 @@ kartám ← kartá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Stop, **Sūra**, your yellow horses, for this **Etaśa**, **Indra**, drags the wheel; having driven those who offer no sacrifices to the opposite bank of the ninety rivers, you compel them (to do) what is to be done.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sūra = Indra, as the sun;
 

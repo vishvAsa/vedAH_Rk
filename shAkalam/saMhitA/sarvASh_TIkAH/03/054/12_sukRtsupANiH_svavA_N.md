@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ ataṣṭa ← √takṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine **Tvaṣṭā**, the able artificer, the dextrous-handed, the possessor of wealth, the observer of truth, bestow upon us those things (which are necessary) for our preservation; **ṛbhus**, associated with **Pūṣan**, make us joyful, as they (the priests), with uplifted stones, prepare the sacred libation.”
 </details>

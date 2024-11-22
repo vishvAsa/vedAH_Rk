@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cárantam ← √carⁱ- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -176,7 +179,8 @@ vaktā́ ← vaktár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he who with false calumnies maligns me behaving with a pure heart, may such a speaker offalsehood **Indra**, cease to be, like water held in the **hand**.”
 </details>

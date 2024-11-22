@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -184,11 +187,13 @@ sumedhā́ḥ ← sumedhás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Repeat (to **Indra**) pious praise, as a carpenter (plural nes the wood), and engaging (zealously in sacred rites), as a quick horse bearing well his burden; endowed with intelligence, and refllecting upon the future acts acceptable (to Indra), I desire to behold the sages (whohave gone to heaven).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As a quick horse: the instrumental tutor of the rite is supposed here to address the officiating priests, urging them to be diligent laboureres, like the carpenter of the pack-horse; acts acceptable to Indra: abhipriyāṇi marmṛśat parāṇi kavīṇicchāmi sandṛśe: priyāṇi = indrasya priyatamāni;
 

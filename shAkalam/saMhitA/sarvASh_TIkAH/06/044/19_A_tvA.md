@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -183,7 +186,8 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let your vigorous steeds, harnessed of their own will, drawing your wish-bestowing chariot, guided by shower-yielding reins, quick-moving, hastening towards us, youthful, thunder-bearing, well-yoked, bring you to the hountiful, exhilarating (libation).”
 </details>

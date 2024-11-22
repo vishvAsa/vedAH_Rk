@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 br̥hántam ← br̥hánt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant us, **Indra**, various fertilizing riches, the fit object of prayer, honoured by the gods, large, vast,”
 </details>

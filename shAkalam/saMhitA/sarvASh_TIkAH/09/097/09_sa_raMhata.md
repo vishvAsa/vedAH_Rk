@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jūtím ← jūtí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -185,11 +188,13 @@ r̥jráḥ ← r̥jrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He moves rapidly (following) the path of (him) the much-praised, (other) goers cannot overtake him (though he is) moving easily; sharp-horned he displays manifold (radiance); the **Soma** appears green-tinted by day, and clearly visible at night.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Soma appears green-tinted by day: Soma is not visible in the daylight;
 

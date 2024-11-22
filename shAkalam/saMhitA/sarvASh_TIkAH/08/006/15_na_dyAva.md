@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 dyā́vaḥ ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -121,11 +124,13 @@ vivyacanta ← √vyac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Neither the heavens, nor the realms of the firmament, nor the regions of the earth, equal the thundererIndra in strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The realms: the names are in plural ral: the heavens, the firmaments, the earths, na dyāvonāntarikṣāṇi na bhūmayaḥ; cf. RV. 2.027.08
 </details>

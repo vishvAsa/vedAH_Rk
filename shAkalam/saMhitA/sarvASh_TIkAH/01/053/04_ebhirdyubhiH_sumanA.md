@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyúbhiḥ ← dyú- ~ div- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -178,7 +181,8 @@ yutádveṣasaḥ ← yutádveṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Propitiated by these offerings, be these libations, dispel poverty with cattle and horses; may we subduing our adversary, and relived from enemies by **Indra**, (plural ased) by our libations, enjoy together abundant food.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áheḷamānaḥ ← áheḷamāna- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ yajñíyānām ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unirascible (**Indra**), come to the sacrifice; the effused **Soma** is purified for you; they flow, thunderer, (into the pitchers), as cows go to their stalls; come, Indra, the first of those who are to be worshipped.”
 </details>

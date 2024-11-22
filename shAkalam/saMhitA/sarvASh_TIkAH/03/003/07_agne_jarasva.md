@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -204,11 +207,13 @@ vipā́m ← víp- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, praise (the gods that we may enjoy) good offspring and long life; propitiate them by libations; bestow upon us plural ntiful crops; ever vigilant, gran tfood to the respectable (instrumental tutor of this ceremony), for you are the desired of the gods, the object of the pious acts of the devout.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Grant food: vay_msi annāni; **vayaḥ** kṣadma (**Nirukta** 2.7.7)
 </details>

@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 juṣanta ← √juṣ- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
 
@@ -118,7 +121,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[9-10\] Hastening to obey the commands of **Agni**, like sons (obedient of the orders) of a father, they celebrate his worship; abounding in food, Agni sets open before them treasures that are the doorf of sacrifice; and he who delights in the sacrificial chamber has studded the sky with constellations.”
 </details>

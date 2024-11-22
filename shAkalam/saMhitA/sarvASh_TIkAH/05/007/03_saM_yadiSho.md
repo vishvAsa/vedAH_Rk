@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iṣáḥ ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -152,11 +155,13 @@ r̥tásya ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When we present to him (sacrificial food), when (he accepts) the oblations of men, then the power of the brilliant (viands), he assumes the radiance of the rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛtasya raśmim ādade: the ray is the apprehender or absorber, **grāhaka**, of water; alluding to the production of rain as the result of burnt-offerings; or he becomes endowed with the energy genitive rative or the reward of the sacrifice, phalajanakam svīkṛtavān; or, he accepts the praise, as it were, thelustre or ray of the sacrifice
 </details>

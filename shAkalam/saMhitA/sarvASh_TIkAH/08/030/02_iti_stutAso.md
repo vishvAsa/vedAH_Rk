@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asatha ← √as- 1 (root)  
 {number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -144,7 +147,8 @@ yajñiyāsaḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroyers of foes, gods, adored by **Manu**, who are three-and-thirty, and are thus hymned.”
 </details>

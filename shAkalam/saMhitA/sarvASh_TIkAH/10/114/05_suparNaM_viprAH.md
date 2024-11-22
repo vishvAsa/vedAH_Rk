@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kaváyaḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,11 +174,13 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise seers through their praise make into many forms the bird which is (only) one; and holding the(seven) metres at the sacrifices, they measure twelve bowls of **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bird which is one: this is the other of thetwo birds mentioned in verse 3; the bird referred to is the supreme **soul**, **paramātmā**
 </details>

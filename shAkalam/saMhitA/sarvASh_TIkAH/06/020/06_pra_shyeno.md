@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṁśúm ← aṁśú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And the hawk bore to **Indra** the exhilarating **Soma**, when, bruising the head of the oppressor **Namuci**, and protecting the slumbering **Nami**, the son of **Sapya**, he provided, for the weeell-being (of the sage), riches and food.”
 </details>

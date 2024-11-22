@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -121,11 +124,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[3-4\] The gods followed the traces of the fugitive; the search spread everywhere, and earth became like heaven; the waters swelled (to conceal him), who was much enlarged by praise, and was manifested as it were in the womb in the waters, the source of sacrificial food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 So nileyata, so āpaḥ praviṣat, tam **devaḥ** praiṣam aicchan; tam **matsyāḥ** prabravit: he, concealing himself, entered into the waters; the gods wished for a messenger to him; a fish discovered him. A fish revealed to the gods where **Agni** had hidden (**Taittiriya**)
 </details>

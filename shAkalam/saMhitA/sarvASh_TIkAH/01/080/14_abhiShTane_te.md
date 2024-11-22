@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhiṣṭané ← abhiṣṭaná- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ svarā́jyam ← svarā́jya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At your shout, wielder of the thunderbolt, all things, moveable or immoveable, trembled; even **Tvaṣṭā** shook with fear, **Indra**, at your wrath, manifesting your own sovereignty.”
 </details>

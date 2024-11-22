@@ -23,15 +23,18 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bravāmahai ← √brū- (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
 
@@ -181,7 +184,8 @@ svastáye ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We glorify **Vāyu** for prosperity, **Soma** for prosperity, he who is the protector of the world; (we praise) **Bṛhaspati** (attended by) all the companies (of the deities), for prosperity, and for our prosperity may the **Ādityas** be ours.”
 </details>

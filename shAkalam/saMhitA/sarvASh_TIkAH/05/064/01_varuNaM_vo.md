@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 riśā́dasam ← riśā́das- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -139,7 +142,8 @@ svàrṇaram ← svàrṇara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you, **Mitra** and **Varuṇa**, with this hymn; each the discomfiter of foes, the conductor to heaven, like (two herdsmen) driving, by (the strength of their) arms, the herds of cattle before them.”
 </details>

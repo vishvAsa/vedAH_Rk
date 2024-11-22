@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhārata ← bhā́rata- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -127,11 +130,13 @@ váso ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Youngest (of the gods), **Agni** descendant of **Bhārata**, granter of dwellings, bring (to us) excellent, splendid and enviable riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Descendant of Bhārata: Bhārata = sprung from the priests;
 

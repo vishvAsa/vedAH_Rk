@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 jaritré ← jaritár- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -207,11 +210,13 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That opulent donation which proceeds, **Indra**, from you, assuredly bestows upon him who praises you the boon (that he desires); grant it to (us) your adorers; do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you at this sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This hymn is a refran in **sūktas** 2.11, 2.13 and in several which follow
 </details>

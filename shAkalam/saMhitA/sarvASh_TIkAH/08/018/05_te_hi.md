@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 áditeḥ ← áditi- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -133,7 +136,8 @@ anehásaḥ ← anehás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These sons of **Aditi** know how to drive away (our) enmies; and, doers of great deeds and donors ofsecurity, (they know how to extricate us) from sin.”
 </details>

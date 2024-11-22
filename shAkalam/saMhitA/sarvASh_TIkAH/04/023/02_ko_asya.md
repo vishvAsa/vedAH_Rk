@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpa ← √āp- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -193,7 +196,8 @@ yájyoḥ ← yájyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What hero has enjoyed his fellowship (in battle)? who has been a sharer in his benevolent thoughts? when does any one appreciate his wonderful bounty? when is he (presen) for the promotion of the prosperity of the man who glorifies and worships him?”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hántā ← br̥hánt- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -173,7 +176,8 @@ vr̥jáneṣu ← vr̥jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ample laudation is magnifying you two, who are mighty, wide- striding, endowed with strength; toyou two, **Viṣṇu** and **Indra**, I offer praise at sacrifices; grant us food (won) in battles.”
 </details>

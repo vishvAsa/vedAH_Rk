@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ráṇitā ← ráṇitar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -229,11 +232,13 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who noble in his exploits rejoices in the **Soma**-libations, he whose wrath cannot be repelled and whois wealthy as the days, he who alone performs the rites for his worshipper-- he, the slayer of **Vṛtra**, men say, is amatch for all others.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who is wealthy as the days: wealth is produced in the days, not in the nights
 </details>

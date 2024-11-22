@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ádhrigum ← ádhrigu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -146,11 +149,13 @@ hótāram ← hótar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Now that we have cut the sacred grass, let us invoke for you **Agni**, Agni the irresistible; having plural cedthe oblations, let us invoke Agni, abiding in many (plural ces), the offerer of sacrifices for men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Addressed to thesacrificers or to the gods: Agni the offerer of sacrifices; when Agni is satisfied, living being obtain their desires bythe rain which he causes; cf. **Manu**, 3.76
 </details>

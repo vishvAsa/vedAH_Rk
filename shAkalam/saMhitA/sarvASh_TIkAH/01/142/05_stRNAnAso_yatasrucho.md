@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 str̥ṇānā́saḥ ← √str̥̄- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
 
@@ -133,7 +136,8 @@ sapráthaḥ ← sapráthas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The priests, bearing ladles, are strewing the sacred grass in this holy sacrifice, to prepare a god-frequented and well-spread abode for **Indra**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aktóḥ ← aktú- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ súkr̥tā ← súkr̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Al,l me are anxious to behold the great and variegated host (of the solar rays) at the issuing of the dawn after the night has been displaced; and when the morning has come, they recognize the many great and glorious acts of **Indra**.”
 </details>

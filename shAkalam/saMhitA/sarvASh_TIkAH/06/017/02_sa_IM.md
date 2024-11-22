@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -208,7 +211,8 @@ vā́jān ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink it, **Indra**, you who enjoy the flavourless **Soma**; you who are the preserver, the handsome-chinned, the showerer (of benefits) on those who praise you; who are the breaker of mountains, the wielder of the thunderbolt, the curber of steeds, do you bestow upon us various food.”
 </details>

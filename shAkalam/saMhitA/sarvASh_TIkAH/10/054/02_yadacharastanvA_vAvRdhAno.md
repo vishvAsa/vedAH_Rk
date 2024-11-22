@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ácaraḥ ← √carⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -209,7 +212,8 @@ vivitse ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you proceed, **Indra**, increasing in form, and proclaiming your prowess among mankind, false isthat your (wandering), false the combats which you have narrated; you (find) now no enemy (to attack), did youformerly find one? person n you have genitive rated at once both mother and father (or earth and heaven)?”
 </details>

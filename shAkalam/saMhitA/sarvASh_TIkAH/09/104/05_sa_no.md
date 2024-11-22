@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 madānām ← máda- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -151,7 +154,8 @@ sákhye ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of our exhilaration, **Indu**, you are of brilliant form; be our true guide as a friend is to a friend.”
 </details>

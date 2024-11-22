@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 antárikṣe ← antárikṣa- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -185,7 +188,8 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protectors of many, whether you traverse the firmament, or pass along earth and heaven, whether youascend your chariot with (all) your splendours, come from there, **Aśvins**, here.”
 </details>

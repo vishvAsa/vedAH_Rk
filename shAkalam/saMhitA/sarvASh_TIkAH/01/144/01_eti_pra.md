@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -207,11 +210,13 @@ yā́ḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ministering priest, (qualified) by experience, and possessing exalted and graceful devotion,proceeds (to celebrate) his, (**Agni**'s), worship, having circumambulated (the altar), he takes up the ladles which are first to present theoblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yā **asya** **dhāma** prathamam ha niṃsate = liṭ, which first kiss his dwelling agneḥ sthānam cumbanti; explained as: which are first to present the oblations
 </details>

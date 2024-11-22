@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -199,11 +202,13 @@ vidat ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, protect me here (in this world) let not the insidious and spreading (poison) reach me;may the equally malignant and undiscernible (venom) disappear; let not the tortuous (snake) recognize me by thesound of my footsteps.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Poison: kulāyayat viśvayat mā na ā gan: sthānam **kurvat**, making a plural ce or a nest;viśeṣena vardhamānam, especially increasing; the substantive is viṣam;
 

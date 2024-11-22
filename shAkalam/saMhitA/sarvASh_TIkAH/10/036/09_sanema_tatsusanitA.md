@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 sanéma ← √sanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
 
@@ -183,7 +186,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Living with living offspring, and free from fault, let us make offerings (to the gods), sharing with thosewho share with us; may those who hate the **brāhmaṇas**, carry off our iniquity in different directions; we solicittoday this protection of the gods.”
 </details>

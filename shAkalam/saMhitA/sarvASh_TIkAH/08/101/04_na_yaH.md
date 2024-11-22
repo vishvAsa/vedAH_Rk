@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávītave ← √hū- (root)  
 {case:DAT, number:SG}
 
@@ -173,7 +176,8 @@ uruṣyatam ← √uruṣy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who has no plural asure in questioning, nor in repeated calling nor in dialogue-- defend us today fromhim and from his encounter, defend us from his arms.”
 </details>

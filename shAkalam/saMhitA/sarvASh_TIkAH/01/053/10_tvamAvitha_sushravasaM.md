@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āvitha ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -175,7 +178,8 @@ yū́ne ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, have preserved **Suśravas** by your succour, Turvayāṇa by your assistance; you have made **Kutsa**, **Atithigva**, and Ātu subject to the mighty though youthful Suśravas.”
 </details>

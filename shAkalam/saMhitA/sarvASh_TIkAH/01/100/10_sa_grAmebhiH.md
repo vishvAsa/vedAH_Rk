@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 grā́mebhiḥ ← grā́ma- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -195,7 +198,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, along with his attendants, is a benefactor; he is quickly recognized by all men today, through his chariots; by his manly energies he is victor over unruly (adversaries); may **Indra**, associated with the **Maruts**, be our protection.”
 </details>

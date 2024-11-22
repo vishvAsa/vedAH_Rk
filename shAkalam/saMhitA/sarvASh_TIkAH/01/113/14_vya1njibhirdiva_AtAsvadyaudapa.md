@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyaut ← √dyut- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -182,7 +185,8 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine Uṣās lights up with her beams the quarters of the heavens; she has thrown off her gloomy form, and, awaking (those who sleep), comes in her car, drawn by purple steeds.”
 </details>

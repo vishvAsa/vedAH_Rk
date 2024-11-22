@@ -21,13 +21,16 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 anayan ← √nī- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -120,7 +123,8 @@ svadhā́m ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When (the worshippers) with their pious acts offered praise in honour (of the gods), then (men) beheldaround them the swift descending rain.”
 </details>

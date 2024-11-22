@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -156,7 +159,8 @@ tmánā ← tmán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This ministrant priest devoted to the gods is brought (here) for the sacrifice; radiant as theswift-moving sun, uniting (the oblation and the gods) surrounded (by the priests, **Agni**) knows of himself (how toworship the gods).”
 </details>

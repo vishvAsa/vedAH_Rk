@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrúhaḥ ← adrúh- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -193,11 +196,13 @@ vīrúdhām ← vīrúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the benignant immortal gods eat the offered oblation through you, as their mouth; mortals taste the flavour (of all viands) through you; you are born pure the embryo of plural nts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Corn and other grains ripen by the heat of the sun or fire; the text has **śuci**, pure; this is interpreted as **vasu**, being the abode of all: sarveṣām nivāsabhūtaḥ san
 </details>

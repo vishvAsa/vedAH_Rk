@@ -22,14 +22,17 @@ ChandaH = "तनुशिरा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 bhŕ̥gavāṇe ← bhŕ̥gavāṇa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -153,11 +156,13 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful is the hymn that was repeated by the son of **Ghoṣā**, and by **Bhṛgu**, and with which hymn the **Aṅgirasas** adore you; may the sage (**kakṣīvat**), desirous (of food), obtain it abundantly.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ghoṣā =Suhasti
 </details>

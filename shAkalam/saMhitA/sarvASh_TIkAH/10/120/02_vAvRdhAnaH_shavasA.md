@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhū́ryojāḥ ← bhū́ryojas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Waxing in strength, the very powerful, destructive (**Indra**), implants fear in the **Dāsa**; both theinanimate and the animate (world) is purified by him. Nourished in your exhilaration (all creatures) are assembled.”
 </details>

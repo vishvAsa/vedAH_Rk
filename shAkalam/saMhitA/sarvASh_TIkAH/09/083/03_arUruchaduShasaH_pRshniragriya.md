@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agriyáḥ ← agriyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ pitáraḥ ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The chief sun of the dawn (the **Soma**) shines forth; sprinkler (of water), he nourishes the worlds, wishing (to have them) food; by his intelligence the intelligent build, the **pitṛs**, the beholders of men, support the germ (of vegetation).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nāsatyā ← nā́satya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -144,11 +147,13 @@ yachatam ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The healing drug, **Nāsatyās**, that is afar off or near, wherewith (you wen) to (his) dwelling for thesake of **Vimada**, do you who are of surpassing wisdom now grant to **Vatsa**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 "Together with that (drug) do you,who are of surpassing wisdom, now grant a dwelling o Vatsa, as (you did) to Vimada"
 </details>

@@ -21,13 +21,16 @@ ChandaH = "द्विपदा गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 ásr̥gran ← √sr̥j- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -86,7 +89,8 @@ vājayántaḥ ← √vājay- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Soma**-juices) are let loose for the banquet of the gods like chariots desiring the wealth (of the enemy).”
 </details>

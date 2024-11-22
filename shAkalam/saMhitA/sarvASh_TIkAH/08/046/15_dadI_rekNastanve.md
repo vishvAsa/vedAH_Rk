@@ -22,14 +22,17 @@ ChandaH = "ककुम्न्यङ्कुशिरा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadíḥ ← dadí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -126,11 +129,13 @@ nūnám ← nūnám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**), invoked by many, speedily give me wealth; give riches, give abundance of food in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Speedily: **atha** = **adya**
 </details>

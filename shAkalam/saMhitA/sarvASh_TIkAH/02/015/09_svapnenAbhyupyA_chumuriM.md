@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhyúpya ← √vap- 2 (root)  
 {non-finite:CVB}
 
@@ -202,11 +205,13 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have slain the **Dasyus** Cumuri and **Dhuni**, having cast them into (profound) sleep; you have protected **Dabhīti**, while his chamberlain gained in that (contest) the gold (of the **asuras**); in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His chamberlain: rambhī cid atra vivide hiraṇyam: rambhī = vetradhārī, staff bearer; or, **dauvārika**, porter or door-keeper
 </details>

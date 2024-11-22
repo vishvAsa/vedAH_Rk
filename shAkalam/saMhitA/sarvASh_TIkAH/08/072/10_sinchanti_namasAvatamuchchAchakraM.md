@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 avatám ← avatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -100,11 +103,13 @@ nīcī́nabāram ← nīcī́nabāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They pour out with reverence the inexhaustible cauldron, as it goes round circular above and with anopening below:”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cauldron: **gharma** or **mahāvīra**, the contents of which are thrown in to the **āhavanīya** fire;**avata**, a cistern, as a metaphor for a cloud, parijman
 </details>

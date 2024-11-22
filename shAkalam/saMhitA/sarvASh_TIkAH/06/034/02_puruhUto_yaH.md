@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 purugūrtáḥ ← purugūrtá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ bhūt ← √bhū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that **Indra** ever be propitiated, by us who is the invoked of many, mighty and chief, especially honoured by sacrifices, and to whom, as to a conveyance, we are attached for (the attainment of) great strength.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -121,11 +124,13 @@ púraṁdhyā ← púraṁdhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer (of blessings), protect us by your action, which is most bounteous yet awful, foe-terrifying yetmany-cherishing.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purandhyā = bahūnām dhārayitryā; (RV 5.35.8): no ratham ava purandhyā =śobhanabudhyā; Showerer, protect us by your care, by your good **providence**, which is bounteous and yetawful and foe-terrifying
 </details>

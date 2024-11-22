@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́hutaḥ ← √hu- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -143,7 +146,8 @@ nirṇíjam ← nirṇíj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Agni**, worshipped with oblations, sends his voice upwards and downwards, as the sun disperseshis rays, (we praise him).”
 </details>

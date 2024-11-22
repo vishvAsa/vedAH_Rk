@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 járanti ← √jr̥̄- ~ jūr- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -188,7 +191,8 @@ ukthaíḥ ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the person n of that vast **Indra**, celebrated by praises and prayers, ever increase; Indra, whom neither years nor months make old, nor days enfeeble.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dadhire ← √dhā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -183,11 +186,13 @@ trivŕ̥tam ← trivŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have made me the bearer of oblations returning after departure, and passing many difficultplaces; (saying) this **Agni** is wise; he will accomplish the sacrifice for us, whether it be that of the five ways, thethree kinds, or the seven threads.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Five ways: a reference to the pāṅkta **yajña**; of three kinds: the three dailySoma libations; seven threads: seven metres of the **mantras**; or, having seven performers
 </details>

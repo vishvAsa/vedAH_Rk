@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árhantaḥ ← √arh- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -132,7 +135,8 @@ marúdbhyaḥ ← marút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer sacrifice to the adorable **Maruts**, who (have come) from heaven, who are worthy of worship, munificent leaders (of rites), and possessors of unequalled strength.”
 </details>

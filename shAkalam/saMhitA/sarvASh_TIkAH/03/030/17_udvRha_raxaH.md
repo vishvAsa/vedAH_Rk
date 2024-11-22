@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -198,11 +201,13 @@ tápuṣim ← tápuṣi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural ck the **rākṣasas**, **Indra**, by the root; cut as under the middle, blight the summit; to whatever remote (regions) you have driven the sinner, cast upon the enemy of the **Veda** your consuming weapon.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The enemy of the Veda: brahmadviṣe = brahmaṇadveṣakāriṇe, or him who entertains hatred against the **Brahman**; but, **brahma** may mean the prayer of the **Vedas**, or the Vedas, or perhaps, the religion or ritual of the followers of the Veda
 </details>

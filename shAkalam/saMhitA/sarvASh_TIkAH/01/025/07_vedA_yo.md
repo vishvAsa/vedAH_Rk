@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 padám ← padá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -118,7 +121,8 @@ véda ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who knows the path of the birds flying through the air; he, abiding in the ocean, knows (also) the course of ships.”
 </details>

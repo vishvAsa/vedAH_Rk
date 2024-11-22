@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásiknyām ← ásita- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -131,7 +134,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever medicament there may be in the **Sindhu**, the **Asikni**, in the oceans, in the mountains, **Maruts**,who are gratified by sacrifice.”
 </details>

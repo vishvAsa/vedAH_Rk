@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ dyū́n ← dyú- ~ div- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gloryof this **Bṛhaspati** spreads through heaven and earth like the sun; receiving worship, and giving intelligence, he bestows (the rewards of sacrifice); like the weapons of the hunters, so these (weapons) of Bṛhaspati fall daily upon the workers of guile.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the weapons of the hunters: mṛgāṇām na hetayaḥ = hantum anviṣyatam āyudhanīva, like the weapons of those seeking to kill
 </details>

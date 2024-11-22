@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥tapā́ḥ ← r̥tapā́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -172,11 +175,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The beings hostile (to acts of devotion) now withdraw, for she is the protectress of sacred rites, who is manifested for their performance; she is the giver of happiness, the awakener of plural asant voices, the enjoyer of felicity, and provider of food for the gods; most excellent Uṣās dawn today on this (sacrificial hall).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Rākṣasas**, and other malignant spirits, vanish with the dawn
 </details>

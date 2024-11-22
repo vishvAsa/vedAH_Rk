@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádbhutakratum ← ádbhutakratu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ súdhitam ← súdhita- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Worship him who is) of wondrous works, who, gladdened (by offerings), is present like a friend, whom(the priests) by their sacrifices, according to their power, render propitious to the worshipper.”
 </details>

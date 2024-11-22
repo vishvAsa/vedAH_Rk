@@ -24,17 +24,20 @@ ChandaH = "पङ्क्त्युत्तरा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 gā́m ← gáv- ~ gó- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -228,7 +231,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Send, **Indra**, the active ox, who may bring the cart (laden with) the uśīnarāṇi grass; heaven andearth, remove all iniquity; let heaven (take away) iniquity; may no ill ever approach you.”
 </details>

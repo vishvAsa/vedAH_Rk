@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ástutaḥ ← ástuta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ matíḥ ← matí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Which of you, **Mitra** and **Varuṇa**, has not been celebrated in (our) praise, for therefore do our thoughts tend towards you; the thoughts of the lineage of **Atri** tend towards you.”
 </details>

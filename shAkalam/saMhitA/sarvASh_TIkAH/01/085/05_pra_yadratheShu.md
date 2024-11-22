@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyugdhvam ← √yuj- (root)  
 {number:PL, person:2, mood:IND, tense:AOR, voice:MED}
 
@@ -193,11 +196,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Maruts**, urging on the cloud, for the sake of (providing) food, you have yoked the deer to your chariots, the drops fall from the radiant (sun), and moisten the earth, like a hide, with water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aruṣa = radiant (applied to the sun or to the **Agni** of lightning, a harbinger of rain
 </details>

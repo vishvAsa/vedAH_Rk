@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayuji ← √yuj- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -215,7 +218,8 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage, (**Pratikṣatra**), has, of his own accord, attached himself to the burden (of sacrifice), like a horse (to a chariot); I support that transcendent and preservative load; I do not desire release from it, nor yet its reiterated imposition; the sage, going first, conducts (men) by the right path.”
 </details>

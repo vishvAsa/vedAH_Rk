@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 akṣipát- ← akṣipát- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ vanavase ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not your full (blaze) be distressing to the eye, giver of dwellings to your humble votaries, and therefore accept our worship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Distressing to the eye: **nahi** pūrtam akṣipadbhuvat = akṣipat akṣṇo patākam vināśakam, the offender or destroyer of the eye
 </details>

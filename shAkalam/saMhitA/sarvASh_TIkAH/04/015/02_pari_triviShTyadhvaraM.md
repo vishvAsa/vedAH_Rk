@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarám ← adhvará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -139,7 +142,8 @@ agni, like a car-warrior, goes around 3 times in our sacrifice, distributing amo
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, thrice (a day), comes to our sacrifice like charioteer, bearing the sacrificial food to the gods.”
 </details>

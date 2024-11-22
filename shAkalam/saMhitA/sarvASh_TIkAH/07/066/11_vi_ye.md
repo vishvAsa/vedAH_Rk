@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -186,7 +189,8 @@ rā́jānaḥ ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who have established the year, and then the month and the day, the sacrifice, the night, and the holytext, they, the royal deities, **Varuṇa**, **Mitra**, **Aryaman**, enjoy unrivalled might.”
 </details>

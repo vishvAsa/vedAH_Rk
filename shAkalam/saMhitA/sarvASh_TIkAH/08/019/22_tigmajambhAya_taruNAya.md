@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rā́jate ← √rāj- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -156,7 +159,8 @@ ghr̥tébhiḥ ← ghr̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer (sacriicial) food to that bright-shining, every-youthful, royal **Agni**, who, (when gratified) by sincerepraises, and worshipped with oblations, bestows excellent **male** offspring.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvā́ ← dvá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -196,7 +199,8 @@ yugā́ ← yugá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, whom the two, a pair of equal power, dwelling in the same plural ce, and engaged in the same ceremony, worship night and day; he, whether old or young, has been engendered for the sake of mortal couples, accepting many (oblations), and exempt from decay.”
 </details>

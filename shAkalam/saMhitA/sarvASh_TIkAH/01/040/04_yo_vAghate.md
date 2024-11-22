@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádāti ← √dā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -177,11 +180,13 @@ suprátūrtim ← suprátūrti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who presents to the ministrant (priest) wealth fit to be accepted, enjoys inexhaustible abundance; for him we worship, Iḷā, attended by brave warriors, inflicting much injury, receiving none.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Manoḥ putrī = daughter of **Manu**, the instrumental tutrix of sacrifices; Iḷā is sobhanair-vīrair-bhaṭair-**yukta** = accompanied by excellent heroes, hence **suvīrā**
 </details>

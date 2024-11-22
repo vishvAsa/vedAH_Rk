@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -167,11 +170,13 @@ vāṇám ← vāṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The Vṛṣagaṇas (walking like) swans, (alarmed) at the strength (of the foe), having repaired to the house of sacrifice, to the swift-shooting foe-despising (**Soma**), the friends sound the flut to the praiseworthy irresistble **Pavamāna**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Walking like swans: haṃsāsaḥ = wounded by the enemy;
 

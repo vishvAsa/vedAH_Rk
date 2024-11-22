@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánāsaḥ ← jána- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -181,7 +184,8 @@ upástham ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** **Vaiśvānara**, whom all men approach with pious offerings, soliciting his favour for the sake of(obtaining felicity), has come to the excellent station (intermediate) between his parents, heaven and earth.”
 </details>

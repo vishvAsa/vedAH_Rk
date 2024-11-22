@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -208,11 +211,13 @@ yóṣaṇā ← yóṣaṇā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sage **Aśvins**, stand by your chariot; make it approach (the sacrifice) of the worshipper, as **Kutsa**(made his chariot approach) men, the fly carries your honey, Aśvins, in its mouth as a woman carries purified(honey).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As Kutsa...men: Kutsa and **Indra** ride in the same chariot; cf. RV 4.16.11; as a woman: cf. RV 1.119.2
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 iṣiréṇa ← iṣirá- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ vāsarā́ṇi ← vāsará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we partake of you, effused, with a longing mind as (men enjoy) paternal wealth; King **Soma**,prolong our lives, as the sun the world-establishing day.”
 </details>

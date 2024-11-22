@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsu ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -181,7 +184,8 @@ upastútyā ← upastútya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She who is disinguished among them as eminent in greatness and in her glories; she who is the most impetuous of all other streams; she who as been created vast in capacity as a chariot, she, **Sarasvatī**, is to be glorified by the discree (worshippers)”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -192,11 +195,13 @@ vidát ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The protecting (deities) have decorated the heaven with constellations as (men decorate) a brownhorse with golden trappings; they established darkness in the night and light in the day; **Bṛhaspati** fractured therock and recovered the cows.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protecting deities: **pitṛs**, or progenitors, the **Aṅgirasas**, who appear to have beenamong the ancient astronomers, the inventors of the lunar asterisms (**nakṣatras**)
 </details>

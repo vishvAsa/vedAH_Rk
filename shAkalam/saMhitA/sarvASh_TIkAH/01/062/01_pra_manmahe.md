@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 manmahe ← √man- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -150,7 +153,8 @@ víśrutāya ← √śru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We mediate like **Aṅgiras**, an acceptable adress to that powerful and praise-deserving **Indra**, who is to be adored by his worshippers (with prayers) of efficacy, to bring him to the ceremony; let us repeat a prayer to the celebrated leader of all.”
 </details>

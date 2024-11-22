@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ sácetasaḥ ← sácetas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, who as soon as manifested is vast and wise, and thus (universally) pervading, defend (me),his third (manifestation); and when (the worshippers) ask with their mouths for his own water, animated by onepurpose, they praise him in this world.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His third manifestation: tṛtīyam **asya** = manifestation of **Agni** as the thirdof **ekata**, **dvita** and **trita**
 </details>

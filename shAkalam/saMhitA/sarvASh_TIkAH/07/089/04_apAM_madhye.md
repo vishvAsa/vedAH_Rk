@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.;; repeated line
-#### Morph
+_________
+**Morph**  
 apā́m ← áp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -120,11 +123,13 @@ sukṣatra ← sukṣatrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thirst distresses (me) your worshipper in the midst of the waters; grant me happiness, possessor ofwealth, grant me happiness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thirst: an allusion to **Vasiṣṭha**'s sea voyage; he is thirsty amid the waters becausethe water of the ocean is saline and unfit for drinking: lavaṇotkaṭasya samudrajalasya pānānhatvāt
 </details>

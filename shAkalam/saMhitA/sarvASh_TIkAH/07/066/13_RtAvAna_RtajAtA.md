@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥tájātāḥ ← r̥tájāta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -165,11 +168,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accepters of rites, genitive rated for rites, augmenters of rites, fierce enemies of the neglecter of rites, maywe, as well as those men who are your adorers, be in (the enjoyment of) the highest felicity, all confirmed by you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those men who are: teṣām vaḥ sumne succharidiṣṭame = of those of you in the most blissful opulence, or inhappiness, united with a most delightful dwelling, sukhatame **dhane** atyantaramaṇīya gṛhayukte sukhe vā
 </details>

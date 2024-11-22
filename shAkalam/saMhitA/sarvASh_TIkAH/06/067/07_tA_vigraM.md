@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhaithe ← √dhā- 1 (root)  
 {number:DU, person:2, mood:SBJV, tense:AOR, voice:MED}
 
@@ -195,7 +198,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You two support the sage (worshipper), filling his belly when he and his dependants fill the sacrificial chamber; when sustainers of all, the rain (is sent down by you), and the young (rivers) are not obstructed, but, undried, diffuse (fertility) around.”
 </details>

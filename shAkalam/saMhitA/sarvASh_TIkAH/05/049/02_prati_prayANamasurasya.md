@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásurasya ← ásura- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ vibhájantam ← √bhaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Knowing the approach of the expeller (of the foes of the gods from heaven), worship the divine **Savitā** with holy hymns; praise him with reverence, distinguishing him as distributing precious (treasures) among men.”
 </details>

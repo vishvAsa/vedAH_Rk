@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -219,7 +222,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra** speaks). You know that what is said by me at this time is the truth, that I may create both bipedsand quadrupeds. I distribute without conflict (among my worshippers) the wealth (that I have taken from him), who(neglecting me), the showerer of desires), wishes to contend with women.”
 </details>

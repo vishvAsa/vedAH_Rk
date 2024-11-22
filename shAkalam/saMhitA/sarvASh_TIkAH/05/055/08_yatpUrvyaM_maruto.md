@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -208,7 +211,8 @@ yātā́m ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever (rite has been addressed to you), **Maruts**, of old; whatever is recent; whatever (hymn) is recited, **Vasus**, whatever prayer is repeated, do you be cognizant of all; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>

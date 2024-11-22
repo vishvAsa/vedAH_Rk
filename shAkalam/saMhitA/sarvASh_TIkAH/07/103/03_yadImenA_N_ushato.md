@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -180,11 +183,13 @@ vádantam ← √vadⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the rainy season has arrived, and (**Parjanya**) has sent the rain upon them, thirsty and longing (forits coming), then one frog meets another croaking (his congratulations) as a child (calls to) its father withinarticulate ejaculations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Akhkhalīkṛtyā = makingn the imitative sound akhkhala, i.e. with inarticulateejaculations
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 pátim ← páti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ viśváśambhūḥ ← viśváśambhū- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us this day invoke for our protection the lord of speech, the creator of all, who is swift as thought;may he, the bestower of all happiness, the doer of good works, be propitiated by all our oblations, (so as) togrant us his protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lord of speech: all the epithets apply to **Indra**; **Yajus**. 8.45; 17.23
 </details>

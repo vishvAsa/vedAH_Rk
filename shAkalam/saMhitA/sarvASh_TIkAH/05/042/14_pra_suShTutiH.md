@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -170,7 +173,8 @@ vidyútā ← vidyút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your pious praise, oḥ worshipper, assuredly reach the thundering, roaring lord of Iḷā, who, impelling the clouds and distributing the rain, proceeds, illuminating the heaven and earth with lightning.”
 </details>

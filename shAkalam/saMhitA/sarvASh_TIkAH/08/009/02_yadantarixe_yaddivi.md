@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antárikṣe ← antárikṣa- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -136,7 +139,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever wealth may be in the firmament, in heaven, or among the five (classes) of men, bestow,**Aśvins**, (upon us).”
 </details>

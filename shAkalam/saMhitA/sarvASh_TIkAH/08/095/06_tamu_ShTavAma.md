@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gíraḥ ← gír- ~ gīr- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -147,7 +150,8 @@ vanāmahe ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us praise that **Indra** whom our chants and hymns have magnified; we worship him, desirous tohonour his many deeds of might.”
 </details>

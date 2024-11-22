@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -209,7 +212,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beautiful Uṣas, now present the oblation in this rite to the formidable, praise-deserving **Indra**, whose all-sustaining, celebrated, and characteristic radiance has impelled him hither and thither, (in quest) of (sacrificial) food, as (a charioteer drives) his horses (in various directions).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ávobhiḥ ← ávas- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -190,11 +193,13 @@ vā́jasātau ← vā́jasāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** and **Agni** be (with us) with their protections for our hapiness; may Indra and **Varuṇa**, to whomoblations are offered, (be with us) for our happiness; may Indra and **Soma** be (with us) for our happiness, ourprosperity, our good; may Indra and **Pūṣan** be (with us) in battle for our triumph.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May Indra and Agni be wiḥ us:The leading refrain is the same in 13 ṛcas: śam na bhavatām, sometimes slightly varied: may they two be ourhappiness;
 

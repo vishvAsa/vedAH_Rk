@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ānaṭ ← √naś- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -169,7 +172,8 @@ sumaṅgálam ← sumaṅgála- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As a wife who has been abandoned rejoices to find her husband, as a cloud expanding when pouringforth rain with the aid of the earth's disc; with her eager (to recover the cattle) for our charioteer, may we win (theprize), may good fortune, together with food, be given to us.”
 </details>

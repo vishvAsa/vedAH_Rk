@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ájñāteṣu ← ájñāta- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -205,11 +208,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When I enter upon unprecedented combats, then all those who are affluent in oblations approach meso engaged; I destroy the mighty and overpowering foe for the protection of the world, and, seizing him by thefeet, throw him down from the mountain.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Approach me so engaged: i.e, stand round praising me in order to inciteme to prowess
 </details>

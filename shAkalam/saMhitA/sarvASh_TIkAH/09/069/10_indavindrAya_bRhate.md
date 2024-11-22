@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 br̥haté ← br̥hánt- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -167,7 +170,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indu**, who do make (men) very happy, the blameless one, the destroyer of foes, flow for mighty **Indra**; bring to (me) your worshipper gratifying riches; heaven and earth, protect us with auspicious (riches).”
 </details>

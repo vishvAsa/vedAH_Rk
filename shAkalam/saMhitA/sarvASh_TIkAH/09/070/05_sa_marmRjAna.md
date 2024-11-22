@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́yase ← dhā́yas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -182,11 +185,13 @@ iva ← iva (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Being filtered for **Indra**'s world-supporting strength, stationed in the midst of both worlds he goes (everywhere); the showerer destroys the evil-minded by his vigour, challenging the **asuras** like an archer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Asuras: śurudhaḥ = **śucā** rundhanti parān, they avert painfrom others;
 

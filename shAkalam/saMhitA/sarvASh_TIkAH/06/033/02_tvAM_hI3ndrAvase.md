@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávase ← ávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -176,11 +179,13 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men of various speech invoke you, **Indra**, for their defence in war; you, with the sages (the **aṅgirasas**), have slain the **Paṇis**; protected by you, the liberal (worshipper) obtains food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vivācaḥ = vividhastutirūpā vāco yeṣām, they of whom the speech has the form of many kinds of praise; or, simply 'of various speech'
 </details>

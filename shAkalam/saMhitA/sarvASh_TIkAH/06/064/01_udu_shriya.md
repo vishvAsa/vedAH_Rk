@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rócamānāḥ ← √ruc- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
 
@@ -198,7 +201,8 @@ vásvī ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The white and shining tints of the dawn have spread like the waves of the waters, for the beautifying (of the world); she renders all good roads easy to be traversed; she ho is replete with delight, excellence and health.”
 </details>

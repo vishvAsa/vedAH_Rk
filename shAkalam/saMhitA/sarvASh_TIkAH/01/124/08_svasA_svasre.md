@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āraik ← √ric- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -177,7 +180,8 @@ vrā́ḥ ← vrā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sister (night) has prepared a birth-plural ce for her elder sister (day), and having amde it known to her, departs. Uṣā, dispersing the darkness with the rays of the sun, illumines the world, like congregated lightnings.”
 </details>

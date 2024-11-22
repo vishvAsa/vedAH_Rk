@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájāmayaḥ ← ájāmi- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Annihilate, **Indra**, the strength of those who, whether kinsmen or unrelated, present themselves before us, exerting themselves as adversaries; enfeeble their prowess, put them to fight.”
 </details>

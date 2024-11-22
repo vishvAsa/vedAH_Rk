@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mumugdhi ← √muc- (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
 
@@ -132,11 +135,13 @@ jīváse ← √jīv- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Loose us from the upper bonds, untie the centre and the lower, that we may live.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jīvase= to live, that we may live
 </details>

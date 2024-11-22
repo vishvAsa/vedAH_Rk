@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -167,7 +170,8 @@ vibhātī́ ← √bhā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Goddess, manifest in person n like a maiden, you go to the resplendent and munificent (sun), and, like a youthful bride (beforeher husband), you uncover, smiling, yor bosom in his presence.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akr̥panta ← √kr̥p- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -188,11 +191,13 @@ vidát ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious, knowing his form, praised him, for they followed the city of the great deer; approaching hmwith sacrifice, they reached the flowing (water), for the sustainer of the waters knows the ambrosial (fluids).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Great deer: i.e., **Vena**, whose cry is the thunder; sustainer of the waters: **gandharva**
 </details>

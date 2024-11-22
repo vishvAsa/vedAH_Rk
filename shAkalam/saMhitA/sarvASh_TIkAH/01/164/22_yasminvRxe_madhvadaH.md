@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 madhvádaḥ ← madhvád- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -221,11 +224,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the tree into which the smooth-gliding (rays) feeders on the sweet (produce), enter, and again bring forth (light) over all, they have called the fruit sweet, but he partakes not of it who knows not the protector (of the universe).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The tree: the orb or region of the sun; he partakes not of it, who: tan na unna śad yaḥ pitaram na **veda**: pitaram = **pālaka**, cherisher, protector; the sun, the **supreme spirit**
 </details>

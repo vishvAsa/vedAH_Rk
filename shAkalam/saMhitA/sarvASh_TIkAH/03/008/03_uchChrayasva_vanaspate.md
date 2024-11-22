@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śrayasva ← √śri- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -137,7 +140,8 @@ yajñávāhase ← yajñavāhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be exalted, **Vanaspati** upon this sacred spot of earth, being measured with careful measurement, and bestow food upon the offerer of the sacrifice.”
 </details>

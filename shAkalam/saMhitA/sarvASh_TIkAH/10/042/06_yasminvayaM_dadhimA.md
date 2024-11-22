@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhimá ← √dhā- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
 
@@ -202,7 +205,8 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the enemy of that **Indra** on whom we have laid our praise, the lord of affluence, who has grantedus our desires, be in the fear of him even when far off; may the food belonging to the country of the foe bowdown before him (to enjoy).”
 </details>

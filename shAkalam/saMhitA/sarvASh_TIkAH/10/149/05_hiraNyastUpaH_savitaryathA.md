@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 híraṇyastūpaḥ ← híraṇyastūpa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As **Hiraṇyastūpa**, the **Aṅgirasa**, summoned you to this food, so I, praising you for your protection,watch before you as (worshippers) watch before the filament of the **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Nirukta** 10.33: hiraṇyastūpohiraṇyamayaḥ stūposyeti vā
 </details>

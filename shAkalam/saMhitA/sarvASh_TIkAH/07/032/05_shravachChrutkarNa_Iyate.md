@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īyate ← √yā- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
 
@@ -186,7 +189,8 @@ nákiḥ ← nákiḥ (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, whose ear is ready to hear, listen to the suppliant for riches, and never disappoint ourprayers; he who is the giver of hundreds and thousands; may no one ever hinder him when willing to give.”
 </details>

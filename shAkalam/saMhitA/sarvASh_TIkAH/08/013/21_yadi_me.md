@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 āváraḥ ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -135,7 +138,8 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, (**Indra**), you choose my friendship, partake of this (sacrificial) food, by which we may pass beyond(the reach of) all adversaries.”
 </details>

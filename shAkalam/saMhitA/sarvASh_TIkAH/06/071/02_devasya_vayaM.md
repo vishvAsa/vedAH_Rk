@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devásya ← devá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ prasavé ← prasavá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we be among the progeny of the divine **Savitā**, and (have power) to offer him most excellent donations; for you are he who (are absolute) in the procreation and perpetuation of many (living beings), bipeds and quadrupeds.”
 </details>

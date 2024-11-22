@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -152,7 +155,8 @@ yavaya ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Restrain, **Indra**, the thunderbolt of the malignant threatening (foe); ward off, **Maghavan**, the secretweapon (of our foe), be he **Dāsa** or **Ārya**.”
 </details>

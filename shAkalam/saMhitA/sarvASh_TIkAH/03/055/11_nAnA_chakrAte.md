@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 cakrāte ← √kr̥- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -204,7 +207,8 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The twin pair (day and night) adopt various forms; one of them shines brightly, the other is black; twin sisters are they, one black and the other white; great and unequalled is the might of the gods.”
 </details>

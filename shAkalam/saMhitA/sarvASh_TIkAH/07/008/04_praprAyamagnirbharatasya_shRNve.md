@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -208,11 +211,13 @@ dyutānáḥ ← √dyut- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Agni** is greatly celebrated by the instrumental tutor of the rite when he shines resplendent as the sun; hewho overcame **Puru** in battle, and shone glorious as the guest of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Is greatley celebrated: bharasyaśṛṇve, yajamānasya prathito **bhavati**; or, yajamānasya āhvānam śṛṇoti, he hears the invocation of theworshipper
 </details>

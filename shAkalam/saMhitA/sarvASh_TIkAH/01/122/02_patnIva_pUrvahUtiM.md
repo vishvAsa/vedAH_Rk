@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -173,11 +176,13 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Animated by our diversified praise, hasten, Morning and Night, to attend to our first invocation, as a wife (to the first call of her husband); and may the--Dawn, beautiful with the lustre of the (rising) Sun, and robbing like the Sun (her) vast expanse with golden rays, (come to our early rite).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Starīḥ = what covers or expands, smoke; the Sun invested or clothed with light, or destructive of foes: śatrūṇām hiṃsakaḥ tejasāchanno vā **Ādityaḥ**
 </details>

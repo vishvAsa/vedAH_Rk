@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūt ← √bhū- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -198,7 +201,8 @@ uruṣyátam ← √uruṣy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What may be the fit measure (of your merits)? invoked by what praises do you come to us? who (can exist as) the object of your great wrath? **Dasras**, dispensers of sweet (water), defend us with your protection.”
 </details>

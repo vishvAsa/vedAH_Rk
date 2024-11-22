@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́pathayaḥ ← ā́pathi- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -117,11 +120,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Whether), following the paths that lead (to us), or that spread diversely, or those that sink into the hollows (of the mountain), or those that extend smoothly, they, (however) scattered, accept the sacrifice for my benefit, (when invoked by these appellations).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The paths that lead us: āpathayaḥ vipathayaḥ antaspathāḥ anupathāḥ: may also be considered as the proper names of these four orders of the **Maruts**
 </details>

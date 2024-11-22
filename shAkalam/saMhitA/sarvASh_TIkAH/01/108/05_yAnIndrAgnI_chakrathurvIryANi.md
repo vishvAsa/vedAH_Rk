@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakráthuḥ ← √kr̥- (root)  
 {number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -192,7 +195,8 @@ tébhiḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever heroic exploits you ahve achieved whatever forms (you have created), whatever benefits (you have poured down), whatever ancient and fortunate friendships (you have contracted, come with them all), and drink of the effused **Soma**.”
 </details>

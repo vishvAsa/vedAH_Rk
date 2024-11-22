@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -173,11 +176,13 @@ vŕ̥kāḥ ← vŕ̥ka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Purūravā**). (Your husband) who sports with you may now depart, never to return, (depart) toproceed to a distant region. Either let him sleep upon the lap of **Nirṛti**, or let the swift-moving wolves devour hiṃ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let him sleep: i.e., let him die; Nirṛti being either the earth or the goddess of ill
 </details>

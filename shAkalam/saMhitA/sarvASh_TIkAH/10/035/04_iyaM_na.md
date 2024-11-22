@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 iyám ← ayám (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -184,11 +187,13 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this first dawn, the possessor of wealth, open; bringing to us who are liberal (a season) fit for thegods, abounding with riches; we consider the anger of the malevolent (to be) remote; we solicit the kindled firefor our welfare.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 We consideṛ..remote: we put it far off
 </details>

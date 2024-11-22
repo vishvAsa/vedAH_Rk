@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíḥ ← barhís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -191,7 +194,8 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sacrifice is presen; the sacred grass is strewn; **Agni** lauded is satisfied, and is the ministrant priestinvoking the all-desired parents of whom you, honoured Agni, the youngest (of the gods), are born.”
 </details>

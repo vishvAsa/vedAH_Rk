@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyasya ← átya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ vā́jāya ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Direct downwards (the course) of your (car) swift moving, variously going, friendly to man, and to be especially venerated, when all adorable, your sister (dawn) prepares (for your approach), and (the instrumental tutor of the ceremony) worships you, drinkers of the **Soma**, for the sake (of obtaining) strength and food.”
 </details>

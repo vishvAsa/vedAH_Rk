@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhúvaḥ ← √bhū- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -198,7 +201,8 @@ yásya ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are the eye, the protector of the great sacrifice; when you proceed to the rite, you are **Varuṇa**;you are the grandson of the waters, **Jātavedas**; you are the messenger (of him) whose oblation you enjoy.”
 </details>

@@ -24,16 +24,19 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -225,7 +228,8 @@ práti ← práti (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Now may **Maghavan** accept the pure nutitious (sacrificial) food in a white pitcher, mixed with milk and curds, offered by the priests; the upper part of the sweet (beverage) to drink for his exhilaration; may the hero accept (it) to drink for (his) exhilaration.”
 </details>

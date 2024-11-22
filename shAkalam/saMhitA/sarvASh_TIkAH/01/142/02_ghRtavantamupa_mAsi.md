@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghr̥távantam ← ghr̥távant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -120,7 +123,8 @@ dāśúṣaḥ ← dāśváṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Tanūnapāt**, be present at this well-flavoured and cutter-fed sacrifice, (the offering) of a pious offerer (of oblations); glorifying you.”
 </details>

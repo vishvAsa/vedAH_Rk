@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -179,7 +182,8 @@ radhratúraḥ ← radhratúr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yet, most mighty one, I believe that powre is verily always in you, who are manifest at many rites, and are the enemy of (our) enemies; (the power) that is fierce in the fierce one, most mighty in the mighty one, most unassailable in the subduer (of foes).”
 </details>

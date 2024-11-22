@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gaṇám ← gaṇá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ vipra ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adore, priest, the resplendent and powerful company, whose arms (are decorated) with bracelets, whose function is the agitation (of the trees), who are wise, and by whom wealth is conferred; they who are bestowers of felicity, whose greatness is unbounded; glorify the opulent leaders (of rites).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 janitā́ ← janitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ víṣṇoḥ ← víṣṇu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** flows, the genitive rator of praises, the genitive rator of heaven, the genitive rator of the earth, the genitive rator of **Agni**, the genitive rator of the sun, the genitive rator of **Indra**, and the genitive rator of **Viṣṇu**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átrim ← átri- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ rátham ← rátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You made this **Atri**, ever diligent in worship, (swift) to run to the goal like a horse, and you renewedKakṣīvat as (a wheelwright renews) a car.”
 </details>

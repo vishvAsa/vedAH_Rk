@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ sutrātrā́saḥ ← sutrātrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May they, **Indra**, Earth, **Pūṣan**, **Bhaga**, **Aditi** and the five orders of beings, give increase to our habitations; may they be to us granters of happiness, bestowers of food, guides to good, our gracious defenders and preservers.”
 </details>

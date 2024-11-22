@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ánnam ← ánna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -193,7 +196,8 @@ sú ← sú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(When) the hymn (is being sung) let us offer (sacrificial) food, like a treasure (to **Nirṛti**) for the sake ofriches, and many kinds of sacrificial viands; may she, being praised, partake of all these our (offerings); mayNiṛrti depart far off.”
 </details>

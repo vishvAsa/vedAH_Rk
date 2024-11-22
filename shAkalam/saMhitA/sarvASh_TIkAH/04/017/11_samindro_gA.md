@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajayat ← √ji- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -206,7 +209,8 @@ vibhaktā́ ← vibhaktár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the lord of opulence, who has overcomemany (enemies), has completely won (their) cattle, (their) gold, (their) horses; chief leader by his energies, praised by these his worshippers, he is the distributor of riches, the bestower of wealth.”
 </details>

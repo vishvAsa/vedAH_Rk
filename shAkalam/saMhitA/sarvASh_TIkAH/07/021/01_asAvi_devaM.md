@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhaḥ ← ándhas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -186,7 +189,8 @@ stómam ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bright sacrificial food mixed with curds and milk has been poured out; **Indra** delights in it from his birth;lord of bay horses, we wake you up with sacrifices, acknowledge our praises in the exhilaration of the **Soma**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nīyáte ← √nī- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
 
@@ -217,11 +220,13 @@ yáviṣṭhaḥ ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As from the excellence of the nutritious (offering) be, (**Agni**), is brought forth and the consumable branches rise amidst (the flames); and as both (the instrumental tutor of the rite and the priest) combine for his genitive ration, therefore has he been genitive rated, pure, youthful, and radiant.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As from the excellence: pra yat pituḥ paramān-nīyate paryā pṛkṣudho virudho daṃsu rohati; pituḥ paramāt, from the excellence of the sacrificial or the nutriment or food;
 

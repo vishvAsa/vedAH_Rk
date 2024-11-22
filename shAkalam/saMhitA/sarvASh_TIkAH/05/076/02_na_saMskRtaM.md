@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gámiṣṭhā ← gámiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -172,11 +175,13 @@ práti ← práti (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harm not, **Aśvins**, the perfected (rite), but coming now most quickly, be glorified on this occasion; be present at the opening of the ay, with proection against destitution, and be prompt to bestow happiness upon the donor (of the offering).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With protection against destitution: **avasa** agamiṣṭhā pratyavartim: **varti** = jīvānām, living or livelihood;
 

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 enā́ ← ayám (pronoun)  
 {case:INS, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the praise, universal (deities), wherewith I laud you, be agreeable to you, as offered by this (your worshipper); and do yo, who are severally born, and free from blame bestow upon us food.”
 </details>

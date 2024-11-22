@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -194,11 +197,13 @@ tasthivā́ṁsam ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who are to be worshipped, (the gods), inquiring between the expansive heaven and earth (for **Agni**), recited (hymns) dedicated to **Rudra**; the troop of mortal (**Maruts**), with (**Indra**), the shrer of half the oblation, knowing where Agni was hiding found him in his excellent retreat.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dedicated to Rudra: Rudra is equated with Agni; the hymns to Agni are called Rudrīya, for Rudra is Agni: rudra-**agniḥ**; a legend is cited: during a battle between the gods and **asuras**, Agni carried off the wealth which the former had concealed; detecting theft, the gods pursued the thief, and forcibly recovered their treasure; Agni wept (arodīt) at the loss; thereafter he was called Rudra (**Taittirīya** **Saṃhitā** 1.5.1.1); the text has martaḥ, the mortal; the term, **marudgaṇa** is added;
 

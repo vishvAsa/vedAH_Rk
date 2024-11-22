@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhavat ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -194,11 +197,13 @@ sahávatsā ← sahávatsa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mother of **Vṛtra** was bending over her son, when **Indra** struck her nether part with his shaft; so the mother was above and the son underneath, and **Dānu** slept (with her son), like a cow with its calf.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dānu derived from do, to cut or destroy or from Dānu wife of **Kāśyapa** and mother of the **Dānavas** or Titans
 </details>

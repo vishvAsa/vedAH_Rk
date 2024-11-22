@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhadrā́ ← bhadrá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -198,11 +201,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**), the possessor of the pitchers, the bearer of the praise of the **Kurus**, let us celebrate theseauspicious adorations of you, the giver of riches; may he, (Indra), be the donor (of affluence) to you who areopulent, (in pious offering), and (so may) this **Soma** which I cherish in my heart.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The possessor of the pitchers:**kalaśa** = complete in all the arts (**kalā**? lunar digits);
 

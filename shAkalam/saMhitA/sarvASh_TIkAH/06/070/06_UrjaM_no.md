@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -205,7 +208,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May father Heaven, may mother Earth, who are all-knowing, and doers of good deeds, grant us sustenance; may Heaven and Earth, mutually co-operating and promoting the happiness of all, bestow upon us posterity, food, and riches.”
 </details>

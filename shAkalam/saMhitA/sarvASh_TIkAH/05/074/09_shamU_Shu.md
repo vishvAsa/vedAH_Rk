@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 madhūyuvā ← madhūyu- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -147,7 +150,8 @@ víbhiḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our repeated adoration of you two, who are desirous of the libation, be productive of felicity; descending to our presence, and exceeding in wisdom, travel with rapid (steeds), swift as two falcons.”
 </details>

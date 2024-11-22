@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇīṣe ← √gr̥̄- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -192,7 +195,8 @@ nū́tanasya ← nū́tana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I laud that **Indra**, I glorify him, in whom of old (his worshippers) prospered, and overcame (their enemies); may he, when solicited, gratify the desire of wealth of his present pious adorer.”
 </details>

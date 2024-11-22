@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -181,7 +184,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, showerer, were the mighty destroyer of the hindrances of your worshippers; you did set free theobstructed rivers, you did win the waters which the **Dāsas** had mastered.”
 </details>

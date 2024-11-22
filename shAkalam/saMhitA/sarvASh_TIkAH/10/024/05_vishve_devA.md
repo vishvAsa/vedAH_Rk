@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 akr̥panta ← √kr̥p- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -140,7 +143,8 @@ vahatāt ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the gods praised you as you were mutually associated, and caused (the sparks) to fly up; the godshave said to the two **Nāsatyās**, "let the fire again bear (us oblations)"\].”
 </details>

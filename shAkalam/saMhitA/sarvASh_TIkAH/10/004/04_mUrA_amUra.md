@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amūra ← ámūra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -197,11 +200,13 @@ yuvatím ← yuvatí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, who are perplexed, know not, O unperplexed, intelligent one, your greatness; but you, **Agni**, verilyknow it. Wearing a form he reposes; he moves about devouring (the offering) with his tongue (of flame); beinglord of men, he licks up the mixed oblation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wearing a form: as the **āhavanīya** fire; licks up the mixed oblatioṅrerehyate yuvatim viśpatiḥ san: yuvai = the youthful earth, as compared with its withered plural nts, taruṇīmjīrṇauṣadhikām pṛthivīm asvādyati
 </details>

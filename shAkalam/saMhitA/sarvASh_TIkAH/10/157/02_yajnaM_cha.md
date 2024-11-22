@@ -21,13 +21,16 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -126,7 +129,8 @@ sahá ← sahá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** with the **Ādityas** perfect our sacrifice and our bodies and our offspring.”
 </details>

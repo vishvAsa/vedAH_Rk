@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 br̥hatī́ ← br̥hánt- (nominal stem)  
 {case:ACC, gender:N, number:DU}
 
@@ -178,7 +181,8 @@ rákṣatam ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke to the sacrifice, for the preservation of gods (and men), the two vast, all-supporting, and mighty parents (of the rain and corn); who, beautiful in form, sustain ambrosial (showers); defend us, Heaven and Earth, from great danger.”
 </details>

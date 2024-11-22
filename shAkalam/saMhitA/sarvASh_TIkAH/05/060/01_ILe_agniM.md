@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ stómam ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I adore the protecting **Agni** with hymns; may he, propitiated on this occasion, approve of our acts; offer (worship with praises), intended to obtain food; as if (proceeding) with cars (to the goal), circumambulating (the fire); may I exalt the praise of the **maruts**.”
 </details>

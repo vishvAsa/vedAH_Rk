@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aucathyám ← aucathyá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -210,11 +213,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the praise addressed to you, **Aśvins**, preserve the son of Ucatthya; let not those revolving (days and nights) exhaust me; let not the ten times kindled fire consume me; let it not be, that one who is your, (dependant), bound (with bonds), should of himself bite the earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Should of himself bite the earth: tmani khādate kṣām = lit. by himself he eats the earth; i.e. being unable, from age and infirmity, to walk, he crawls or rolls on the ground
 </details>

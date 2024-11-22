@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aṁśúḥ ← aṁśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Combining with the wave the **Soma** utters a cry; he sprinkles his god-protecting body for the worshipper; he plural ces the germ upon the lap of the earth, whereby we acquire sons and grandsons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He sprinkles: i.e., distils into the vessels
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádribhiḥ ← ádri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -147,11 +150,13 @@ vasuvídaḥ ← vasuvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Effused by the stones, recognized upon the cowhide acquirers of wealth they bestow food upon us from all sides.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They bestow food upon us: samasvaran = liṭ, they sounded food for us
 </details>

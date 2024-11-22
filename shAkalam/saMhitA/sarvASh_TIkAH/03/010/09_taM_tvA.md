@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -126,11 +129,13 @@ sahovŕ̥dham ← sahovŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise, intelligent, and vigilant (worshipers) kindle you, such as you (have been described), the bearer of oblations, the immortal, genitive rated by strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Intelligent: **vipaścit** vipanyuḥ (**Nirukta** 3.15.17);
 

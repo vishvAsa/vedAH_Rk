@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avadyā́t ← avadyá- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -167,11 +170,13 @@ vāvr̥dhé ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, and **Aryaman**, defend (this) sacrifice from (all that is) reprehensible, and destroy (all that are) unworthy. They cause the yet unfallen and showering (rains) to descend, when, **Maruts**, the water-yielding (season) gives increase to this (world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When the water-yielding season: vāvṛdha im maruto dātivāraḥ: the last term may refer to the **yajamāna**; i.e. when, Maruts, the worshipper, or he by whom the offering is presented, promotes this your increase
 </details>

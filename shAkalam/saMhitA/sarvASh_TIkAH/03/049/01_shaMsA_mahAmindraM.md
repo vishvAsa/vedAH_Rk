@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ vr̥trā́ṇām ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify the mighty **Indra**, in whom all men, drinking the **Soma**, obtain their wishes; whom the powerful (heaven and earth) and the gods begot, the doer of great deeds, the slayer of the **Vṛtras**, who was fashioned by **Vibhu** (the creator).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fashioned by Vibha: vibhvataṣṭam = appointed by **Brahma** for the government of the world, jagadādhipatye brahmaṇā sthāpitam
 </details>

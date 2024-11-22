@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ardhagarbhā́ḥ ← ardhagarbhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -186,11 +189,13 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven (sustaining), the embryo (rain) for half a year, the fecundating (element) of the world, abide, by appointment, in the various functions of **Viṣṇu**. By their intelligence they pervade in thought all around (them), for they are intelligent and diffusive.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The seven: the solar rays, saptārdhagarbhāḥ; either retaining the rains for half a year, i.e. during the dry months, or abiding in a part or half of space, or in the mid-heaven or firmament. Viṣṇu is the pervading sun; vyāpakasya Ādityasya, in whose various duties of cherishing the world, the solar rays are, by direction, pradiśā, especially employed
 </details>

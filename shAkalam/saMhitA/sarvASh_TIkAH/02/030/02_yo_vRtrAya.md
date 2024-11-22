@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhariṣyat ← √bhr̥- (root)  
 {number:SG, person:3, mood:IND, tense:COND, voice:ACT}
 
@@ -196,7 +199,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “His mother, (**Aditi**), declared to him the man who had offered (sacrificial) food to **Vṛtra**;obedient to his plural asure, the rivers, tracing out their paths, flow day by day to their object, (the ocean).”
 </details>

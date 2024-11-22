@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 párvatasya ← párvata- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -171,11 +174,13 @@ yádi ← yádi (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as he has opened the doors of the cloud, and has supplied the rapid courses of the waters with (additional) torrents, so when the pious have recourse to **Indra** for food, he finds (it) in the haunt of the **Gaura** and **Gavaya**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He finds it in the haunt of Gaura and Gavaya: vidat gaurasya gavayasya gohe: vidat here has no government;
 

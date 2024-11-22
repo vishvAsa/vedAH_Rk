@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 ékebhyaḥ ← éka- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -163,11 +166,13 @@ tā́n ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** is filtered for some (of the Pitrṣ), others accept clarified butter; go (O dead one) to those towhom the honey flows.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those who offer Soma to their **pitṛs** are the students of the **Sāmaveda**, those who offerghī are students of the **yajurveda**, and who offer honey are students of the **Atharvaveda**
 </details>

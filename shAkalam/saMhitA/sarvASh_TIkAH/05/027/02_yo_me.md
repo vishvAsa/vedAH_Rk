@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -198,11 +201,13 @@ yácha ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, **Vaiśvānara**, who are deservedly praised and exaulted (by us), bestow happiness upon Tryaruṇa, who gives me hundreds (of **Suvarṇas**), twenty cattle and a pair of burden-bearing horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hundres of suvarṇas: the text has only śatāni, the hundreds; suvaṇānām is implied, of suvarṇas
 </details>

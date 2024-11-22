@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 br̥hatī́ ← br̥hánt- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -167,7 +170,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the vast and beautiful day and night, heaven and earth, **Mitra** and **Varuṇa** with **Aryaman**,**Indra**, the **Maruts**, the mountains, the waters, the **Ādityas**, heaven and earth, the waters (of the firmament), thewhole (host of the gods).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 imā́m ← ayám (pronoun)  
 {case:ACC, gender:F, number:SG}
 
@@ -194,7 +197,8 @@ uśatī́ ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I will address this new laudatory hymn to the ancient **Agni**, who is gratified (by praise). May he hear uṣMay I be in the centre of his heart, to touch it, like a loving well-attired wife (in the heart) of her husband.”
 </details>

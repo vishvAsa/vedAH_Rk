@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 devatvám ← devatvá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -205,11 +208,13 @@ vā́saḥ ← vā́sas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such is the divinity, such is the majesty of the sun, that when he has set, he has withdrawn (into himself) the diffused (light which had been shed) upon the unfinished task; when he has unyoked his coursers from his car, then night extends the veiling darkness over all.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Diffused upon the unfinished task: **madhya** kartor-vitatam, spread in the middle of the affair (**Nirukta** 4.11); i.e. the cultivator, or artisan, desists from his labour, although unfinished, upon the setting of the sun.
 </details>

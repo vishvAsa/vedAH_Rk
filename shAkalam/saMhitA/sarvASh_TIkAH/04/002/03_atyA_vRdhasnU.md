@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyā ← átya- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -194,11 +197,13 @@ yuṣmā́n ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I celebrate the ruddy, food-bestowing, water- shedding, and swifter-than-thought-going, steeds of him who is the truth; harnessing the brilliant pair (to your chariot), you pass between the deities of whom you are, and human worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You pass between the deities: antarīyase yuṣmāṃśca devān **viśa** ā ca martān, you go between, you the gods, and men; you is specified from **Agni** being a divinity; he goes to men to receive oblation, and to the gods, of whom he is one, to bear it to them
 </details>

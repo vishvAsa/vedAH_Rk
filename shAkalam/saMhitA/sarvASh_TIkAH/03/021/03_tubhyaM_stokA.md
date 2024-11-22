@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghr̥taścútaḥ ← ghr̥taścút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -146,7 +149,8 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The drops (of the marrow) dripping with butter are offered, **Agni**, to you who are wise; you the most excellent ṛṣi are kindled; be the protector of the sacrifice.”
 </details>

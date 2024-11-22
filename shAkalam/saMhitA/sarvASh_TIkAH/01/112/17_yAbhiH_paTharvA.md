@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 jáṭharasya ← jáṭhara- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -213,11 +216,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “WIth those aids by which Paddarvan shone with with strngth of orm in battle, like a blazing fire piled up (with fuel); by which you defended **Śaryāta** in war; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Paddarvan was a **rājaṛṣi**;
 

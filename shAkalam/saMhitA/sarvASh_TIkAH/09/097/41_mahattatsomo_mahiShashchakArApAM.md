@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakāra ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -197,7 +200,8 @@ sū́rye ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty **Soma** has achieved this mighty (work) that, being the germ of the waters, he has nourished the gods; purified he has given strength to **Indra**; **Indu** has genitive rated the light in the sun.”
 </details>

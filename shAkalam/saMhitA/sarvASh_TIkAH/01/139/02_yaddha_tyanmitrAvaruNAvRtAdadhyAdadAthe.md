@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -256,7 +259,8 @@ svébhiḥ ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, bestow (upon us) abundantly that unenduring water which you obtain from the sun, through your own energy; through the inherent energy of the vigorous; may we thus behold your golden (forms) in our halls of sacrifice, (brought thither) by our sacred rites, and by our thoughts and senses (intent upon you); by our senses (intent upon offering) the **Soma**.”
 </details>

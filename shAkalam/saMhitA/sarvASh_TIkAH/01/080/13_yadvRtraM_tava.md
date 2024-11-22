@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aśánim ← aśáni- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -177,7 +180,8 @@ svarā́jyam ← svarā́jya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you (**Indra**), did encounter with your bolt **Vṛtra** and the thunderbolt (which he hurled), then Indra, the strength of you determination to slay Ahi was displayed in the heavens, manifesting your own sovereignty.”
 </details>

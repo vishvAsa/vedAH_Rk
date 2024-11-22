@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 náraḥ ← nár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -152,11 +155,13 @@ iṅgaya ← √iṅg- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the oxen (draw) happily, the men (labour) happily; the plural ugh furrows happily; may the traces bind happily; wield the goad happily.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Happily: śunam **vāhāḥ** śunam **naraḥ**: śunam = sukham, sukham yathā **bhavati** tathā, so that plural asure is or may be; as a person nification it is the divinity through whose favour the work goes well, sukhakṛd **devaḥ**, who may be either **vāyu** or **Indra**
 </details>

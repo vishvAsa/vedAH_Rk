@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryamā́ ← áryaman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -102,7 +105,8 @@ váṣaṭkr̥tāḥ ← váṣaṭkr̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Varuṇa**, **Mitra**, **Aryaman** and the **Agnis**, with their wives, honouring the donors (of the oblation),and addressed with the sacrificial exclamation.”
 </details>

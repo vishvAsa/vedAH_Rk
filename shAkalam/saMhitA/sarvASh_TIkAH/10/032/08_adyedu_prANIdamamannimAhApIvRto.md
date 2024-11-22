@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -214,7 +217,8 @@ vásuḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Today (**Agni**) breathed; he purposed (to conduct) these days surrounded (by lustre), and drank thesap of his mother (earth); the praise of his (worshippers) reaches the over-youthful (Agni), and he has becomegentle, genitive rous, and well-disposed.”
 </details>

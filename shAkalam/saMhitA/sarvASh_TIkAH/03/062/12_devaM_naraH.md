@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devám ← devá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -114,7 +117,8 @@ namasyánti ← √namasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Devout and wise men, impelled by intelligence, adore the divine **Savitā** with sacrifices and sacred hymns.”
 </details>

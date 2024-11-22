@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mātŕ̥bhiḥ ← mātár- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -192,11 +195,13 @@ usríyābhiḥ ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Longing (for the deities) the showerer (of benefits) the desired of many (the **Soma**) is sustained by the (consecrated) waters as the infant by its mother; going to his station like a bridegroom to his bride, hecombines in the pitcher with the curds and milk.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As the infant by its mother: the infant longs for its mother and is sustained by her milk;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ávare ← ávara- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -196,11 +199,13 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the lower, the upper, the intermediate **Pitṛs**, rise up, accepting the **Soma** libation; may thoseprogenitors who, unlike wolves, acknowledging our offerings, have come to preserve our lives, protect us uponour invocations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pitṛs: three chief classes of the Pitṛs or manes are enumerated. RV 10.14.6 enumerated **aṅgirasas**, atharvasand **bhṛgus**; in **Manu**, the three classes are: agniśvāttas, **barhiṣads** and **saumyās**; Manu's enumerationoccurs in this **sūkta**; lower, upper and intermediate pitṛs: the degrees of merit arise first from the steadydischarge of duties enjoined by the **Vedas**; secondly, by performance of those enjoined by the law books; andfinally, when there has been some deficiency in some of the purificatory rites (**saṃskāras**);
 

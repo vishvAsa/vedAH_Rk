@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adadhām ← √dhā- 1 (root)  
 {number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -169,11 +172,13 @@ putrā́n ← putrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **hotā** speaks). I implant the seed in vegetables, the germ in all living beings; I engender progenyupon the earth; I beget children on other women.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I beget children: the share of the hotā in the procreation ofliving beings is referable to the efficacy of the sacrifices at which he ministers. The metaphor: children = richesderived from sacrifice
 </details>

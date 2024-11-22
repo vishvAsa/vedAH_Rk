@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ráṇeṣu ← ráṇa- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -164,7 +167,8 @@ váyāṁsi ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through you we destroy (our foes) in battles, beholding the numerous (hosts) which we have to fight; Iurge your weapons with words (of praise), I prepare your viands with a sacred verse.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́labdham ← √labh- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -175,11 +178,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And defend me, **Jātavedas**, with your darts when I am seized, (defend me) from the Yātudhānaswho has seized me; anticipating him, do you, **Agni**, blazing fiercely, slay him; may the swift-flying vultures, theflesh-eaters, devour him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Swift-flying vultures: kṣviṅkāḥ = noisy; or, a kind of bird
 </details>

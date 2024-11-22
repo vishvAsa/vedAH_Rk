@@ -22,14 +22,17 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́pyam ← ā́pya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -164,7 +167,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beholding him certain celestial Vasurucas praise him as a kinsman before the shining **Savitā** drives away the obstructing (darkness).”
 </details>

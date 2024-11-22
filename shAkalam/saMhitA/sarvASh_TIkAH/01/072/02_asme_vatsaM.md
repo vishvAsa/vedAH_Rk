@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:LOC, number:PL}
 
@@ -193,7 +196,8 @@ tasthúḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the immortals, and the unbewildered (**Maruts**), wishing for him who was (dear) to us as a son, and was everywhere around, discovered him not; oppressed with fatigue, wandering on foot, and cognizant of his acts, they stopped at the last beautiful (hiding) plural ce of **Agni**.”
 </details>

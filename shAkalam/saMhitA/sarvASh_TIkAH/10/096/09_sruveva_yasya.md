@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 háriṇī ← hárita- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -193,7 +196,8 @@ pītvā́ ← √pā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He whose bay horses alight (upon the **Soma**) like two ladies, whose yellow jaws tremble (witheagerness) for the sacrificial food, (is praised) when having drunk of the delicious exhilarating Soma in theprepared cup, he rubs down his bay horses.”
 </details>

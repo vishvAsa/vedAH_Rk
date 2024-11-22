@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhvaḥ ← mádhu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -208,7 +211,8 @@ samudrā́t ← samudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pour forth a fountain of wealth distilling sweet juice, pour upon us **male** offspring and riches; flow sweet for **Indra**, O **Indu**, when purified; and pour riches upon us from the firmament.”
 </details>

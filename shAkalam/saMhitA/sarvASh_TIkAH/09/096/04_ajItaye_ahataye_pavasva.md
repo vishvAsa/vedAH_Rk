@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhataye ← áhati- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -168,7 +171,8 @@ vaśmi ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow for our immunity from defeat and slaughter, flow for our welfare, for the great sacrifice for all the gods; all these my friends desire this; this I desire, O **Soma** **Pavamāna**.”
 </details>

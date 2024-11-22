@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ava ← √avⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -205,7 +208,8 @@ yacha ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maghavan**, despatch your chariot to bring us wealth; that victorious car which, **Indra**, who are much praised by us in time of war, we rejoice to behold in battle; do you, Maghavan, grant happiness to those who are devoted to you.”
 </details>

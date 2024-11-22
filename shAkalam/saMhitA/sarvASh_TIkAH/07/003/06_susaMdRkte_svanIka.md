@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prátīkam ← prátīka- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -215,7 +218,8 @@ sū́raḥ ← sū́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Resplendent **Agni**, when you shine nigh at **hand** like gold, your appearance is beautiful; your mightissues like the thunderbolt from the firmament, and like the wonderful sun, you display your lustre.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dárśam ← √dr̥ś- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -137,11 +140,13 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have seen him whose appearance is grateful to all; I have beheld his chariot upon earth; he has accepted these my praiseṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 An allusion to **Varuṇa** as an image
 </details>

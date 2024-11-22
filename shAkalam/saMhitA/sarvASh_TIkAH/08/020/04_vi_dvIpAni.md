@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duchúnā ← duchúnā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -171,11 +174,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They fall upon the island; the firm-set (trees) are with difficulty sustained; they agitate both heaven andearth; they urge on the waters; bright- weaponed, far-shining, whatever (you approach) you cause to tremble.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 "The islands fall asunder, the firmest (trees) experience distress; they (the winds) distress heaven and earth; thewaters hurry onward, O bright-weaponed, self- shining ones, when you agitate them
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adhāyi ← √dhā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -205,7 +208,8 @@ subándhum ← subándhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May my desire be of itself accomplished, such as it has been entertained, that the smooth-backed steed should come to (gratify) the expectations of the gods; we have made him well-secured for the nutriment of the gods; let the wise saints now rejoice.”
 </details>

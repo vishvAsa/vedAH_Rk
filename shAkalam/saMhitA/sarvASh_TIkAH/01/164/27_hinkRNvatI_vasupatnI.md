@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hiṅkr̥ṇvatī́ ← hiṅkr̥ṇvant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -184,7 +187,8 @@ vardhatām ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She comes lowing, abounding in rich (products), desiring her calf in her mind;may this cow grant her milk to the **Aśvins**; may she thrive for our great advantage.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhadrám ← bhadrá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -195,7 +198,8 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have made your associated names renowned, since, slayers of **Vṛtra**, you have been allied (for his death); the showerers of benefits, **Indra** and **Agni**, are the two seated together (on the altar); receive (your portion) of the **Soma** libation.”
 </details>

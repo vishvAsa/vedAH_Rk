@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūṣan ← √bhūṣ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -192,11 +195,13 @@ viśvárūpaḥ ← viśvárūpa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They all ornamented (**Indra**) standing (in his car) and, clothed in beauty, he proceeds self-radiant; wonderful are the acts of that showerer (of benefits), the influencer (of consciences), who omniform, presides over the ambrosial (waters).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The influencer of consciences: the text has only asurasya; the term is explained by prerakasya antaryāmitava, impeller, from being in the inner spirit
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sótā ← sótar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -163,7 +166,8 @@ túbhyam ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer (of benefits), may the offerer of the libation to you effuse the **Soma** as a showerer;straight-going (**Indra**), bring (us wealth); arrester of your horses, the showerer (of the oblation) has prepared thebountiful Soma to be mixed with the waters for you.”
 </details>

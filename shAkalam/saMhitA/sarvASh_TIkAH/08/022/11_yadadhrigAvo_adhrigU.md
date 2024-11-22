@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 12 = 8+4  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhrigāvaḥ ← ádhrigu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -125,11 +128,13 @@ vipanyávaḥ ← vipanyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the tiem when hurrying, devout, we invoke you both speedily going to battle, at the dawn of day, withour hymns.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hurrying: yad adhrigāvo **adhrigū** havāmahe: karmasu tvaramāṇaḥ, hastening to acts ofworship; śatruvadhārtham saṅgrāme tvarayā gacchantau;
 

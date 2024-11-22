@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -193,7 +196,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our **male** progeny, **Maruts**, be vigorous, one who is intelligent, the scatterer of (hostile) men, bywhom we may cross the water (of enmity) to a secure dwelling; may we, your (servants), dwell in our own abode.”
 </details>

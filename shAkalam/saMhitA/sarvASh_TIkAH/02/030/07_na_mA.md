@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -250,7 +253,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not **Indra** vexme, or weary me, or make me slothful; never may we say (to another), do not offer the **Soma**; (for it is Indra) who will fulfil (my wishes), who will give (me riches), who will hear (my prayers), who will reward me, presenting libations, with cattle.”
 </details>

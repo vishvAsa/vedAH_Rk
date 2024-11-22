@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ sómaḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (**Soma**) has been fixed heaven and earth; this has harnessed the seven-rayed chariot (of the sun); this Soma has developed of its own will the mature deeply-organized secretion in the kind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This has fixed heaven: these functions are ascribed to the Soma as being the source of the energies of **Indra**, who is the real agent, both in this and the preceding verse; this Indra has made the heavens etc.; deeply-organized secretion: daśayantram utsam = a well with ten machines;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrim ← ádri- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ vidánta ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rending the rocks, they worshipped (**Agni**), and other (sages) taught everywhere their (acts); unprovided with the means of (extricating) the cattle, they glorified the author of success, whence they found the light, and were thus enabled (to worship him) with holy ceremonies.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 patáyanti ← √pat- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -188,7 +191,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The winds blow strong, the lightnings flash, the plural nts spring up, the firmament dissolves; earth becomes (fit) for all creatures when **Parjanya** fertilizes the soil with showers.”
 </details>

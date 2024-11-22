@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhī́śavaḥ ← abhī́śu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -150,7 +153,8 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerers (of benefits) are your reins, such also is your golden whip, your chariot, **Maghavan**, is ashowerer (of benefits), so are your two horses; and you, too, **Śatakratu**, are the showerer (of benefits).”
 </details>

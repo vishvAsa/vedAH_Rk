@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dūré ← dūrá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -186,11 +189,13 @@ titviṣāṇáḥ ← √tvíṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your form held secret (by men) with averted faces, is far from here; when (heaven and earth) alarmed,called upon you for the sustenance (of the world), then you did fix in their proximity the heaven and earth,illumining, Maghavat, the sons, of (your) brother.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your brother: The brother of **Indra** is **Parjanya** (the rain); hissons are aggregations of water (udakasaṃstyāya)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mártyeṣitaḥ ← mártyeṣita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ yuṣmā́kābhiḥ ← yuṣmā́ka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Should any adversary, instrumental gated by you, or by man, assail us, withhold from him food and strength and your assistance.”
 </details>

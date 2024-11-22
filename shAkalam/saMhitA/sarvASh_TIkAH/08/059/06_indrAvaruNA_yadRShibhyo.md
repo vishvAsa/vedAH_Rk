@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; Vālakhilya;; 12 = 5+7, ending LHX  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 índrāvaruṇā ← índrāváruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -194,7 +197,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Indra** and **Varuṇa**, I have seen what you formerly gave to the seers, wisdom, power of song, andfame, and the plural ces which the wise have prepared for themselves, as they spread the web of the sacrifice withholy austerities.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácarantī ← ácarant- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -190,11 +193,13 @@ rákṣatam ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Footless and motionless, they sustain numerous moving and footed races, as a son is even (nursed) on the lap of his parents; defend us, Heaven and Earth, from great (danger).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rakṣatam no abhvāt = great; the substantive is supplied: from sin as the cause of great danger: **mahato** bhayahetaḥ pāpāt
 </details>

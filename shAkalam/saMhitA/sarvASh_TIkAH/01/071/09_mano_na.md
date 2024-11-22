@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvanaḥ ← ádhvan- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -187,7 +190,8 @@ rákṣamāṇā ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun, who traverses alone the path of heaven with the speed of thought, is at once lord of all treasures; the two kings, **Mitra** and **Varuṇa**, with bounteous **hands**, are the guardians of the precious ambrosia of our cattle.”
 </details>

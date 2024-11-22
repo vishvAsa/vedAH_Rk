@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávantu ← √avⁱ- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -173,7 +176,8 @@ pitáraḥ ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the opening dawns preserve me; may the swelling rivers preserve me; may the firm-set mountains preserve me; may the progenitors (present) at the invocation of the gods preserve me.”
 </details>

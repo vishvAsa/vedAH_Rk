@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ suśríyam ← suśrī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have plural ced in this world the delightful **Agni** in a delightful chariot, the tawny-hued **Vaiśvānara**, the sitter in the waters, the omniscient, the all-pervading, the endowed with energies, the cherisher, the illustrious.”
 </details>

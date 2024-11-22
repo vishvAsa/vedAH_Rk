@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́miślatamaḥ ← ā́miślatama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ ukthā́ ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That libation is most perfectly mixed when, upon its being effused, the cakes are baked, and the barley is fried, and the priests, glorifying **Indra**, offering the (sacrificial) food, and reciting holy prayers, are approaching most nigh to the gods.”
 </details>

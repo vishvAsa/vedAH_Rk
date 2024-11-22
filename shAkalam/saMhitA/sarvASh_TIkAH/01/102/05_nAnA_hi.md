@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávamānāḥ ← √hū- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
 
@@ -210,7 +213,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Many are the men who call upon you for your protection; mount your car to bring wealth to us, for your mind, **Indra**, is composed, and resolved of victory.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhānávaḥ ← bhānú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -165,7 +168,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These wonderful, immortal rays of the beautifu Dawn appear, giving birth to the pious rites of divineworship, and filling the firmament, they spread around.”
 </details>

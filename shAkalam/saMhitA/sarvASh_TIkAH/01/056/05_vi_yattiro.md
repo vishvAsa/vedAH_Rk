@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácyutam ← ácyuta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -207,7 +210,8 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “. When you, destroying **Indra**, did distribute the (previously) hidden life-sustaining, undecaying waters through the different quarters of the heaven, then, animated (by **Soma**), you did engage in battle, and with exulting (prowess) slew **Vṛtra**, and did send down an ocean of waters.”
 </details>

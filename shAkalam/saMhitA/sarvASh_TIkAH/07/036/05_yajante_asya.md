@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ rudrā́ya ← rudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the offerers of adoration, engaging (in pious acts), worship (**Rudra**) in their own hall of sacrifice,(solicitous) of his friendship; praised by the leaders (of rites), he lavishes food (upon them); this most acceptableadoration is addressed to Rudra.”
 </details>

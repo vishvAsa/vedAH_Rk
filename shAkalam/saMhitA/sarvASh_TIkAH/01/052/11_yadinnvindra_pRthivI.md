@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśabhujiḥ ← dáśabhuji- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -204,7 +207,8 @@ dyā́m ← dyú- ~ div- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Although, **Indra**, the earth were of tenfold (its extent), and men multiplied every day, yet, **Maghavan**, your prowess would be equally renowned; the exploits achieved by your might would be spread abroad with the heavens.”
 </details>

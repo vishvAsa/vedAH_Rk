@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápāt ← √pā- 2 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -183,7 +186,8 @@ vanate ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the most marvellous **Indra** drink from this (our cup); may he acknowledge our earnest and brilliant invocation; may the munificent (Indra) accept the offering and the praiseworthy adoration at the sacrifice of the devout worshipper.”
 </details>

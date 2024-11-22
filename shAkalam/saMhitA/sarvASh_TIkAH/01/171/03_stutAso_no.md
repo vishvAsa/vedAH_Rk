@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Maruts**, now hymned, bestow happiness upon us; may **Maghavan**, now glorified, be propitious to us; Maruts, may all the ensuing days that may be expected by us prove gratifying and full of enjoyment.”
 </details>

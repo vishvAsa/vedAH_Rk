@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 práti ← práti (invariable)  
 {}
 
@@ -175,7 +178,8 @@ yā́man ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the sun has risen, I invoke **Mitra** and you, **Varuṇa**, of pure vigour, whose imperishable andsuperior might is triumphant in the crowded conflict over all enemies.”
 </details>

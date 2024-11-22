@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -150,7 +153,8 @@ saparyata ← √sapary- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer oblations to the object of holy sacrifice, the brilliant purifier, who is dormant (in fuel); worship quietly the pervader (of the rite), the messenger (of the gods), the rapid, the ancient deity who is entitled to laudation.”
 </details>

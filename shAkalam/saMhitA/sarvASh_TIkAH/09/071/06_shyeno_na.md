@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhiyā́ ← dhī́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -219,7 +222,8 @@ yajñíyaḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The shining (**Soma**) approaches the golden seat the station constructed by his holy rites, as a falcon (approaches) his nest; (the worshippers) send the well-beloved by their praise to the sacred grass; the adorable Soma proceeds to the gods like a horse.”
 </details>

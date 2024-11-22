@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 dódhataḥ ← dódhat- (nominal stem)  
 {case:NOM, number:PL}
 
@@ -134,7 +137,8 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like the winds violently shaking (the trees), the draughts (of **Soma**) have lifted me up, for I have oftendrunk of the Soma.”
 </details>

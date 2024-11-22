@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asanam ← √sanⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -118,7 +121,8 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have obtained, without horses, the car of the food-bestowing **Aśvins**, and expect (to gain) by it much (wealth).”
 </details>

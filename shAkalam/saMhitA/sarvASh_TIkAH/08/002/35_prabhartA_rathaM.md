@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 gavyántam ← √gavy- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -134,11 +137,13 @@ vóḷhā ← vóḷhar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, whom, adoring, and desirous of cattle, the protector (**Indra**) defends against an ignorant (foe),becomes a prince, the possessor of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desirous of cattle: ratham gavyantam: ratham = raṃhaṇam, fromvahi, to go; the epithet is not a car, because he is the lord, the bearer of riches, ino **vasu** sa hi voḷahā-- inahīśvaraḥ
 </details>

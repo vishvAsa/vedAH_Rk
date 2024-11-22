@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 maháḥ ← máh- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -135,11 +138,13 @@ marúdbhiḥ ← marút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who all are divine (devāsaḥ = dyotamānāḥ, shining) and devoid of malignity and who know (how to cause the descent) of great waters; come, **Agni**, with the (sapta-**gaṇā** or all seven troops of) **Maruts**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Udīryathā **marutaḥ** samudrato yūyam vṛṣṭim vars. ayathā purīṣiṇaḥ: Maruts, you have risen from the ocrean; taking the lead, you have sent down rain (RV 5.55.5);
 

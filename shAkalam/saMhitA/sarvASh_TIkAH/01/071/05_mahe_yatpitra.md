@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divé ← dyú- ~ div- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -210,11 +213,13 @@ tvíṣim ← tvíṣi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When (the worshipper) offers an oblation to his great and illustrious protector, the grasping (**rākṣas**), recognizing you, **Agni**, retires; but Agni, the archer, sends after him a blazing arrow from his dreadful bow, and the god bestows light upon his own daughter (the dawn).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. **Taittirīya** **Brāhmaṇa** 2.1.2.10)
 </details>

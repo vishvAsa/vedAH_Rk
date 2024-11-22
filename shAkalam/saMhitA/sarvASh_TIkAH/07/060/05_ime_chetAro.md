@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánr̥tasya ← ánr̥ta- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -172,7 +175,8 @@ putrā́ḥ ← putrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These (deities), **Mitra**, **Aryaman**, **Varuṇa**, are the detecters of much untruth; these unconquered sons ofAditi, dispensers of happiness, are magnified in the hall of sacrifice.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -240,7 +243,8 @@ vāyúḥ ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Aditi**, with holy observances, be (for) our happiness; may the glorified **Maruts** be (friendly to) ourfelicity; may **Viṣṇu**, may **Pūṣan**, be (promoters of) our happiness; may the firmament be propitious to us; mayVāyu (blow for) our happiness.”
 </details>

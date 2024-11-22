@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arāma ← √r̥- 1 (root)  
 {number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
 
@@ -212,7 +215,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Never, **Maruts**, may we be excluded from your bounty; let us not, lords of chariots, be last in itsapportionment; make us sharers in that desirable opulence which, showerers (of benefit), is born of you.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amucat ← √muc- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -201,7 +204,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun unyoked his chariot in the midst of the sky, (when) the **Ārya** (**Indra**) encountered the Dāsaassociated with Ṛjiśvan, Indra destroyed the stronghold of the guileful **asura**, Pipru.”
 </details>

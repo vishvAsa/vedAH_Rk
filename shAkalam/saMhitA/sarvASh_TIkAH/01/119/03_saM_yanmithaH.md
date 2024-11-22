@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágmata ← √gam- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -201,7 +204,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When devout and unnumbered (men), victorious in battle, mutually contending for wealth, come together, your car, **Aśvins**, is perceived on its downward course, in which you bear excellent (treasure) to the worshipper.”
 </details>

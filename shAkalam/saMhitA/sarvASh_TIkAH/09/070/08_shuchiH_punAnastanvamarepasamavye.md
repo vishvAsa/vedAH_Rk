@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arepásam ← arepás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -186,11 +189,13 @@ tridhā́tu ← tridhā́tu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Brilliant cleansing his sinless body, the green-tinted (**Soma**) is plural ced on the high-plural ced fleece; sufficient for **Mitra**, **Varuṇa**, and **Vāyu** the exhilarating (Soma) mixed with the three ingredients is prepared by the performers of good rites.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sinless: Or, motionless, i.e., plural ced the vessel; the three ingredients: tridhātu, three ores; or, water, curds, and milk
 </details>

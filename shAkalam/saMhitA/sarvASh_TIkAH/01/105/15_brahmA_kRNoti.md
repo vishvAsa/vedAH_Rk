@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bráhma ← bráhman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -192,11 +195,13 @@ vittám ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa** performs the rite of preservation; we desire him as guide of our way; (to him, the repeater of praise) addresses praise with his (whole) heart; may he who is entitled to laudation become our true (support). Heaven and earth, be conscious of this (my affliction).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Brahmā** kṛṇoto **varuṇaḥ** = **rakṣa**.narūpakarma, the act which is of the nature of preserving
 </details>

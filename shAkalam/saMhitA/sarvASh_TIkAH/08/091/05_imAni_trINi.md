@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 imā́ni ← ayám (pronoun)  
 {case:NOM, gender:N, number:PL}
 
@@ -159,7 +162,8 @@ udáre ← udára- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These hree plural ces-- do you cause them all to grow-- my father's (bald) head, his (barren) field, and mybody.”
 </details>

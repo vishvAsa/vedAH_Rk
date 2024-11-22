@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 mántraḥ ← mántra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Common be the prayer of these (assembled worshippers), common be the acquisition, common thepurpose, associated be the desire. I repeat for you a common prayer, I offer for you with a common oblation.”
 </details>

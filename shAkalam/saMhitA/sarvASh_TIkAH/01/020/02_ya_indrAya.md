@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 índrāya ← índra- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They who created mentally for **Indra** the horses that are harnessed (carved) at his words, have partaken of the sacrifice performed with holy acts. (śamībhiḥ = ceremonies; i.e. they have pervaded, appropriated or accepted the sacrifice peformed with tongs, ladles, and utensils; an intimation of the mechanical skills of **Ṛbhu**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Grahacamasādiniśpādanarūpaiḥ karmabhir, yajñam, asmadīyam āśata (vyāptavantaḥ): they have pervaded (or accepted) our sacrifice, performed with those acts which are executed by means of tongs, ladles, and other (utensils used in oblations). **Ṛbhus** invented these implements, and attest to their mechanical skills
 </details>

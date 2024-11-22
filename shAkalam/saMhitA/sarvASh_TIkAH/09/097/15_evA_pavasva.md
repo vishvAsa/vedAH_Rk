@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -173,7 +176,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus flow, the exhilarator, for **Indra**'s exhilaration bowing down the rain-holder with (your) weapons, assuming brilliant colour, desirous of our cattle, flow, **Soma**, sprinkled (into the filter).”
 </details>

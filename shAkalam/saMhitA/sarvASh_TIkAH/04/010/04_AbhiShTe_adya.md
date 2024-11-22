@@ -23,15 +23,18 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 ābhíḥ ← ayám (pronoun)  
 {case:INS, gender:F, number:PL}
 
@@ -145,7 +148,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorifying you, **Agni**, today, with these our praises, may we offer you (oblations); your (flames), bright as those of the sun, roar aloud.”
 </details>

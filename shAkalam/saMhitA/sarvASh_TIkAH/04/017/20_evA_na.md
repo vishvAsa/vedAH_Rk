@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -197,7 +200,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The many-voiced **Indra**, the possessor of opulence, the supporter of men, the irresistible bestows upon us, when praised by us, assured (rewards); you, (Indra), are the king of men; grant to us abundantly that great fame which (is due) to (your) worshipper.”
 </details>

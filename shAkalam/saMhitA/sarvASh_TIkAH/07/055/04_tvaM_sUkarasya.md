@@ -24,16 +24,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D;; repeated line  
 genre D;; repeated line  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 dardr̥hi ← √dr̥- ~ dr̥̄- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -159,7 +162,8 @@ svapa ← √svap- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you rend the hog; let the hog rend you; why do you assail the worshippers of **Indra**? Why do youintimidate us? Go quietly to sleep.”
 </details>

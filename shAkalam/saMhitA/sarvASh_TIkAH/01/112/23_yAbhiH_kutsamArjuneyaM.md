@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ārjuneyám ← ārjuneyá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you, who are worshipped in many rites, protected **Kutsa**, the son of **Arjuna**, as well as **Turviti**, Dhabhiti, Dhvasant, and Puruśanti; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Śatakratu**, **Indra**, he to whom many rites are addressed, or by whom many acts are performed (here applied to the Aśvins); Puruśanti was a ṛṣi
 </details>

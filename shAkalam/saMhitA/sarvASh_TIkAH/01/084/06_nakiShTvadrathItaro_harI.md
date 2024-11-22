@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nákiḥ ← nákiḥ (invariable)  
 {}
 
@@ -154,7 +157,8 @@ sváśvaḥ ← sváśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, you harness your horses, there is no one a better charioteer than you; no one is equal to you in strength; no one, although well-horsed, has overtaken you.”
 </details>

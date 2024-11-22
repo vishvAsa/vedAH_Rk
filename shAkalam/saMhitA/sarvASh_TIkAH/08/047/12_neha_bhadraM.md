@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhadrám ← bhadrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -214,11 +217,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let there not be prosperit here to our powerul (foe), nor to him who threaten or assails us; but let therebe prosperity to our cattle, our kine, and our **male** offspring desirous of food; your aids are void of harm, your aidsare true aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nor to him who threatens or assails us: neither to threaten nor to assail us
 </details>

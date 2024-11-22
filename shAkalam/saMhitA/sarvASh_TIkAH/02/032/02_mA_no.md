@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhan ← áhar ~ áhan- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -229,7 +232,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not the secret guile of man, (**Indra**), harm us by day (or night); leave us not subject to the malevolent, disunite us not from your frienship; regard us with the favourable thoughts that (spring) from it; we ask this (boon) of you.”
 </details>

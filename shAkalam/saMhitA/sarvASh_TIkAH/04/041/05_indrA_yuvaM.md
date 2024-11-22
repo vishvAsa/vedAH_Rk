@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyā́ḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -207,7 +210,8 @@ sahásradhārā ← sahásradhāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Varuṇa**, be the exciters of this our praise, as the bull is of the cows; may that cow (of praise) yield us (reward), like a large cow that has gone forth to pasture, whose thousand channels (are filled) with milk.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -206,11 +209,13 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Śuṣṇa** passed away upon the falling of the thunderbolt, then the universal strength of the great oppressor was annihilated, and **Indra** enlarged their common car for (the use of) his charioteer **Kutsa**, for (the sake of) the worship of the sn.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sūryasya sātau bhāhane nimittabhūte; uru ṣa saratham kar = samānuratham vistirṇam akarot; Kuts is the reputed author of the hymns to **Sūrya** and Uṣas: RV. 1.113 and 115
 </details>

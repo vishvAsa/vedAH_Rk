@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cákriḥ ← cákri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ yūthé ← yūthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The maker of all, clever in work, the juice, mighty unassailable **Varuṇa** flows from heaven for the sake of him who go hither and thither; the friend of the adorable (**Soma**) is effused in affliction uttering a sound like an ardent horse amidst a herd (of mares). \[”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The maker of all, clever in work, the juice, mighty unassailable Varuṇa flows from heaven for the sake of him who go hither and thither; the friend of the adorable (Soma) is effused in affliction uttering a sound like an ardent horse amidst a herd (of mares). \[
 </details>

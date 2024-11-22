@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áśvāḥ ← áśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -165,7 +168,8 @@ samanīkéṣu ← samanīká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Go hence, **Paṇis**, to a far-off distant (spot), let the cattle come forth in due order bursting through (thedoor) the concealed cattle which **Bṛhaspati**, the **Soma**, the grinding stones and the wise Ṛṣis have found.”
 </details>

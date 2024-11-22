@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryamā́ ← áryaman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ savitúḥ ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, **Varuṇa**, **Mitra** and **Aryaman** grant us wealth and a large and spacious habitation; may thelustre of **Aditi**, the augmentress of sacrifice, be innoxious to us; we recite the praise of the divine **Savitā**.”
 </details>

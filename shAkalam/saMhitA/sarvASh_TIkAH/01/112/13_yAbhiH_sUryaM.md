@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 parāváti ← parāvát- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -183,11 +186,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you encompassed the sun, when afar off, (to extricate him from eclipse); by which you defended **Mandhātā** in (the discharge of) his soverign functions, and by whciḥ you protected the sage **Bharadvāja**; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mandhātā was a **rājaṛṣi**, a royal sage. Māndhātrā is a celebrated prince of the solar dynasty (Viṣnu **Purāṇa**, 363);
 

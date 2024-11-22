@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment;; 12 = 5+7, ending LHX  
 genre M;; line affected by realignment  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -224,7 +227,8 @@ tvát ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Keep off all danger from me, **Varuṇa**; supreme monarch, endowed with truth, bestow your favour upon me; cast off (from me) sin, like a tether from a calf; no one rules for the twinkling of an eye, apart from you.”
 </details>

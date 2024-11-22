@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājániṣṭhāḥ ← √janⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:MED}
 
@@ -189,7 +192,8 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you have been born most excellent and supreme, bearing a name widely renowned, then the gods have been in dread of **Indra**, and he has subjugated all the waters, the brides of the slave (**Vṛtra**).”
 </details>

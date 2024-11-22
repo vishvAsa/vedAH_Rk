@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávathaḥ ← √avⁱ- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -170,11 +173,13 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, the mortal whom you both protect scatters the substantial treasures (of his enemies), as **Trita** (fonfutes) the words (of his opponents).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vāṇīr iva **tritaḥ**: trita ṛṣi prativadavākyāni prabhinatti, as the ṛṣi Trita breaks or refutes controversial arguments or Trita may mean Agni, who, in the three regions, disregards or dissipates reproaches.
 </details>

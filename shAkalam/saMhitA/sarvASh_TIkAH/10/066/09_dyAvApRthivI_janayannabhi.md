@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -180,7 +183,8 @@ váśam ← váśa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods engendered the heaven and earth with their respective functions, the waters, the plural nts, thesacred trees; they filled the whole firmament (with lustre) for its protection; they graced the desirable (sacrifice) intheir own person ns.”
 </details>

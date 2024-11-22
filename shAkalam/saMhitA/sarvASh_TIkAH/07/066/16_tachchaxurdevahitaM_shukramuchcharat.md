@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cákṣuḥ ← cákṣus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -135,11 +138,13 @@ jī́vema ← √jīv- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That pure eye (of the universe), beneficial of the gods, rises; may we behold it for a hundred years; maywe live a hundred years.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 36.24 adds: śṛṇuyāma **śaradaḥ** śatam, prabravāma śaradaḥ śatam,**adīnaḥ** **syāma** śaradaḥ śatam, bhūyāśca śaradaḥ śatam, may we hear, may we speak, may we beindependent, for a hundred years or more
 </details>

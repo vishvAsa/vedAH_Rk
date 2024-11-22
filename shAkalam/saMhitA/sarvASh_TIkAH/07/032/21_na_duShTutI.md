@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duṣṭutī́ ← duṣṭutí- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -179,7 +182,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A man acquires not wealth by unbecoming praise; affluence devolves not upon one obstructing(sacrifice) in you, **Maghavan**, is the power whereby bounty (may be shown) to such as I am on the day of libation.”
 </details>

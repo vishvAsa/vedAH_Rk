@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákr̥tam ← ákr̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -190,7 +193,8 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What act of might is there, unperformed by **Indra**? Who has not heard of his famous (heroism)? He, theslayer of **Vṛtra**, (is renowned) from his birth.”
 </details>

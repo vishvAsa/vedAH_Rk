@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dhármaṇi ← dhárman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -171,11 +174,13 @@ vídhātar ← vidhātár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Engaged) in the worship of the royal **Soma** and of **Varuṇa**, (present) in the protecting (dwelling) ofBṛhaspati and **Anumati**, (I am assiduous) in your praise, **Maghavan**; **Dhātā** and **Vidhātā**, I have fed on thepitcher.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pitcher: i.e., I have drunk the Soma left in the jar from that which had been offered
 </details>

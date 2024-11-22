@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakā́ra ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -246,7 +249,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What is he, the **Indra** who has done these deeds? What region does he frequent? Amog what people (does he abide)? What worship, Indra, gives satisfaction to your mind? What praise is able to gratify you? Which of your invokers (is most acceptable to you)?”
 </details>

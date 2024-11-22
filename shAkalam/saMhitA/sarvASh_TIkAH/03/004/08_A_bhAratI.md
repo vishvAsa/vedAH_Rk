@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -177,11 +180,13 @@ tisráḥ ← trí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Bhāratī**, associated with the **Bhāratīs**; Iḷā with the gods and men; and **Agni**, and **Sarasvatī** with the **Sārasvatas**; may the three goddesses sit down upon the sacred grass (strewn) before them.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhāratībhiḥ, with the connections of **Bharata**, or the Sun: bharatasya sūryasya sambandhinībhiḥ, perhaps intending the solar rays;
 

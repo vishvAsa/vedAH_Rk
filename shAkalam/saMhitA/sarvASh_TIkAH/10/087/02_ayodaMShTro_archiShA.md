@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 arcíṣā ← arcís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -168,11 +171,13 @@ vr̥ktvī́ ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Jātavedas**, who have teeth of iron, consume the **Yātudhānas**' flame when kindled, destroy thedestructive (spirits) with your tongue, cut up the eaters of flesh, and put them in your mouth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yātudhānas: i.e.,**rākṣasas**
 </details>

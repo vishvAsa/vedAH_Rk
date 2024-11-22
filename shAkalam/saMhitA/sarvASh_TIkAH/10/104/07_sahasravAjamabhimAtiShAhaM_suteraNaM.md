@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhimātiṣā́ham ← abhimātiṣáh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -144,7 +147,8 @@ pananta ← √panⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Our praises celebrate the irresistible **Indra**, the dispenser of abundant food, the overcomer of enemies,the delighter in the libation, the possessor of opulence, the well-praised; the adorations of the worshipper glorify(him).”
 </details>

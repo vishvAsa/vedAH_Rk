@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -203,7 +206,8 @@ tváyā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At present, verily as of old, that act, (the liberation) of the rivers, is effective; whereby you have directed them on their course; the mountains have settled (at your command) like (men) seated at their meals; doer of great deeds, by you have the worlds been rendered stationary.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -225,11 +228,13 @@ sacate ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They ask of **Agni**, but no one asks improperly; for a sensible man (replies to solicitation) as he has determined in his own mind; Agni tolerates not a speech that anticipates (his reply), nor endures a rejoinder; he who is devoid of arrogance is favoured by his protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Na mṛṣyate prathamam nāparam **vacas** = lit. he does not bear a first or a subsequent speech; i.e. nor endures a rejoinder
 </details>

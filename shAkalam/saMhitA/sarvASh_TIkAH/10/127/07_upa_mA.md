@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -129,7 +132,8 @@ yātaya ← √yat- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The all-embracing black diffused darkness has approached me, discharge it, Uṣas, as if it were adebt.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anyé ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -200,11 +203,13 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “There are fourteen other great developments of him, seven sages conduct him by prayer; who maydeclare the expanded plural ce of sanctity at this (rite), the path by which they drink of the libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fourteen otherdevelopments: the 14 **lokas**; referring to the **paramātmā**, the supreme being, person nified as **Yajña**, orsacrifice; expanded plural ce of sanctity: the plural ce between the cativala (or hole dug in the ground for sacrifice) andthe heap of rubbish
 </details>

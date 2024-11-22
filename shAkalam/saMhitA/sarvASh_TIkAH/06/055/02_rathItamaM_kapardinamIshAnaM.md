@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 kapardínam ← kapardín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -103,11 +106,13 @@ sákhāyam ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit riches of our friend, (**Pūṣan**), the chief of charioteers, the wearer of a braid (of hair), the lord of infinite wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wearer of a braid of hair: kapardinam = kapardaścūḍā tadvantam; normally an epithet of **Śiva**; but, **cūḍā** is the lock left on the crown of the head at tonsure
 </details>

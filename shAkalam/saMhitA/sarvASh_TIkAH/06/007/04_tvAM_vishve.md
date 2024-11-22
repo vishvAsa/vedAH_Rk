@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amr̥ta ← amŕ̥ta- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the worshippers together praise you, immortal, **Agni**, when born like an infant; when you shine **vaiśvānara**, between the parental (heaven and earth) they obtain immortality through your (sacred) rites.”
 </details>

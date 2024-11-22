@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhānúnā ← bhānú- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -174,7 +177,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The piously worshipped (**Agni**), when invoked, glistening with the oblation, vies with the splendour of the sun; may the dawns rise innoxious to him who says, let us offer oblations to **Indra**.”
 </details>

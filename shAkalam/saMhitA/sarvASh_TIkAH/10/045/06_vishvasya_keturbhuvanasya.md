@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhúvanasya ← bhúvana- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -195,11 +198,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The manifester of all, the germ of the world, **Agni**, as soon as born fills heaven and earth (with light);he fractures as he advances the solid cloud, for which the classes of men praise him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Five classes: pañcajanāḥ = five men; or, the four chief priests and the **yajamāna**
 </details>

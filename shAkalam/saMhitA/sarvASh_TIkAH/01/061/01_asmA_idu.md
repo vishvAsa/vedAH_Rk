@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
-#### Morph
+_________
+**Morph**  
 asmaí ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ rātátamā ← rātátama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer adoration to that powerful, rapid, mighty, praise-meriting, and unobstructed **Indra**; adoration that is acceptable, and oblations that are grateful, as food (to a hungry man).”
 </details>
@@ -187,7 +191,8 @@ for the one equal to song, not poor, (do I bring) a laud—for Indra (I  bring) 
 
 ṛ́cīṣama-, an epithet of Indra, is an impossible word; Geldner wisely refuses to tr. it.
 
-However, it is difficult not to see in it a combination of ṛ́c- ‘chant, song’ and samá- ‘like, same’, however obscure the morphological details are - and obscure they certainly are. The first member cannot, straightforwardly, be a case form of ṛ́cbecause the case-ending should be accented. The length of the -ī- might be analogical to the long ī in phonologically similar ṛjīpín-, ṛjīṣín-, but motivating a short -i- (in putative *ṛ́ci-) is hard enough (Caland compounding form, like śúci-?). It is tempting (and some have succumbed to the temptation) to connect -sama- with another designation of ritual speech, sā́man-, but the difference in vowel length is probably fatal. Note that in our passage the word is adjacent to another old crux, ádhrigu-, the controversies about which (see KEWA and EWA s.v.) should have been definitely settled by comparison with OAv. drigu- ‘poor, needy’ (Narten, YH 238-40). Both ṛ́cīṣama- and ádrigu- are disproportionately represented in the VIIIth Maṇḍala, the home of much aberrant vocabulary. In the end those who elect to tr. ṛ́cīṣama- take it as a compound of the two elements suggested above: Renou ‘égal à la strophe’, Witzel Gotō (somewhat peculiarly, though starting with the same elements) ‘der im Preislied (immer) als dieselbe Person erscheint (?)’; so also the published translation ‘equal to song’. For further, see EWA s.v. ### 01-02
+However, it is difficult not to see in it a combination of ṛ́c- ‘chant, song’ and samá- ‘like, same’, however obscure the morphological details are - and obscure they certainly are. The first member cannot, straightforwardly, be a case form of ṛ́cbecause the case-ending should be accented. The length of the -ī- might be analogical to the long ī in phonologically similar ṛjīpín-, ṛjīṣín-, but motivating a short -i- (in putative *ṛ́ci-) is hard enough (Caland compounding form, like śúci-?). It is tempting (and some have succumbed to the temptation) to connect -sama- with another designation of ritual speech, sā́man-, but the difference in vowel length is probably fatal. Note that in our passage the word is adjacent to another old crux, ádhrigu-, the controversies about which (see KEWA and EWA s.v.) should have been definitely settled by comparison with OAv. drigu- ‘poor, needy’ (Narten, YH 238-40). Both ṛ́cīṣama- and ádrigu- are disproportionately represented in the VIIIth Maṇḍala, the home of much aberrant vocabulary. In the end those who elect to tr. ṛ́cīṣama- take it as a compound of the two elements suggested above: Renou ‘égal à la strophe’, Witzel Gotō (somewhat peculiarly, though starting with the same elements) ‘der im Preislied (immer) als dieselbe Person erscheint (?)’; so also the published translation ‘equal to song’. For further, see EWA s.v. _________
+**01-02**  
 Here and throughout the hymn, there is a certain amount of phonological and lexical chaining (in addition to the repeated fronted demonstratives). Here 2b bhárāmi picks up both 1c harmi and 1d bráhmāṇi, and 2a asmā́íd u práyaḥ … prá yaṃsi playfully echoes 1a asmā́íd u prá…, with práyaḥ of 1b substituted for the bare preverb prá.
 </details>
 

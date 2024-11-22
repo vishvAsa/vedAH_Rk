@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ yātudhā́nāḥ ← yātudhā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protect this sacrifice, **Agni**, with your sharp glance; lead it sage (Agni) forward to (the acquisition of)riches; let not the **Yātudhānas** harm you, beholder of men, the destroyer of **rākṣasas** blazing fiercely.”
 </details>

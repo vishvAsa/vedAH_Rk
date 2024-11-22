@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhindúḥ ← bhindú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -147,11 +150,13 @@ vajrī́ ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** was born the destroyer of cities, ever young, ever wise, of unbounded strength, the sustainer of all pious acts, the wielder of the thunderbolt, the many-praised.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Text: purām bhinduḥ, breaker of cities;
 

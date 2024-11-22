@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gr̥bhṇā́mi ← √gr̥bhⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -189,7 +192,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I take your **hand** for good fortune, that you may attain old age with me as your husband; the godsBhaga, **Aryaman**, **Savitā**, Purandhi have given you to me, that I may be the master of a household.”
 </details>

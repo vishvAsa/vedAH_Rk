@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barháṇā ← barháṇā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -149,11 +152,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Worshippers), the efficacy of your eulogy is to be manifested to that **Indra**, whose protections, like (those) of a sensible man, are displayed as abiding along with him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vipo na, medhāvirat iva, that is, the protective measures or expedients of a sensible or wise man are capable for all affairs, **sarva** kāryakuśalaḥ
 </details>

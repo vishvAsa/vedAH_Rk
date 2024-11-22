@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 mātā́ ← mātár- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -121,7 +124,8 @@ r̥tā́varī ← ŕ̥tāvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great and truthful **Aditi**, the mother (of the gods), gave birth to those two who are possessed of allaffluence, and shining with great splendour, for the (destruction of the) **asuras**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 idhmám ← idhmá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ víśvasmāt ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are the munificent recompenser of that man who, sweating (with toil), brings you fuel, and for your service causes his head to ache; protect him, **Agni** from every one that seeks to do him evil.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Munificent recompenser: svatavān **pāyuḥ** = dhanavān pālayitā, wealthy preserver
 </details>

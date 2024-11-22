@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áprāmisatya ← áprāmisatya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ yántaḥ ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, **Maghavan** of unbroken truth, it ever comes to pass as you in your knowledge may desire, by yourprotection, O handsome-jawed, may we obtain food, speedily, O thunderer, subduing our enemies.”
 </details>

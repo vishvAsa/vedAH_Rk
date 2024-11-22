@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abudhné ← abudhná- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ syuḥ ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The regal **Varuṇa**, of pure vigour (abiding) in the baseless (firmament), sustains on high a heap of light, the rays (of which) are pointed downwards, while their base is above; may they become concentrated in us as the sources of existence.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abudhne = in the baseless; **mūla**-rahite = antarikṣe, in the sky; vanasya stūpam = attribute: **tejasaḥ**, radiance;
 

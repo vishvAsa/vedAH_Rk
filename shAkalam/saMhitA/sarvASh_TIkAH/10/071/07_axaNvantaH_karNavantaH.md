@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akṣaṇvántaḥ ← akṣaṇvánt- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,11 +174,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Friends possessing eyes, possessing ears, were (yet) unequal in mental apprehension; some seemedlike pools reaching to the mouth, others reaching to the loins, others like pools in which one can bathe.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Friends:person ns having equal knowledge
 </details>

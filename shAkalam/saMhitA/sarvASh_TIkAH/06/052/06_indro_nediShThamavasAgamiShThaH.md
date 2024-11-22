@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́gamiṣṭhaḥ ← ā́gamiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ suśáṁsaḥ ← suśáṁsa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** be most prompt to come nigh for our protection, and **Sarasvatī** dwelling with (tributary) rivers; may **Parjanya**, with the plural nts, be a giver of happiness; and may **Agni**, worthily praised and earnestly invoked, (be to us) like a father.”
 </details>

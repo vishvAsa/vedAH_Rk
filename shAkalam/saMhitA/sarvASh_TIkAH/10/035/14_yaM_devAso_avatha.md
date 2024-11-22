@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávatha ← √avⁱ- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -201,7 +204,8 @@ turāsaḥ ← turá- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gods, who are prompt (to grant our desires), may he, whom you guard in battle, whom you defend(from his enemies), whom having extricated from sin, you gratify (in all his wishes), who (secure) in yourprotection; knows not of fear, may we (who are all this) be assiduous in offering sacrifice to the gods.”
 </details>

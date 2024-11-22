@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 devayúḥ ← devayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ mímīte ← √mā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The devout praiser of the adorable (**Indra**) purifies in due succession the offering (of the **Soma**); withsacred hymns he magnifies (the might) of Indra; he verily proclaims the measure (of hismerits).”
 </details>

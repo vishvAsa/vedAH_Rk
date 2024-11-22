@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adáḥ ~ adó ← asaú (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -156,7 +159,8 @@ gamyāḥ ← √gam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Pitā**, this (product) of the water-wealthy clouds, (the rain), arrives; then do you, sweet Pitā, be at **hand** with sufficiency for our eating.”
 </details>

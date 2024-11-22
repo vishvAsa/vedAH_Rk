@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ávye ← ávya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**), the most famous of the famous, the earht-born, the conciliator, is cleansed for us in the elevated fleece; sound aloud in the firmament when purified; do you ever protect us with blessings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sound aloud: **dhanvā** = imperative of dhanv
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havíṣā ← havís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -162,7 +165,8 @@ sthaḥ ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Viṣṇu**, feeders upon clarified butter, drinkers of he fermented **Soma**, thriving upon oblations, accepting them offered with reverence, bestow upon us wealth; for you are an ocean, a pitcher, the receptacle of the libation.”
 </details>

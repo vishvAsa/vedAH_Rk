@@ -23,15 +23,18 @@ ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 ghr̥tám ← ghr̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -145,7 +148,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Giver of sustenance, (**Agni**), your favour is free from fault, like clarified butter; your pure and golden lustre shines like an ornament.”
 </details>

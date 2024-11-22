@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -193,7 +196,8 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The opulent Uṣas, the bride of the far-darting (sun), throwing off (darkness) like a garment, proceeds; diffusing her own (lustre), auspicious, promoting sacred acts, she is renowned to the ends, she is renowned to the ends of the heaven and of the earth.”
 </details>

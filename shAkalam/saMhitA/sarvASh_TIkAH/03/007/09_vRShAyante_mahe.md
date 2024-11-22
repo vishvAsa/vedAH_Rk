@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyāya ← átya- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ vakṣi ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine invoker of the gods, the vast and widespreading rays shed (moisture) for you, the mighty, the victorius, the wonderful, the showerer (of benefits); do you who are all knowing, joy-bestowing, bring hither the great gods, and heaven and earth.”
 </details>

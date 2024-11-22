@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avánim ← aváni- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -167,7 +170,8 @@ sutaraṇā́n ← sutaraṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have made the vast, all-cherishing, and exuberant earth, delighted with (abundant) food, and tremulous water, for (the sake of) **Turvīti** and Vayyā; you have made the rivers easy to be crosseḍ”
 </details>

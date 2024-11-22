@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akr̥ṇota ← √kr̥- (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -193,7 +196,8 @@ suhastāḥ ← suhásta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have made the ladle fourfold, and have said (to **Agni**), assent (to the division); therefore have you gone, **Vājas**, the path of the immortals; dexterous-handed **Ṛbhus** (you have joined) the company of the gods.”
 </details>

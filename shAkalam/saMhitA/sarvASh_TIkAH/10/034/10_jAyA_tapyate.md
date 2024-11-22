@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hīnā́ ← √hā- 2 (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
 
@@ -186,7 +189,8 @@ náktam ← nákt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The deserted wife of the gamester is afflicted; the mother (grieves) for the son wandering wherever helikes; involved in debt, ever in fear, anxious for wealth, (the gambler) goes forth by night to the dwellings of others(to plural nder).”
 </details>

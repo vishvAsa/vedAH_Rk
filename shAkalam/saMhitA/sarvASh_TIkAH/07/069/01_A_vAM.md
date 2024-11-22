@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -168,7 +171,8 @@ voḷhā́ ← voḷhár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your golden chariot, drawn by your vigorous horses, blocking up heaven and earth, come to us,following the track of the waters, radiant with (glowing) wheels, laden with viands, the protector of men, thereceptacle of food.”
 </details>

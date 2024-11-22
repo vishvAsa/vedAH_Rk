@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -205,7 +208,8 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that glorification of the gods which men repeat in connection with the rite preserve me; the sunrises visiting all the lustre of the dawn; we solicit the kindled fire for our welfare.”
 </details>

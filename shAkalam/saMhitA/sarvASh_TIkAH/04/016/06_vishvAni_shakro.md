@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 náryāṇi ← nárya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -183,7 +186,8 @@ vrajám ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Knowing all things profitable for men, **Śakra** has, with his willing friends (the **Maruts**), sent forth the waters, for they, with (loud) shouts, divided the clouds, and, desiring (to fulfil) their office, set open the pasturage of the cows (of the **Aṅgirasas**).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádriḥ ← ádri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ víśvāni ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At this sacrifice the stone (set in motion) by the **hands** (of the priests) makes a noise, whereby the nine-months ministrants celebrated the ten-months worship; when **Saramā**, going to the ceremony, discovered the cattle, and **Aṅgiras** rendered all the rites effective.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ten-months worship: or, when the priests of both the nine and ten months rites offered worship;
 

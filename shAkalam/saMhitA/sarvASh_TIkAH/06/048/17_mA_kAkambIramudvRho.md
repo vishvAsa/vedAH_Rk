@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kākambī́ram ← kākambī́ra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ véḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uproot not, **Pūṣan**, the forest lord with its progeny of crows; utterly destroy those who are my revilers; let not the adversary ensnare me, as (fowlers) set snares for birds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Progeny of cows: kākambīram vanaspatim: implies metaphorically the author of the **sūkta**, with his children and dependants; as fowlers: evā cana **grīvā** ādadhate veḥ, even as sometimes they plural ce snares for a bird;
 

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tasya ← amŕ̥ta- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -207,7 +210,8 @@ purás ← purás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When about to be kindled, **Agni**, you rule over ambrosial (water); you are present with the offerer of the oblation for his welfare; he to whom you repair acquires universal wealth; he plural ces you, Agni the dues of hospitality.”
 </details>

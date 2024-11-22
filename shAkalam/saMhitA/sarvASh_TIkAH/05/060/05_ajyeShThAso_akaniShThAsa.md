@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajyeṣṭhā́saḥ ← ajyeṣṭhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -185,7 +188,8 @@ sudúghā ← sudúgha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They are brothers, of whom no one is the elder, no one the younger, but who grew up together for their mutual prosperity; may their father, **Rudra**, ever youthful, the doer of good deeds, and **Pṛṣṇi**, (their mother), easy to be milked, grant favourable days for (the sake of) the **Maruts**.”
 </details>

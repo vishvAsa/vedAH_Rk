@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 bhadrā́ ← bhadrá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -204,7 +207,8 @@ vidáthāya ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The very auspicious, resounding, famous Dawn, ascends bringing the sun to man; when for thesacrifice after the worship they give birth to that **Agni**, the desirer, the invoker of the desiring (gods).”
 </details>

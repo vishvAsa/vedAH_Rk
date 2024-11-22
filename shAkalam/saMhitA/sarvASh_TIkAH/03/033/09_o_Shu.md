@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -191,11 +194,13 @@ srotyā́bhiḥ ← srotyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Viśvāmitra** speaks: Listen, sister (streams), kindly to him who praises you; who has come from afar with a waggon and chariot; bow down lowly; become easily fordable; remain, rivers, lower than the axle (of the wheel) with your currents.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With a wagon and chariot: anasā rathena = śakaṭena rathena ca, by a cart and a carriage; anas, a cart or wagon, or truck, to convey the **Soma**
 </details>

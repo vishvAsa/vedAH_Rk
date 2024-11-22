@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -153,7 +156,8 @@ manmahe ← √man- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gliding along, and shedding moisture, they pass through the nights; therefore we now celebrate the might of the **Maruts**, manifested in both heaven and earth.”
 </details>

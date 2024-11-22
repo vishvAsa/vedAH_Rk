@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pā́rthivāni ← pā́rthiva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -180,7 +183,8 @@ tanvā̀ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we be happy in a home, in riches, in person nn, in children, bestowd upon us by you, **Viṣṇu**, who with three (steps) made the terrestrial reions for **Manu** when harassed (by the **asuras**).”
 </details>

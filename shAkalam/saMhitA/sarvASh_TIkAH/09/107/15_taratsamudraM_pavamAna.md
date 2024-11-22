@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pávamānaḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -167,11 +170,13 @@ r̥tám ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine royal (**Soma**) vast and true, undergoing purification traverses the firmament in a stream; vast and true, being sent forth he flows for the support of **Mitra** and **Varuṇa**”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vas and true: ṛtam **bṛhat** relates to the Soma, atyantam satyabhūtaḥ
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 ámīvā ← ámīvā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -157,7 +160,8 @@ nís ← nís (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni**, concurring in our prayer, destroy the cannibal who, as sickness, assails your embryo, who,as the disease **durṇāman**, assails your womb.”
 </details>

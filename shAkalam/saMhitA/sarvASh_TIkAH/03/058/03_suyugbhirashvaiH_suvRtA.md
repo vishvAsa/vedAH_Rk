@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áśvaiḥ ← áśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -185,7 +188,8 @@ víprāsaḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, with well-yoked horses and well-constructed car, hear this praise of the worshipper, for have not the ancient sages declared you, **Aśvins**, to be most ready to come to the aid of the destitute?”
 </details>

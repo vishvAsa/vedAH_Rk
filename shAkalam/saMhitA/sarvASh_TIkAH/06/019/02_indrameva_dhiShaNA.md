@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhāt ← √dhā- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -179,7 +182,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Our praise encourages **Indra** o munificence, the vast, quick-moving, undecaying, ever-youthful Indra, mighty with unsurpassable strength, who rapidly grows to greatness.”
 </details>

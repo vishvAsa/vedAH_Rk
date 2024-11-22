@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 mr̥janti ← √mr̥j- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -115,7 +118,8 @@ ukthyàm ← ukthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious performers (of holy rites), the utterers of praise, purify by their laudation the radiant courser (the **Soma**) as soon as genitive rated and meriting to be hymned.”
 </details>

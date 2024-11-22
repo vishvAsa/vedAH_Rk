@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 randhayat ← √randh- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -171,11 +174,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The radiant **Indra** subjected to **Kutsa**, his charioteer, (the **asuras**), **Śuṣṇa**, Aśuṣa, and **Kuyava**; and, for the sake of **Divodāsa**, demolished the ninety and nine cities of **Śambara**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aśuṣa, he who is not to be dried up; perhaps, an epithet of Śuṣṇa, an **asura**
 </details>

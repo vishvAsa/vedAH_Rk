@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -185,7 +188,8 @@ varivodhā́m ← varivodhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desiringfood, I invoke, (**Aśvins**), to support my life, your wonderful car, swift as thought, drawn by fleet horses, worthy of veneration, many-bannered, bringing rain, containing wealth, abundantly yielding delight, and conferring riches.”
 </details>

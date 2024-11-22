@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īratām ← √r̥- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
 
@@ -171,7 +174,8 @@ vibhātī́ḥ ← √bhā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let words of truth be spoken; let works of wisdom (be performed); let the blazing fires rise up, so that the many radiant Uṣā may make manifest the desirable treasures hidden by the darkness.”
 </details>

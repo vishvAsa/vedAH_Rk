@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ vītíhotraḥ ← vītíhotra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who praises the (sacrificial) fire, (lighted for **Indra**), or worships him with the oblation of clarified butter, presented in the ladle, according to the constant seasons? To whom do the gods quickly bring (the wealth) that has been called for? What sacrificer, engaged in offering oblations and favoured by the gods, thoroughly knows Indra?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛtubhir dhruvebhiḥ, according to the constant seasons; alternative reading: 'presented by the divinities called Ṛtus, who preside over sacrifices' (e.g., ṛtavo vai prayājāḥ, the ṛtus are the chief sacrifices, i.e. prayājādevatāḥ, the deities presiding over the sacrifices).
 </details>

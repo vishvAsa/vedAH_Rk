@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditim ← áditi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -182,7 +185,8 @@ trātr̥̄́n ← trātár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke with adorations, for the sake of felicity, the divine **Aditi** ad **Varuṇa**, **Mitra** and **Agni**, **Aryaman**, the overthrower of foes, worthy of devotion, **Savitā** and **Bhaga**, and (all) protecting divinities.”
 </details>

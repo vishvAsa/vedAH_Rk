@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -196,7 +199,8 @@ várṇena ← várṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wha tis the limit, what are the objects, which is the desirable (end) to which we rush like swift (chargers) to the battle? when for us will the divine dawns, the brides of the immortal (sun), overspread (the world) with light.”
 </details>

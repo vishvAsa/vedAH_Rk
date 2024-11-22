@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 nakṣya ← √nakṣ- (root)  
 {}
 
@@ -127,11 +130,13 @@ suvī́ram ← suvī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Agni**, the approachable; the lord of men, the invoked of all, we set you down (upon the altar), theresplendent, the righteously glorified.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The approachable: nakṣya upagantavya: nakṣati = **vyāpti** karmā, fromnakṣ, to pervade; the righteously glorified: suvīram = kalyāṇastotṛkam, the object of auspicious or piouspraise
 </details>

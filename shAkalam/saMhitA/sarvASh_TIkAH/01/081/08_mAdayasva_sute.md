@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mādáyasva ← √mad- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -180,7 +183,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Enjoy along with us, O hero, the suffused libation for (the increase of our) strength and wealth; we know you (to be) the possessor of vast riches, and address to our desires; be, therefore, our protector.”
 </details>

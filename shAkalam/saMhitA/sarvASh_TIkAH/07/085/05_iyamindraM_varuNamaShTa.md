@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aṣṭa ← √naś- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
 
@@ -196,7 +199,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this my praise reach **Indra** and **Varuṇa**; and earnestly offered (by me), preserve sons andgrandsons; let us, possessed of affluence, present (their) food to the gods; and do you, (deities), ever cherish uswith blessings.”
 </details>

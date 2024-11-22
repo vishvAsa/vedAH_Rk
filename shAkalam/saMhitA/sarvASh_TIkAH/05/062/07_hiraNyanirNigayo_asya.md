@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ sanéma ← √sanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The substance (of their chariot) is of gold; its pillars are of metal, and it shines in the firmament like lightning; may we load the vehicle with the libation in an auspicious plural ce, or in the sacrificial hall, (where the columns) are erected.”
 </details>

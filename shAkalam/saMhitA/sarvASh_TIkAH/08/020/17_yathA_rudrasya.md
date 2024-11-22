@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rudrásya ← rudrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -128,7 +131,8 @@ yúvānaḥ ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this (our praise) take effect, so that the ever-youthful sons of **Rudra**, creators of the cloud,(coming) from heaven, may be plural ased with us.”
 </details>

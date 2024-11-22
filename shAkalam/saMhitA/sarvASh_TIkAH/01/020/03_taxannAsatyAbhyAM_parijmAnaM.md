@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 nā́satyābhyām ← nā́satya- (nominal stem)  
 {case:DAT, gender:M, number:DU}
 
@@ -105,11 +108,13 @@ tákṣan ← √takṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They constructed for the **Nāsatyās**, a universally-moving and easy car, and a cow yielding milk. (**takṣan** = atakṣan, lit. they (**Ṛbhus**) chipped or fabricated, mechanically, the appendages of **Indra** and **Aśvin**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They carved (tatakṣuḥ) Indar's horse; they did it mentally (**mānasa**)
 </details>

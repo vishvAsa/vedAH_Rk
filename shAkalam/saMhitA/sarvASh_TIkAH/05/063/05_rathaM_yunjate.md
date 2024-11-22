@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -194,7 +197,8 @@ ukṣatam ← √ukṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts** harness their easy-going chariot, **Mitra** and **Varuṇa**, for (the emission of) water, as a hero (harnesses his war-car); their forms traverse the different spheres to distribute the rain; do you, therefore, supreme rulers, shed upon us water from heaven.”
 </details>

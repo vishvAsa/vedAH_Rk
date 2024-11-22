@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aviḍḍhi ← √avⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -219,7 +222,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Bṛhaspati**, as you rule (over all), accept this our propitiation; we worship you with this new and solemn hymn; since this your friend, our benefactor, celebrates you, do you fulfil our desires.”
 </details>

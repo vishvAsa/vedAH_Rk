@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -218,7 +221,8 @@ svayúgbhiḥ ← svayúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**) slew **Vṛtra** as an axe (cuts down) a tree; he demolished the cities (of the foes), he dug out therivers; he shattered the cloud like a new pitcher; with his allies (the **Maruts**) he recovered the cattle.”
 </details>

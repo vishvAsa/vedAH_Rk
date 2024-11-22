@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryo ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ vāvr̥dhé ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ministrant priests offer libations to the mighty **Indra**, for he is their king, he who has been exalted by the ancient and recent hymns of adoring sages.”
 </details>

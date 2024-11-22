@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 indrābr̥haspatī ← índrābŕ̥haspáti- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -104,11 +107,13 @@ tádokasā ← tádokas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra** and **Bṛhaspati**, the **Soma**; in the dwelling of the donor, and be exhilarated in his abode.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dāśuṣo = of the donor
 </details>

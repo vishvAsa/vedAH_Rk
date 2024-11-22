@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhānyàm ← dhānyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -168,11 +171,13 @@ viśvā́yu ← viśvā́yu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With the same (goodwill) that you bestow imperishable grain-seed upon a son or grandson, bestow it upon us, for we ask of you life-sustaining and auspicious wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Imperishable grain-seed: dhānyam bījam akṣitam: unperishing grain-seed
 </details>

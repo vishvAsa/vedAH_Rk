@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 svadhvara ← svadhvará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -131,7 +134,8 @@ br̥hatā́ ← br̥hánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rise up with celestial splendour, you who are radiant with great and present lustre, who are worthilyworshipped and glorified.”
 </details>

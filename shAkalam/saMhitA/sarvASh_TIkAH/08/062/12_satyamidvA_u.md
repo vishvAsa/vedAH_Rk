@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -199,11 +202,13 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us praise that **Indra** with truth, not with untruth, great is the destruction of him who offers not but tohim who offers abundant **Soma**-oblations, Indra's gifts are worthy of praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. to him who offers abundantSoma- oblations (**bhūri** jyotiṃṣi) great is the favour conferred by Indra; or, to him who offers the Soma great arethe blessing (bhūri jyotiṃṣi)
 </details>

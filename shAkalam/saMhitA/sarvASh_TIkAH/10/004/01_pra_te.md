@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iyarmi ← √r̥- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -211,7 +214,8 @@ rājan ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you, **Agni**, I present the oblation; you repeat praise; that you, who are deserving of laudation maybe present at our invocations; ancient sovereign Agni, you are like a well of water in a desert, to the mandesirous of offering sacrifice.”
 </details>

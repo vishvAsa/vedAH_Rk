@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávaḥ ← ávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -215,7 +218,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, you are great, and great is your protection to the offerer; no evil, **Ādityas**, harmshim whom you guard from the injurer; your aids are void of harm, your aids are true aids.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 ā́lāktā ← ā́lākta- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -157,11 +160,13 @@ námaḥ ← námas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This praise (be offered) to the large celestial arrow, the growth of **Parjanya**, whose point is anointed with venom, whose blade is iron.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The growh of Parjanya: the stem of the arrow formed of the **śara** reed or grass growing in the rainy season
 </details>

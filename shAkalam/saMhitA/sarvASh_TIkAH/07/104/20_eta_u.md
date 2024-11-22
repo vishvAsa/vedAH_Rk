@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ yātumádbhyaḥ ← yātumánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They advance, accompanied by dogs; desirous to destroy him, they assail the indomitable **Indra**;**Śakra** whets his thunderbolt for the miscreants; quickly let him hurl the bolt upon the fiends.”
 </details>

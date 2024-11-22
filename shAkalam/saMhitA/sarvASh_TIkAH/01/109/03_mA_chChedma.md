@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 chedma ← √chid- (root)  
 {number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
 
@@ -181,7 +184,8 @@ upásthe ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Never may we cut off the long line (of posterity); thus soliciting and asking for descendants endowed with the vigour of their progenitors, the (worshippers), begetting children, praise **Indra** and **Agni** for their happiness, and they two, destroyers of foes, are nigh (to hear this adoration).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -198,11 +201,13 @@ mātaríśvane ← mātaríśvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I, **Indra**, amd the strtiker off of the head of the son of **Atharvan**, I genitive rated the waters from above thecloud for the sake of **Trita**. I carried off their wealth from the **Dasyus**; taming the clouds for Dadhyañc, the son ofMātariśvan.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Son of Atharvan: named Dadhyañc: **Śatapatha Brāhmaṇa** 14.5.16; RV 1.116.12;
 

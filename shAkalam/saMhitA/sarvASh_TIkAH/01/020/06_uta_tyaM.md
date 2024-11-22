@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 camasám ← camasá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -129,11 +132,13 @@ púnar ← púnar (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Ṛbhus** have divided unto four the new ladle, the work of the divine **Tvaṣṭā** (i.e. devasambandhiḥ takṣana.**vyāpāraḥ** = divinity whose duty in relations to gods is carpentry; cf. tvaṣṭā tvaṣṭuḥ **śiṣyāḥ** **Ṛbhavaḥ** = Ṛbhus are the disciples of Tvaṣṭā; four ladles are an apparent reference to an innovation in the objects of libation for sharing).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tvaṣṭā is the artisan of the gods; he is a divinity whose duty is carpentry, with relation to the gods
 </details>

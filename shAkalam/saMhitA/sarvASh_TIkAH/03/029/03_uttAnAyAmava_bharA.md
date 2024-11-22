@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -171,11 +174,13 @@ vayúne ← vayúna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the intelligent priest plural ce the lower of the sticks with the face upwards, the upper (with the surface) downwards, so that quickly impregnated it may genitive rate the showerer (of benefits) **Agni**; then the bright blazing son of Iḷā whose light dissipates the darkness is born of the wood of attrition.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Son of iḷā: the fire of the altar
 </details>

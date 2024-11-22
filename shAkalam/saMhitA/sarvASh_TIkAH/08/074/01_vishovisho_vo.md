@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithim ← átithi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -145,11 +148,13 @@ stuṣé ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Food-desiring (priests, worship) **Agni**, who is the guest of all mankind, beloved of many; I address tohim in your behalf a domestic homage with hymns, for the attainment of happiness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Domestic: duryam = gṛhyamgṛhe bhavam (RV 2.38.5); gṛhebhyo **hitā** (RV 8.1.11)
 </details>

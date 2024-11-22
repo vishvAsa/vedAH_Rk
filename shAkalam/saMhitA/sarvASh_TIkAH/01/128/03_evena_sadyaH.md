@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eti ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -243,7 +246,8 @@ sā́nuṣu ← sā́nu- ~ snú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is ever to be hymned, the giver of food, the showerer (of benefits), comes immediately (upon our invocation), in approach to (the altar of) earth, loud-sounding, vigorous, and loud-sounding; the rapid and divine (Agni, incited by praise), manifests himself a hundredfold by his flames; Agni, having his abode in high plural ce, (comes quickly) to pious rites.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -186,7 +189,8 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Treasures were deposited in the **Agni**, **Vaiśvānara**, like the permanent rays (of light) in the sun; you are the sovereign of all the treasures that exist in the mountains, in the herbs, in the waters, or amongst men.”
 </details>

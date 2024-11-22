@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arítram ← arítra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -126,7 +129,8 @@ yuyujre ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your vessel, vaster than the sky, stops on the seashore; your chariot (waits on the land); the drops (of **Soma**) are expressed for yor worship.”
 </details>

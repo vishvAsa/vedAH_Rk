@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 dhā́rayā ← dhā́rā- 1 (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -135,11 +138,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Support, **Soma**) with your stream **Trita**'s three (oblations); cause the giver of riches (**Indra**) to come to the sacred songs. The intelligent (praiser) of this (Indra) measures out hymns.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., yojanāni which may also mean, roads or stages; in RV.1.018.05, **yojanā** = a means for inducing the gods to yoke their horses, i.e., a hymn
 </details>

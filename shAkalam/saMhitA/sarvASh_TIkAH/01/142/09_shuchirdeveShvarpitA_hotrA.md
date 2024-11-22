@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 árpitā ← √r̥- 1 (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
 
@@ -140,11 +143,13 @@ yajñíyāḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the pure **hotā**, plural ced among the gods, and **Bhāratī**, among the **Maruts**, and may the adorable Iḷā, **Sarasvatī**, **Mahī**, sit down upon the sacred grass.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hotā = **homa**-niṣpādikā, the presenter of the oblation; deveṣu arpitā = delivered amongst the gods, the praisers of priests (Marutsu); or, marutsu-bhāratī = vāc, situated in heaven, dyusthānā and connected with **bharata**, an **Āditya**, or name of the sun; iḷā, sarasvatī, mahī = sound (vāc); or the goddesses presiding over sound in the three regions, severally of earth, firmament, and heaven
 </details>

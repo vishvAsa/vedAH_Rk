@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áparā ← ápara- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -217,11 +220,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Which of these two, (Heaven and Earth), is prior which posterior; how were they engendered; (declare), sages, who knows this? verily, you uphold the universe of itself, and the days (and nights) revolve as if they had wheels.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Days and nights revolve: **ahan** cakriyeva, two days as if wheeled; i.e. the succession of day and night, each of which may be considered in turn as preceding or folliowing the other, like the rotations of a wheel
 </details>

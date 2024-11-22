@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 adhvarīyatā́m ← √adhvarīy- (root)  
 {case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -105,11 +108,13 @@ mā́nuṣāṇām ← mā́nuṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, who are the director (of the ceremonial), accept the oblations of devoutly-worshipping men the descendants of **Manu**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The director of the ceremonial: upavaktā, the priest who pronounces the formulae of sacrifice, or he may be the **Brahmā**, or the **Sadasya**, directing what is to be done
 </details>

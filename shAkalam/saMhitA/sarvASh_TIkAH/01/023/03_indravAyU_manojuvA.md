@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 indravāyū́ ← indra-vāyú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -122,11 +125,13 @@ sahasrākṣā́ ← sahasrākṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise invoke, for their preservation, **Indra** and **Vāyu**, who are swift as thought, have a thousand eyes, and are protectors of pious acts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sahasrākṣau = Indra, as person nified heaven, signifying its expansiveness or studded with constellations;
 

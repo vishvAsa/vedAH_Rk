@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áśastīḥ ← áśasti- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -133,11 +136,13 @@ yāhí ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vāyu**, who are the represser of calumnies, who are drawn by the **Niyuts**, and have **Indra** for your charioteer come with your brilliant car to drink the **Soma** juice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who are the represser of calumnies: nir yurvāṇo aśastiḥ = abhiśastir nihśeṣeṇa niyojayan
 </details>

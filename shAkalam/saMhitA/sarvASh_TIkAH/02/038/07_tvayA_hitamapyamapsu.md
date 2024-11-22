@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apsú ← áp- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -199,7 +202,8 @@ vratā́ ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The animals search in dry plural ces for the water element which has been collected in the firmament by you; the woods are assigned (by you) to the birds; no one obstructs these functions of the divine **Savitā**.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apsú ← áp- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -145,11 +148,13 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Doers of many deeds, **Aśvins** preserve me with that (healing virtue) deposited (by you) in the waters, inthe trees, in the herbs.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Healing: kritam, made of, done; bheṣajam (supplied), a medicament;
 

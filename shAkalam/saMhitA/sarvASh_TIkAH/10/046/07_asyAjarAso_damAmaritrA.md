@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ajárāsaḥ ← ajára- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -154,11 +157,13 @@ vāyávaḥ ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The undecaying fires of the worshipper, the rescuers from the humiliated (spirits of ill), havingadorable smoke, purifying, becoming white, swift, bearing (the oblation), sitting in the wood, (are) like thefast-flowing **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Damām aritrāḥ = protector of the houses
 </details>

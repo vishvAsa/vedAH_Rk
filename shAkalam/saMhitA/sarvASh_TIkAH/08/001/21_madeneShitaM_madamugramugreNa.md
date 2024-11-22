@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iṣitám ← √iṣ- 1 (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
 
@@ -159,7 +162,8 @@ sma ← sma (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(May **Indra** drink) with invogorated strength, the strong exhilarating (**Soma**) offered with animating(laudation); for in his delight he gives us (a son) the overcomer of all (foes), the humbler of their pride.”
 </details>

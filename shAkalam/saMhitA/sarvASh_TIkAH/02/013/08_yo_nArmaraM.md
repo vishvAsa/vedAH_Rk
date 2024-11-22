@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nārmarám ← nārmará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, who are (famed for) many exploits, put on today an unclouded countenance, (as prepared) to slay Sahavasu, the son of Nṛmara, with the sharpened (edge of the thunderbolt), in defence of the (sacrificial) food, and for the destruction of **dasyu**; you are he who is to be praised.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sahavasu, the son of Nṛmara: two **asuras**; nṛman and **mara** = who kills;
 

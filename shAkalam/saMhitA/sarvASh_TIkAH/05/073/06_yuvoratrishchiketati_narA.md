@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átriḥ ← átri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -143,7 +146,8 @@ nā́satyā ← nā́satya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders (of rites), **Atri** recognized (your benevolence) with (a grateful) mind on account of the relief (you afforded him), when, **Nāsatyās**, through his praise of you, he found the (fiery) heat innocuous.”
 </details>

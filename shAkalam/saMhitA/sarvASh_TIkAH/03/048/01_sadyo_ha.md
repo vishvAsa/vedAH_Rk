@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -179,7 +182,8 @@ somyásya ← somyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the showerer (of rain), who, as soon as born, is the object of affection, protect the offerer of the effused libation; drink at will, **Indra**, before (the other gods), of the pure **Soma** mixed with milk.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ yajadhvam ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who are the venerable īḷita, do you, with mind favourably disposed towards us, offer today sacrifice to the gods, before the human (ministrant priest) as such, bring hither the company of the **Maruts**, the undecaying **Indra**, to whom, seated on the sacred grass, do you priests offer worship.”
 </details>

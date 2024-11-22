@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -143,11 +146,13 @@ We chose that enjoyment of Deva Savitṛ; may we focus on Bhaga’s best all-giv
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit of the divine **Savitā** enjoyable (wealth) may we receive from **Bhaga** that which is excellent, all sustaining, destructive of foes.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Enjoyable wealth: the text has bhojanam, food; but here explained as bhogyam, to be enjoyed, i.e., dhanam, wealth
 </details>

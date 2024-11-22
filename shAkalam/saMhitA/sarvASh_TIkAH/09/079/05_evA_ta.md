@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -206,7 +209,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus, **Indu**, the chief (priests) making the mixture send forth your well-lodged, well-formed juice (**rasa**); purified **Soma**, destroy (our) reviler; let your potent, delightful, exhilarating (juice) appoear.”
 </details>

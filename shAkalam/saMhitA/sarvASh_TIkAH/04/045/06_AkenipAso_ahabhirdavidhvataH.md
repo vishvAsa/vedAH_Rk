@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhabhiḥ ← áhar ~ áhan- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -190,7 +193,8 @@ víśvān ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The near-advancing (rays), dispersing (the darkness) by the (light of day), are overspreading the firmament with lustre like the sun; the sun, harnessing his horses, (proceeds on his way); do you make known all his paths by (following) after (him) with sacrificial food.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ uccárantam ← √carⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Slay, **Indra**, the **Yātudhāna**, whether in the form of a man, or of a woman doing mischief by herdeceptions; may those who sport in murder perish dissipated; let them not behold the rising sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yātudhāna =**rākṣasa**
 </details>

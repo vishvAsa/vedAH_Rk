@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́t ← ā́t (invariable)  
 {}
 
@@ -128,11 +131,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then (men) behold the daily light of the ancient shedder of water, when he shines above the heaveṇ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Daily light: **Indra** is identified with the sun. vāsaram = an epithet of **jyotis**. = nivāsakam, clothing, enveloping ornivāsahetubhūtam, the cause of abiding; or, 'during the day': atyantasanyoge **dvitīyā**, adverbial accusative ativeof time; kṛtsnamahar udayaprabhṛty āstamanam yāvat, the light that lasts throughout the day, form sunrise tosunset;
 

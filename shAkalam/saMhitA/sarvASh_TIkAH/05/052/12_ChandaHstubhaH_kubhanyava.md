@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 chandastúbhaḥ ← chandastúbh- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -164,7 +167,8 @@ tviṣé ← tvíṣ- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The reciters of sacred metres, desirous of water, and celebrating (the **Maruts**), have drawn them to (provide) a well (for **Gotama**); some of them (invisible) as thieves, have been my defenders; some have been (obvious) to view through the light (of life).”
 </details>

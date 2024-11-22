@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gojít ← gojít- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -211,7 +214,8 @@ svā́diṣṭham ← svā́diṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** flows for us, the conqueror of cattle, of chariots, of gold, of heaven, of water, of thousandfold (wealth), whom the gods have made for (their) drinking, exhilarating, most sweet-flavoured, dropping, purple, causing happiness.”
 </details>

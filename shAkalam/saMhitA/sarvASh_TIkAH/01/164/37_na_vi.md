@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ásmi ← √as- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -227,11 +230,13 @@ vācáḥ ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I distinguish not if I am this all; for I go perplexed, and bound in mind; when the first-born (perceptions) of the truth reach me, then immediately shall I obtain a portion (of the meaning) of that (sacred) word.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I distinguish not: na vijānāmi yadiva idam asmi: this may be read as: yadi va idam, that I am like that which this is; or, if I am this; in either meaning, the philosophical implication is the identity of individual and universal spirit
 </details>

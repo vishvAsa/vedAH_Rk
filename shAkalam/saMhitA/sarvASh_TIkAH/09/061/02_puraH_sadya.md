@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 itthā́dhiye ← itthā́dhī- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -111,7 +114,8 @@ yádum ← yádu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Which overturned) the cities in a moment, and for the sake of the devout **Divodāsa** (subdued) **Śambara**, and then that **Turvaśa** and **Yadu**.”
 </details>

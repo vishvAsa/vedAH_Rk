@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ókaḥ ← ókas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -187,11 +190,13 @@ samānā́ḥ ← samāná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your ancient friendship is desirable and auspicious; your wealth, leaders (of rites), is in the family of **Jahnu**; renewing that auspicious friendship, may we, your associates, delight you with the sweet (**Soma**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jahnu: yuvor draviṇam jahnāvyām: from jahnu = jahnāvyām = jahnukulajāyām, born in the lineage of Jahnu; it may imply the **Gaṅgā**, **Jāhnavī**, following the legend of her origin from Jahnu
 </details>

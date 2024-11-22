@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhu ← mádhu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,11 +211,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(There is) abundant food well-prepared made of **Soma** and sweet for (**Indra**) who comes to the sacrifice; the way to earth is broad; (for Indra) who is the lord of the rain (that falls) here, the possessor of cattle, the showerer of water, the leader (of the sacrifice), whose road is hither, who is deserving of praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whose road is hither: i.e., to this our sacrifice
 </details>

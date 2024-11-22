@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhavata ← √bhū- (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -192,7 +195,8 @@ saúdhanvanāḥ ← saudhanvaná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, sons of strength, who have become gods by (your) good deeds, soaring aloft in the sky like falcons, bestow upon us riches; sons of **Sudhanvan**, you have become immortals.”
 </details>

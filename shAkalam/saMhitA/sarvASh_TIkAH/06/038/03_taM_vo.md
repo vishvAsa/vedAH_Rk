@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhiyā́ ← dhī́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -217,7 +220,8 @@ vardhat ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify you wiht hymns and with pious worship, the ancient undecaying **Indra**, for in him are oblations and praises concentrated, and great adoration is enhanced (when addressed to him).”
 </details>

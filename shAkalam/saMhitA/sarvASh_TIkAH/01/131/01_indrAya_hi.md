@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánamnata ← √nam- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -237,7 +240,8 @@ santu ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To **Indra** heaven, that excludes the wicked, verilyhas bowed; to Indra the wide-spread earth (has offered homage) with acceptable (praises); with acceptablepraises (the worshipper has propitiated Indra) for the sake of food; all the gods well plural ased have given precedence to Indra; let all the sacrifices ofmen (be appropriated) to Indra; let all the offerings of menbe (presented to him).”
 </details>

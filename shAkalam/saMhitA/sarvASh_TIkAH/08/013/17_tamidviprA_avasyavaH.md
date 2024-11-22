@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 avasyávaḥ ← avasyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -130,7 +133,8 @@ vayā́ḥ ← vayā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious, desiring his protection, magnify him by ample and plural asure- yielding (libations); the earth,(and other worlds, spread out) like the branches of a tree, magnify **Indra**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́gaḥ ← ā́gas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -204,7 +207,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What has that great wickedness been, **Varuṇa**, that you should seek to destroy the worshiper, yourfriend? Insuperable, resplendent Varuṇa, declare it to me, so that, freed from sin, I may quick approach you withveneration.”
 </details>

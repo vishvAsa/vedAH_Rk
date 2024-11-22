@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
-#### Morph
+_________
+**Morph**  
 asmaí ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ purā́m ← púr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To propitiate that **Indra** for the sake of food, I combinepraise with utterance, as (a man harnesses) a horse (to a car), in order to celebrate the heroic, munificent, and food-conferring Indra, the destroyer of the cities (of the **asuras**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Juhvā: the instrumental ument of invocation, the organ of speech;
 

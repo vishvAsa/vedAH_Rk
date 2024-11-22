@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahitvám ← mahitvá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -193,11 +196,13 @@ vavarta ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Exceeding is that your greatness, **Mitra** and **Varuṇa**, whereby the ever-moving sun has, through (succeeding) days, milked forth the stationary waters; you augment all the (world-illuming) rays of the self-revolving (sun); the one chariot of you two (perpetually) goes round.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The one chariot of you two gods round: vām ekaḥ pavir ā vavarta: **pavi** is the circumference of a wheel; a metonymy for the chariot; yuvayor eko ratho anukramaṇen ma paribhramate
 </details>

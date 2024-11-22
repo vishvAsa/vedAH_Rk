@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kṣódaḥ ← kṣódas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -210,11 +213,13 @@ yújam ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As a river (washes away) its banks, so the devout worshipper, (of **Brahmaṇaspati**), overpowers his enemies by his strength, as a bull (overcomes) an ox; like the spreading flame of fire, it is impossible to stop him, whom Brahmaṇaspati makes his associate.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The father of the gods: devānām pitaram: pitaram = pālayitāram, the protector or cherisher
 </details>

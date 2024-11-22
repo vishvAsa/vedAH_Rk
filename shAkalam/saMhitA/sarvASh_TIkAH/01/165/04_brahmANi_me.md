@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhmāṇi ← bráhman- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -205,7 +208,8 @@ vahataḥ ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “ (**Indra**): Sacred rites are mine; (holy) praises give me plural asure; libations are for me; my vigorous thunderbolt, hurled (against my foes), goes (to its mark); me, do (pious worshippers) proptiate; hymns are addressed tome; these horses bear us to the presence (ofwhose worshippers, and worship).”
 </details>

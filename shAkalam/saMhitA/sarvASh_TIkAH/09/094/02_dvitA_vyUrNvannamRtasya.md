@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tasya ← amŕ̥ta- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -166,11 +169,13 @@ vāvaśre ← √vāś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Openingout the abode of the ambrosia on both sides (he passes between); for him, the omniscient, the worlds expand. Gratifying laudations eager for the sacrifice, call upon **Indu**, like kine (lowing) towards their stall.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The abode of the ambrosia: i.e., the firmament, the home of the waters; call upon Indu like kine lowing: svasare = of the laudations on the day of sacrifice; of the kine towards their stall
 </details>

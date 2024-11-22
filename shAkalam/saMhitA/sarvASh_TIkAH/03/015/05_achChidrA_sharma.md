@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áchidrā ← áchidra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -188,7 +191,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroyer (of the world), do you who is endowed with intelligence and radiance celebrate many faultless sacred rites in honour of the gods, and restraining (your impatience), convey to them like a wagon our (sacrificial) food; illume (with your rays) the beautiful heaven and earth.”
 </details>

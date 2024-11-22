@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular
-#### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -119,7 +122,8 @@ usrā́ḥ ← usrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drive away, stones, the malevolent (folk), drive away evil intention, make our cattle a remedy (againstdistress).”
 </details>

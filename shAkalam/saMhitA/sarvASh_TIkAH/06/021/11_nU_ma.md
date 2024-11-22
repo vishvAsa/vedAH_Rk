@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -209,11 +212,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come quickly, son of strength, you who know (all things), upon my prayer; together with all the adorable (divinities); they who, with the tongue of **Agni**, are partakers of the sacrifice, who rendered **Manu** (victorious) over his adversaries.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ye manum cakrur uparam dusāya śatrūṇām or dasyūnām uparibhavam = who made Manu the **rājarṣi**, manum rājarṣim, over or the overcomer of enemies, or the **Dasyus**
 </details>

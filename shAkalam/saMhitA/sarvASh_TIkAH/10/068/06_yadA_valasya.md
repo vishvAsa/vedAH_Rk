@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhét ← √bhid- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -191,7 +194,8 @@ usríyāṇām ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Bṛhaspati** demolished with rays burning like fire the weapon of the malignant **Vala**, he devouredhim (encompassed by his followers) as the tongue (consumes) that which is encompassed by the teeth; he mademanifest the hiding- plural ce of the kine.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánnam ← ánna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -195,7 +198,8 @@ pátataḥ ← √pat- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who whets his (gloom) dispersing (radiance), who eats the (offered) oblation, a soverign like **vāyu**, overcomes the nights; may we prevail (over him) who is not a donor of the oblations that are due; (**Agni**), to you, and do you, (swift) as a horse be the destroyer of the foes assailing (us).”
 </details>

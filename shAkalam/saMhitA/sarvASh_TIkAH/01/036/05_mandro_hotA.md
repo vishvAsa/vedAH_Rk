@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥hápatiḥ ← gr̥hápati- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ yā́ni ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are the giver of delight, the invoker and messenger of the gods, the domestic guardian of mankind; the good and durable actions which the gods perform are all aggregated in you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dūto viśām asi: **devadūta**; viśām is connected with **gṛhapati**, lord of the dwelling
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádribhiḥ ← ádri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -176,7 +179,8 @@ vakṣáṇābhyaḥ ← vakṣáṇā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Extract the **Soma** with the bruising stones, wash it with the consecrated waters; (for by so doing) theleaders (of the rain, the **Maruts**) clothing (the sky with clouds) as with vesture of the hide of the cow, milk, forth(the water) for the rivers.”
 </details>

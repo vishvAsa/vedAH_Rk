@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -143,7 +146,8 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The two horses of **Indra**, hastening to the exhilaration (of the **Soma**), draw his chariot; the pole of theshowerer rests upon them.”
 </details>

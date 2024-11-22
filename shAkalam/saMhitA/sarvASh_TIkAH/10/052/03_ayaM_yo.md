@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -206,11 +209,13 @@ havyavā́ham ← havyavā́h- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who is this, who is the **Hotā**? (Afraid) of **Yama**, what offering does he bear that the gods accept?**Agni** is born day by day, and month by month, and so the gods have made for themselves a bearer of oblationṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Afraid of Yama: yamasya **bhītaḥ** san = afraid of Yama, i.e., of death; or, yajamānasya, kam = kam **kutam**, whatoffering of the worshipper; or, (the servant) of Yama, Agni as the burner of the dead; day by day: the **agnihotra** ismade daily to the gods, **pitṛ-yajña** is made monthly to the **pitṛs**
 </details>

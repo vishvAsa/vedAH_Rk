@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asyāḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -202,11 +205,13 @@ yaṁsan ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The arrow puts on a (feathery) wing; the (horn of the) deer is its point; it is bound with the sinews of the cow; it alights where directed; whenever men assemble or disperse, there may the shafts fall for an advantage.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Deer is its poit: mṛgo asyā **danta**: the deer is its tooth; i.e. the horn of the deer; or, **mṛga**, an adjective, that which seeks or reaches the enemy (**Nirukta** 9.19); with the sinews of the cow: **gobhiḥ** sannaddha = govikāraiḥ snāyubhiḥ, with tendons derived from the cow
 </details>

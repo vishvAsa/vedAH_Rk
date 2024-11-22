@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avīvr̥dhan ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -129,11 +132,13 @@ vā́jānām ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All our praises magnify **Indra**, expansive as the ocean, the most valiant of warriors who fight in chariots, the lord of food, the protector of the virtuous.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Samudra** vyacasam = samudra vad vyātavantam, spreading or pervading like the ocean; Indra, as the firmament is universally diffused
 </details>

@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 cetati ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -148,7 +151,8 @@ vícetasaḥ ← vícetas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The progeny of **Rudra** (the **Maruts**) is known in ancient plural ces, and to them the intelligent worshippersoffer adoration.”
 </details>

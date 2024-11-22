@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 amī́ṣām ← asaú (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -183,11 +186,13 @@ támasā ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bewildering the mind of our foes, Apva, seize their limbs and depart, proceed against them, burn intheir hearts with sorrow, let our enemies be covered with thick darkness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Apva: a goddess, apvepapābhimānini devate; or, sickness or fear; or, apiva: from apavi = who deprives of enjoyment (**Nirukta**)
 </details>

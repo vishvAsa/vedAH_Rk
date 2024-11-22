@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -191,7 +194,8 @@ vidhatáḥ ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, like patrimonial wealth, is the giver of food; he is a director, like the instrumental uctions of one learned in scripture; he rests in the sacrificial chamber like a welcome guest, and like an officiating priest, he brings prosperity on the house of the worshipper.”
 </details>

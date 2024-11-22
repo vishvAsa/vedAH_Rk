@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bháva ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -198,7 +201,8 @@ vocam ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Kinsman of Vadhryaśva, be the possessor of food and our protector; let no one assail you, (for youare) the overcomer of men; like a resolute warrior (you are) the overthrower (of enemies); I, **Sumitra**, celebratethe names of the kinsmen of **Vadhyaśva**.”
 </details>

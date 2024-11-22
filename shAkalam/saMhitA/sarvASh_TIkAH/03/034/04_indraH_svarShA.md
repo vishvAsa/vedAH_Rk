@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhāni ← áhar ~ áhan- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -169,11 +172,13 @@ ráṇāya ← ráṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the giver of **svarga**, genitive rating the days, has subdued victorious with the eager (**aṅgirasas**) the hostile hosts, and illuminingfor man the banner of the days, he obtained light for the great conflict.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Illumining the banner of the days: prārocayan ketum ahnām = lighting up, **sūrya**, or the sun
 </details>

@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devám ← devá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ yónim ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Man praises you, divine **Agni**, to convey his offerings to the gods; bright Agni, blaze when kindled; take your seat in the chamber (of sacrifice), in the chamber of the sincere **Sasa**.”
 </details>

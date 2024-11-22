@@ -23,16 +23,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 pári ← pári (invariable)  
 {}
 
@@ -158,7 +161,8 @@ dvíṣaḥ ← dvíṣ- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Varuṇa**, **Mitra**, **Aryaman**, protect the universe; may we abide in your blessed felicity, O excellentleaders, beyond (the reach of) our enemies.”
 </details>

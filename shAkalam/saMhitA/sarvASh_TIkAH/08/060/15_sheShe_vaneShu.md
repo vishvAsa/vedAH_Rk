@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mātróḥ ← mātár- (nominal stem)  
 {case:LOC, gender:F, number:DU}
 
@@ -158,11 +161,13 @@ rājasi ← √rāj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You sleep within your mothers in the woods, mortals kindle you; unwearied you bear the offerings of thesacrificer, then you shine among the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your mothers: the two **araṇis** or pieces of wood from which thesacrificial fire is produced by attrition; RV 3.29.2
 </details>

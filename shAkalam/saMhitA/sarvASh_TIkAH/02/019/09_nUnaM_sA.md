@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 jaritré ← jaritár- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -207,7 +210,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That opulent donation which proceeds, **Indra**, from you, assuredly bestows upon him who praises you, the boon (that he desires); grant it to us yor adorers; do not you, who are the object of adoration, disregard our prayers; so that, blessed with worthy descendants, we may glorify you in this sacrifice.”
 </details>

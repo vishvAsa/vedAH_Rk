@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 jajñānáḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
 
@@ -137,11 +140,13 @@ ugrā́ḥ ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as he was born **Śatakratu** asked his mother, who are the mgihty, who are renowned?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. RV8.45.4
 </details>

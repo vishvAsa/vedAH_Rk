@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áśvena ← áśva- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ tváṣṭā ← tváṣṭar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This goat, the portion of Pu+ṣan fit for all the gods, is brought first with the fleet courser, to that **Tvaṣṭā** may prepare him along with the horse, as an acceptable preliminary offering for the (sacrificial) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The portion of **Pūṣan**: he is to be offered in sacrifice to Pūṣan or **Agni**;
 

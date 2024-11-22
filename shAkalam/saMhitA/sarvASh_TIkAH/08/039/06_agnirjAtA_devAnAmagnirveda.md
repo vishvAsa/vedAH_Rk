@@ -25,10 +25,12 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
@@ -36,7 +38,8 @@ genre M;; line affected by realignment
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -214,7 +217,8 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** knows the birth of the gods; Agni knows the secrets of mankind; Agni is the giver of riches; Agni,duly worshipped with a new (oblation), sets open the doors (of opulence); may all our adversaries perish.”
 </details>

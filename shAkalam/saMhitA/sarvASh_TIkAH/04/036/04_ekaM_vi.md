@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakra ← √kr̥- (root)  
 {number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -207,7 +210,8 @@ vājāḥ ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have made the single ladle fourfold; by your (marvellous) acts you have clothed the cow with a (new) hide; therefore you have obtained immortality among the gods; such acts, **Vājas** and **Ṛbhus**, are to be eagerly glorified.”
 </details>

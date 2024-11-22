@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asanam ← √sanⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -169,11 +172,13 @@ sahásrā ← sahásra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have received sixty thousand horses, and ens of housands-- a score of hundreds of camels-- athousand brown mares-- and ten times ten thousand cows with three red patches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three red patches: i.e. havingthe head, back, and sides white (or bright); the ṛca and the next two ṛcas are spoken by **Vaśa**
 </details>

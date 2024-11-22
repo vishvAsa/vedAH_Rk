@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ vanate ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have recourse in this sacrifice to **Agni**, the invoker and praiser (of the gods), theintelligent, the all-knowing the unbeguiled; may he, the adorable, sacrificer for us to the gods, (and) accept the precious (offerings) we make for food and riches.”
 </details>

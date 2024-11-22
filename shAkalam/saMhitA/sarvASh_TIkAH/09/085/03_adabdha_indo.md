@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádabdhaḥ ← ádabdha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ rā́jānam ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You flow, **Indu**, the inviolable, the most exhilarating; you are yourself the best support for **Indra**; may sages approach and glorify you the ruler of this world.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The best support: food
 </details>

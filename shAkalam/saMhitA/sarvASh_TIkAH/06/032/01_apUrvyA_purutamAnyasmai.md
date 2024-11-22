@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápūrvyā ← ápūrvya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -149,7 +152,8 @@ vácāṁsi ← vácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have fabricated with my mouth unprecedented, comprehensive, and gratifying praises to that mighty, heroic, powerful, rapid, adorable, and ancient wielder of the thunderbolt.”
 </details>

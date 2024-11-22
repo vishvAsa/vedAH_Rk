@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bháva ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -173,11 +176,13 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Variously-shining **Agni**, be a shelter to him who praises you; be prosperity, **Maghavan**, to the wealthy (offerers of oblations); protect, Agni, your worshipper from sin; may Agni, who is rich with righteous acts, come (to us) quickly in the morning.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Maghavan = **Indra**; also, an epithet of Agni; lit. possessor of riches
 </details>

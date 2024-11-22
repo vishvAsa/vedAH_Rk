@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cáturanīkaḥ ← cáturanīka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ yátas ← yátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Blazing with his (fiery) tongue in the four quarters (of the horizon) he proceeds (to the sacrifice), wearing beautiful (lustre), the disperser of darkness, extirpating foes; we know him not (as endowed) with manhood, whereby this adorable **Savitā** bestows desirable (wealth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 We know him not as endowed: na tasya vidma puruṣatvata vayam: tasya = tam, we do not know him; joined with or possessed of yuktam, manliness, puruṣatvena, or the property of fulfilling desires, kāmānām pūrakatvena
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bāhúṣu ← bāhú- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -196,7 +199,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, in your arms, propitious to man, are many good things; on your breasts are golden (ornaments) brilliant and conspicuous; while garlands (hang) on your shoulders; sharp are (the edges of) your weapons; the Maruts have various decorations, as birds have (many-coloured) wings.”
 </details>

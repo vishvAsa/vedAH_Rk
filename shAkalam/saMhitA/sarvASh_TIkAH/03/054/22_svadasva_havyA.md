@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 didīhi ← √dī- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
 
@@ -196,7 +199,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Taste (**Agni**) the oblations, make manifest (for us) abundant food measure out the viands before us; you overcome all those (who are) our enemies in conflict; favourably inclined towards us lighten up all our (ceremonies) day by day.”
 </details>

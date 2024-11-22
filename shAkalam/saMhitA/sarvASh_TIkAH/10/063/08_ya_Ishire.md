@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhúvanasya ← bhúvana- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -194,11 +197,13 @@ svastáye ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the wise and omniscient deities, who rule over the whole world both stationary and moveable,deliver us today from committed and uncommitted sin, for our well-being.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., from actual bodily sin and frommental sin
 </details>

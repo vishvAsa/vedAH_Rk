@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akṣānáhaḥ ← akṣānáh- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -179,7 +182,8 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The gods to one another). Drinkers of the **Soma**, bind (the horses) that are to be fastened to the pole;prepare the reins; caparison (the steeds); accompany everywhere (in your cars) the chariot which has eightseats with which the gods bring us acceptable (wealth).”
 </details>

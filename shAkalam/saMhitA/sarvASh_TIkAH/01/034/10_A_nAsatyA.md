@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -188,7 +191,8 @@ r̥tā́ya ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Nāsatyas**, to the sacrifice; the oblation is offered; drink the juice with mouths that relish the sweet savour. Before dawn, even, **Savitā** send (to bring you) to the rite, your wonderful car shining with clarified butter.”
 </details>

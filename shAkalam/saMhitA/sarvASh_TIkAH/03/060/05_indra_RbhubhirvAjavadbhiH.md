@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ saudhanvanébhiḥ ← saudhanvaná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, along with the food-bestowing **ṛbhus**, accept with both **hands** the (cup of the) effused **Soma** libation; excited **Maghavan**, by worship, rejoice with the human sons of **Sudhanvan** in the dwelling of the donor (of the offering).”
 </details>

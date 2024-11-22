@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hvayante ← √hvā- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -173,7 +176,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who are preparing for battle, those who are proceeding to sacrifice, both invoke (Dadhikra) as if (he was) **Indra**; **Mitra** and **Varuṇa** have given to us the horse Dadhikrā as an encourager to man.”
 </details>

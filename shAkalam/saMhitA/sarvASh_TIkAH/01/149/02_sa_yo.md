@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -160,11 +163,13 @@ yónau ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who is, as it were, the genitive rator of men as well as of heaven and earth, of whom creation has imbibed life, abides with his glories; he it is who, entering into the womb (of being), procreates (all living creatures).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who procreates all living creatures: **Agni** presents to the Sun the oblations offered with fire;thus Agni is identified with solar rays, engenders rain, on which the food and consequent existence of all living beings depends; of whom, therefore, Agni may be said to be the begetter
 </details>

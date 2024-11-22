@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -205,11 +208,13 @@ vr̥tré ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That **Indra**, kind to man, the lord of all, who is praised by his friend, is to be repeatedly honoured bymen like me; you, hero, protector of the good, are glorified in the all-sustaining food-producing cloud-imprisonedwaters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who is praised by his friend: or, **sakhya** **naryaḥ**, kind to man as a friend, praised by all
 </details>

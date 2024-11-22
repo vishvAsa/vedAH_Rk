@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 haryatám ← haryatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ sómaḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They cleanse the charming infant (**Soma**) at his birth; the **Maruts** decorate the bearer (of boons) with their troop; bring wise with songs, wise with wisdom, Soma passes clamorous through the filter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wise with wisdom: there is a plural y on the word, **kavi**; separating gībhiḥ from **kaviḥ**, the explanation is: he passes through the filter with praise
 </details>

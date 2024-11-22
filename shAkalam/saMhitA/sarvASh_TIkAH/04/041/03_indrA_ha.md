@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhéṣṭhā ← dhéṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -171,7 +174,8 @@ sutébhiḥ ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Varuṇa** (you are) most liberal givers of wealth to men praising you in various ways, when as friends well plural ed with (sacrificial) food, you are exhilarated by the **Soma** juice effused through friendship.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pravádyāmanā ← pravádyāman- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -178,7 +181,8 @@ víprāsaḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras** (having come) with your quick-moving well-constructed car, hear this hymn, (recited by one) who reveres you; do not the ancient sages say that you are most prompt, **Aśvins**, (to avert) poverty from the worshipper?”
 </details>

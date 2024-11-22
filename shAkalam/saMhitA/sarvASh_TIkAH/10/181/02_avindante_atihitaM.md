@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular
-#### Morph
+_________
+**Morph**  
 ā́sīt ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -204,11 +207,13 @@ cakre ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They discovered (the **Bṛhat**) which has been put away, the most excellent substance of the sacrificewhich was hidden; **Bharadvāja** took the Bṛhat from **Dhātā**, the radiant **Savitā**, **Viṣṇu**, and **Agni**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They: i.e.,Dhātā, Savitā etc.;
 

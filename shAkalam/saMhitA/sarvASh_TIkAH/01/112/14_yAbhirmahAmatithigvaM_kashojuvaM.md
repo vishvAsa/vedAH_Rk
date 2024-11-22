@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 atithigvám ← atithigvá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you defended the mighty and hospitable **Divodāsa**, (when, having undertaken) the death of **Śambara**, he hid himself in the water (through fear of the **asuras**); by which you protected **Trasadasyu** in war; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Divodāsa was a king (**Viṣṇu Purāṇa**, 407); he is called **atithigva**, the cherisher of guests (**atithi**); Trasadasyu was the son of **Purukutsa** (**Viṣṇu** **Purāṇa**)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -182,11 +185,13 @@ yujānā́ḥ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In whose **hand** (riches) good for man are accusative ulated, the chariot-mounted in a golden car; in whose arms the rays of light (are collected); whose vigorous horses, yoked (to his car, convey him) on the road (of the firmament).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In whose hand: yasmin haste; or, in whom, the slayer of foes, yasmin hantari (**Nirukta** 1.7).
 </details>

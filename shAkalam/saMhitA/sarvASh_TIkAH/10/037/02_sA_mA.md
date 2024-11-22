@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -229,7 +232,8 @@ viśvā́hā ← viśvā́hā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that world of truth everywhere protect me, through which it is that the heaven and earth, and daysand nights, extend; all the rest of creation which trembles has rest (there); the waters daily (flow), the sun risesevery day.”
 </details>

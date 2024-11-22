@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryavaḥ ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -172,7 +175,8 @@ yajyavaḥ ← yájyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, leaders (of the ceremony), may you, quickly bringing the offering to **Indra**, receive that (recompense) which you may desire; solemnizing the sacrifice, offer the **Soma**, purified by expressing, to the renowned Indra.”
 </details>

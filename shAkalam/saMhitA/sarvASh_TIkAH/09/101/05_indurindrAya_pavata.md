@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 índrāya ← índra- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -135,7 +138,8 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The devout (worshippers) say '**Indu** flows forth for **Indra**'; the lord of speech (**Soma**) soverign of all by his might desires (our) worship.”
 </details>

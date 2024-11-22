@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśmānam ← áśman- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ kr̥ṇutāt ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, who are on high, cast down fromheaven the adamantine (thunderbolt), wherewith, when exhilarated, you did slay your foe; and make us affluent in the possession of many sons, and grandsons, and cattle.”
 </details>

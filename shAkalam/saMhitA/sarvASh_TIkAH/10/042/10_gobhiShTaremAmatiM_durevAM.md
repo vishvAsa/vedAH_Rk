@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ámatim ← ámati- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -161,11 +164,13 @@ vr̥jánena ← vr̥jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, invoked of many, may we escape all ignorance caused by poverty by means of our cattle; (maywe escape) all hunger by means of our barley; (may we acquire) the chief riches through the princes (of wealth);may we conquer by our valour.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May we acquire the chief riches: or, may we, the chief, acquire riches
 </details>

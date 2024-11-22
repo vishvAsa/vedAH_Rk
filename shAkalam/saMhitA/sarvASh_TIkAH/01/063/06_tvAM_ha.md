@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árṇasātau ← árṇasāti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -186,7 +189,8 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men invoke you, such as you are, in the thick-throned and wealth-bestowing conflict. May this your succour, powerful **Indra**, ever be granted in war, worthy to be enjoyed (by warriors) in battle.”
 </details>

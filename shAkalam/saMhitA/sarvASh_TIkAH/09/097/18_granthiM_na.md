@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 granthím ← granthí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -206,7 +209,8 @@ pastyā̀vān ← pastyā̀vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**), when filtered loose (me) bound (by sin) as (one loose) a knot; (grant me) a straight path and strength. You, green-tinted, neigh like a horse (when you are) let loose; proceed divine (Soma) who are friendly to man, and have a dwelling.”
 </details>

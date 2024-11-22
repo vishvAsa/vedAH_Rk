@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -186,11 +189,13 @@ dyā́m ← dyú- ~ div- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let those in whom you are delighted repair (to the libation), and do you, **Indra**, confiding, drink the satiating **Soma**; liberator (from evil), associated with the mighty and adorable (**Maruts**), augment our prosperity, and (that of) heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let those in whom you are: may those Maruts or those Soma, in which you delight; associated with the mighty: asmāntsu pṛtsvā tarutrā avardhayo dyām bṛhadbhir arkaiḥ: pṛtsu qualified avardhaya, increase; i.e. with children, cattle, and the like; in consequence of which prosperous condition, men can offer sacrifices, to heaven to thrive;
 

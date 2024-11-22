@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāyatām ← √janⁱ- (root)  
 {number:DU, person:3, mood:IMP, tense:PRS, voice:MED}
 
@@ -196,11 +199,13 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the axe (of **Indra**) be put forth together with light; may the easily milked cow of truth be(manifested) as of old; may the pure and radiant Indra shine with splendour; may the lord of the virtuous shinebrightly like the sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The axe, the cow: the axe is the thunderbolt, and the cow is the thunder
 </details>

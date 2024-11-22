@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 carā́thā ← carā́tha- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -122,11 +125,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[9-10\] Let us approach that blazing **Agni** with animal and vegetable offerings, as cows hasten to their stalls. He has tossed about his flames (in every direction), like running streams of water; the rays comingle (with the radiance) visible in the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Caratha and vasthaya are explained as animal and vegetable offerings; further elaboration: tat prabhāvaiḥ bṛdayādibhiḥ sādhyāhutiḥ, paśuprabhāva-hṛdayādisādhanāyāhutya, these are invocations prompted by minds purified by offerings of moveable things, that is, animals; or of immoveable things, as rice, and the like
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
 
@@ -114,7 +117,8 @@ vibódhanam ← vibódhana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pākasthāman has given me a tawny robust beast of burden, the means of acquiring riches.”
 </details>

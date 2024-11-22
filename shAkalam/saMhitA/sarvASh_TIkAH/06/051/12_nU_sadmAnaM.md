@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devāḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -164,7 +167,8 @@ vavanda ← √vandⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the preseenter of the oblation, **Bharadvāja**, quickly obtain, gods, a celestial abode, as he solicits your good-will; the instrumental tutor of the ceremony, together with pious associates, desirous of riches, glorifies the assembly of the gods.”
 </details>

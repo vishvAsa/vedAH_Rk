@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsām ← ayám (pronoun)  
 {case:GEN, gender:F, number:PL}
 
@@ -165,7 +168,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Most powerful **Indra**, in your favour towards us, take these cows in your **hand**, as fried grain, to give tous; yes, take them twice in your favour towards us.”
 </details>

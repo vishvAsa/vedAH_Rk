@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 punāmi ← √pū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -175,11 +178,13 @@ vailasthānám ← vailasthāná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By sacriice I purify both the heaven and the earth; I burn the wide (realms of earth) that are without **Indra**, and are (the haunts) of the wicked; wherever the enemies have congregated they have been slain; and, utterly destroyed, they sleep in a deep pit.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vailasthānam aśeran = they have slept; or, they sleep in a plural ce which is of the nature of **a vila**, a hole, a cavern, a pit; equivalent to **smaśāna**, a plural ce where dead bodies are burned, or, a plural ce where they are buried (tatra śavāḥ kṣipyante iti vailasthānam śmaśānam);
 

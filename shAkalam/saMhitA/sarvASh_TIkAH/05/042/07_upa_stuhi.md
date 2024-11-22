@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prathamám ← prathamá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -157,7 +160,8 @@ purūvásuḥ ← purūvásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify the first donor of precious treasure, **Bṛhaspati**, the distributor of riches, the bestower of great happiness upon him who recites or chants (his praise), who comes laden with ample wealth to his invoker.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -202,7 +205,8 @@ hárivantam ← hárivant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, who have praised the horse, the seat of **Indra**, urging the horses so that (Indra may reach) thedivine assembly, do you worship the horse- possessing might of Indra, whom men delight with the golden-tintedSoma as kine (with their milk).”
 </details>

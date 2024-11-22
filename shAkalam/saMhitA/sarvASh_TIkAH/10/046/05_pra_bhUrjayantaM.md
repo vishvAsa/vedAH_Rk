@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūḥ ← √bhū- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -186,7 +189,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be competent, (priest, to glorify) the victorious mighty **Agni**, the sustainer of the wise, (even) fools(adore) him, the exempt from folly, the demolisher of cities; conducting the embryo of touchwood, (Agni). Like agolden- haired, swift-moving (horse), loving praise and wealth, they bring him to the sacrifice.”
 </details>

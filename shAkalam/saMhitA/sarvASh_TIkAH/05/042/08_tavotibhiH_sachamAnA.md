@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áriṣṭāḥ ← áriṣṭa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -198,7 +201,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated, **Bṛhaspati**, with your protections, (men) are unharmed (by foes), and become opulent and blessed with descendants; may wealth devolve on those who are genitive rous, and givers of horses, of cows, of clothes.”
 </details>

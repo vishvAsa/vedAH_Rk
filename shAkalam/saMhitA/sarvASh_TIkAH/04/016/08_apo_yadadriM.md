@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrim ← ádri- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -209,7 +212,8 @@ ruján ← √ruj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoked of many, when you had divided the cloud for (the escape of) the waters, **Saramā** appeared before you; and you, the bringer of abundant food, have shown us favour, dividing the clouds and glorified by the **Aṅgirasas**.”
 </details>

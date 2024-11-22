@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahvayat ← √hvā- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -188,7 +191,8 @@ r̥jrā́śvaḥ ← r̥jrā́śva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Desiring) that the enjoyment (arising from the perfection) of the senses (should be restored to the blind), the she-wolf invoked you, (saying), "**Aśvins**, showerers (of benefits), leaders (of sacrifices), **Ṛjrāśva**, (lavish) as a youthful gallant, (has given me) a hundred and one sheep, cutting them into fragments".”
 </details>

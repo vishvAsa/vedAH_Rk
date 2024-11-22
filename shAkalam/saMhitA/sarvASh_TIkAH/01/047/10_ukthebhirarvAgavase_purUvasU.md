@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arvā́k ← arvā́ñc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -172,7 +175,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke with chanted and recited hymns, the very affluent **Aśvins**, to be present for our protection. Have you not ever drunk the **Soma** in the favoured dwelling of the **Kaṇvas**?”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aṅgiraḥ ← áṅgiras- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aṅgiras**, (prise the **Aśvins**); Aśvins, with those aids by which, with (gratified) minds, you delight (in praise), and thence preceded the gods to the cavern, to recover the stolen cattle; by which you sustained the heroic **Manu** with food; with them, Aśvins, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sustained Manu: By making him aware of the grain hidden in the earth, or teaching him, in fact, agriculture
 </details>

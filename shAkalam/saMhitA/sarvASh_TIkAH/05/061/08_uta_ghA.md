@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ástutaḥ ← ástuta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -146,11 +149,13 @@ vaíradeye ← vaíradeya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And, eulogizing (him), I proclaim that the man, her (other) half is, (as it were), uncommended, for he is ever the same in munificent donations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Her other half: **nemaḥ** is the term of the text; liṭ, half as it is said in the Sṃṛti, ardham śarīrasya **bhāryā**, wife is the half of the body (of the husband)
 </details>

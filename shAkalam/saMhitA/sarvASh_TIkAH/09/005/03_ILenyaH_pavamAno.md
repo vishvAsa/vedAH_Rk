@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īḷényaḥ ← īḷénya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -112,7 +115,8 @@ mádhoḥ ← mádhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pure-flowing bright (**Soma**), the bounteous giver, worthy of all praise, shines forth in its might with the streams of water.”
 </details>

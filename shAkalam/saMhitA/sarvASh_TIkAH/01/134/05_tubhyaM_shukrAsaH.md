@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śúcayaḥ ← śúci- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -251,11 +254,13 @@ This is earliest textual evidence for hunting with falcon/eagle suggesting that 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you, the bright, pure, quick-flowing (**Soma**), potent for exhilaration, are eager for the (fire of) oblation; are eager for the cloud (showering) waters. The timid and anxious (worshipper) praises you, who are auspicious, for (driving away) thieves; for you defend (us) from all beings, (as the reward) of our righteousness; you protect us from the fear of evil spirits, (as the reward) of our righteousness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The oblations that are offered to fire are the remote cause of the rain;
 

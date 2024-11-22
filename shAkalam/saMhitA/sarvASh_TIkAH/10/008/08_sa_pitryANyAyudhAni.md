@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́yudhāni ← ā́yudha- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -190,7 +193,8 @@ tvāṣṭrásya ← tvāṣṭrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the son of the waters, incited by **Indra**, skilled in his paternal weapons, fought against (the enemy),and slew the seven-rayed, three-headed (**asura**); then **Trita** set free the cows of the son of **Tvaṣṭā**.”
 </details>

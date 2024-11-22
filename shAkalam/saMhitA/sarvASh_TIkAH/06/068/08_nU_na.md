@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇānā́ ← √gr̥̄- 1 (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
 
@@ -169,7 +172,8 @@ tarema ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine and glorified **Indra** and **Varuṇa**, quickly bestow upon us wealth for our felicity; and thus eulogising he strength of you two, mighty (deities), may we pass over all difficulties as (we cross) the waters with a boat.”
 </details>

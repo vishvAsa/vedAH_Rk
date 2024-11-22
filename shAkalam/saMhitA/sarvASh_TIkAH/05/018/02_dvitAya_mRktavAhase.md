@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvitā́ya ← dvitá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -145,7 +148,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be (willing to make) a grant of your own strength to **Dvita**, the bearer of the pure oblations; for he, immortal **Agni**, your diligent praiser, brings to you continually the **Soma** juice.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ātmadā́ḥ ← ātmadā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ vidhema ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(To him) who is the giver of **soul**, the giver of strength, whose commands all (beings), even the godsobey, whose shadow is immortality, whose (shadow) is death-- let us offer worship with an oblation to the divineKa.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The giver of soul: as all spirit proceeds from him;
 

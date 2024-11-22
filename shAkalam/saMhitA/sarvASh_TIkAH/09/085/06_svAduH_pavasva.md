@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyā́ya ← divyá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -153,7 +156,8 @@ mádhumān ← mádhumant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow sweet for the celestial people, flow sweet for **Indra**, whose name is worthily invoked; sweet for **Mitra**, **Varuṇa**, **Vāyu**, **Bṛhaspati**, you who are the sweet-flavoured, inviolable.”
 </details>

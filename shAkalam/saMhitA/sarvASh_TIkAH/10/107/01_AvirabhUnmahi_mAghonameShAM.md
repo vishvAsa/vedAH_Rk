@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhūt ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -202,7 +205,8 @@ urúḥ ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great (splendour) of **Maghavan** has becomemanifest (for the rites) of these (worshippers); all lifehas been extricated from darkness, the vast light bestowed by the progenitors has arrived, a spacious path forthe **dakṣiṇā** has been displayed. (I Maghavan: Mqaghavan = the sun, at whose rising and at midday thedakṣiṇā is to be given, not at sunset; cf. RV. 5.77.2\].”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apūrvya ← ápūrvya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -139,11 +142,13 @@ vā́je ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unpreceded **Indra**, cherishing you (with sacrificial food), desirous of your protection, we invoke you whoare manifold in battle, as (men call upon) some stout (person n for help).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vāje citram = saṅgrāmevividharūpam;
 

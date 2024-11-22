@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 páruṣṇyām ← paruṣá- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -146,11 +149,13 @@ bhindanti ← √bhid- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether they (abide) on the Paruṣṇi (river), or, purifying (all), they clothe themselves with light, or whether they break through the clouds with strength by the wheels of their chariots.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Urṇā** vasata śundhyavaḥ = **diptiḥ** śodhikaḥ ācchādayanti = purifiers they put on light
 </details>

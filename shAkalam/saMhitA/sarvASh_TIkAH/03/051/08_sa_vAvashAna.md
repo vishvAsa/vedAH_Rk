@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ihá ← ihá (invariable)  
 {}
 
@@ -198,7 +201,8 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Indra**, who is gratified by the **Soma**, drink the Soma that has been effused by us, together with your friends, the **Maruts**, at this ceremony; you who is invoked of many, and whom all the gods equipped as soon as born for the great battle (with the **asuras**).”
 </details>

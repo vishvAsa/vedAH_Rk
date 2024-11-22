@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 diví ← dyú- ~ div- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -202,7 +205,8 @@ sutásya ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether, **Indra** and **Agni**, you are in heaven or upon earth, in the mountains, in the herbs, or in the waters, showerers of benefits, come hither from wherever you may be, and drink of the effused **Soma** libation.”
 </details>

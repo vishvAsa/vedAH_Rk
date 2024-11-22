@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 babhráve ← babhrú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -158,11 +161,13 @@ tveṣám ← tveṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I address infinite and earnest praise to the showerer (of benefits), the cherisher (of all), the white-complexioned; adore the consumer (of sin), with prostrations; we glorify the illustrious name of **Rudra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 White-complexioned: śvitīce = śvaityam añcate, he who goes to or obtains whiteness
 </details>

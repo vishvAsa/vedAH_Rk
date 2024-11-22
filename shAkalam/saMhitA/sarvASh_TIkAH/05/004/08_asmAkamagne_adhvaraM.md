@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarám ← adhvará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ trivárūthena ← trivárūtha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accept, **Agni**, our sacrifice; son of strength, the abider in the three regions, (accept our) oblation; may we be (regarded) among the goddess doers of good; cherish us with triply-protected felicity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cherish us: tvi varūthena śarmaṇā, with three defended, i.e., preserved by act, thought and speech; or, rendering **śarman** as house, **gṛha**: protect us by or in a three-roofed or three-storied dwelling, i.e. tricchadiśkena gṛhena, i.e., a spacious mansion
 </details>

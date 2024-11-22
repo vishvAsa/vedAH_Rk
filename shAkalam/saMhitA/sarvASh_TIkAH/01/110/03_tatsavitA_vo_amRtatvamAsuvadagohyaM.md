@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,11 +196,13 @@ sántam ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then **Savitā** bestowed upon you immortality, when you came to him, who is not to be concealed, and representd (your desire) to partake of the libations; and that ladle for the sacrificial viands which the **Asura** had formed single, you made fourfold.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who is not to be concealed: In the previous hymn, Savitā (from su, to offer oblations) perhaps refers to the presenter of oblations; in this hymn, the sun is alluded to
 </details>

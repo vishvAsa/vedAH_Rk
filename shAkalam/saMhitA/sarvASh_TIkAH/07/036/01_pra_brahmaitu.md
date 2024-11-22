@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhma ← bráhman- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -200,11 +203,13 @@ pr̥thú ← pr̥thú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the prayer proceed from the nail of the sacrifice, for **Sūrya** with his rays lets loose the waters; thespacious earth spreads (studded) with mountains, and **Agni** blazes on the extensive plural inṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yābhirādityastapati raśmibhistābhiḥ parjanyo varṣanyo varṣati: **Taittirīya** **Āraṇyaka** 10.63); Agni blazes:**pṛthā** pratīkam adhyedhe **agniḥ**: pratīkam = pṛthivyā avayavam, a portion or member of the earth
 </details>

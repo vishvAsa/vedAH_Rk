@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrivaḥ ← adrivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -157,11 +160,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wielder of the thunderbolt, I would not sell you for a large price, not for a thousand, nor for tenthousand, nor, opulent bearer of the thunderbolt, for a hundred.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For a large price: śatāya = infinite
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -162,11 +165,13 @@ sajóṣāḥ ← sajóṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sympathizing in satisfaction with **Varuṇa**, drink, **Indra**, the **Soma** juice; drink it, you who are entitled to praise, sympathizing with the **Maruts**; drink, sympathizing with the first drinkers, with the drinkers (at the sacriices) of the Ṛtus; sympathizing with the protectresses of the wives (of the gods), the giver of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sympathizing: sajoṣaḥ; sajoṣa indra varuṇena **somam** pāhi = liṭ, Indra, who are co-plural ased with Varuṇa, drink the libation; the implication is that they both derive like satisfaction from the beverage which they imbibe together;
 

@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -253,11 +256,13 @@ viśvádohasaḥ ← viśvádohas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have without effort created the river (that are) to flow to the sea, like chariots (bearing you to sacrifices), as those (construct) chariots who are desirous of (going to) battle; (the streams) flowing hither have gathered together their water for a common purpose, like the cows that yielded all things to **Manu**; that yield all things to man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Without effort: **vṛthā** = fruitlessly, in vain; or, apryatnena, without effort
 </details>

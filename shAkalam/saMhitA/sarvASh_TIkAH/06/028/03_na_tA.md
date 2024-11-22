@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dabhāti ← √dabh- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -230,11 +233,13 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not the cows be lost; let no thief carry them away; let no hostile weapon fall upon them; may the master of the cattle be long possessed of hose with which he sacrifices, and which he presents to the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let not the cows be lost: na tā naśanti = na naśyantu
 </details>

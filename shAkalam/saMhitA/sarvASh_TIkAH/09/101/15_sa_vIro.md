@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dakṣasā́dhanaḥ ← dakṣasā́dhana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -158,7 +161,8 @@ yónim ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The green-tinted (**Soma**), the implement of strength, the hero, who has upheld heaven and earth, is enveloped in the filter like the sacrificer (in his house) to sit upon his station.”
 </details>

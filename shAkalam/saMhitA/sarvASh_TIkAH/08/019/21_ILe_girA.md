@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 girā́ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -124,7 +127,8 @@ yájiṣṭham ← yájiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I worship **Agni**, who has been established by **Manu** with praise, whom the gods have appointed theirroyal messenger, who is the most adorable, the bearer of oblations.”
 </details>

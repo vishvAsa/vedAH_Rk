@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 āchádvidhānaiḥ ← āchádvidhāna- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -147,11 +150,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Concealed by means of coverings, protected by the Bārhats, O **Soma**, you abide listening to thegrinding-stones; no terrestrial being partakes of you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bārhats: the guardians of the Soma, **Svāna**, **Bhrāja**,Āṅghārya etc.: **Taittirīya** **Saṃhitā** 6.1.10.5
 </details>

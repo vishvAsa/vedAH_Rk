@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājaganvā́n ← √gam- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -189,7 +192,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invester (with the priestly office), the bearer (of the oblation), **Agni**, the directing priest, the sustainer (ofall), is seated in the house of man, he whom heaven and earth extol, and whom, the desired of all, the ministrantpriests worship.”
 </details>

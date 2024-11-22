@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhiyā́ ← bhī́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -184,7 +187,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through fear of you, **Indra**, all the regions of the firmamet cause the unfallen (rain) to descend; the heavens, the earth, the mountains, the forests, all the solid (universe) is alarmed at your approach.”
 </details>

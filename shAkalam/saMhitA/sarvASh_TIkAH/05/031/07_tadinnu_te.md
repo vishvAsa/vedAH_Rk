@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dasma ← dasmá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -225,11 +228,13 @@ yán ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Handsome and sagacious **Indra**, this is your deed, that, slaying Ahi, you have here displayed your vigour; you have arrested the devices of **Śuṣṇa** urging the combat; you have overcome the **Dasyus**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Have arrested the devices of Śuṣṇa: śuṣṇasya cit **pari** **māyā** agṛbhṇāḥ: **mayaḥ** = yuvatiḥ, young damsels, you have seized upon, or carried off, the young women of Śuṣṇa
 </details>

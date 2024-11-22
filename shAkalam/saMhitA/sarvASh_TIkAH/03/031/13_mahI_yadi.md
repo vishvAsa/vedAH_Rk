@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́t ← √dhā- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -165,7 +168,8 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as our devout praise has appointed a thiriving ruler for the regulation of heaven and earth, to whom faultless and appropriate commendations (are due), therefore are all the energies of **Indra** spontaneously exerted.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abibhar ← √bhr̥- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -183,7 +186,8 @@ vrā́dhataḥ ← √vrādh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vadhryaśva, honouring you, **Agni**, plural ced you upon the altar as a father (plural ces) his son (upon hislap); plural ased with his fuel, youngest (of the gods), you did slay the ancient obstructers of the rite.”
 </details>

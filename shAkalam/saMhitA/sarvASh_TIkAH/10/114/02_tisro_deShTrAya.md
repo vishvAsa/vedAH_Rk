@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āsate ← √ās- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -194,11 +197,13 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The three **Nirṛtis** do obeisance for the gist (of oblations), for (the gods), the far-famed sustainers (ofthe universe), know (their obeisance); the wise have ascertained the primary cause of these (divinities) who(exist) in the conspicuous (or) in the hidden observances.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The three Nirṛtis: niṛṛti= the earth;
 

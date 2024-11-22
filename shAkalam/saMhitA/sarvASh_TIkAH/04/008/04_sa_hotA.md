@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūtyàm ← dūtyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -136,7 +139,8 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is the invoker (of the gods), comprehending the deity of (their) messenger; and, knowing the ascent of the sky, he travels between earth and heaven.”
 </details>

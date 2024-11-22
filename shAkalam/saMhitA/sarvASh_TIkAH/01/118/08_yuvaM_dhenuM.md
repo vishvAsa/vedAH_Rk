@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenúm ← dhenú- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -159,7 +162,8 @@ viśpálāyai ← viśpálā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You filled his cow with milk, **Aśvins**, for the ancient **Śayu**, when imploring (yoru aid); you liberated the quail from danger; you gave a leg to Viśpalā.”
 </details>

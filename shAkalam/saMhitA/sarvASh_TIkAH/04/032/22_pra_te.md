@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 babhrū́ ← babhrú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -133,11 +136,13 @@ mā́ ← mā́ (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wise **Indra**, I praise your brown (horses); bestower of kine, (who are) not regardless (of your worshippers); with those two steeds terrify not our cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Not regardless of your worshippers: he **napāt** na pātayitāḥ stotṛn avināśayitaḥ kintu pālayitaḥ itaryarthaḥ, oḥ you, not casting down, not injuring or destroying, those who praise, that is, cherishing them
 </details>

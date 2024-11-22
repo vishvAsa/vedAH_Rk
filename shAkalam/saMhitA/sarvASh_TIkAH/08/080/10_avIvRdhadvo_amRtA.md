@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ámandīt ← √mand- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -197,7 +200,8 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O immortal gods and all you goddesses, Ekadyū has honoured you (with his praise) and rejoiced you(with his **Soma**-offering); make his substance abundant; and may (**Indra**), who rewards pious acts wtiḥ wealth,come speedily in the morning.”
 </details>

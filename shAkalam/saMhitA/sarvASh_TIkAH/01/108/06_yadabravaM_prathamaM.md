@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ábravam ← √brū- (root)  
 {number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -203,7 +206,8 @@ sutásya ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come and witness the sincere faith with which, selecting you two, I first promised (you the libation); drink of the effused libation, for the **Soma** is prepared by the priests.”
 </details>

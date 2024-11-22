@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ghr̥tápr̥ṣṭhāḥ ← ghr̥tápr̥ṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -130,11 +133,13 @@ sómapītaye ← sómapīti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the coursers who convey you, glossy-backed, and harnessed at will, bring the gods to drink the **Soma** juice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Ghṛta** pṛṣṭhāḥ, their backs shining with or from clarified butter or **ghee** (which is the feed for the horses)
 </details>

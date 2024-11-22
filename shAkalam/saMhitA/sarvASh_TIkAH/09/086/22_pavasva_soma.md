@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́masu ← dhā́man- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -187,11 +190,13 @@ yatáḥ ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow, **Soma**, to the heavenly abodes; let forth, O **Indu**, (proceed) to the pitcher, to the filter; alighting upon **Indra**'s belly with a noise, guided by the priests, make the sun ascend the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the heavenly abodes: i.e., the bellies of the gods
 </details>

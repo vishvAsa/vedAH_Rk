@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devébhiḥ ← devá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -168,11 +171,13 @@ vásūnām ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indu** **Pavamāna**, do you with the gods, who do long for (our good) bestow upon us riches comprising horses; may your capacious mind longing for those who possess chariots (come) towards us to bestow treasures (upon us).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your capacious mind: purandhi = tvadīyā **bahuvidhā** dhīḥ
 </details>

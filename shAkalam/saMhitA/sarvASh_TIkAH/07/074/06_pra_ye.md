@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avr̥kā́saḥ ← avr̥ká- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -174,11 +177,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those worshippers, the benefactors of men, doing injury to none who go to you, like chariots (to thefarm), either prosper by their own strength, or inhabit an excellent abode.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like chariots: **ratha** iva, like chariots:vṛhyādi **pūrṇa** yathā prāpnuvanti svāmigṛham, loaded with rice and the like, arrive at the house of theowner
 </details>

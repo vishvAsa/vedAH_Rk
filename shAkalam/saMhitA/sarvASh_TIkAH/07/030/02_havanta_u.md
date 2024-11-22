@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávante ← √hū- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -177,7 +180,8 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Warriors invoke you, worthy to be invoked, in the variously clamorous (strife), for (the safety of their)person ns, and for the (long) enjoyment of the sun; you are a fit leader over all men; humble our enemies by thefatal (bolt).”
 </details>

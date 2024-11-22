@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 síndhum ← síndhu- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -121,11 +124,13 @@ sthāḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have spread abroad upon the earth, by your contrivance, the swollen **Sindhu** when arrested (on its course).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sindhu vibālyam vitasthānam : vigatabālyāvasthām, whose youth was passed, i.e., who was full of water, sampūrṇajalam, and vitiṣṭhamānam, stopping or being stopped
 </details>

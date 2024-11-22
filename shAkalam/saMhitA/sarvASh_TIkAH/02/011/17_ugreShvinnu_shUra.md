@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -167,11 +170,13 @@ yāhí ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, hero, exulting in the solemn Trikadruka rites quaff the **Soma**, and repeatedly shaking it from your beard, repair, well plural ased with your steeds, to the drinking of the effused libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Trikadruka rites: these denote three days, or celebrations of the ceremonial, termed abhiplava; abhiplavikeṣu ahaḥ su: these are, **jyotiṣ**, gauḥ, **āyus**; the text designates them as ugreṣu, fierce, angry; but here, **ugra** = having many praises and prayers, **bahu** **stotra** śastravat
 </details>

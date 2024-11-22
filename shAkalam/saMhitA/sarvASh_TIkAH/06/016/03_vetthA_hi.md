@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ádhvanaḥ ← ádhvan- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -131,11 +134,13 @@ yajñéṣu ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, doere of great deeds, creator, you know (how to travel over) with speed (great) roads and (little) paths at sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Adhvanaḥ pathaśca = mahāmārgān, great roads; **kṣudra** mārgāmśca, little roads or paths; i.e. put the sacrificer into the right way when he is going wrong in the ceremonial or sacrifice
 </details>

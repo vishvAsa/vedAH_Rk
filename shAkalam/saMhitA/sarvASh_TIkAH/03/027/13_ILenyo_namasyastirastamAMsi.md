@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īḷényaḥ ← īḷénya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -115,7 +118,8 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is to be worshipped with praise and with prostration, the dispeller of darkness, the beautiful, the showerer (of benefits) is kindled.”
 </details>

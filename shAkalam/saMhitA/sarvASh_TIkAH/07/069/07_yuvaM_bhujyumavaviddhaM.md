@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávaviddham ← √vyadh- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -152,7 +155,8 @@ pāráyantā ← √pr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You bore up **Bhujyu**, **Aśvins**, from the waters, when cast into the sea, bearing him to shore by yourexertions with your undecaying, unwearied, unharassed horses.”
 </details>

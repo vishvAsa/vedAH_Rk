@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 mā́ ← mā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ sālāvr̥kā́ṇām ← sālāvr̥ká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Ūrvaśi**). Die not, **Purūravā**, fall not, let not the hideous wolves devour you. feminine le friendships donot exist, their hearts are the hearts of jackals.”
 </details>

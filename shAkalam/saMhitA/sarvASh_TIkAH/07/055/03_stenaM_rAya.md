@@ -24,16 +24,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 rāya ← √rā- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -158,11 +161,13 @@ svapa ← √svap- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offspring of **Saramā**, returning (to the charge), attack the pilferer or the thief; why do you assail theworshippers of **Indra**? Why do you intimidate us? Go quietly to sleep.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pilferer: senam taskaram ca: he who stealsprivatey or hidden proverty; the latte carries it off openly
 </details>

@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 śrutám ← √śru- (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
 
@@ -124,7 +127,8 @@ namasvínaḥ ← namasvín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise the renowned, the sapient (**Indra**), whose victorious horses proceed to the dwelling of the devoutdonor (of the libation).”
 </details>

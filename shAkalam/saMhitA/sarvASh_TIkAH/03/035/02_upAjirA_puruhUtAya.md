@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajirā́ ← ajirá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -198,7 +201,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I harness for you, who is invoked by many, the swift gliding horses to the shafts of the car, that they may bear **Indra** to this sacrifice that is prepared with all (that is required).”
 </details>

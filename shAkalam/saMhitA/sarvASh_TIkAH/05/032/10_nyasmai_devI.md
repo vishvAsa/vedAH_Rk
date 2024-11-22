@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ svadhā́vne ← svadhā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine, self-sustaining (heaven) comes to him; the moving (earth), like a loving (wife), resigns herself to **Indra**; when he shares all his vigour with these (his people), then, in due succession, men offer reverence to the potent Indra.”
 </details>

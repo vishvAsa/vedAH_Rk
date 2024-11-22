@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótā ← hótar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -214,11 +217,13 @@ vā́k ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The invoker (of the gods, **Agni**), pervades the measured stations (of the altars), and accepts that (oblation), which is the germ of the year of the earth; as a horse neighs when bringing (the offering to **Indra**), as a bull bellows like a messenger proclaiming (his message) between heaven and earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As a horse neighs: the simile may illustrate the roaring of the sacrificial fire
 </details>

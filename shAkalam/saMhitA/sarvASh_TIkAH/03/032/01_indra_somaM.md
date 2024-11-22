@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imám ← ayám (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ vimúcya ← √muc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, lord of the **Soma**, drink this Soma which is grateful to you at noon-day sacrifice, **Maghavan**, partake of the spiritless Soma, unyoke your horses, and filling their jaws (with fodder), exhilarate them at this ceremony.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Spiritless soma: ṛjiṣin, possessing ṛjiṣam, gatasāram **somam**, soma having lost its strength
 </details>

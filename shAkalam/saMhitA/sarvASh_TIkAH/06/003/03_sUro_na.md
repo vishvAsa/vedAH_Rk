@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arepā́ḥ ← arepás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -200,11 +203,13 @@ vasatíḥ ← vasatí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the fearful flames of you, whose appearance is (as) faultless as (that of) the sun, spread on every side as (if they were) the lowing heifers of the night, then this **Agni**, the asylum of all, genitive rated in the woods, is everywhere beautiful.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Spread on every side...: heṣasvataḥ śurudho na **ayam** aktoḥ kutrā cid raṇvaḥ: śurudhaḥ = obstructors, or removers of sorrow, i.e., cows; śokasya rodhayitr. gāḥ;
 

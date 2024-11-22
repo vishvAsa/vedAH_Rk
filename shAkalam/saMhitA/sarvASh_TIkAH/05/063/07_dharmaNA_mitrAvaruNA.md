@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhármaṇā ← dhárman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -182,7 +185,8 @@ sū́ryam ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Discerning, sagacious, **Mitra** and **Varuṇa**, by your office you protect pious rites, through the power of the emitter of showers; you illumine the whole world with water; you sustain the sun, the adorable chariot in the sky.”
 </details>

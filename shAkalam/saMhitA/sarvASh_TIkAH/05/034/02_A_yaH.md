@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -191,11 +194,13 @@ yámat ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maghavan**, who fills his belly with the **Soma**, to be exhilarated (by drinking) of the sweet-savoured beverage, whereupon he has lifted up his destructive thousand-edged weapon, desiring to slay (the **asura**) Mmṛga.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thousand-edged: **sahasra** bhṛṣṭim = aparimita **tejas**, of unbounded lustre
 </details>

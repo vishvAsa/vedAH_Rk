@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ārat ← √r̥- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -189,11 +192,13 @@ nā́bhiḥ ← nā́bhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sweet water swells up from the firmament; by the (solar) ray (man) obtains immortality; that which is he secret name of clarified butter is the tongue of the gods, the navel of ambrosia.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 17.89-99; the sweet water swells up from the firmament: samudrād urmir **madhumān** udārat: the meaning depends on the variants of meaning of **samudra**: samodante asmin **yajamānaḥ**, that in which worshippers delight, sacrificial fire; or, samudrād **dravanti** āpaḥ, that from which waters rush, celestial fire, lightning;
 

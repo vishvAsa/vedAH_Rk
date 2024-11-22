@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábodhi ← √budh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -188,11 +191,13 @@ sisrate ← √sr̥- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** is awakened by the fuel (supplied) by the priests at the dawn, approaching like a cow (to pasture); his flames rise up to the sky like stately (trees) throwing aloft their branches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 15.24; alternative explanations: **prati** **dhenu** āyatim uṣāsam = as the cow awakenedin the morning by the calf, and men by day-break; yahva iva pra vayam ujjihānaḥ = as large (birds) springing from the branches of the trees, or as the largest birds from their nests
 </details>

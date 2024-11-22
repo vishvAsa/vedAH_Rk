@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -205,11 +208,13 @@ yávam ← yáva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the **Soma** flows towards **Indra**, as waters to the sea, as rivers to a lake, then the piousworshippers augment his greatness in the (sacrificial) abode, as the rain by its heavenly gift, (augments) thebarley.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The rain: the sender of rain, **vṛṣṭiḥ** = varṣitā
 </details>

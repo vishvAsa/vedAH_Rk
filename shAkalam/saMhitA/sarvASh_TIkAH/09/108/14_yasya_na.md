@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ mahé ← máh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Our (**Soma**) which **Indra** drinks, which the **Maruts** drink and **Bhaga** with **Aryaman**; through which we propitiate **Mitra** and **Varuṇa** and Indra, to obtain his powerful protection.”
 </details>

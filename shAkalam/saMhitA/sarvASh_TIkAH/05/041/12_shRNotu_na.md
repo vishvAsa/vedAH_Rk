@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gíraḥ ← gír- ~ gīr- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -186,11 +189,13 @@ srúcaḥ ← srúc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the lord of vigour, (**Vāyu**), hear our prayers, he who traverses the firmament, the circumambient; may the waters hear, bright as cities, flowing round the towering mountains.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bright as cities: **puro** na **śubhrāḥ** = purāṇi iva **dipta**, shining like cities
 </details>

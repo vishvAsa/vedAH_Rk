@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ājím ← ājí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ sárvāḥ ← sárva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we conquer the cattle (of the enemies) with the bow; with the bow may we be victorious in battle may we overcome our fierce-exulting (enemies) with the bow; may the bow disappoint the hope of the foe; may we subdue with the bow all (hostile) countries.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Exulting: **samadaḥ**: sa, with; **amda**, exhilaration; or, sam, entirely; ad, who devours (**Nirukta** 9.17, 9.18)
 </details>

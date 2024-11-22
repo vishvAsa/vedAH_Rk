@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 brahmacódanīm ← brahmacódana- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -159,11 +162,13 @@ rikha ← √rikh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Resplendent **Pūṣan**, with that food-propelling goad which you bear, abrade the heart of every miser, and render it relaxed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kikirā = to tear into pieces, rend into rags and tatters RV. vi, 53, 7 and 8.
 </details>

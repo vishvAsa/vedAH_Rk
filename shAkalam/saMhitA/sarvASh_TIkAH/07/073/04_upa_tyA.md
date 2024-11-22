@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gamataḥ ← √gam- (root)  
 {number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -203,7 +206,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those two, the bearers (of oblations), approach our people, destroyers of **rākṣasas**,well-nourished, strong-handed; accept our exhilarating (sacrificial) viands; injure us not, but come with goodfortune.”
 </details>

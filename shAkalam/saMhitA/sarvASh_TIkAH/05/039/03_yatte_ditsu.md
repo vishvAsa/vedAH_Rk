@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ditsú ← ditsú- (nominal stem)  
 {case:NOM, gender:N, number:SG, mood:DES}
 
@@ -168,11 +171,13 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since your bountiful and praiseworthy will is notorious and vast, therefore, thunder, you have made ready for bestowing upon us substantial food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bountiful: ditsu, desiderative of da, desiring to give, an epithet of **manas**, mind of will
 </details>

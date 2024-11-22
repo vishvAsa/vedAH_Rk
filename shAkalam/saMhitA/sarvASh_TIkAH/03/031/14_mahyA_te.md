@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -210,7 +213,8 @@ sú ← sú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I wish, **Indra**, for your friendship, and (the exercise of) your powers;many heroes come to the slayer of **Vṛtra**; we offer to you, sage, great praise and oblations; consider yourself, **Maghavan**, as our protector.”
 </details>

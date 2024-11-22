@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 jajñānám ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
 
@@ -134,11 +137,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven mothers instrumental uct the (**Soma**) the instrumental tutor (of the sacrifice) when born for the prosperity (of the worshippers) to that this firm Soma is cognizant of riches. \[”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The seven mothers instrumental uct the (Soma) the instrumental tutor (of the sacrifice) when born for the prosperity (of the worshippers) to that this firm Soma is cognizant of riches. \[
 </details>

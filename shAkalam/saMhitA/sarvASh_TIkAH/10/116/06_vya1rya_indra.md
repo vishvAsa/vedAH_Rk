@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryáḥ ← arí- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ vāvr̥dhasva ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Stretch out for us, lord **Indra**, varied food, (stretch out) your strength like strong bows against ourenemies; mighty in our presence by your vigour and irresistible still augment your form.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Augment your form: or,augment the sacrifice
 </details>

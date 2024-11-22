@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áradhram ← áradhra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ vyáthiḥ ← vyáthi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fierce **Aśvins**, from thhat humble mansion to which (you have repaired), you have ever borne with your desirable horses, as swift as thought, the pious worshippers in some manner (to heaven); let the injurer of the liberal man (be consigned by you) to (final) repose.”
 </details>

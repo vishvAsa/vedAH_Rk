@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dáṁṣṭrā ← dáṁṣṭra- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -195,7 +198,8 @@ yātudhā́nān ← yātudhā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the destroyer (of the **rākṣasas**), who have two (rows of teeth), sharpening them both, applythem to (the rākṣasas, and preserve) both the upper and the lower (world); and march, radiant (Agni, againstthe rākṣasas) in the firmament, seize the **yātudhānas** with your jaws.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eti ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -192,11 +195,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the sacrificer, the exhilarator, the sweet-spoken, the object of sacrifice, moving measuredly, circumambulates (the victim) of his own (accord); the bright (rays) of him (fed) with (sacrificial) food, spread around; all the regions are alarmed when he blazes.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bright rays: **asya** vājino na **śokā** = **aśva** iva dīptayo **dravanti**, his rays spread fast like horses
 </details>

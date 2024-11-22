@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gāḥ ← √gā- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -200,7 +203,8 @@ ca ← ca (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rise up before us, **Sūrya**, with your glorious white horses; declare us free from sin to **Mitra**, **Varuṇa**,**Aryaman**, and **Agni**.”
 </details>

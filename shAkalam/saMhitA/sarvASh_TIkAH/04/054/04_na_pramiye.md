@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 daívyasya ← daívya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -202,7 +205,8 @@ várṣman ← várṣman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(It is) not (fit) to obstruct (the acts) of the divine **Savitā**, since by them he upholds the whole world, wheeby his gracious **hand** spreads fertility over the extent of the earth, and the magnitude of the heaven; such is his true (power).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tānām ← amŕ̥ta- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -119,7 +122,8 @@ máma ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If I were lord oover immortals and mortals, then should my munificent (benefactor) live.”
 </details>

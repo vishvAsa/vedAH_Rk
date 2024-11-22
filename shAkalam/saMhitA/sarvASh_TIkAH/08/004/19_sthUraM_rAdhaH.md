@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rā́dhaḥ ← rā́dhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -133,7 +136,8 @@ turváśeṣu ← turváśa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We acknowledge the substantial wealth (of the gift) of a hundred horses, the donation made to usamong men at the holy solemnities of the illustrious and auspicious **Rājā** Kuruṅga.”
 </details>

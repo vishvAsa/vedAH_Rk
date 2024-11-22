@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -217,11 +220,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** grants whatever food is solicited; invoked with offerings, he bestows on the worshippershappiness springing from tranquility and the enjoyment (of objects of sense); he is requisite for all invocation ofthe gods; may all our adversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Happiness springing froṃ..: śam ca yośca **mayaḥ** = śāntinimittamviṣaya yogajanitam ca sukham
 </details>
@@ -240,7 +245,8 @@ The Pp. analyzes ūrjā́hutiḥ as ūrjā́ā́hutiḥ, that is, probably with 
 
 The latter is marginally attested in cmpds and in the verb stem ūrjáya-, probably originally a denom. (see Jamison, -áya-, 50, 81). By Geldner’s interpr. (which I follow), gen. pl. vásūnām limits the first member of this cmpd ūrjā́huti-. This is common in later Sanskrit, but somewhat rarer in the RV. Renou (and Klein) render it backwards (Klein, DGRV I.205-6 “whose nourishment is the oblation of the gods”), but still with the gen. pl. limiting only one of the members. It may not be sufficiently clear in the published translation that I take the cmpd as a bahuvrīhi.
 
-Note that both -ā́huti- (√hu ‘pour’) and -hūti- (√hū ‘call’) appear in this vs. ### 05
+Note that both -ā́huti- (√hu ‘pour’) and -hūti- (√hū ‘call’) appear in this vs. _________
+**05**  
 The standard interpr. take pratīvyàm as the obj. of inóti (e.g., Geldner “er befördert die Darbringung”), and this is certainly the simplest way. But inóti means ‘impel’, and práti √vī refers to the gods’ reception of mortals’ offerings, not the offerings themselves (see the root noun in quasi-infinitival usage in VIII.23.1, 26.8, and finite passages like VIII.101.10), so the simpler syntax requires attenuating the meanings of both words. I therefore complicate the surface syntax somewhat by supply an obj. to inóti extracted from dákṣiṇābhiḥ in pāda c and making pratīvyàm the goal. If the infinitival sense of pratīvyàm in its other two occurrences is maintained here, it could be tr. “impels (them) to be received.”
 </details>
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -198,7 +201,8 @@ préṣṭhā ← préṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where may our praise and oblations find today for a mesenger, those two splendid (**Aśvins**), the invoked of many, and bring the **Nāsatyās** to our presence? Be propitiated (Aśvins) by the adoration of this (your worshipper).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 duhánti ← √duh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -131,11 +134,13 @@ tīrthé ← tīrthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Seven milk one (cow), the two direct the five, on the resounding shore of the river.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 One (cow): ekam =**gharma**, or earthen vessel so called, which is used to boil milk in the **pravargya** ceremony. Seven: the sevenofficiating priests or assistants, two of him, the pratiprasthātā and the **adhvaryu**, are said to direct theperormance of the other five, viz., the **yajamāna** or instrumental tutor, the **brāhmaṇa**, the **hotā**, the **agnīdhra** and theprastotā. Resounding shore: exclamations used in the sacrifice performed by the ṛṣi of the hymn
 </details>

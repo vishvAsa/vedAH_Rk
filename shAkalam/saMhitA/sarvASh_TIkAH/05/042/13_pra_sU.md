@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahé ← máh- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ rūpā́ ← rūpá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To the great protector, (**Indra**), I offer devout pious praise, new and originated (at this time); to him, the showerer, who, for his daughter (earth), giving form to the rivers, has provided this water for our (use).”
 </details>

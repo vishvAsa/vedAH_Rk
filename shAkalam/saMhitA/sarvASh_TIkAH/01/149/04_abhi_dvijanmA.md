@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -141,11 +144,13 @@ yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He the twice-born, illuminating the three bright (regions), and shining over all the lustrous spheres, the adorable invoker of the gods, is present at the plural ce where the waters are collected.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The two-fold born: dvijanma, as born either from the two pieces of stick; or, from attrition and from oblation; or, born of earth and heaven, the parents of **Agni**; the three bright regions: tri rocanāni, either heaven, earth and mid-air or the three fires
 </details>

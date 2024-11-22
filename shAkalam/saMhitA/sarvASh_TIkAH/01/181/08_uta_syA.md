@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gī́ḥ ← gír- ~ gīr- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -197,7 +200,8 @@ séke ← séka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the praise of your resplendent forms, (uttered) in the hall of sacrifice, thrice strewn with sacred grass, bring prosperity to the conductors (of the sacrifice). Showerers (of benefits), may the raining-cloud, proceeding to man, nourish him lik a a sprinkling of water.”
 </details>

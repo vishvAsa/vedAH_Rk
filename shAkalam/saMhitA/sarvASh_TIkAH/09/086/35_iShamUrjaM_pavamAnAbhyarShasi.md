@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -187,7 +190,8 @@ viṣṭambháḥ ← viṣṭambhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You rush, **Pavamāna**, to (bring) food and strength; you alight on the pitchers like a falcon on its nest; (you) the exhilarating effused juice giving exhilaration to **Indra**, resembling the support of heaven, beholding (all things).”
 </details>

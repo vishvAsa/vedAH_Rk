@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ádhvabhiḥ ← ádhvan- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -106,11 +109,13 @@ pr̥ñcatī́ḥ ← √pr̥c- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mothers to us, who are desirous of sacrificing, the kindred (waters) flow by the paths (of sacrifice) qualifying the milk (of kine) with sweetnesṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ambayaḥ = mothers or āpo vā ambayaḥ, mothers who are waters
 </details>

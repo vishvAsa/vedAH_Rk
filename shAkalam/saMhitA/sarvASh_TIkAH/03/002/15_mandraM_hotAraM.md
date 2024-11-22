@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádvayāvinam ← ádvayāvin- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ sádam ← sádam (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit wealth of the adorable (**Agni**), the invoker of the gods, the pure, the single-minded, the munificent, the commendable, the beholder of all, who is many-coloured like a chariot, elegant in form, and always friendly to mankind.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 gómatīḥ ← gómant- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -130,11 +133,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bringers of the day, (bestow) upon us food with cattle, or donations of wealth, and close the path(against aggression) upon our gains.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 And close the path: **vi pathaḥ** sātaye sitam = asmākam gavādīnāmlābhāya tadupāyarūpān mārgān viśeṣeṇa badhnītam yathānye na praviśanti;
 

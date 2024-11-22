@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indramā́danāsaḥ ← indramā́dana- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -155,7 +158,8 @@ yudhā́ ← yúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Overcoming our enemies in war by our warriors, may we be the slayers of foes, through the pious(worshippers) who are the exhilarators of **Indra** and **Vāyu**, the reciters of divine hymns, the destroyers of theadversary.”
 </details>

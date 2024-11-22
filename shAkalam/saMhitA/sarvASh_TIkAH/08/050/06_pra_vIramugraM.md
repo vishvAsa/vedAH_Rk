@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 dhanaspŕ̥tam ← dhanaspŕ̥t- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise the mighty hero, wide-grasping, spoil-harrying, who has control over vast treasure; you, Othunderer ever pour forth wealth to the worshipper like an abundan fountain.”
 </details>

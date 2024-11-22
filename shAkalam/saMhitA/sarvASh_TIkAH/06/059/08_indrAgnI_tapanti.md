@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāgnī ← indrāgní- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -156,7 +159,8 @@ yuyutám ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, murderous, aggressive enemies harasss us; drive away mine adversaries; separate them from (sight of) the sun.”
 </details>

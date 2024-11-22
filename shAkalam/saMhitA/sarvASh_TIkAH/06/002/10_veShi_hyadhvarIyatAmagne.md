@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarīyatā́m ← √adhvarīy- (root)  
 {case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -152,7 +155,8 @@ juṣásva ← √juṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You enter as the ministrant priest into the habitations of men who wish to perform sacrifice; render them prosperous, benefactor of mankind; be propitiated, **aṅgiras**, by the oblation.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -194,11 +197,13 @@ vivāya ← √vī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the diffusive vital air excites **Agni**, he becomes bright and manifest in every mansion, and the instrumental tutor of the rite, imitating **Bhṛgu**, prevails on him to perform the function of messenger, as a prince who has become a friend sends an ambassador to his more powerful (conqueror).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Mātariśvan** = **vāyu**; here, it means, principal vital air, mukhyaprāṇa; the legend about the dialogue amongst the five divided (**vibhṛta**) airs: 'To them said the **Ariṣṭa** breaths: Be not astonished, for, I, having made myself five-fold, and having arrested the arrow, sustain (life)';
 

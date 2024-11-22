@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ójaḥ ← ójas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -197,7 +200,8 @@ sádatam ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As much as is your rapidity of body, as much as is your vigour, as much as the leaders (of rites) areilluminated by wisdom, (to such extent), drinkers of the pure (**Soma**) **Indra** and **Varuṇa**., drink this our pure Soma,and sit down upon this sacred grass.”
 </details>

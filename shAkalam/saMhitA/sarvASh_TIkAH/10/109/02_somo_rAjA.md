@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 brahmajāyā́m ← brahmajāyā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -184,11 +187,13 @@ nināya ← √nī- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “First, the royal **Soma**, without being ashamed, restored **Brahmā**'s wife (to **Bṛhaspati**), **Varuṇa** wasthe inviter, and **Mitra**, **Agni** as the ministrant priest taking her by the **hand**, led her (to her husband).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varuṇa wasthe inviter: he was the rejoicer of the Soma: **somam** anumodayitā; or, he showed pity, saying, always take her towife
 </details>

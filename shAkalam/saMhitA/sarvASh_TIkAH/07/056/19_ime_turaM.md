@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imé ← ayám (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -181,7 +184,8 @@ gurú ← gurú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These, **Maruts**, give plural asure to the zealous (worshipper); these humble the strength of the strong man;they entertain severe displeasure towards the withholder of offerings.”
 </details>

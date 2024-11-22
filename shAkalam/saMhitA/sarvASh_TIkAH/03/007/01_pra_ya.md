@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ārúḥ ← √r̥- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -191,11 +194,13 @@ sarsrāte ← √sr̥- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (rays) of the blackbacked, all-sustaining (**Agni**) have arisen, and pervaded the parents (earth and heaven) and the flowing rivers; the surrounding parents co-operate with him, and bestow long life for the sake of assiduous worship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śitipṛṣṭhasya dhāseḥ: agni is implied; so is raśmayaḥ, rays;
 

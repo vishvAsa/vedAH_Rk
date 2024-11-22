@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhāgám ← bhāgá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -158,7 +161,8 @@ madhupŕ̥cam ← madhupŕ̥c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Overpowering (your foes) with lustre, may you recognize your portion; may we, having you for our messenger, recite (praise) like **Manu**; desiring wealth, I offer oblation with the sacrificial ladle and with praises, to that entire **Agni**, who rewards (the worshipper) with the sweet (fruit) of the sacrifice.”
 </details>

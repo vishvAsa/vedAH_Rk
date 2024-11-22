@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; repeated line  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 retodhā́ḥ ← retodhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,11 +200,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, the bull, be the impregnator of the perpetual plural ns, for in him is the vitality of both the fixed andmoveable (world); may the rain sent by him preserve me for a hundred years; and do you (gods) ever cherish uswith blessings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May he: atas = he is, instrumental ad of: for he has; in him is the vitality: tasminnātmā = **deha**, body;perhaps the life of the vegetable world depending upon the rain, and that of animals upon corn and the rest
 </details>

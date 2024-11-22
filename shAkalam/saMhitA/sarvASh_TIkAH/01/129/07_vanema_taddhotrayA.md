@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -37,7 +39,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 citántyā ← √cit- (root)  
 {case:INS, gender:F, number:SG, tense:AOR, voice:ACT}
 
@@ -244,7 +247,8 @@ yájatram ← yájatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We praise, you, **Indra**, with praises, making known (your glory); we solicit, giver of riches, the wealth that bestows vigour, that is agreeable, durable, and the support of progeny. May we (ever) be possessed of (abundant) food, through the praises of you, whom it is difficult adequately to honour; may we attain the adorable (Indra) by true and earnest invocations; by invocations, (offering sacrificial) food.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 girvaṇaḥ ← gírvaṇas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -167,7 +170,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(As you hear) the worshipper who you favour, O **Indra**, **Maghavan**, liberal one, you that love hymns, so,gracious one, hear our hymns and our invocation of praise, like **Kaṇva**'s.”
 </details>

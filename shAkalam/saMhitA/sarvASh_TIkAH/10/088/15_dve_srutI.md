@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aśr̥ṇavam ← √śru- (root)  
 {number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -191,11 +194,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have heard that there are two paths for **Pitṛs**, gods and mortals; all this universe which is betweenthe paternal (heaven) and the maternal (earth) proceeds on its way by these two (paths).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 19.27; the twopaths, the **pitṛyāna** and the **devayāna** are describedin **Bhagavadgītā** 7.24 o 26
 </details>

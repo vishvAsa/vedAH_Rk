@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nā́ke ← nā́ka- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -153,11 +156,13 @@ sthā́m ← sthā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The many voices of the **Venas** praise (the **Soma** who dwells) in heaven, well-winged, falling (to earth); praises soothe the crying infant, the golden bird, reposing on the earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. the **havirdhāna**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or, may that all beholding **Indra**, the accomplisher of great deeds, by the collective vigour of the **Maruts**, (coming) from heaven, protect our chariot with unassailable protection, (for the sake of securing to us) ample wealth and abundant food.”
 </details>

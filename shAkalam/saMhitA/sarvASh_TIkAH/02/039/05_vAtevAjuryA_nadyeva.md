@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ajuryā́ ← ajuryá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -205,7 +208,8 @@ vásyaḥ ← vásyaṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Irresistible as two winds, rapid as two rivers; and quick of sight, come like two eyes before us; like two **hands**; like two feet; subservient to the well-being of our bodies, conduct us to (the acquisition) of excellent (wealth).”
 </details>

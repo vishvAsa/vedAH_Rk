@@ -21,14 +21,17 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -108,7 +111,8 @@ yájāmasi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like bearers of food, liberal in our gifts, we spread the thread (of sacrifice before the dawn), andworship (her).”
 </details>

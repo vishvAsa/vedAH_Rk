@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótā ← hótar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -162,11 +165,13 @@ sahasrambharáḥ ← sahasrambhará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni**, the invoker (of the gods), the intelligent, the resplendent, the radiant, the very powerful; he who knows (how to maintain) his rites undisturbed; who is steady in (his own) plural ce, and is the cherisher of thousands, sit in the station of the invoking priest.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the station of the invoking priest: **hotā** sadane, in a plural ce convenient for pouring the butter on the fire, or near to the **uttara**-**vedī**, the north altar; or considering the fire itself to be introduced upon the altar; **Yajurveda** 6.36
 </details>

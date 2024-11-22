@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -137,11 +140,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** may be the officiating priest at the sacrifice, or the master of the house in the sacrificial chamber, or he sits down as the **Brahman**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The officiating priest at the sacrifice: uta gna agnir **adhvara**: gna = **devapatnī**, a wife of a deity; one reading: agnir yaje devapatnir yajati, Agni worships the wives of the gods at the sacrifice; or, gna = gacchan, going, may relate to the **adhvaryu**, who moves about the ceremonial
 </details>

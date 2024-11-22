@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adr̥kṣata ← √dr̥ś- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -137,11 +140,13 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The auspicious rays are visible like showers of rain, the dawn has filled (the world) with ample light.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like showers of rain: gavām sargā na: gavām = udakānām, of waters; udakānām sargāḥ = varṣadhārāḥ
 </details>

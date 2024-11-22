@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ spārhā́ ← spārhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The glance of this auspicious deity, directed towards men, is most excellent, most wonderful, acceptable (to all) as the pure warm butter (from the milk) of the cow (is acceptable) to the deity; as the gift of a cow (is to a man).”
 </details>

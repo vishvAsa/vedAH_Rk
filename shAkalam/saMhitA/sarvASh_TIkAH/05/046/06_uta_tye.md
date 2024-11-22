@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -207,7 +210,8 @@ uruvyácāḥ ← uruvyácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or may the glorious mountains, the beneficient rivers, be to us for our preservation; may **Bhaga**, the apportioner of wealth, come with abundance and protection; may this wide-pervading **Aditi** hear my invocation.”
 </details>

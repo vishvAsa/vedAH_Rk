@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -214,7 +217,8 @@ vándate ← √vandⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, associated with the **Maruts** in battles (with the clouds), abandon us not; for a share of the offering is set apart, mighty one, for you, for whom, the shedder of rain and accepter of oblations, the worship is offered with oblations, whilst the hymn glorifies the Marutṣ”
 </details>

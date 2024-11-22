@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aghám ← aghá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -139,11 +142,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May iniquity pervade hat calumniating and hostile mortal who wishes to do us harm, and is treacheroustowards us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Treacherous: dvayu, double-- he who professes kindness to our face and maligns us behind ourback, prayakṣakṛto hitam vadati parokṣakṛtas tu ahitam
 </details>

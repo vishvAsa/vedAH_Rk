@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devī́ ← devī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -217,7 +220,8 @@ svadhā́bhiḥ ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine Uṣās dawned continually in former times; the source of wealth, she still rises on this (world); so will she give light hereafter, through future days, for, exempt from decay or death, she goes on in her splendour.”
 </details>

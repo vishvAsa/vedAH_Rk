@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávam ← háva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -145,7 +148,8 @@ somyám ← somyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear, **Indra** and **Agni**, the instrumental tutor of the rite as he offers the libation; partake of the offering; come, quaff the sweet **Soma**.”
 </details>

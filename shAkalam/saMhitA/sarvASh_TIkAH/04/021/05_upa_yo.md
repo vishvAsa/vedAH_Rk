@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 námaḥ ← námas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -185,11 +188,13 @@ sádaneṣu ← sádana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the invoking priest bring to our dwellings that (**Indra**) who, firmly fixing the (world) returns food for (sacrificial food), and (utters) a voice enjoining (men) to worship; he who is to be propitiated by praises, who is adored by many.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Utters a voice enjoining men to worship: vācam janayam yajudhyai = the speech of Indra is the thunder
 </details>

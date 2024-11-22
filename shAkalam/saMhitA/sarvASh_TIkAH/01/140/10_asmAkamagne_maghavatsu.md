@@ -23,15 +23,18 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -156,7 +159,8 @@ yutsú ← yúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Shine, **Agni**, in our opulent (abodes), vivifying, showering (blessings), bounteous, casting off infantine (glimmerings); blaze (fiercely), repelling repeatedly, like a coat of mail, (our enemies) in combats.”
 </details>

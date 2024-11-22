@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 puruvárpasam ← puruvárpas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -157,11 +160,13 @@ sākṣate ← √sah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise (**Indra**) who is worthy of praise, multiform vast, supreme, most accessible of the accessible; heassails with might the seven **Dānavas**, he overpowers many opposing hosts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Most accessible: or, most worthyof the worthy;
 

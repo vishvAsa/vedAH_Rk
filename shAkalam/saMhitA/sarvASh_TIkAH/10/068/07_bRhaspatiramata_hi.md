@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámata ← √man- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -200,7 +203,8 @@ usríyāḥ ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Bṛhaspati** had discovered that name of the lowing kine in their plural ce in the cave, by his ownstrength he extricated the cattle from the rock as (breaking) the eggs of a bird (one extricates) the embryo.”
 </details>

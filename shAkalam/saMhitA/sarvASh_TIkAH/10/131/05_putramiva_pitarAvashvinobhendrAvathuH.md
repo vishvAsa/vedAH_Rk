@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -178,11 +181,13 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Both the **Aśvins** defended (you), **Indra**, like two fathers (defending) a son with glorious exploits; when(triumphing) through the deeds of valour, you drank the grateful libation, **Sarasvatī** approached you, OMaghavat.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 10.34
 </details>

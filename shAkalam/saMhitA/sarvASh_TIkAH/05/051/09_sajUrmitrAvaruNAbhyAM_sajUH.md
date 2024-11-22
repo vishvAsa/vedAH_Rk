@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 mitrā́váruṇābhyām ← mitrā́váruṇa- (nominal stem)  
 {case:INS, gender:M, number:DU}
 
@@ -132,7 +135,8 @@ suté ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accompanied by **Mitra** and **Varuṇa**, accompanied by **Soma** and **Viṣṇu**, come, **Agni** and like **Atri**, delight in the libation.”
 </details>

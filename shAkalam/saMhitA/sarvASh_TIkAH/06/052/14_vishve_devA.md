@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M;; 12 = 5+7, ending LHX  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -203,7 +206,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the adorable, universal deities, and both heaven and earth, and the grandson, of the waters, hear my praise; let me not utter words to be disregarded, but let us, (brought) most nigh unto you, rejoice in the happiness (you bestow).”
 </details>

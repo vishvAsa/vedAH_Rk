@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ebhíḥ ← ayám (pronoun)  
 {case:INS, gender:M, number:PL}
 
@@ -181,7 +184,8 @@ tvótāḥ ← tvóta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoked of many, may we, through these your friendly (praises), ever be superior to successive foes, destroying, oḥ hero, both (classes of) enemies, (kindred or unallied); and may we, protected by you, be happy with abundant riches.”
 </details>

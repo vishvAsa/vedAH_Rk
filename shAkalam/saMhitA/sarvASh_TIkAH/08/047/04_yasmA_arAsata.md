@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 árāsata ← √rā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -199,11 +202,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To whomsoever these wise **Ādityas** gran a dwelling and the means of life, (for him) they master thewealth of every man; your aids are void of harm, your aids are true aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of every man: who does not offersacrifice
 </details>

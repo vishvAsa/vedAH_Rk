@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhītáyaḥ ← dhītí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -200,7 +203,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All praises contributing to his exaltation proceed to **Indra**, whom no acts, no words can harm, since hundreds and thousands of adorers glorify him who is entitled to praise, and so afford him gratification.”
 </details>

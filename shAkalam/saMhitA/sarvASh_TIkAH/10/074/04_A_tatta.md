@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -184,11 +187,13 @@ sahásradhārām ← sahásradhāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your men praised (you) then, **Indra**, (those) who wished to break into the vast (stall) full of cattle; whomilked the extensive once-genitive rating earth, mother of many children, the showerer of thousands (of blessings).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who wished to break into: ūrvam gomantam titṛtsān = whose desire to effuse the abundant (**Soma**) mixedwith water (**Yajus**. 33.28); once-genitive rating earth: sakṛddha dyaur ajāyata = giving gold, grain etc., once
 </details>

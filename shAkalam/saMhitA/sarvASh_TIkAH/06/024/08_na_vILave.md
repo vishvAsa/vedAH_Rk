@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -191,7 +194,8 @@ gambhīré ← gambhīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorified by us, he bows not down to the robust, nor to the resolute, nor to the person vering (worshipper) who is instrumental gated by the (irreligious) **Dasyus**; the lofty mountains are easy of access o **Indra**; to him there is a bottom in the (lowest) deep.”
 </details>

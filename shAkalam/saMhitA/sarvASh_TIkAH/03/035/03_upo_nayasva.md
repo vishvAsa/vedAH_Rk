@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nayasva ← √nī- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -207,11 +210,13 @@ sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer (of benefits), giver of food, guide hither your vigorous horses, defending (us) against foes, and protect (your worshippers); here unharness the bay steeds, and give them fodder, and you eat daily suitable food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Eat suitable food: sadṛśīr addhi **dhānāḥ** = eat suitable grains, i.e. fried barley, bhṛṣṭayavān
 </details>

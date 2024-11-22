@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imé ← ayám (pronoun)  
 {case:NOM, gender:F, number:DU}
 
@@ -199,11 +202,13 @@ vásudhitim ← vásudhiti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “His own **Niyut** steeds bear to the plural ce of poverty the white- complexioned dispenser of wealth, **Vāyu**,whom heaven and earth bore for the sake of riches, whom the divine language of praise sustains as a deity forthe sake of riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nireke = dāridryam from nitarām riktatā; or, alternative interpretation: a plural ce crowdedwith people, bahujanākīrṇe sthāne; from nir = nirgata;
 

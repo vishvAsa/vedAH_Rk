@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 márutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -120,7 +123,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “genitive rous fiends, **Maruts**, swift gliding (through the air), bring to us (the boon) of the medicaments thatbelong to your company.”
 </details>

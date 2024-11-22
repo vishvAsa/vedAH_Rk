@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amatrin ← amatrin- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ vyùṣṭau ← vyùṣṭi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful **Indra**, drinker of the **soma**, (actuated) by a profound and comprehensive (purpose), grant us food and strength; be ever diligent, benevolent Indra, for our protection by day and by night.”
 </details>

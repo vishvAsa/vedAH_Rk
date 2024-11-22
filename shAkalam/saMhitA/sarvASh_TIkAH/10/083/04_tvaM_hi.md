@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhíbhūtyojāḥ ← abhíbhūtyojas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -151,7 +154,8 @@ pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Manyu**, who are possessed of over-powering strength, self- existent, irate, the overcomer ofenemies, the beholder of all, enduring, vigorous, grant us strength in battles.”
 </details>

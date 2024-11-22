@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 antamásya ← antamá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All (creatures) approaching too near his confines are beheld with their faces turned away as (an enemy) flies from a combatant; obvious (to all), he penetrates the water for its destruction; great and unequalled is the might of the gods.”
 </details>

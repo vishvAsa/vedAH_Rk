@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -184,7 +187,8 @@ bhuvat ← √bhū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Devoted to the gods, pouring out to them libations, you, worshipper, shall not perish; the celebrator ofthe sacrifice, who desires to propitiate the mind of the gods, overcomes those who are no sacrificers.”
 </details>

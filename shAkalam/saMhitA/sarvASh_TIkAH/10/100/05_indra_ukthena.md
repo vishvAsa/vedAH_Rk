@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dadhe ← √dhā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -195,7 +198,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By his laudable strength **Indra** supports my limb; you, **Bṛhaspati**, are the prolonger of my life. May thesacrifice, the sage **Manu**, (being) our protector, (grant) us happiness. We long for the universal **Aditi**.”
 </details>

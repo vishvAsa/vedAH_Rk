@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrivaḥ ← adrivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -121,11 +124,13 @@ yán ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, thunderer, approaching in the form of a ram, have come to Medhyātithi, one of the race ofKaṇva, thus propitiating you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the form of a ram: Ṣaḍviṃśā **Brāhmaṇa** 1.1: the legend is also found inBāṣkala **Upaniṣad**; have come to: or, did carry off, ayaḥ = agamayaḥ
 </details>

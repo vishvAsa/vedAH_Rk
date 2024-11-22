@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 avás ← avás (invariable)  
 {}
 
@@ -218,7 +221,8 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offering oblations, (the worshippers) approach to the worship of **Indra** and **Agni**, who are of a whitecomplexion, and rise from below with bright rays to heaven; they verily have liberated the waters from bondage;may all our adversaries perish.”
 </details>

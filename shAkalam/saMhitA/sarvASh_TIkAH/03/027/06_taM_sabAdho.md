@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sabā́dhaḥ ← sabā́dhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -134,11 +137,13 @@ cakruḥ ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The exorcisers (of the demons), lifting up their ladles, and offering sacrifice, have called upon **Agni** by this ceremony for their protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The exorcisers: sabādhaḥ, repelling; the disturbers of sacred rites by repeating the **mantras** or charm for their destruction, **rakṣoghna** mantroccāraṇena tadviṣayabādhaḥ
 </details>

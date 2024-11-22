@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 giríḥ ← girí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -126,11 +129,13 @@ yemiré ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mountains are curbed, the rivers are restrained at your coming, for the upholding of your greatstrength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Or, when the mountains are curbed at your coming, (and) the rivers are stayed for the sustaining ofyour great strength; for the upholding: vidharmaṇe mahe śuṣmāya yemire = vidharaṇāya mahateyuṣmadīyāya balāya svayam eva niyamyante. The mountains and rivers are of their own accord restrainedfor sustaining your great strength; they abide ogether in one plural ce through fear of our coming and strength,**yuṣmad** yāmād balācca bhītyā ekatraikasthāne **niyatā** vartante
 </details>

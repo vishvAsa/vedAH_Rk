@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákhyam ← √khyā- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -219,7 +222,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, desirous of wealth, I consider you, in my mind, as kinsmen and relations; the clear understanding you have given me, (is given) by no one else, and (so gifted), I have composed this hymn to you, intimating my wish for sustenance.”
 </details>

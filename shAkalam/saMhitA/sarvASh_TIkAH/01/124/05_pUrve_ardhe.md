@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aptyásya ← aptyá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -195,7 +198,8 @@ upásthā ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Born in the eastern quarter of the spacious firmament, she displays a banner of rays of light. plural ced on the lap of both parents (heaven and earth), filling them (with radiance), she enjoys vast and wide-spread renown.”
 </details>

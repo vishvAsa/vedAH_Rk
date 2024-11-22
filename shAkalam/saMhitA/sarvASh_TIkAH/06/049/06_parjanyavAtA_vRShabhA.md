@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 párjanyavātā ← parjányāvā́ta- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -174,11 +177,13 @@ sthātar ← sthā́tar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Parjanya** and **Vāta**, showerers of rain, and from te firmament available waters; sage **Maruts**, hearers of the truth, establishers of the world, multiply the moveable (wealth of him) by whose praises (you are propitiated).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Multiply: jagad ākṛṇudhvam = **jagat**: fixed as well as moveable, all living things, jagat **sthāvara** jaṅgamātmakam sarvam prāṇijātam
 </details>

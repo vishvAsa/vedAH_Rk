@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular
-#### Morph
+_________
+**Morph**  
 aírayanta ← √īr- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -180,7 +183,8 @@ rirīhi ← √rā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring, **Indra**, to the cow-house (the cows) who offer their bodies to the gods, those of whom Somaknows all the properties, those that nourish us with their milk, and those that have calves.”
 </details>

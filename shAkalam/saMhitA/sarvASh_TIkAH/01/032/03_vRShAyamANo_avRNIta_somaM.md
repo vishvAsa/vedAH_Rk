@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -166,11 +169,13 @@ prathamajā́m ← prathamajā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Impetuous as a bull, he quaffed the **Soma** juice, he drank of the libation at the triple sacrifice. Maghvan took his shaft, the thunderbolt, and with it struck the first born of the clouds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Triple sacrifice: at the trikadrukas, three sacrifices termed **jyotiṣ**, gauḥ and āyu
 </details>

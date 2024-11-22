@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvaráḥ ← dvará- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is victorious over his enemies, who is spread through the dewy (firmament), the root of happiness, who is exhilarated by the **Soma** him I invoke, the most bountiful **Indra**, along with learned priests, with a mind disposed to pious adoration, for he is the bestower of abundant food.”
 </details>

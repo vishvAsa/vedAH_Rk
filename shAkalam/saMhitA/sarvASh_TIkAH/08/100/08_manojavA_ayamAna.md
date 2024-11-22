@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 áyamānaḥ ← √i- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -139,11 +142,13 @@ vajríṇe ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Suparṇa**, rushing swift as thought, passed through the metal city; then having gone to heaven hebrought the **Soma** to the thunderer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He brought the Soma to the thunderer: Legend : **Gāyatrī** as a bird fetchedSoma from heaven. āyasīm = metal, hiraṇmayīm, golden; an allusion to the cities of the demons as made ofmetal on earth, silver in the firmament and gold in heaven (**Aitareya** **Brāhmaṇa** 1.23)
 </details>

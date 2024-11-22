@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhúvanā ← bhúvana- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -206,11 +209,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As you glide along enveloping the regions (in clouds); where, then, are the parents (of the world)? curse him who arrests your arm; reply sternly to him who speaks disrespectfully (to you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The parents of the world: the sun and the moon, the protectors of the world, which, during the rains, are hidden by the clouds; who speaks disrespectfully: yaḥ prābravīt pra tasmā abravītana: pra prefixed to brū = either to speak harshly or kindly, to censure or to praise
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āṅgūṣám ← āṅgūṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ vr̥dháḥ ← vr̥dhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To this **Indra** has this earnest eulogy been addressed by the devout, in order that the all-pervading Indra may be our defender and exalter in the great conflict with (our) foes.”
 </details>

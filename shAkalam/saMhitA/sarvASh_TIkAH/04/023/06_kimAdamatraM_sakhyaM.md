@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámatram ← ámatra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,7 +211,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we in any manner proclaim your friendship for your friends? when may (we make known) your fraternal regard? the efforts of the well-looking **Indra** are for the happiness of all; the wonderful form of the moving (Indra) is, like the sun, ever wished for.”
 </details>

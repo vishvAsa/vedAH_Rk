@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhiṣájā ← bhiṣáj- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -202,11 +205,13 @@ yauṣṭam ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, physicians, sources of happiness, you both were (the objects) of **Dakṣa**'s praise; **Viśvaka** nowinvokes you for the sake of his son; sever not our friendships, but fling loose (your reins and gallop here).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Objects of Dakṣa's praise: an allusion to the thousand Ṛks uttered by Dakṣa or **Prajāpati**, i.e. the AśvināŚastra, which was won by the **Aśvins** in a race; cf. RV. 1.116.2; **Aitareya** **Brāhmaṇa** 45.7; sever not ourfriendships: as worshipper and object of worship
 </details>

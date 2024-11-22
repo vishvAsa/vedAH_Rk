@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsyè ← āsyà- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -128,7 +131,8 @@ saṁyátam ← saṁyát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer verily to him by the mouth (of the gods, **Agni**), the most savoury oblation, so that he may yield usfood unfailingly.”
 </details>

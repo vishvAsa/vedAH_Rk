@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 kṣeti ← √kṣi- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -119,11 +122,13 @@ sómaḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise **soma**, the bestower of exhilaration, dwells in the hall of (sacrifice), mixed with the waves of the river to a chant in the middle tone.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mixed with the waves of the river: i.e. the vasatīvari water; a chant in the middle tone: **gauri** **adhi** **śritaḥ**; cf. RV 8.007.10; another trnaslation: resting on an ox-hide, **gaurī** adhi = gor adhi **tvaci** (RV 9.101.11);
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápratītasya ← ápratīta- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ vīryàm ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We celebrate the exploits of Marutvat, the unrecoiling, the victorious, the undecaying; neither the ancients, **Maghavan**, nor their successors, have attained your prowess, nor has any one recent attained it.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ápi ← ápi (invariable)  
 {}
 
@@ -159,7 +162,8 @@ viśvā́yupoṣasam ← viśvā́yupoṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, yours are both celestial and terrestrial treasures; bestow upon us, on this occasion, life-sustaining riches.”
 </details>

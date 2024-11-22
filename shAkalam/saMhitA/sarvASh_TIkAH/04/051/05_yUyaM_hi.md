@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvaiḥ ← áśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -158,7 +161,8 @@ jīvám ← jīvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine Dawns, with horses that frequent sacrifices you quickly travel round the regions (of space); awake the sleeping being, whether biped or quadruped, to pursue (his functions).”
 </details>

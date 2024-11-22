@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {}
 
@@ -134,7 +137,8 @@ jigatnávaḥ ← jigatnú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These filtered **Soma** juices, intelligent, mixed with curds, swift-moving, firm in the water (are) brilliant as suns.”
 </details>

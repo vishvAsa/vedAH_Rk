@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́nām ← devá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -230,7 +233,8 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our sacrifice give satisfaction to the gods; **Ādityas**, be gracious, and may your good intentions be directed towards us, so as to be abundant source of affliction to the poor.”
 </details>

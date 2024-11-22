@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apáḥ ← áp- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -186,11 +189,13 @@ rudríyam ← rudríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke for protection the thrice seven flowing rivers, (their) great waters, the trees, the mountains,**Agni**, **Kṛśānu**, the archers, and **Tiṣya**, to the assembly; (we invoke) **Rudra**, worthy of the praise of the **Rudras**,for the good of the praisers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kṛśānu: the **gandharva** so named; the archers are the **gandharvas** accompanyinghim; they are the guardians, of the **Soma**;
 

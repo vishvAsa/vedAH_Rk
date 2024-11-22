@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -213,11 +216,13 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Auspiciously radiant and divine **Agni**, youngest (of the gods), grant ample wealth to the eminent(worshipper), who presents to you today cakes dressed with butter, and confer happiness upon one devoted tothe gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gomantam = radiant; from go, a ray of light; vrajamārga (a road), the way to the solar orb, the path ofthe gods
 </details>

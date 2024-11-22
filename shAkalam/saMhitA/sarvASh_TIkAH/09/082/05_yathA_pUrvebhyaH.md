@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámr̥dhraḥ ← ámr̥dhra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ vratám ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As you, **Indu**, did attain strength for the ancient (ṛṣis), giving them hundred-fold (wealth), invulnerable, giving them thousand-fold (wealth); so now flow for (our) modern prosperity; the waters wait upon your functions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vājam = strength;
 

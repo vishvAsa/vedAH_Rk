@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 pañcadaśā́ni ← pañcadaśá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -168,11 +171,13 @@ yā́vat ← yā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fifteen chief forms (are found) in a thousand plural ces; as heaven and earth are, so verily in that; thethousand great (functions) are in a thousand plural ces; as **Brahmā** is variably developed, so is Speech.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thousandfunctions are in a thusand plural ces: i.e., each action or function (as sight, hearing, etc.) has its own **viṣaya**, orobject; as Brahmā... so is Speech: i.e., everthing has a name
 </details>

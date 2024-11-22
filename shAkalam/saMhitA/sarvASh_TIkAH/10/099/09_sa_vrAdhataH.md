@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let him overthrow the mighty with powerful (weapons); he destroyed **Śuṣṇa** for the sake of the liberalKutsa; he humiliated **Kavi**, who praised him, who was the giver of form to **Indra** and his men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Kutsa**: kutsāyaśuṣṇamaśuṣam ni **barhīḥ** : RV 4.16.12; let him overthrow: **asya** = his, śavasānebhiḥ; or, asyatu, let himthrow;
 

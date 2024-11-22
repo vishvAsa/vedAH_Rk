@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhágaḥ ← bhága- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ samudraíḥ ← samudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And may the divine **Savitā** and **Bhaga**, and the grandson of the waters, (**Agni**), the prodigal of gifts, preserve us; and may **Tvaṣṭā** with the gods, and Earth with the seas, (preserve us).”
 </details>

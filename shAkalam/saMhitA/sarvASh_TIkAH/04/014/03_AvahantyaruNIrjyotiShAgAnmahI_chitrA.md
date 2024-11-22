@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -166,7 +169,8 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great and intelligent dawn, variegated with (many-coloured) rays of purple tint, bringing opulence, has come with (her) lustre; the divine Uṣas, arousing (the sleepers), proceeds with her well-harnessed car (to distribute) felicity.”
 </details>

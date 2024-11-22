@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arṣa ← √arṣ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -182,11 +185,13 @@ vāyū́n ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sending us rain from heaven, quick-falling, food-giving, giving health to our home, promptly munificent; flow, **Indu**, seeking these lower winds your kinsmen as (one seeking his) beloved infants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Giving health to our home: śaṃgayīm = sakhasya nivāsabhūtam, inhabiting happiness; the kinsmen: because **Indra** and the winds are in the relation of praised and praiser; **imān** vāyūn = us approaching you, asmān tvām abhigacchataḥ
 </details>

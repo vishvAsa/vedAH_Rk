@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imā́ ← ayám (pronoun)  
 {case:NOM, gender:N, number:PL}
 
@@ -170,7 +173,8 @@ víbhūtiḥ ← víbhūti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These earnest adorations of the much-desiring worshipper glorify you, hero, **Indra**, who are adorable; mounted on your car, undecaying, ever new, and to whom the wealth (of sacrifice), the most excellent opulence, proceeds.”
 </details>

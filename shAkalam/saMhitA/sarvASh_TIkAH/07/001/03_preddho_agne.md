@@ -29,14 +29,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -154,11 +157,13 @@ _____________
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Well-kindled, youthful **Agni**, shine before us with undecaying radiance; to you abundant sacrificialviands proceed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With undecaying radiance: ajasrayā **sūrmyā**: surmi = samitkāṣṭham, kindled wood; or itmay mean a metal stake or **post**, red hot; therefore, figurately, it denotes a flame
 </details>

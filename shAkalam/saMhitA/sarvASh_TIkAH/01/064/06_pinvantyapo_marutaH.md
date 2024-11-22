@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apáḥ ← áp- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -183,7 +186,8 @@ stanáyantam ← √stanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The munificent **Maruts** scatter the nutritious waters, as priests at sacrifices the clarified butter; as grooms lead forth a horse, they bring forth the rain from the fleeting-cloud, and milk it, thundering, and unexhausted.”
 </details>

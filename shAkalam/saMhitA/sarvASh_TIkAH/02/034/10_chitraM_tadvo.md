@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cekite ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -203,11 +206,13 @@ tritám ← tritá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, your marvellous energy is well known, whereby, seizing the udder of heaven, you milked it (of the rain, destroyed) the reviler of your worshipper, and (came), irresistible sons of **Rudra**, to **Trita** for the destruction of enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seizing the udder of heaven: pṛśnyā yad ūdhar api āpayo duhuḥ: **pṛśni** is identified with the firmament, and the udder is the cloud; changing the person n: your energy is known, by which they milked;
 

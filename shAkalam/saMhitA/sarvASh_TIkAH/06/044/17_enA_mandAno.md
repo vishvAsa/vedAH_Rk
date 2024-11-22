@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 enā́ ← ayám (pronoun)  
 {case:INS, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Exhilarated by it, valiant **Maghavan**, slay our unfriendly adversaries, whether kinsman or unrelated (to us); put to flight, **Indra**, hostile armies menacing us (with their weapons), and slay them.”
 </details>

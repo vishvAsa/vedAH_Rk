@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deṣṇám ← deṣṇá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -178,7 +181,8 @@ yamate ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Maghavan**, have determined what is to be given in the apportionment of much or of little wealth,for both your **hands** are full of treasure, and your sincere (promises) of riches do not restrain them.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átriḥ ← átri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ aśvinā ← aśvín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as **Atri**, escaping by your aid from the fire of chaff, conciliates you, like a wife soliciting the affection of a husband, therefore come with (your) propitious cars; with the new-born rapidity of the falcon.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fire of chaff: the fire here is called ṛbīsam tuṣāgnim, a fire of chaff
 </details>

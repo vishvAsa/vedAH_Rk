@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryavaḥ ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -187,7 +190,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, propitiate, by the offering of the **Soma** that **Indra**, who slew **Uraṇa**, displaying nine and ninety arms; and hurled **Arbuda** down headlong.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 bhuñjatīnā́m ← √bhuj- 2 (root)  
 {case:GEN, gender:F, number:PL, tense:PRS, voice:ACT}
 
@@ -176,7 +179,8 @@ viśvā́mitrāḥ ← viśvā́mitra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, the descendants of **Viśvāmitra**, sincerely praising you, **Indra**,by day for your protection,obtain your protecting (favours), may we obtain your recent (favours).”
 </details>

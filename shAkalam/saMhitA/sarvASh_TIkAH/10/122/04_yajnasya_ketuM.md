@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ketúm ← ketú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven (priests) bearing oblations worship **Agni**, the emblem of sacrifice, the first of the gods, thefamily priest, the possessor of food, the hearer (of our prayers), the anointed with butter, the shedder of moisture,propitiating the worshipper who propitiates him, divine, endowed with excellent might.”
 </details>

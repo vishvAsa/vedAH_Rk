@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -171,7 +174,8 @@ vásumantam ← vásumant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit today of the divine sun, his favour being propitiated, that wealth which is desirable. Benignant Heaven and Earth, bestow upon us riches, (consisting of) habitations and hundreds (of cattle and the like).”
 </details>

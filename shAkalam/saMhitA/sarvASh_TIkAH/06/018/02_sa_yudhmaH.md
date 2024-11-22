@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 khajakŕ̥t ← khajakŕ̥t- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ sahā́vā ← sahā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is ever the combatant, the donor, the engaged in battle, the sympathizer (with the sacrificer), the benefactor of many, the loud-sounding, the partaker of the stale libation, the stirrer up of dust (in strife), the chief protector of men the descendants of **Manu**, the endowed with strength.”
 </details>

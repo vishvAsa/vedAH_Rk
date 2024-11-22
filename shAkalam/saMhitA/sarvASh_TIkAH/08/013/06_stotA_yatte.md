@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 stotā́ ← stotár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -135,11 +138,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When your discriminating eulogist has addressed to you overpowering praises, then, if they areacceptable to you, they expand like the branches (of a tree).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Overpowering: i.e., able to overpower enemies,śatrūṇām prahasanasamarthāḥ
 </details>

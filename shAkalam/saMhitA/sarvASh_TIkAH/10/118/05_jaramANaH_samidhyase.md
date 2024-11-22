@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 idhyase ← √idh- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
 
@@ -119,7 +122,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bearer of oblations, glorified by the worshippers, you are kindled for the gods; as such do mortalsinvoke you.”
 </details>

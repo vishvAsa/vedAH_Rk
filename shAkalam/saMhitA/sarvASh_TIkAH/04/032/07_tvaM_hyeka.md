@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ékaḥ ← éka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ yandhi ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you alone, **Indra**, are lord over food combined with cattle; therefore do you grant us ample food.”
 </details>

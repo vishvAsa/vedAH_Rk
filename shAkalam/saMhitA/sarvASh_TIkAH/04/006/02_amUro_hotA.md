@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámūraḥ ← ámūra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ stabhāyat ← √stambhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The unperplexed, the sagacious, exhilarating **Agni**, the ministrant priest, has been plural ced among men for (the celebration of) sacrifices; like the sun, he spreads light above, and props the smoke above the sky like a pillar.”
 </details>

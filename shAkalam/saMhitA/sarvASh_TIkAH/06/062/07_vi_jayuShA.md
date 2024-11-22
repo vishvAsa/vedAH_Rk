@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrim ← ádri- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -165,7 +168,8 @@ sumatím ← sumatí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Riders in your car, you have penetrated the mountain by your triumphant chariot; showerers (of benefits) you heard the invocation of **Vadhrimatī**; you have nourished, bountiful givers, the cow of **Śayu**-- and in this manner displaying benevolence are you everywhere present.”
 </details>

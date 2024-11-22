@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsase ← √ās- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
 
@@ -141,11 +144,13 @@ vājayú ← vājayú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Up, why sit you still? Make our chariot the first; our food-seeking offering is near you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Food-seeking:vājayu = **annam** icchat;
 

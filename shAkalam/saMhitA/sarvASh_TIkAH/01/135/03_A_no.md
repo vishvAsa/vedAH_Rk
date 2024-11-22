@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -242,7 +245,8 @@ vā́yo ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come with hundreds and thousand of your steeds to our sacrifice to partake of (the sacrificial) food; (come), **Vāyu**, to partake of the oblations; this is your reasonable portion, and it is radiant along with the sun; the **Soma** (portions) borne by the priests are prepared; the pure Soma (portions), Vāyu, are prepared.”
 </details>

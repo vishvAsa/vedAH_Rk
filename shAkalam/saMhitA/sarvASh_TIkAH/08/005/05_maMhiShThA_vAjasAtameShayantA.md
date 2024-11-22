@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 máṁhiṣṭhā ← máṁhiṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -107,7 +110,8 @@ gr̥hám ← gr̥há- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Most adorable bestowwers of strength, distributors of food, lords of opulence, repairers to the dwellingof the donor (of the oblation).”
 </details>

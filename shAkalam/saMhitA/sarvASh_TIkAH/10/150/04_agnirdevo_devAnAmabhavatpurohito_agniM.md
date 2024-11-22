@@ -23,15 +23,18 @@ ChandaH = "उपरिष्टाज्ज्योतिर्जगती �
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhavat ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 

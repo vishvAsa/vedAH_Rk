@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ pārthavā́nām ← pārthavá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The opulent supreme sovereign Abhyāvartin, the son of Cāyamāna, presents, **Agni**, to me two damsels riding in cars, and twenty cows; this donation of the descendant of **Pṛthu** cannot be desroyed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Two damsels: dvayān rathino viṃśati gā vadhūmantaḥ = rathasahitān vadhūmataḥ strīyuktān dvayān mithunabhūtān, being in pairs, having women together with cars; twenty animals, paśūn; perhaps, the gift comprised of twenty pairs of oxen yoked two and two in chariots; the gift of feminine les to saintly person ns; this donation: dūṇāśeyam **dakṣiṇā** pārthavānām = nāśayitum aśakyā;
 

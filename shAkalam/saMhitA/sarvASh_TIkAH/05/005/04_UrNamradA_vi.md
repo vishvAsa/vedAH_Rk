@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prathasva ← √prathⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -122,11 +125,13 @@ sātáye ← sātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Grass), soft as **wool**, be spread; the worshippers praise you; be to us radiant (grass the source of) liberality.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 (Grass): the **barhis**
 </details>

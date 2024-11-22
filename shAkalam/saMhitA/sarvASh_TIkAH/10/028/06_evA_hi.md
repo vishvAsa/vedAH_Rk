@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -204,11 +207,13 @@ mā ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra** speaks). Since (your laudations) thus increase my strength, (let the praise of me) who ammighty, (rise) even higher than the heavens. I destroy at once many thousand (of foes), for the genitive rator (of all)has engendered me without an enemy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Increase my strength: tavasam = augment me so as to make me strong;genitive rator: aśatrum = the genitive rator has engendered me, without any enemies whom I could not overcome
 </details>

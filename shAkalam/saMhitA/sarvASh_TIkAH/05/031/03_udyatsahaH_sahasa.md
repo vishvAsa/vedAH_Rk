@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -191,7 +194,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the light (of the sun) overpowers the light (of the dawn) **Indra** grants all (sorts of) wealth (to the worshipper); he has liberated the kine from the interior of the obstructing (mountain); he dissipates the enveloping darkness with light.”
 </details>
@@ -214,7 +218,8 @@ An etymological sequence -- táviṣīm (2d), táviṣībhiḥ (3b), távyān (3
 
 The sequence of vs.-init. t(i)yá- cid ‘that very one’ discussed in the published introduction.
 
-begins in 3a with t(i)yásya cid (and continues with t(i)yáṃ cid in 4a, 5a, 6a, 8a). Note that it follows distracted vs.-init. t(u)vám in 2a and second-position cid in 2c: combining the two produces, by variation, t(i)yáṃ cid. That cid in 2c follows áhim ‘serpent’ provides the referent for the t(i)yá- forms to follow. The sequence comes to a temporary close in vs. 6, with táṃ cid opening pāda c a variant of t(i)yáṃ cid opening 6a. There is then a brief revival of the phrase in 8a, after skipping a vs. ### 03
+begins in 3a with t(i)yásya cid (and continues with t(i)yáṃ cid in 4a, 5a, 6a, 8a). Note that it follows distracted vs.-init. t(u)vám in 2a and second-position cid in 2c: combining the two produces, by variation, t(i)yáṃ cid. That cid in 2c follows áhim ‘serpent’ provides the referent for the t(i)yá- forms to follow. The sequence comes to a temporary close in vs. 6, with táṃ cid opening pāda c a variant of t(i)yáṃ cid opening 6a. There is then a brief revival of the phrase in 8a, after skipping a vs. _________
+**03**  
 In c ékaḥ … apratíḥ “alone (and) unopposable” applies to (the unnamed) Vṛtra, but these two words appear elsewhere similarly juxtaposed but applied to opposing referents: IV.17.19 bhū́rīṇy éko apratī́ni hanti “alone he smashes the many unopposable things” and VIII.90.5 tváṃ vr̥trā́ṇi haṃsy apratī́ny éka íd “You, alone, smash the unopposable obstacles.” This is another example of this hymn taking standard phraseology and turning it on its head. Note that an almost identical phrase, ékaḥ … ápratītaḥ (again with the two words in the same case with the same referent), is applied to Indra in 9b in the triumphant announcement of his universal superiority (see published introduction.). Though Vṛtra thought (mányamānaḥ) he had these qualities in our 3c, Indra possesses them for real -- as shown by the phraseological transfer from the one to the other.
 
 </details>

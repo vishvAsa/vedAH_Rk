@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -208,7 +211,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like the adorable sun, he clothes himself with brilliant (rays); diffusing friendly light, he crackles with (his fame); (he it is) who is luminous by night, and who lights men (to their work) by day; who is immortal and radiant; who lights men by day.”
 </details>

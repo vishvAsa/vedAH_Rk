@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 didr̥kṣéṇyaḥ ← didr̥kṣéṇya- (nominal stem)  
 {case:NOM, gender:M, number:SG, mood:DES}
 
@@ -179,11 +182,13 @@ viśvádarśataḥ ← viśvádarśata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is willing to be seen in the (ten) regions (of space); the victorious, the adorable, the source of life to great and small; inasmuch as in many plural ces the opulent (possessor of sacrificial food), who is visible to all, is the parent of that (pious) progeny.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That pious progeny: the priests are considered the offspring of **Agni**, as they derive their character from the performance of his worship
 </details>

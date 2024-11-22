@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -204,7 +207,8 @@ pūrváhūtau ← pūrváhūti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you Uṣas bring me opulence, for unoposed you bear with your oxen (wealth to your worshippers), according to your satisfaction; daughter of heaven, you who are divine, who are lovely, are to be worshipped at the first (daily) rite.”
 </details>

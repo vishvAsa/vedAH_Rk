@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 idám ← ayám (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -181,11 +184,13 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This widely-spread and sense-bestowing light has sprung up in the east from out of the darkness; verily the brilliant Dawns, the daughters of heaven, are giving to man (the faculty to act).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gātum kṛṇavan janāya = yajamānānām gamanādi **vyāpāra** sāmarthyam akurvan, they give to the offerer of sacrifice the ability to perform the acts such as going
 </details>

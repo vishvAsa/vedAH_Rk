@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 brahmaṇaḥ ← bráhman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -131,7 +134,8 @@ pātu ← √pā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Brahmaṇaspati**, and do you, **Soma**, **Indra** and **Dakṣiṇā** (= present person nified as a feminine le divinity), protect that man from sin.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sarasvaḥ ← sárasvant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -123,7 +126,8 @@ tébhiḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those your waves Sarasvat, which are sweet-tasted, the distributors of water, be our protector.”
 </details>

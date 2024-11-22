@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyát ← anyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -154,11 +157,13 @@ rájāṁsi ← rájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You hae arrested one luminous wheel of (your) car for illumining the form (of the sun), while with the other you traverse the spheres (to regulate) by your power the ages of mankind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You have arrested one luminous wheel: īrmā anyad vapuṣe vapuścakram rathasya yemathuḥ: īrma = rūpam, form;
 

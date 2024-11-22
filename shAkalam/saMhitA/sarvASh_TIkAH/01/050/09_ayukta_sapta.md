@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyukta ← √yuj- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -126,11 +129,13 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The Sun has yoked the seven mares that safely draw his chariot, and comes with them self-harnessed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sapta śundhyuvaḥ; **aśva**-stṛyaḥ = mares; they are also naptyaḥ, since the car does not fall because of them, yābhir na patati **rathaḥ**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be propitiated, **Agni**, by these hymns, accept, hero, these (sacrificial) viands (presented) with praises; be plural ased, **Aṅgiras**, by our prayers; may the adoration addressed to the gods exalt you. (**Taittirīya** Samhitā 10.62.5)”
 </details>

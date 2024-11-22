@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyáḥ ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -210,11 +213,13 @@ vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One of you it titled supreme monarch, so is the other; mighty and most opulent are you, **Indra** and all thegods in the highest heaven, showerers (of benefits), have combined your united strength, (your) maid vigouṛ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Supreme monarch; **Varuṇa** and Indra are called, respectively, **samrāj** ans svarāj (as inferred from RV2.041.06; and RV. 1.061.09);
 

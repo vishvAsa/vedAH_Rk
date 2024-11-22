@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -181,7 +184,8 @@ saparyátaḥ ← √sapary- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship him who is exhilarated by the sacrificiial food, the mighty **Indra**; the leader of all men, thecreator of all, whose venerable strength and abundant food and wealth, heaven and earth adore.”
 </details>

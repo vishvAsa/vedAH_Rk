@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 árvadbhiḥ ← árvant- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -124,11 +127,13 @@ tváyā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Favoured) by you, **Indra**, (who are propitiated), by our hymns, (we ovecome) with our steeds the steeds (of the enemy), and we conquer abundant food, and the wealth held (by the foes).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Literally, with praises, by horses, horses food, excellent Indra by you, we conquer deposited wealth
 </details>

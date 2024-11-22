@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -173,7 +176,8 @@ svarvídam ← svarvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having repelled revilers and (dispersed) the darkness you stand **Bṛhaspati**, on the radiant chariot of sacrifice, (which is) formidable (to foes), the humiliator of enemies, the destroyer of evil spirits, the cleaver of the clouds, the attainer of heaven.”
 </details>

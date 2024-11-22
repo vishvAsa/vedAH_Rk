@@ -23,15 +23,18 @@ ChandaH = "विराट् त्रिष्थुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 apāyi ← √pā- 2 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -185,7 +188,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma**, creator (of all), on the path of sacrifice, has been drunk; the worshippers have presented it to gratify the mind (of **Indra**); may he, the humiliator (of his foes), possessing a vast body, propitiated by our praises, become manifest to our view.”
 </details>

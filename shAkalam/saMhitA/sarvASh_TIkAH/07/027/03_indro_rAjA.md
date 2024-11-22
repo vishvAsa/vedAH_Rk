@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -184,7 +187,8 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** is lord of the earth and of men; (his is) the various wealth that exists upon the earth; thence hegives riches to the donor (of oblations); may he, glorified by us, bestow upon us wealth.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 íṣaḥ ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -191,7 +194,8 @@ sárvaḥ ← sárva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He enlarges his dweling, he has abundant food who offers you (oblations) to obtain a blessing; throughhis pious acts he is born on every side in his children; all prosper (through your favour) unharmed (by enemies).”
 </details>

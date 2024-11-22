@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 amŕ̥tasya ← amŕ̥ta- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -182,11 +185,13 @@ viveśa ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where the smooth-gliding (rays), cognizant (of their duty), distil the perpetual portion of ambrosia (water); there has the lord and steadfast protector all beings consigned me, (though) immature (in wisdom).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Smooth-gliding: supraṇa = supatanaḥ **śobhana** **gamana** raśmayaḥ, the goers easily or beautifully, the rays of the sun; consigned me: **Āditya** has admitted, or admits me, the reciter of the hymn, to the sphere of the sun
 </details>

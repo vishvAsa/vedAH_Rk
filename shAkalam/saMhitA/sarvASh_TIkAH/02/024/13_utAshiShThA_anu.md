@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -203,7 +206,8 @@ vājī́ ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The very swift horses (of **Brahmaṇaspati**) listen to (our invocation); the priest of the assembly offers with praise the (sacrificial) wealth; may Brahmaṇaspati, the hater of the oppressor, accept (the payment of) the debt, agreeably to his plural asure; may he be the accepter of the (sacrificial) food presented at this ceremony.”
 </details>

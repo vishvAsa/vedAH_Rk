@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ savitā́ram ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invite to this plural ce, with reverential salutations, for my good, that divine **Savitā**, whose functions neither **Indra**, nor **Varuṇa**, nor **Mitra** nor **Aryaman** nor **Rudra** nor the enemies (of the gods), impede.”
 </details>

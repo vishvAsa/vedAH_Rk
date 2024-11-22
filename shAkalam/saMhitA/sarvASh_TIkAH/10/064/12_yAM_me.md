@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dévāḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -202,7 +205,8 @@ váhātha ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, **Indra**, gods, **Varuṇa** and **Mitra**, reward the worship, which you have given as (men fatten) the(newly-delivered) cow with milk, you have repeatedly put my praises on your car.”
 </details>

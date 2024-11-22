@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśastavāraḥ ← áśastavāra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ muṣāyán ← √muṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, our unsolicited benefactor, the mighty one, from whom blame is far removed, come with theRudras, having quit his dwelling. I think of the two (parents) of Vamra, who are free from fever. Having obtained(the enemy's) food, he called aloud while stealing it.”
 </details>

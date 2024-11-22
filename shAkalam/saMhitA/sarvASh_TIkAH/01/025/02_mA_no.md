@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hatnáve ← hatnú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -113,7 +116,8 @@ manyáve ← manyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Make us not the objects of death, through your fatal indignation, through the wrath of you so displeasured.”
 </details>

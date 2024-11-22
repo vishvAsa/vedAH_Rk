@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyám ← divyá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -161,11 +164,13 @@ vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Milking the exhilarating agreeable celestial udder (the **Soma**) sits down on its ancient plural ce of aggregation (the firmament); food-giving, cleansed by the priests, observant it flows to the commendable worshipper.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The...celestial udder: i.e., the Soma
 </details>

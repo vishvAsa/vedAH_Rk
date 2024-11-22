@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apásām ← apás- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ skámbhanebhiḥ ← skámbhana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He it is, amongst gods (the most divine), amongst (pious) works the most pious, who gave birth to the all-delighting heaven and earth; who measured them both, and, for the sake of holy rites, propped them up with undecaying pillars.”
 </details>

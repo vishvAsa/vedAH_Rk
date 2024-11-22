@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -218,7 +221,8 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer (of benefits),beholder of men, radiant amid darkness, shine, **Agni**, with abundant (rays) in due order; granter of dwellings, conduct us (to good), keep off all ill, and youngest (of all the gods), gratify our desires for wealth.”
 </details>

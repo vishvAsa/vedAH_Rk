@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -184,11 +187,13 @@ vr̥ṣasva ← √vr̥ṣ- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, who deserves the twofold adoration, (of praise and prayer), who goes everywhere, theshowerer of benefits, come to the offered sacrificial food with his two bay horses; O slayer of enemies,(exhilarated) at our sacrifice (by drinking) of the **Soma** effused upon the cow-hide and poured (into the cups),rush like a bull upon the dispirited (foes).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rush like a bull: shower always upon your mallet the Soma effused
 </details>

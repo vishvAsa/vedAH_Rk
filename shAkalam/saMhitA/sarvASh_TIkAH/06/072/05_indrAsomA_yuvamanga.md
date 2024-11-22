@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṅgá ← aṅgá (invariable)  
 {}
 
@@ -155,7 +158,8 @@ vivyathuḥ ← √vyā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Soma**, do you promptly bestow upon us preservative, renowned (riches), accompanied by offspring; for you, fierce (divinities), have disseminated among men, strength, useful to man, victorious over hostile acts.”
 </details>

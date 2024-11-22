@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhamā́n ← adhamá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -175,11 +178,13 @@ vádhatraiḥ ← vádhatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, you have made these **Dasyus** devoid of all (good qualities); you have made the races without rites abject; may you, (**Soma** and Indra), repel (and) destroy (your) enemies; accept (our) homage for their destruction.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You have made the servile races abject: **viśa** dāsīr akṛṇora **praśastāḥ**: **dāsiḥ** as the adjective of **viśaḥ**, **prajāḥ**, people, men, is explained: karmahīnāḥ, having no special or religiously instrumental tuted rites or functions;
 

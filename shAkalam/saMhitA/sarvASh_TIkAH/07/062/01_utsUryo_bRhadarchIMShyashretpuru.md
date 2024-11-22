@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcī́ṁṣi ← arcís- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -208,11 +211,13 @@ súkr̥taḥ ← súkr̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sūrya** spreads his vast and numerous rays over all the crowds of men; shining bright by day, he isbeheld (by all) the same, the creator, the created, he is glorified by his worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The creator: kratvā **kṛtaḥ**= sarvasya **kartā** prajāpatinā sam;pāditaḥ, the maker of all produced by **Prajāpati**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nāsatyau ← nā́satya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -145,7 +148,8 @@ ghr̥taścútam ← ghr̥taścút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give, **Nāsatyās**, food of many kinds dripping with butter to him, the ṛṣi **Vatsa**, who has magnifiedyou both with hymns.”
 </details>

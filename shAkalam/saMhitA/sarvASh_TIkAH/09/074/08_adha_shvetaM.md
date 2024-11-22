@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -177,11 +180,13 @@ kakṣī́vate ← kakṣī́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus the **Soma** successfully reaches the white water besprinkled pitcher like a horse (reaching) the goal; the devout (priests) stimulate him with their praise; (he bestows) cattle upon **Kakṣīvat** who has seen a hundred winters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Successfully reaches: sasavān = saṃbhajan, enjoying, possessing; who has seen a hundred winters: śatahimāya = bahugamanāya, i.e. one who attains many things; elsewhere, śatahimāya = aparimita-**kālā**, lasting for an endless time
 </details>

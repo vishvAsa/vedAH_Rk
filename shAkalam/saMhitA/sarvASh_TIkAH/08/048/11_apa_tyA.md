@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 ámīvāḥ ← ámīvā- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -182,7 +185,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those irremovable sicknesses depart; let those strong (pains) which have made us tremble, beafraid; the mighty **Soma** has climbed into us, we have attained that (draught) by which men prolong life.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádite ← áditi- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -218,7 +221,8 @@ támisrāḥ ← támisrā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aditi**, **Mitra**, **Varuṇa**, have pity upon us, even though we may have committed some offence against you; may I obtain, **Indra**, that great light which is free from peril; let not the protracted glooms (of night) envelop us.”
 </details>

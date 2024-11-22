@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áprakṣitam ← áprakṣita- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -190,11 +193,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You hold in your **hands** unexhausted wealth; you, renowned (**Indra**), have irresistible strength in your body; your limbs are invested with (glorious) exploits, as well as (are surrounded by those who come for water); in your member, Indra, are many exploits.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The simile is with wells
 </details>

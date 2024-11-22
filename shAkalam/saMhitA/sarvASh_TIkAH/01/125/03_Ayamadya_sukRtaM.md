@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -173,11 +176,13 @@ vardhaya ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous (of again beholding you), I have this day obtained you, who have done in the morning a good deed; the performer of a sacrifice with a wealth-laden car, refresh yoursel fwiththe effused libation of the exhilarating (**Soma**), and augment with sincere prayers (the prosperity) of the chief of the flourishing race.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Iṣṭeḥ putram = lit. the son of sacrifice;
 

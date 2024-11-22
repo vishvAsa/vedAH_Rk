@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adbhíḥ ← áp- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -184,7 +187,8 @@ svádasva ← √svad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purified **Soma**, when you are diluted with the water your juice passes through the woollen fleece; cleansed by the sages, O exhilarating purified (Soma), be sweet-flavoured for **Indra** to drink.”
 </details>
@@ -197,7 +201,8 @@ Being groomed by the poets, become sweet for Indra to drink, o most  exhilaratin
 
 <details><summary>Jamison Brereton Notes</summary>
 
-As I just noted, this vs. seems to be an extra-hymnic afterthought and is stylistically and thematically detached from the rest of the hymn. It is the only one containing 2nd ps. reference, which is insistently carried here by four vocc. (a soma, b pavamāna, c madintama, d pavamāna), an enclitic prn. te (a), and an impv. (d svádasva). It also contains only the 2nd naming of soma (cf. 7b) and the only forms of the root √pū, as well as other standards of the somic lexicon (a rása-; b ávyo vā́ram, ví √dhāv; c √mṛj, madintama; d índrāya … pītáye). In other words, all the clichés - maddeningly absent from the rest of the hymn - are trotted out, like a global example of poetic repair, as if to say, “if you were too dim to figure it out, this is what it was about!” It is not possible to decide whether Kakṣīvant himself added this magic decoder ring or whether it was appended secondarily. IX.74 is the last of the 9-vs. trimeter hymns, so it could have originally been an 8-vs. hymn to which the clarifying vs. was added. The fact that vs. 8 is in Triṣṭubh in an otherwise Jagatī hymn might indirectly suggest that, since final vss. are sometimes in a different meter from the rest of their hymn and, if we remove vs. 9, vs. 8 would be the final vs., ending with Kakṣīvant’s plea for dāna. But it is certainly possible to imagine Kakṣīvant having his little joke by supplying the key to the hymn in an appendix vs. ### 75-79
+As I just noted, this vs. seems to be an extra-hymnic afterthought and is stylistically and thematically detached from the rest of the hymn. It is the only one containing 2nd ps. reference, which is insistently carried here by four vocc. (a soma, b pavamāna, c madintama, d pavamāna), an enclitic prn. te (a), and an impv. (d svádasva). It also contains only the 2nd naming of soma (cf. 7b) and the only forms of the root √pū, as well as other standards of the somic lexicon (a rása-; b ávyo vā́ram, ví √dhāv; c √mṛj, madintama; d índrāya … pītáye). In other words, all the clichés - maddeningly absent from the rest of the hymn - are trotted out, like a global example of poetic repair, as if to say, “if you were too dim to figure it out, this is what it was about!” It is not possible to decide whether Kakṣīvant himself added this magic decoder ring or whether it was appended secondarily. IX.74 is the last of the 9-vs. trimeter hymns, so it could have originally been an 8-vs. hymn to which the clarifying vs. was added. The fact that vs. 8 is in Triṣṭubh in an otherwise Jagatī hymn might indirectly suggest that, since final vss. are sometimes in a different meter from the rest of their hymn and, if we remove vs. 9, vs. 8 would be the final vs., ending with Kakṣīvant’s plea for dāna. But it is certainly possible to imagine Kakṣīvant having his little joke by supplying the key to the hymn in an appendix vs. _________
+**75-79**  
 This next group of hymns is attributed to Kavi Bhārgava, also the poet of the Gāyatrī hymns IX.47-49. They are refreshingly free of the puzzles and contortions of the first set of trimeter hymns.
 </details>
 

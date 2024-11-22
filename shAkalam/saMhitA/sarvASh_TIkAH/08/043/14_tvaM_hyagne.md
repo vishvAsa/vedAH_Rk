@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -137,11 +140,13 @@ samidhyáse ← √idh- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are kindled by Agni; a sage by a sage, saint by a saint, a friend by a friend.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A saint by asaint: San, satā = vidyamānaḥ, vidyamānena; **Aitareya** **Brāhmaṇa** 1.16: the fire was produced by frictionfrom the two **araṇis** and was thrown into the **āhavanīya** fire, in the atithyeṣṭi ceremony; in the verse tvamhyagne..., the one **vipra** (a sage) means one Agni, the other vipra the other Agni; the one san (being, existing)means the one, the other san (in satā) the other Agni (Haug)
 </details>

@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pūṣan ← pūṣán- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -268,7 +271,8 @@ vā́je-vāje ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through your friendship, **Pūṣan**, they who are diligent in your praise and assiduous in your worship enjoy (abundance), through your protection; by (assiduous) worship they enjoy (abundance); as consequent upon your recent favour, we solicit infinite riches. Free from anger, and entitled to ample praise, be ever accessible to us; be our leader in every encounter.”
 </details>

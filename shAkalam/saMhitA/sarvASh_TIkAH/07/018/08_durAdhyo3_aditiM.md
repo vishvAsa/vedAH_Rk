@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditim ← áditi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -159,11 +162,13 @@ paśúḥ ← paśú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The evil-disposed and stupid (enemies of **Sudāsa**), crossing the humble Paruṣṇi river, have brokendown its banks; but he by his greatness pervades the earth, and **Kavi**, the son of Cāyamana, like a fallingvictim, sleeps (in death).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sleeps in death: killed Sudāsa
 </details>

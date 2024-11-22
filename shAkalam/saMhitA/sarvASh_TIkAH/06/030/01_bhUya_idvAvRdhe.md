@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -194,7 +197,8 @@ ubhé ← ubhá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Again has **Indra** increased (in strength) for (the display of) heroism; he, the chief (of all), the undecayable, bestows riches (on his votaries); Indra surpasses heaven and earth; a mere portion of him is equal to both earth and heaven.”
 </details>

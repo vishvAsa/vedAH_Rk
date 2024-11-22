@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bharatásya ← bharatá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ pári ← pári (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These sons of **Bharata**, **Indra**, understand severance (from the **Vasiṣṭhas**), not association (with them); they urge their steeds (against them) as against a constant foe; they bear a stout bow (for their destruction) in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sons of Bharata: descendants of **Viśvāmitra** whose enmity to the lineage of **Vasiṣṭha** is here expressed; the enmity reportedly occurred on account of Viśvāmitra's disciple the **Rājā** **sudās**; Anukramaṇikā states that Vasiṣṭhas hear not the inimical imprecations: **antya** abhiśaparthas ta vasiṣṭadevaṣiṇyaḥ na **vasiṣṭhaḥ** śṛṇvanti;
 

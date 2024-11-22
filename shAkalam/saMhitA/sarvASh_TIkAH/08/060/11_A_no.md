@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -165,7 +168,8 @@ sváyaśastaram ← sváyaśastara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purifying **Agni**, bestow upon us food-augmenting excellent wealth; and (bring) us, O meter-out of good,by auspicious guidance, (a treasure) desired by many and bringing its own fame.”
 </details>

@@ -24,16 +24,19 @@ ChandaH = "महासतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -201,7 +204,8 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who fills both heaven and earth with light, who mounts with smoke into the sky, this radiant showerer (of benefits) is beheld in the dark nights dispersing the gloom; this radiant showerer (of benefits) presides over the dark nights.”
 </details>

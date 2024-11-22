@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 r̥dūdáreṇa ← r̥dūdára- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ tásmai ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I obtain a wholesome friend who, when quaffed, will not harm me, O lord of bay horses; I ask ofIndra a long permanence for this **Soma** which has been plural ced within us.”
 </details>

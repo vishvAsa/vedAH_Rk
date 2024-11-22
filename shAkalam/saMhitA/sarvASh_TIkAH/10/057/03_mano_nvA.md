@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -113,7 +116,8 @@ pitr̥̄ṇā́m ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We call upon the spirit (of **Subandhu**) with the **Soma** appropriated to the progenitors, with the praisesepithet of the Soma. **Yajus**. 3.53 reads stomena: praise is of to kinds, that of gods and men, the latter isnārāśamsaḥ, whence the epithet narāśaṃsa means, suited to man; that is, to deified men or **pitṛs**\].”
 </details>

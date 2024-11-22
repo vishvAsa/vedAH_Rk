@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akṣṇáḥ ← ákṣi ~ akṣán- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -132,11 +135,13 @@ nicirā́ ← nicirá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through knowers of the path, even before the eye (can see), causing (alll beings) to open their eyelids,existing from of old, and shining with a mild radiance, verily they have been worshipped.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ṛca is a referenceto **Mitra** and **Varuṇa** as respectively presiding over day and night, ahorātrayor vyāptena tejasā
 </details>

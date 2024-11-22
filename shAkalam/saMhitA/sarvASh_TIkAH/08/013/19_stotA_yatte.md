@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 ánuvrataḥ ← ánuvrata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -141,7 +144,8 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your worshipper is observant of his duty, inasmuch as he offers prayers indue season; for you are hewho is called pure, purifying, wonderful.”
 </details>

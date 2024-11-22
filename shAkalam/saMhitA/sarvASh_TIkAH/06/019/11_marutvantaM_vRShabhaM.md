@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 marútvantam ← marútvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ ugrám ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke on this occasion for his present protection, that **Indra** who is attended by the **Maruts**; who is the showerer (of benefits); augmenting (in prowess); the unreviled of foes, radiant, ruling, all-subduing, fierce, the giver of strength.”
 </details>

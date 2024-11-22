@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -212,7 +215,8 @@ sahásradhārā ← sahásradhāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I attract, O gods, for my protection, your adorable, divine mine, which is deserving of sacrifice andworship here; may it milk forth for us, like a large cow with milk, giving a thousand strreams, (having eaten)fodder and returned.”
 </details>

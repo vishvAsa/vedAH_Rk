@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -177,7 +180,8 @@ pínvatam ← √pinv- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Varuṇa**, you have forced open by your strength the barriers of the waters; you haveestablished **Sūrya** as the lord in heaven; in the exhilaration of the inspiring (**Soma**) you have replenished the dry(beds of the rivers); do you also fulfil the objects of our sacred rite.”
 </details>

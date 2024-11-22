@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhíkṣamāṇe ← √bhaj- (root)  
 {case:NOM, gender:F, number:DU, tense:PRS, voice:MED, mood:DES}
 
@@ -177,7 +180,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Impelled by **Indra**, soliciting (his commands), you go to the ocean like charioteers (to their goal); flowing together, and swelling with (your) waves, bright (rivers) one of you proceeds to the other.”
 </details>

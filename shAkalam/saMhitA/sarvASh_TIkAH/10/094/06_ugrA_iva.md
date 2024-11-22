@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -182,7 +185,8 @@ protháthaḥ ← prothátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bearing the burden of the sacrifice, yoked with (the **Soma**), they extend themselves like spiritedhorses; when panting and extracting (the Soma), they cried aloud, their snoring is heard like that of horses.”
 </details>

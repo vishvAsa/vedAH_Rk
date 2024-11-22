@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arvā́ñcam ← arvā́ñc- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -138,11 +141,13 @@ tiróahnyam ← tiróahnya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship with conjoint invocations, **Agni**, the present deified being; bounteous divinities, this is the **Soma** juice; drink it, for it was yesterday expressed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tiro-ahnyam: an epithet of the prepared Soma;
 

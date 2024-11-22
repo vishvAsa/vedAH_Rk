@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tā́ni ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:PL}
 
@@ -179,11 +182,13 @@ vayúneṣu ← vayúna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, **vaiśvānara**, these your mighty deeds no one can resist; when born on the lap of your parents, you have stationed the banner of the days on the paths of the firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lap of your parents: i.e., antarkṣa, or firmament
 </details>

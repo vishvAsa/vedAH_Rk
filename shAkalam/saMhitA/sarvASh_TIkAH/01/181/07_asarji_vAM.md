@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásarji ← √sr̥j- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -176,7 +179,8 @@ yā́man ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, creators, the perpetual threefold hymn addressed to you, has been uttered, (to secure) your steady (favour); thus glorified protect him who solicits (your bounty), and whether moving or resting, hear his invocation.”
 </details>

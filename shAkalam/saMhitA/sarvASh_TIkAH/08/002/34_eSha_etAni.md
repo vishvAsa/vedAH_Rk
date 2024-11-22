@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 cakāra ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -132,11 +135,13 @@ vājadā́vā ← vājadā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Indra** has made all these (beings), who is thence exceedingly renowned; he is he donor of food toopulent worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Has made all these beings: etāni viśvāni **cakāra**, he has made all these, eitherbhūtajātāni, all beings, or he has performed all these exploits : the death of **Vṛtra** and the like.
 </details>

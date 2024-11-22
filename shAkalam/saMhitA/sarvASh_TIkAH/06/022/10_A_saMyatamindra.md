@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -174,7 +177,8 @@ vajrin ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Brin to us, **Indra**, concentrated, vast and unassailable prosperity beyond the reach of enemies, and by which, wielder of the thunderbolt, you have rendered human enemies, whether **Dāsas** or **Āryas**, easy to be overcome.”
 </details>

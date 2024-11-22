@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -144,7 +147,8 @@ vakṣati ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty one knows how to bestow the (desired) wealth (upon the worshipper); he knows the ascents of heaven; may he bring the gods hither.”
 </details>

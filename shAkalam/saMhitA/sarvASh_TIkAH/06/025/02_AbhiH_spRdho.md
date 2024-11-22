@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́bhiḥ ← ayám (pronoun)  
 {case:INS, gender:F, number:PL}
 
@@ -176,7 +179,8 @@ víśaḥ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Induced) by these (praises), protecting our assailing host, baffle, **Indra**, the wrath of the enemy; (induced) by them, overthrow, on the part of the **Ārya**, all the servile people everywhere abiding.”
 </details>

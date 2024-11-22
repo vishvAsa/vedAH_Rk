@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 abhakṣi ← √bhaj- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -168,7 +171,8 @@ saṁcáranti ← √carⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I, the wise and devout, enjoy the delicious, abundantly honoured **Soma** food, which all gods andmortals, pronouncing sweet, seek to obtain.”
 </details>

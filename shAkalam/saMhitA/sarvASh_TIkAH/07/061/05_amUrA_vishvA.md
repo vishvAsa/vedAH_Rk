@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámūrā ← ámūra- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -202,7 +205,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unperplexed, all-pervading showerers (of benefits), these (praises) are for you, in which nothingsurprising, no adoration (worthy of you) is beheld; the insincere commendations of men serve as offences;eulogies of you, althogh offered in secret, are not unappreciated.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 ānuṣák ← ānuṣák (invariable)  
 {}
 
@@ -116,7 +119,8 @@ str̥ṇītá ← √str̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the sacrifice most solemnly offered by the devout duly proceed today (to the gods); spread the sacred grass for their seat.”
 </details>

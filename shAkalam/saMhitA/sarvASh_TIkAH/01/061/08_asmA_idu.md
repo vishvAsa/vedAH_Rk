@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1  
 genre M;; gautamī; see Arnold (1905) 240–1
-#### Morph
+_________
+**Morph**  
 asmaí ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -206,11 +209,13 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To that **Indra** the women, the wives of the gods, addressed their hymns, on the destruction of Ahi; he encompasses the extensive heaven and earth; they two do not surpass your vastness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wives of the gods are person nified **gāyatrī** and other metres of the **Vedas**; gnāḥ, preceding **devapatnīḥ** means: feminine les whose nature is locomotive: gamanasvabhāvaḥ
 </details>

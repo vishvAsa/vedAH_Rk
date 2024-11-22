@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,11 +193,13 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fierce (**Agni**), when (**Indra**) proclaimed the near presence of the herd of the kine of the divine (**Aṅgirasas**) as a herd of cattle in a well-stored stall, the progeny of mortals were thereby enabled (to perform pious acts), and the master of the family rendered competent to (provide for) the increase of posterity and (the support of) dependants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Herd of cattle: āyūtheva kṣumati paśvoḥ akhyat devānām yaj janimāni = liṭ, like a herd in food-possessing animals, he has said to the gods that which birth is nigh;
 

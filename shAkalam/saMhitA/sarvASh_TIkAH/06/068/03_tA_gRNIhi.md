@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇīhi ← √gr̥̄- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -170,7 +173,8 @@ vr̥jáneṣu ← vr̥jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise **Mitra** and **Varuṇa**, renowned or all glorious energies and enjoyment; one of whom slays **Vṛtra** with the thunderbolt, the other, intelligent by his might, comes to the aid (of the pious when) in difficulties.”
 </details>

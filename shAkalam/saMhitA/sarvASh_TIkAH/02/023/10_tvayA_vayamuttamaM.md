@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhīmahe ← √dhā- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
 
@@ -183,7 +186,8 @@ tāriṣīmahi ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through you, **Bṛhaspati**, (who are) the fulfiller of our desires; pure, and associated (with us), we possess excellent food; let not the wicked man who wishes to deceive us be our master; but let us, excelling in (pious) praises, attain (prosperity).”
 </details>

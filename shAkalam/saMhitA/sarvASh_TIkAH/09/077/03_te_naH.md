@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índavaḥ ← índu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -184,7 +187,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the former and the latter **Soma**-juices flow to give us abundant food and milk, plural asing to look upon like beautiful well-adorned (women), which (juices) perform every prayer and every oblation.”
 </details>

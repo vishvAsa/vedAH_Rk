@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 akhyat ← √khyā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -187,7 +190,8 @@ vā́ryāṇi ← vā́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He has lighted up the eight points of the horizon, the three regions of living beings, the seven rivers; may the golden-eyes **Savitā** come hither, bestowing upon the offerer of the oblation desirable riches.”
 </details>

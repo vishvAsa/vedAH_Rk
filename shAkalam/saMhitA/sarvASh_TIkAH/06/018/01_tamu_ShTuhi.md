@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíbhūtyojāḥ ← abhíbhūtyojas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise him who is **Indra**, the invoker of many, endowed with overpowering vigour, the destroyer (of foes), unharmed by them; exalt with these praises the irresistible, fierce, victorious Indra, the showerer (of benefits) upon mankind.”
 </details>

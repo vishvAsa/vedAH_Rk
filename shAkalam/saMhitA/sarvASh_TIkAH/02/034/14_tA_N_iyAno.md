@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iyānáḥ ← √yā- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -200,11 +203,13 @@ cakríyā ← cakrī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Imploring them for ample wealth, and (having recourse to him) for protection, we glorify them with this praise; like the five chief priests whom **Trita** detained for the (performance of) the sacrifice, and to protect it with their weapons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the five chief priests: trita na yān **pañca** hotṛn abhiṣṭaye āvavartad avarān cakriya āvase: the allusion is to the practice of mysticism, or **yoga**; the five **hotṛs** or offerers of the **Soma**, being the five vital airs, whom Trita, as a **Yogi**, suppressed, and compelled to concentrate themselves in the **Cakra**, or umbilical region for the attainement of superhuman faculties;
 

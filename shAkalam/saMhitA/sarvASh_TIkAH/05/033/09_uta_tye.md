@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -169,11 +172,13 @@ vápuṣe ← vápus- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or may those bay, well-actioned horses, the donation of **Vidhata**, the son of Marutaśva, (convey me); or (may) the thousands (of treasure) which he was bestowing upon and giving to me, entitled to respect, and the ornaments which he presented (to decorate) the person n, (contribute to the ceremony).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bestowing upon and giving to me: cyavatana dadāna causing to alight upon, giving
 </details>

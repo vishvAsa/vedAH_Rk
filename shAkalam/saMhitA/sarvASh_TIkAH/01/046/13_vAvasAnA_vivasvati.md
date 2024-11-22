@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 vāvasānā́ ← √vas- 2 (root)  
 {case:NOM, gender:M, number:DU, tense:PRF, voice:MED}
 
@@ -115,7 +118,8 @@ manuṣvát ← manuṣvát (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Causers of felicity, co-dwellers with your worshipper, as with **Manu** come hither to drink of **Soma**, and (accept) our praise.”
 </details>

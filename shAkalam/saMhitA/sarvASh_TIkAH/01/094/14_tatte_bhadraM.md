@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhadrám ← bhadrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -209,7 +212,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural asant is it to you when you are lighted in your own abode, and propitiated by libations, are praised (by the priests); then, much delighted, you give rewards and riches to the worshipper; let us not, **Agni**, suffer injury through your friendship.”
 </details>

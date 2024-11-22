@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahé ← máh- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -196,11 +199,13 @@ dhúnivratāya ← dhúnivrata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the voice-born praises of Evayāmarut reach you, **Viṣṇu**, attended by the **Maruts**; (may they reach) the strong, the adorable, the brilliantly-adorned, the vigorous, praise-loving, cloud-scattering, quick-moving company of the Maruts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Viṣṇu attended by the Maruts: viṣṇave marutvate: viṣṇave is an adjective to the pervading, vyātāya, i.e. **Indra**, of whom Marutvat is a designation;
 

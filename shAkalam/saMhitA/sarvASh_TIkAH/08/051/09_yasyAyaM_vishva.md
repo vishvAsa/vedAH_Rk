@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ā́ryaḥ ← ā́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -174,7 +177,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That wealth, which every **Ārya** here covets and every miserly **Dāsa**, is sent direct to yo, the piousRuśama Paviru.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bíbhrataḥ ← √bhr̥- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -183,7 +186,8 @@ svátavasaḥ ← svátavas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ever accepting the sweet (libation), as (they would) a son, they sport plural yfully at sacrifices, demolishing (all intruders); the **Rudras** come to the offerer of prayers and oblations, for his protection, and powerul as they are, do him no harm.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákr̥ṇot ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -208,7 +211,8 @@ vájreṇa ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sufficient was he for (the protection of) this (world), which he, its defender, fabricated with his two arms for the sake of all mankind, over whom he was supreme by his wisdom; whereby, (also), he the loud-shouting, having struck Krivi (**asura**) with the thunderbolt, consigned him to (eternal) slumber on the earth.”
 </details>

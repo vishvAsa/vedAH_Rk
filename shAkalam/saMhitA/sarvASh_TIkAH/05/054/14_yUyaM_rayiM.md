@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -171,11 +174,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You bestow, **Maruts**, wealth and enviable posterity; you protect the sage learned in the **Sāma**; you grant horses and food to (me) the ministrant priest; you render a prince prosperous.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The sage learned in the Sāma: sāmavipram = samnām vividhām prerayitāram, the prompt or instrumental gator, in various ways, of the Sāma hymns
 </details>

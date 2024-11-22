@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 saptáraśmiḥ ← saptáraśmi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the seven-rayed, the showerer, the powerful, who let loose the seven rivers to flow; who, armed with the thunderbolt, crushed **Rauhiṇa** when scaling heaven; he, men, is **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The seven-rayed: the seven rays, raśmayaḥ = seven forms of **Parjanya** (**Taittirīya** **Āraṇyaka** 1.9.4-5), or Indra, as the rain-cloud; or seven kinds of rain-clouds
 </details>

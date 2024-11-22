@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádabdhāḥ ← ádabdha- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -175,7 +178,8 @@ paśyeḥ ← √paś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The unveiled sages abiding in the dwellings of man have glorified the sage (**Agni**); therefore, lord of sacrifice, you may proceed with swift-moving feet to behold the admirable and marvellous deities.”
 </details>

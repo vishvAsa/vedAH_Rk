@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ābhogáyam ← ābhogáya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ savitúḥ ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Ṛbhus**, you who are amongst my ancestors, yet immature (in wisdom), but desirous of enjoying (the **Soma** libations), retired to the forest to perform (penance), then, sons of **Sudhanvan**, throught he plural nitude of your completed (devotions), you came to the (sacrificial) hall of the worshipper **Savitā**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhurvibhvā **vāja** iti sudhanvana āṅgirasasya **trayaḥ** putrāḥ babhūvuḥ (**Nirukta** 11.16): Sudhanvan, father of the Ṛbhus, was a descendant of **Aṅgiras**; so is **Kutsa**;
 

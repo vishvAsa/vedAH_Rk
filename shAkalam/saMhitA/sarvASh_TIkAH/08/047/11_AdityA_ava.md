@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́dityāḥ ← ādityá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -211,11 +214,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ādityas**, look down upon us as those who look from the shore; as (men lead) their horses to a secureGhāṭa, so conduct us along a good path; your aids are void of harm, your aids are void of harm, your aids aretrue aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who lok from the shore: spaśaḥ = **spaṣṭaḥ**, visible, from spas. to see; as a man standing on theshore looks down on the water below or on some one in it
 </details>

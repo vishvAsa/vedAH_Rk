@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahinā́ ← mahimán- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -119,7 +122,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, showerer (of blessings), wakeful one, you have attained by your might the drinking of the Somawhich enters your belly.”
 </details>

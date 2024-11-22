@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhīyate ← √dhā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
 
@@ -114,7 +117,8 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty **Agni** is plural ced (foremost by the gods) in battle; he is brought forward reverently at holy rites; for he is the sage fulfiller of the sacrifice.”
 </details>

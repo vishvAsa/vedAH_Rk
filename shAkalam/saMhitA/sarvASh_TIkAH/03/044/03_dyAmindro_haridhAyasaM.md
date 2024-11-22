@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́m ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -156,7 +159,8 @@ yáyoḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** has upheld the yellow-rayed heaven; the verdant tinted earth; there is abundant pasture (for his steeds) in the two azure spheres of heaven and earth, between which **Hari** travels.”
 </details>

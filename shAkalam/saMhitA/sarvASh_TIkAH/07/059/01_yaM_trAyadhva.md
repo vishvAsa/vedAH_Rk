@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 idám-idam ← ayám (pronoun)  
 {case:ACC, gender:N, number:SG}
 
@@ -167,11 +170,13 @@ yachata ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, **Varuṇa**, **Mitra**, **Maruts**, grant happiness, gods, to him whom you preserve from (the perils of) this(world), whom you guide here (to the paths of virtue).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From this world: yam trāyadhvam idam idam yam canayatha: idam = itas, from this, bhayahetoḥ, cause of peril;
 

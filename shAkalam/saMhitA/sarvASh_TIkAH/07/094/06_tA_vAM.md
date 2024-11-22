@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -112,7 +115,8 @@ saniṣyávaḥ ← saniṣyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Eager to offer praise, bearing (sacrificial) food, desirous of wealth, we invoke you, **Indra** and **Agni**, withpraises, in the celebration of holy acts.”
 </details>

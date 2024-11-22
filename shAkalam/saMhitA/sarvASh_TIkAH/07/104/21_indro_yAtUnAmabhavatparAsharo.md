@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhavat ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -198,7 +201,8 @@ satáḥ ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** has ever been the discomfiter of the evil spirits coming to obstruct (the rites of) the offerers ofoblations; **Śakra** advances, crushing the present **rākṣasas**, as a hatchet cuts down (the trees of) a forest, as (amallet smashes) the earthen vessels.”
 </details>

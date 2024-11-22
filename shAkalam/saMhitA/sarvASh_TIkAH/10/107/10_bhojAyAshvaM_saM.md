@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āśúm ← āśú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ páriṣkr̥tam ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Saramā**). I recognize not fraternity nor sisterhood; **Indra** and the terrible **Aṅgirasas** know (mykindred); my (masters) desiring the cattle overshadowed (yoru habitation) when I came; depart hence, **Paṇis** to adistant (spot).”
 </details>

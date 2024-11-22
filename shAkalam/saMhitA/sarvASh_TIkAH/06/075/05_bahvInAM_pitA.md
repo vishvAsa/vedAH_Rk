@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The quiver, the parent of many, of whom many are the sons, clangs as it enters into the battle; slung at the back (of the warrior), prolific (of its shafts), it overcomes all shouting hosts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Shouting hosts: **saṅkāḥ** **pṛtanāḥ**: **saṅkā** = sounding together, sam kāyanti; **Yāska**, **Nirukta** 9.14: saṅkā: from sac, to be assembled or sam, with; kṛ, to be renowned, armies in which there are assembled, or celebrated warriors
 </details>

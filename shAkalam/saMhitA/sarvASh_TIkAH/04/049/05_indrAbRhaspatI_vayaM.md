@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 índrābŕ̥haspátī ← índrābŕ̥haspáti- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -106,7 +109,8 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Bṛhaspati**, we invoke you with praises, when the libation is effused, to drink of this **Soma** juice.”
 </details>

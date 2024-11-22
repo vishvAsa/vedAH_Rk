@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyaut ← √dyut- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -173,7 +176,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Son of strength, sustained by all, you shine, possessing bright and rapid rays; when the vigorous **Agni** is magnified by praise, then the showers of sweet rain descend.”
 </details>

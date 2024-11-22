@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 báṭ ← báṭ (invariable)  
 {}
 
@@ -122,7 +125,8 @@ yujā́ ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, by our hymns we offer praise to you, who appear at the time of sacrifice, and wear auspicioussplendour; with you as our ally may we conquer (our enemies).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jígāsi ← √gā- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -201,7 +204,8 @@ vavr̥tyāḥ ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vast, (**Indra**), are your feet; when you advance, the **Vājas**, and whatsoever (deities are) thereanimated you; you, Indra, hold a thousand jackals in yourmouth, may you bring back the **Aśvins**.”
 </details>

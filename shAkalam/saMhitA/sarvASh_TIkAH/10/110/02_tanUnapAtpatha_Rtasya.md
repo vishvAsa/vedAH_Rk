@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 patháḥ ← pánthā- ~ path- (nominal stem)  
 {case:ACC, gender:M, number:PL, tense:PRF, voice:MED}
 
@@ -184,11 +187,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pure-tongued **Tanūnapāt**, flavour the paths of the sacrifice which lead (to success), moisteningthem with the sweet (**Soma**); elevating our praises and our rite by understanding, convey our sacrifice to thegods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tanūnapāt: **Agni**;
 

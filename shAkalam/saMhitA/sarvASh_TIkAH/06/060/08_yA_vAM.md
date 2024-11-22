@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 puruspŕ̥haḥ ← puruspŕ̥h- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -139,7 +142,8 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, leaders (of rites), whose **Niyut** steeds are desired by many, come with them to the donor (of the libation).”
 </details>

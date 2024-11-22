@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āhuḥ ← √ah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -234,11 +237,13 @@ yuktā́ḥ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those which (the sages) have termed descending, they have also termed ascending; and those they have termed ascending, they have also called descending; and those (orbits) which your, **Soma** and **Indra**, have made, bear along the worlds like (oxen) yoked to a twain.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those which: the rays of light, or the plural nets changing their relative position as they revolve; Soma and Indra: the moon and the sun; Indra is one of the twelve **Ādityas** or identical here with the sun
 </details>

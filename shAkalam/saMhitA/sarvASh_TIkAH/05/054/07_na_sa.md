@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hanyate ← √han- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
 
@@ -229,7 +232,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage, or the sovereign, whom you, **Maruts**, direct, is never overcome nor slain; he perishes not, nor suffers pain, nor undergoes injury, nor are his riches or his safety imperilled.”
 </details>

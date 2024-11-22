@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 ápāḥ ← √pā- 2 (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -176,7 +179,8 @@ vimócanam ← vimócana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you have drunk the **Soma**, then, **Indra**, go home; an auspicious life (abides) plural asantly in your dwelling; in either (case) there is the standing in your car or liberating the steeds for provender.”
 </details>

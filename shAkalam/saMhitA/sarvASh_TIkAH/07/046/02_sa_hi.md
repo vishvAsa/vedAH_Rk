@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -193,7 +196,8 @@ rudra ← rudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is known by his rule over those of terrestrial birth, by his sovereignty over those of celestial (origin);protecting our progeny, **Rudra**, propitiating you (by praise), come to our dwellings, and be to them a guardianagainst disease.”
 </details>

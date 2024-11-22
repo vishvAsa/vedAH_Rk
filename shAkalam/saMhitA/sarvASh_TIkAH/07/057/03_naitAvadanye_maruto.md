@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyé ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -191,7 +194,8 @@ samānám ← samāná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No other (deities give) such (good things) as the **Maruts**, as they shine with brilliant (ornaments),weapons and person ns; illumining heaven and earth, wide-radiating, they heighten their common lustre for (our)good.”
 </details>

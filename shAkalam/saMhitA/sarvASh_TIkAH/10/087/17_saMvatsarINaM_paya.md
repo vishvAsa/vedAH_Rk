@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 páyaḥ ← páyas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ vidhya ← √vyadh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The milk of the cow is annually produced, let not the **Yātudhāna** consume it, O beholder of men;whichever of them would like to satiate himself with the ambrosia, do you, **Agni**, pierce that contending(**rākṣasa**) with your flame in a vital part.”
 </details>

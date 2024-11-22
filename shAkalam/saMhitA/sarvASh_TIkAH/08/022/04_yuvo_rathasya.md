@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrám ← cakrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ iva ← iva (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One of the wheels of your car moves in every direction; the other, impellers of actions, remains withyou; may your favour, lords of rain, hasten towards us as a cow (to her calf)!”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Impellers of actions: irmā =antaryā mitayā prerakau, urgers or impellers, by the property of internal influence or conscience; or, udakasyaprerayitārau, senders of water or rain
 </details>

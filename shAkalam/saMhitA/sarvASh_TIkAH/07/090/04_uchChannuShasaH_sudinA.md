@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ariprā́ḥ ← ariprá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -191,11 +194,13 @@ téṣām ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The blameless dawns (ushering) bright days have broken, and, shining radiantly, (the **Aṅgirasas**) haveobtained the vast light (the sun); desirous (to recover it) they have obtained their wealth of cattle and the ancientwaters have subsequently issued for their good.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aṅgirasas: by their praise of **Vāyu** the dawn broke, the stolencattle were rescued and the obstructed rain set at liberty
 </details>

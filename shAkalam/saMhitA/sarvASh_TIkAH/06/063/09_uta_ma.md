@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
 
@@ -175,11 +178,13 @@ vaśā́saḥ ← vaśā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the two straight-going, light-moving, (mares) of **Puraya** be mine; may the hundred cows belonging to Sumīḷha, may the dressed viands prepared by **Peruka** be for me; may **Ṣaṇḍa** bestow upon me ten handsome golden chariots, and obedient, valian, and well-favoured (dependants).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛjre raghvī = two straight-right-going (vadave, mares);
 

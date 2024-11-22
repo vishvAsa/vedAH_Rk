@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To that **Indra**, is the poetical and articulate prayer to be recited; to him the conveyers of pious praise, the sons of **Atri**, raise their hymns; the sons of Atri illume their hymns.”
 </details>

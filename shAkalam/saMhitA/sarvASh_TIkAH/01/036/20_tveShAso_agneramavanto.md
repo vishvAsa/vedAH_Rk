@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -159,7 +162,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The flames of **Agni** are luminous, powerful, fearful, and not to be trusted. Ever assuredly and entirely consume the mighty spirits of evil and all our other adversarieṣ”
 </details>

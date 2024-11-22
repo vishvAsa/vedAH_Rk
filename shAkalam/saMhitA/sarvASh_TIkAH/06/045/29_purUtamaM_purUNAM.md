@@ -22,14 +22,17 @@ ChandaH = "अतिनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 purūṇā́m ← purú- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -91,11 +94,13 @@ vā́jebhiḥ ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the praises of many worshippers offered at the sacrifice, (accompanied) by (sacrificial) viands, invigorate you, destroyer of multitudes.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At the sacrifice: vivāci, at the sacrifice called Vivac, because various praises and prayers are hen repeated
 </details>

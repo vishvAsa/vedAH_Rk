@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápūrvyam ← ápūrvya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -130,7 +133,8 @@ viśpátim ← viśpáti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The devout kindle (the fire) with his wealth-obtaining rites, (to worship) the radiant, unpreceded **Agni**, the invoker (of the gods), the protector of men.”
 </details>

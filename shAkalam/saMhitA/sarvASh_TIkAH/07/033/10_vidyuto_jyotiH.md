@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 jyótiḥ ← jyótis- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -190,11 +193,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Mitra** and **Varuṇa** beheld you, **Vasiṣṭha**, quitting the lustre of the lightning (for a different form),then one of your births (took plural ce), inasmuch as **Agastya** bore you from your (former) abode.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agasya bore you:agastyo yat tvā viśā ājabhāra = yadā purvavasthānāt tvām ājahāra, when Agastya took you from theformer condition; mitrāvaruṇau āvām janayisyāva, we two Mitra and Varuṇa, will beget; or, āvābhyāmayam jāyeta iti samakalpatām, the two divinities determined this Vasiṣṭha shall be begotten by us
 </details>

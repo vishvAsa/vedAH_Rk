@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápi ← ápi (invariable)  
 {}
 
@@ -120,7 +123,8 @@ vivāsataḥ ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They retract not (their promises) to the gods, they withhold not your praise, but offer abundant(sacrificial) food.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avasyúḥ ← avasyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You go with **Kutsa** in the same chariot, determined to defend him; (you) who are the tormentor (of foes), the lord of horses (of the speech) of the wind; on the same day wherein, yoking (to the car) the straight-going steeds, as if to receive food, the sage (Kutsa) has been enabled to cross over (the sea) of calamity.”
 </details>

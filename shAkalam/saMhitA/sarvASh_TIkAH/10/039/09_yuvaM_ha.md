@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gúhā ← gúhā (invariable)  
 {}
 
@@ -186,11 +189,13 @@ saptávadhraye ← saptávadhri- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, shedders of rain, you extricated Rebha when he was plural ced in a cave and was dying; youmade the heated fire-pit cool for **Atri**; you gave (liberty) to Saptavadhri.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rebha: RV 1.116.24; he was saved froma **guhā**, a secret plural ce or a cavity; was dying = dead; Atri; cf. RV 1.116.8;
 

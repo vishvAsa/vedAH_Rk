@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jūtím ← jūtí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -182,11 +185,13 @@ viśā́m ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Decorating you, I address sincere prayers to you who are adorable and mighty, for the sake of (obtaining) food; you, **Indra** are the preceder of men the descendants of **manu**, and of the descendants of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The preceder of men: pūrvayāvā (yā prāpaṇe), agrato gantā, the goer before
 </details>

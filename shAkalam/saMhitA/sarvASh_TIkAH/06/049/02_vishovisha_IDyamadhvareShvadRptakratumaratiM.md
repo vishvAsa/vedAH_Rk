@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaréṣu ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -167,7 +170,8 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I incite the worshipper) to offer worship to **Agni**, who is to be adored at the sacrifices of every ma; whose acts are free from arrogance; the lord of the two youthful (brides, heaven and earth); the child of heaven, the son of strength, the briliant symbol of sacrifice.”
 </details>

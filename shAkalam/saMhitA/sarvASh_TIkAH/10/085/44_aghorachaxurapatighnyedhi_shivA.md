@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ághoracakṣuḥ ← ághoracakṣuṣ- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -198,11 +201,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Look upon your husband) with no angry eye, be not hostile to your lord, be tender to animals, beamiable, be very glorious; be the mother of **males**, be devoted to the gods, be the bestower of happiness, be thebringer of prosperity to our bipeds and quadrupeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be very glorious: be beautiful in your person n; liṭ, = veryglorious
 </details>

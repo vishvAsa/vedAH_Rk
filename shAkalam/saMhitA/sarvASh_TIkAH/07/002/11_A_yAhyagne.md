@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -191,7 +194,8 @@ svā́hā ← svā́hā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, kindled (into flame), come to our presence in the same chariot with **Indra**, and with the swiftmoving gods; may **Aditi**, the mother of excellent sons, sit down on the sacred grass, and may the immortal godsbe satisfied with the reverentially-offered oblation.”
 </details>

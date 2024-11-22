@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áheḥ ← áhi- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ sutásya ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The strong heaven was rent asunder with fear at the clamour of that Ahi, when you, **Indra**, was inspired by (drinking) the effused (**Soma**), and your thunderbolt in its vigour struck off the head of **Vṛtra**, the obstructor of heaven and earth.”
 </details>

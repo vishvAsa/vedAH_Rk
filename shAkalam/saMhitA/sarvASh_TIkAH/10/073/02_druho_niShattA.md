@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -204,7 +207,8 @@ prapitvā́t ← prapitvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The material troop of (**Indra**) the injurer encamped around Indra, (accompanied) by the swift-moving(**maruts**); they animated him with abundant praise; like (cattle) penned up within a great stall, the embryonic(waters) issued from the (**Vṛtra**) who had arrived in the form of darkness.”
 </details>

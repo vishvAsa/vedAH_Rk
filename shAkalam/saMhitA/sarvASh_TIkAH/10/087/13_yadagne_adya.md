@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; 12 = 5+7, ending LHX  
 popular
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -195,7 +198,8 @@ yātudhā́nān ← yātudhā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Today, **Agni**, when the married pair curse each other, then the praisers produce bitter words (in angeragainst each other), do you pierce the **Yātudhānas** through the heart with your arrow, which is genitive rated fromyour wrathful mind.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ihá ← ihá (invariable)  
 {}
 
@@ -189,11 +192,13 @@ tárutraḥ ← tárutra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify the powerful leaders of that renowned and opulent (**Indra**), whose victorious and protecting energy rules over men, like a universal sovereign entitled to veneration.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The powerful leaders: vṛṣnyāni nṛn = balabhūtān netṛn, i.e., the **Maruts**
 </details>

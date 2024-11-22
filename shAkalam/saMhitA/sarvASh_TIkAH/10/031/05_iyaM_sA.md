@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūyāḥ ← √bhū- (root)  
 {number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
 
@@ -202,7 +205,8 @@ yantu ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this (our praise) be accessible like the earth at dawn, when the glorious (gods) assemble in theirmight; may the **Vājas**, the dispensers of happiness, come to us, soliciting the laudation of this (their) adorer.”
 </details>

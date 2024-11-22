@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥ṇute ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -219,7 +222,8 @@ udríṇam ← udrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the **Soma** seeks to gain (heaven) he assumes a white colour; showering (benefits), powerful he knows (how to bestow) abundant wealth (upon the worshippers). He by his wisdom is associated with excellent rites; he bursts asunder the rain cloud from heaven.”
 </details>

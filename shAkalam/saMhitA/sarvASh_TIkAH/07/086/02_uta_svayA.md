@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sám ← sám (invariable)  
 {}
 
@@ -211,7 +214,8 @@ sumánāḥ ← sumánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When may I in my person n converse with the deity? When may I (be admitted) to the heart of **Varuṇa**?By what means may he, without displeasure, accept my oblation? When may I, rejoicing in mind, behold thatgiver of felicity?”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,11 +193,13 @@ atiṣṭhan ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sūrya** has ascended above the glistening water, as soon as he has put to his bright-backed steeds; sage (worshippers) have drawn him, like a ship, across the sea; the waters hearing his commands, have come down.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sūrya has ascended: sūryo aruhat śukram **arṇas** = sūrya has mounted the bright water, that is, he has become everywhere visible, but it may be an allusion to the sun's rising apparently out of the sea
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avasyávaḥ ← avasyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -115,7 +118,8 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Presenting our praise, and desiring protection, may we with you (O priests) be lords of food, to offersacrifice to (**Indra**) attended by the **Maruts**.”
 </details>

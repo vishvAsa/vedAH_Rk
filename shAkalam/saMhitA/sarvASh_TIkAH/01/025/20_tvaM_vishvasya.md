@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 medhira ← médhira- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -136,7 +139,8 @@ yā́mani ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, who are possessed of wisdom, shine over heaven and earth, and all the world; do you hear and reply (to my prayers), with (promise of) prosperity.”
 </details>

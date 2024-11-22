@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 pitárā ← pitár- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -119,11 +122,13 @@ viṣṭī́ ← viṣṭí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Ṛbhus**, uttering unfailing prayers, endowed with rectitude, and succeeding (in all pious acts; **viṣṭī** = vyāptiyuktaḥ, i.e. encountering no opposition in all acts), made their (aged) parents young.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Satya**-**mantrāḥ** = repeating true prayers, i.e. prayers certain to achieve the objects prayed for;
 

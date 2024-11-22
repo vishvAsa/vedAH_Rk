@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avatám ← avatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By their power, they bore the well aloft, and clove asunder the mountain that obstructed their path; the munificent **Maruts**, blowing upon their pipe, have conferred, when exhilarated by the **Soma**, desirable (gifts upon the sacrificer).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dhamanto vāṇam = blowing upon their pipe;
 

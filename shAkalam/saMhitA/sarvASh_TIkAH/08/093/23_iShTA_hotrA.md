@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 asr̥kṣata ← √sr̥j- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -114,7 +117,8 @@ avabhr̥thám ← avabhr̥thá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sacrificing priests, invigorating (**Indra**) by their offerings at the sacrifice, have by their mightdismissed him to the **avabhṛtha**.”
 </details>

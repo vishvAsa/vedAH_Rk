@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ samīcī́ ← samyáñc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Aggregated in the womb of the waters, (his rays) spread abroad; and omniform, are here effective for the diffusion of the sweet (**Soma**), like kine full uddered; the mighty (Heaven and Earth) are the fitting parents of the graceful **Agni**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The womb of the waters: the **antarikṣa**, mid-heaven, or the firmament, the region of vapour
 </details>

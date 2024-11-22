@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mitrā́ ← mitrá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -149,11 +152,13 @@ tánayā ← tánaya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, doers of good deeds, (diffusers of) riches, who are the charioteers (of men),well-born of old, the sons, (of **Aditi**), observant of vows, (you are worshipped by me).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Charioteers: or, bringers ofriches, **tanā** **rathyā**; you are worshiped: you sacrifice to them, tā yajase (from the previous ṛca)
 </details>

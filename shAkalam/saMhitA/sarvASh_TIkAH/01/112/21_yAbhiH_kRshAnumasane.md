@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ásane ← ásana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -200,11 +203,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you defended **Kṛśānu** in battle, with which you succoured the horse of the young **Purukutsa** in speed, and by which you deliver the plural asant honey to the bees; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kṛśānu are **somapālas**, vendors or providers of **Soma**; hasta-**suhasta**-kṛśānavaḥ, te vaḥ somakrayaṇaḥ (**Taittirīya** **Saṃhitā** 1.2.7);
 

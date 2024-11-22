@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -214,11 +217,13 @@ Slacken the firm bows of the inciters of yAtus, destroy our foemen whether from 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rise up, **Agni**, chastise those who overpower us; manifest your divine energies; slacken the strone (bow strings) of the malignant kings; destroy those (who are hostile), whether kindred or unallied.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jāmim ajāmim = bandhum abandhum; or, whether formerly overcome or not;
 

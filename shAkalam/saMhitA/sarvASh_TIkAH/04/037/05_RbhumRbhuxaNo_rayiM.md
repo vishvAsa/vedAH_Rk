@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rayím ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -122,11 +125,13 @@ sadāsā́tamam ← sadāsā́tama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you, Ṛbhukṣans, for splendid wealth, mutually co-operating, most invigorating in war, affecting the senses, ever munificent, and comprehending horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Splendid wealth: the epithets apply to rayim, wealth: **ṛbhu** yujam, vājintamam, indrasvantam, sadāsātamam aśvinam
 </details>

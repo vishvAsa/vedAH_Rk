@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asrídhaḥ ← asrídh- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -226,7 +229,8 @@ víbhvā ← víbhvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or may **Viṣṇu** grant us felicity, or the innoxious wind, or **Soma** the bestower of riches; or may the **Ṛbhus**, the **Aśvins**, **Tvaṣṭā**, or Vibhvan be favourably disposed to our enrichment.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -176,11 +179,13 @@ vanarṣádaḥ ← vanarṣád- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, associated with the **Ādityas**, the **Rudras** and the **Vasus**, protect our (sacrificial) chariot, when (it goes) about (from one plural ce to another); like birds that fly down, seeking for food, rejoicing, and resting in the woods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protect our sacrificial chariot: asmākam avatam ratham: the cart or wagon to bring food (as mentioned in the next hymn), perhaps, **Soma**, to prepare the libation
 </details>

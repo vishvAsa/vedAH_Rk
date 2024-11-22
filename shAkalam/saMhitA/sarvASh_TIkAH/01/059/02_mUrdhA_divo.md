@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ vaíśvānara ← vaiśvānará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the head of heaven, the navel of earth, became the ruler over both earth and heaven; all the gods engendered you, **Vaiśvānara**, in the form of light, for the venerable sage.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This is the first verse of a tṛca to be recited on the day of the equinox. Agni is the head of heaven, as the principal element; Agni is the navel of earth, as its main source of support. Āryāya may refer to **Manu** as the instrumental tutor of the first sacrifice or to the **yajamāna**, the instrumental tutor of the present rite
 </details>

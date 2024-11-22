@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iyám ← ayám (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -159,11 +162,13 @@ dásma ← dasmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This new hymn has been made by us for you, O joyful, well-born **Agni**, glorious in deeds, unbewildered,beautiful, the guest (of man).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Has been made by us for you: adhāyy asmadā = has been borne (or conceived)in us for you, asmāsu dhṛtam abhūt
 </details>

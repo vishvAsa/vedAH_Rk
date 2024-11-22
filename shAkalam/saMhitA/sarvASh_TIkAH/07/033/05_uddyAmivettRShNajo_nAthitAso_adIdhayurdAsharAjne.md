@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dyā́m ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ urúm ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Suffering from thirst, soliciting (rain), supported (by the Tṛtsus) in the war with the ten **rājās**, (theVasiṣṭhas) made **Indra** radiant as the sun; Indra heard (the praises) of **Vasiṣṭha** glorifying him, and bestowed aspacious region on the Tṛtsus.”
 </details>

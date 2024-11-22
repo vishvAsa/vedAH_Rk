@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāgnī ← indrāgní- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -118,7 +121,8 @@ yuvóḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Agni**, in you, vigour and food are abiding together, and therefore in you is deposited the dispensing of water.”
 </details>

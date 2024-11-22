@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 mát ← ahám (pronoun)  
 {case:ABL, number:SG}
 
@@ -176,7 +179,8 @@ This verse presents no difficulty. Thus satisfied, Indraṇī speaks of herself 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “There is no woman more amiable than I am, not one who bears fairer sons than I; nor one moretractable not one more ardent; **Indra** is above all (the world).”
 </details>

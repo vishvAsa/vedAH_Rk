@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 ichata ← √iṣ- 2 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -127,11 +130,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated priests, give good heed to the sacrifice, for how can we (worthily) perform the praise of(**Indra**) the destroyer, who is the recompenser of enemies, the sender of reward, the unvanquished?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Therecompenser: **bhojaḥ** = śatrūṇām bhojayitā; (RV 8.3.24): the despoiler of enemies; (RV 2.14.10): phalasyadātāram rakṣitāram ca
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámr̥ktāḥ ← ámr̥kta- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -194,7 +197,8 @@ vindaḥ ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven divine meandering rivers with which you, **Indra**, the destroyer of cities, replenished theocean, flow unimpeded; you did discover the nine-and-ninety flowing rivers (and their) path for gods and men.”
 </details>

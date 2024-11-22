@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 áraṁkr̥taḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -118,7 +121,8 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Receiving the offering I go, graced (by the worshippers), bearing the oblation to the gods, for I haveoften drunk of the **Soma**.”
 </details>

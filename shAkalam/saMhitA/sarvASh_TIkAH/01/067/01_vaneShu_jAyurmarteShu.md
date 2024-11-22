@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 jāyúḥ ← jāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -108,11 +111,13 @@ vr̥ṇīté ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[1-2\] Born in the woods, the friend of man, **Agni** protects his worshipper, as a **rājā** favours an able man; kind as a defender, prosperous as a performer of (good) works, may he, the invoker of the gods, the bearer of oblations, be propitious.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Havyavāḥ = bearer of oblations to the gods; three **Agnis**: havyavāḥ (**havyavāhana**), that which conveys offerings to the gods; kavyavāḥ, that which conveys them to the **pitṛs** or manes; saharakṣas, that which receives those offered to the **rākṣasas**
 </details>

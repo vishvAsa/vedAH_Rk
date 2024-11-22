@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -164,7 +167,8 @@ turāsaḥ ← turá- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Maruts**, whose cars are the lightning, who are armed with spears, resplendent, destroyers of foes, from whom the waters proceed, (who are) unresting and adorable, and may **Sarasvatī** hear (my prayer); and may you (maruts), speedy in your liberality, bestow (upon us) riches and good offspring.”
 </details>

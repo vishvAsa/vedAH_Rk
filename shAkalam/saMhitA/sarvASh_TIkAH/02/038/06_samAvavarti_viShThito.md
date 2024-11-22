@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jigīṣúḥ ← jigīṣú- (nominal stem)  
 {case:NOM, gender:M, number:SG, mood:DES}
 
@@ -185,7 +188,8 @@ vratám ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The warrior, eager for victory, who has gone forth (to battle), turns back; (for) home is the desire of moving beiings; abandoning his half-wrought toil, the labourer returns (home) when the function of the divine **Savitā** (is suspended).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 índavaḥ ← índu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -107,7 +110,8 @@ yā́mebhiḥ ← yā́ma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The purified swift-flowing **Soma**-juices passing hrough the filter reach **Indra** by their own paths.”
 </details>
@@ -122,7 +126,8 @@ have reached Indra on their journeys.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
-Elementary sign of cohesion in the Gotama tṛca: a form of páva- in every vs. ### 09
+Elementary sign of cohesion in the Gotama tṛca: a form of páva- in every vs. _________
+**09**  
 On úsrayaḥ as ‘rosy (fingers)’ see comm. ad IV.65.1.
 
 The published translation contains a grammatical error: asvaran should of course be ‘they cried’ not ‘they cry’.

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīrghátamāḥ ← dīrghátama- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -136,11 +139,13 @@ sā́rathiḥ ← sā́rathi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dīrghatamas**, the son of **Mamatā**, has grown old after the tenth **yuga** (has passed); he is the **Brahmā** of those who seek to obtain the object of their (pious) works; he is their charioteer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He is the Brahmā: apām **artham** yatīnām brahmā **bhavati** **sārathiḥ**: he is the Brahmā, like **Brahma** (brahmā brahmāsadṛśaḥ parivṛḍhaḥ bhavati), the great, the chief;
 

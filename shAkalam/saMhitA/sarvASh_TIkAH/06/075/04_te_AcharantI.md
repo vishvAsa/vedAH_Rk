@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ācárantī ← √carⁱ- (root)  
 {case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
 
@@ -182,11 +185,13 @@ viṣphurántī ← √sphr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the two extremities of the bow, acting in concert, like a wife sympathizing (with her husband), uphold (the warrior), as a mother nurses her child upon her lap; and may they, moving concurrently, and harassing the foe, scatter his enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like a wife: bibhṛtām = rājānam dhārayetām; or, dhārayatām **samam**, support the arrow; samaneva **yoṣā** (a singular used for the dual), the two extremities drawing close to the archer, like two women to their lover, stiyau yathā kāntam āgacchataḥ
 </details>

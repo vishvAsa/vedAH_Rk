@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -184,7 +187,8 @@ vā́japrasūtāḥ ← vā́japrasūta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni**, who is the chief director of sacrifices, and the destroyer of enemies, accept our praise and worship with oblations, and may those who are affluent with great wealth, who are endowed with strength, and by whom the sacrificial food has been prepared, be desirous to offer adoration.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávase ← ávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -175,11 +178,13 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Puruhanman, honour that **Indra** for your protection, for in your upholder there is a two-fold might; heholds in his **hand** (to smite his enemies) the glorious thunderbolt great as the sun in heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Two-fold might: tosmite your enemies and to favour your friends
 </details>

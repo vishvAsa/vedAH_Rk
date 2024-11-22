@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -115,7 +118,8 @@ víprebhiḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he who is worshipped by all men, convey us with horses through the battle; may he, (propitiated) by the priests, be the bestower (of bounties).”
 </details>

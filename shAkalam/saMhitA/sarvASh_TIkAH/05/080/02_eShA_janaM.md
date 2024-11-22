@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bodháyantī ← √budh- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
 
@@ -193,7 +196,8 @@ yachati ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The lovely Dawn, arousing man, goes before (the sun) preparing practicable paths, riding in a spacious chariot; vast, expanding everywhere, she diffuses light at the commencement of the days.”
 </details>

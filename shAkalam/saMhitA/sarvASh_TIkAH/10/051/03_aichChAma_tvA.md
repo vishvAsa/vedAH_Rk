@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aíchāma ← √iṣ- 2 (root)  
 {number:PL, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -174,11 +177,13 @@ daśāntaruṣyā́t ← daśāntaruṣyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The gods). We sought for you, **Agni** **Jātavedas**, who had entered in many ways into the waters, intothe plural nts; **Yama** recognized you, who have adorable rays, blazing from your ten hiding-plural ces.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 These are thethree worlds-- heaven, mid-air, earth; three divinities, Agni, **Vāyu**, **Āditya**; the waters, the shrubs, the trees, andthe bodies of living beings
 </details>

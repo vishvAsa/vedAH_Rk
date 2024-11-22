@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -130,11 +133,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pious worshippers, at the plural ce of offerings adore with praise him who is gratified by worship, thecompleter of the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Adore with praise: jujuṣuḥ = they have adored; upāsevadhvam
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -197,7 +200,8 @@ vātā́pyam ← vātā́pya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Send hither your horses, the quaffers of the exhilarating libation; overcome, warrior, the adversary plural ndering us of our treasure; when they express with stones, for the increase (of your strength), the delightful, exhilarating, invigorating (**Soma**), to be overtaken by you, who are swifter than the wind.”
 </details>

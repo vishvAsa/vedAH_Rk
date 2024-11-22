@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 amúm ← asaú (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -145,7 +148,8 @@ yemire ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whenyou had plural ced yonder pure light, the sun, in the sky, then all existing beings were subject untoyou.”
 </details>

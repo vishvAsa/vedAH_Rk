@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́mim ← bhū́mi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -180,7 +183,8 @@ vīrā́ḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa** waters earth, mid-air, and heaven, when he plural ases (to send forth) the milk (of the cloud); thereupon the mountains cloth (their summits) withthe rain-cloud, and the hero, (**Maruts**), exulting in their strength, compel (the clouds) to relax.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agnáye ← agní- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -134,7 +137,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Raise the hymn to **Agni**, the benefactor of mankind; may he bear us (safe) beyond (the reach of) thosewho hate us.”
 </details>

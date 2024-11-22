@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evayā́vnaḥ ← evayā́van- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -177,11 +180,13 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you, mighty **Maruts**, who frequent such sacrifices (as this, to be present) at the offering of the diffusive and desirable (libation); lifting up our ladles, and reciting their praise, we solicit the golden-hued and lofty Maruts for excellent wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who frequent such sacrifices: evayāvnaḥ = from eva, that which is to be gone to, gantavyam, i.e. worship, or a sacrifice, stotram, yajñam vā; yāvan, who goes to
 </details>

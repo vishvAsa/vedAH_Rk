@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M
-#### Morph
+_________
+**Morph**  
 práti ← práti (invariable)  
 {}
 
@@ -122,7 +125,8 @@ vŕ̥ṣaprayāvṇe ← vŕ̥ṣaprayāvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sprinklers of the libation, present the offerings to the rain-bestowing swift-passing company of theMaruts.”
 </details>

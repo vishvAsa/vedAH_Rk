@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśrāyi ← √śri- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -176,11 +179,13 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** has been had recourse to, that he may assist the pious in their distress. Praise by the Pajras, is (as stable) as the **post** of a doorway. Indra, the giver of riches, who is possessed of (who desires to possess, expecting as gifts from the instrumental tutor of the ceremony) horses, cattle, chariots and wealth is present.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pajras = **Aṅgirasas**
 </details>

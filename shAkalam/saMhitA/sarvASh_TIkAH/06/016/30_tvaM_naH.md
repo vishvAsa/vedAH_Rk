@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 áṁhasaḥ ← áṁhas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -120,11 +123,13 @@ rákṣa ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Preserve us, **Jātavedas**, from sin; enunciator of prayer, protect us from the malevolent.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Enunciator: brahmaṇaskave = mantrasya śabdayitā, sounder or articulator of prayer; for **Agni**, it is said, genitive rated articulate sound, and the **Smṛti** is cited as authority; **manaḥ** kāyāgnim ahanti, sa prerayati manutam, **marutas**-tu urasi caran mandiam janayati svaram, mind excites the fire of the body, that excites the collective vital airs, and they, passing into the breast, engender agreeable, articulate sound.
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -207,11 +210,13 @@ varṣám ← varṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “On their approach the earth becomes capable of fertility, and they deposit in her water as their germ, as the husband genitive rates the embryo of the child; they have harnessed their horses fleet as the wind; the sons of **Rudra** have emitted their person iration, (the rain).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Person iration: svedam svedasthānīyam varṣam, rain in plural ce of person iration
 </details>

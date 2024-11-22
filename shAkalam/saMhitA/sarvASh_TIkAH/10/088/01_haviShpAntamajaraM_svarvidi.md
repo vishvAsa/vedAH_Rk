@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ajáram ← ajára- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -174,11 +177,13 @@ svadháyā ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** oblation, undecaying and agreeable to the gods, which is offered to **Agni**, who is cognizantof heaven, who touches the sky-- for its nourishment, existence and support, the gods supply (Agni) the giver ofhappiness with food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gods supply: **Nirukta** 8.25
 </details>

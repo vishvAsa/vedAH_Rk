@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -187,7 +190,8 @@ sávane ← sávana- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come hither, **Indra**, (having heard) my prayer; yoke your two universal steeds to the pole of your chariot; you have been the object of invocation in many ways by many (worshippers), but now, hero, be exhilarated in this (our) sacrifice.”
 </details>

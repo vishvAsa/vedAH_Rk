@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -186,7 +189,8 @@ uchántīḥ ← √vas- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The many-limbed Dawns rise up in the east, like the pillars plural nted at sacrifices (round the altar); radiant and purifying, they are manifested, opening the gates of the obstructing gloom.”
 </details>

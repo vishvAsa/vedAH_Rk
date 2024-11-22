@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápi ← ápi (invariable)  
 {}
 
@@ -230,7 +233,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rivers speak: Praiser of **Indra**, forget not this speech, nor the worlds that (you have addressed to us) for future ages (to reverence); celebrator (of holy rites), be favourable to us in solemn prayers; treat us not after the (arrogant fashion) of men; salutation be to you!”
 </details>

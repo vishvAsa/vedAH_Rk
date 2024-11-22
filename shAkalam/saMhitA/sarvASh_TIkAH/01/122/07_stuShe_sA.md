@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mitra ← mitrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ sadyás ← sadyás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise you, **Mitra** and **Varuṇa**, for your gift of numerous cattle to the Pajra, and (from those praises) may abundant food (proceed). May (the gods), bestowing nourishment on me, come quickly unimpeded, (each) in his famous and favourite car.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Kakṣīvat**, of the family of Pajra; śrutarathe priyarathe (mayi): 'on me possessing a famous car'
 </details>

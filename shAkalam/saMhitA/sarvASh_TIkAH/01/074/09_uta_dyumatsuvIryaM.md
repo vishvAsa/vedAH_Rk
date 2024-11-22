@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyumát ← dyumánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -123,7 +126,8 @@ devébhyaḥ ← devá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, divine **Agni**, you are desirous of bestowing upon the offerer (of oblations) to the gods, ample (wealth), brilliant, and giving vigour.”
 </details>

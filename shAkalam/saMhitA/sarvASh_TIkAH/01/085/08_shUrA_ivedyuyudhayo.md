@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -182,7 +185,8 @@ tveṣásaṁdr̥śaḥ ← tveṣásaṁdr̥ś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like heroes, like combatants, like men anxious for food, the swift-moving (**Maruts**) have engaged in battles; all beings fear the Maruts, who are the leaders (of the rain), and awful of aspect, like princes.”
 </details>

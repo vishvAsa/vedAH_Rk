@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ yájamānasya ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the slayer of **Vṛtra**, the destroyer of cities, has scattered the black-sprung servile (hosts); he engendered the earth and the waters for **Manu**; may he fulfill the entire prayer of the sacrificer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Has scattered the black-sprung servile hosts: kṛṣnayonir dāsīr airyad vi, he scattered the sacrifice-disturbing **asura** armies {kṛṣṇayoni = nikṛṣṭa **jāti**;
 

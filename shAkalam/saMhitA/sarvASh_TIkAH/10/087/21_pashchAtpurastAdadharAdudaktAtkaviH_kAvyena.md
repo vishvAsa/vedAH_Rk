@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adharā́t ← adharā́t (invariable)  
 {}
 
@@ -179,7 +182,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Royal **Agni**, who are a sage, protect us by your wisdom on the west, on the east, on the south, on thenorth; do you, O friend, who are undecaying, (preserve me), your friend, to old age; do you who are immortal,(protect) us who are mortal.”
 </details>

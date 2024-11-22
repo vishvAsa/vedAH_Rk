@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhiyā́ ← dhī́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -180,7 +183,8 @@ víśvāni ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I have undertaken) to spread around with a new hymn, as i was done of old, (the glory of) you, the ancient and most mighty (**Indra**); may that Indra, who is illimitable, and is a sure conveyance, bear us over all difficulties.”
 </details>

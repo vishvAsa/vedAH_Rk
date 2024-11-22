@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 budhnáḥ ← budhná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ draviṇodā́m ← draviṇodā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The source of opulence, the bestower of riches, the director of the sacrifice, the accomplisher of the desires (of the man) who has recourse to him; him the gods, preserving their immortality, retain as the giver of (sacrificial) wealth.”
 </details>

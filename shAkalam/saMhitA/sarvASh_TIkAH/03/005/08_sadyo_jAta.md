@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātáḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -169,7 +172,8 @@ uruṣyát ← √uruṣy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as genitive rated he is borne aloft by the plural nts, which grow flourishing by moisture, as the beautifying waters descend; may he, in the bosom of his parents, protect us.”
 </details>

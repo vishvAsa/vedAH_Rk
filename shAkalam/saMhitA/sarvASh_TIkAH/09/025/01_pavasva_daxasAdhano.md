@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 dakṣasā́dhanaḥ ← dakṣasā́dhana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -113,7 +116,8 @@ vāyáve ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Green-tinted (**Soma**), do you who are the bestower of strength, the exhilarating, flow as a beverage for the gods, for the **Maruts** and for **Vāyu**.”
 </details>

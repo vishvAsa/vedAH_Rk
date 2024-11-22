@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́gaḥ ← ā́gas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -215,7 +218,8 @@ r̥tóḥ ← r̥tú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Cast off from me sin, **Varuṇa**, as if it were a rope; may we obtain from you a channel (filled) with water; cut not the thread of me (engaged in) weaving pious works; blight not the elements of holy rites before the season (of their maturity).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 mádaḥ ← máda- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ yajñáḥ ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty (**Indra**) is resplendent (through the sacrifice), the joy of the worshipper is resplendent;vigorous are the two horses of you rapidly approaching, whose hymn is unassailable (by the **rākṣasas**); (this)sacrifice is apart, not human.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., it is from heaven
 </details>

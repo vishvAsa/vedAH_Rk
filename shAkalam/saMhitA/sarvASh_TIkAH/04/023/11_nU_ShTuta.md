@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -193,7 +196,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorified (in the past), glorified, **Indra**, at present, satisfy your worshipper with food, as rivers (are filled with water); lord of horses, a new hymn has been made for you; may we possessed of chariots, be ever diligent in our praise.”
 </details>

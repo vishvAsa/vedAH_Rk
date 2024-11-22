@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -165,7 +168,8 @@ pr̥thivyā́ ← pr̥thivī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Most diligent (in pious rites) this (your worshipper), **Indra** and **Varuṇa**, desirous of wealth, incessantly invokes, you for protection; associated with the **Maruts**, with heaven and earth, hear my invocation.”
 </details>

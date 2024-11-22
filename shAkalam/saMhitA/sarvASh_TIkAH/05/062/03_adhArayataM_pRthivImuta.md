@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhārayatam ← √dhr̥- (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -169,7 +172,8 @@ vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Royal **Mitra** and **Varuṇa**, you uphold, by your energies, earth and heaven; prompt benefactors, cause the plural nts to grow, give nourishment to the cattle, send down the rain.”
 </details>

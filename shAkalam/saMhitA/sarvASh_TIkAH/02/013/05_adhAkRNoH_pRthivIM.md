@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -223,7 +226,8 @@ ukthyàḥ ← ukthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as you have rendered earth visible to heaven, and have set open the path of the rivers by slaying Ahi; therefore the gods have rendered you divine by praises, as (men) invigorate a horse by water; (and) you are, (**Indra**), to be praised.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥tā́vānam ← ŕ̥tāvan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ suvitā́ya ← suvitá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We implore for present riches, the many-moving tawny-rayed, resplendent **Agni**, whom mighty venerable, wise, adorable, and dwelling in the sky, the wind (brought down) and deposited (upon the earth).”
 </details>

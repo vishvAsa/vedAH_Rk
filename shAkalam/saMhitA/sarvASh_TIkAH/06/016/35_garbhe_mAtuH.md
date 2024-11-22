@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 gárbhe ← gárbha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -126,11 +129,13 @@ yónim ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Radiant in the embryo of the maternal (earth), on the imperishable (altar); the cherisher of the paternal (heaven), sitting on the seat of sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The cherisher: he **mātuḥ**, putuṣpitā: the mother of **Agni** is the earth, the father is heaven; Agni is said to be the father or fosterer of his parent heaven, by transmitting to it the flame and smoke of burnt-offerings
 </details>

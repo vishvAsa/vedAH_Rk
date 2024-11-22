@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dādr̥hāṇáḥ ← √dr̥h- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
 
@@ -271,11 +274,13 @@ like with an axe, you cut [him] down.
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grasping his sharp thunderbolt with both **hands**, **Indra** whetted it to hurl it (on his foes), like the water (of an imprecation); he whetted it for the destruction of Ahi. Indra, who are fully endowed with strength, with energy, with might, you cut (our enemies) to pieces, as a wood-cutter the trees of a forest; you cut them to pieces as if with a hatcheṭ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the water of an imprecation: udakam yathā śatrūṇām nirasnāya abhyimantraṇādi saṃskāreṇa tikṣnīkṛyate = that is, like water which is poured out for the destruction of enemies, rendered fatal by the formula of imprecation
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rakṣásaḥ ← rakṣás- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -207,7 +210,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Consume with your brightest (weapon) the **rākṣasas**, who have held your witnessed prowess in disdain; manifest, **Bṛhaspati**, your glorified (vigour), such as it was (of old), and destroy those who speak against you.”
 </details>

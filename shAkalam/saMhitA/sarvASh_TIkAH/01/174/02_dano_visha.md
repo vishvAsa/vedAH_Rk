@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dánaḥ ← √damⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -179,11 +182,13 @@ yū́ne ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have humbled the people, suing for pardon when you have destroyed their seven new cities; you the irrproachable have dispersed the flowing waters; you have destroyed **Vṛtra** for the sake of the youthful **Purukutsa**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You have humbled the people: dano **viśa** **indra** mṛdhravācas = make liberal men soft-spoken, dānamanaso manuṣyān indra mṛduvācaḥ **kuru**; another interpretation, based on rurhi, current aceptation: you have made the subject (rain), soliciting ofrbearance, descend (in showers); when you have rent asunder the gliding, world-filling (clouds), then, irreproachable one, you did make the wates flow in channels, and did open the chief cloud for young Purukutsa
 </details>
@@ -204,7 +209,8 @@ As was just noted, the verb of b, pāda-final dart (√dṛ), appears to be a 3r
 
 Note the phonetic play in #rṇ̥ ór ... árṇā(ḥ)#.
 
-Purukutsa is chronologically out of place here. Elsewhere he is a semihistorical figure, the father of Trasadasyu and a contemporary of Sudās, so Vrtra ̥ should be out of his league and his time period. But he does figure in VI.20.10, immediately after the pāda identical to our b: VI.20.10d hán dā́sīḥ purukútsāya śikṣan “He [=Indra] smote the Dāsa (clans), doing his best for Purukutsa,” where the action described can be contemporary (or in the immediate past) and therefore chronologically possible. I think it likely that Purukutsa has been imported from VI.20.10 to anticipate the more properly mythological Kutsa in vs. 5. These two agreements with VI.20.10 support each other and are good evidence for the dependence of our vs. on that vs. ### 03
+Purukutsa is chronologically out of place here. Elsewhere he is a semihistorical figure, the father of Trasadasyu and a contemporary of Sudās, so Vrtra ̥ should be out of his league and his time period. But he does figure in VI.20.10, immediately after the pāda identical to our b: VI.20.10d hán dā́sīḥ purukútsāya śikṣan “He [=Indra] smote the Dāsa (clans), doing his best for Purukutsa,” where the action described can be contemporary (or in the immediate past) and therefore chronologically possible. I think it likely that Purukutsa has been imported from VI.20.10 to anticipate the more properly mythological Kutsa in vs. 5. These two agreements with VI.20.10 support each other and are good evidence for the dependence of our vs. on that vs. _________
+**03**  
 Geldner suggests that the śū́ra- in śū́rapatnīḥ ‘whose lord is a champion’ is Indra himself, which seems correct.
 
 Geldner (/Witzel Gotō) takes vṛ́taḥ … dyā́ṃ ca as the conjoined obj. of ájā ‘drive’; the two objects are then picked up by yébhiḥ (Geldner: “Führe die Heere … und den Himmel, mit denen …”). The problem (besides the question of whether it’s possible or desirable to drive heaven anywhere) is that vṛ́taḥ is fem. pl. and dyā́m is masc. sg., and yébhiḥ is neither one. I follow Oldenberg’s interpr., also adopted by Renou, that sees an “X and which Y” constr. -- with the twist that the ca does not follow the rel. prn. (as in yé ca devā́ḥ in 1a), but precedes it, with another part of the rel. cl. fronted around it (dyā́ṃ ca yébhiḥ).

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; repeated line  
 popular
-#### Morph
+_________
+**Morph**  
 abhibhū́ḥ ← abhibhū́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, overpower all beings by your might, you have reached all worlds.”
 </details>

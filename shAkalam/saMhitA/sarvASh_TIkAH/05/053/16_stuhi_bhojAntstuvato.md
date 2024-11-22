@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ kāmínaḥ ← kāmín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise the givers of enjoyment, (the **Maruts**), at the sacrifice of this worshiper, (for they) delight in (pious praise) like cattle in fodder; wherefore call upon them as if upon friends; praise them, desirous of praise, with a sacred hymn.”
 </details>

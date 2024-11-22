@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 pánthāḥ ← pánthā- ~ path- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -210,7 +213,8 @@ rákṣa ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your paths, **Savitā**, are prepared of old, and free from dust, and well plural ced in the firmament; (coming) by those paths easy to be traversed, preserve us today. Deity, speak to us.”
 </details>

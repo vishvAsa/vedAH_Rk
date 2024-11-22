@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 indrāvaruṇā ← índrāváruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -197,11 +200,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “True, O **Indra** and **Varuṇa**, is that saying of Kṛsa's, 'the seven sacred voices distil a stream of honey',for their sake help the worshipper, O you lords of splendour, who reverence you devoutly in his thoughts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 RV.9.103.3, 'the **Soma** streams through the sheep's **wool** round the honey-dropping vessel, the seven voices of thesacred bards shout to it'
 </details>

@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índavaḥ ← índu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -268,7 +271,8 @@ sumr̥ḷīkáḥ ← sumr̥ḷīká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, showerer (of blessings), these effused **Soma**, (expressed) by stones, and which have sprung (from mountain), are for your drinking; these libations have burst forth for you; may they satisfy you as an offering presented (in the hope of receiving) great and wonderful riches. Acceptor of laudations, come to us, glorified by our hymns; come to us well plural ased.”
 </details>

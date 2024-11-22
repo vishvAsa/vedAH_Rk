@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́nām ← devá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -197,11 +200,13 @@ vavartati ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In what manner, and of which of the gods, who hear (our praises) at the sacrifice, may we enunciatethe venerable name? Who will show us compassion? Which of them will grant us happiness? Which of themcomes for our protection?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Compassion: mṛḷatirupadayākarmā: **Nirukta** 10.15
 </details>

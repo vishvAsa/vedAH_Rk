@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -205,7 +208,8 @@ váṁsat ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who spontaneously presents you, **Indra** and **Varuṇa** (oblations), is liberal, wealthy and upright; he has to prosper with the food of his adversary, and possess riches, and opulent descendants.”
 </details>

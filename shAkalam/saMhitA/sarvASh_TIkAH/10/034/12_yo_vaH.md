@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gaṇásya ← gaṇá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -214,11 +217,13 @@ vadāmi ← √vadⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dice, I offer salutation to him who has been the genitive ral of your great army, the chief lord of your host;I do not provide him with wealth; I raise my ten (fingers) to the east; that (which) I speak (is) the truth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I do notprovide him wealth: na danā ruṇadhmi = I do not withhold my wealth; na sampādayāmi
 </details>

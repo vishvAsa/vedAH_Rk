@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -198,11 +201,13 @@ pratarám ← pratarám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yami** speaks). I invite my friend to friendship, having come over the vast and desert ocean; mayVedhas, after reflecting, plural ce in the earth the offsprig (of you) the father, edowed with excellent qualities.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Plural ceiṇ..qualities: may **Prajāpati** bestow offspring for the sake of you becoming the father of a son to be born to us;**adhi** kṣami (upon the earth) = in my womb
 </details>

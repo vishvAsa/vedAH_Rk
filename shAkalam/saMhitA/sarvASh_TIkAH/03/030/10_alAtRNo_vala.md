@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 alātr̥ṇáḥ ← alātr̥ṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The heavy cloud, the receptacle of water, dreading you its destroyer, opened out before (you had cast your bolt); then **Indra** made easily-traversed paths for the waters to issue, and desirable and loud sounding they proceeded to the (waters of the earth) invoked of many.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Heavy cloud: alātṛṇo **valaḥ** = a cloud, that which by its abundance of water, is able to do mischief; cf. **Nirukta** 6.2; desirable and loud-sounding: prāvan puruhūtam, vāṇirdhamantīḥ = vananīyaḥ 'sabdāyamānās-tā āpaḥ puruhūtam bahubhirāhūtam pārthivam udakam abhyagacchan;
 

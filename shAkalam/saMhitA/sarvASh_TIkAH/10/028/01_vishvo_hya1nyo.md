@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; 12 = 5+7, ending LHX  
 popular
-#### Morph
+_________
+**Morph**  
 ājagā́ma ← √gam- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -208,11 +211,13 @@ svā̀śitaḥ ← svā̀śita- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The wife of Vasukra speaks). Every other (divine) lord has come, but my father-in-law has notcome;may he eat the parched grain; and drink the **Soma**; when he is well-satisfied, may he return home.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: **Indra** came in disguise to a sacrifice celebrated by Vasukra, whose wife, not recognizing him, prayed forhis presence; to satisfy her that he had actually come, the following dialogue occurs
 </details>

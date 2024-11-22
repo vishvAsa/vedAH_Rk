@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 híraṇyaiḥ ← híraṇya- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -179,7 +182,8 @@ tanū́ṣu ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like wealthy bridegrooms who have decorated their person ns with golden (ornaments) and purifying waters, so the noble and powerful **Maruts**, associated together in their chariots, have made great (preparation) in their several person ns for their embellishment.”
 </details>

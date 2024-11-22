@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īḷitáḥ ← √īḍ- ~ √īḷ- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -218,7 +221,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Agni**, whom Vadhryaśva propitiating you formerly kindled, accept this; be the proector of oursacrifices, be the protector of our bodies; preserve this wealth which has been given to us by you.”
 </details>

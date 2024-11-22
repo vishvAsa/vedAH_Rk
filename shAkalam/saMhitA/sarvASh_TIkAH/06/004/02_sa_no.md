@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakṣáṇiḥ ← cakṣáṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ uṣarbhút ← uṣarbúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that **Agni**, who, like the illuminator of the day, is resplendent and cognizable (by all), gran us commendable food; he who is the life of all, immortal, who knows all that exists, who is our guest, waking among men at dawn.”
 </details>

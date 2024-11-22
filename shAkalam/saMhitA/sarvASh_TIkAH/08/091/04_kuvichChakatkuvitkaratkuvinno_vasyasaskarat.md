@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 kárat ← √kr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -162,7 +165,8 @@ saṁgámāmahai ← √gam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (**Indra**) repeatedly make us powerful, may he do abundantly for us, may he repeatedly make usvery rich; often hated by our husband and forced to leave hi, may we be united to Indra.\]”
 </details>

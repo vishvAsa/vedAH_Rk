@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -131,11 +134,13 @@ jaítrāya ← jaítra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the forms (of **Indra**) have sufficiently entered into our own spacious abode; gratify Indra the lord ofŚacī, (that he may give us) the spoil of victory.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 All the forms: i.e. the various attributes celebrated in ourpraises
 </details>

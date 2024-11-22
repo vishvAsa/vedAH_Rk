@@ -23,15 +23,18 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 amŕ̥tasya ← amŕ̥ta- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -166,7 +169,8 @@ pūṣáṇaḥ ← pūṣáṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They are the lords of the ambrosia, adorable, **Aryaman**, **Mitra**, the circumambient **Varuṇa**, **Rudra**, whois hymned by the priests, the **Maruts**, **Pūṣan**, **Bhaga**.”
 </details>

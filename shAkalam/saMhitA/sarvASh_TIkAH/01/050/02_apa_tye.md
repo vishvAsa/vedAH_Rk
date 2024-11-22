@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -117,11 +120,13 @@ viśvácakṣase ← viśvácakṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(At the approach) of the all-illuminating Sun, the constellations depart with the night, like thieves.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Nakṣatrāṇi** = lunar asterims or stars, in genitive ral, which are abodes of the gods or the visible forms of pious person ns after death: **devagṛha** vai nakṣatrāṇi, the constellations are verily the abodes of the gods; yo vā iha yajate amum. lokam. nakṣate = he who performs worship here obtains the next world; sukṛtam. vā etāni jyotiṃṣi yan nakṣatrāṇi = those constellations are the luminaries of those who practise religious acts, i.e. those who by attending to religious duties in this world attain **svarga**, are beheld in the form of constellations: iha loke karmānuṣṭhāya yi svargam prāpnuvanti te nakṣatrarūpeṇa dṛṣyante
 </details>

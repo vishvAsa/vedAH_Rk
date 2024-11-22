@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 mayūryàḥ ← mayūrī́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -153,11 +156,13 @@ udakám ← udaká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the thrice-seven peahens, the seven-sister rivers, carry off, (O Body), your poison, as maidens, with pitchers, carry away water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thrice-seven peahen: tri saptamayūryaḥ, an allusion to the enmity between peafowl and snakes; 21 varities of mayurī or peahen; the seven rivers are those of heaven, or the branches of the divine **gaṅgā**; all running streams are possibly regarded as antidotes
 </details>

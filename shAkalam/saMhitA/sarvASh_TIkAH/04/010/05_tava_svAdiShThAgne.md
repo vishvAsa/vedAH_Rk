@@ -24,16 +24,19 @@ ChandaH = "महापदपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 svā́diṣṭhā ← svā́diṣṭha- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -157,7 +160,8 @@ upāké ← upāká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your lovely radiance, **Agni**, whether by day or by night, shines upon (all objects) like an ornament (to give them) beauty.”
 </details>

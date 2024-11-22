@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citráḥ ← citrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vidā́ḥ ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wonderful (**Agni**), giver of dwellings, encourage us by (your) protection, and (the gift of) riches, for you are he conveyer, Agni, of this wealth; quickly bestow permanence upon our progeny.”
 </details>

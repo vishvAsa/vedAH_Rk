@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hárīṇām ← hári- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -129,11 +132,13 @@ stuvatáḥ ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let me address the lord of steeds, who associates his strength (with the **Maruts**); now hear the words ofthe son of **Vyaśva** praising you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dakṣam = **radhaḥ**;
 

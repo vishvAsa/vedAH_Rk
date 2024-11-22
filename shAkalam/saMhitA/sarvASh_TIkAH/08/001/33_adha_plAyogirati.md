@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -191,11 +194,13 @@ sárasaḥ ← sáras- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(So praise me, saying), "**Asaṅga**, the son of plural \_yoga, has given more than others, **Agni**, by tens ofthousands; ten times the (number of) vigorous and brilliant oxen (given by him) to me, issue forth like the reeds ofa lake.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ten times: **daśa** = daśa guṇita **sahasra** saṅkhyākāḥ
 </details>

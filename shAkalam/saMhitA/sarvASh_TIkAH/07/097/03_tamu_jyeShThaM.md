@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havírbhiḥ ← havís- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -193,7 +196,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify with homage and with oblations that most excellent and beneficent **Brahmaṇaspati**; may mypraise worthy of the deity, attain to the mighty **Indra**, who is the lord of the prayers offered by the devout.”
 </details>

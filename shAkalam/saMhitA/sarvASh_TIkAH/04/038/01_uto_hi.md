@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dātrā́ ← dātrá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -187,11 +190,13 @@ ugrám ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Trasadasyu** has bestowed upon many the ancient (gifts) which were obtained by the liberal (prince) through your (favour, Heaven and Earth) you two have given a horse, a son, a weapon (for the destruction) of the **Dasyus**, fierce and foe-subduing.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Heaven and earth: the dual pronoun, vām, of you two, implies heaven and earth; you two have given a horse, a son: kṣetrāsām : from **kṣetra**, land;
 

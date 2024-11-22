@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 tántubhiḥ ← tántu- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -202,11 +205,13 @@ vaya ← √u- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sacrifice which is extended on every side by the threads (of created things) spread out by theworship of the gods for a hundred and one (years), these our progenitors, who have preceded us, weave it,weaving forwards, weaving backwards, they worship (**Prajāpati**) when (the world) is woven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Weaving forwards:by combining the superior and inferior weaving, i.e., the intellectual and unintellectual, the enjoyer and theenjoyable, animate and inanimate existence. "Saying, 'weave forwards, weave backwards';
 

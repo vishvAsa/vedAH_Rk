@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhū́mim ← bhū́mi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -187,7 +190,8 @@ dhattam ← √dhā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the plural ugh shares break up our land happily; may the plural ughman go happily with the oxen; may **Parjanya** (water the earth) with sweet showers happily; grant, **Śuna** and **Sīra**, prosperity to us.”
 </details>

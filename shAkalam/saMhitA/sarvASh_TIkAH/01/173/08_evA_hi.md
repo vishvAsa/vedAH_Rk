@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -224,7 +227,8 @@ yádi ← yádi (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The libations (offered) to you are, verily, the cause of happiness, since the divine waters (effused) in the firmament for the benefit of mankind afford you satisfaction. All praise, **Indra**, is acceptable to you, and you reward with understanding those who praise you.”
 </details>

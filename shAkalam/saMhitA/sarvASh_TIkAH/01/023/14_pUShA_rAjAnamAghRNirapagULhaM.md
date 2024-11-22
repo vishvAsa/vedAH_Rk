@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́ghr̥ṇiḥ ← ā́ghr̥ṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -112,11 +115,13 @@ citrábarhiṣam ← citrábarhiṣ- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The resplendent **Pūṣan** has found the royal (**Soma** juice), although concealed, hidden in a secret plural ce, strewed amongst the sacred grass.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Guhā**-hitam = plural ced in a cave or in a plural ce difficult of access; guhāsadṛśe durgame dyuloke
 </details>

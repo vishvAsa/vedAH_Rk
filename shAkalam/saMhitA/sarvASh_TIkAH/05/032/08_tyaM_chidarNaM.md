@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árṇam ← árṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fierce **Indra** seized upon him, that vast moving (**Vṛtra**), when slumbering, (after) having drunk the **Soma**, subduing (his foes), and enveloping (the world), and then slew him with his great weapons in battle, footless, measureless, speechless.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Apādam amatram mṛdhravācam: amatram = aparimāṇam, without measure, or perhaps bulk
 </details>

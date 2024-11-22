@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ahema ← √hi- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -175,11 +178,13 @@ vádhar ← vádhar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through desire of food, **Indra**, we, contributing to your vigour, spontaneously address to you (our) praise; secure of you, may we rely upon your friendship; hurl your thunderbolt against the godless Pīyu.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May we rely upon your friend: aśyāma tat saptam: sapta = from sapta, seven; a synonym of sapta padīnam,or sakhyam, friendship;
 

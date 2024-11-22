@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṁśávaḥ ← aṁśú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -150,7 +153,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the yellow **Soma** stalks milk forth as cows from their udders, when the devout (priests) repeat thewords of praise, then, O **Aśvins**, preserve us.”
 </details>

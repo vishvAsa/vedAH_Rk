@@ -23,15 +23,18 @@ ChandaH = "न्यङ्कुसारिणी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 asmayúḥ ← asmayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -156,7 +159,8 @@ vedátā ← vedátā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty **Indra**, do you, who are well affected towards us, ever protect this worshipper wherever he maybe, so that he may attain his desire; instrumental uct me, **Vasu**, by your wisdom.”
 </details>

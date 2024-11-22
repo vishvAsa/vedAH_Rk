@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agnaú ← agní- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ vajrin ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I consider (the oblation) as cooked in the udder (of the cow), I consider it cooked in the fire, I considerthis pure and fresh (oblation) well- cooked; **Indra**, wielder of the thunderbolt, doer of many deeds, drink wellpleased of the curd of the noon-day sacrifice.”
 </details>

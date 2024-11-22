@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 havíṣā ← havís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -174,11 +177,13 @@ sūríḥ ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**VIśvakarman**, magnified by the oblation, do you of yourself worship earth and heaven; let other men(who offer no oblations) be everywhere confounded; may he, rich in oblations, be the granter of heaven at thisour (sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Magnified by oblation: or, by me, Viśvakarman, becoming an oblation. In the previous ṛca.,haviṣā = at the oblation = when I am made an oblation; cf. **Nirukta** 10.27; **Yajus**. 17.22;
 

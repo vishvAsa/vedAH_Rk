@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhiṣā́ ← dhiṣā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -170,11 +173,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the repeaters of (his) commendations, abiding in the dwelling of the worshipper, approach **Indra** with praise, may he who is our (great) sustainer in conflicts, whose wrath is difficult to be (appeased), becomes the ministering priest of the master of the house.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of the worshipper: auśijasya, from uśij, a priest, one who employs priests;
 

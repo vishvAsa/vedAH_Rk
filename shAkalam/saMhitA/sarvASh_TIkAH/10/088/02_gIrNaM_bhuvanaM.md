@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ápagūḷham ← √guh- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -195,7 +198,8 @@ sakhyé ← sakhyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The whole world swallowed up, hidden in darkness, was made manifest when **Agni** was born; thegods, heaven and earth, the waters and the plural nts rejoiced in his friendship.”
 </details>

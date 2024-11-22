@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ánipadyamānam ← ánipadyamāna- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ varīvarti ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have beheld the unwearied protector of the universe, the sun, travelling upwards, the downwards by various paths;invested with aggregative and diffusive radiance, he revolves in the midst of the regions.”
 </details>

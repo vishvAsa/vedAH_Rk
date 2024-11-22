@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sámiddhāgniḥ ← sámiddhāgni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ síndhum ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He whose fire is kindled, whose sacred grass is strewn, offers worship; he whose stone is uplifted, whose **Soma** juice is effused, offers praise; the priests, of whom the stones utter the sounds of bruising, descends with the oblation (for previous ablution) to the stream.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágre ← ágra- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -212,11 +215,13 @@ nárā ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the beginning of the day the green-tinted delightful exhilarating (**Soma**) is recognized by the intelligence (of the praisers) and by their praises; approaching the two men he passes in the midst (of heaven and earth, bestowing) upon the upholder (of the rite) both human and divine (riches).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The two men: i.e., the praiser and the worshipper; or, secular and sacred people (laukikavaidikau)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asaścátaḥ ← asaścát- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -180,11 +183,13 @@ havíḥ ← havís- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those (juices) which are in the third world, the world of many streams, unconnected, bestowing progeny, descend; the four digits (of the **Soma**) sent down from heaven bearing water bring the oblation and the nectar.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The four digits: **nābhaḥ** = rays, dīptayaḥ; or, digits (**kalaḥ**) of the Soma; derived from **nābhas**, heaven and the root naḥ, to bind (nābhaḥ = nabhaso bādhikaḥ, obstructing heaven)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anidhmáḥ ← anidhmá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ yā́bhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(He) who shines, without fuel, in the midst of the waters, he whom the pious worship at sacrifices,grandson of the waters, give us those sweet waters by which (mixed with the **Soma**), **Indra** is elevated toheroism.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma person nified, as the grandson of the waters is related to Soma which is to be mixed with the waterof the Vasatīvarī
 </details>

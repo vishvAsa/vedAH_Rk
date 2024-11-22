@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -169,7 +172,8 @@ vr̥jinā́ni ← vr̥jiná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These your friends, **Agni**, everywhere dispersed, were formerly unhappy (in abandoning your worship), but are again fortunate (by its renewal); may they who, with (censorious) words, impute fraudulent (practices) to me who pursue a straight path, bring eveil upon themselves.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -193,7 +196,8 @@ turāsaḥ ← turá- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Including our sons and grandsons in that preserving and auspicious felicity which **Aditi**, **Mitra** andVaruṇa confer upon the liberal donor (of the oblation), may we never, acting precipitately, incur the displeasureof the deities.”
 </details>

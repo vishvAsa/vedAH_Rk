@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyāsaḥ ← átya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -184,7 +187,8 @@ vatsā́saḥ ← vatsá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The swift-moving **Maruts** are like rapid horses, shining like men gazing at a festival innocent as childrenin the (paternal) mansion, frolicsome as calves, they are the dispensers of water.”
 </details>

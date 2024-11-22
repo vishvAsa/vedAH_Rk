@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nápātam ← nápat- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ yakṣate ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the great grandson of (sacrificial) food, the possessor of opulence, the illuminator, the shedder ofexcellent light; may he obtain for us by sacrifice the happiness in heaven (that is the gift) of **Mitra**, of **Varuṇa**, ofthe waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sāmaveda** replaces urjo napātam, with apām napātam: from burnt-offerings the rains aregenerated; from them timber; from timber, fire
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 árāyi ← arāyī́- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -130,11 +133,13 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Miserable, ill-favoured, deformed, ever-railing (goddess), go to your mountain; with these exploits ofŚirimbiṭha we scare you away.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Miserable: arāyi = not giving; or name of a goddess; durbhik.sādidevatā,goddess of famine, etc., i.e., distress or misery; or, **alakṣmī**, i.e., misfortune; with these exploits of śirimbiṭha:or, with the essences (of waters) of the cloud
 </details>

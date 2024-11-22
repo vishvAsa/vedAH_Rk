@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -182,7 +185,8 @@ rirīhi ← √rā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sovereign of old, do you, when glorified, bestow upon him who praises you, and to whom affluence is due abundant food; grant to the worshipper water, plural nts, inoxious woods, cattle, horses and men.”
 </details>

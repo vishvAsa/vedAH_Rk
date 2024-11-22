@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -199,7 +202,8 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offerer of the oblation, frequent celebrator of sacrifice, now sit down on the foot-m ark of Iḷā, accepting the (sacrirficial) food, and being glorified; devout men, expectant of great riches, have recourse to you as to the first (of the gods).”
 </details>

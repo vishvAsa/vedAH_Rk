@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́m ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -181,7 +184,8 @@ reṇúm ← reṇú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Warriors well mounted, ardent for contest invoke me; selected (combatants invoke) me in battle; I, the affluent **Indra**, instrumental gate the conflict, and, endowed with victorious prowess, I raise up the dust (in the battle).”
 </details>

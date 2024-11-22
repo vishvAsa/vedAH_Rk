@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
 
@@ -190,11 +193,13 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the seven times seven all-potent (**Maruts**, aggregated as) a single troop, bestow upon me hundreds (of cattle) may I possess wealth of cows, renowned upon the (banks of) the **Yamunā**; may I possess wealth of horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Upon the banks of Yamunā: yamunāyām **adhi** śrutam rādho gavyam: an extraordinary allusion anticipating **Gokula** of **Kṛṣṇa**
 </details>

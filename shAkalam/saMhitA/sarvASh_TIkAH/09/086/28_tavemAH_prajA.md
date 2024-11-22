@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyásya ← divyá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -204,7 +207,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All these are the offspring of your celestial effluence; you are the ruler of the whole world; so, purified (**Soma**) this universe is in subjection to you; you, **Indu**, are the foremost, the supporter of the house.”
 </details>

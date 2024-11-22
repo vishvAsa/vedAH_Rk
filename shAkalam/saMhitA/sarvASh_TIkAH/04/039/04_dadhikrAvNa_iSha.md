@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhikrā́vṇaḥ ← dadhikrā́van- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ vájrabāhum ← vájrabāhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “While we glorify the name of the great Dadhikrā the means of sustenance and of strength, the prosperity of those who praise (him), let us invoke (also) for our welfare **Varuṇa**, **Mitra**, **Agni**, and **Indra**, the bearer of the thunderbolt.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of those who praise him: the text has marutām **nāma** bhadram: marutām = stotṛṇām, of the praisers
 </details>

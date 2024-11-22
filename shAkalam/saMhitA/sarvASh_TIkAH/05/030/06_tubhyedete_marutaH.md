@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -184,11 +187,13 @@ sakṣat ← √sah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These devoted **Maruts** eulogise you with pious praise, and pour out to you the sacrificial food; **Indra** has overcome by his device the guileful Ahi, harassing the gods and arresting the waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Maruts: Or, maruts may here signify praisers, worshippers, stotāraḥ
 </details>

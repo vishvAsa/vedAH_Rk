@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arthínaḥ ← arthín- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -176,11 +179,13 @@ vyùṣṭau ← vyùṣṭi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She animates the diligent, and sends clients (to their patrons); and shedder of dews, knows not delay; bestower of food, at your rising the soaring birds no longer suspend (their flight).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Arthinaḥ visṛjati = she lets loose the solicitors; the explanation: te (yācakaḥ) uṣahkāle samutthāya svakīyadātṛgṛhe gacchanti, they, having risen at early morning, go to the houses of those who are their respective benefactors
 </details>

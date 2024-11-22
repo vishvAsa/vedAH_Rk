@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ánuvittaḥ ← √vid- 1 (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -190,7 +193,8 @@ páttave ← √pad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** speaks: This is the old and recognized path by which all the gods are born; so, when full-grown, let him be born in the same manner; let him not cause the loss of this his mother.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 íḷā ← íḷā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -114,7 +117,8 @@ sīdantu ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Iḷā, **Sarasvatī**, **Mahī**, the three goddesses who are the sources of happiness, sit down, benevolent, upon the sacred grass.”
 </details>

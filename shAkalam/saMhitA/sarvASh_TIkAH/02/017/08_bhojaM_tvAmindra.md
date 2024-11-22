@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhojám ← bhojá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -204,7 +207,8 @@ vr̥ṣan ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you, **Indra**, the bestower of enjoyment; you grant food, Indra, (in requital of pious) works; protect us, Indra, with manifold protections; Indra, showerer (of benefits), render us affluent.”
 </details>

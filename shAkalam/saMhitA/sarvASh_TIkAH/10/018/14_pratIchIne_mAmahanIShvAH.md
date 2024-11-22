@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 áhani ← áhar ~ áhan- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -156,7 +159,8 @@ yathā ← yathā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the knowledge of the plural ce, of their going, of their coming, of their departure, of theirwandering, of their returning; (I invoke) him who is their keeper.”
 </details>

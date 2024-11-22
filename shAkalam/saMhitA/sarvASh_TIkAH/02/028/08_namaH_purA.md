@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 námaḥ ← námas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -197,7 +200,8 @@ vratā́ni ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As we have offered adoration to you, **Varuṇa**, of old, in like manner as we offer it now, so may we offer it in future (to you), who are everywhere present; for in you, who are difficult of attainment, as in an (immoveable) mountain, all holy acts are assembled, and are not to be dissevered.”
 </details>

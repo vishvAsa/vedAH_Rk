@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 idhmám ← idhmá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -198,11 +201,13 @@ sacate ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who, labouring diligently, brings you fuel, honouring, **Agni**, your great glory; he who kindles you in the evening and at dawn; he, prosperous and destroying his enemies, acquires riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Doṣa** śvaḥ sahasoḥ suno yam **deva** a cit sacase **svasti**: **śivaḥ** to Agni as **śivakara**, making happy
 </details>

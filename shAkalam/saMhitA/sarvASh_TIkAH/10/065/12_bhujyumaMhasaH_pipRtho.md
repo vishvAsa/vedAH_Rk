@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁhasaḥ ← áṁhas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -171,11 +174,13 @@ víśvakāya ← víśvaka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Aśvins**, extricated **Bhujyu** from calamity, you gave to **Vadhrimatī** her son **Śyāva**; you gaveKamadyu (as a wife) to **Vimada**; you restored (the lost) Viṣṇāpu to **Viśvaka**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From calamity: from the sea, cf.RV 1.118.6;
 

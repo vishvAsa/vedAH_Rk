@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -183,7 +186,8 @@ ródasyoḥ ← ródasī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The neglecters of sacrifice, contending with the sacrificers, **Indra**, fled with averted faces. Indra, fierce, unyielding, lord of steeds, (they appeared) when you did blow the disregarders of religion from off the heaven, and earth and sky.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ántakam ← ántaka- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you rescued **Antaka**, (when cast into) a deep (pool), and about to be destroyed; by which, inflicting no distress, you preserved **Bhujyu**, and by which you relieved **Karkandhu** and **Vayya**; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Antaka was a **rājarṣi**, whom the **asuras** threw into a pond or a well;
 

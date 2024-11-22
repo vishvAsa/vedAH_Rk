@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -209,11 +212,13 @@ The "A~ngirasa ethics" are a rare fossil of early Aryan "dharma-subhAShita-s" pr
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the very rich man satisfy his suitor, let him look forward to a more protracted route, for richesrevolve from one man to another, as the wheels of a chariot turn round.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A more protracted route: i.e., the road ofvirtue; let him look further along the path of life, and he will see riches deserting the rich and going to otherṣFortune is fickle
 </details>

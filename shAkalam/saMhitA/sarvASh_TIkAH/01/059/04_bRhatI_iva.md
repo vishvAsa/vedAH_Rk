@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hatī́ ← br̥hánt- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -161,11 +164,13 @@ yahvī́ḥ ← yahvī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “. Heaven and earth expanded as it were for their son. The experienced sacrificer recites, like a bard, many ancient and copious praises addressed to the graceful-moving, truly-vigorous, and all-guiding **Vaiśvānara**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For their son: ubha pitarā mahayan ajāyata agnir **dyāvā** **pṛthivī**, both parents, heaven and earth, expanding, **Agni** was born; Like a bard: the text refers to **manuṣya**, like a man;
 

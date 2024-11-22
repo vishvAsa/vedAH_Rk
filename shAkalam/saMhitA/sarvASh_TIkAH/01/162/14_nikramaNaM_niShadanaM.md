@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 nikrámaṇam ← nikrámaṇa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -194,7 +197,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the plural ce of going forth, of tarrying, of rolling on the ground; the foot-fastening of the horse, (the water) that he has drunk, the grass that he has eaten; may all these be thine among the gods.”
 </details>

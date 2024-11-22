@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -167,7 +170,8 @@ vásumatā ← vásumant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, **Aśvins**, the pious priest repeating (your praises) glorifies you, **Nāsatyās** with hymns; cometherefore by formerly-trodden paths to our presence with your chariot, familiar with heaven, laden with treasure.”
 </details>

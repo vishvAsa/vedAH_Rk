@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábodhi ← √budh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -207,7 +210,8 @@ savitā́ ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** is awakened upon earth; the Sun rises; the spreading dawn, exhilarating (all) by her radiance, has dispersed (the darkness); harness, (therefore), **Aśvins** your chariot, to come (to the sacrifice), that the divine **Savitā** may animate allbeings to (the performance of) their several (duties).”
 </details>

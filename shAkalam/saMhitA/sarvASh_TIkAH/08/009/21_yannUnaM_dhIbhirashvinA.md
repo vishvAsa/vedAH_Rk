@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -130,11 +133,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Although, **Aśvins**, you be seated in the region of the paternal (heaven engaged in) holy rites, or,glorified by us, (abide there) with plural asures, (yet come here).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Paternal: pituḥ = dyulokasya, or yajamānasya; "ifyou abide with your praises in the sacrificial hall of the worshipper, or with the plural asure- conferring (oblations),then come here"
 </details>

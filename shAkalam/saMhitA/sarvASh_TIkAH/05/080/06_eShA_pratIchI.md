@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ yuvatíḥ ← yuvatí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, the daughter of heaven, tending to the west puts forth her beauty like a (well-dressed) woman, bestowing precious treasures upon the offerer of adoration; she, ever youthful, brings back the light as (she has done) of old.”
 </details>

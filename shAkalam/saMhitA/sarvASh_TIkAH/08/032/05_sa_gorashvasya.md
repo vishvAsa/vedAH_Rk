@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 áśvasya ← áśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -131,11 +134,13 @@ púram ← púr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Exhilarated by the **Soma** draughts, you, hero, throw open the pastures of the cattle and horses like a(hostile) city.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma draughts: somyebhyaḥ = somārhebhyaḥ, i.e. exhilarated, you throw them open to thoseworthy of the Soma or to the worthy offerers of the Soma
 </details>

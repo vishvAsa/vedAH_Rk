@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáye ← agní- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -126,7 +129,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we be they who propitiate **Agni** with gifts of oblations, and who, cherishing him, feed him with fuel.”
 </details>

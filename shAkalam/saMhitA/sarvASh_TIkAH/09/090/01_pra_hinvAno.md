@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hinvānáḥ ← √hi- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -176,11 +179,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Urged (by the priests) the genitive rator of heaven and earth advances like a chariot, wishing to distribute food; going to **Indra**, sharpening his weapons, holding all treasures in his **hands**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Advances: prayacchati, bestows; **Soma** is the genitive rator of earth by giving rain, and of heaven by obtaining the oblation
 </details>

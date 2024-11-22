@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhānām ← áhar ~ áhan- (nominal stem)  
 {case:GEN, gender:N, number:PL}
 
@@ -146,7 +149,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I address the **Aśvins**, glorifying them at break of day; we solicit them with oblations.”
 </details>

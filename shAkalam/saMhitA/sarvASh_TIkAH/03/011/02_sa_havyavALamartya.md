@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámartyaḥ ← ámartya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -124,11 +127,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That **Agni**, who is the bearer of oblations, the immortal, the desirer (of offerings), the messenger (of the gods), and is the receiver of sacrificial viands, is associated with understanding.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dhiyā samṛṇvati, i.e. Agni is fully aware of the objects of the ceremony, and a wish is implied that he may communicate similar knowledge to its performers, tān tādṛk prajñānvitān karotu; another interpretation: **Yajus**. 22.16: through knowledge Agni associates with the gods, for the purpose of conveying the oblations to them
 </details>

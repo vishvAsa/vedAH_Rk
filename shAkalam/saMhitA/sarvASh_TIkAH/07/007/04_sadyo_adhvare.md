@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ r̥tā́vā ← ŕ̥tāvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Judicious men promptly genitive rate at the sacred rite the directing (**Agni**), who (may convey) their(oblations); Agni, the lord of men, the giver of delight, the swee-spoken, the celebrator of sacrifices, has beenestablished in the dwelling of the people.”
 </details>

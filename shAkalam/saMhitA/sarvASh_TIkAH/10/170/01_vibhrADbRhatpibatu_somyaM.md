@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 br̥hát ← br̥hánt- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -196,11 +199,13 @@ The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1.
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the radiant (**Sūrya**) drink much sweet **Soma**, bestowing unbroken life upon the lord of thesacrifice; (Sūrya), who impelled by the wind protects his people of his own accord, nourishes them and shinesin various plural ces.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Impelled by the wind: it is the circle of the **zodiac**; or, the solar orb which is driven along thewind; **Yajus**. 33.30
 </details>

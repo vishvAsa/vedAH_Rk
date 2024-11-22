@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -37,7 +39,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 huvema ← √hū- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
 
@@ -229,7 +232,8 @@ víśaḥ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, the instrumental tutors of the ceremony, invoke you, **Agni**, who are most deserving of worship, and are the eldest of the **Aṅgirasas**, with (acceptable) prayers; and with prayers (recited) by the priests, (we adore) you, who, like the traverser of the sky, (the sun), are the invoker (of the gods on behalf) of men, and whom, the bright-haired showeree (of blessings), many people approaching propitiate for the attainment of felicity.”
 </details>

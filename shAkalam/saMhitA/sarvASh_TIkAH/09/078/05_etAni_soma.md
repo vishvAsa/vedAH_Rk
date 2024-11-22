@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmayúḥ ← asmayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -205,7 +208,8 @@ urvī́m ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestowing all these true riches, loving us you flow, **Soma**, purified; destroy our enemy whether he be far or nigh; grant us a free road and freedom from danger.”
 </details>

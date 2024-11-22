@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 díśaḥ ← díś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -203,11 +206,13 @@ vimócanam ← vimócana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sūrya** harms not the quarters (of the horizon), set open daily (for his journey), the progeny of **Haryaśva**; when he has traversed the roads (he is to travel), then he lets loose his horses, for such is his office.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Harms not the quarters: **diśaḥ** sūryo na mināti na hiṃsati = he does not injure;
 

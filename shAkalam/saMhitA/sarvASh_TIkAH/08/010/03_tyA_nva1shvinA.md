@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -167,7 +170,8 @@ devéṣu ← devá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke those **Aśvins**, who are famed for great deeds, induced (to come here) for acceptance (of ouroblations), of whom among the gods the friendship is especially to be obtained.”
 </details>

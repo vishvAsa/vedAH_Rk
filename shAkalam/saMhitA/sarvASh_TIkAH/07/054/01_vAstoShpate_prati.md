@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́n ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -216,11 +219,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protector of the dwelling, recognize us; be to us an excellent abode the non-inflicter of disease;whatever we ask of you, be plural ased to grant; be the bestower of happiness on our bipeds and quadrupedṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protector: vastoṣpati: **pati**, lord or protector of the **Vastu**, the foundation of a house, put for the house itself; cf.Colebrooke, Asiatic Researches, Vol. VIII, p. 390
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -162,11 +165,13 @@ pitukŕ̥ttarebhyaḥ ← pitukŕ̥ttara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Adhvaryu**) praises you who are stronger even than heaven, quicker in work that Vibhvan, morediffusive of the **Soma** than **Vāyu**, more bountiful of food than **Agni**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vibhvan: one of the **ṛbhus**, sons ofSudhanvan
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 krandati ← √krand- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -201,7 +204,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “His thunderbolt draws cries (from his enemies), he is the sender of good waters, brilliant as (the luminary) of heaven, the thunderer, the promoter of beneficent acts, upon him do donations and riches attend; may **Indra**, associated with the **Maruts**, be our protection.”
 </details>

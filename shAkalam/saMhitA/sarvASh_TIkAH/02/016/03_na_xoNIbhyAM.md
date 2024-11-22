@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indriyám ← indriyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -213,7 +216,8 @@ yójanā ← yójana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your might, **Indra**, is not to be overcome by (that of) heaven and earth; nor is your chariot (to be stopped) by oceans or by mountains; no one can escape from your thunderbolt, when you traverse many leagues with rapid (horses).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -159,11 +162,13 @@ vajrī́ ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, Medhyātithi, and in the exhilaration of the draught sing to **Indra**, to him who has harnessed hishorses, who, when the **Soma** is poured out, is present, the wielder of the thunderbolt, whose chariot is of golḍ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Variants in **Sāmaveda**: pāhi gā andhaso for: pāhi gāyāndhaso; hiraṇyāya indro **vajrī** for: sute sacāvajrī ratho
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣám ← aruṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ yaṁsat ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke, from heaven, with reverence, him who has excellent food, who is radiant, and has braided hair, who is brilliant, and is to be ascertained (by sacred study), holding in his **hands** excellent medicaments; mayhe grant us health, defensive armour, and a (secure) dwelling.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Him who has excellent food: **varāha**, lit. a boar and one who has a hard body, like a boar; this is an abbrieviation of varāhāra, from **vara**, good, and **āhāra**, food
 </details>

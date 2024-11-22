@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyāmi ← √yam- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -198,11 +201,13 @@ tā́ni ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, the plural nts grow up, the sound (of praise) acceptable to the gods, (uttered) by theworshipper, has been raised; by no one among men, is his own life understood; convey us beyond all those sins(by which life is shortened).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When the plural nts grow up: yacchurudho irajyanta = oṣadhyo varddhante;
 

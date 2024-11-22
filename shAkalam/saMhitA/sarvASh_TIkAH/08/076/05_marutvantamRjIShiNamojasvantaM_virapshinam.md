@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 marútvantam ← marútvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -98,11 +101,13 @@ havāmahe ← √hū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke with our praises the mighty **Indra**, accompanied by the **Maruts**, the vigorous accepter of theresidue of the **Soma** oblation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Residue: ṛjīṣiṇam, the residue of the Soma (ṛjīṣa) being offered at theTṛtīya evening oblation
 </details>

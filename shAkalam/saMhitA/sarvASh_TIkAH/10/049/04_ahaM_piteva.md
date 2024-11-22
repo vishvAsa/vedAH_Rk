@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíṣṭaye ← abhíṣṭi- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -201,7 +204,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like a father (for a son), I brought under subjection to **Kutsa**, at his desire, the Vetasūs and Tugraand Smadibha I have been in plural ce of a sovereign to the worshipper when I bring (to him) as to a son acceptable(gifts) for assailing (his enemies).”
 </details>

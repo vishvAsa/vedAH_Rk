@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 manyúm ← manyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -110,7 +113,8 @@ purā́ ← purā́ (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unharmed he brings low the wrath of mortals; ere any one can reproach him, he brings him low.”
 </details>

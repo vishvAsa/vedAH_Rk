@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhúvanasya ← bhúvana- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -175,11 +178,13 @@ ukthyàm ← ukthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The supporter of heaven, the protector of the world, the wise (**Savitā**) puts on his golden armour discrimiator (of objects), filling (the world with light) Savitā has engendered great and laudable felicity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Puts on his golden armour: piśaṅgam drāpam **prati** muñcate = hiraṇyam huvenam acchādayati pratyudayam, every morning he puts on a golden cuirass
 </details>

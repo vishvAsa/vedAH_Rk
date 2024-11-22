@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apācyā́ḥ ← apācyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -139,11 +142,13 @@ viśā́ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be our protectors, whether coming with all their attendants from the west, from the north, from thesouth, from the east.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From the west: six directions are identified taking **nyak** as the nadir, itthā as the south andthe zenith
 </details>

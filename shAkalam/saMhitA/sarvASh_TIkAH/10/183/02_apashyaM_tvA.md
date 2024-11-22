@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ápaśyam ← √paś- (root)  
 {number:SG, person:1, mood:IND, tense:IPRF, voice:ACT}
 
@@ -185,7 +188,8 @@ putrakāme ← putrakāma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Yajamāna** speaks). I behold you in my mind radiant (with beauty), beseeching (your husband'sapproach) to your body at due season; may you, who are youthful, come up to me; bear offspring, you who aredesirous of offspring.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -191,7 +194,8 @@ siñcataḥ ← √sic- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They, two, the maternal heaven and earth, mighty, divine, adorable, attain to the gods upon their birth;they both cherish the two (races, human and divine) (gods), they shed abundant moisture.”
 </details>

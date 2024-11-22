@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 śuśulū́kayātum ← śuśulū́kayātu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ rákṣaḥ ← rákṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroy the evil spirit, whether in the form of an owl, or of an owlet, of a dog, or of a duck, of a hawk orof a vulture; slay the **rākṣasas**, **Indra**, (with the thunderbolt) as with a stone.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A duck: a ruddy goose,**cakravāka**
 </details>

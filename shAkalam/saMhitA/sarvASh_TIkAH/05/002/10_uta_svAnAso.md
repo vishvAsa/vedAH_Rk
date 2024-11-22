@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ varante ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My roaring (flames), **Agni**, be manifest in the sky as sharp weapons wherewith to slay the **rākṣasas**; in his exhilaration his shining (rays) inflict (destruction), and undivine opposing (hosts) arrest him not.”
 </details>

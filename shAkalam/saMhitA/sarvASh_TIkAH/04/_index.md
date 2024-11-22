@@ -7,7 +7,8 @@ title = "+04"
 
 The IVth Maṇḍala is the product of the Vāmadeva family, with almost all of  its fifty-eight hymns attributed to the eponymous clan poet himself, Vāmadeva  (Gautama). 
 
-### Gods  
+_________
+**Gods**  
 The numbers of Agni and Indra hymns are roughly equivalent (Agni  1–15; Indra 16–32), but the Indra hymns are the more striking, and Indra is really  the dominant god of the maṇḍala. The Indra sequence contains both the famous  treatment of Indra’s birth (IV.18), with dialogue between him and his mother while  he is still in the womb, and the almost equally famous hymn pair (IV.26–27) treating  the theft of soma from heaven—along with hymns lacking fame but repaying attention like IV.16 and 24. The important dialogue between Indra and Varuṇa (IV.42) is  also found in this maṇḍala, and Indra is addressed jointly with Varuṇa also in IV.41,  with Vāyu in 46–47, and with Br̥haspati in 49–50.  
 
 Moreover, a particular preoccupation in the Agni hymns is the Vala myth, which  is more properly an Indra (/Br̥haspati) narrative. Especially noteworthy in the Agni  cycle is IV.5, an enigmatic hymn meditating on the craft of poetry.  

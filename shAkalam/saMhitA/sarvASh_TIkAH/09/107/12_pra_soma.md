@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 devávītaye ← devávīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -160,7 +163,8 @@ madhuścútam ← madhuścút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are fed with water, **Soma**, like a river, for the banquet of the gods; with the juice of your filament you go to the honey-dropping receptacle, exhilarating, vigilant.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āsīt ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -198,11 +201,13 @@ tanvàḥ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The gods speak). Great and very dense is the covering enveloped by which, **Agni**, you have enteredinto the waters. Agni **Jātavedas**, one deity has beheld all your manifold forms.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Taittirīya** **Saṃhitā** 2.6.6: Agnihad three elder brothers, who were killed by the **Vaṣaṭkāra** (utterance of **vaṣaṭ**!) in the form of a thunderbolt,and by Havirvāhana (conveyance of oblations to the gods), the oblation bearer of the gods. Agni **Śaucika**,afraid of sharing the fate of his elder brothers, fled and his himself in the deep water. The fishes betrayed hisretreat to the gods who were searching for him, and upon this discovery the dialogue recorded in this and thefollowing two **sūktas** is supposed to have occurred
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -193,11 +196,13 @@ yakṣi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Repeatedly, kindled, (**Agni**), wake up favourably disposed; (endowed) with reiterated lustre, entertain the kind purpose of (granting us) wealth; bring, divine Agni, the gods to the sacrifice; do you, the friend (of the gods), minister, well-affected, to (your) parents.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Repeatedly kindled: **samit** **sama** = samiddha; or, susamiddha, an appellative of Agni in the preceding **sūktas**
 </details>

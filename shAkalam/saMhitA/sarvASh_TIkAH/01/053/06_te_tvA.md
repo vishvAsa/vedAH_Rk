@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amadan ← √mad- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -194,11 +197,13 @@ sahásrāṇi ← sahásra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who were your allies, (the **Maruts**), brought you joy; protector of the pious, those libations and oblations (that were offered you on slaying **Vṛtra**), yielded you delight, when you, unimpeded by foes, did destroy the ten thousand obstacles oposed to him who praised you and offered you oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Daśa** sahaśrāṇi vṛtrāṇi = covers, concealments, obstructions, avarakāni
 </details>

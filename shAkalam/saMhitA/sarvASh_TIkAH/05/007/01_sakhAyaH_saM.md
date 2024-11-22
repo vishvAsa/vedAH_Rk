@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sákhāyaḥ ← sákhi- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -145,11 +148,13 @@ sáhasvate ← sáhasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Friends, offer fitting praise and food to **Agni**, the most liberal benefactor of men, the powerful son of strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Upo naptre = balasya putrāya; or, urj = water; the grandson of water = the timber and hence, fire the offspring of fuel
 </details>

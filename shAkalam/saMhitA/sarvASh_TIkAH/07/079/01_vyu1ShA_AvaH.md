@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āvaḥ ← √vas- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -187,11 +190,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas has dawned upon the paths of men, awaking the five classes of human beings; she has shedlight with her lustrous oxen; the sun makes heaven and earth manifest with radiance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Upon the paths: pahyājanānām: **pathyā** is taken as a nominative sing. agreeing with Uṣas: janānām sarvaprāṇinām pathyā+ pathihitā uṣaḥ; or, janānām hitāya, i.e. Uṣas had dawned beneficial on the path of men, or for the welfare ofmen; she had shed light: bhānum aśret: she has resorted to the sun
 </details>

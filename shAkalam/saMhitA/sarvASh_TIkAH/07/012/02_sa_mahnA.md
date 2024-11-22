@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duritā́ni ← duritá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -198,7 +201,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that **Agni** who by his greatness is the overcomer of all evils, who is praised as **Jātavedas** in the(sacrificial) chamber, protect us, glorifying him, and affluent (in oblations), from all sin and reproach.”
 </details>

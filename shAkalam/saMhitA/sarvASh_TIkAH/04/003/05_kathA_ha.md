@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -205,7 +208,8 @@ kát ← ká- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Why, **Agni**, do you reproach us (for our sin) to **Varuṇa**, why to the heaven? what is our offence? why repeat it to the bountiful **Mitra**, to earth, to **Aryaman**, or to **Bhaga**?”
 </details>

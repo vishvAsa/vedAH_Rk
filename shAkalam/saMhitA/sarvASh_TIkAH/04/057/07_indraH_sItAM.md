@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 gr̥hṇātu ← √gr̥hⁱ- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -168,7 +171,8 @@ sámām ← sámā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** take hold of **Sītā**; may **Pūṣan** guide her; may she, well stored with water, yield it as milk, year after year.”
 </details>

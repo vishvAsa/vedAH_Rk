@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ījānáḥ ← √yaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
 
@@ -139,11 +142,13 @@ tiṣṭhati ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If any ask of you, (Uṣas), when anywhere present, where the sacrificer (Varu dwells), (reply) thepowerful (prince), the refuge of all, abides on (the banks of) the **Gomatī** river.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ask of you: kuhayākṛte = oḥ,you who are honoured by those who ask where Varu wells, sa varuḥ kutra tiṣṭhattyetad icchayābhilakṣaṇapravṛttair jijñāsubhiḥ puraskṛte (uṣas);
 

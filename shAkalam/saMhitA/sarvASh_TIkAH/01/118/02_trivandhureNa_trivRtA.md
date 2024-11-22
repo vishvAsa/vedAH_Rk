@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ráthena ← rátha- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ vīrám ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come to us with your tri-columnar, triangular, three-wheeled, and well-constructed car; replenish our cows (with milk), give spirit to our horses, and augment, **Aśvins**, our posterity.”
 </details>

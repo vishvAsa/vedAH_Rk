@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávam ← háva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ vákvāḥ ← vákva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear, hero **Indra**, the invocation of **Pṛthu**; you are glorified by the praises of the son of **Vena**, whocelebrated your hall of sacrifice, full of ghī; your praisers rush to you like a torrent through precipitous banks.”
 </details>

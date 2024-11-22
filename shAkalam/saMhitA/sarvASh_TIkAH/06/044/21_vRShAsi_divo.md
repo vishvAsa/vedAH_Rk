@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -186,11 +189,13 @@ várāya ← vára- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, are the showerer of heaven, the bearer of earth, the feeder of the rivers, the supplier of the aggregated (waters); for you, showerer (of benefits), who are the most excellent shedder of rain, the sweet **Soma**, the honey-flavoured, is ready to be quaffed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Note the use of derivative of **vṛṣa**, to sprinkle, to rain; Indra's horses are **vṛṣaṇa**; they draw a vṛṣa **ratha**; and are guided by vṛṣarasmayaḥ; again, the steeds are vṛṣaṇa = nityatāruṇnu, always young, and Indra is **vṛṣan**, vṛṣ, and **vṛṣabha**, the showerer of rain or of benefits; perhaps, in all these metaphors, a grosser sense is perhaps implied
 </details>

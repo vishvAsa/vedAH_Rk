@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 bhágaḥ ← bhága- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -144,7 +147,8 @@ rā́dhasā ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Savitā**, **Bhaga**, **Varuṇa**, **Mitra**, **Aryaman**, **Indra**, come to us with the wealth (that each bestow).”
 </details>

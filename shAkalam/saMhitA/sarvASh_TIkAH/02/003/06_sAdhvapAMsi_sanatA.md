@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápāṁsi ← ápas- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -168,11 +171,13 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In regard of our good deeds, Day and Night, perpetually reverenced, are interweaving in concert, like two famous feminine le weavers, the extended thread, (to complete) the web of the sacrifice, liberal yielders (of rewards), containers of water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like two famous feminine le weavers: vayyeva raṇvite = **vayya** iva vānakuśale iva śabdite, stute
 </details>

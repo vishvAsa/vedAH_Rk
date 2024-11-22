@@ -21,13 +21,16 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvā́raḥ ← dvā́r- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -125,7 +128,8 @@ vaha ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the willing doors and the chamber of sacrifice be thrown open; bring hither the willing gods.”
 </details>

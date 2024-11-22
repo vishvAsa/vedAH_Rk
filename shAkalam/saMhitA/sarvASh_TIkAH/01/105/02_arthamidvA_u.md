@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ártham ← ártha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -194,7 +197,8 @@ vittám ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who seek for wealth, obtain it; a wife enjoys (the presence of) her husband, and from their union progeny is engendered. Heaven and earth, be conscious of this (my affliction).”
 </details>

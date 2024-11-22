@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -196,11 +199,13 @@ apā́vr̥ṇoḥ ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily all those deeds of yours, **Maghavan**, are to be proclaimed, which you have achieved for him whooffers libations in the sacrifice; that wealth of Pārāvat, collected by many; you have opened to **Śarabha**, thekinsman of the Ṛṣi.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pārāvat: a certain enemy so-called;
 

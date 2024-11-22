@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -198,7 +201,8 @@ vāráyante ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Indra**, the possessor of opulence, is glorified, he singly destroys many unyielding foes; the worshipper is dear to him (who relies) on his protection, and neither gods nor men molest him.”
 </details>

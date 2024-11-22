@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -203,7 +206,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praised, that you may drink the (sacrificial) **Soma**, you come promptly upon this my invocation; keep guard around the dwelling against (all) advdrsaries, so that neither one that abides at a distance nor a neighbour may do us harm.”
 </details>

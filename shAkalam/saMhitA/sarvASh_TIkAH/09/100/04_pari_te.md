@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jigyúṣaḥ ← √ji- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -150,7 +153,8 @@ vā́ram ← vā́ra- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your stream when you are effused, swift-flowing bountiful, rushes through the sheep's hair like the horse of a victorious (hero).”
 </details>

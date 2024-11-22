@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 areṇú ← areṇú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -202,11 +205,13 @@ rāmáyat ← √ram- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is quick in action, and mighty; his faultless and desructive prowess shines in manly (conflict) like the peak of a mountain (afar), with which, clothed in metal (armour), he, the supressor of the malignant, when exhilarated (by **Soma**), cast the wily **Śuṣṇa** into prison and into bonds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Āyasaḥ** = of iron, i.e. whose body is defended by armour of metal; an intimation of **Indra** as an idol
 </details>

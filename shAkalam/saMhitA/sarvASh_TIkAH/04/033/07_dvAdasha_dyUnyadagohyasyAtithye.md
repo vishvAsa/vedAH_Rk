@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágohyasya ← ágohya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ nimnám ← nimná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the **Ṛbhus**, reposing for twelve days, remained in the hospitality of the uncealable (sun) they rendered the fields fertile, they led forth the rivers, plural nts sprung upon the waste, and waters (spread over) the low (plural ces).”
 </details>

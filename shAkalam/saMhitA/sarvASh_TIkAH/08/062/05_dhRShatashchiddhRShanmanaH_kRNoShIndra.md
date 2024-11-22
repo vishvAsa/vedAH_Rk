@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -175,7 +178,8 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have made your mind, **Indra**, more resolute than the resolute, since you (wish to give the desires)of him who worships you with the intoxicating **Soma** and adorns you with adorations; Indra's gifts are worthy ofpraise.”
 </details>

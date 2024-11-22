@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvanaḥ ← ádhvan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ mánma ← mánman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, **Indra**, set us free today to give you exhilaration at this sacrifice, as (they let loose a horse) at the end of the road; may the worshipper, like **Uśanās**, repeat an acceptable prayer to you, the knower (of all things), the destroyer of the **asuras**.”
 </details>
@@ -204,7 +208,8 @@ Like Uśanā, the ritual adept [=Agni] will recite his solemn speech, his  thoug
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Rather than interpr. vedhā́ḥ as part of the simile (e.g., Witzel Gotō “wie die mündige Uśanā”), I take it as referring to Agni, the officiating Hotar-priest, as often. See further support for this identification in the next vs. ### 03
+Rather than interpr. vedhā́ḥ as part of the simile (e.g., Witzel Gotō “wie die mündige Uśanā”), I take it as referring to Agni, the officiating Hotar-priest, as often. See further support for this identification in the next vs. _________
+**03**  
 I take the first hemistich as a continuation of 2cd. Phraseology suggests this connection: the simile uśáneva in 2c is matched by the simile beginning 3a kavír ná; together they add up to the full name of the mythic figure Uśanā Kāvya. (kaví- stands in for his patronymic elsewhere: cf. nearby IV.26.1 aháṃ kavír uśánā.) The participial phrase vidáthāni sā́dhan “bringing the rites to realization” has Agni as its subj. elsewhere (e.g., III.1.18 and the other passages adduced by Geldner n. 3a). Agni is also often called a kaví-, and I take this word here as referring both to Uśanā Kāvya to whom Agni is compared and to Agni himself.
 
 The subj. of pāda b must be different from that in a; I follow Geldner (/Witzel Gotō) in taking it as the pressing stone. The idiom ví √pā ‘extract/separate by drinking’ favors this identification; see comm. ad VII.22.4, which passage also contains a form of √arc as here as well as an overt occurrence of the ‘stone’ (ádri-).

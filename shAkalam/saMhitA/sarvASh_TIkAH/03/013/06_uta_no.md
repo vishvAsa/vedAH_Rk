@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aviṣaḥ ← √avⁱ- (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -144,7 +147,8 @@ sahasrasā́tamaḥ ← sahasrasā́tama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Perfect our prayer, invoker of the gods, as well as our hymns; **Agni**, who increases with the winds and the giver of thousands, augment our felicity.”
 </details>

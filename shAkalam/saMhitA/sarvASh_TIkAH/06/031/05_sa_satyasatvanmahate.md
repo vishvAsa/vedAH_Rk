@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahaté ← mahā́nt- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leader of true heroes, possessor of infinite wealth, mount your formidable car for the arduous conflict; come to me, pursuer of a forward path, for my protection; do you who are renowned, proclaim (our renown) among men.”
 </details>

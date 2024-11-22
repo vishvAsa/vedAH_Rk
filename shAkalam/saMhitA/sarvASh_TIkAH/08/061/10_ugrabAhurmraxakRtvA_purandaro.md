@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mrakṣakŕ̥tvā ← mrakṣakŕ̥tvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -155,7 +158,8 @@ stómaiḥ ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If the strong-armed slayer of enemies, the destroyer of cities, will but hear my invocation, we, desiringwealth, will with our praises call one **Indra** **Śatakratu**, the lord of wealth.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpaḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -186,7 +189,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the swift-moving grandson of the Waters protect, Waters, your most sweet essence, wherewiḥ mayIndra and the **Vasus** be delighted; and may we, devoted to the gods, partake (of it).”
 </details>

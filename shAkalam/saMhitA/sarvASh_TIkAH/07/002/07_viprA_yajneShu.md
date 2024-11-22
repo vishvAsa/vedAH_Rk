@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kārū́ ← kārú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -183,7 +186,8 @@ vā́ryāṇi ← vā́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I am minded to adore you two sages, the ministrants at sacrifices of men, from celebrated, convey ouroffspring aloft, and acquire (for our use) the precious (treasures preserved) among the gods.”
 </details>

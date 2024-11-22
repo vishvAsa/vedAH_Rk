@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -196,11 +199,13 @@ svadhā́vān ← svadhā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Which of you discerns the hidden **Agni**? a son, he begets his mothers by oblations; the germ of many (waters), he issues from the ocrean, mighty and wise, the recipient of oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hidden agni: latent heat in the waters, in the woods and in all fixed and moveable things; he begets his mothers: Agni, as lightning is the son of the waters collected in the clouds; he genitive rates those waters by the oblations which he conveys; he issues from the ocean: upasthāt (smudrāt) nirgacchati, Agni is thought to rise in the morning in the shape of the sun from out of the ocean
 </details>

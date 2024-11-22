@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īrayati ← √īr- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -179,11 +182,13 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bearer (of the oblation) utters the three praises, the thought of **Brahma** that sustains the sacrifice; the kine come to the cowherd asking (to be milked), the praisers proceed to the **Soma** with eagerness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The bearer of the oblation: i.e., the worshipper; the three texts are: ṛk, **yajus**. and **sāman**;
 

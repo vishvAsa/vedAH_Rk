@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anamīvā́saḥ ← anamīvá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -150,11 +153,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, exempt from disease, rejoicing in (abundant) food, roaming free over the wide (expanse) of the earth, diligent in the worship of **Āditya**, ever be in the good favour of **Mitra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Roaming free: mitajñavaḥ = mitajānuka, with measured knees; i.e. yathākāmam **sarvatra** gacchantaḥ, going everywhere at plural asure
 </details>

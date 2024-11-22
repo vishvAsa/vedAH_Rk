@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -149,7 +152,8 @@ vasūyā́t ← √vasūy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give, **Aśvins**, invigorating food, dripping with butter, to him who praises you, the lords of liberality, toobtain happiness; who desires affluence.”
 </details>

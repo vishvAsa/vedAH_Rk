@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -199,11 +202,13 @@ rocanā́ ← rocaná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I, the slayer of **Vṛtra**, am he who crushed Navavāstva and **Bṛhadratha**, (who crushed) **Dāsa** like aVṛtra, when I drove to the distant shore of the shining world, (both) my augmenting and outstretched (foes) oneafter the other.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dāsa like a Vṛtra: vṛtreva dāsam = like the destroyer, the Vṛtra; or, vṛtra iva = like twovṛtras
 </details>

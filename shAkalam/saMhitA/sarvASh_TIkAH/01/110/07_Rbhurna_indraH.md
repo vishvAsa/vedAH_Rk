@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ tiṣṭhema ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The most excellent **Ṛbhu** is in strength our defender; Ṛbhu, through gifts of food and of wealth, is our asylum; may he bestow them upon us, Gods, through your protection; may we, upon a favourable occasion, overcome the hosts of those who offer no libations.”
 </details>

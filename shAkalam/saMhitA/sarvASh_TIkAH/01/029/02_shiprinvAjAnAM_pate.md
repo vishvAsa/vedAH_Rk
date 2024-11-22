@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 pate ← páti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -165,11 +168,13 @@ tuvīmagha ← tuvī́magha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your benevolence, handsome and mighty lord of food, endures for ever; therefore, **Indra**, of boundless wealth, enrich us with thousands of excellent cows and horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śiprin = lit. having either a nose or a lower jaw or chin, i.e. having a handsome, prominent nose or chin
 </details>

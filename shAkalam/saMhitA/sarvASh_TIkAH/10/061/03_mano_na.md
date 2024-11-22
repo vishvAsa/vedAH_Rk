@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávaneṣu ← hávana- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -174,11 +177,13 @@ gábhastau ← gábhasti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I call you to these) oblations, to which hastening, (**Aśvins**), swift as thought at the invitation of theworshipper, you rejoice my (worshipper) who, affluent in the wealth of sacrifice, mixes (the oblation) with hisfingers in your presence, (holding) in his **hand** the sacrifice intended (for you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 7.170: the verse is said tobe addressed to the two priests, the **adhvaryu** and pratiprasthātā, engaged in mixing curds with ground barleyin the Manthigraha
 </details>

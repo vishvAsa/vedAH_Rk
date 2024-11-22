@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agman ← √gam- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -184,11 +187,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then the attendant (rays of light) quickly gathered round him, and (the **asuras**) dwelling in manyregions sought to destroy the son of **Nṛṣad**, but the irresistible (**Indra**) found the well-knit mail of **Śuṣṇa**, whoseoffspring was numerous, which was hidden in the cave.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dwelling in many regions: **puru** = purūṇi kṛtrimāṇi,many artificial things
 </details>

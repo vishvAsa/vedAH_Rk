@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ābhíḥ ← ayám (pronoun)  
 {case:INS, gender:F, number:PL}
 
@@ -154,7 +157,8 @@ syā́ma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, **Śatakratu**, speedily (partake of) your felicity through these our prayers; may we be well secured, **Indra**, (by you); may we be carefully protected, hero, by you.”
 </details>

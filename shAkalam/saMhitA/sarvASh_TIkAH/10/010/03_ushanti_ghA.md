@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -198,11 +201,13 @@ viviśyāḥ ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yami** speaks). The immortals take plural asure in (a union) like this which is forbidden to every mortal; letyour mind then concur with mine, and as the progenitor (of all) was the husband (of his daughter), do you enjoymy person n.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Which is forbidden: tyajasam = that which is to be left or avoided, illicit, such as the intercourse ofbrahmā with his daughter;
 

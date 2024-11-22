@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gaṅge ← gaṅgā- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -170,11 +173,13 @@ suṣómayā ← suṣóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accept this my praise, **Gaṅgā**, **Yamunā**, **Sarasvatī**, **Śutudri**, Paruṣṇi, **Marudvṛdha** with **Asiknī**,and Vitazstā; listen, Ārjikīya with **Suṣomā**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gaṅgā...: cf. Roth's Lit. and Hist. of the **Veda**, pp. 136- 140;Paruṣṇi is another name for **Irāvatī**. Marudvṛdha = increased by the **Maruts** or storm-gods;
 

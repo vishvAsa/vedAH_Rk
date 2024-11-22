@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 atidī́vya ← √dīv- (root)  
 {non-finite:CVB}
 
@@ -210,7 +213,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having driven away the assailant, he triumphs; at the time (of battle) he selects his antagonist as doesa gambler. The man who, desirous of gratifying the gods, withholds not his riches, him the powerful Indraassociates with wealth.”
 </details>

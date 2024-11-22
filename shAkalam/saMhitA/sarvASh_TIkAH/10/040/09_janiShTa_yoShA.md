@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jániṣṭa ← √janⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
 
@@ -203,7 +206,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bride, **Aśvins**, has been born, let the husband approach; may the plural nts spring up (for him) afterthe rain; for him may the streams flow as if from a declivity; may he invulnerable have the power of a husbandover her.”
 </details>

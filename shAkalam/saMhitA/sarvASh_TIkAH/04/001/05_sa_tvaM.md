@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -211,11 +214,13 @@ vīhí ← √vī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you **Agni** our preserver bemost nigh to us with your protection at the breaking of this dawn; deprecate **Varuṇa** for us and propitiated (by our praise) feed upon the grateful (oblation), and be to us of auspicious invocation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 21.4; Deprecate Varuṇa for us: ava yakṣva no varuṇam: vināśaya, destroy (verb); varuṇa-kṛtam (object), that which has been done by Varuṇa, as disease inflicted by him, such as dropsy; or the term may imply pāpam, sin
 </details>

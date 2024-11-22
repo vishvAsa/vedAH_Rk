@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ vā́cam ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sovereign of rivers flows pure, the lord of heaven goes with a shout by the paths of the sacrifice; the thousand-streamed green-tinted (**Soma**) is poured out, uttering a sound while being filtered, the bringer of wealth.”
 </details>

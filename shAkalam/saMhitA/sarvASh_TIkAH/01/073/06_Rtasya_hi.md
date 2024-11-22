@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenávaḥ ← dhenú- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -160,7 +163,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The cows, loving (**Agni**, who has come to thehall of sacrifice), sharing his splendour, have brought with full udders (their milk) to be drunk. The rivers, soliciting his good will, have flowed from a distance in the vicinity of the mountain.”
 </details>

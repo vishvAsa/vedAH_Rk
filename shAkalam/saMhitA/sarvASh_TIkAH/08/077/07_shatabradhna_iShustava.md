@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 íṣuḥ ← íṣu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -137,7 +140,8 @@ yújam ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That single shaft of yours, **Indra**, which you make your ally, is hundred-pointed, thousand-feathered.”
 </details>

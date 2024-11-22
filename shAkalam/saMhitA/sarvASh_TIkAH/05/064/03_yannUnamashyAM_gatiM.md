@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśyā́m ← √naś- 1 (root)  
 {number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
 
@@ -145,7 +148,8 @@ saścire ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That I may now pursue the (right) direction, may I proceed by the path of **Mitra**, for all (good things) are aggregated in the happiness, (the gift) of that beloved and benignant (deity).”
 </details>

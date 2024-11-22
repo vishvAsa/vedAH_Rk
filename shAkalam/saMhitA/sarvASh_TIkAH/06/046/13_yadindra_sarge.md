@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvataḥ ← árvant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -149,7 +152,8 @@ iva ← iva (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(At the time) when, in the effort (made) in an arduous conflict, you urge our horses over an uneven road, like falcons darting upon their food through the difficult path (of the firmament).”
 </details>

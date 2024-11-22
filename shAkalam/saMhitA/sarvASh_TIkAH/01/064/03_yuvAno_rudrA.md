@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhogghánaḥ ← abhogghán- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Youthful **Rudras**, and undecaying destructive of those who do not worship (the gods), of unobstructed progress, and immoveable as mountains they are desirous of granting (the wishes of the worshipper), and by their strength agitate all substances, whether of heaven or of earth.”
 </details>

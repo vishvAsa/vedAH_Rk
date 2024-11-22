@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citayanta ← √cit- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
 
@@ -194,11 +197,13 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since, golden-breasted **Maruts**, the vigorous (**Rudra**) begot you of the pure wombof **Pṛśnī**, therefore they, the devourers (of their enemies), are conspicuous (by their ornaments), as the heavens are by the constellations; and, senders of rain, they are brilliant as the cloud-born (lightning).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The pure womb of Pṛśnī: pṛśnyāḥ **śukra** ūdhani = lit. in the pure udder of Pṛśnī, i.e. on the elevated plural ces of the earth in the mountains; or, an allusion to the legend of the earth's consuming the form of a bridled cow, and Rudra's begetting the Maruts of her in the shape of a bull
 </details>
@@ -211,7 +216,8 @@ when Rudra was begotten for you as the blazing bullish (semen [=rain?])  in the 
 
 <details><summary>Jamison Brereton Notes</summary>
 
-aryáḥ is morphologically multivalent; I take it as nom. sg. to aryá-, with most (Grassmann, Geldner [/Witzel Gotō], Macdonell, Thieme [Fremdling], Lubotsky, Maurer). Renou instead interpr. as acc. pl. to arí- (“les êtres-privilégiés”), in apposition to víśvāni … bhúvanā, and it must be admitted that its position between those two words invites it to be construed with them. Doniger seems to follow Renou (“all noble creatures”), but I do not understand how she interpr. aryáḥ grammatically. It could also be gen. sg. of arí- (or nom. pl., though this would not fit syntactically). ### 03-04 These two vss. are closely knit together verbally. Both contain an etymological figure, with nom. pl. fem. and acc. sg. masc. derived from the same root: 3c śúciṃ śúcayo, 4a yuvatáyo yúvānam. The √śuc of 3c recurs in 4c as śukrébhiḥ, which forms a phonetic figure with adjacent śíkvabhiḥ. The repeated PREVERB yánti … PREVERB yanti of 3a is echoed by PREVERB yanti of 4b, while 3d and 4b both end with a formulaic expression in which only the verb varies: 4b … pári tasthur ā́paḥ, 4d … pári yanti ā́paḥ. And finally 3d, 4b, 4d (and 5c) all end with forms of áp- ‘water’ (nom. pl., loc. pl.), contrasting with the pāda-initial gen. pl.
+aryáḥ is morphologically multivalent; I take it as nom. sg. to aryá-, with most (Grassmann, Geldner [/Witzel Gotō], Macdonell, Thieme [Fremdling], Lubotsky, Maurer). Renou instead interpr. as acc. pl. to arí- (“les êtres-privilégiés”), in apposition to víśvāni … bhúvanā, and it must be admitted that its position between those two words invites it to be construed with them. Doniger seems to follow Renou (“all noble creatures”), but I do not understand how she interpr. aryáḥ grammatically. It could also be gen. sg. of arí- (or nom. pl., though this would not fit syntactically). _________
+**03-04 These two vss. are closely knit together verbally. Both contain an etymological figure, with nom. pl. fem. and acc. sg. masc. derived from the same root: 3c śúciṃ śúcayo, 4a yuvatáyo yúvānam. The √śuc of 3c recurs in 4c as śukrébhiḥ, which forms a phonetic figure with adjacent śíkvabhiḥ. The repeated PREVERB yánti … PREVERB yanti of 3a is echoed by PREVERB yanti of 4b, while 3d and 4b both end with a formulaic expression in which only the verb varies: 4b … pári tasthur ā́paḥ, 4d … pári yanti ā́paḥ. And finally 3d, 4b, 4d (and 5c) all end with forms of áp- ‘water’ (nom. pl., loc. pl.), contrasting with the pāda-initial gen. pl.**  
 
 apā́m when the god is mentioned (1c, 2c, 3d).
 

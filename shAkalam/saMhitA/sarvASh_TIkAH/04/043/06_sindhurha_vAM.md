@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvān ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -214,11 +217,13 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The flowing (stream) has sprinkled your steeds with moisture; the radiant horses (like) birds (in swiftness) pass on, bright with lustre; well known as that quick-moving chariot, whereby you became the lords of **Sūrya**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The flowing stream: **sindhu**, this may mean here, either water or a cloud
 </details>

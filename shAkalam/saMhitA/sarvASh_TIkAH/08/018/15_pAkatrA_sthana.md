@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devāḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -134,7 +137,8 @@ vasavaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Deities, you are (propitious) to sincere (worshippers), you know, **Vasus**, the hearts of men, anddistinguish between the single and double-minded.”
 </details>

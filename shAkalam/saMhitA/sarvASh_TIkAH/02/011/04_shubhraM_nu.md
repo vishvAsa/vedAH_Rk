@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 nú ← nú (invariable)  
 {}
 
@@ -182,11 +185,13 @@ víśaḥ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We are invigorating your brilliant strength (by our praises), and plural cing the thunderbolt in your **hands**; do you, **Indra**, radiant, increasing in strenght, and (encouraged) by the sun, overpower, for our (good), the servile people.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 And encouraged by the sun: dāsīr **viśaḥ** sūryeṇa sahyāḥ = upakṣapayitrīḥ, or **āsurīḥ** **prajāḥ**, people interrupting religious rites,or the race of **asuras**;
 

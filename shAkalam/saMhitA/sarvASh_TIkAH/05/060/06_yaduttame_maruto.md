@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 madhyamé ← madhyamá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -221,7 +224,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Auspicious **Maruts**, whether you abide in the upper, the middle, or \\the lower heaven, (come), **Rudras**, to us from thence; and do you, **Agni**, accept the oblation which this day we offer.”
 </details>

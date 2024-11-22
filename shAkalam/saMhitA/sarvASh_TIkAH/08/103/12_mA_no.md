@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithiḥ ← átithi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -140,7 +143,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May none hinder **Agni** from coming to us, our guest, the giver of dwellings, praised by many-- (Agni)who is the excellent invoker of the gods, who offers an excellent sacrifice.”
 </details>

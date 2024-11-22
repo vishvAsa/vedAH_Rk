@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -196,11 +199,13 @@ víśvasmai ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You **Agni**, are the first of the gods; a deity to whom their minds are devoted; plural asing of aspect, you are the invoker of the deities at this rite; showerer (of benefits), bestow upon us unsurpassable strength, where with to sustain all (hostile) prowess.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tvam hi agne prathamo **manotā**: manotā is interpreted as devān ām mano yatrotam, sambaddham, where, on whom, the mind of the gods is attached; or, devānām manāṃsi etāni dṛḍhapraviṣṭāni yasyām devatāyām sa manotā, the divinity on whom the minds of the gods are fastened, that is, firmly concentrated, he is called manotā: **Agniḥ** **sarvā** manotāgnau **manotāḥ** saṃgacchante (**Aitareya** **Brāhmaṇa** 2.10)
 </details>

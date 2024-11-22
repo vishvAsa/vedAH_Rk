@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhr̥ṣát ← √dhr̥ṣ- (root)  
 {case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
 
@@ -180,7 +183,8 @@ rayisthā́naḥ ← rayisthā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, **Indra**, who are the slayer of foes in contests for (the acquisition of) treasures, drink boldly from the pitcher; drink copiously at the noonday rite; receptacle of rices, bestow riches upon us.”
 </details>

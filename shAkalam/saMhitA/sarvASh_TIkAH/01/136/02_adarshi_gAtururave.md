@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádarśi ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -249,11 +252,13 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The most excellent dawn has been seen proceeding to the comprehensive (rite); the path of the revolving (sun) has been lighted up by (his) rays; the eyes of men (have been opened) by the rays of **Bhaga**; the brilliant mansion of **Mitra**, of **Aryaman**, of **Varuṇa**, (has been lighted up by his rays), and therefore do you two accept the commendable and copious oblation; the praise-worthy and copious oblation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The brilliant mansion: the firmament is lighted by the sun; the several names of designations or forms of the sun; several names are used to to multiply his praises
 </details>

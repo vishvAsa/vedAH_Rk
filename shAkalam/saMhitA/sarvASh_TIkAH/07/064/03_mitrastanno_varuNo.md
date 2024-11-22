@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryáḥ ← aryá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ sahá ← sahá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Mitra**, **Varuṇa**, the divine **Aryaman**, conduct us by the most practicable paths, then, (when wedesire their guidance), accordingly as Aryaman promises to the liberal donor (of oblations), may we, enjoying theprotection of the gods, rejoice in abundance, together with posterity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rejoice: iśa madema **saha**, with foodrejoice, together with posterity, putrādibhiḥ
 </details>

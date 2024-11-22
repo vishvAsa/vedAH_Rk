@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -175,7 +178,8 @@ vásūn ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aditi**, heaven and earth, the mighty Truth (**Agni**), **Indra**, **Viṣṇu**, the **Maruts**, the great sun-- (these) weinvoke for our protection, as well as the divine **Ādityas**, the **Vasus**, the **Rudras**, and **Savitā**, the accomplisher ofgood works.”
 </details>

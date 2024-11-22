@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apadran ← √pad- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -182,11 +185,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Paṇis**, **Indra**, fled, with hundres (of **asuras**), from the sage, your worshipper (and ally) in battle; neither did e, (Indra), suffer the deceptions of the powerful **Śuṣṇa** to prevail over his weapons, nor did he (leave him) any of his sustenance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From the sage: daśoṇaye kavaye = **bahu** kaviṣkāt medhāvinaḥ, from the wise man offeing many oblations, that is tvatsahāyakutsāt, from **Kutsa**, your ally; elsewhere Daśoṇi is the name of an **asura**
 </details>

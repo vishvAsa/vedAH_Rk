@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhnaḥ ← áhar ~ áhan- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -176,7 +179,8 @@ niṣkr̥tám ← niṣkr̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The self-illumined dawn, announcing the declination of the first (portion) of the day, is born white-shining out of the gloom; cleansing (with the radiance) of the sun, she impairs not his splendour, but daily adds embellishment (to his lustre).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ávocāma ← √vac- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -116,7 +119,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The descendants of Rāhugaṇa have recited sweet speeches to **Agni**; we praise him repeatedly with commendatory (hymns).”
 </details>

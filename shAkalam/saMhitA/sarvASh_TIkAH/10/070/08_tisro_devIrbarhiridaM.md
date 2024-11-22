@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíḥ ← barhís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -184,7 +187,8 @@ juṣanta ← √juṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sit down, you three goddesses, upon this broad **barhis**, we have spread it out for you; Iḷā, radiant(**Sarasvatī**) and bright-footed (**bhāratī**) accept our sacrifice and well-presented oblations as if they wereManu's.”
 </details>

@@ -24,16 +24,19 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -224,7 +227,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Look, **Agni**, upon the (sacrificial) viands duly deposited (upon the altar); heaven and earth detain you to sacrifice (to the gods); opulent Agni, protect us in battle, whereby we may pass safe over all evils; may we pass over those of a prior existence; may we pass over them by your protection.”
 </details>

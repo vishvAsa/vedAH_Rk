@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hárī ← hári- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -190,7 +193,8 @@ vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “King of men, your chariot is well stationed; your horses are well trained; the thunderbolt is grasped inyour **hands**; come quickly towards us, lord of all, by a good path, we will augment your energies when you drinkthe **Soma**.”
 </details>

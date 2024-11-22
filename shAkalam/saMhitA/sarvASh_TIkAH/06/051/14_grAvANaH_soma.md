@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 grā́vāṇaḥ ← grā́van- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -151,11 +154,13 @@ vŕ̥kaḥ ← vŕ̥ka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These our grinding stones are anxious, **Soma**, for your friendship; destroy the voracious **Paṇi**, for verily he is a wolf.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jahī ninatriṇam paṇim vṛko hi saḥ: paṇi here means a trader, a greedy trafficker, who gives no offerings to the gods, no presents to the priests; hence, he comes to be identified with an **asura**, or enemy of the gods;
 

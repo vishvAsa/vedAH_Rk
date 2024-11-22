@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 samanā́ ← samanā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ vavr̥tyām ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, at every sacrifice your alacrity is uniform; you, verily, discharge your every function for the benefit of the gods; therefore, do I invite you to come hither, by sacred hymns, for (the sake of) your powerful protection of heaven and earth, and your benevolent praise.”
 </details>

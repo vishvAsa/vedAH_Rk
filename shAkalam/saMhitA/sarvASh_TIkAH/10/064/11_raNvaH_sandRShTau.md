@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -181,7 +184,8 @@ sádā ← sádā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural asant of aspect (is troop of **Maruts**), like a house well stored with provisions; fortunate is the favourof the Maruts, the sons of **Rudra**; may we (thereby) be famed among men for cattle, and so, gods, ever approach(you) with sacrificial food.”
 </details>

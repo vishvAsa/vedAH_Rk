@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -214,11 +217,13 @@ yaṣṭā́ ← yaṣṭár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I do not regard it as worthy (of the gods) of heaven, or (those) of earth, as (fit to be compared) with the sacrifice (I offer) or with these (our) sacred rites; let, then, the mighty mountains overhelm him; let the employer of Atiyāja be ever degraded.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛjiśvan pronounces an imprecation upon Atiyāja, a rival priest
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhāḥ ← √dhā- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -191,7 +194,8 @@ tārīt ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural ce us, possessor of riches, in your ample chariot, (behind) your powerful horses; bring to us from among all viands the most excellent food; let not, **Maghavan**, any opulent man surpass us in wealth.”
 </details>

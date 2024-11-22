@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kā́vyā ← kā́vya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -207,7 +210,8 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In whom all pious acts are concentrated, like the nave in the (centre of the) wheel, worship him quicklywho abides in the **three worlds**; as men assemble the cattle in their pasture, so do (our foes) collect their horses(to assail us); may all our adversaries perish.”
 </details>

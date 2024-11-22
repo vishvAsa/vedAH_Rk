@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -211,11 +214,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yours, **Agni**, is the function of the **Hotā**, yours the duly-performed function of the **Potā**, yours thefunction of the **Neṣṭā**, you are the Agni of the sacrificer, yours is the office of the Praśāstā, you act asAdhvaryu, and you are the **Brahmā** and the lord of the mansion in our abode.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You are the Agni: you are thefire-kindler, or **agnīdhra**
 </details>

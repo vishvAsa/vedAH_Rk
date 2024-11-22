@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 íṣuhastaiḥ ← íṣuhasta- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -193,7 +196,8 @@ ________________
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, with the arrow-bearing (**maruts**), armed with swords, the subduer, the warrior, who encountershim, the drinker of the **Soma**, the strong- armed, having a powerful bow, who shoots with well-aimed arrows(conquer with his help).”
 </details>

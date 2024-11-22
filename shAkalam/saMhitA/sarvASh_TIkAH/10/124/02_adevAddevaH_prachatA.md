@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádevāt ← ádeva- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ svā́t ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agni** speaks). From being no divinity I issue a divninty from the cave at the solicitation (of the gods),and being manifest I attain immortality; when being inauspicious I abandon the sacrifice as it becomesauspicious, through my (old) friendship I come to the binding touch-wood.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Being inauspicious: i.e., not beingbeautiful, not being radiant; binding touchwood: nābhim: from ṇaḥ, nahana śīlām **bandhana** śīlām; or, afamily of strangers
 </details>

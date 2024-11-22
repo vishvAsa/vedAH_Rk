@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kárañjam ← kárañja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -161,11 +164,13 @@ r̥jíśvanā ← r̥jíśvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have slain **Karañja** and **Parṇaya** with your bright gleaming spear, in the cause of **Atithigva**; unaided, you did demolish the hundred cities of Vaṅgrida, when besieged by Ṛjiṣvan.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Vaṅgṛda** is an **asura**; Ṛjiṣvan is a **rājā**
 </details>

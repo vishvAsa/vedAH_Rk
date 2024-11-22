@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 máma ← ahám (pronoun)  
 {case:GEN, number:SG}
 
@@ -145,11 +148,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The hero (**Indra**) who has (ever) guided us delights not in your punishment, nor in mine; nor in that ofany other.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śāsatra = **śāsana**, governing or punishing; kintu **rakṣaṇa** eva ramate; he, Indra, delights only inprotecting or preserving
 </details>

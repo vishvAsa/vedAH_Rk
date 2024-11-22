@@ -28,15 +28,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -191,11 +194,13 @@ upásthe ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is well disposed towards men illumines the **Agni** in the ocean (as submarine fire), in the midstof the waters; the beholder of men (illumines) you in the centre of the sky; the mighty (**maruts**) magnify youabiding in the third region (the firmament), on the lap of the waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nṛmaṇaḥ = **Prajāpati**; or, **Varuṇa**;
 

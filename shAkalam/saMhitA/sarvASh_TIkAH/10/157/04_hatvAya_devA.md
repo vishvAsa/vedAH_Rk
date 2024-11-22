@@ -21,13 +21,16 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ásurān ← ásura- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -111,7 +114,8 @@ devatvám ← devatvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the gods returned (home), after slaying the **asuras**, (then were) the deities protecting theirdivinity.”
 </details>

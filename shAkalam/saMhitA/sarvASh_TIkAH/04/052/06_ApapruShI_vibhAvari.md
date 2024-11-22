@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpaprúṣī ← √prā- (root)  
 {case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
 
@@ -122,7 +125,8 @@ svadhā́m ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Brilliant Uṣas, filling (the world with light), you disperse the darkness with radiance; thereafter protect the oblation.”
 </details>

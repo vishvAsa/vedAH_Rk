@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryavaḥ ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -197,11 +200,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, who are preparing (the libation), first offer to **Vāyu** the delightful and brilliant (**Soma**); and do you, divine Vāyu, like the **Hotā**, first drink of this sweet juice, which we offer for your exhilaration.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 First drink of this sweet juice: vāyu's first drinking of the Soma is repeatedly enjoined, **asakṛt** prapañcitam
 </details>

@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávindat ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -250,7 +253,8 @@ párīvr̥tāḥ ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He (**Indra**) found the (**Soma**) treasure (that had been brought) from heaven, and hidden like the nestlings of a bird in a rock; amidst (a pile of) vast rocks enclosed (by bushes); desiring to partake (of the beverage), the thunderer (found it), as the chief of the **Aṅgirasas** (discovered) the hiding-plural ce of the cows; he opened the doors of (the waters, the sources of) food, when **shut** up (in the clouds, the sources of) food, that were spread (over the earth).”
 </details>

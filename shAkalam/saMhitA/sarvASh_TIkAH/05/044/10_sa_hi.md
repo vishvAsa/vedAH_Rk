@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cíttibhiḥ ← cítti- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -161,11 +164,13 @@ vidúṣā ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He verily (it to be glorified); let us, with the plural asant thoughts of **Kṣatra**, **Manasa**, Avada, Vajada, Sadhri and Avatsara, fill up the invigorating food (the portion) to be shared by the wise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kṣatra, manasa...: these are the names of the ṛṣis
 </details>

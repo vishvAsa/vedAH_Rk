@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāmitvám ← jāmitvá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -207,7 +210,8 @@ sākám ← sākám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your alliance with us, **Maruts**, is of a long duration on which account, immortals, accept our ample praise and, having accepted ourlaudation, be gratified, leaders (of sacrifice), by our holy acts, through this (your) favourable disposition towards mankind.”
 </details>

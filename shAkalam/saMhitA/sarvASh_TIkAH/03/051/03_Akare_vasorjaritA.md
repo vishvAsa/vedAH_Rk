@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ākaré ← ākará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ stuhi ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the enfeebler (of adversaries), is praised as a mine of wealth; he is propitiated by righteous commendations; he is gratified in the dwelling of the offerer of oblations; glorify Indra, the conqueror, the destroyer of his enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As a mine of wealth: ākare vasoḥ = he is praised to procure his aid in battle, which when successful, is the source of wealth or booty; ākīryate yuddhārtham dhanam atra ityākaro yuddhak, he is celebrated for the sake of war, for therein is wealth, therefore, **ākara** is the same as **yuddha**; or, vasoḥ jarayitā = weakener of the foe, **vasu** here meaning enemy
 </details>

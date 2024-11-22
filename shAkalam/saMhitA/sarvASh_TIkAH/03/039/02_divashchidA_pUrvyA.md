@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -195,11 +198,13 @@ sanajā́ ← sanajā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That praise which is begotten before (the dawn) of day is the awakener of **Indra**, when repeated at the (morning) sacrifice; auspicious and clothed in white raiment is this our ancient and paternal hymn.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Auspicious and clothed in white raiment: **bhadrā** vastrāṇi arjunā vasānā vāk = speech auspicious, wearing white garments, i.e., tejāṃsi, splendours, energies; our ancient and paternal hymn: **pitryā** dhīḥ pitṛkramāgatā **stuti**, praise come in the succession of progenitors
 </details>

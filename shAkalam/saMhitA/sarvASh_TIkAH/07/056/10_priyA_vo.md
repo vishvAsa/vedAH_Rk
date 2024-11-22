@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
-#### Morph
+_________
+**Morph**  
 huve ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -118,7 +121,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke your beloved names, **Maruts**, destroyers (of foes), that they who are desirous of the offeringmay be satisfied.”
 </details>

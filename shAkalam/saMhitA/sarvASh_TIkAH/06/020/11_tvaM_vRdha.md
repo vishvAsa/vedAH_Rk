@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūḥ ← √bhū- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -173,7 +176,8 @@ svám ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of opulence, you, **Indra**, have been an ancient benefactor of **Uśanas**, the son of **Kavi**; having slain Navavāstva, you have given back his own grandson, who was (fit) to be restored o the grandfather.”
 </details>

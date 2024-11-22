@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -204,7 +207,8 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Indra**, as many praises are yours, therefore, combating for the sake of (shedding) water on fertile (lands), you have effected (the discomfiture of its obstructors); you, who are the showerer (of benefits), have on behalf of the sun, destroyed in his own dwelling the very name of (the **asura**), **Dāsa**, in battle.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anakṣā́ ← anakṣá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -222,11 +225,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What (other god but me) whose eyeless daughter is ever present knows her and honours (her) theblind one; which of the two (deities) lets loose that bolt against (a foe)-- he who assails, (or) he who protects hiṃ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 What other god but me: This is referred to **Indra**, whose eyeless daughter is **Prakṛti**, crude matter or nature,born of Indra as the creator, and at the **mahāpralaya** (final dissolution of the world) merging into him only;eyeless daughter: he whose daughter was once eyeless, who, knowing this, will despise her for being blind?
 </details>

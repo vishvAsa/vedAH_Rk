@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apā́m ← áp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -138,7 +141,8 @@ víṣṇuḥ ← víṣṇu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yes, may he who causes the waters to flow (**Parjanya**), the **Maruts**, the **Aśvins**, **Indra**, **Viṣṇu**, may all(these deities) together, the showerers (of benefits, protect) that wealth for us.”
 </details>

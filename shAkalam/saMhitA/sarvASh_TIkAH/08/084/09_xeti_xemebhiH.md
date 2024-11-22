@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 kṣémebhiḥ ← kṣéma- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -138,7 +141,8 @@ suvī́raḥ ← suvī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who dwells at home with all-efficient protections, whom none can harm, but who himself harms (hisenemies)-- he, **Agni**, (your worshipper), waxes strong with heroic offspring.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -215,7 +218,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The aggregated (streams) come, bearing everywhere the water, and conveying it as sustenance for the asylum of all rivers, (the ocean); the samepath is (assigned) to all the descending (currents) to follow; and as he, who has (assigned) them (their course), you, (**Indra**), are especially to be praised.”
 </details>

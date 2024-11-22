@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ somapā́ḥ ← somapā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, the granter of prosperity, the lord of men, the slayer of **Vṛtra**, the warrior, the subduer, theshowerer, the drinker of the **Soma**, the assurer of safety, come to our presence.”
 </details>

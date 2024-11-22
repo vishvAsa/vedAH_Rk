@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adatrayā́ ← adatrayā́ (invariable)  
 {}
 
@@ -185,11 +188,13 @@ janayanta ← √janⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pūṣan**, **Bhaga**, **Aditi** bestow (severally) excellent viands; the fierce (sun) robes (himself with radiance); the good-looking (deities), **Indra**, **Viṣṇu**, **Varuṇa**, **Mitra**, **Agni**, give birth to happy days.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bestow excellent viands: adatrayā dayate vāryāṇi: adatrayā = adanīyāni, eatables; Agni consumes excellent consumable timbers, varaṇīyāni kāṣṭhāni dahate; the other terms are epithets: nourishing, the desirable, the uninjurable Agni
 </details>

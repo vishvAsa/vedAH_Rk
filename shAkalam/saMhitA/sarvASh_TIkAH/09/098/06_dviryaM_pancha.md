@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 dvís ← dvís (invariable)  
 {}
 
@@ -139,7 +142,8 @@ prasnāpáyanti ← √snā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whom, celebrated, expressed by the stones, dear to **Indra**, beloved (by all) moving in streams, the twice fiver sister (fingers) bathe (in the sacred waters).”
 </details>

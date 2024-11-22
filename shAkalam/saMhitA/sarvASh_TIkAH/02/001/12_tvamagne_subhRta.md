@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -214,7 +217,8 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, well-cherished **Agni**, you are (the giver of) excellent food; in your desirable and delightful hues, beauties (abound) you (are) food; (you are) the transporter (beyond sin); you are mighty; you are wealth; you are manifold, and everhwhere diffused.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghr̥távantaḥ ← ghr̥távant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -145,7 +148,8 @@ vā́ryam ← vā́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The drops of the marrow charged with butter fall, purifier, to you, at your own rite, for the food of the gods; therefore grant us excellent affluence.”
 </details>

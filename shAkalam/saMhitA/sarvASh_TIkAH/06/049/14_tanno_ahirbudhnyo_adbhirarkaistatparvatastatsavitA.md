@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adbhíḥ ← áp- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -207,11 +210,13 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Ahirbudhnya** (propitiated) by (our) hymns, and **Parvata** and **Savitā** give us food with water; may the bountiful (gods supply us), addition, with vegetable (grains); and may the all-wise **Bhaga** be propitious (to us) for (the acquisition of) riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ahirbudhnya: **budhna** = **antarikṣa**, firmament;
 

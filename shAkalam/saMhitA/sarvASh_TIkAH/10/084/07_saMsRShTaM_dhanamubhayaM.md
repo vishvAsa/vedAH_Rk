@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dhánam ← dhána- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -178,7 +181,8 @@ párājitāsaḥ ← √ji- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Varuṇa** and **Manyu** bestow upon us wealth of both kinds, undivided and completely our own, andmay our enemies, bearing fear within their hearts, be overcome and utterly destroyed.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anarváṇām ← anarván- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -192,7 +195,8 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Skilled in pious rites, I recite the praises of these (deities), mighty through (their own) might,unassailable, exalted by sacrifice; may those (gods) who possessed of various wealth, (rain down) the beautifulwater-cloud, acting in friendly wise, grant us (wealth) for our honour (among men).”
 </details>

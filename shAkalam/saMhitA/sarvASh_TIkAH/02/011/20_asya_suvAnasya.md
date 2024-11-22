@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ valám ← valá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invigorated (by the libation) of the exulting **Trita**, offering you the **Soma**, you have annihilated **Arbuda**; **Indra**, aided by the **Aṅgirasa**, has whirled round his bolt, as the tun turns round his wheel, and slain **Bala**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As the sun turns round his wheel: sūryo na cakram; if na is used in the negative sense, the phrase means: when the sun did not turn his wheel or stool still through fear of the **asura**; or, that Indra whirled the wheel like the sun, having taken one of the wheels of the sun's chariot as a weapon against Bala
 </details>

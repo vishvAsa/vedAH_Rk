@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 duroṇé ← duroṇá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -125,11 +128,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[5-6\] He diffuses happiness in a dwelling like a son(newly) born; he overcomes (opposing) men like an animated charger; whatever (divine) beings I may along with other men invoke (to the ceremony), you, **Agni**, assume all (their) celestial nature.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tad devatarupo **bhavati**: he becomes of the form or nature of that deity; **tvan** agne varuṇo jāyate tvam mitro bhavasi: you are born as **Varuṇa**, you become **Mitra**
 </details>

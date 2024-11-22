@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -214,7 +217,8 @@ saścátaḥ ← saścát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that best beloved **Bṛhaspati**, who is the desired of all sit down in our hall of sacrifice; may hegratify our desire of riches and of **male** posterity. Transporting us (at present) embarrassed uninjured beyond(the assaults of enemies).”
 </details>

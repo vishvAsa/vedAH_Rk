@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -182,11 +185,13 @@ yugā́ ← yugá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Aśvins**, in whom is no untruth, (darting) like arrows to acquire glory, and to carry off **Sūrya**, to you are addressed the prayers that are recited at holy rites, for (the completion of) the uninterrupted, sin-removing (sacrifice), as ancient ages (offered them).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Divine Aśvins: the text has **Pūṣan**, an appellation of a form of the sun; it here connotes both the Aśvins, the one as the sun and the other as the moon;
 

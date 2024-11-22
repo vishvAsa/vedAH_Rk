@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 báṭ ← báṭ (invariable)  
 {}
 
@@ -165,11 +168,13 @@ yamaú ← yamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your greatness, **Indra** and **Agni**, is after this fashion, and is most deserving of praise; the same is your progenitor; twin brethren are you, having a mother everywhere present.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ihehamātarau, of whom the mother is here and there; **Aditi** is their mother, in common with all the gods, and she is here identified with he wide extended earth, **vistīrṇa** **bhūmiḥ**
 </details>

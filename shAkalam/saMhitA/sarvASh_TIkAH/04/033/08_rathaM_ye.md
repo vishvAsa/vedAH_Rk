@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrúḥ ← √kr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -209,7 +212,8 @@ svávasaḥ ← svávas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those **Ṛbhus** who constructed the firm-abiding wheel-conducting car; who formed the all-impelling multiform cow; they who are the bestowers of food, the doers of great deeds, and dexterous of **hand**, fabricate our riches.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 bhītā́ya ← √bhī- (root)  
 {case:DAT, gender:M, number:SG, non-finite:PPP}
 
@@ -142,7 +145,8 @@ vr̥kṣám ← vr̥kṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, by your devices sunder the wicker-work for (the liberation of the) terrified, imploring Ṛṣi, Saptavadhri.”
 </details>

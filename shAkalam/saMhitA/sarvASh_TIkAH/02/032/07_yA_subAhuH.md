@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 subāhúḥ ← subāhú- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -133,7 +136,8 @@ sinīvālyaí ← sinīvālī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer the oblation to that **Sinīvālī**, the protectress of mankind who has beautiful arms, beautiful fingers, who is the parent of many children, and who has numerous children.”
 </details>

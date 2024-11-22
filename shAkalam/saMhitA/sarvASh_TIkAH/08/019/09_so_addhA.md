@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 addhā́ ← addhā́ (invariable)  
 {}
 
@@ -147,11 +150,13 @@ sánitā ← sánitar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, may he who is the offerer of sacrifice obtain his reward; he, auspicious Agni, is worthy ofcommendation; may he by his pious rites become the giver of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May...reward: so **addhā** satyaphalaḥ sabhavatu: may he indeed be worthy of praise; giver of wealth: sanitā = effecter of his purposes
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánaḥ ← ánas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -122,7 +125,8 @@ sīm ← sīm (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then her shattered wagon reposed (on the bank) of the Vipās' (river), and she departed from afar.”
 </details>

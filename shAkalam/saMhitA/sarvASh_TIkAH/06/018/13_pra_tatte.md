@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -218,11 +221,13 @@ tū́rvayāṇam ← tū́rvayāṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That exploit is celebrated in the present day (which you have) achieved for **Kutsa**, for Āyu, for Atithigvave; to him you have given many thousands (of riches), and you have quickly elevated Turvayāṇa over the earth by your power.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Turvay_ṇa: same as **Divodāsa**, to whom **Indra** gave the spoils of **Śambara**
 </details>

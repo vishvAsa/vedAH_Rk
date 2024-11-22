@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dr̥ṁhitā́ḥ ← √dr̥h- (root)  
 {case:ACC, gender:F, number:PL, non-finite:PPP}
 
@@ -169,11 +172,13 @@ vīrā́n ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Viṣṇu**, you have demolished the ninety-nine strong cities of **Śambara**; you have slain atonce, without resistance, the hundred thousand heroes of the **Asura** Varcin.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varcin: cf. RV. 2.146.6
 </details>

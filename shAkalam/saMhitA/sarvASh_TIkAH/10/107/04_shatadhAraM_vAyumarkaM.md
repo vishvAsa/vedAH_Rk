@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 arkám ← arká- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -205,7 +208,8 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Saramā**). I do not believe that he can be subdued; he as whose messenger I have come to thisplace from afar subdues (his enemies). The deep rivers do not conceal him; you, **Paṇis**, slain by **Indra**, will sleep(in death).”
 </details>

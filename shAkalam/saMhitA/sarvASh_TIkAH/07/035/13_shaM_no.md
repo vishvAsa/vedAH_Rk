@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ajáḥ ← ajá- 2 (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -227,7 +230,8 @@ pŕ̥śniḥ ← pŕ̥śni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine Aja-Ekapād be (favourable to) our happiness; may **Ahirbudhnya**, may the firmament, be(promotive of) our happiness; may the grandson of the waters, the protector, be (the securer of) our felicity; mayPṛśni, of whom the gods are the guardians, be to us (a granter of) happiness.”
 </details>

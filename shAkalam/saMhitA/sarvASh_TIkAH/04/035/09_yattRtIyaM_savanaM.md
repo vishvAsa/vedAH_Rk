@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ratnadhéyam ← ratnadhéya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -187,7 +190,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dexterous-handed, since you have instrumental tuted, through desire of good works, the third sacrifice, which is the bestower of wealth, therefore, **Ṛbhus**, drink this effused **Soma** with exhilarated senseṣ”
 </details>

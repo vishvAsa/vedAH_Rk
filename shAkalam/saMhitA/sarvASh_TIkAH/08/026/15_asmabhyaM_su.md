@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmábhyam ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -136,11 +139,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Affluent showerers (of benefits), come to our dwelling for (the libation) to be drunk by the leaders (ofrites), for you bring the sacrifice to completion by praise, as the fatal shaft (slays the deer).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Slays the deer:viṣudruheva = viśvān hinasti śatrūn iti, **śaraḥ**; the allusion: tena (viśudruha) yathā vyādho mṛgamabhilaṣitam deśam prāpayati **tadvat** stutyā yajñam avaikalyena samāptim prāpayathaḥ, as a hunter by anarrow brings the deer to the desired spot (to its destination?), so you by praise, cause the sacrifice to attaincompletion
 </details>

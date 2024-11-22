@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kakúbhaḥ ← kakúbh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -214,11 +217,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who visible above the earth sustains the points of the horizon, is the measurer (of the universe);that is the ancient abode of **Varuṇa**, to which we have access; he is our lord, like the keeper of cattle; may all ouradversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Measurer: **mātā** = nirmātā, the maker
 </details>

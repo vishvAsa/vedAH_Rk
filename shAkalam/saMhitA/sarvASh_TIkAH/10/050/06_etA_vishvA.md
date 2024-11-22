@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etā́ ← eṣá (pronoun)  
 {case:ACC, gender:N, number:PL}
 
@@ -203,11 +206,13 @@ yajñáḥ ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You make swift all those sacrifices which, son of strength, you yourself support; may your protectionbe granted for the repulse (of enemies, may) wealth (be granted) for our support; the sacrifice, the hymn, thesacred text, the voice (is) raised (to you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The voice is raised to you: udyatam **vacas**: two things are included inthis phrase: **mantra**, which is the means of enunciating the sacrifice; and the **brahma** = parivṛḍham śastram, theprayer that is not recited aloud
 </details>

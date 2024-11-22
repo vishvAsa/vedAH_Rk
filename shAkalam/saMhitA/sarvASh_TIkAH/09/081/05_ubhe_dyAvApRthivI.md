@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -159,7 +162,8 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The all-pervading couple heaven and earth, the divine **Aryaman**, **Aditi**, **Vidhātā**, **Bhaga** deserving the praise of men, the spacious firmament, all the gods honour the purified (**Soma**).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havyám ← havyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -167,7 +170,8 @@ yújyebhiḥ ← yújya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The oblation is offered together with praises to the adorable deities; may (**Agni**), unaverse to the desireof mortals, be present; bestow (upon us gods), unwasting, all-benefiting riches; and may we today be associatedwith the assembled deities.”
 </details>

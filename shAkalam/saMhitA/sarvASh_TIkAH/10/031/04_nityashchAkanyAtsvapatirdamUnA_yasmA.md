@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cākanyāt ← √kanⁱ- (root)  
 {number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
 
@@ -213,7 +216,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the eternal (**Prajāpati**), the lord of wealth, of genitive rous mind, be willing to bestow (benefits onhim) to whom the divine **Savitā** has given birth; may **Bhaga** (induced) by (our) praises, and the divine Aryamanunfold (future rewards); or may some (other) gracious (divinity) be inclined to favour this (instrumental tutor of the rite).”
 </details>

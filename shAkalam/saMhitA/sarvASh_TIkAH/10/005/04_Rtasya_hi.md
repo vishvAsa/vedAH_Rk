@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -162,11 +165,13 @@ vāvr̥dhāte ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ancient celebrators of the rite desiring (boons) wait on (**Agni**), rightly born, for the sake of food;the all-comprising heaven and earth cherish him, who abodes above the heavens, with the sacrificial butter andfood (produced) from the water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desiring boons: iṣaḥ = an epithet of the ṛtvigyajamānāḥ, meaning:abhilaṣitānīccantaḥ, desiring boons; it may mean 'feed', linked with sacante: vājāya = for the sake ofstrength
 </details>

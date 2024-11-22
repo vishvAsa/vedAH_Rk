@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áruṣī ← áruṣī- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -170,7 +173,8 @@ vóḷhave ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yoke the bright steeds to the car, yoke the red steeds to the cars; yoke the swift pair of horses to bear the burden; the strong bearing to bear the burden.”
 </details>

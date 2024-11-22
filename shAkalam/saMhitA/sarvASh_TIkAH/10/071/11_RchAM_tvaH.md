@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āste ← √ās- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -192,7 +195,8 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One (the **Hotā**) is diligent in the repitition of the verses (of the Ṛk); another (the **Udgātā**) chantsthe **Gāyatra** (the **Sāman**) in the Śakvarī metre; another the **Brahma** declares the knowledge of what is to bedone; another (the **Adhvaryu**) measures the materials of the sacrifice.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 íḷā ← íḷā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -114,11 +117,13 @@ sīdantu ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the three undecaying goddesses, givers of delight, Iḷā, **Sarasvatī**, and **Mahī** (= **Bhāratī**), sit down upon the sacred grass.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Mahi** = **Bhārati**; Iḷā, Sarasvatī, Bhāratī are person nifications of **agni**: agnimūrtayaḥ; they are also three person nified flames of fire. As goddesses, Iḷā = earth (bride of **Viṣṇu**);
 

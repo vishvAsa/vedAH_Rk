@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvataḥ ← árvant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -169,7 +172,8 @@ táturim ← táturi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fulfiller of religious rites, I reiterate the praise of the great Dadhikrā, the liberal, many-honoured showerer (of benefits), whom **Mitra** and **Varuṇa** gave for the good of many, the transporter (beyond calamity), as brilliant as **Agni**.”
 </details>

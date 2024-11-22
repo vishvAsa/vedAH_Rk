@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 mádhumattamam ← mádhumattama- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -129,7 +132,8 @@ pū́rvebhyaḥ ← pū́rva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer to the royal **Yama** this most sweet oblation; (let) this our adoration (be addressed) to the ancientsages, the first followers of (virtuous) paths.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 itthā́ ← itthā́ (invariable)  
 {}
 
@@ -179,7 +182,8 @@ yātha ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Maruts**, who make (all things) tremble, you direct your awful (vigour) downwards from afar, as light (descends from heaven), by whose worship by whose praise (are you attracted)? to what (plural ce of sacrifice), to whom, indeed, do you repair?”
 </details>

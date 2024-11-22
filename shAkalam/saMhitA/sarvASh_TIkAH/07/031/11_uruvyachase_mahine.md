@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahíne ← mahín- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -143,7 +146,8 @@ vratā́ni ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sages engender sacred praise and (sacrificial) food for the wide- pervading, mighty **Indra**; theprudent impede not his functions.”
 </details>

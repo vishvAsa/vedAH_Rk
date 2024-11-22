@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (292);; repeated line  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ sumánāḥ ← sumánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke the adorable **Indra** and **Vāyu** and **Bṛhaspati** on this occasion, that all our race may befavourably inclined to us in the acquisition (of wealth).”
 </details>

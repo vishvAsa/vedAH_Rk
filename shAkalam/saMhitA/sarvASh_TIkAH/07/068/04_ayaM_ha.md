@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádriḥ ← ádri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ vípraḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the stone, seeking to propitiate you two divinities, is raised aloft, and loudly sounds, expressingfor you the **Soma**, then the pious worshipper brings you back, beautiful divinities, by his oblations.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áṅgirobhiḥ ← áṅgiras- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -186,7 +189,8 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praised by the **Aṅgirasas**, he destroyed **Bala**; he forced upon the firm **shut** (doors) of the mountain; he broke down their artificial defences; in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
 </details>

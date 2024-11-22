@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrathuḥ ← √kr̥- (root)  
 {number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -175,7 +178,8 @@ pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You two, **Indra** and **Viṣṇu**, have made the spacious world for the sake of sacrifice, genitive rating the sun,the dawn, **Agni**; you leaders (of rites) have baffled the devices of the slave Vṛsaśipra in the conflict of hosts.”
 </details>

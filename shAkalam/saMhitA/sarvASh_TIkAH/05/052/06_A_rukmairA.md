@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -188,7 +191,8 @@ tmánā ← tmán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders (of the rains), the mighty **Maruts** shine with brilliant ornaments and weapons, and hurl javelin (at their foes, the clouds); the lightnings like roaring (torrents), daily follow the Maruts; the radiance of the resplendent (cohort) spontaneously breaks forth.”
 </details>

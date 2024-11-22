@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápaḥ ← ápas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -195,7 +198,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhus**, the rite formerly celebrated by me is again repeated, and the melodious hymn is recited in your praise; in this ceremony, the **Soma** is sufficient for all the gods; drink of it to your utmost content when offered on the fire.”
 </details>

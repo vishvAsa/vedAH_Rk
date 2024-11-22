@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīnádakṣāḥ ← dīnádakṣa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -185,11 +188,13 @@ yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since men of feeble energies, with mind yet immature, are unacquainted with (the ritual of) thesacrifice, may **Agni**, the invoker (of the gods), the skilled in rites, well-knowing (what is to be done), the bestofferer, offer worship according to the fit season to the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Are unacquainted with the sacrifice: do not think of(remember) the sacrifice
 </details>

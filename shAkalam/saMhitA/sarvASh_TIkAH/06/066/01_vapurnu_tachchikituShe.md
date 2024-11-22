@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -192,11 +195,13 @@ sakŕ̥t ← sakŕ̥t (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the like-formed, benevolent, all-pervading, all humiliating troop (of the **Maruts**) be promptly with the prudent man; the troop that ever cherishes all that among mortals is designed to yield (them) advantage; and (at whose wil) **Pṛśni** gives milk from (her) bright udder once (in the year).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That ever cherishes: martteṣu anyad dohase pīpāya = tad rūpam (marutām), martyaloke anyad **oṣadhi** vanaspatyādikam kāmān dogdhum āyāyagoti, that form of the Maruts cause one or other thing in the world, herbaceous plural nts, forest trees, and the like, of flourish, so as to milk or yield wht is desired;
 

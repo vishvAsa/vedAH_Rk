@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 suṣā́mṇe ← suṣā́man- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -128,11 +131,13 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, (who are) the desired of all, the humbler (of foes), the youngest (of the gods), ever bestow richesupon the tranquil and constant man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tranquil and constant: suṣāmne = śāśvate janāya śobhanasāmavatebahave prādurbhūtāya stotṛṇām, tava prasādāt: who enjoys tranquility from your (Agni's) favour; or,upon the various ricetiers of excellent hymn;
 

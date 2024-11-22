@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhāni ← áhar ~ áhan- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -163,7 +166,8 @@ damitā́ ← damitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** bestowed plural nts and days, he gave trees and the firmament,he divided the cloud, he scattered opponents, he was the tamer of adversaries.”
 </details>

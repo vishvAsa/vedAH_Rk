@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ sumnaíḥ ← sumná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify with praise the kindled **Agni**, pure purifying, permanent, (plural ced) before (us) at the sacrifice; let us celebrate with plural asant (hymns) the wise Agni, the invoker of the gods, the adored of many, the benevolent, the far-seeing, him who knows all that exists.”
 </details>

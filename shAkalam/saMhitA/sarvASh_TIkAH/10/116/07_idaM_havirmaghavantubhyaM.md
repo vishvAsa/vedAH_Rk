@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havíḥ ← havís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -190,7 +193,8 @@ prásthitasya ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Imperial **Maghavan**, to you this oblation is offered; accept it, not displeased; for you, Maghavan, thelibation is effused, for you (the cake is) toasted; eat it, **Indra**, and drink the libation poured (upon the altar).”
 </details>

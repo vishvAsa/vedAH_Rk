@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṅgá ← aṅgá (invariable)  
 {}
 
@@ -115,7 +118,8 @@ ghoṣáyaḥ ← √ghuṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you, **Pavamāna**, who aremost brilliant quickly shout to the races of the gods for (the sake of their) immortality.”
 </details>

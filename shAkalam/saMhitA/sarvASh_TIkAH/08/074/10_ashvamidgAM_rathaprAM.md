@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvam ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -162,11 +165,13 @@ pányam-panyam ← pánya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Worship), you men, the bright (**Agni**), who goes like a horse and fills our chariots (with spoil), whoprotects the good like **Indra**, and by whose might you ravage the stores (of your enemies) and all their wonderful(wealth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who goes like a horse: gām = gantāram; cf. RV 1.121.9; 4.22.8;
 

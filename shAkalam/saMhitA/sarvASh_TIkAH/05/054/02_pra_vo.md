@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -175,7 +178,8 @@ sváranti ← √svar- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your (cohort), **Maruts**, is conspicous, mighty shedding water and augmenting food; yoking your horse (to your cars), spreading everywhere, and combined with the lightning, the triple-stationed company roars aloud, and the circumambient waters fall upon the earth.”
 </details>

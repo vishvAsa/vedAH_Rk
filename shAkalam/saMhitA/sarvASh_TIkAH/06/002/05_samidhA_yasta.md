@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́hutim ← ā́huti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -148,7 +151,8 @@ kṣáyam ← kṣáya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mortal who feeds your consecrated burnt offering with fuel enjoys, **Agni**, a dwelling peopled with descendants, and a life of a hundred years.”
 </details>

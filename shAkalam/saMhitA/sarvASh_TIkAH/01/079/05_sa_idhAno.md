@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 idhānáḥ ← √idh- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
 
@@ -131,11 +134,13 @@ revát ← revánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the blazing **Agni**, who is wise, and the granter of dwellings, is to be praised by our hymns; oḥ! you whose mouth (glows) with many (flames), shine (propitiously, so) that food-providing wealth may be ours.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With many (flames); purvaṇīka, from **puru**, many and **anīka**, face or mouth; **jvālā**-**jihvā**, flame-tongued is Agni
 </details>

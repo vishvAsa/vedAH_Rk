@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhuve ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -227,7 +230,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, whom I formerly invoked and whom I now invoke, is verily worthy of invocation, for he is renowned as a benefactor; the **Soma** libation has been brought by the priests; drink, Draviṇodās, along with the Ṛtus, the Soma, the offering of the **Potā**.”
 </details>

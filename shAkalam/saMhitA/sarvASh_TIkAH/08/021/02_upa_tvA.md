@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kárman ← kárman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -194,7 +197,8 @@ sānasím ← sānasí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have recourse, **Indra**, to you for protection at sacred rites; may he who is ever young, fierce,resolute, come to us! We, your friends, Indra, rely upon you as our protector and benefactor.”
 </details>

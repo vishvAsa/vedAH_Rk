@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -155,11 +158,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The worshippers have invoked you with all protections; come in the early mornings to the dwelling ofhim who has clipped the sacred grass, to the offering loved (by all the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The worshippers: **priyamedhaḥ** =those whose sacrifices are acceptable; or, a reference to Ṛṣi **Priyamedha**; with all your protections: viśvābhirūtibhiḥ = with prayers for all desirable blessings
 </details>

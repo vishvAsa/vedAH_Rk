@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́ ← devá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -118,11 +121,13 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the two divine priests, the two deities who behold men-- the pure-flowing (**Soma**) is radiant and the showerer (of benefits).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The pure-flowing Soma is radiant: perhaps, an identification of Soma with **Indra**, just as in the next verse, **Indu** (i.e. Soma) is identified with Indra.
 </details>

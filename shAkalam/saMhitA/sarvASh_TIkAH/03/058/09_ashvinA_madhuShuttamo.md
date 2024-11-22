@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -180,11 +183,13 @@ sutā́vataḥ ← sutā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, this most sweet **Soma** is mixed; drink it; come to (our) dwelling; your car, repeatedly bestowing wealth, is coming to the appointed plural ce of the offerer of the libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The appointed plural ce: niṣkṛtam = the plural ce of agreement, nir ityeṣaḥ; samitye tasya sthāne = **gṛha**, house (**Nirukta** 12.7)
 </details>

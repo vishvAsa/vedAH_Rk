@@ -25,17 +25,20 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 īḷate ← √īḍ- ~ √īḷ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -172,7 +175,8 @@ vívakṣase ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The men establish you, **Agni**, at sacrifices, the ministrant priest, graceful, whose face shines withbutter, radiant, most intelligent with your eyes, for your exhilaration; (hence) you are mighty.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádhate ← √dhā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -179,11 +182,13 @@ vīraíḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those munificent princes who confer upon us prosperity by gifts of cattle, horses, treasure, gold,overcome, **Indra** and **Vāyu**, the entire existence (of their enemies) in contests with horses and with heroeṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Treasure: vasubhiḥ = hiraṇyaiḥ, gold causing us to be settled, nivāsakaiḥ
 </details>

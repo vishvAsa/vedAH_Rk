@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ánr̥tasya ← ánr̥ta- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -168,7 +171,8 @@ tarema ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Holders are you of many fetters, barriers against the irreligious, invincible by hostile mortals; may wecross over all the danger, **Mitra** and **Varuṇa**, by the path of sacrifice, to you, as (we cross over) water by a boat.”
 </details>

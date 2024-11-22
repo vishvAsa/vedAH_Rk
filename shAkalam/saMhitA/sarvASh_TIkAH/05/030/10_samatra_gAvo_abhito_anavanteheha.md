@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhítas ← abhítas (invariable)  
 {}
 
@@ -208,7 +211,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the cows were separated from their calves, they wandered about hither and thither; but when the well-offered libations had exhilarated hi, then **Indra**, with his vigorous (**maruts**), reunited them (with their calves).”
 </details>

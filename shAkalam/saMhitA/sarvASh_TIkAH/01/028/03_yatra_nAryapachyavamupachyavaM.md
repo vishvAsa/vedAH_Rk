@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D;; repeated line  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 apacyavám ← apacyavá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -138,11 +141,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, (in the rite) in which the housewife repeats egress from and ingress into (the sacrificial chamber), recognize and partake of the effusion of the mortar.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Apayacava and upacayava = going in and out of the hall (**śālā**)
 </details>

@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -121,11 +124,13 @@ víṣṇoḥ ← víṣṇu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We know the great strength of the active sons of **Rudra**, the **Maruts**, the shedders of the diffusive raiṇ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Shedder: viṣṇor mīḷhuṣām = vyāptasya eṣaṇīyasya vṛṣṭyudakasya eṣasya sektṛṇām
 </details>

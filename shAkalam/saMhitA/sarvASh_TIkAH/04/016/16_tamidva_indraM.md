@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 huvema ← √hū- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
 
@@ -210,7 +213,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us invoke that gracious **Indra** who has made so many things good for man; who, bestowing enviable opulence, quickly brings acceptable food to a worshipper like me.”
 </details>

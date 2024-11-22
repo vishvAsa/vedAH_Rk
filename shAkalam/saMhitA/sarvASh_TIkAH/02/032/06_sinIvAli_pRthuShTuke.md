@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 pŕ̥thuṣṭuke ← pr̥thuṣṭuka- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -150,11 +153,13 @@ prajā́m ← prajā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wide-hipped **Sinivālī**, who are the sister of the gods, accept the offered oblation, and grant us, goddess, progeny.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 34.10; **Sinīvālī** is the moon on the first day on which it is visible; she is devānām **svasā**, either the sister of the gods, or one who is independent of them;
 

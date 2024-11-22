@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -206,11 +209,13 @@ sávanā ← sávana- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders (of rites), you are glorified at dawn like two ancient (monarchs) by the voice (of the caller)entitled to worship, you go day by day to the dwelling (of the worshipper); of whose (faults) are you thedestroyer? To whose oblations do you go like princes?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like two ancieṇṭ..caller: jaraṇau = two kings, old orgreat by sovereignty;
 

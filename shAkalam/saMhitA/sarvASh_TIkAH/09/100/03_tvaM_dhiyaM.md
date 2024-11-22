@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhíyam ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -157,7 +160,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let loose your stream which is as rapid as thought; as the cloud (let loose) the rain; you **Soma** foster terrestrial and celestial treasures.”
 </details>

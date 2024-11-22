@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 bráhma ← bráhman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -158,11 +161,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you ever carefully protect the **Brahman** among men, come quickly; tarry not with other(worshippers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who ever carefully: **brahma** janānām yāviṣṭam tūyamā gatam: **brāhmaṇa** jātim, thebrāhmaṇa class; or, parivṛdham stotram havirlakṣaṇam **annam** vā, the great praise or sacrificial food
 </details>

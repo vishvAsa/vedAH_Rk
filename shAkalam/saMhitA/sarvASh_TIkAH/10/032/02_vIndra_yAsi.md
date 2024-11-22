@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyā́ni ← divyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -198,7 +201,8 @@ vanvantu ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who is praised by many, you pervade the luminaries of heaven and earth with your lustre; maythe horses that repeatedly bring you to our sacrifices, plural ased by our praise, bring affluence to us who are poor.”
 </details>

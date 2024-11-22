@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amājúraḥ ← amājúr- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -133,11 +136,13 @@ suté ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us not, like fools, **Indra**, be regardless of the friendship of such as you are; let us assemble togetherwhen the libation is effused.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like fools: "let not us who are yours, Indra, be desolate to those who are ignorant ofthe friendship of such as you are", mā te amājuro yathā murāsa indra sakhye tvāvataḥ;
 

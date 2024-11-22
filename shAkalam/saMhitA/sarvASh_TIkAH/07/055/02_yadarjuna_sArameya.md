@@ -24,16 +24,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 arjuna ← árjuna- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -164,11 +167,13 @@ svapa ← √svap- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “White offspring of **Saramā**, with tawny limbs, althogh barking you display your teeth against me,bristling like lances in your gums, nevertheless, to quietly to sleep.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 White offspring: **sārameya**, progeny ofSārmā, bitch of **Indra**; he is called **arjuna**, white, as well as **piṅgala**, tawny; the latter, in some members,keṣucidaṅgeṣu
 </details>

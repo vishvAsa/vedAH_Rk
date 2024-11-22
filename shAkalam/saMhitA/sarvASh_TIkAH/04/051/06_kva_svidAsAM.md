@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsām ← ayám (pronoun)  
 {case:GEN, gender:F, number:PL}
 
@@ -195,7 +198,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where is that ancient one of those (Dawns), through whom the works of the **Ṛbhus** were accomplished? For as the bright Dawns happily proceed, they are not distinguished, being alike and undecaying.”
 </details>
@@ -212,7 +216,8 @@ appearance.
 
 katamā́‘which one?’ echoes purutámam ‘the latest of many’ in 1a. Note that again when a singular dawn is referred to, the word uṣás- is not used.
 
-I do not understand what the Ṛbhus are doing here, nor do I know the exact sense of ví √dhā in the etymological figure vidhā́nā vidadhúḥ. A similar etym. figure is found in nearby IV.55.2 vidhātā́ro ví … dadhuḥ, where I tr. ‘distribute’, which I’ve imported here. However, I am now inclined to think that this has to do with the creative division of an undifferentiated mass (such as the Ṛbhus performed in I.161.2-3 also cited by Geldner) and with the regulation of these divisions, possibly of divisions of time. Such “division” contrasts sharply with the lack of distinction among the dawns stated in cd. It is not surprising that a single (unnamed) dawn (pāda a) would be associated with division and distinction (pāda b), as opposed to the plural dawns in the rest of the hymn. For other interpr. of pāda b see the various tr. and comm. ### 07
+I do not understand what the Ṛbhus are doing here, nor do I know the exact sense of ví √dhā in the etymological figure vidhā́nā vidadhúḥ. A similar etym. figure is found in nearby IV.55.2 vidhātā́ro ví … dadhuḥ, where I tr. ‘distribute’, which I’ve imported here. However, I am now inclined to think that this has to do with the creative division of an undifferentiated mass (such as the Ṛbhus performed in I.161.2-3 also cited by Geldner) and with the regulation of these divisions, possibly of divisions of time. Such “division” contrasts sharply with the lack of distinction among the dawns stated in cd. It is not surprising that a single (unnamed) dawn (pāda a) would be associated with division and distinction (pāda b), as opposed to the plural dawns in the rest of the hymn. For other interpr. of pāda b see the various tr. and comm. _________
+**07**  
 The opening tā́, esp. in its emphatic form tā́ghā tā́(ḥ) is echoed by the openings of 8 (tā́ā́…) and 9 (tā́(ḥ)).
 
 At the same time sadyáḥ makes an interior ring with 5b around the omphalos vs. What's striking about this little ring is that, though the sadyáḥ in 5 and 7 match verbally, the word is in a different temporal setting in the two vss: present in 5 and remote past in 7, and in 6 those two temporal settings are dissolved or confused (as also in a different way in 4).

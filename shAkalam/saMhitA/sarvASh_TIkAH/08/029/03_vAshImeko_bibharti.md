@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyasī́m ← āyasá- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -106,7 +109,8 @@ nídhruviḥ ← nídhruvi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One (**Tvaṣṭā**) immoveably stationed among the gods, holds his metal axe in his **hand**.”
 </details>

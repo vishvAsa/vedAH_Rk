@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádyaut ← √dyut- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -188,7 +191,8 @@ vivyāca ← √vyac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sustainer of the abode of the water, (the firmament), he shone brightly; the bull, the offspring of a cowwhich has only borne once, met the cows, with a loud roar he sprung up, he pervaded the vast worlds.”
 </details>

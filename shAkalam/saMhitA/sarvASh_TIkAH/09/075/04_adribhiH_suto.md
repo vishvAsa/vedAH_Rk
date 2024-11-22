@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádribhiḥ ← ádri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -175,7 +178,8 @@ pínvamānā ← √pinv- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Effused by the stones and by the praises, fit for food, illuminating heaven and earth the parents (of the universe), pure, (the **Soma**), flows between the sheep's hairs, diluted (with the water) the stream of the exhilarating beverage (is purified) day by day.”
 </details>

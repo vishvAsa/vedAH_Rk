@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 dīdihi ← √dī- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
 
@@ -140,7 +143,8 @@ svastáye ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, our purifier, light up for us a brilliant progeny; be ever nigh to those who praise you for their well-being.”
 </details>

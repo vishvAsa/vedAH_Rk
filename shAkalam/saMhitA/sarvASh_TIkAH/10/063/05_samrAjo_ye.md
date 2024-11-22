@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyayúḥ ← √yā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -180,7 +183,8 @@ svastáye ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods, who, kings over all, and most exalted, have come to the sacrifice, who, unassailable, abidein heaven; them, the mighty **Ādityas**, (the sage) worships with reverence, and with praises, and also **Aditi** for hiswell- being.”
 </details>

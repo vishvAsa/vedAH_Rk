@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 eṣā́ ← eṣá (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -198,7 +201,8 @@ jāyā́m ← jāyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (my wife) has not been angry (with me), nor was she overcome with **sham**; kind was she to meand to my friends; yet for the sake of one or other die, I have deserted this affectionate spouse.”
 </details>

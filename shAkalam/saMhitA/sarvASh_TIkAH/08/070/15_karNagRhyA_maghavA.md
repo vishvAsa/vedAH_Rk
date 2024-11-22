@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 karṇagŕ̥hyā ← karṇagŕ̥hya- (nominal stem)  
 {case:INS, gender:M, number:SG, non-finite:CVB}
 
@@ -137,11 +140,13 @@ sūríḥ ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Maghavan**, taking them by the ears, lead the cows with their calves from our three (destructiveenemies), as the owner leads a goat to drink.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vatsam naḥ = vatsam naḥ, **vatsa** sahitaḥ;
 

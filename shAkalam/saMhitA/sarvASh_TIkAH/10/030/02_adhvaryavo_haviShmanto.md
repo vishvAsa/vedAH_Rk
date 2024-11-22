@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryavaḥ ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -195,11 +198,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, since you are charged with the libation, desiring (to present it), proceed to the waters desiring(to receive it), to those (waters) which the red hawk beholds descending (from the clouds); do you,dextrous-handed (priests), cast today that flood (of **Soma**) into (the consecrated water).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Red hawk: **suparṇa** =supatanaḥ **somaḥ**, the Soma descending gracefully (ava) from the firmament, and **suhasta** = ornamented with
 </details>

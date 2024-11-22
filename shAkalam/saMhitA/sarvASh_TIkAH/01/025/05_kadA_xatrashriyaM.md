@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kadā́ ← kadā́ (invariable)  
 {}
 
@@ -124,11 +127,13 @@ urucákṣasam ← urucákṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When for our happiness, shall we bring hither **Varuṇa**, eminent in strength, the guide (of men), the regarder of many?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Uru-cakṣasam = bahunān draṣṭāram, the beholder of many
 </details>

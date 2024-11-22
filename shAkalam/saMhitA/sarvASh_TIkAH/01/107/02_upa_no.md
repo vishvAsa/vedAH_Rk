@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -178,7 +181,8 @@ yaṁsat ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the gods, who are to be lauded by the hymns of the **Aṅgirasas**, come hither for our protection; may **Indra** with his treasures, the **Maruts** with the vital airs, and **Aditi** with the **Ādityas** (come and) give us felicity.”
 </details>

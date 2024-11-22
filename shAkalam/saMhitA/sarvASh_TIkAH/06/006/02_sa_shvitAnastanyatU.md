@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rocanasthā́ḥ ← rocanasthā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ pr̥thū́ni ← pr̥thú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(You who are) white-hued, vociferous, abiding in the firmament, (associated) with the imperishable, resounding (winds), the youngest (of the gods), **Agni**, who, purifying and most vast, proceeds, feeding upon numerous and substantial (forests).”
 </details>

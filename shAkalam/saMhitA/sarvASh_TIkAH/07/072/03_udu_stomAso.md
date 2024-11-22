@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abudhran ← √budh- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -181,7 +184,8 @@ vivakti ← √vañc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praises wakn up the **Aśvins**, kindred adorations (arouse them) and the celestial dawns; the sage,addressing these laudations to the adorable heaven and earth glorifies the **Nāsatyās** in their presence.”
 </details>

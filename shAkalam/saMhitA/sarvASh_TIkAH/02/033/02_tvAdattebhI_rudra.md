@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rudra ← rudrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -169,7 +172,8 @@ víṣūcīḥ ← víṣvañc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Nourished by the curative vegetables which are bestowed by you, may I live a hundred winters; extirpate mine enemies, my exceeding sin, and my manifold infirmities.”
 </details>

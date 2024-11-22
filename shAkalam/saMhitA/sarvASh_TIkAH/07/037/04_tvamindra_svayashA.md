@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Indra**, who are **Ṛbhukṣin**, and of especial renown, who, like food, are the fulfiller (of wants),come to the dwelling of the worshipper; lord of bay horses, may we, **Vasiṣṭhas**, be today the donors (of theofferings) to yo, the celebrators of your praise.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -193,7 +196,8 @@ nídhruvi ← nídhruvi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, dancing (through the air), decorated with golden breast-plural tes, the mortal (who worships you)attains your brotherhood; speak favourably to us, for your affinity is ever (made known) at the regulated(sacrifice).”
 </details>

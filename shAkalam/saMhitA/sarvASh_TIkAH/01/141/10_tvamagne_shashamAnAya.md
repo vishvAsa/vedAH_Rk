@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -204,11 +207,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Most youthful **Agni**, for the good of him who praises you and offers you libations, you make the precious (offering) acceptable to the gods; new-born of strength we glorify you who are to be lauded; to whom rich offerings (are to be presented); (we glorify you) in (our) hymn as (men eulogize) a powerful prince.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As men eulogize a powerful prince: bhagamiva
 </details>
@@ -224,7 +229,8 @@ great treasure.
 
 dhīmahi in d is probably has a slight double meaning: we want to acquire Agni like good fortune, but in the technical ritual sense we want to install / establish him. For the technical sense see dádhānaḥ in 13b.
 
-There is also a pun on bhága-, both ‘good fortune’ and the name of the god, a pun continued in the next vs. ### 11
+There is also a pun on bhága-, both ‘good fortune’ and the name of the god, a pun continued in the next vs. _________
+**11**  
 Geldner (also Kümmel 306) takes pāda a separately from b and supplies ‘give’, but this seems entirely unnecessary.
 
 For bhágam √pṛc, see comments ad 6b. bhága- also participates in a nexus with the previous verse: in 10d it appears in a simile, but here it has been promoted to the “real” object to which other entities are compared. In the first hemistich the common noun usage of the stem is dominant, but in the 2nd it is the god Bhaga.

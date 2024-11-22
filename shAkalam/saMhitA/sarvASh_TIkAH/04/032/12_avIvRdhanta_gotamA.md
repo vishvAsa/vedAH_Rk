@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávīvr̥dhanta ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -125,7 +128,8 @@ yáśaḥ ← yáśas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Gotamas**, offerers of praise, exalt you, **Indra**; bestow upon them food and prosperity.”
 </details>

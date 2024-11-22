@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 óṣadhayaḥ ← óṣadhi- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -144,11 +147,13 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Waters)! the plural nts flourish by means of water my prayer is effectual through water; the essence ofwater is vigorous through water; purify me with it.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Payasvat = having water; or, sāravat, having pith or vigour;being vigorous b\\y means of water in the shape of rain
 </details>

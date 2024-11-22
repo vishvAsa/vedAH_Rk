@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhma ← bráhman- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -160,11 +163,13 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who are the object of hymns, unexaggerated praises are offered by us; lord of bay steeds, acceptthese fitting hymns, which we have meditated for you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Unexaggerated: anatidbhutā = sarvān atikramya nabhavanti, indraguṇavyāpakāni yathārthabhūtāni;
 

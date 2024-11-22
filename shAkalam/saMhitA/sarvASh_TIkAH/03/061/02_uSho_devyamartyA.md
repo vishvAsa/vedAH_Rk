@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámartyā ← ámartya- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -182,11 +185,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, who are divine and immortal, mounted in a golden chariot, do you shine radiant causing to be head the sounds of truth; may your vigorous and well-trained horses bring you, who are golden-haired, (hither).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Causing up to be heard the sound of truth: sunṛta irayanti (also used in RV. 1.113.12: sunṛta irayanti rendered as awakener of plural asant voices, the dawn exciting or awakening the true or agreeable cries of beasta nd birds)
 </details>

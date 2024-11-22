@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 aninásya ← aniná- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ prajígataḥ ← √gā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I ask you also to withhold your favour) from (those) two godless (person ns), from the rich man, who acknowledging you not as his lord, is chary of gifts at sacred rites, and from him who rarely praises (the gods).”
 </details>

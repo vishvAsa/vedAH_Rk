@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -151,11 +154,13 @@ suté ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or he, who is called the one absolute lord of men-- praise him, when the libation is effused, withmagnifying songs, imploring his protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 One absolute lord: who is called the one absolute lord of men bythose who magnify him (with songs) and implore his protection
 </details>

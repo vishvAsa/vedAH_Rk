@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 paṇīnā́m ← paṇí- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -267,11 +270,13 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You did discover the wealth of the **Paṇis**, and are washed in your own house at the sacrifice by the mothers, the supporters of the sacrifice; as the hymn (is heard) from afar, so it (is heard by all, the hymn) in which the supporters (of the rite) rejoice; the shining (**Soma**) with its brilliant (waters), the supporters of the three (worlds), gives food, gives food (to the worshippers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By the mothers: the vasatīvarī waters
 </details>

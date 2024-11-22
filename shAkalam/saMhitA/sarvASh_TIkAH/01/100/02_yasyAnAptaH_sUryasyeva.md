@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ánāptaḥ ← ánāpta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he whose course, like that of the sun, is not to be overtaken, who in every battle is the slayer of his foes, the witherer (of opponents), who, with his swift-moving friends (the winds), is the most bountiful (of givers); may **Indra**, associated with the **Maruts** be our protection.”
 </details>

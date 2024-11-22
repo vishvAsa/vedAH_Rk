@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 nirṇíjā ← nirṇíj- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -194,11 +197,13 @@ priyám ← priyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When they, (the priests), bring the prepared offering to the presence (of the horse), who has been bathed and decorated with rich (trappings), the various-coloured goat going before him, bleating, becomes an acceptable offering to **Indra** and **Pūṣan**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The prepared offering: rātim-gṛbhītām = lit. the seized wealth; the offering to be made for the horse;
 

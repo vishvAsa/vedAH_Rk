@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abodhi ← √budh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -178,11 +181,13 @@ vāmám ← vāmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The possessor of truth is recognized in the sky by her rays; the possessor of wealth has taken a marvellous station in earth and heaven; **Agni**, soliciting alms of the radiant advancing Uṣas, you obtain your desired treasure (of oblations).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your desired treasures: that is, the sacrificial fire is kindled at dawn
 </details>

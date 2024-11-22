@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -193,7 +196,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Many, Heavan and Earth, are the treasures fit to be given to the pious donor (of the oblation); give to usthat wealth which is unlimited; and do you ever cherish us with blessings.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jávīyān ← jávīyaṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ yébhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Indra**, to the **Soma**-drinking with your chariot, which is swifter than thought; let your bays, thevigorous steeds with which you go along rejoicing quickly, hasten hither.”
 </details>

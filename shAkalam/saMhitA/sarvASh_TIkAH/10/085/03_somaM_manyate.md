@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 manyate ← √man- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -158,7 +161,8 @@ tásya ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who has drunk thinks that the herb which men crush is the **Soma**; (but) that which theBrāhmaṇas know to be Soma,, of that no one partakes. {i.e., no one partakes of it unless he has sacrificed; ifthe Soma be taken as the moon, 'no one' will mean 'no one but the gods'\].”
 </details>

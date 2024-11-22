@@ -23,15 +23,18 @@ ChandaH = "पदपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -147,11 +150,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We celebrate you today, **Agni**, who are like a horse (in conveying our burden) with your praises, conveying (our wishes to the gods), and (who are) like a benefactor, propitious and affectionate.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 15.44; aśvam na = like a horse, an allusion to the aśvamedhika horse; Agni is the bearer of oblations as a horse is of burdens, voḍhāram aśvamiva tathā haviṣo vāhakam; ohaiḥ is an epithet of stomaiḥ; ohaiḥ is derived from **vaha**, to bear or, causing to acquire fruit or reward; or causint to attain to **Indra** and the rest, indrādi prāpakaiḥ; kratum na = upakartāramiva, like a benefactor; or, sacrifice, i.e., may we celebrate or augment that your sacrifice, Agni, with praises
 </details>

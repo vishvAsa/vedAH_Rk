@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 gopī́thyāya ← gopī́thya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ vadāsi ← √vadⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Ūrvaśī**). you have been born thus to protect the earth; you have deposited this vigour in me;knowing (the future) I have instrumental ucted you (what to do) every day; you have not listened to me; why do you nowaddress me, neglectful (of my instrumental uction)?”
 </details>

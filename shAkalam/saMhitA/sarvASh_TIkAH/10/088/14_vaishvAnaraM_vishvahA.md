@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dīdivā́ṁsam ← √dī- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -175,7 +178,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We glorify daily with praises the brilliant and sage **Agni** **Vaiśvānara**, the god who overcomes by hismight both heaven and earth, (burning) both below and above.”
 </details>

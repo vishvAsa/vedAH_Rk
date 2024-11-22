@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -197,11 +200,13 @@ r̥tám ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not th **rākṣasas**, **Indra**, do us harm; let not the evil spirits do harm to our progeny, most powerful(Indra); let the sovereign lord, (Indra), exert himself (in the restraint) of disorderly beings, so that the unchastemay not disturb our rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let not the rākṣasas: na **vandana** vedyabhiḥ = vandanāni, rākṣāṃsi, prajabhyaḥ;the unchaste: śiṣnadevaḥ, abrahmacharya ityarthaḥ (**Yaska** 4.19); or, may be those who hold the **liṅga** for adeity
 </details>

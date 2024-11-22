@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 árādhi ← √rādh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -162,7 +165,8 @@ yajñíyān ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **hotā**, most skilled in worship, has been sanctified by his seat (at the altar); he contemplates thesacred offerings reverently plural ced (before him); let us speedily worship with ghī the gods to whom worship isdue; let us praise those who are entitled to praise.”
 </details>

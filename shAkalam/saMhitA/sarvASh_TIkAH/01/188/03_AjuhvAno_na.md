@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājúhvānaḥ ← √hu- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -128,11 +131,13 @@ sahasrasā́ḥ ← sahasrasā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who are to be glorified, bring hither, being invoked by us, the adorable gods, for you are the donor of thousands.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who are to be glorified: **iḍya** = īḷita; narāśamsa, a term which normally precedes īḷita, is here omitted
 </details>

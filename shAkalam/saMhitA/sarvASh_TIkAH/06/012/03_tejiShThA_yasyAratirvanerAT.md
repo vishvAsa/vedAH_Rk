@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aratíḥ ← aratí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -168,11 +171,13 @@ avartráḥ ← avartrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, whose pure and spreading flame blazes in the forest, shines with increasing intensity, like the sun on his (celestial) path; rushing like the innoxious (wind) among the plural nts, immortal, unimpeded, he lights up (all things) by his own (lustre).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the sun: todo **adhvan**: todo = the sun, sarvasya **preraka**, the urger, impeller, or animator of all. Like the innoxious winds: adroha na = as of one not liable to be oppressed or harmed, adrogdhavya; or, it may mean the vital air, the non-injurer, the sustainer of all, prānarūpeṇa sarveṣām adrogdha, i.e. the wind, **vāyuḥ**.
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 auśijā́ya ← auśijá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which, beauteous donors, the cloud (was made to) shed its sweet (water), for the sake of the merchant **Dīrghaśravas**, the son of Uṣij, and by which you protected the devout **Kakṣīvat**; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dīrghaśravas, a ṛṣi, was the son of **Dīrghatamas**; in a time of famine, he became a trader to obtain a livelihood, hence he was a **vaṇik** a merchant, too
 </details>

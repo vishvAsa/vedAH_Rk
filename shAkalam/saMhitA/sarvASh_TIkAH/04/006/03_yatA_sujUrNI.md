@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghr̥tā́cī ← ghr̥tā́ñc- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -176,7 +179,8 @@ sumékaḥ ← suméka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ladle filled (with butter) is prepared; prompt (in act), opulent (with the oblation), the multiplying (priest), conducting (the worship) of the gods, circumambulates (the fire); the newly-trimmed **post** is set up, the impending shining axe falls upon the victims.”
 </details>

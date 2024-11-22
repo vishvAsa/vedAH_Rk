@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -144,11 +147,13 @@ váhasva ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Establish, **Vāyu**, happiness in heaven; bear quickly your well-horsed (chariot); do you, who are mighty,yoke the broad-flanked (horses) to the car.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Happiness in heaven: Vāyu is considered to be the supporter of allthe celestial luminaries, **sarva** jyotiṣām tvadādhāratvāt
 </details>

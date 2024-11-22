@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átas ← átas (invariable)  
 {}
 
@@ -130,7 +133,8 @@ sahásravājayā ← sahásravāja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come to us, **Indra**, from there with food of a hundred-fold strength, of a thousand-fold strength.”
 </details>

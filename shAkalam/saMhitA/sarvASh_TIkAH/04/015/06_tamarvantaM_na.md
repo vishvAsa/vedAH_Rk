@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvantam ← árvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -125,7 +128,8 @@ marmr̥jyánte ← √mr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They diligently worship him daily who is like a horse (to convey oblations), who is liberal and resplendent as the son of heaven, (the sun).”
 </details>

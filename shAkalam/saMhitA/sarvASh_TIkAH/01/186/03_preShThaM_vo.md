@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithim ← átithi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ sūríḥ ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise with hymns, (O gods), your best beloved guest, **Agni**, who is prompt (to partake of the oblation) and who is well plural ased along (with you); so that (thereby) **Varuṇa**, the possessor of renown, the subduer of foes, the animator (of men), may fill us with food.”
 </details>

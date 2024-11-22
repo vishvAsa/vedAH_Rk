@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cákṣasā ← cákṣas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -115,7 +118,8 @@ varuṇa ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With that light with which you, the purifier and defender from evil, look upon this creature-bearing world.”
 </details>

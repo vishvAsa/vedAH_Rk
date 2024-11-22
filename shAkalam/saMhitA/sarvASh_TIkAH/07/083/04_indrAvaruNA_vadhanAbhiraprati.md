@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apratí ← apratí- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -168,7 +171,8 @@ tŕ̥tsūnām ← tŕ̥tsu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Varuṇa**, you protected **Sudāsa**, overwhelming the yet unassailed **Bheda** with your fatalweapons; here the prayers of threse Tṛtsus in time of battle, so that my ministration may have borne them fruit.”
 </details>

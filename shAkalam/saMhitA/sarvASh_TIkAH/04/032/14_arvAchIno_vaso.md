@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arvācīnáḥ ← arvācīná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -127,7 +130,8 @@ somapāḥ ← somapā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Giver of dwellings, be present with us; drinker of the **Soma**, be exhilarated by the beverage of the juices.”
 </details>

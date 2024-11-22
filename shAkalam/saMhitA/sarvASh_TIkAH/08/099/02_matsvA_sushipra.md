@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 harivaḥ ← hárivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -168,11 +171,13 @@ sutéṣu ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Handsome-jawed lord of steeds, rejoice (in the libation); we pray to you, your votaries come to youIndra, worthy of praise, may your food be a pattern and excellent.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Upamāni = **upamāna** **bhūtāni**,magnificent
 </details>

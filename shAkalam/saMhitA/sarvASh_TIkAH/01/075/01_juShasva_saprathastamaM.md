@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 juṣásva ← √juṣ- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
 
@@ -102,7 +105,8 @@ júhvānaḥ ← √hu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accept our most exhaustive prayers, propitiatory of the gods, accepting our oblations in your mouth.”
 </details>

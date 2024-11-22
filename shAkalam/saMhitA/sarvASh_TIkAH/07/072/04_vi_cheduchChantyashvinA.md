@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinau ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -195,7 +198,8 @@ samídhā ← samídh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the dawns arise, your worshippers, **Aśvins**, profer you praises; the divine **Savitā** casts hissplendours on high; the fires, with their (kindled) fuel, greatly glorify you.”
 </details>

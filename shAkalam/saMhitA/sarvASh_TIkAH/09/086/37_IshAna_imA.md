@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhúvanāni ← bhúvana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -196,7 +199,8 @@ vraté ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indu**, who are the lord, you go (through) threse worlds, harnessing (to the car) your swift-moving steeds; let them dispense the sweet-flavoured shining liquor, may all men be present **Soma**, at your worship.”
 </details>

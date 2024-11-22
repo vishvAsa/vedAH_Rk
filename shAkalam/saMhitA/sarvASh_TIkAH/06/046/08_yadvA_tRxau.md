@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -192,7 +195,8 @@ turváṇe ← √tūr(v)- ~ tur- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever vigour, **Maghavan**, (existed) in Tṛkṣu, in **Druhyu**, in **Puru**, bestow fully upon us in conflicts with foes, so that we may destroy our enemies in war.”
 </details>

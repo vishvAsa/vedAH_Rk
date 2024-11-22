@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ághnate ← ághnant- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -127,11 +130,13 @@ svayāvan ← svayāvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, injured (through his protection, offer praise) to the liberal **Viṣṇu**, who harms not (his adorers); doyou who goes by thyself alone (to combat), and cause wealth to flow (to the worshipper), hear (our prayer) inbehalf of him who has commenced the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sindho = stotṛn **prati** dhanānām syandanaśīla viṣṇo;
 

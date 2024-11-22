@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥ṇute ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -199,11 +202,13 @@ sámitiḥ ← sámiti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated in the firmament with the moving waters, he assumes an excellent and lustrous form, and the wise sustainer (of all things) sweeps over the source (of the rains with his radiance), whence a concentration of light is spread abroad by the sportive deity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Budhna** = **antarikṣa** or firmament, as the source of the rains
 </details>

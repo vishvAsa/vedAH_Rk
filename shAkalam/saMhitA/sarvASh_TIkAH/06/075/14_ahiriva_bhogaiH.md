@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áhiḥ ← áhi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -178,11 +181,13 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ward of the fore-arm protecting it from the abrasion of the bow-string, surrounds the arm like a snake with its convulutions; may the brave man, experienced in the arts of war, defend a combatant on every side.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hastaghna = a shield, as well as the guard of the fore-arm; with its convolutions: ahiriva bhogaiḥ = śarīrena, with the body
 </details>

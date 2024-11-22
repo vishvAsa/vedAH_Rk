@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ábhvam ← ábhva- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -183,11 +186,13 @@ pūrvyā́ṇi ← pūrvyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whose great deeds his worshipers now celebrate, who is clothed with light, radiant as the sun, exempt from decay, the purifier, he illumes (all things), and destroys the ancient cities of the dispersed (evil beings).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aśnasys cid = from as', to pervade, vyāpanaśīlasya, of the pervader, i.e. rākṣasādeḥ, of the **rākṣasas** and the like
 </details>

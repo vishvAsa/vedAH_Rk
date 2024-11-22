@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 nijū́rvati ← √jūrv- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -129,7 +132,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (**Agni**), the showerer of benefits, who, his pure radiance destroys the **rākṣasas**, bear us (safe)beyond (the reach of) those who hate us.”
 </details>

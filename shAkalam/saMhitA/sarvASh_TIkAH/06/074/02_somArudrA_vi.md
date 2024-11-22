@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 sómārudrā ← somārudra- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -170,11 +173,13 @@ sauśravasā́ni ← sauśravasá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** and **Rudra**, expel the widespread sickness that has entered into our dwellings; keep off **Nirṛti**, so that she may be far away, and may prosperous means of sustenance be ours.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nirṛti = **alakṣmī**, misfortune and poverty
 </details>

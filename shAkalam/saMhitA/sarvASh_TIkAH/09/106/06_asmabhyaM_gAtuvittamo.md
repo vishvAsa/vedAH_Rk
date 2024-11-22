@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 asmábhyam ← ahám (pronoun)  
 {case:DAT, gender:M, number:PL}
 
@@ -112,7 +115,8 @@ kánikradat ← √krand- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You who are the best finder of paths for us, the sweet beverage for the gods, come by a thousand paths crying aloud.”
 </details>

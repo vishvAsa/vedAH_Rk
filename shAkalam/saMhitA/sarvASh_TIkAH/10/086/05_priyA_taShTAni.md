@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 kapíḥ ← kapí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ape has spoiled the beloved ghī-adorned (oblations) made to me (by worshippers); let mequickly cut off his head, let me not be the giver of happiness to one who works evil; **Indra** is above all (the world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ape: **kapi** = ape; also, a shorter form of **Vṛṣākapi**
 </details>

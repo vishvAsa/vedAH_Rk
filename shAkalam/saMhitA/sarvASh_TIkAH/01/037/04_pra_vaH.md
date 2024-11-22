@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ghŕ̥ṣvaye ← ghŕ̥ṣvi- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -116,11 +119,13 @@ gāyata ← √gā(y)- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Address the god-given prayer to those who are your strength, the destroyers of foes, the powerful, possessed of brilliant reputation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Devattam-**brahma**, the praise or prayer which recommends the oblation, obtained from the favour of instrumental uction of the gods
 </details>

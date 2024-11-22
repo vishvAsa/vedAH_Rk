@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āmā́su ← āmá- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -176,7 +179,8 @@ rúśat ← rúśant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Soma**, you have deposited the mature (milk) in the immature udders of the kine; you have retained the white (secretion), although not **shut** up within those may-coloured cattle.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámanmahi ← √man- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -140,7 +143,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Diffusive, many-tinted, brilliant (Uṣas), we know not (your limits), whether they be nigh or remote.”
 </details>

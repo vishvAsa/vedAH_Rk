@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 haṁsā́ḥ ← haṁsá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -176,7 +179,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Arrayed in bright (garments), entire (in their parts), these pillars ranging in rows like swans, have come to us erected by pious sages on the east( of the fire); they proceed resplendent on the path of the gods.”
 </details>

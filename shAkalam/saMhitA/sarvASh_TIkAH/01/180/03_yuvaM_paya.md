@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhattam ← √dhā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -187,7 +190,8 @@ yájate ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Youhave restored milk to the cow; you have (brought) down the prior mature (secretion) into the unripe (or barren udder) of the cow; the devout offerer of the oblation worships you, whose forms are truth, (as vigilant in the midst of the ceremony), as a thief (in the midst) of a thicket.”
 </details>

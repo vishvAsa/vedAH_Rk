@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iṣā́m ← íṣ- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -180,7 +183,8 @@ vásudhitī ← vásudhiti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, beloved (**Aśvins**), do you bear aloft (the materials) of food and riches, that, desirous of the sacrifice, you may send down the rain; this sacrifice offers you adoration, givers of riches, protectors of men.”
 </details>

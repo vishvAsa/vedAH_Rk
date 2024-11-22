@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 juṣāṇā́ ← √juṣ- (root)  
 {case:NOM, gender:F, number:SG, tense:AOR, voice:MED}
 
@@ -184,7 +187,8 @@ yujā́ ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the auspicious and gracious **Sarasvatī** hear (our praises) at this sacrifice, approached as she iswith reverence and with bended knees, and most liberal to her friends with the riches she possesses.”
 </details>

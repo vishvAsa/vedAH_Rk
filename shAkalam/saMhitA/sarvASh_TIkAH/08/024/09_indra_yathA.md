@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásti ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -134,11 +137,13 @@ rātíḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As, **Indra**, inspirer (of men), your strength is irresistible, (so) invoked of many, your munificence to thedonor (of oblations) cannot be marred.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Inspirer of men: nṛto = voc. of nṛtu, dancer, or who causes to dance, i.e.,agitator, exciter; from Indra's faculty of internal impulse in all beings, sarvasya antaryāmitayā nartayitaḥ
 </details>

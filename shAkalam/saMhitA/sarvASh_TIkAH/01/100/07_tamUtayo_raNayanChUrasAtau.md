@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 raṇayan ← √ranⁱ- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -203,7 +206,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hi, his allies, the **Maruts**, animate in battle; him, men regard as the preserver of their property; he alone presides over every act of worship; may **Indra**, associated with the Maruts, be our protection.”
 </details>

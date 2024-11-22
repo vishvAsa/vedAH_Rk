@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhīmáḥ ← bhīmá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Terrible are you as a wandering lion who dwells in the mountains; come from a far-off, distant (world);having whetted your rapid and sharp bolt, destroy our enemies, **Indra**, put to flight our opponents.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Nirukta** 1.20:**kucaraḥ** = having a bad gait; cf. about **Viṣṇu** RV 1.154.2
 </details>

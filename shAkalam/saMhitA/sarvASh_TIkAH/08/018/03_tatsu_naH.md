@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 bhágaḥ ← bhága- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -145,7 +148,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Savitā**, **Bhaga**, **Varuṇa**, **Mitra**, and **Aryaman** bestow upon us that ample felicity which we solicit.”
 </details>

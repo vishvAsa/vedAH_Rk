@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -224,11 +227,13 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not the royal **Indra** frustrate those our actions, which the sisters, (Day and Night), are directing to their object. May these invigorating offerings propitiate hi, so that he may bestow upon us friendly (regard), and (abundant) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The sisters: svasārā = liṭ, sisters; day and night; or, instrumental tutor of the right and the officiating priest; or, the fingers used in ritual manipulations
 </details>

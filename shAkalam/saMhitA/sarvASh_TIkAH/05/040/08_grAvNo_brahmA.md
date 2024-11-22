@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 brahmā́ ← brahmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ svàrbhānoḥ ← svàrbhānu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then the **Brahman**, (**Atri**), applying the stones together, propitiating the gods with praise, and adoring them with reverence, plural ced the eye of **Sūrya** in the sky; he dispersed the delusions of **Svarbhānu**.”
 </details>

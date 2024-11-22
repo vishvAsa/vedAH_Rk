@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dábhāya ← dábha- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ suvitám ← suvitá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desiring (adoration), proceeding (in the sky), preservers of mankind, be not disposed, **Indra** and **Vāyu**,to do us harm; protect us through many months and years; our sincere praise, addressed to you both, solicitshappiness and excellent wealth.”
 </details>

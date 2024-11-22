@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́su ← ahám (pronoun)  
 {case:LOC, number:PL}
 
@@ -160,7 +163,8 @@ r̥bhúḥ ← r̥bhú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (**Indra**), adorable among us and brilliant, is a thunderbolt for the donor (of the oblation against hisfoes); he cherishes the exhilarating (worshipper) ūrdhvakṛśana, as **Ṛbhu** (cherishes) the exhilaratingcelebrator of holy rites.”
 </details>

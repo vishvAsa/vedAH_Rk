@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakr̥vā́ṁsam ← √kr̥- (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -212,7 +215,8 @@ vavr̥tyāt ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our new prayer bring to our protection you, **Indra**, who are the maker of all these (things that exist); who are mighty, fierce, undecaying, the giver of strength, having excellent descendants, the **Maruts**, well-armed, the bearer of the thunderbolt.”
 </details>

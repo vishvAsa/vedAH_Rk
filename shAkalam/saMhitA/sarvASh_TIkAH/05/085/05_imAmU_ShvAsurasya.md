@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsurásya ← āsurá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I proclaim this great device of the renowned **Varuṇa**, the destroyer of the **Asuras**, who, abiding in the mid-heaven, has meted the firmament by the sun, as if by a measure.”
 </details>

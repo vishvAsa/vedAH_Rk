@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -196,11 +199,13 @@ vakṣáṇāḥ ← vakṣáṇā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I declare the former valorous deeds of **Indra**, which the thunderer has achieved; he clove the cloud; he cast the waters down (to earth); he broke (a way) for the torrents of the mountain.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Vṛtra**, also called Ahi, is alluded to as condensed accusative ulation of vapour figuratively **shut** up or obstructed by a cloud; Indra, with his thunderbolt or atmospheric prowess divides up the augmented mass yielding a vent for the rain to descend on the earth and moisten the fields
 </details>

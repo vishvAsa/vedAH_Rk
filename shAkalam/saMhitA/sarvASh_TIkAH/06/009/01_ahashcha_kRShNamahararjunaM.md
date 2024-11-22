@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -188,7 +191,8 @@ támāṁsi ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The dark day and the light day revolve alternate, affecting (the world) by their recognizable (properties); **Agni** **vaiśvānara**, manifested like a prince, dispels darkness by his lustre.”
 </details>

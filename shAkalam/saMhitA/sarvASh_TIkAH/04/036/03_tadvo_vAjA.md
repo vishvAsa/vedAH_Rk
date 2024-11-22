@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥bhavaḥ ← r̥bhú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -191,7 +194,8 @@ yúvānā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Therefore, **Vāja**, **Ṛbhu**, Vibhvan, was your greatness proclaimed among the gods, that you made your aged and inform parents young (and able) to go (withere they would).”
 </details>

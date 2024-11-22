@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devīḥ ← devī́- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -192,11 +195,13 @@ saptā́sye ← saptā́sya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine Dawns, may your chariot, whether old or new, be frequent at this day's (worship), wherewith, affluent Dawns, possessing riches, (you shine) upon the seven-mouthed (troop of the) **Aṅgirasas**, the observers of the nine or ten days' rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seven-mouthed aṅgirasas: repeating the seven vedic metres; nine or ten days rites: cf. RV. 10.62.6
 </details>

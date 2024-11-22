@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dvimātā́ ← dvimātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The child of two mothers, the invoker of the gods at sacrifices, the universal sovereign, proceeds thenceforward (in the sky); the root (of all), he abides (in the houses of the pious); the reciters of plural asant (words) offer him agreeable (praises); great and unequalled is the might of the gods.”
 </details>

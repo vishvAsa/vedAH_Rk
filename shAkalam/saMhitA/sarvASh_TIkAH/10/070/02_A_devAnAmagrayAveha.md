@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -171,7 +174,8 @@ suṣūdat ← √sūd- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Narāśaṃsa, the preceder of the gods, come here with his horses of various forms; deserving ofadoration, chief of the gods, may he effuse (oblations) to the gods by the path of the sacrifice with praise.”
 </details>

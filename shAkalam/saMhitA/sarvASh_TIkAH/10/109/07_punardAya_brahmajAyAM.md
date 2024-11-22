@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 brahmajāyā́m ← brahmajāyā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -144,7 +147,8 @@ urugāyám ← urugāyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods having given back **Brahmā**'s wife, and made her free from sin, having partaken of the foodof the earth, sat down to (the sacrifice of) the widely hymned **Bṛhaspati**.”
 </details>

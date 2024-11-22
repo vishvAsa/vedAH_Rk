@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhríjaḥ ← adhríja- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ sāsahyāt ← √sah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the sage who is in this manner the offerer of exclusive praise (**Agni**, to you), accept the cattle which are to be given to you; and thereupon may **Atri** overcome (hostile) men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May iṣa overcome hostile men: iṣaḥ sāsahyān nṛn: iṣaḥ = ṛṣi of the **sūkta**; or, derived from is. and being the accusative ative plural ral, may be an epithet of nṛn, encountering or opposing men
 </details>

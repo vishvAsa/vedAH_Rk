@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apáḥ ← áp- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -198,7 +201,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, (abiding on the further bank), have rendered the fertilizing waters agreeable to **Yadu** and Turvaśu; you two, (Indra and **Kutsa**), have assailed the fierce (**Śuṣṇa**), and (having slain him), you have conveyed Kutsa (to his dwelling), and **Uśanās** and the gods have therefore honoured you both.”
 </details>

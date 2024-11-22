@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 dásrā ← dasrá- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -109,11 +112,13 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, destroyers of foes, exempt from untruth, leaders in the van of heroes, come to the mixed libations sprinkled on the lopped sacred grass.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Darsa** = destroyers of foes or diseases; '**aśvinau** vai devānām bhiṣajau--iti sruteḥ', the two aśvins are verily the physicians of the gods, according to the **Veda**. **rudra**-**vartani**: rudra, from rud, weeping; yad arodīt tad rudrasya rudratvam: in as much as he wept, thence came the property or function of rudra (**Taittirīya** **Saṃhitā** 1.5.1.1); hence, Rudra = heroes, they who make their enemies weep;
 

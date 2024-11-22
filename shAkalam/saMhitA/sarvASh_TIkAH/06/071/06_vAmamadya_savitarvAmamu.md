@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -205,11 +208,13 @@ vāmabhā́jaḥ ← vāmabhā́j- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beget for us, **Savitā**, wealth today, wealth tomorrow, wealth day by day; you are the giver of ample wealth, of a (spacious) mansion; may we, by this praise, become partakers of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 8.6: **vāma** = dhanam; or, karmaphalam, the reward of holy acts or sacrifice, i.e. vamanīyam, that which is desirable to obtain, and which will apply equally to wealth or reward;
 

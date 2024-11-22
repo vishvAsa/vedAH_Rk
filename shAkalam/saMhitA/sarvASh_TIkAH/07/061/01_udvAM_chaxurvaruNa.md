@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cákṣuḥ ← cákṣus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -193,7 +196,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Spreading arond the beautiful light, **Mitra** and **Varuṇa**, of you two divinities, **Sūrya** rises; he whobeholds all existing beings apprehends the acts of mortals.”
 </details>

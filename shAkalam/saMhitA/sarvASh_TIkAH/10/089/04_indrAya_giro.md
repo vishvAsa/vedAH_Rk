@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ániśitasargāḥ ← ániśitasarga- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -180,7 +183,8 @@ víṣvak ← víṣvañc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I will utter praises to **Indra** in unceasing flow, (I will send) waters from the depth of the firmament (tohim) who has fixed heaven and earth on both sides by his acts as the wheels of a chariot (are fixed) by the axle.”
 </details>

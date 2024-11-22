@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 atre ← átri- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -213,7 +216,8 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sūrya** speaks: Let not the violator, **Atri**, through hunger, swallow with fearful (darkness) me who am yours; you are **Mitra**, whose wealth is truth; do you and the royal **Varuṇa** both protect me.”
 </details>

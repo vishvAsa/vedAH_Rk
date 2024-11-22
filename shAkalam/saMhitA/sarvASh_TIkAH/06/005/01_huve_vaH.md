@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 huvé ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -172,7 +175,8 @@ viśvávārāṇi ← viśvávāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke you, **Agni**, the son of strength, the youthful, the irreproachable, the very young; you who are wise, the sought of many, the merciful, who bestows treasures acceptable to all.”
 </details>

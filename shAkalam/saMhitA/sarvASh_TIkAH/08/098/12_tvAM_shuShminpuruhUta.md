@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; 12 = 8+4  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 puruhūta ← puruhūtá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -135,11 +138,13 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty **Śatakratu**, invoked by many, I praise you desirous of offerings; do you give us wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śatakratu = sahaskṛta
 </details>

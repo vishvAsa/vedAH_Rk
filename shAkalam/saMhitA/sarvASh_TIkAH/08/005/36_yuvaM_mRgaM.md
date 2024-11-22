@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāgr̥vā́ṁsam ← √gr̥- (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -128,7 +131,8 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Affluent in showers, taste the wakeful desirable **Soma**; combine for us riches with food.”
 </details>

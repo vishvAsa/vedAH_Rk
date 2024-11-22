@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhágabhaktasya ← bhágabhakta- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -127,7 +130,8 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We are assiduous in attaining the summit of affluence, through the protection of you, who are the possessor of wealth.”
 </details>

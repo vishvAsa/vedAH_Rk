@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular
-#### Morph
+_________
+**Morph**  
 budhyadhvam ← √budh- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -189,11 +192,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Awake, friends, being all agreed; many in number, abiding in one dwelling, kindle **Agni**. I invoke you,Dadhikra, Agni, and the divine Uṣas, who are associated with **Indra**, for our protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In one dwelling: liṭ, inone nest; in one hall
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 arkébhiḥ ← arká- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -129,11 +132,13 @@ vardhanti ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men who are cognizant (of sacred texts) magnify **Indra** with pious precepts, with sacred songs, and withprayers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With pious precepts: tam arkebhis tam sāmabhis tam gāyatrais' carṣaṇayaḥ kṣitayaḥ: the last twoimply men; or, the first is an epithet of the second-- the seers or understanders of **Mantras**, or texts, such asthose of the **yajus**. (**arka**), of the sa)man, and metrical prayers not chanted (**gāyatra**)
 </details>

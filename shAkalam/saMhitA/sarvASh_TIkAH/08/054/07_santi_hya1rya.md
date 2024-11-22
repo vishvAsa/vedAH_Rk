@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
-#### Morph
+_________
+**Morph**  
 aryé ← aryá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -154,7 +157,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Our prayers abide in the true one, in **Indra** is the life of men; draw near to us, **Maghavan**, for ourprotection; milk for the streaming drink.”
 </details>

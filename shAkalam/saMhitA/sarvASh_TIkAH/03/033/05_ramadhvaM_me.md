@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
 
@@ -172,11 +175,13 @@ sūnúḥ ← sūnú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Viśvāmitra** speaks: Rivers, charged with water, rest a moment from your course at my request, who go to gather the **Soma**; I, the son of **Kuśika**, desirous of protection, address with earnest prayer especially the river before me.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At my request: me vacase somyāya = to my speech importing the soma, i.e. the object of my address is, that having crossed over, I may go to gather the soma; cf. **Nirukta** 2.25; the river before me: that is, the **śutudri**
 </details>
@@ -191,7 +196,8 @@ My lofty inspired thought (has gone) forth to the river: seeking help,  have I, 
 
 Geldner renders voc. ṛ́tāvarīḥ as ‘ihr Immerfliessenden’ without comment. But this is simply the fem. stem to the possessive ṛtā́van- ‘possessing ṛtá-’, which he elsewhere tr. “gesetzestreuen” (e.g., I.160.1, III.54.4) et sim.
 
-In 5c avasyú- ‘seeking help’ answers the question posed by the rivers in 4c kiṃyú- ‘seeking what?’ and in the same position in the vs. ### 06
+In 5c avasyú- ‘seeking help’ answers the question posed by the rivers in 4c kiṃyú- ‘seeking what?’ and in the same position in the vs. _________
+**06**  
 In this vs. the rivers indirectly respond to Viśvāmitra’s command “Stop!” (rámadhvam) in the previous vs. (5a), by asserting that they flow because of the efforts of and at the pleasure of the gods: Indra dug their channels and, by smashing Vṛtra, removed the barrier to their movement; Savitar led them and they flow at his impulsion. Without explicitly refusing Viśvāmitra’s request, they make it plain that they won’t comply by stopping.
 
 The stem prasavá- ‘forward thrust, impulsion’ occurs here for the third time in this hymn (2a, 4c, 6d; see also 11c) and is here associated with its etymological divinity Savitar, the Impeller.

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dharúṇāni ← dharúṇa- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -175,11 +178,13 @@ viveśuḥ ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Many are the stable, sustaining, delightful forms of the embodied ṛta; the ṛta are (the pious) expectant of food; by ṛta have the kine entered into the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., as presents made to the officiating priests; the phrase may also mean, the rays of light have entered into the water, **gāva** ṛtam āviveśuḥ raśmayā udakam āiveśuḥ
 </details>

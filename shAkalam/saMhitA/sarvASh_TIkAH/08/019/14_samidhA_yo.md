@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditim ← áditi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -190,11 +193,13 @@ udnáḥ ← udán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mortal who propitiates **Aditi** with his (**Agni**'s) many forms by blazing fuel, prospering through hispious rites, shall surpass all men in renown as (if he had crossed over) the waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aditi: aditim is an epithet ofAgni, i.e., akhaṇḍanīyam, the insuperable; wiḥ many forms such as **gārhapatya**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -187,7 +190,8 @@ púnaḥ-punar ← púnar (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** has taken his station in an asylum, brilliant, much-lauded, and as desirous (of receiving him) as he is (torepair to it); radiant, pure, vast and purifying, he repeatedly renovates his parents, (Heaven and Earth).”
 </details>

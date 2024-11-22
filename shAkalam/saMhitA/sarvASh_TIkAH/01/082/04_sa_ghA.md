@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gha ← gha (invariable)  
 {}
 
@@ -205,11 +208,13 @@ yójā ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he ascend that chariot which rains (blessings), and grants cattle, and which provides the vessel filled with the mixture of **Soma** and grain; quickly, **Indra**, yoke your horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pātram hāriyojanam, a plural te filled with hāriyojanam, which is a mixture of fried barley or other grain and soma
 </details>

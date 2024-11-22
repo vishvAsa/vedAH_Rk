@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásmi ← √as- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -194,7 +197,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I am (in dependence), **Indra**, upon the acts of such as you are, upon the liberality of a protector, hero,such as you; vigorous and fierce Indra, give us a dwelling for all our days; lord of bay steeds, do us no harm.”
 </details>

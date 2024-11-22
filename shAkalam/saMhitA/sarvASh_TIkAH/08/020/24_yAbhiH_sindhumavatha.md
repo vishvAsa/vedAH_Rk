@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávatha ← √avⁱ- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -164,7 +167,8 @@ asacadviṣaḥ ← asacadviṣ- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those auspicious protectionw with which you have guarded the ocean, with which you havedesroyed (your enemies), with which you provided the well (for **Gotama**), do you who are he sources ofhappiness, the unconquerable by your adversaries, bestow happiness upon uṣ\]The unconquerable:asasacadviṣa = śatrurahitaḥ, destitute of enemies\].”
 </details>

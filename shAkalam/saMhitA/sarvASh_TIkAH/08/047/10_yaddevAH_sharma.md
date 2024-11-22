@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 devāḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -216,11 +219,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant to us, deities, that happiness which is a refuge, auspicious, and free from sickness, which isthreefold and fit for a (secure) shelter; your aids are void of harm, your aids are true aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Threefold: tridhātu =protecing against cold, heat and wind or wet (RV 8.18.21, trivarūtha); or, simply three elements
 </details>

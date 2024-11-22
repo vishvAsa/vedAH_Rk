@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 mātā́ ← mātár- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -161,11 +164,13 @@ sástu ← √sas- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the mother sleep let the father sleep, let the dog sleep, let the son-in-law sleep, let all the kindredsleep, let the people (who are stationed) around sleep.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let the son-in-law: sastu viśpati: jāmātṛ, the master ofall; **gṛhi**, the householder
 </details>

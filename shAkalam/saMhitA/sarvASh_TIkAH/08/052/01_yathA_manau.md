@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 mánau ← mánu- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -157,7 +160,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As you, **Śakra**, did drink the effused **Soma** from **Manu** **Vivasvat**, as you did accept the hymn from **Trita**,so do you gladden yourself with Āyu.”
 </details>

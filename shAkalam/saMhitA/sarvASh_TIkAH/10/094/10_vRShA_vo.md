@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aṁśúḥ ← aṁśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ yásya ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** is your showerer (at the sacrifice); you are unharmed, (like those) abounding in food, youare constantly feeding; like the wealthy (possessed) of splendour, you, O stones, are beautiful (at the sacrifice ofhim) whose sacrifice you delighted in.”
 </details>

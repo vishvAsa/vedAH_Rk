@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hárī ← hári- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -191,7 +194,8 @@ vr̥ṣāyáte ← √vr̥ṣāy- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These devourers of **Soma** kiss **Indra**'s horses, milking forth the juice they repose upon the cow, Indrahaving quaffed the sweet Soma milked forth by them increases, waxes broad, grows vigour.”
 </details>

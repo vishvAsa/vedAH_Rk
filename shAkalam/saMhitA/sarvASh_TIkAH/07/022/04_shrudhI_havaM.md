@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádreḥ ← ádri- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -149,11 +152,13 @@ sácā ← sácā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear the invocation of the (grinding) stone, (of me) repeatedly drinking (the **Soma**), comprehend thehymn of the adoring sage, and, friendly (with us), take to your near consideration these adorations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of merepeatedly drinking the Soma: śrudhi havam vipipanasya **adraḥ**: mama pipipana: pa, to drink, vipitavat or vipivat;take to your near consideration: kriśva duvansi antama sachema = **mani** paricharanāni antikatamānibuddhisthāni **sahāya** **bhūta** san **kuru**
 </details>

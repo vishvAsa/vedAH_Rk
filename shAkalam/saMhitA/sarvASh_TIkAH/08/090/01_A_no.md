@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -144,11 +147,13 @@ paramajyā́ḥ ← paramajyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, who is to be invoked in all battles regard our hykns and our libationsl he the slayer of **Vṛtra**,who crushes the mightiest (foes), who is worthy of his praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who crushes the mightiest foes: paramajyāḥ = hewhose bowstring (jya) is most excellent (**parama**) (RV. 8.1.30);
 

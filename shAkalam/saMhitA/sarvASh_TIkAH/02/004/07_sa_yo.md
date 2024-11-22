@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -204,7 +207,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is in many plural ces, who spreads over the whole earth, like an animal without a herdsman, that goes according to its own will; **Agni**, the bright-shining, consuming the dry bushes, by whom the pain of blackness (is inflicted on the trees), entirely drinks up (their moisture).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anavabhrárādhasaḥ ← anavabhrárādhas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -158,7 +161,8 @@ vīrásya ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Givers without stint, possessors of inexhaustible riches, devoid of malevolence, ever glorified at sacrifices, they worship the adorable (**Indra**), for (the sake of) drinking (the **Soma**) wine; for they know the first manly exploits of the hero.”
 </details>

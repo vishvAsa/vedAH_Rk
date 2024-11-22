@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áṅgirobhiḥ ← áṅgiras- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -192,11 +195,13 @@ svā́hā ← svā́hā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mātalin prospers with the **Kavyas**; **Yama** with the **Aṅgirasas**; **Bṛhaspati** with the Ṛkvans; they whomthe gods augment, and they who augment the gods, these rejoice in **Svāhā**, those in the **Svadhā**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 MātaliṅMātalī is the name of the charioteer of **Indra**; so Mātalin (having **Mātalī**) is a name of Indra
 </details>

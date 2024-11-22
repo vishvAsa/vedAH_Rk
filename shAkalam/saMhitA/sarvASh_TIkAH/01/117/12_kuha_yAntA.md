@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kāvyásya ← kāvyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ daśamé ← daśamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wither were you going, sons of heaven, showerers (of benefits), when, on your way to the dwellingof **Kāvya**, (to receive his) adoration, you raised up (Rebha), **Aśvins**, on the tenth day, like a buried vessel full of gold?”
 </details>

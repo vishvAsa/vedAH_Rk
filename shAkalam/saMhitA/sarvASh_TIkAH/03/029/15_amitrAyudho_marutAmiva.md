@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 amitrāyúdhaḥ ← amitrāyúdh- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -197,7 +200,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Kuśikas**, the first-born of **Brahmā**, armed against enemies like the energies of the **Maruts**, comprehend the universe; they have uttered the prayer accompanied by the oblation; they have one by one lighted **Agni** in this dwelling.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bandhútā ← bandhútā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -204,7 +207,8 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoker (of the gods), young (of the deities) possessed of excellent wisdom, through the alliance (with you produced) by holy texts, which came to me from my father **Gotama**, I demolish the powerful (demons); do you who are the humbler (of foes), be cognizant of our praises.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -197,7 +200,8 @@ sákhā ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Chief leader (of rites), these praises of man addressed to you revert to us, who are the offerers of(sacrificial) riches; do you be propitious to such men, (**Indra**), in conflicts with enemies; be their friend, their hero,and protector.”
 </details>

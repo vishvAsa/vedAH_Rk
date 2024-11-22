@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avyáyam ← avyáya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -159,11 +162,13 @@ hiyānáḥ ← √hi- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When effused the **Soma** juice flows to the woollen (filter) as (a warrior) in a chariot is covered in mail; fitted into the wooden (cask), hurrying forth, it flows in streams.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the woollen filter: druṇā = hiyānaḥ (tena pūryamāṇaḥ);
 

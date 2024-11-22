@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -166,7 +169,8 @@ carṣaṇīdhŕ̥tā ← carṣaṇīdhŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, lord of strength, are the glorious possessor of the offered **Soma**, alone with (yourthunderbolt), that protector of men, you smite the enemies that none else could oppose or drive away.”
 </details>

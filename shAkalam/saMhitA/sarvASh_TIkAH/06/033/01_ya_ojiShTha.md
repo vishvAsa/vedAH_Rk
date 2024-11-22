@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāḥ ← √dā- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -199,7 +202,8 @@ vr̥trā́ ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerer (of benefits), **Indra**, grant us a son who shall be most vigorous, a delighter (of you by praise), a pious sacrificer, a liberal giver, who, mounted on a good steed, shall overthrow numerous good steeds, and conquer opposing enemies in combat.”
 </details>

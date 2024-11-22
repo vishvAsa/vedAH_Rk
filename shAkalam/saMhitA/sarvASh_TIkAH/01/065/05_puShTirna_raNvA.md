@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 kṣitíḥ ← kṣití- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -131,11 +134,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[5-6\] **Agni** is grateful as nourishment, vast as the earth, productive (of vegetable food), as a mountain, delightful as water; he is like a horse urged to a charge in battle and like flowing waters; who can arrest him?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Puṣṭirna raṇvā = like grateful nourishment; kṣitirna **pṛthvī** = like the vast earth; the epithets applied to objects also apply to Agni
 </details>

@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhiṣṇyā ← dhíṣṇya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -107,7 +110,8 @@ vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable showerers (of benefits), bestow daily upon me (some) of that (wealth) which is given by you,which is brought by you for the worshippers.”
 </details>

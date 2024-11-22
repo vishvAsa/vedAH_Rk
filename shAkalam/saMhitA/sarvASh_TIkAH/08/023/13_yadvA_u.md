@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śitáḥ ← √śā- ~ śī- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -154,7 +157,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Agni**, the lord of man, sharpened (by sacrifice), and, well plural ased, is present in the abode of aman, he verily defends it against all evil spirits.”
 </details>

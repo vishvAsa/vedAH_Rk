@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -168,7 +171,8 @@ jyótiḥ ← jyótis- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring to us, **Indra**, wisdom, as a father (gives knowledge) to his sons; bestow wealth upon us on thisoccasion, you the invoked of many, so that we, living at the solemnity may (long) enjoy the light (of existence).”
 </details>

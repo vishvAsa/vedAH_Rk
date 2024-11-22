@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aktám ← √añj- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -178,11 +181,13 @@ vedhásaḥ ← vedhás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise behold their mind; (seated) in their heart the Sun made manifest by the illusion of the **asura**;the sages look into the solar orb, the ordainers (of solar worship) desire the region of his rays.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Illusion of theasura: asurasya = the supreme **Brahma** devoid of all disguise; aktam māyayā = united, to knowledge,all-knowing
 </details>

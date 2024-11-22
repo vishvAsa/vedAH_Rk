@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhárante ← √bhr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -186,11 +189,13 @@ yatathaḥ ← √yat- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the intelligent (priests) offer praise, then some of them, glorifying (**Agni** and other deities), recite the Nivid hymns; such being the case, we address to you sincere adoration, for in consequence of your greatness you do not associate with (other) divinities.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Na kir devebhir yatathaḥ, you do not go, gacchathaḥ, with other gods, anyair devaiḥ **saha**, you are not associated with them at sacrifice
 </details>

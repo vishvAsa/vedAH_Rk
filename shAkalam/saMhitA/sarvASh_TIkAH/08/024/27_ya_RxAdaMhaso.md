@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁhasaḥ ← áṁhas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -148,11 +151,13 @@ vádhar ← vádhar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(He it is) who rescues men from the wickedness of evil beings, who enriches (the dwellers) on theseven rivers; now hurl, you who abound in wealth, your weapon at the **Dāsa**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dwelleres on the seven rivers:sapta sindhuṣu, i.e. the dwellers on the banks of the seven rivers; or, on the shores of the seven seas
 </details>

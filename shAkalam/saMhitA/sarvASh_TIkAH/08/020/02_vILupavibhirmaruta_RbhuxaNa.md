@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -161,7 +164,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty sons of **Rudra**, **Maruts**, come with brilliant, strong-wheeled (chariots); desired of many,well-disposed to Sobhari, come today to our sacrifice with (abundant) food.”
 </details>

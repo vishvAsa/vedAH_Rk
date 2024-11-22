@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mánasaḥ ← mánas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -204,11 +207,13 @@ pátim ← páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the praise of the zealous worshipper sanctiies him as that of a noisy (crowd) in front (praises) a distinguished (prince) for the support (he affords); then the cows come to the excellent exhilarating **Indu**, the lord (of all, abiding) in the pitcher, eager to gratify him (with their milk).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For the support he affords: dharmaṇi = the reason (**nimitta**) of the praise; i.e. the duty of acquisition and preservation (or the duty of securing property), **yogakṣema** viṣayam **karma**
 </details>

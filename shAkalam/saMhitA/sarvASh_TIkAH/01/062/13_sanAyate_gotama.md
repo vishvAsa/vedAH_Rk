@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gótamaḥ ← gótama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty **Indra**, **Nodhas**, the son of **Gotama**, has composed for us this new hymn, (addressed) to you, who have been forever, who harness your coursers (to your car) and are the sure guide (of all). May he who has acquired wealth by propitious acts, come hither quickly in the morning.”
 </details>

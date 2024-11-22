@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citrábhānavaḥ ← citrábhānu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vast, possessed of knowledge, bright-shining, like mountains in stability and quick in motion, you, like elephants, break down the forests when you put vigour into your ruddy (mares).”
 </details>

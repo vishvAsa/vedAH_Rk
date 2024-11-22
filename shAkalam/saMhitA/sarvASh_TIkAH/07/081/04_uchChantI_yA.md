@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥ṇóṣi ← √kr̥- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -194,7 +197,8 @@ syā́ma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty goddess, who, scattering darkness, are endowed with power to arouse the world and make itvisible, we pray that we may be dear to you, the distributress of wealth, as sons are to a mother.”
 </details>

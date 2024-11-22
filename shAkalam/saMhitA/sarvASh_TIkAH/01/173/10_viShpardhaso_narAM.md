@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -169,11 +172,13 @@ yajñaíḥ ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Emulous in commendation, like (those contending for the favour) of men, may **Indra**, the wielder of the thunderbolt, be equally (a friend) to us; like those who, desirous of his friendship, (conciliate) the lord of a city (ruling) with good government, so do our intermediate (representatives) propitiate (Indra) with sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The lord of a city: mitrāyuvo na pūrpatim = **puraḥ** svāminam, the master or governor of a city
 </details>
@@ -191,7 +196,8 @@ The vs. describes the competition between rival sides (either in battle or in ri
 
 My interpr. of the vs. requires some rearrangement of the elements, most particularly the phrase narā́ṃ ná śáṃsaiḥ, which I construe with the simile in c -- parallel to yajñaíḥ in the frame in d. Although this displacement may seem radical, neither Geldner’s “Im Wetteifer geratend wie durch das Lob der Herren …” (sim. Witzel Gotō) nor Renou’s “(Soyons) en rivalité comme par l’effet des paroles-qualifiantes des seigneurs …” makes any sense to me.
 
-This passage is one of the comparatively few where a real modal value of the subjunctive might be preferable to the expectant future: “let/may Indra be ours,” rather than the published translation “Indra will be ours.” Perhaps adjusting the English to “shall be ours” will do the trick. The subjunctive may express the speakers’ certainty that their sacrifices will be successful and exercise control over Indra’s actions. This seems to be the point of the next vs. ### 11
+This passage is one of the comparatively few where a real modal value of the subjunctive might be preferable to the expectant future: “let/may Indra be ours,” rather than the published translation “Indra will be ours.” Perhaps adjusting the English to “shall be ours” will do the trick. The subjunctive may express the speakers’ certainty that their sacrifices will be successful and exercise control over Indra’s actions. This seems to be the point of the next vs. _________
+**11**  
 As indicated in the published intr., the syntax of this vs. mimics the meandering attributed to the finally successful sacrifice and the long road that brings a man home.
 
 One of the striking features of the word order (at least in my interpr. and Geldner’s) is that índram behaves almost like a Wackernagel’s Law clitic, in taking modified 2nd position in pāda a, though it is to be construed with ókaḥ … ā́kṛṇoti in cd. One factor that might impede that interpr. is that, as Oldenberg points out, the finite verb kṛṇoti in d is not accented, despite the hí in pāda a. Oldenberg feels that the end of the verse is no longer governed by hí. I would suggest rather that the rambling road the vs. has traveled from its beginning, including two complex similes, led the poet to forget or dismiss the hí with which he began.

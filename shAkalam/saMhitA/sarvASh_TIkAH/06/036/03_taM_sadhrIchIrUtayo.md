@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sadhrī́cīḥ ← sadhryàñc- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -173,7 +176,8 @@ viśanti ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The associated **Maruts**, heroic energies, virile strength, and the **Niyut** steeds, attend upon **Indra**, and praises powerful in sacred song centre in him as rivers flow into the ocean.”
 </details>

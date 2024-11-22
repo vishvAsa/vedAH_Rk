@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ákāri ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -187,7 +190,8 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praises have been offered to you, **Indra**, by the sons of **Gotama**; (they have been) uttered with reverence (to you), borne (hither) by your steeds; grant us various sorts of food. May he who has acquired wealthy by pious acts, come hither quickly in the morning.”
 </details>

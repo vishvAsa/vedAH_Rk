@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíṣṭau ← abhíṣṭi- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -181,11 +184,13 @@ yunájan ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Upon your approach, **Mitra** and **Varuṇa**, protectors of the dwelling, your (bounty) is unlimited; when (your) praises are uttered, and the sacrificers add in the ceremony the **Soma** that inspires straightforwardness and resoluion, and is the showerer (of benefits).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your bounty: yuvor askṛdhoyu: yuvābhyām deyam gṛhādikam avicchinnam **bhavati**, that which is to be given by you, as houses and the like, is unchecked;
 

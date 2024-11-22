@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -191,11 +194,13 @@ yájasi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mortal, **Agni**, who presents to you, the immortal, fuel at the offering of the oblation-- you are hisHotā, you go on his errant (to the gods), you direct (the ceremonial), you offer the sacrifice, you act as theofficiating priest.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You direct: i.e., Agni is the Brāhman, the **Yajamāna** and the **Adhvaryu**
 </details>

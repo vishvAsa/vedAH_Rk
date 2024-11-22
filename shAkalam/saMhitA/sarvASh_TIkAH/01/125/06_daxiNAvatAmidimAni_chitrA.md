@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citrā́ ← citrá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -148,11 +151,13 @@ tirante ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These wonderful (rewards) verily are for those who give (pious) donations; for the donors of (pious) gifts the suns shine in heaven; the givers of (pious) donations attain immortality; the givers of (pious) gifts prolong their (worldly) existence.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Imāni **citrā**, these wonders of these variegated things,which are person nal decorations-- garlands, sandal, jewels, pearls; dakṣiṇāvatām- dakṣiṇādātṛṇām, of the givers of dak.ṣiṇā or donations to **brahmins** at the end of a sacrifice, or any particular solemnity
 </details>

@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 mahitvā́ ← mahitvá- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -120,7 +123,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[9-10\] The wise, (first) honouring **Agni**, as they do a dwelling, worship him who implants their (peculiar) virtues in herbs, as progeny in their parents, and who, the source of knowledge and of all sustenance, (abides) in the domicile of the waters.”
 </details>

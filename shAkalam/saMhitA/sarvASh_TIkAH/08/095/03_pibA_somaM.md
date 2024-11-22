@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kám ← kám (invariable)  
 {}
 
@@ -158,11 +161,13 @@ viśā́m ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink to your fill, **Indra**, the effused **Soma** brought, by the hawk, you are the lord of all the divine hosts,you are the self-resplendent.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Brought by the hawk: RV. 1.80.2; lord of all the divine hosts: śaśvatīnāṃ..viśām = bahunām marudgaṇān sarveṣām devagṇānām ca
 </details>

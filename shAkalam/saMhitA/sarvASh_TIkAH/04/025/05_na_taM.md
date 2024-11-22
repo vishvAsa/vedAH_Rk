@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bahávaḥ ← bahú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -214,7 +217,8 @@ suprāvī́ḥ ← suprāvī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him neither many nor few can molest; may **Aditi** grant him infinite happiness; the performer of pious acts is dear (to **Indra**); dear to Indra is he whose mind is intent upon him; dear is he who approaches him with homage; dear to him is the offerer of the libation.”
 </details>

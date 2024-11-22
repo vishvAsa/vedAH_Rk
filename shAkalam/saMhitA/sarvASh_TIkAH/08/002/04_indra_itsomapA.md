@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 ékaḥ ← éka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -139,11 +142,13 @@ mártyān ← mártya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** verily is the chief drinker of the **Soma** among gods and men, the drinker of the effused libation, theaccepter of all kinds of offerings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The chief drinker of the Soma: ekaḥ **somapāḥ**, he alone is to be presentedwith the entire libation; the other gods are only sharers of a part, **ekadeśa** bhājaḥ
 </details>

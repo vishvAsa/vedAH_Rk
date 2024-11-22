@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 nīcā́ ← nyàñc- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -168,7 +171,8 @@ sántaḥ ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Now they abide below; now they palpitate on high handless, they overpower him who has **hands**; castupon the dice-board like coals from the sky, even though cold they burn the heart.”
 </details>

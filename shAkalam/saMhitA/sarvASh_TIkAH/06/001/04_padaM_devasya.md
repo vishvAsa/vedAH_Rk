@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 devásya ← devá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -169,11 +172,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men desirous of food obtain abundance unopposed when repairing to the station of the divinity with oblations; and when delighting, **Agni**, in your auspicious presence, they repeat those your names which are to be uttered at sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They repeat those your names: nāmāni cid dadhire yajñīyāni, that is, such appellations as **jātavedas**, **vaiśvānara**, and means of adoration, stotrāṇi namanasādhanāni
 </details>

@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirāḥ ← áṅgiras- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -312,11 +315,13 @@ name ← √nam- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ancient Dadhyañc, **Aṅgiras**, **Priyamedha**, **Kaṇva**, **Atri**, **Manu**, have known my birth; they who were of old and Manu have known (my progenitors); for of them is long life amongst the gods, and in them is our existence; for the sake of their nigh station, I adore (the gods) with praise; I worship **Indra** and **Agni** with praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 My birth: the birth of me, **Parucchepas**, the ṛṣi of the hymn; he is subsequent to them or of more recent date. te me pūrve **manur** viduḥ: added is pitrādīn, fathers;
 

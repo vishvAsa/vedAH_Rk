@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayukta ← √yuj- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -163,11 +166,13 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This auspicious Uṣas has harnessed (her vehicles) from afar, above the rising of the sun; and she comes gloriously upon man, with a hundred chariots.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Many chariots of the dawn = many rays of light
 </details>

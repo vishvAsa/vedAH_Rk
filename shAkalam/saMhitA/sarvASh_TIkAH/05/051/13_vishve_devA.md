@@ -23,15 +23,18 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -186,7 +189,8 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May all the gods be with us today for our prosperity may **Agni**, the benefactor of all men, and giver of dwellings, (be with us) for (our) prosperity; may the divine **Ṛbhus** protect us for (our) prosperity; may **Rudra** preserve us from iniquity for (our) prosperity.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -130,11 +133,13 @@ dvā́raḥ ← dvā́r- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the bright, separable doors, the augmenters of sacrifice, the purifiers of rites, the desired of many, be set open for the gods to enter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The hymn is addressed to the divinities presiding over th e doors of the chamber of sacrifice;
 

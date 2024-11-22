@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 étavaí ← √i- 1 (root)  
 {case:DAT, number:SG}
 
@@ -186,7 +189,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I contemplate these streams of Ghī as they flow from where the **Soma** is effused, where the sacrifice (is solemnized), as maidens decorating themselves with unguents to go to the bridegroom.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 áṅgirasaḥ ← áṅgiras- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -170,11 +173,13 @@ may we be favored as these venerable ones and be auspiciously protected.
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Aṅgirasas**, the **Atharvas**, the **Bhṛgus**, who are entitled to the **Soma**, are our recent progenitors;may we ever have a plural ce in the favour of these venerable (pitrṣ); may we be ever held in their auspiciousregard.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Our recent progenitors: navagvā = having recently arrived, or inspiring affliction, as something new;also applied to the three classes; or, navanīya, those condition is to be praised
 </details>

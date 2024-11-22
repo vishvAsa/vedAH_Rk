@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ suprátīkā ← suprátīka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have crossed over the boundary of darkness. Uṣas restores the consciousness (of living beings); bright-shining, she smiles, like a flatterer to obtain favour, and, lovely in all her radiance, she has swallowed, for our delight the darkness.”
 </details>

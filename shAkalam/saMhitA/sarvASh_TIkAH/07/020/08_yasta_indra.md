@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádāśat ← √dāś- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
 
@@ -205,7 +208,8 @@ várūthe ← várūtha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the man who is dear to you, **Indra**, present (oblations); may he be your friend, wielder of thethunderbolt, he (assiduous) in donations; may we be abounding in food through this favour of you who aredevoid of cruelty, (may we be in the enjoyment of) a dwelling giving shelter to men.”
 </details>

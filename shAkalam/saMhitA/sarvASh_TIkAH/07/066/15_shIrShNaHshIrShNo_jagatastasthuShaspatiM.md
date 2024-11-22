@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jágataḥ ← jágat- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -167,11 +170,13 @@ váhanti ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven gliding steeds convey the sun, the lord of every individual moving or stationary thing,traversing the whole world in his chariot for the good (of all).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The lord: śīrṣṇaḥ śīrṣṇo jagatastasthuṣaspatim. the lord of stationary and moveable head by head; **śiras** is connected with the horses of thesun: śirasa svasvaśira sa vahanti sūryam, they bear the sun by his own head;
 

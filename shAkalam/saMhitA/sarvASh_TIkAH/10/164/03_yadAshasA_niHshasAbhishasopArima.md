@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhiśásā ← abhiśás- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -169,11 +172,13 @@ dadhātu ← √dhā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever sin we have committed by speaking to (others), speaking against (others), speaking (evil)about (others), whether walking or sleeping, may **Agni** remove all such hateful sins far from us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By speaking:āśasā = abhilāṣeṇa, by desire
 </details>

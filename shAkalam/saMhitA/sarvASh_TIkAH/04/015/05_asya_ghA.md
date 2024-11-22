@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -117,7 +120,8 @@ tigmájambhasya ← tigmájambha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the mortal who is strenuous (in worship) acquire authority over this **Agni**, the sharp-rayed, the showerer (of benefits).”
 </details>

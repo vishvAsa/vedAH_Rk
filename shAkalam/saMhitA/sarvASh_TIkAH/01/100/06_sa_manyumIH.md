@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kartā́ ← kartár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, the represser of (hostile) wrath, the author of war, the protector of the good, the invoked of many, share with our people on this day the (light of the) sun; may **Indra**, associated with the **Maruts**, be our protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The appeal is for daylight in which to attack the enemies of Varṣāgiras, and to recover the cattle that had been stolen, or that the light may be withheld from their opponents
 </details>

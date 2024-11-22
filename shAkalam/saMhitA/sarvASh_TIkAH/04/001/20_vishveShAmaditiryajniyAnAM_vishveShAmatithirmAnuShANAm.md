@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -154,11 +157,13 @@ sumr̥ḷīkáḥ ← sumr̥ḷīká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni** be the **Aditi** of all those in whom sacrifice is offered; may he be the guest of all men; receiving the (sacrificial) food of the devout may he to whom all is known, be the bestower of felicity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 33.16; may Agni be the Aditi: may he be the cherisher of the gods as if he were Aditi, their mother; or, Aditi may mean the earth, which is their stay or support;
 

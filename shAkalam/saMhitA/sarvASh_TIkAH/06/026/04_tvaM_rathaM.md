@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bharaḥ ← √bhr̥- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
 
@@ -193,11 +196,13 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have brought to **Vṛṣabha** a great war-chariot; you have protected him warring for ten days; you have slain **Tugra** along with **Vetasa**; you have exalted Tuji glorifying you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vetasave sacā: vetasa (in RV. 10.4.4) is the name of an **asura**; may be, it is the name of a **rājā**, of whom **Indra** is the ally against Tugra, whom he has slain for the sake of Vetasa; Vṛṣabha is also said to be the name of a prince
 </details>

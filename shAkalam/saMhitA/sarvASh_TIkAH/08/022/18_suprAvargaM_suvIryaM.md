@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 suprāvargám ← suprāvargá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -161,7 +164,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we obtain from you (wealth) spontaneously bestowed, comprising excellent strength, such as isdesired by all, and unassailable by a powerful (foe); may we obtain from you who are rich in food, upon youcoming here, all good things.”
 </details>

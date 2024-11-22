@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhiyaṁdhā́ḥ ← dhiyaṁdhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -215,11 +218,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The kinsman of the earth, the utterer of praise (belonging) to you (who abides) in heaven,Nābhānediṣṭha, the supporter of the rite, desiring (the recompense), repeats (this praise); the (heaven) ourmost excellent bound (is the site) of the (sun), and I was after many (degrees) descended from hiṃ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nābhānediṣṭha's affinity to the sun is apparent; his father **manu** is the son of **Vivasvat** or **Āditya**; after manydegrees: katithaścid āsa = I was the completion (**pūraṇa**) of many
 </details>

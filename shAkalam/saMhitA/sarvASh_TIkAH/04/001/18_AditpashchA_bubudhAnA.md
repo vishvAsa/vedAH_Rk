@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akhyan ← √khyā- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -206,7 +209,8 @@ varuṇa ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thereupon awaking, the (**Aṅgirasas**) beheld (the cattle set free), and seized upon the precious treasures; the universal gods then came to all (their) dwellings; **Mitra** and **Varuṇa** may your truth be (kept) to him who worships (you).”
 </details>

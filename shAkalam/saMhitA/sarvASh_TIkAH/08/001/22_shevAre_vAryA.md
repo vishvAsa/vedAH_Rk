@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 purú ← purú- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -154,11 +157,13 @@ viśvágūrtaḥ ← viśvágūrta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine (**Indra**), the accomplisher of all aims, the glorified by his foes, gives vast treasures to themortal who presents offerings at the sacrifice, to him who pours out the libation, who hymns his praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Glorifiedby his foes: ari = prerayitrī, one who utters a hymn
 </details>

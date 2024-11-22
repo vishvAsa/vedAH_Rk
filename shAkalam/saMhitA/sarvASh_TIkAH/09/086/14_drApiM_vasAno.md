@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divispŕ̥śam ← divispŕ̥ś- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ vivāsati ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wearing a coat of mail reaching to heaven, the adorable **Soma**, who fills the firmament (with rain), plural ced in the waters, genitive rating heaven,passes with the water, (and) worships its ancient parent (**Indra**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wearing a coat of mail: i.e., clothed in light
 </details>

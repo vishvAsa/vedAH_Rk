@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́vr̥taḥ ← √vr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -133,11 +136,13 @@ saparyántā ← √sapary- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The man who is enveloped in sacrifices (offered) to you, like a woman with additional raiment,rewarding him, **Aśvins**, you plural ce him in prosperity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Raiment: adhivastra, having another garment over herordinary clothes
 </details>

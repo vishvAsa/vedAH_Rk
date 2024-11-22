@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apásaḥ ← apás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -168,7 +171,8 @@ varivasyantu ← √varivasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the dexterous-handed, humble-minded artist (of the gods, the **Ṛbhus**); may the wives of the showerer (**Indra**); may the rivers carved out by **Vibhu**; may **Sarasvatī** and the brilliant **Rākā**, the illustrious granters of desires, be willing to grant us riches.”
 </details>

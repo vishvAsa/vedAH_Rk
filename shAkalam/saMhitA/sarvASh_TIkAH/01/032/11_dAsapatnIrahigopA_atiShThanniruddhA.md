@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhigopāḥ ← áhigopa- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -195,7 +198,8 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The waters, the wives of the destroyer, guarded by Ahi, stood obstructed, like the cows by **Paṇis**; but by laying **Vṛtra**, **Indra** set open the cave that had confined them.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánī ← jánī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -121,11 +124,13 @@ duhitā́ ← duhitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The daughter of heaven has been seen; the kind conductress (of men), the parent (of benefits) shedding radiance upon (the departure of her) sister nighṭ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. RV. 1.128.8
 </details>

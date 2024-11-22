@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ manāmahe ← √man- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leader (of heaven), may this your protecting chariot, laden with riches, (come for our) happiness; praisers of the honoured (**Savitā**), we glorify him for felicity through well-being; praisers of the gods, we glorify (them).”
 </details>

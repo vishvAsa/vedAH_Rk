@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarasya ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -221,7 +224,8 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, minister of the sacrifice, bright wiht purifying lustre, approve of that (worship) which is this day celebrated by the instrumental tutor of the rite; you verily are the sacrificer, therefore address the worship (to the gods); and since by your greatness you are all-pervading, therefore, youngest (of the gods), accept the oblations which are today (presented) to you.”
 </details>

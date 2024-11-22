@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 añjimántaḥ ← añjimánt- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -160,7 +163,8 @@ nā́ma ← nā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Shedders of abundant showers, wearers of ornaments, munificent, of brilliant aspect, of inexhaustible wealth well descendent by birth, wearing golden breast-plural tes, entitled to adoration, (coming) from heaven, accept teḥ ambrosial oblation.”
 </details>

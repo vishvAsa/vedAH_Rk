@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -199,7 +202,8 @@ marutaḥ ← marút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let your quick-paced, smooth-gliding coursers bear you (hither); and moving swiftly, come with your **hands** (filled with good things); sit, **Maruts**, upon the broad seat of sacred grass, and regale yourselves with the sweet sacrificial food.”
 </details>

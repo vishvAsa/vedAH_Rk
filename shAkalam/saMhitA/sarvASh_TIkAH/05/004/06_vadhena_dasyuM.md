@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cātáyasva ← √cat- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -205,11 +208,13 @@ vā́je ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Demolish, **Agni**, with your weapon, the **Dasyu**, appropriating the sustenance to your own person n; and inasmuch, son of strength, as you satisfy the gods, so do you, Agni, chief of leaders, protect us in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Appropriating the sustenance of your person n: **vayaḥ** kṛṇvānas tanve śvāyai: **tanu** = **putra**, a son; or **yajamāna**
 </details>

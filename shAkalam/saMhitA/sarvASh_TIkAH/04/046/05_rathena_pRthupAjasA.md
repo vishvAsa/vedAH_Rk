@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 pr̥thupā́jasā ← pr̥thupā́jas- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -128,7 +131,8 @@ ihá ← ihá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Vāyu**, come with your very strong chariot to the sacrifice; come hither.”
 </details>

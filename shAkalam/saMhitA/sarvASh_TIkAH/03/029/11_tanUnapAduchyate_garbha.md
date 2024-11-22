@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 āsuráḥ ← āsurá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ vā́tasya ← vā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When (existing) as an embryo (in the wood), **Agni** is called Tanunapāt; when he is genitive rated (he is called) the **asura**-destroying narāśam,sa; when he has displayed (his energy) in the material firmament, **Mātariśvan**; and the creation of the wind is in his rapid motion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Tanūnapāt** = he who does not consume the person ns of the worshippers, yaṣṭṛnām **tanūḥ**, śarīrāṇi nu pātayati, na **dahati**; or, it may refer to the grandson of the waters;
 

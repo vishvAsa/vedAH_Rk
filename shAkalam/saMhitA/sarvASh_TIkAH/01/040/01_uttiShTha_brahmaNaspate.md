@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 brahmaṇaḥ ← bráhman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -164,11 +167,13 @@ sácā ← sácā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rise us, Brhmaṇaspati; devoted to the gods, we solicit you, bounteous **Maruts**, be nigh at **hand**; **Indra**, be a partaker fo the libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Earlier **Brahmaṇaspati** was a form of **Agni**; now he is associated with the Maruts
 </details>

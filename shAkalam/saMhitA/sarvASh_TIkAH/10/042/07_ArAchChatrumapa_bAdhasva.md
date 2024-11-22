@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -201,7 +204,8 @@ vā́jaratnām ← vā́jaratna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoked of many, (**Indra**) drive far away the enemy with that fierce thunderbolt of yours; grant to us,Indra, wealth of barley and cattle; render to the worshipper his sacrifice productive of plural asant food.”
 </details>

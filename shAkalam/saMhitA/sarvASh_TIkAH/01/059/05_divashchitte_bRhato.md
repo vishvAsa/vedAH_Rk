@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hatáḥ ← br̥hánt- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ yudhā́ ← yúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vaiśvānara**, who knows all that are born, your magnitude has exceeded that of the spacious heaven; you are the monarch of **manu**-descended men; you have regained for the gods in battle, the wealth (carries off by the **asuras**).”
 </details>

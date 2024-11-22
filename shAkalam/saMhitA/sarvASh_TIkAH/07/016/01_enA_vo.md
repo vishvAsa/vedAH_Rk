@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -164,11 +167,13 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke for you with this hymn, **Agni**, the son of strength, the kind, the most knowing, the unobstructed;the fit object of sacred rites, the messenger of all the immortals.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The unobstructed: aratim gantāram = the goer,or svāminam, lord; or, either having sufficient understanding, paryāpta matim, or one never desisting fromactivity, uparamarahitam sadodyamayutam; **Yajus**. 15.32
 </details>

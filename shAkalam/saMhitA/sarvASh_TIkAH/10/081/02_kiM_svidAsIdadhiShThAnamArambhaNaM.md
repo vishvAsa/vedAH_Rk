@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adhiṣṭhā́nam ← adhiṣṭhā́na- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -187,11 +190,13 @@ viśvácakṣāḥ ← viśvácakṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What was the station? What was the material? How was (it done)? So that the beholder of all,**Viśvakarman** (was) genitive rating and disclosed heaven by his might.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the first ṛca, it is said that after thepraḷaya, the creator made all things anew. In this ṛca, it is now asked: where was the scene of action, what werethe materials, and how was thw work performed? In this world, a potter must have his shop, his clay, his wheel;so what does **Iśvara** have for site, matter and implements? The answer is negative. Iśvara does not needanything of this kjind. tatsṛṣṭvā tadevānuprāviśat: **Taittirīya** **Āraṇyaka** 8.6
 </details>

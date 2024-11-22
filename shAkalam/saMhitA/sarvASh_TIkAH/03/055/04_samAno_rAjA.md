@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 purutrā́ ← purutrā́ (invariable)  
 {}
 
@@ -189,11 +192,13 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The universal sovereign is conveyed to many directions; he sleeps in the plural ces of repose; he is connected with the forests; one mother (heaven) nourishes the child; the other (earth) gives him a dwelling; great and unequalled is the might of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The universal sovereign: **samānā** **rāja** may imply either **Agni** or the **Soma**
 </details>

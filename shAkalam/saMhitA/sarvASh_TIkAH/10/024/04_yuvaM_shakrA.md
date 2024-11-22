@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 māyāvínā ← māyāvín- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -128,11 +131,13 @@ nirámanthatam ← √manthⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful and sagacious (**Aśvins**) mutually associated, you have churned forth (the fire); when you,**Nāsatyās**, glorified by **Vimada**, have churned it forth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You have churned forth the fire: i.e., you have producedfire for sacrifice by attrition; Aśvins are the **Adhvaryus** and the Aśvins produce the fire: aśvināvadhvaryū(**Aitareya** **Brāhmaṇa** 1.18; **Nirukta** 3.14).
 </details>

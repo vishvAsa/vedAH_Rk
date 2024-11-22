@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -195,7 +198,8 @@ satyáḥ ← satyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify with these praises, **Indra**, who alone is to be invoked by man; who comes (to his worshippers) the showerer (of benefits), the vigorous, the observer of truth, the subduer of foes, the possessor of manifold knowledge, the mighty.”
 </details>

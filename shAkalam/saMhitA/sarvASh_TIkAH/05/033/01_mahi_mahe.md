@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīdhye ← √dhī- (root)  
 {number:SG, person:1, mood:IND, tense:PRF, voice:MED}
 
@@ -175,11 +178,13 @@ stutáḥ ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Feeble as I am, I offer praise to the great and vigorous **Indra**, for this purpose, (that he may grant) strength to (our) people; he who, associated with the **Maruts**, shows favour to this person n when praised for the sake of sustenance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Associated with the Maruts: samarya is an epithet of Indra; three explanations are offered for samarya: martyaiḥ, stotṛbhiḥ, sahitaḥ, together with mortals, that is, with worshippers, yuddhamānairmarudādibhiḥ, with the Maruts and other combatants, or **samara** **arhaḥ**, fir or suited to war
 </details>

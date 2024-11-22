@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āhuḥ ← √ah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -169,11 +172,13 @@ stuhi ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To me have they spoken; they have come to me with radiant steeds to (drink) the exhilarating beverage; to them (they have said), when, beholding them, who are the formless leaders (of rites), and friends of man, repeat our prais.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Formless: arepasaḥ **alepa** = intangible
 </details>

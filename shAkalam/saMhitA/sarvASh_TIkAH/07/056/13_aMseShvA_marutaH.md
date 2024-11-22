@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -170,11 +173,13 @@ yáchamānāḥ ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bright ornaments, **Maruts**, are on your shoulders, shining (necklaces) are pendant on your breasts,glittering with rain, like lightnings, you are distributing the waters with your weapons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bright ornaments:khādayo **alaṅkāra** **viśeṣaḥ**: **khādi**, a guard of the **hand** (RV. 1.23.4.3); Maruts are bearers of lances on theirshoulders; shining necklaces: **rukma** = **rocamāna**, shining; elsewhere Maruts are said to have golden cuirasseson their breasts; possibly rukma may mean the same
 </details>

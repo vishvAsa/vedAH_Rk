@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrathuḥ ← √kr̥- (root)  
 {number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -177,11 +180,13 @@ supaptaní ← supaptaní- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You constructed a plural asant, substantial winged bark, borne on the ocean waters for the son of **Tugra**, by which, with minddevoted to the gods, you bore him up, and quickly descending (from the sky), you made a path for him across the great waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Winged bark: plural va, a float,a raft; son of Tugra: cf. 1.171.3\].
 </details>

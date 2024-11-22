@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duroṇé ← duroṇá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ viśé ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Agni**, reposing at his ease in the dwelling of the liberal worshipper, is welcomed as a guest, thussuitable plural ced in the hall of sacrifice, he gives well-plural ased, desirable (wealth) to the people who approach him.”
 </details>

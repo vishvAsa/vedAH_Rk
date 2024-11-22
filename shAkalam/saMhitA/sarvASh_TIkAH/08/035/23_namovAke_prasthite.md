@@ -24,16 +24,19 @@ ChandaH = "महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ rátnāni ← rátna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, leaders of rites, when the sacrifice, at which your adoration is cited, is commenced, to drink ofthe **Soma** offered by me; come, **Aśvins**, come (here), desirous of protection, I invoke you; give precious riches tothe donor of the offering.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Offered by me: vivakṣaṇasya is an epithet of the speaker, i.e., at the commencementadoration of me the offerer of libation; or, it is an epithet of the Soma, heaven-bestowing, svargaprāpaṇaśīla
 </details>

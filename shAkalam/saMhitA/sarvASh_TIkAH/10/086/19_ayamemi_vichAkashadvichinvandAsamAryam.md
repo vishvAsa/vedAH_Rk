@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -165,11 +168,13 @@ Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "T
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: Here I come to the (sacrifice) looking upon (the worshippers), distinguishing the Dāsaand the **Ārya**; I drink (the **Soma**) of the (worshipper), who effuses (the Soma) with mature (mind); I look upon theintelligent (sacrificer); Indra is above all (the world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. Muir, **Sanskrit** Texts, vol. 2, p. 374
 </details>

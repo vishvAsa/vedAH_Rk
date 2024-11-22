@@ -22,14 +22,17 @@ ChandaH = "उष्णिग्गायत्री वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -129,11 +132,13 @@ vātā́pyāya ← vātā́pya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Vasu**, (will our) praise (reach) you desiring it? (when) will he, (like) a dam, obstruct and letloose the long-protracted for the sake of wind- driven (rain)?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Although the worship of **Indra** may be impeded bydelay, as water is checked by an embankment (śamaśā = **kulyā**), yet it will take effect ultimately, and thewater or the rain will spread abroad; cf. **Nirukta** 5.12
 </details>

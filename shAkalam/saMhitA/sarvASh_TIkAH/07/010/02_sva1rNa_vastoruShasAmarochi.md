@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aroci ← √ruc- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -201,7 +204,8 @@ vániṣṭhaḥ ← vániṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, preceding the dawn, is radiant by day as the sun, and the priests celebrating the sacrifice repeathis praise; the divine, munificent Agni, the messenger (of the gods), cognizant of their birth, repairing to thedeities, hastens in various directions.”
 </details>

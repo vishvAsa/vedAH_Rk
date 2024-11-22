@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cákriḥ ← cákri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -213,7 +216,8 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Soma**, who like **Indra** perform mighty acts, are the slayer of the **Vṛtras**, the destroyer of those who are called serpents; you are the slayer of every **Dasyu**.”
 </details>

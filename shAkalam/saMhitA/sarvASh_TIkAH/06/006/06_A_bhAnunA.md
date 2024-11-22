@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -179,7 +182,8 @@ vanuṣyán ← √vanuṣ(y)- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You overspread the accessible plural ces of the earth with light by the energy of you powerful, exciting (influence); do you disperse all perils, and, baffing (our) adversaries by your mighty (powers), destroy (our) foes.”
 </details>

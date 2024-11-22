@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bódhat ← √budh- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -129,11 +132,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the prince, the son of **Sahadeva**, promised (to present) me with two horses, I withdrew not when called before him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I withdrew not: **acchā** na **hūta** udaram = ābhimukhena kumāreṇa hūta san tāvaśvāvalabdī vā na nirgatavān asmi, being called by the present prince, I did not go forth without receiving the two horses
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 nr̥mā́danaḥ ← nr̥mā́dana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -111,11 +114,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Soma**, who are the exhilarator of men, flow to (**Indra**), the conqueror of enemies, you who are pure and to be worshipped.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The conqueror of enemies: **Sāmaveda** replaces carṣaṇīdhṛtiḥ for carṣaṇīsahe, i.e. an epithet of Soma, 'laid hold of by men', or 'the protection of men'
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áśvānām ← áśva- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -218,7 +221,8 @@ standing firm—the one accompanied by the Maruts do we call upon  for partnersh
 
 <details><summary>Jamison Brereton Notes</summary>
 
-For the putative root √ār ‘recognize’ (← ‘recognize as an Ārya’?), see comments ad VIII.16.6 as well as Oldenberg (Noten) on this vs. ### 06
+For the putative root √ār ‘recognize’ (← ‘recognize as an Ārya’?), see comments ad VIII.16.6 as well as Oldenberg (Noten) on this vs. _________
+**06**  
 The nonce form jigyúbhiḥ to a supposed stem jigyú- is surely an attempt at an instr. pl. of the pf. part., which is well attested (jigīvā́n, jigyúṣ-), but whose instr.
 
 pl. ought to be the monstrous*jigivádbhiḥ or (improperly using the prevocalic weak stem) *jigyúrbhiḥ or *jigyū́bhiḥ.

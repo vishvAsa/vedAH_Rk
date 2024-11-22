@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -124,11 +127,13 @@ súvidvāṁsam ← súvidvaṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise verily at present, son of **Vyaśva**, praise (**Indra**), who is the tenth of the pervading (vitalprinciples), the adorable, the all-wise to be honoured repeatedly (by sacred rites).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vital principles: daśaman =the tenth; there are nine vital airs in the human body, Indra is the tenth; **nava** vai puruṣe **prāṇā** manuṣyeṣuvartamānā **indras** teṣām daśadha; cf. **Taittirīya** **Brāhmaṇa** 1.3.7.4; Taittirīya **Saṃhitā** 1.7.9
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 brahmaṇaḥ ← bráhman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -207,7 +210,8 @@ váhantaḥ ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord or prayer, your filter is stretched out; you who are the sovereign, enter its members from all sides; the raw (liquid) whose mass is not heated attains not this (filter); it is the boiled (liquids) bearing (the sacrifice) which attain it.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mártyaḥ ← mártya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ cit ← cit (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him who is the desired of many, the (devout) man recognizes as the sustainer of all, the flavour of food, the provider of dwellings for men.”
 </details>

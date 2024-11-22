@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dádhatī ← √dhā- 1 (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
 
@@ -173,11 +176,13 @@ vaitaséna ← vaitasá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Ūrvaśi**). If, Uṣas, this **Ūrvaśī**, offering food and wealth to her father-in-law, loves (her husband),she has gone from the neighbouring house to her husband's home, where she loved (her lord), being delightednight and day by his embraces.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Neighbouring house: antigṛha = the space in front of the house; or, the house ofdining (bhojanagṛham) of the father-in-law, who (?which, yat = yaḥ) in the vicinity of the house of dining of herhusband
 </details>

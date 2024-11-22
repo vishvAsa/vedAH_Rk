@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 itthā́ ← itthā́ (invariable)  
 {}
 
@@ -168,7 +171,8 @@ vīraíḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Possessor of strength, day by day so (provide) that we may enjoy your protection; doer of good deeds, may we (be deserving) of wealth through sacrifice, and may we be happy with cattle, happy with **male** descendants.”
 </details>

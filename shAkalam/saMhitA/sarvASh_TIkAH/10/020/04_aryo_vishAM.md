@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 aryáḥ ← arí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -137,11 +140,13 @@ kavíḥ ← kaví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The refuge of the people, the mover, who, when he moves, penetrates to the ends of the sky; thesage illumining the firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The refuge of the people: aryo viśām = who is to be gone to or had recourse toby worshipping men; illumining the firmament: when **agni** moves radiant, then he, the sage, reaches the ends ofheaven and the firmament;
 

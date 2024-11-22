@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 hárī ← hári- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -129,11 +132,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or, when will your renowned and vigorous horses bring the chariot of you, who are exempt from decay,that exhilarating (wealth) which we solicit?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Madintamam yam īmahe: madasvantam tvām dhanam, youexhilarated, wealth; wealth was it that was solicited; moreover your renowned and vigorous (or desire- showering)horses bring the chariot of you who are exempt from decay, you, the greatly exhilarated, whom we ask (forwealth), atiśayena madavantam yam tvām dhanam yācāmahe tasya ta ityanvayaḥ
 </details>

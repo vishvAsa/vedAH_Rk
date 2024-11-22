@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 révati ← revánt- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -186,11 +189,13 @@ The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-l
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[**Vṛṣākapi** speaks\]: O mother of Vṛṣākapi, wealthy, possessing excellent sons, possessingexcellent daughters-in-law, let **Indra** eat your bulls, (give him) the beloved and most delightful ghī, Indra is aboveall (the world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mother of Vṛṣākapi: Vṛṣākapayin = wife of Indra; Vṛṣākapi may be a name of Indra, as theshowerer of benefits
 </details>

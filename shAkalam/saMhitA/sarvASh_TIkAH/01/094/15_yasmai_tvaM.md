@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádāśaḥ ← √dāś- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
 
@@ -164,7 +167,8 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Fortunate is the worshipper) to whom, (assiduos) in all pious works, you, possessor of riches, invisible **Agni**, grant exemption from sin, whom you associate with auspicious strength, may he be (enriched) by you with wealth that comprehends progeny.”
 </details>

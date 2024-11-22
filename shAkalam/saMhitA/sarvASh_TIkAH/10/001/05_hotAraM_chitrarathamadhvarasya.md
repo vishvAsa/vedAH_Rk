@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarásya ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ tú ← tú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(We worship) **Agni** for prosperity, you, who are the invoker of the gods, the many-colouredconveyance of the saacrifice, the brilliant banner of every offering, the surpasser of every other deity in might, theguest of men.”
 </details>

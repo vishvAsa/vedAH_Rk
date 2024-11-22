@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dévāḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -196,11 +199,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O gods, let us worship for that, desiring which the pigeon sent as **Nirṛti**'s messenger, has come to this(ceremony); let us make atonement, may prosperity be given to our bipeds and quadrupeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The pigeon: anallusion to misfortune
 </details>

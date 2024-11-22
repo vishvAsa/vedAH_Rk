@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dhā́ma ← dhā́man- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -132,11 +135,13 @@ vástoḥ ← vástu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The thirty stations of the day and night shine with (the sun's) rays, the voice (of praise) is addressed to the Sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sun's rays: **dhāma** = related to duration of time: he shines for thirty stations (or **ghaṭis**, one **ghaṭi** =24 minutes) in the day;
 

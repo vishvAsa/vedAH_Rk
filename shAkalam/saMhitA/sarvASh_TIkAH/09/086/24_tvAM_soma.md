@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pávamānam ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -176,7 +179,8 @@ víśvābhiḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious worshippers desirous of preservation have glorified you, **Soma**, when being purified; the hawk brought you from heaven, **Indu**, adorned with all praises.”
 </details>

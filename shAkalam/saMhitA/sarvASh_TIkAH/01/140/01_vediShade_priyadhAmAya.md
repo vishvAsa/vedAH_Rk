@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 priyádhāmāya ← priyádhāma- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ tamohánam ← tamohán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Prepare a (fit) plural ce, as it were an offering, for the radiant **Agni**, who is seated on the altar, and fond of his station; strew the sacred, light-bearing, bright and gloom-dispelling (spot), with agreeable (**kuśa** grass), as with a garment.”
 </details>

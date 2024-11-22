@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ itás ← itás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These two great acts, the raining (of arrows) and the humiliation (of foes), are the givers of happiness; they are deadly either in a fight on horseback or in a **hand** to hand fight; he has put the foes to sleep and driven them away; doyou (**Soma**) drive away the enemies and unbelievers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In a fight on horseback: māṃścatve = a horse, i.e., a battle fought with horses; derived from: makṣu **carati**;
 

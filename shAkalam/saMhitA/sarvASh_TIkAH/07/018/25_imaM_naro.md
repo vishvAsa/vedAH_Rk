@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -163,7 +166,8 @@ kṣatrám ← kṣatrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, leaders (of rites), attend upon this (prince) as you did upon **Divodāsa**, the father of **Sudāsa**;favour the prayers of the devout son of Pijavana, and may his strength be unimpaired, undecaying\].”
 </details>

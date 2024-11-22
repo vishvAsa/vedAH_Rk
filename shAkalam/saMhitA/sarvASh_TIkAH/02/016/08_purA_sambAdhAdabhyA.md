@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -200,7 +203,8 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Conduct us beforehand away from evil, as a cow grazing in a meadow leads her calf (out of peril); may we, **Śatakratu**, envelop you, if but once, with acceptable praises, as youthful husbands (are embraced) by their wives.”
 </details>

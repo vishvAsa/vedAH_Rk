@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ ihá ← ihá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All people kindle you, **Agni**, the sacrificer, the omniscient; do you, Agni, who are invoked by many, quickly bring hither the sapient deities.”
 </details>

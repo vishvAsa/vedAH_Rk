@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhāte ← √dhā- 1 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -179,11 +182,13 @@ viyántaḥ ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The two observers of truth, the two possessors of wisdom, (heaven and earth) sustain (this **Agni**);measuring the time, they have brought forth and reared a son; and (men), pondering in their minds on that navelof the universe, movable and immovable, the thread of the sage (Agni, are blessed with happiness).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The threadof the sage: kaveścit tantum = agneḥ tanitāram vaiśvānarākhyam aṃśam, the thread or connector of Agni--the portion called **vaiśvānara**
 </details>

@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhítas ← abhítas (invariable)  
 {}
 
@@ -198,7 +201,8 @@ jyākā́ḥ ← jyāká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The man who, like a wolf, prowls around us, O **Indra**, cast him beneath our feet, for you are theresister, the overcomer (of foes); may the bowstrings on the bows of our enemies be destroyed.”
 </details>

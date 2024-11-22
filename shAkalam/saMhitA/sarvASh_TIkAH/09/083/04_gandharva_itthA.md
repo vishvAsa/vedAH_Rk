@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ sukŕ̥ttamāḥ ← sukŕ̥ttama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **gandharva** verily protects this station; the marvellous (**Soma**) preserves the races of the gods; the lord of cattle seizes (our enemy) with a snare, the doers of good attain the drinking of the sweet-juiced (Soma).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The lord of cattle: nidhāpatiḥ (the lord of snares) = nidhipatiḥ (the lord of treasure)
 </details>

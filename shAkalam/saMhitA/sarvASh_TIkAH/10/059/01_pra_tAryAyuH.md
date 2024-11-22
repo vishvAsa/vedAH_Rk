@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́yuḥ ← ā́yus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ sú ← sú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the life of **Subandhu** be augmented so as to be more lasting and newer, as men conveyed in acar (are carried on) by a skilful (driver); he who falls from life, increases (his) desire to live; may **Nirṛti** depart faroff.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M
-#### Morph
+_________
+**Morph**  
 gopā́m ← gopā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -191,11 +194,13 @@ vásvaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Possessor of wealth, accept of the spiritless **Soma**; make me the protector, or rather a monarch of men; make me verily a holy sage, a drinker of the libation; make me verily the possessor of imperishable wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Or rather a monarch of men: kuvid mām gopām karase janasya kuvid rājānam: kuvid = api, surely, verily
 </details>

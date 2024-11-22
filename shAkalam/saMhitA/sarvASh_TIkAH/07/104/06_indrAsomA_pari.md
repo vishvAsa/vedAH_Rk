@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhūtu ← √bhū- (root)  
 {number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
 
@@ -201,7 +204,8 @@ nr̥pátī ← nr̥páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the praise invest you, **Indra** and **Soma**, who are mighty, on every side, as a girth (encompasses) ahorse, that praise which I offer to you both with pure devotion; do you, like two kings, accept this my homage.”
 </details>

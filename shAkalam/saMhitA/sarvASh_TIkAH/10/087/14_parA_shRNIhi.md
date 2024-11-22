@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; 12 = 5+7, ending LHX  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 párā ← párā (invariable)  
 {}
 
@@ -171,7 +174,8 @@ párā ← párā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroy the **Yātudhānas** with your scorching fire; destroy the **rākṣasas**, **Agni**, with your heat;destroy with your radiance those who believe in vaid gods, fiercely blazing, destroy the insatiable.”
 </details>

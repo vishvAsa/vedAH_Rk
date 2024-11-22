@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcíṣā ← arcís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -164,11 +167,13 @@ br̥hát ← br̥hánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is endowed with vigour, is (glorified) by praise, and by whose radiance, like that of the sky, the rays of light shine brightly; by his lustre, verily, (the sun is luminous).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text has only **asya** **vāsā** u arciṣā: va asa = va asau = liṭ, by the light of him, he verily; asu, he, designating the sun; i.e;, by the light of him, that is, of **Agni**, the sun becomes radiant; ādityo arciṣman **bhavati**
 </details>

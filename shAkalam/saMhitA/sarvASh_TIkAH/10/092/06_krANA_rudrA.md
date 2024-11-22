@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 krāṇā́ḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
 
@@ -178,11 +181,13 @@ devébhiḥ ← devá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts**, the sons of **Rudra**, mixing with men, the hawks of the sky, the inhabitants of the cloud,(are) performing (their functions); with those horse-owing deities, **Varuṇa**, **Mitra**, **Aryaman**, and **Indra**, the lord ofhorses contemplates (the rite).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Horse-owning: or, possessing **Soma**
 </details>

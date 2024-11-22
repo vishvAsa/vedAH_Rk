@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 huvé ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -178,7 +181,8 @@ jātávedāḥ ← jātávedas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke, on your behalf, the resplendent, the sinless **Agni**, the guest of mortals, the accepter of (sacrificial) food, who, knowing all that has been born, is like a friend, the supporter (of all beings) from men to gods.”
 </details>

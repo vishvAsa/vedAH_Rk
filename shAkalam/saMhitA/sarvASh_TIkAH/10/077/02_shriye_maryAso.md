@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
-#### Morph
+_________
+**Morph**  
 akr̥ṇvata ← √kr̥- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -202,11 +205,13 @@ vāvr̥dhuḥ ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The destructive (**Maruts**) made ornaments for their decoration many hostile hosts cannot overcomethe band of Maruts; the moving sons of heaven do not issue forth, the swift-going sons of **Aditi** do not increase (inglory).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Destructive: or, human; the Maruts were at first men, but through their good works obtained immortality;do not increase in glory: because, they are not praised by us
 </details>

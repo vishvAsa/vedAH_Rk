@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gíraḥ ← gír- ~ gīr- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -124,7 +127,8 @@ sómapītaye ← sómapīti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May my praises, addressed from hence and in thi smanner, attain **Indra**, to bring him hither to drink the **Soma**.”
 </details>

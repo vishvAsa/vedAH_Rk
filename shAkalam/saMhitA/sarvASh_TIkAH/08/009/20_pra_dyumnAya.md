@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyumnā́ya ← dyumná- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -119,11 +122,13 @@ pracetasā ← prácetas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Endowed with great wisdom, preserve us for fame, for strength, for victory, for happiness, forprosperity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For victory: nṛṣāhyāya = an epithet of śarmaṇe, for happiness to be borne by men, nṛbhihsoḍhavyāya sukhāya
 </details>

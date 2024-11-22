@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánānām ← jána- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -195,11 +198,13 @@ ghóṣaḥ ← ghóṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (divinities, the) appointers of men, have appointed me to Kuruśravaṇa; I have borne **Pūṣan** onthe way; the universal gods are my protectors; the cry is: "duhśāsu comes"”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. **Taittirīya** **Saṃhitā** 2.2.1.4
 </details>

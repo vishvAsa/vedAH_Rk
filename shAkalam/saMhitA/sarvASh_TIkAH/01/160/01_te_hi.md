@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -186,7 +189,8 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those two, the divine Heaven and Earth, are the diffusers of happiness on all, encouragers of truth, able to sustain the water (of the rains), auspicious of birth, and energetic (in action); in the interval between whom proceeds the pure and divine Sun for (the discharge of his) duties.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -201,7 +204,8 @@ sthātam ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like two longing oxen (to the pastures), you have recourse to those who fill you (with oblations); youapproach like two horses prepared for the fray; employed to bring treasure; you are like two (royal) messengersrenowned among the people; turn not away (from our oblation) like two buffaloes from the drinking-trough.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अभिसारिणी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 mr̥dhrávācaḥ ← mr̥dhrávāc- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -199,7 +202,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We praise his manhood, who, having by his voice alone made the many- tongued speechless has slainmany thousand enemies, who supports the strength (of the world) as a father the strength (of his son).”
 </details>

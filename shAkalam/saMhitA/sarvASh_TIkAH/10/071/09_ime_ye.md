@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 arvā́k ← arvā́ñc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -201,11 +204,13 @@ tanvate ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who do not walk (with the **Brāhmaṇas**) in this lower world not (with the gods) in the upperworld-- they are neither Brāhmaṇas nor offerers of libations; they, devoid of wisdom, attaining Speech, havingsin producing (Speech), becoming plural ughmen pursue agriculture.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those who not walk: **arvāk**, **paras**: behind --in front
 </details>

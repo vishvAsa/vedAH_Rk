@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -215,7 +218,8 @@ sárgam ← sárga- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The hero **Indra** created the **Maruts** (for the assistance of the **rājā**), who, ambitious of fame, slewone-and-twenty of the men on the two banks (of the Paruṣṇi), as a well-looking priest lops the sacred grass inthe chamber of sacrifice.”
 </details>

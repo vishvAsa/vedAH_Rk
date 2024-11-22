@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āsate ← √ās- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -179,11 +182,13 @@ vittám ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rays of the sun abide in the surrounding centre of heaven; they drive back the wolf crossing the great waters from the path. Heaven and earth, be conscious of this (my affliction).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The wolf crossing: legend: a wolf was about to swim across a river to devour **Trita**, but was deterred by the brightness of the solar rays;
 

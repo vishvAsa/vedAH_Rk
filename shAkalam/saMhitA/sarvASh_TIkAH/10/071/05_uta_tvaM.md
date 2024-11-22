@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āhuḥ ← √ah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -198,7 +201,8 @@ vā́cam ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They call one man firmly established in the friendship (of Speech), they do not exclude him from (thesociety of) the powerful (in knowledge); another wanders with an illusion that is barren, bearing Speech that iswithout fruit, without flowers.”
 </details>

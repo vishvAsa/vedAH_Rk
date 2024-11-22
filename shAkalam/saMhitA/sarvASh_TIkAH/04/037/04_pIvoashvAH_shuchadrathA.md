@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūtá ← √bhū- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -185,11 +188,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vājins**, you are borne by stout horses mounted on a brilliant car, have jaws of metal and are possessed of treasures; sons of **Indra**, grandsons of strength, this last sacrifice is for your exhilaration.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Possessed of treasures: **vājinaḥ** = possessors either of horses or food;
 

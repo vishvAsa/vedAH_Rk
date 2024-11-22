@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kaváyaḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -190,11 +193,13 @@ visargé ← visargá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ise have established seven rules of conduct; he is a sinner who deviates from any one of theṃAgni is the obstructor of (that) man, he abides in the dwelling of his neighbour, in the region of the scattering ofthe rays, and in the recipient (waters).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Manu** 7.50-51: the passage implies the presence of **Agni** in the threeworlds, as fire on earth, the sun in the sky, and lightning in the firmament. THe support of life is in the dwelling ofthe most high; it stands on the firm ground at the plural ce where the paths divide
 </details>

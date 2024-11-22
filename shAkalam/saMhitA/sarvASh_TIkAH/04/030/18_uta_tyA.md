@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ryā ← ā́rya- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -114,11 +117,13 @@ avadhīḥ ← √vadhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have slain at once those two **Āryas**, **Arṇa** and **Citraratha**, (dwellig) on the opposite (bank) of the **Sarayu**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those two Āryas: **āryā** = āryābhimānau, āryatvabhimāninau, presuming on their dignity as āryas, and being without any faith or devotion
 </details>

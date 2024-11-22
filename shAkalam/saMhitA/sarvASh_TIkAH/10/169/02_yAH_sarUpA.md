@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ékarūpāḥ ← ékarūpa- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -208,7 +211,8 @@ yacha ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant great felicity, **Parjanya**, to those cows who are of similar forms, of different forms, or of singleforms, whose names **Agni** knows through the sacrifice, or those whom the **Aṅgirasas** created in this world bypenance.”
 </details>

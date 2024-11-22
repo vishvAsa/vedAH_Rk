@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámavat ← ámavant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -187,11 +190,13 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through fear (of **Vṛtra**, they, the worshippers), recited the suitable hymn of the **Bṛhat** (**Sāma**), self-illuminating, strength-bestowing, and ascending to heaven; on which his allies, (the **Maruts**), combating for men, (guardians) of heaven, and vivifiers of mankind animated **Indra** (to destroy him).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sāma is added to bṛhat. The alusion is to Sāma, a verse of the Ṛk
 </details>

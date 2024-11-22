@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́trābhiḥ ← mā́trā- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -180,7 +183,8 @@ uróḥ ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The resplendent and every way unlimited **Indra**, drinking the spiritless **Soma**, far surpasses the elements, (far exceeds) the gods in power; he is more vast than heaven and earth, or the widespread spacious firmament.”
 </details>

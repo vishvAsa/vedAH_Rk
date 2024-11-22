@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káyā ← ká- (pronoun)  
 {case:INS, gender:F, number:SG}
 
@@ -191,7 +194,8 @@ jaritré ← jaritár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By what wisdom is he who is most wise renowned by that wherewith the mighty **Indra** repeatedly does (great things); he is the especial effacer of the manifold sin of the worshipper, and bestows wealth upon his adorer.”
 </details>

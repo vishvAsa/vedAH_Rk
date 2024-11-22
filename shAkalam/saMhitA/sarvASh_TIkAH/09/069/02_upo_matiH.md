@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhu ← mádhu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -183,11 +186,13 @@ vā́ram ← vā́ra- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The praise is united (to **Indra**); the excellent (**Soma**) is sprinkled; (the Soma stream) emitting plural asant juice is driven into (Indra's) mouth; the filtered diffused exhilarating swift-flowing (Soma) hastens to the fleece like the arrow of the combatants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Diffuseṣ..arrow: santaniḥ: as an adjective with **somaḥ**, i.e. diffused in the ladles; as a noun, the arrow discharged (by the foe)
 </details>

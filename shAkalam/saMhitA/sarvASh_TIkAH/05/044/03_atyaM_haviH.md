@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyam ← átya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -211,7 +214,8 @@ yúvā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, (**Agni**), is associated with the perpetual oblation that is the true (source of good); the sustainer of all, he is of unrestricted movement, the offerer (of burnt-offerings), the cherisher of strength; gliding especially over the sacred grass, the showerer (of benefits); an infant, a youth, exempt from decay, whose plural ce is among plural nts.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhiṣṭíḥ ← abhiṣṭí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ tū́tūrṣati ← √tūr(v)- ~ tur- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your splendour, **Indra**, is wonderful, fulfilling our pious acts, desirable; your efforts replenishing thewealth of your worshippers are irresistible; (therefore) Duvasyu hastens in front of the victim cow, (leading it) witha straight cord.”
 </details>

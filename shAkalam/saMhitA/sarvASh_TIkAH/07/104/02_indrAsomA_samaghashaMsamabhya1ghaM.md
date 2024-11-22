@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -181,11 +184,13 @@ kimīdíne ← kimīdín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Soma**, fall upon the destructive (**rākṣasa**) and the performer of unprofitable acts, so that,consumed (by your wrath), he may perish like the offering cast into the fire; retain implacable hatred to the haterof **brāhmaṇas**, the cannibal, the hideous, the vile (rākṣasa).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Peformer of unprofitable acts: aghaśaṃsa =malignant; hater of **brahmaṇas**: brahmadviṣe = brāhmaṇebhyo asmabhyam dveṣṭre;
 

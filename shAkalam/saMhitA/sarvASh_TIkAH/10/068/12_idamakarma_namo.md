@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhriyā́ya ← abhriyá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -220,7 +223,8 @@ vīrébhiḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have offered this homage to **Bṛhaspati**, who lives in mid-heaven, who recites in order many(sacred stanzas); may he bestow upon us food, with cows, with horses, with son, with dependants.”
 </details>

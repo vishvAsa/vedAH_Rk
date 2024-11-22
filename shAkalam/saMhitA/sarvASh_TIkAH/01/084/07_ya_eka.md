@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 ékaḥ ← éka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -129,11 +132,13 @@ aṅgá ← aṅgá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who alone bestows wealth upon the man who offers him oblations, is the undisputed sovereign, **Indra**--ho!”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This hymn and the two following hymns end with the term, **aṅga**, quick; it is, perhaps, an interjection of calling: ho!
 </details>

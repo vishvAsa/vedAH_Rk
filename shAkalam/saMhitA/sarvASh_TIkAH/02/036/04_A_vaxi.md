@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -218,11 +221,13 @@ tr̥pṇuhi ← √tr̥p- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sage **Agni**, bring hither the gods, and sacrifice to them; invoker of the gods, propitious to us, sit down in the three altars; accept the libation of **Soma** that is offered to you, from the **Agnidhra** and be satisfied with your portion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the three altars: those of **gārhapatya**, **āhavanīya** and **dakṣiṇā** fires
 </details>

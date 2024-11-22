@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ yóṣā ← yóṣā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No one (distinguishes) my golden lustre from that of this **Savitā**, in which (lustre) he has taken refuge; gratified by pious praise, he cherishes the all-fostering heaven and earth as a woman cherishes her offspring.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Savitā: **asya** savitur nakir me: savitā = **Indra**, sarvasya jagato antaryāmitayā prerayitur indrasya, of Indra the impeller, through his being the internal pervader of the whole world
 </details>

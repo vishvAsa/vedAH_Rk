@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 arṣanti ← √arṣ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -169,11 +172,13 @@ vetasáḥ ← vetasá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These hundred-channeled showers fall from the heart-delighting firmament, unobserved by the hostile (cloud); I look upon these showers of Ghī, (and behold) the golden **Vetasa** in the midst of them.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Samudra**, the showers is implied by the epithet **śata** **vraja**, copious, either of water or ghī;
 

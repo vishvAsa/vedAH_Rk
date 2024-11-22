@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ uruṣyá ← √uruṣy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Agni**, bestow upon us from earth and heaven prosperity and abundant food, that we may beable to offer sacrifices. May we be associated, beautiful (Agni), with your indications (of favour); protect us, divineAgni, on account of our many hymns.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abundant food: **viśvāyuḥ** = sarvānnam, agreeing with **svasti** (maleoffspring etc.);
 

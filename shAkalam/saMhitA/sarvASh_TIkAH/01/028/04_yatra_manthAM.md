@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D;; repeated line  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 mánthām ← manthā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -140,7 +143,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When they bind the churning-staff (with a cord), like reins to restrain (a horse), **Indra**, recognize and partake of the effusion of the mortar.”
 </details>

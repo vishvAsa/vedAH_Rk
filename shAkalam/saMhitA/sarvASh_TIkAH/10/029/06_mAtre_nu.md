@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ svā́dman ← svā́dman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By your overwhelming energy, **Indra**, the vast heaven and earth, the measurers (of all), have beenquickly constructed; may the **Soma**-libations mixed with ghī be acceptable (to you) who are most excellent; (maythe oblations be) sweet for your drinking.”
 </details>

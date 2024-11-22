@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṅgá ← aṅgá (invariable)  
 {}
 
@@ -138,7 +141,8 @@ rāyā́ ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No one, **Indra**, has ever been born more mighty than you, no one (surpassing you) in riches; no one(more powerful) in protection; no one (more entitled) to praise.”
 </details>

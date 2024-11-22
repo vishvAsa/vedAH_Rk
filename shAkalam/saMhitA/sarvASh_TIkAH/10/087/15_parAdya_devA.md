@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -179,7 +182,8 @@ yātudhā́naḥ ← yātudhā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let all the gods today destroy the murderous (**Yātudhāna**); let our sharp imprecations encounterhim; may the arrows hit the speaker of falsehood in a vital part; may the Yātudhāna go into the bondage of theall-pervading **Agni**.”
 </details>

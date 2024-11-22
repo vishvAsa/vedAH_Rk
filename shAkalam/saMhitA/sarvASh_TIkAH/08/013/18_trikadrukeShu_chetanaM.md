@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 cétanam ← cétana- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -133,11 +136,13 @@ sadā́vr̥dham ← sadā́vr̥dha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods propitiate the superintending adorable (**Indra**) at the Trikadruka rites. May our praisesmagnify him who is ever the magnifier (of his worshippers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Superintending: **cetana** = cetayitrī, causing to bewise
 </details>

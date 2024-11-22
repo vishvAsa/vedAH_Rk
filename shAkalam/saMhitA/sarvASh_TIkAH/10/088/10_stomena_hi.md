@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -204,11 +207,13 @@ viśvárūpāḥ ← viśvárūpa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have by praise engendered **Agni** in the sky, who fills heaven and earth by his functions, theyappointed the joy-bestowing Agni to his three- fold condition, he brings the manifold plural nts to maturity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three-foldcondition: i.e., either to his plural ce at the three daily sacrifices, or his position in heaven the firmament, and earth,as the sun, lightning, and fire. **Nirukta** 7.28 cites a **Brāhmaṇa**, that Agni, in his third capacity in heaven, is thesun
 </details>

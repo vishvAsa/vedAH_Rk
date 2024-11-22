@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iṣṭáyāmā ← iṣṭáyāman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Soma**, who like **Vāyu** with his **Niyut** steeds go where you list, who like the **Nāsatyās** on hearing the invocation do grant abundant felicity, you are of yourself desired by all like the giver of wealth, you are like **Pūṣan**, swift as thought.”
 </details>

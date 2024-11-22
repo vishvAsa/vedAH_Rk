@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyumnám ← dyumná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -220,7 +223,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, (having partaken of) our oblation, and by what sacred rite, will you render menresembling you? When will you bring them to us? You, who are widely renowned, are to us like a true friend,(attentive) for our support, when the minds of all were (anxious) for food.”
 </details>

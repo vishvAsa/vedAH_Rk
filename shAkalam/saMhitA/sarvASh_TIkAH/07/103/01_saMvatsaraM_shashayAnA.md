@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 saṁvatsarám ← saṁvatsará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -126,11 +129,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The frogs, like **Brāhmaṇas**, observant of their vows, practising penance throughout the year, utteraloud praises agreeable to **Parjanya**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Vasiṣṭha**, having praised Parjanya, in order to procure rain, observing thefrogs to be delighted by his praises, addressed them in this hymn. Practising penance = lit. lying still, i.e.performing penance for rain
 </details>

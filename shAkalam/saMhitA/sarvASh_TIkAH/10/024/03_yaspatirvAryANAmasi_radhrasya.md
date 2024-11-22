@@ -25,17 +25,20 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ vívakṣase ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who are the lord of desirable (riches), the encourager of the worshipper, the protector of theeulogists, defend us, in your exhilaration, from adversaries, (guard us) from sin, you are mighty.”
 </details>

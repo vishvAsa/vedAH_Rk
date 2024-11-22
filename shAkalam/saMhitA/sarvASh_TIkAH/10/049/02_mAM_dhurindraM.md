@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devátā ← devátā (invariable)  
 {}
 
@@ -218,7 +221,8 @@ vájram ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those born in heaven, in earth, and in the firmament, support me, whose name is **Indra** among thedeities (by their offerings). I (harness to my car) two bay steeds vigorous, many-functioned, rapid; I wield for mystrength the fearful thunderbolt.”
 </details>

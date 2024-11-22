@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bandhupŕ̥chā ← bandhupŕ̥ch- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -188,7 +191,8 @@ rakṣethe ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Nāsatyas**, my protectors, inquirers (after the wishes) of your kinsman, beautiful is your cognate appellation of **Aśvins**; be to us the liberal donors of riches; do you, who are irresistible, protect the offerer (of the oblation) with unblameable (defences).\]”
 </details>

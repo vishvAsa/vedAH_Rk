@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́myā ← bhū́mi- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -203,7 +206,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sound goes forth in heaven above the earth; (**Sindhu**) with shining wave animates his endlessspeed; as rains issue thundering from the cloud, so Sindhu (thunders) when he advances roaring like a bull.”
 </details>

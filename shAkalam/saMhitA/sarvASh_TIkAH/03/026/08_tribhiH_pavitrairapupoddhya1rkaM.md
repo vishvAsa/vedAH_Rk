@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápupot ← √pū- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -197,11 +200,13 @@ pári ← pári (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, thoroughly comprehending the light that is to be understod by the heart, has purified himself (by the three) purifying (forms); he has made himself most excellent treasure by (these) self-manifestations, and has thence contemplated heaven and earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Having by self-contemplation recognized his identity with the three manifestations, Agni, **Vāyu** and **Āditya**, he comes to know his identity with the universe, as by the text, ātmani vijñāte sarvam idam vijñātam **bhavati**, the self being known, all this (universe) is known
 </details>

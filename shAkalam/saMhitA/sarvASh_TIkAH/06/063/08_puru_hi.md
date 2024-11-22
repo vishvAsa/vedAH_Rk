@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deṣṇám ← deṣṇá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -222,11 +225,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protectors of many, vast (wealth) is to be distributed by you; give us then nutritious and invariable food. Givers of delight, there are to you, adorers, and fit praise, and libations, which are prepared to acknowledge your liberality.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nutritious and invariable food: dhenum na iṣam pinvatam askrām = give us a cow, food, that does not stray;
 

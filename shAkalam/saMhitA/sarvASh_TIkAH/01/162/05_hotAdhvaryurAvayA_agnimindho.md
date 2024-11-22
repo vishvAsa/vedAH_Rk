@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adhvaryúḥ ← adhvaryú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -167,11 +170,13 @@ vakṣáṇāḥ ← vakṣáṇā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The invoker of the gods, the minister of the rite, the offerer of the oblation, the kindler of the fire, the bruiser of the **Soma**, the director of the ceremony, the saage (superintendent of the whole); do you replenish the rivers by this well-ordered, well-conducted, sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The invoker of the gods: designations applied to eight of the sixteen priests employed at a solemn rite: the two first are: **hotā** and **adhvaryu**;
 

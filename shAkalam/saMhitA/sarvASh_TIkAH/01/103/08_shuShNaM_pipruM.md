@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Indra**, as you have slain **Śuṣṇa**, Pipru, **Kuyava** and **Vṛtra**, and destroyed the cities of **Śambara**, therefore may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth, and heaven, grant us that (which we desire).”
 </details>

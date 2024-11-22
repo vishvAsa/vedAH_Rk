@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dhānā́vantam ← dhānā́vant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -104,11 +107,13 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accept, **Indra**, at our morning sacrifice, this libation, combined with fresh barley, with parched grain and curds, and with cakes, and sanctified by holy prayer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 20.29
 </details>

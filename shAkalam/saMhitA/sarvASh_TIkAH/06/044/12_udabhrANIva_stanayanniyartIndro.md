@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhrā́ṇi ← abhrá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -194,7 +197,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As **Indra**, when thundering rases the clouds, so he (heaps upon his worshippers) riches of horses and cattle; yo, Indra, are he ancient upholder of the sacrificer; let not the opulent wrong you, not presenting (oblations).”
 </details>

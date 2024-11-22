@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ suvī́rāḥ ← suvī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Quickly conduct us, **Agni**, by unmolested paths, to riches and prosperity; (convey us) beyond sin; those delights which you give to your adorers (extend) to him who (now) glorifies you, and may we, living for a hundred winters, and blessed with excellent posterity, be happy.”
 </details>

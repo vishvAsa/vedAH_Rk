@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -173,11 +176,13 @@ yónau ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When this, (the lightning, **Agni**), nourishes the world with the milk of the rain, and conducts it by the most direct ways to (the enjoyment of) water, then **Mitra**, **Aryaman**, **Varuṇa** and the circumambient (troop of **Maruts**) pierce through the (investing) membrane into the womb of the cloud.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Direct ways: uses (as drinking, washing, bathing)
 </details>

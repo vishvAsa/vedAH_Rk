@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jayema ← √ji- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
 
@@ -210,11 +213,13 @@ vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, having you for our ally, overcome our adversaries in every encounter; defend our portion; render riches easily attained by us; enfeeble **Maghavan**, the vigour of our enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Nāma** bibhrat: nāma, strength, that which is the bender or prostrator of foes; from nam, to bwo down; or, processing a name; manuṣema yugāni = these mortal **yugas**, **kṛta**, **treta** etc., which **Indra** successively evolves, in the character of the sun
 </details>

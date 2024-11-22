@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ribhiḥ ← bhū́ri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -204,7 +207,8 @@ karāmahe ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us bring before us today for ur protection that **Indra**, the pure, the renowned, the leader of rites,who in the main-destroying, all-devouring conflict, is the winner of wealth; who is to be invoked by few and many.”
 </details>

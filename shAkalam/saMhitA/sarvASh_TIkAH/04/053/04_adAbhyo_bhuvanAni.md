@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádābhyaḥ ← ádābhya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ rājati ← √rāj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine **Savitā** unrestrained, illumining the regions, protects the righteous acts (of men); he extends his arms for (the direction of) the people of the earth; observant of obligations, he rules over the wide world.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apibaḥ ← √pā- 2 (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -193,7 +196,8 @@ yā́n ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, lord of horses, **Indra**, the libation offered at dawn; the noon-day libation is alone for you; but (in the evening) drink with the munificent **Ṛbhus**, whom, Indra, you have made your friends by good deeds.”
 </details>

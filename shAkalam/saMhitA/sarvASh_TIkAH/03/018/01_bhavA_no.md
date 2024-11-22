@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ pratīcī́ḥ ← pratyáñc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be favourably disposed **Agni**, on approaching us (at this rite); be the fulfiller (of our objects) like a friend (to a friend) or parents (to a child); since men are the grievous oppressors of men, do you consume the foes who come against us.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hárim ← hári- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -162,7 +165,8 @@ sahá ← sahá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him, coveted (by all), green-tinted, brown, they purify with the filter; who goes to all the gods with (his) exhilaration.”
 </details>

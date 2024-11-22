@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kā́yamānaḥ ← √kā- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -188,11 +191,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous as you are of the forests since you have repaired to the maternal waters, **Agni**, your tarrying so far away is not to be endured; (in a moment) you are here with us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In a moment you are: Although not yet kindled, yet as soon as the attrition of the touchwood takes plural ce Agni appears
 </details>

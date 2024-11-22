@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akar ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -206,11 +209,13 @@ ródasī ← ródasī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Deeming it disreputable (that he should be brought forth) in secret, his mother endowed (**Indra**) with (extraordinary) vigour; therefore, as soon as born he sprung up of his own accord, invested with splendour, and filled both heaven and earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In secret: in the privacy of the lying-in chamber, unworthy of so great a divinity
 </details>

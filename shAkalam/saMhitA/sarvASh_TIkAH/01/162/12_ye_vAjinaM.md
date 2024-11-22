@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 pakvám ← pakvá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -212,11 +215,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let their exertions be for our good who watch the cooking of the horse; who say, it is fragrant; therefore give us some; who solicit the flesh of the horse as alms.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Therefore give us some: ya īm āhuḥ suribhir nirhareti = ye cainam **śobhana** gandho ataḥ kiñcid asmabhyam **dehi** = who say of it, it is fragrant, therefore, give us some; or, give to to the gods;
 

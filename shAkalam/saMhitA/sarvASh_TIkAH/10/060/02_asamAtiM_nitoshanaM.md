@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ásamātim ← ásamāti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -101,11 +104,13 @@ sátpatim ← sátpati- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To Asamāti, the destroyer (of foes), radiant, a quick-moving chariot, (for the bringing of benefits),(the descendant) of Bhajeratha, the protector of the good.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Descendant of Bhajeratha: vaṃśe jātam = born inthe race; or, name of a hostile prince, niyayinam, conqueror of
 </details>

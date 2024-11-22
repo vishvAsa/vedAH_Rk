@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -190,7 +193,8 @@ vāmám ← vāmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the affluent and liberal, **Indra**, upon being invoked together (with the **Maruts**), quickly bestow foodfor our reservation, he whose unlimited, experienced liberality yields desirable (wealth) to those men (who arehis) friends.”
 </details>

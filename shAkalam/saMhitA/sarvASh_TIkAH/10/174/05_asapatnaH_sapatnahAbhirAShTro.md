@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380);; repeated line
-#### Morph
+_________
+**Morph**  
 asapatnáḥ ← asapatná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -134,7 +137,8 @@ virā́jāni ← √rāj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I become without a rival, the destroyer of my rivals, obtaining the sovereignty, overcoming (myfoes) so that I may reign over these beings and over my people.”
 </details>

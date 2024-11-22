@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āvitha ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -183,11 +186,13 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have protected **Narya**, **Turvaśa**, **Yadu** and **Turvīti**, of the face of **Vayya**; you have protected their chariots and horses in the unavoidable engagement; you have demolished ninety-nine cities (of **Śambara**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Turvaśa may be **Turvasu**, son of **Yayāti**, since another son of Yayāti, Yadu is also named. Turvīti is a ṛṣi;
 

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akṣār ← √kṣar- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -163,7 +166,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** juice being effused flows through the fleece diffusing exhilaration; who, being exalted goes to the sacrifice in a stream desiring the milk and curds as (he goes to the firmament) with radiance.”
 </details>

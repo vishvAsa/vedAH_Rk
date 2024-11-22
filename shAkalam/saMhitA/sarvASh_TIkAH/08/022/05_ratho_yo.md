@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ráthaḥ ← rátha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -158,11 +161,13 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your celebrated chariot, **Aśvins**, that is three-banked, and caparisoned with gold, graces heaven andearth; come with it, **Nāsatyās**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three-baked: trivandhura = having three seats or having two poles and a barbetween them for fastening the harness;
 

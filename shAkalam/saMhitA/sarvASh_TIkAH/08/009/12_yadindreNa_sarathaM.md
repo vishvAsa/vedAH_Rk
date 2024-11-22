@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -194,7 +197,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Although, **Aśvins** you should be riding in the same chariot with **Indra**, although you should be domiciledwith **Vāyu**, although you should be enjoying gratification along with the **Ādityas** and **Ṛbhus**, although you beproceeding on the tracks of **Viṣṇu**, (nevertheless come here).”
 </details>

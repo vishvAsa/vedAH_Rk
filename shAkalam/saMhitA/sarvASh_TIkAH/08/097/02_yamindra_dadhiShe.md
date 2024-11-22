@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhiṣé ← √dhā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
 
@@ -172,7 +175,8 @@ tásmin ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those horses, those cows, that imperishable wealth which you have seized (from your enemies)--bestow them on the sacrificer who offers the **Soma** and is liberal to the priests-- not on the niggard.”
 </details>

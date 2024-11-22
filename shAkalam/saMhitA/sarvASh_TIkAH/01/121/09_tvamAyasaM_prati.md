@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyasám ← āyasá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -172,11 +175,13 @@ vadhaíḥ ← vadhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You did hurl your metal bolt upon the quick-moving (**asura**), the swift destroyer of foes, that was brought (to you) by **Ṛbhu** from heaven; when you, who are worshipped by many, striking **Śuṣṇa**, for the sake of **Kutsa**, did encompass him with numberless fatal (weapons).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Brought by Ṛbhu from heaven: divo ānītam Ṛbhvā;
 

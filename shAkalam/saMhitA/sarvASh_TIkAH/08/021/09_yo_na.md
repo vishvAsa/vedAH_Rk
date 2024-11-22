@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 idám-idam ← ayám (pronoun)  
 {case:ACC, gender:N, number:SG}
 
@@ -154,7 +157,8 @@ sákhāyaḥ ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify friends, for your protection, that **Indra** who has brought to us of old this or that excellent(wealth).”
 </details>

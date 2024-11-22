@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvān ← áśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -170,7 +173,8 @@ vāvr̥dhānáḥ ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Born in the woods, he has harnessed his steeds which move everywhere held in by straight-guidingreins; friendly and augmented by rays, he has distributed (wealth); he grows in strength nourished with logs ofwood.”
 </details>

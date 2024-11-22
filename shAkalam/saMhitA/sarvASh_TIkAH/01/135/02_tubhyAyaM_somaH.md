@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádribhiḥ ← ádri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -259,11 +262,13 @@ yāhi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you this **Soma**, purified by the stones (that bruise), and clothed with enviable (splendour), flows to its (appropriate) receptacle; clothed with brilliant (splendour), this Soma is offered as your portion amongst men and amongst gods; (having received it), harness your horses, and depart well effected towards us; gratified, and well disposed towards us, depart.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Paripūto adribhiḥ = abhiṣavaśādhanair apagatarjīśodhitaḥ, purified by the impurity which has been removed by the purifying means of the effusion;
 

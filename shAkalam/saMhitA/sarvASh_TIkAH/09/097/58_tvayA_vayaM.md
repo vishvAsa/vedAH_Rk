@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 pávamānena ← √pū- (root)  
 {case:INS, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -188,7 +191,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we ever, **Soma**, with you who are purified, (as our ally) win much wealth in battle; so may **Mitra**, **Varuṇa**, **Aditi**, **Sindhu**, heaven and earth enrich us.”
 </details>

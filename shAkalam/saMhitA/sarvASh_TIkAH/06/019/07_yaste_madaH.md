@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámr̥dhraḥ ← ámr̥dhra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ tvótāḥ ← tvóta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Impart to us, **Indra**, that your invigorating exultatio which overcomes enemies, and is irresistible, where by, protected by you, triumphant we may glorify you for the sake of (obtaining) sons and grandsons.”
 </details>

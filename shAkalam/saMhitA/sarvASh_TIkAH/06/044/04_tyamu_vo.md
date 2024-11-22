@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áprahaṇam ← áprahan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ viśvácarṣaṇim ← viśvácarṣaṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Worshippers), for you I glorify that **Indra** who disappointed not (his adorers); the lord of strength, the all-subduing, the leader (of rites), the most beautiful, the beholder of the universe.”
 </details>

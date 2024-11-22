@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rayíbhiḥ ← rayí- ~ rāy- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -155,7 +158,8 @@ vŕ̥ṣakhādayaḥ ← vŕ̥ṣakhādi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts**, who are all-knowing, co-dwellers with wealth, combined with strength, loud-sounding, repellers of foes, of infinite prowess, whose weapon (of offence) is **Indra**, and who are leaders (of men), hold in their **hands** the shaft.”
 </details>

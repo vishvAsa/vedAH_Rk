@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -204,7 +207,8 @@ tārīt ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vigour has been perpetually imparted to **Indra** by his worshippers (with oblations), for the sake of obtaining rain; for which purpose they have plural ced the thunderbolt in his **hands**, wherewith,having slain the **Dasyus**, he has destroyed their metal cities.”
 </details>

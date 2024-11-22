@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 síndhuḥ ← síndhu- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -177,11 +180,13 @@ vaste ← √vas- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Sindhu** is rich in horses, rich in chariots, rich in clothes, rich in gold ornaments, well-made, rich infood, rich in **wool**, ever fresh, abounding Sīlamā plural nts, and the auspicious river wears honey-growing(flowers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rich in wool: of which, blankets are made; sīlamā plural nts: which furnish cordage for fasteningploughs
 </details>

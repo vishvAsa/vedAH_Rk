@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 budhné ← budhná- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -191,11 +194,13 @@ praśáṁsyam ← praśáṁsya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have stationed at the root of the world, that **Agni** who is of goodly appearance; the pervader of heaven and earth; who is to be known as a car (to convey men to their wishes); who shines with pure radiance, and who is to be honoured as a friend among mankind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At the root of the world: budhne **rajasaḥ** lokasya mūle, i.e. the altar
 </details>

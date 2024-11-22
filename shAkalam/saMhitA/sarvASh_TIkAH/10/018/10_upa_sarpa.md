@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhū́mim ← bhū́mi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -172,11 +175,13 @@ upásthāt ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Go to this your mother-earth, the wide-spread, delightful earth; this virgin (earth is) as soft as **wool**, tothe liberal (worshipper) may she protect you from the proximity of **Nirṛti**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ṛcas from 10 to 13 are to berepeated at the death of a **dīkṣita** (initiated person n), and cites **Āśvalāyana Gṛhya Sūtra** 6.10, 4.5; on therepetition of verse 10, the bones which have been collected are to be plural ced in the grave
 </details>

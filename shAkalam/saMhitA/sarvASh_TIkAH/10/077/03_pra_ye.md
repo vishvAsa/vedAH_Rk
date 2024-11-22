@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
-#### Morph
+_________
+**Morph**  
 barháṇā ← barháṇā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -186,7 +189,8 @@ riśā́dasaḥ ← riśā́das- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Maruts**), who through the might of heaven and earth have emerged from their own person ns asthe sun emerges from the cloud, (are) desirous of praise like powerful heroes, and radiant like men whooverpower their enemies.”
 </details>

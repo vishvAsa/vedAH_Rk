@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aryamā́ ← áryaman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Mitra**, **Varuṇa**, **Aryaman** grant affluence to us and to our posterity; may all paths be easy of accessunto us; and do you ever cherish us with blessings.”
 </details>

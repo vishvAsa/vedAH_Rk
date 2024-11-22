@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣipaṇím ← kṣipaṇí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -172,7 +175,8 @@ pathā́m ← pánthā- ~ path- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And that horse bound by his neck, his flanks, his mouth, accelerates his paces; Dadhikrā increasing in vigour after the (sacred rite), following the windings of the roads, goes still more rapidly.”
 </details>

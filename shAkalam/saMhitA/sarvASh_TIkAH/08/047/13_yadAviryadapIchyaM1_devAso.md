@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 apīcyàm ← apīcyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -205,11 +208,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Deities, whatever evil is manifest, whatever is concealed, (let it be not found) in **Trita** Āptya, keep it farfrom us; your aids are void of harm, your aids are true aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Trita Āptya is the ṛṣi of the hymn. Trita Āptyawas a deity dwelling in remote distance, and consequently evil was sought to be transferred to him; keep it farfrom us in Trita Āptya
 </details>

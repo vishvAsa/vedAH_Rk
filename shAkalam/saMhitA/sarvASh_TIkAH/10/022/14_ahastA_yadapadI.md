@@ -23,15 +23,18 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 ahastā́ ← ahastá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -145,11 +148,13 @@ viśvā́yave ← viśvā́yu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the earth which has neither **hands** nor feet flourished throught the acts of (devotion paid to) theadorable (deities), then you did smite down **Śuṣṇa**, circumambulating it on the right, for the sake of **Viśvāyu**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For the sake of viśvāyu: going everywhere unimpeded; name of a king **Aurvaśeya**, descendant of **Ūrvaśī**
 </details>

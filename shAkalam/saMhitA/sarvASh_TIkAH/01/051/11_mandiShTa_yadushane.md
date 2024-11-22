@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kāvyé ← kāvyá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Indra** is delighted with acceptable hymns, he ascends (his car), drawn by more and more obliquely-curving coursers; fierce, he extracts the waters from the passing (cloud) in a torrent, and has overwhelmed the extensive cities of **Śuṣṇa**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 huvema ← √hū- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
 
@@ -166,7 +169,8 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke in this conflict for our protection the pure, the opulent **Indra**, the most heroic in the fight,”
 </details>

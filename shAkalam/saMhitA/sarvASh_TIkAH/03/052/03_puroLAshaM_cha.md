@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -125,11 +128,13 @@ yóṣaṇām ← yóṣaṇā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Eat, **Indra**, our (offered) cakes and butter, derive enjoyment from our praises, as a lover from his mistress.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As a lover from his mistress: vadhūyur iva yoṣaṇām, as one fond of women, a libertine, enjoys a youthful feminine le
 </details>

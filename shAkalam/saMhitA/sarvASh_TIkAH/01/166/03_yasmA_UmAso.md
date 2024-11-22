@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -178,7 +181,8 @@ rájāṁsi ← rájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To him, the presenter (of offerings), the protecting and immortal **Maruts**, (gratified) by the oblation, have given abundance of riches; they, the bestowers of happiness, becoming, as it were, the friends (of the worshipper), sprinkle the regions plural ntifully with water.”
 </details>

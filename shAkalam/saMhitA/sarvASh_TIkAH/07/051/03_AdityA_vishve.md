@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ādityā́ḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -200,7 +203,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the **Ādityas**, all the **Maruts**, all the gods, all the **Ṛbhus**, **Indra**, **Agni**, and the **Aśvins**, (have been)glorified (by us), do you all ever cherish us with blessings.”
 </details>

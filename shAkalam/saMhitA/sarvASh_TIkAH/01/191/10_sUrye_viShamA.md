@@ -25,10 +25,12 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
@@ -36,7 +38,8 @@ popular;; epic anuṣṭubh (525)
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)  
 popular;; line affected by realignment;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -241,11 +244,13 @@ madhulā́ ← madhulá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I deposit the poison in the solar orb, like a leather bottle in the house of a vendor of spirits; verily, that adorable (Sun) never dies; nor, (through his favour), shall we die (of the venom); for, though afar off, yet drawn by his coursers, he will overtake (the poison); the science of antidoes converted you, (Poison), to ambrosia.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This and the following three hymns are derived from the **viṣa vidyā**, the science of poisons,or of antidoes, whence it is also termed **madhu-vidyā**, science of ambrosia; 'having taken the poison in the solar orb with the fourth finger, having made it ambrosia and caused them to blend together, may it become poisonless'; **sūrya maṇḍala** or orb of the sun; or, perhaps a reference to a mystical diagram or figure typical of the solar orb;
 

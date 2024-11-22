@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 budhnám ← budhná- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ pāyúbhiḥ ← pāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vast and victorious radiance of you, the mighty one, pervades the firmament; **Agni**, who have been kindled by us, preserve us with all your undiminished and protecting glories.”
 </details>

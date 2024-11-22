@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ānámam ← √nam- 1 (root)  
 {case:ACC, number:SG}
 
@@ -134,7 +137,8 @@ vásu ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the divine (**Agni**), knows how the gods are to be reverenced; to the sincere (worshipper) in his dwelling he gives wealth that is desired.”
 </details>

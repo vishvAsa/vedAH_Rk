@@ -29,14 +29,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gíraḥ ← gír- ~ gīr- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -137,11 +140,13 @@ _______________
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the sons of the immortal hear our praises, and be to us the givers of felicity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sons of the immortal: amṛtasya sūnavaḥ: sons of **Prajāpati**, the **Viśvadevas**; cf. **Yajus**. 33.77
 </details>

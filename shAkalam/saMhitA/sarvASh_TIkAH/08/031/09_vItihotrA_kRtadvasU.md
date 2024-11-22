@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥tádvasū ← kr̥tádvasu- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -147,11 +150,13 @@ kr̥ṇutaḥ ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offering acceptable sacrifices, obtaining the wealth they solicit, presenting gratifying (oblations to thegods), for the sake of immortality enjoying person nal union, they (wife and husband) worship the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Offeringacceptable sacrifices: vītihotrā = they whose sacrifices procure them happiness;
 

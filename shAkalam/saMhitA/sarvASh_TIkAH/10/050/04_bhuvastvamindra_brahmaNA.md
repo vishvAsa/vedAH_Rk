@@ -23,15 +23,18 @@ ChandaH = "अभिसारिणी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhúvaḥ ← √bhū- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -192,7 +195,8 @@ viśvacarṣaṇe ← viśvácarṣaṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, you have become mighty through our praise; you have have become adorable at all sacrifices,in every combat you are the caster down of the leaders (of hosts); beholder of all, you are the best, mostexcellent.”
 </details>

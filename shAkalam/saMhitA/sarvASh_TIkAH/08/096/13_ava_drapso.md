@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṁśumátīm ← aṁśumánt- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -221,7 +224,8 @@ snéhitīḥ ← snéhiti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The swift-moving **Kṛṣṇa** with ten thousand (demons) stood on the **Aṃśumatī**; by his might Indracaught him snorting (in the water); he, benevolent to man, smote his malicious (bands).”
 </details>

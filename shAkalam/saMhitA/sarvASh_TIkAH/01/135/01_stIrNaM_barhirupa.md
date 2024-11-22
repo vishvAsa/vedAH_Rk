@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíḥ ← barhís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -246,7 +249,8 @@ mádāya ← máda- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approach our strewngrass, **Vāyu**, with (your) thousand steeds, to partake of the (offered) food, (prepared) for the lord of the steeds; (approach) with hundreds (to the sacrifice prepared) for thelord of the steeds; the gods holdback for you as the deity (entitled) first to drink (**Soma**); the sweet effused (Soma) are ready for your exhilaration; are redy for their function.”
 </details>

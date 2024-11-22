@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 śvetā́ ← śvetá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -208,11 +211,13 @@ varuNa's seat appear to be associated with the Polestar: dhruva, which the 7 he 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of whom, present in the **three worlds**, the brilliant rays pervade the three realms beyond, the eternaldwelling of **Varuṇa**, he is lord of the seven (rivers); may all our adversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tri = of whom, the ruler, thebrilliant rays pervade the three earths and the three heavens above-- his dwelling-plural ce is immoveable
 </details>

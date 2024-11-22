@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; line affected by realignment;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 ávidvān ← ávidvaṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -140,7 +143,8 @@ nú ← nú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus may an ignorant man inquire the means of worshipping the all-wise, for every (one) other (than the **Aśvins**) is unknowing; they, the unconquered, quickly(show favour) to the man (who worships them).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gómatīḥ ← gómant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -172,7 +175,8 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he who has offered the libation obtain, upon the conclusion of his praises, (enunciated), life the wind, (with speed), (the favour of) those Uṣasas who are givers of horses, and of cattle, and of progeny, and who shed light upon the mortal presenting to them (offerings).”
 </details>

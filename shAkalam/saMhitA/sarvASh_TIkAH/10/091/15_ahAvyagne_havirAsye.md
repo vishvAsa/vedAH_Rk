@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ yaśásam ← yaśás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The oblation has been poured, **Agni**, into your mouth, like butter into the ladle, like **Soma** into thespoon. Bestow upon us riches conferring food, (comprehending) **male** progeny, excellent renowned andabundant.”
 </details>

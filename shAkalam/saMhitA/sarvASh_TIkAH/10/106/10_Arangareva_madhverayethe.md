@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -176,7 +179,8 @@ sūyavasā́t ← sūyavasā́d- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like two loud-sounding (clouds), you send forth the sweet (**Soma**); like two bees (you deposit milk) in(the udder of) the cow which has its opening turned downwards; like two labourers you are dripping withperspiration, like a tired cow eating sweet herbage, you attend.”
 </details>

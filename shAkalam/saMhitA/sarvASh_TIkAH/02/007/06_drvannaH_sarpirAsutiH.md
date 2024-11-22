@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 drvànnaḥ ← drvànna- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -113,11 +116,13 @@ sáhasaḥ ← sáhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Feeder upon fuel, to whom butter is offered (you are) the ancient, the invoker of the gods, the excellent son of strength, the wonderful.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Feeder upon fuel: drvannaḥ: from dru, a tree or timber; and **anna**, food
 </details>

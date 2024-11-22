@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 devayántaḥ ← √devay- (UNK_TYPE)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -113,7 +116,8 @@ mahā́m ← máh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The reciters of praises praise the mighty (troop of **Maruts**), who are celebrated, and conscious of the power of bestowing wealth, in like manner as they (glorify) the counsellor (**Indra**).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 bahūnā́m ← bahú- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -184,11 +187,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The grey-haired has swallowed the warlike (man) the scatterer of many foes, in battle being young;behold the power of the deity (endowed) with might; he dies today, he is alive tomorrow.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Indra** is here identifiedwith Time, his fourth form
 </details>

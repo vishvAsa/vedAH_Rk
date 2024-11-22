@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vā ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -196,7 +199,8 @@ purás ← purás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Attended by a concourse (of priests) I worship the adorable and mighty Heaven and Earth withsacrifices and praises, those wo great ones of whom the gods are the sons, whom ancient sages glorifying haveformerly detained.”
 </details>

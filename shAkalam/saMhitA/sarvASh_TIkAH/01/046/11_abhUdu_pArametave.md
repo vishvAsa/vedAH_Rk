@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhūt ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -130,7 +133,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A fit path was made for the sun to go beyond the boundary (of night); the radiance of the luminary became visible.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 dānā́ya ← dāná- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He to whom you give a present that he may obtain abundance of wealth; we, desiring wealth, invokewith our praises **Indra** **Śatakratu**, the lord of wealth.”
 </details>

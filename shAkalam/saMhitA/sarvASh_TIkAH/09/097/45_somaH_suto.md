@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átyaḥ ← átya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -220,7 +223,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** effused in a stream, going like a horse flows powerful like a river down a descent; purified he alights on the wooden abode; **Indu** mixes with the milk and curds, (mixes) with the water.”
 </details>

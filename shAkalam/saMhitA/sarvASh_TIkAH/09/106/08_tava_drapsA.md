@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 drapsā́ḥ ← drapsá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -135,7 +138,8 @@ tvā́m ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your drops, goint to the water, have exalted **Indra** to exhilaration; the gods have quaffed you, the delighter, for immortality.”
 </details>

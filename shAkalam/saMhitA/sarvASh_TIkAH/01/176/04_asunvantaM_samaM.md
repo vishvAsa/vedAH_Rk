@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásunvantam ← ásunvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -169,7 +172,8 @@ sūríḥ ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Slay every one who offers not libations, however difficult to be destroyed; slay every one who is no delight to you; bestow upon us his wealth, for the pious (worshipper) deserves it.”
 </details>

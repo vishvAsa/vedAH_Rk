@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūvan ← √bhū- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -211,11 +214,13 @@ vāvr̥dhānáḥ ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These (encomiums) are directed towards you, but perhaps an offence has thereby been uttered to (you), the giver of dwellings;may **Agni**,augmenting (by our praise), yield us not up to the maligner or the malevolent.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Perhaps an offence has: vasave vā tadid āgo avāci = that which is an offensive expression has been spoken to **Vasu**, giver of dwellings, by our saying or intimating, idam **dehi**, give this; or, this offence which has been offered to us by our enemies, has been reported to Agni
 </details>

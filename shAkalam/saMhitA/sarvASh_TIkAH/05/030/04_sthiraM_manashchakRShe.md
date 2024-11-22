@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakr̥ṣe ← √kr̥- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
 
@@ -208,7 +211,8 @@ vidáḥ ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as genitive rated, **Indra**, you have made your mind resolved; you have gone alone to contend against numerous (foes); you have rent asunder the rock by your strength; you have rescued the herd of milk-yielding kine.”
 </details>

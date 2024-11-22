@@ -26,10 +26,12 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -223,7 +226,8 @@ r̥tā́ya ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, for the dipping **Soma** are mixed with curds; they are expressed and mixed with curds; whether they be prepared for you at the awaking of the dawn, or (be associated) with the rays of the sun; the juice is effused for **Mitra** and **Varuṇa**, for their drinking the grateful (libation); for their drinking at the sacrifice.”
 </details>

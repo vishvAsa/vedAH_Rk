@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákṣodayat ← √kṣud- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -169,7 +172,8 @@ párvatānām ← párvata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, by his strength, has agitated the exhausted firmament, as wind, by its violent (gusts, agitates) the water; exulting in his strength, he has divided the solid (clouds), and has shattered the peaks of the mountains.”
 </details>

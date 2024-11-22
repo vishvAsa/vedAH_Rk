@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tárobhiḥ ← táras- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -154,7 +157,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thronging together, (worship) for your protection **Indra** full of might and the revealer of wealth; (worshiphim), chanting the **Bṛhat-sāman** at his sacrifice where the **Soma** is effused, I invoke him as (men invoke) abeneficent master of a household.”
 </details>

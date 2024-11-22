@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāya ← índra- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -198,11 +201,13 @@ sahásram ← sahásra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are effused by the priests, **Soma**, for **Indra**; you the observer of men, stimulated, intelligent, are immersed in the water; many are the paths for you to follow, infinite are the spreading green-tinted streams alighting on the cups.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Many are the paths for you to follow: or, 'there are ancient paths for you to go to Indra, and a thousand bay horses standing in the cups'\].
 </details>

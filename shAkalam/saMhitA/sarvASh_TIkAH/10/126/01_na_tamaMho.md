@@ -23,16 +23,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 áṁhaḥ ← áṁhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -169,7 +172,8 @@ dvíṣaḥ ← dvíṣ- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Neither sin nor sorrow, O gods, affect the man whom **Aryaman**, **Mitra** and **Varuṇa**, being alike plural asedby him, conduct beyond (the reach of) his enemies.”
 </details>

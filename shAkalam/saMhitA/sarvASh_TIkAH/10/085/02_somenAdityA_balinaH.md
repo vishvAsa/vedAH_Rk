@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 ādityā́ḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -138,11 +141,13 @@ upásthe ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By **Soma** the **Ādityas** are strong; by Soma the earth is great; Soma is stationed in the vicinity of theseNakṣatras.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By Soma earth is great: I.e., by the Soma libations offered at sacrifices, or by the portion of the moonof which the gods are said to partake. The earth is nourished by the libations as the cause of rain, or by themoon as the lord of plural nts. The **Nakṣatras** may mean the vessels that hold the libations, or lunar asterisms
 </details>

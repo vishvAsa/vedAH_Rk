@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 abhūma ← √bhū- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -192,11 +195,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We drink the **Soma**, may we become immortal; we have attained the light of (heaven), we have knownthe gods; what now could the enemy do to us, or what, O immortal, should the aggriever do to the mortal?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Taittirīya** **Saṃhitā** 3.2.5: the past tense is used in the sense of wish, aśaṃsadyotanāya bhūtārthanirdeśaḥ
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryavaḥ ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -186,11 +189,13 @@ tásmai ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, offer the **Soma** to that **Indra**, who slew Svaśna, the unabsorbable **Śuṣṇa**, and mutilated (**Vṛtra**), who destroyed Pipru, **Namuci** and Rudhikrā.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svaśna su aśnate = he who devours; su may also relate to the verb jaghāna, well-slew; Namuci destroys by the foam of the sea: apām phenena namuci **śiraḥ** indra udavartayat (**Taittirīya** **Saṃhitā** 1.7.1.5-6)
 </details>

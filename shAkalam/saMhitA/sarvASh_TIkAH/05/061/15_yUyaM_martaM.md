@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mártam ← márta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -110,7 +113,8 @@ yā́mahūtiṣu ← yā́mahūti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of praise, you are the guides (to happiness) of the man who propitiates (you) by this pious rite; you are bearers of invocations to the sacrifice.”
 </details>

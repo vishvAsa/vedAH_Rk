@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are (ever) resplendent, and are to be glorified when present; you are lord over all renowned food and riches; you shine brightly, and you consume (the oblation) for him who offers it; you are the especial accomplisher of the sacrifice, and bestower (of its rewards).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Resplendent: tvam **agna** **ṛbhuḥ**, tvam. vājasya īśiṣe: **ṛbhu** = bhāsamānaḥ, shining;
 

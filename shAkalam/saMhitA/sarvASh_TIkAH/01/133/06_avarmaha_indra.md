@@ -26,10 +26,12 @@ ChandaH = "धृतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -37,7 +39,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 avár ← avár (invariable)  
 {}
 
@@ -279,11 +282,13 @@ trisaptaíḥ ← trisaptá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hurl headlong, **Indra**, the vast (cloud); hear our supplications; verily the heaven is in sorrow like the earth, through fear, wielder of the thunderbolt, (of famine), as (formerly through fear of) **Tvaṣṭā**; most powerful withmighty energies, you assail, Indra, (the clouds) with terrible blows; and, doing no injury to man (you march) invincible, hero, by (your) enemies attended, hero, by three or by seven followers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of famine = from the absence of rain;
 

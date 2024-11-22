@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -173,7 +176,8 @@ vasuvídaḥ ← vasuvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By which we may escape and destroy in battles our impetuous weapon- aiming enemies; O you who bywisdom establish our rites, bless us with food, prosper our wealth-obtaining offerings.”
 </details>

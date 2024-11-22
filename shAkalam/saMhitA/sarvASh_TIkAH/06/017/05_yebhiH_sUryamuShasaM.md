@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mandasānáḥ ← mandasāná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ svā́t ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By which (juices) being exhilarated you have appointed the sun and the dawn (to their offices), driving away the solid (glooms); you have penetrated, **Indra**, the mountain, unmoved from its own seat, concealing the cattle.”
 </details>

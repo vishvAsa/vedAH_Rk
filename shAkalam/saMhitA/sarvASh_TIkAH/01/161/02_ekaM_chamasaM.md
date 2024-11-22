@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 camasám ← camasá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -215,7 +218,8 @@ yajñíyāsaḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Make fourfold the single ladle; so the gods command you; and for that purpose have I come, sons of **Sudhanvan**; if you accomplish this, you will be entitled to sacrifices along with the gods.”
 </details>

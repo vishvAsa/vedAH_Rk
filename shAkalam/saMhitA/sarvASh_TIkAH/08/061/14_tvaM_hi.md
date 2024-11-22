@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -164,7 +167,8 @@ sutā́vantaḥ ← sutā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of wealth, you are (the bestower) of great wealth and a dwelling plural ce upon your worshipper; assuch, we invoke you, bearing the **Soma**, O **Maghavan**, **Indra**, who are to be honoured with hymns.”
 </details>

@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M
-#### Morph
+_________
+**Morph**  
 juṣeta ← √juṣ- (root)  
 {number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
 
@@ -109,7 +112,8 @@ vasūyúḥ ← vasūyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Tvaṣṭā** be propitiated by this our praise; may he who is of comprehensive understanding beinclined to give us wealth.”
 </details>

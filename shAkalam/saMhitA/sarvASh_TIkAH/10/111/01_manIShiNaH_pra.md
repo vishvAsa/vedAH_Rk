@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bharadhvam ← √bhr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -196,11 +199,13 @@ vīráḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer, worshippers, to **Indra** praise agreeable to the thoughts of men; let us incite Indra hither withsincere adoration, for he, the hero, capable (of granting our wishes, is desirous of laudation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Capable of grantingour wishes: vidānaḥ = jānānaḥ **samarthaḥ**
 </details>

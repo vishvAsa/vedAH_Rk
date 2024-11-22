@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 máde ← máda- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ sómāḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These two delightful bay horses bring the thunderer, the rejoicing and laudable **Indra**, in his car to theexhilaration (of the **Soma**); for him the beloved one many libations of the yellow-tinted Soma are stored up.”
 </details>

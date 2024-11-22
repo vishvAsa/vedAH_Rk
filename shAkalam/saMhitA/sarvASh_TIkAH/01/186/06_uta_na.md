@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -195,7 +198,8 @@ tuvíṣṭamaḥ ← tuvíṣṭama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or may **Tvaṣṭā** come to this sacrifice, equally well plural ased with those who praise (him) at the excellent (rite) at which he is present; may the most potent **Indra**, the protector of man, the destroyer of **Vṛtra**, come to the (solemnity) of our leaders.”
 </details>

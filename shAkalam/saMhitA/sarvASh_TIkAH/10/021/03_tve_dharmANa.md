@@ -25,17 +25,20 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āsate ← √ās- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -181,11 +184,13 @@ vívakṣase ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The establishers (of the rite) worship you with their ladles (filled with the oblation), like (earth)sprinkling (showers); you sustain exceedingly black forms and white and all beauties for your exhilaration; youare mighty.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like earth-sprinkling showers: i.e., showers worship **Agni** as their **pitṛ**; or, your rays dwell with youlike oblations spinkled with the ladles; for your exhilaration: vaḥ = **viśvedevāḥ**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaryúbhiḥ ← adhvaryú- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -193,11 +196,13 @@ vratā́ ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Seven sages with five ministering priests attend the station that is prepared for the rapid (**Agni**); the undecaying divine (sages), with their faces to the east, sprinkling (the libations), rejoice as they celebrate the worship of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Five ministering priests: adhvaryubhiḥ pañcabhiḥ sapta **viprāḥ**, this excludes the **udgātā** and his class
 </details>

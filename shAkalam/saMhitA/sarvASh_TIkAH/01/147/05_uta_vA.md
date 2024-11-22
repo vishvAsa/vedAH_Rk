@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pravidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
 
@@ -179,7 +182,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, Son of Strength, a man skilful (in deception) assails another man with a doubly (malignant prayer), do you, **Agni**, duly propitiated, protect him who worships you (from its effects); consign us not to misfortune.”
 </details>

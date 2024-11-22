@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -203,7 +206,8 @@ vadhasnaíḥ ← vadhasná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty **Maruts**, of goodly aspect, quickly hear (the praises) that we who repair to you repeat, offering acceptable (oblations); (the Maruts) coming hither, well disposed, come down to us, (destroying) with their weapons the mortals opposed to them, (overcome) by agitation.”
 </details>

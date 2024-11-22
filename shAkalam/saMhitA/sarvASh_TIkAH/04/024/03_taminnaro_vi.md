@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hvayante ← √hvā- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -196,11 +199,13 @@ tokásya ← toká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men verily call upon him in battle; the (devout) inflicters of austerity upon their person ns constitute him their preserver; when both (the worshipper and the priest) approach together the bountiful **Indra**, men (succeed) in (obtaining) the gift of sons and grandsons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Inflicters of austerity: ririkvāṃsas **tanaḥ** = svakīyāni śarīrāṇi tapasā recayanto yajamānāḥ, worshippers emaciating their own bodies by penance
 </details>

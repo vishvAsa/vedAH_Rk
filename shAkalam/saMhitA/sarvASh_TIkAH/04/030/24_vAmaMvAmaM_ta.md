@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādure ← āduri- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -151,11 +154,13 @@ vāmám ← vāmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroyer of foes, may the divine **Aryaman** distribute your precious wealth; (may) **Pūṣa** (bestow it), (may), **Bhaga** (bestow it); may the toothless deity bestow the desired wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text has: vāmam **pūṣā** vāmam bhago vāmam **devaḥ** karūḷatī: the triple repetition of **vāma**, vananīyam, dhanam would seem to separate not only Bhaga, but **Karu**.latī from **Pūṣan**;
 

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pītáye ← pītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -106,7 +109,8 @@ kuśikā́saḥ ← kuśiká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Descendants of **Kuśa**, desirous of protection, we invoke you, **Indra**, who is of old, to drink of the libation.”
 </details>

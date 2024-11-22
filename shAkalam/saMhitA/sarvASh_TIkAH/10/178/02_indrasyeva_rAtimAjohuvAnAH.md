@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājóhuvānāḥ ← √hū- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
 
@@ -190,7 +193,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Repeatedly invoking the liberality (of **Tārkṣya**), as (we do that) of **Indra**, let us mount upon it for ourwelfare as upon a ship; O heaven and earth, vast, expanded, manifold, profound, may we not suffer harm nowfrom (Tārkṣya's) coming to or departing from you.”
 </details>

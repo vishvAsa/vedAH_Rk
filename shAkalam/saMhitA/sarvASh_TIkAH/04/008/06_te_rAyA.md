@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rāyā́ ← rayí- ~ rāy- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -139,7 +142,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They are renowned for riches and for progeny, who, venerating **Agni**, offer him oblations.”
 </details>

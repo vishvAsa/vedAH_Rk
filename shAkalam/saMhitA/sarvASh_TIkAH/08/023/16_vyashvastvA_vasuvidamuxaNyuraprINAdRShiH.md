@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
 
@@ -144,7 +147,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ṛṣi **Vyaśva**, desirous (of propitiating) the showerer (of rain), has gratified you, the bestower ofwealth; so we too kindle you for (the acquisition of) ample riches.”
 </details>

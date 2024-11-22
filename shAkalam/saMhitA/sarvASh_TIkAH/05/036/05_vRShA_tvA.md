@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyaúḥ ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -206,11 +209,13 @@ vŕ̥ṣakrato ← vŕ̥ṣakratu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the effective eulogium melt you, the showerer (of benefits); you, the showerer, are borne (to the sacrifice) by vigorous steeds sender of rain, you of the handsome shin, wielder of the thunderbolt, showerer, whose car showers down (blessings), do you defend us in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A plural y on the word, **vṛṣā**, to rain or shower
 </details>

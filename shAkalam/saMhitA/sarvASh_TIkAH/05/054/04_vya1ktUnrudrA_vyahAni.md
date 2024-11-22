@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhāni ← áhar ~ áhan- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -219,7 +222,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful **Rudras**, you urge on the nights and days the firmament and the worlds; agitators (of all things), you toss the clouds like ships (in the sea), so (you throw down) the strong plural ces (of the enemy); but, **Maruts** you do no harm.”
 </details>

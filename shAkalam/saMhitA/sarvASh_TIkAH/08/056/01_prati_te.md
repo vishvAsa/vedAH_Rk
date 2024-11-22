@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
-#### Morph
+_________
+**Morph**  
 dasyave ← dásyu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -126,7 +129,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your inexhaustible gift has appeared, O Dasyave **vṛka**, its fullness is in extent like the sky.”
 </details>

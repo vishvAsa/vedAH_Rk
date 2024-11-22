@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adhvaráḥ ← adhvará- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -165,7 +168,8 @@ viśvábhānuṣu ← viśvábhānu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the ancient sacrifice proceed first to **Agni**, then to the gods, -- to the **Ādityas**, to **Varuṇa**, observantof obligations, to the all-resplendent **Maruts**.”
 </details>

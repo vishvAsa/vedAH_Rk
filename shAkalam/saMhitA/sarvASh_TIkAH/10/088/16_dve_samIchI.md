@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bibhr̥taḥ ← √bhr̥- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -174,11 +177,13 @@ taráṇiḥ ← taráṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The associated two (heaven and earth) support (**Agni**) moving, born from the head, sanctified bypraise; diligent, rapid, radiant, he appears in the presence of all beings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Born from the head: or born fromĀditya, the head, or chief, of all things
 </details>

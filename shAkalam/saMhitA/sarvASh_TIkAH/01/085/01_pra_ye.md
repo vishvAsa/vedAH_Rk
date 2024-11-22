@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánayaḥ ← jáni- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -195,7 +198,8 @@ vīrā́ḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts** who are going forth decorate themselves like feminine les; they are gliders (through the air), the sons of **Rudra**, and doers of good works by which they promote the welfare of earth and heaven; heroes, who grind (solid rocks), they delight in sacrifices.”
 </details>

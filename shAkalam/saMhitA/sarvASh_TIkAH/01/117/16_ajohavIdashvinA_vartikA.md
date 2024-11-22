@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájohavīt ← √hū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -183,11 +186,13 @@ viṣvā́caḥ ← viṣvā́(ñ)c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The quail glorified you, **Aśvins**, when you saved her from the mouth of the wolf; you carried off (**Jāhuṣa**) to the top of the mountain in your triumphant chariot; and slew the son of Viṣvāñc with a poisoned (arrow).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Viṣvāñc is an **asura**, The text has, 'whose son you killed with poison'; a poisoned arrow is implied
 </details>

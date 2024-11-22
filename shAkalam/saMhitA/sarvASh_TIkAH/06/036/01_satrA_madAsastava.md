@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádāsaḥ ← máda- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -174,7 +177,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Truly are your exhilarations beneficial to all men; truly are the riches which exist on earth (beneficial to all men); truly are you the distributor of food; wherefore you maintain vigour among the gods.”
 </details>

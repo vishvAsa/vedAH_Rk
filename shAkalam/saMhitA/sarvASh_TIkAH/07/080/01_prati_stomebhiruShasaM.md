@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 práti ← práti (invariable)  
 {}
 
@@ -153,7 +156,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious **Vasiṣṭhas**, first (of all worshippers) awaken with prayers and praises (each succeeding)dawn spreading over the like-bounded earth and heaven making all the regions manifest.”
 </details>

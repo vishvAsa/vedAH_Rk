@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -185,11 +188,13 @@ vocat ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When he, the all-illumining, is there, the gods assemble; but when he is concealed, we know not (hisabode); so at this sacrifice, let **Mitra** and **Aditi** and **Savitā** proclaim us to **Varuṇa** as free from sin.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varuṇa:varuṇāya sarveṣām pāpānām nivārayitregnaye; in **mythology**, Varuṇa is one of the older gods; he ismore terrible, more righteous, and less human thatn the younger deities\]. bring unto us the heaven and earth, the daughter of the divine (**Prajāpati**), let none of the gods be absent, anddo you yourself be present.
 </details>

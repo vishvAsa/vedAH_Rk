@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adr̥kṣata ← √dr̥ś- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -201,7 +204,8 @@ havanaśrutā ← havanaśrút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ends of the earth are beheld laid waste; the clamour has ascended, **Indra** and **Varuṇa**, to heaven;the adversaries of my people approach me; having heard my invocation, come for my defence.”
 </details>

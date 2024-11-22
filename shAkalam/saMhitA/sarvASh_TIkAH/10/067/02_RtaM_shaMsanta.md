@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dī́dhyānāḥ ← √dhī- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
 
@@ -173,11 +176,13 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Reciting sincere praise, reflecting correctly, the **Aṅgirasas**, the pious sons of the brilliant and powerful(**Agni**), upholding the intelligent base, the supporter of the sacrifice, praise from the beginning.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Supporter: padamrefers to **Bṛhaspati**, as supporting (**dhāma**), the sacrifice
 </details>

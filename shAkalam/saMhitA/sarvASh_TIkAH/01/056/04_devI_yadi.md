@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devī́ ← devī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -187,7 +190,8 @@ reṇúm ← reṇú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine strength waits, like the sun upon the dawn, upon that **Indra** who is made more powerful for protection by you, (his worshipper), who with resolute vigour resists the gloom, and inflicts severe castigation uon his enemies, making them cry aloud (with pain).”
 </details>

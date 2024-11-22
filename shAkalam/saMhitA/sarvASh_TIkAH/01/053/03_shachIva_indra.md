@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyumattama ← dyumáttama- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ tvāyatáḥ ← √tvāy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wise and resplendent **Indra**, the achiever of great deeds, the riches that are spread around are known to be yours; having collected them, victor (over your enemies), bring them to us; disappoint not the expectation of the worshipper who trusts in you.”
 </details>

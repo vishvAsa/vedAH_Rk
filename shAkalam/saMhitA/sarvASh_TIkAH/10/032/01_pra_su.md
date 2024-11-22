@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhiyasānásya ← dhiyasāná- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** sends his quick-going horses to the service of the (worshipper) expectant (of his arrival); may hecome to the excellent (adorations) of the (worshipper), propitiating him by suitable means; Indra is gratified byboth our (oblations and praises), when he recognizes (the taste) of the food presented by the offerer of theSoma.”
 </details>

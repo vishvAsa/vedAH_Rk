@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ urugāyā́ya ← urugāyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Therefore, verily, we celebrate the manhood of that lord (of all), the preserver, the innocuous, the vigorous who traversed the three regions with three wide steps in different directions for the many-praised (preservation of) existence.”
 </details>

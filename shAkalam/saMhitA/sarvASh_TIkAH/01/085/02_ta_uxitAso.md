@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśata ← √naś- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -190,11 +193,13 @@ pŕ̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They, inaugurated by the gods, have attained majesty; the sons of **Rudra** have established their dwelling above the sky; glorify him (**Indra**) who merits to be glorified, they have inspired him with vigour; the sons of **Pṛśni** have acquired dominion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Utṣitāsaḥ = were sprinkled with holy water by the gods: devair-**abhiṣiktaḥ**
 </details>

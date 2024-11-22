@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asura ← ásura- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -204,7 +207,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In this manner, O mighty (**Indra**), Vamraka approached Indra on foot, to bring an ample oblation. Mayhe, being approached, grant us prosperity, may he bring us food, drink, a secure dwelling and all (good things).”
 </details>

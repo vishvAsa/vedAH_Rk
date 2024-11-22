@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhiśrī́ḥ ← abhiśrī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -175,7 +178,8 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Virāt. was the glory of **Mitra** and **Varuṇa**; **Triṣṭubh** was **Indra**'s portion of the midday (oblation) atand 5 answer the question, what was the metre? Two of the other questions- those relating to the butter (**ājya**)and the enclosure (**paridhi**)-- have been answered, in the **Puruṣa sūkta**, 10.90; cf. **Taittirīya** Brāhmaṇa3.12.9\]. beholding them with the eye of the mind, I glorify those who of old celebrated this sacrifice.”
 </details>

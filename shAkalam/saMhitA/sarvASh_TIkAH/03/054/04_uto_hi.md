@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āvividré ← √vid- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -166,7 +169,8 @@ vévidānāḥ ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven and earth, endowed with truth, they who are the ancient declarers of the truth, have obtained from you (what they desired); and so, earth, men cognizant (of the greaness of you both) have worshipped you for the sake of triumphing over (hostile) heroes in battle.”
 </details>

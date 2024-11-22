@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūtám ← √bhū- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -168,11 +171,13 @@ vā́jasya ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You two are desired of all, the demolishers of (hostile) strength, augmenting together, increasing invigour, lords of the wealth of corn; do you grant us substantial invigorating food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Demolishers: śavasānā hibhūtam = you acted like an army breaking enemies; do you grant: pṛṅktam vājasya sthavirasya ghṛṣveḥ =annasya, sthūlasya, śatrūṇām gharṣakasya, īdṛśam **annam** prayacchatām, give us such food as iscoarse, the destroyer of enemies
 </details>

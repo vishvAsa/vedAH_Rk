@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámartyaḥ ← ámartya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -107,11 +110,13 @@ vidáthāni ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The offerer of the oblation, the divine, immortal, **Agni**, comes first (at the ceremony) directing solemnities by his experiences.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By his experiences: māyayā, usually illusion or guile; explained here as karmaviṣayajñānam, knowledge of the objects of sacred rites
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́ma ← dhā́man- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -176,11 +179,13 @@ vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The purpose of worshipping you, **Mitra** and **Varuṇa**, is not the performance, but (even by so much) I may attain to your glory, and there is acquittance (of my duty); for when the priest offers you oblations in sacrifices, then the pious man, showerers (of benefits), being desirous of worshipping you, (obtains) felicity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 There is acquittance: prastutiḥ vām **dhāma** na prayuktir ayāmi suvṛktiḥ = lit. the previous purpose of praising you is not the fulfilment, but I come to your abode well detached; suvṛktiḥ-**śobhana** āvarjako yuṣmāt pārigrahāt
 </details>

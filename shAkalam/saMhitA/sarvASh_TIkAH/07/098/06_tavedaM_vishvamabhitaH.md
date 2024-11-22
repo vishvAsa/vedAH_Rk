@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhítas ← abhítas (invariable)  
 {}
 
@@ -190,7 +193,8 @@ vásvaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thine is all this animal world around you, which you illumine with the light of the sun; you, **Indra**, are theone lord of cattle, thence may we possess wealh bestowed by you.”
 </details>

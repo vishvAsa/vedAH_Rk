@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nāsatyā ← nā́satya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -174,7 +177,8 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Nāsatyas**, whether you abide far off or close at **hand**, come to us in your well-constructed car, with the rays of the sun.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amítram ← amítra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dawn, Uṣas, who are the bearer to us of desirable (wealth), and keep our adversary from us; renderthe wide earth free from peril; drive away those who hate us; bring to us treasures; bestow, opulent goddesswealth upon him who praises you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 And keep our adversary from us: yathā mitro dūre **bhavati** tathā vyucchetiarthaḥ, so as to keep our adversary away from us
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 acāriṣam ← √carⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -182,11 +185,13 @@ várcasā ← várcas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have this day entered into the waters; we have mingled with their essence; **Agni**, abiding in the waters, approach, and fill me, thus (bathed), with vigour.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rasena samagasmahi: we have become associated with the essence of water, jalasareṇa **saṅgatāḥ** smaḥ).
 </details>

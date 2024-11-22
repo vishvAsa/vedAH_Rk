@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dhānā́ḥ ← dhānā́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -163,7 +166,8 @@ práyasvantaḥ ← práyasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who is praised of many, accept readily from our friend of barley, and cakes, and butter, offered at the third (or evening) sacrifice; ladenwith sacrificial viands, we approach with praises to your sage Indra, who is accompanied by the **ṛbhus** and by **Vāja**.”
 </details>

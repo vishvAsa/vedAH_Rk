@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gr̥ṇānā́ ← √gr̥̄- 1 (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
 
@@ -108,11 +111,13 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorified by **Jamadagni**, sit down in the plural ce of sacrifice (the altar); drink, augmenters (of the reward) of sacrifice, the **Soma** libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jamadagni = **VIśvāmitra**, he by whom the fire has been kindled
 </details>

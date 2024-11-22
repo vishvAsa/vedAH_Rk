@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūma ← √bhū- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -199,7 +202,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, possessor of affluence, we have recourse to you, the bountiful, lord of steeds, be not unfavourable to us; no other kinsman is beheld (by us) among men; who else have they called yo the bestower of wealth?”
 </details>

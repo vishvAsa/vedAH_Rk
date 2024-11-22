@@ -23,15 +23,18 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 asmín ← ayám (pronoun)  
 {case:LOC, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ yajñíyāsu ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This iniquity (found) in this Śakapūta, when **Mitra** is propitious, destroys opposing heroes, when thei.e., Mitra or **Varuṇa**; avaḥ = food; when the approaching Mitra (or Varuṇa) gives protection to the sacrificial ritesand bodies of the worshipper who delights him with oblations\].”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -179,11 +182,13 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Aśvins** contribute to our prosperity; may **Bhaga**, and the divine **Aditi** (contribute) to (our) prosperity; may the irrestible **Viṣṇu**, the scatterer (of foes), bestow upon us prosperity; may the conscious Heaven and Earth (bestow upon us) prosperity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May the Aśvins contribute: **svasti** : svasti no mimītām aśvinā = avinaśam kṣemam, imperishable prosperity; or, literally well-being, welfare
 </details>

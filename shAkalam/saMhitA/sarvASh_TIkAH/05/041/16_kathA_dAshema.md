@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāśema ← √dāś- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
 
@@ -192,7 +195,8 @@ upamātivániḥ ← upamātiváni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “How may we (duly) worship the liberal (**Maruts**) with praise, how adore the Maruts with present praise in a fitting manner, the glorious Maruts with present praise? may **Ahirbudhnya** contrive nor for our harm; may he be the destroyer (of our enemies).”
 </details>

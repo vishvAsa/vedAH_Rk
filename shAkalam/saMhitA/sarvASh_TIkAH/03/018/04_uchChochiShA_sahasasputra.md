@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 putra ← putrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rise up, son of strength, with your splendour when hymned, and bestow abundant food and wealth, **Agni**, upon the descendants of **Viśvāmitra** celebrating your praise; and grant them exemption from sickness and danger; encourager of pious works (Agni), we repeatedly sprinkle your substance (with milk and butter).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Upon the descendants of Viśvāmitra: viśvāmitreṣu, on the **Viśvāmitras**, or the plural ral may be used honorifically in the sense of the singular
 </details>

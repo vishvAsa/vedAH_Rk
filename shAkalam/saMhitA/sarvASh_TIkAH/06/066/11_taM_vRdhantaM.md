@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhrā́jadr̥ṣṭim ← bhrā́jadr̥ṣṭi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ ugrā́ḥ ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I worship with oblations that exalted company of the **Maruts**, the progeny of **Rudra**, armed with shining lances; the pure and earnest praises of the devout (adorer) are emulous in the invigoration (of the Maruts), as the clouds (vie in the emission of the rain).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The pure and earnest praises: **divaḥ** śardhāya śucayo maniṣā girayo nāpa **ugrā** aspṛdhran = of heaven of the strength pure praises mountains like waters fierce have vied;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kapótam ← kapóta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Praised) by our hymn, O gods, drive out the pigeon, who deserves to be driven out, exhilarated (byour oblation), bring us food and cattle, dissipating all our misfortunes; abandoning our food, may the swift(pigeon) fly away.”
 </details>

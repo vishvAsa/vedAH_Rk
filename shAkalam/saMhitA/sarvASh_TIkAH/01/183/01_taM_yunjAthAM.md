@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jávīyān ← jávīyaṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ víḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerers of benefits, harness the car which has three benches, three wheels, and is as quick as thought; with which, embellished with three metals, you come to the dwelling of the pious (worshipper), and in which you travel like a bird with wings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three metals: gold, silver and copper
 </details>

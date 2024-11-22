@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -176,11 +179,13 @@ vibhumádbhyaḥ ← vibhumánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as you were born, **Indra**, you were an enemy to those seven who had no enemy; yourecovered the heavens and earth when concealed (in darkness); you cause joy to the mighty worlds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thoseseven who had no enemy: **Kṛṣṇa**, **Vṛtra**, Namūci, **Śambara** etc.; or, you were an enemy to those who had noenemy, on behalf of the seven sages (the **Aṅgirasas**). i.e., inorder to recover their cows
 </details>

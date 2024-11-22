@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 éṣe ← éṣa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty Day and Night, to you, along with the adorable (deities) of heaven, I present (the oblation) with prayers delighting and explicit; knowing, like two sages, all (that is required), do you bring (it) to the worshipper for his sacrifice.”
 </details>

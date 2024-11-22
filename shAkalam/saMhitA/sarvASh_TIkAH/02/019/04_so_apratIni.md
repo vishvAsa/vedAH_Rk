@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apratī́ni ← apratí- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -179,11 +182,13 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To the presenter (ofthe libation) **Indra** gives many unparalleled gifts; he slays **Vṛtra**; he who was the arbiter among his worshippers when contending for the possession of the Sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who was the arbiter: atasāyyo bhūt paspṛdhānebhyaḥ sūryasya sātau: prāptihetubhūtaḥ san, being the cause of obtaining, to those who were contending; saying, let me be the first to have the sun-- aham eva prathamam sūryam prāpnuyām; or, **sātī** may mean war; to those contending in battle with the sun; the next hymn alludes to a legend of a dispute between **sūrya** and **etaśa**, in which Indra supported the latter
 </details>

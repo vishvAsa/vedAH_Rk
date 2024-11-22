@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyumnéṣu ← dyumná- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -105,7 +108,8 @@ sā́kṣva ← √sah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Overcome, **Indra**, those who are adverse to us in riches, in battle, in hostile hosts, in strength.”
 </details>

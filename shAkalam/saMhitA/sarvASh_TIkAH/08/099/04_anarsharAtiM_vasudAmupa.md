@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánarśarātim ← ánarśarāti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ mánaḥ ← mánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise him the bestower of wealth, whose gifts are never evil; **Indra**'s gifts are fortunate; he directs hismind to the gift and **mars** not the desire of his worshipper.”
 </details>

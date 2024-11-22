@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhā́rayā ← dhā́rā- 1 (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -158,11 +161,13 @@ hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Undergoing purification you flow **Soma** in a stream clothed in the (consecrated) waters; the giver of wealth you sit on the plural ce of sacrifice, divine (Soma), who flow forth, who are the origin of gold.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Devānām hitaramaṇīyaḥ = **deva** **hiraṇyayaḥ**
 </details>

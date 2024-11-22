@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 áśvāḥ ← áśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -170,7 +173,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The auspicious, swift horses of the sun, well-limbed, road-traversing, who merit to be plural ased with praise, revernced byus, have ascended to the summit of the sky, and quickly circumambulate earth and heaven.”
 </details>

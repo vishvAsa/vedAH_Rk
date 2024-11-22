@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́ma ← dhā́man- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -167,7 +170,8 @@ yajñámanmā ← yajñámanman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise the splendour of **Mitra** and **Varuṇa**, whose strength, by its might, keeps heaven and earthasunder; may the days of those who differ not worship pass without **male** descendants; amy he who delights insacrifice increase in prosperity.”
 </details>

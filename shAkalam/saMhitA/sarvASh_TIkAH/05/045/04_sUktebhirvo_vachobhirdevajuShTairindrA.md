@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devájuṣṭaiḥ ← devájuṣṭa- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -181,7 +184,8 @@ yájanti ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I **Indra** and **Agni**, I invoke you for my salvation with well-uttered words, agreeable to the gods; for verily, sages excelling in sacrifice, and diligently adoring, worship you with sacred songs, prompt as the **Maruts** (in devotion).”
 </details>

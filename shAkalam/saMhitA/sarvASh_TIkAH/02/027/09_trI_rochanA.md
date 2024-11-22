@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhārayanta ← √dhr̥- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -157,7 +160,8 @@ uruśáṁsāḥ ← uruśáṁsa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Ādityas**, decorated with golden ornaments, brilliant, purified by showers, who never slumber, nor close their eyelids, who are unassailable, and praised by many, uphold the three bright heavenly regions for the sake of the upright man.”
 </details>

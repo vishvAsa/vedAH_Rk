@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́vr̥tam ← √vr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -153,11 +156,13 @@ makṣú ← makṣú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit the radiant bounteous (**Indra**), surrounded by powers as a mountain (by clouds), thesupporter of many-- (we solicit him) speedily for renowned food, rich in cattle, and multiplied a hundred and athousand-fold.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Suporter of many: or, to be fed by the offerings of many, purubhojasam;
 

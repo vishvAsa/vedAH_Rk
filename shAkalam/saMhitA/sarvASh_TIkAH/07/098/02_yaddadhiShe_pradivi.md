@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánnam ← ánna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ uśán ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The plural asant **Soma** that you, **Indra**, have quaffed in former days, you still desire to drink of daily;gratified in heart and mind, and wishing (our good), drink, Indra the Soma, that is plural ced before (you).”
 </details>

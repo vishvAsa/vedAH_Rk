@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dámūnāḥ ← dámūnas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ vāmám ← vāmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine, munificent, golden-handed, golden-jawed, adorable, sweet-spoken **Savitā**, rise regularly at the close of night; when he besows abundant and desirable (food) upon the donor of the oblation.”
 </details>

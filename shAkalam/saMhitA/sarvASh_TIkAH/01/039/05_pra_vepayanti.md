@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 párvatān ← párvata- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -159,7 +162,8 @@ viśā́ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They make the mountains tremble, they drive apart the forest-trees. Go, divine **Maruts**, whither you will, with all your progeny, like those intoxicated.”
 </details>

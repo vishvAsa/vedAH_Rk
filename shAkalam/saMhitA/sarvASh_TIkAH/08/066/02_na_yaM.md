@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dudhrā́ḥ ← dudhrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -181,11 +184,13 @@ ukthyàm ← ukthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the handsome-jawed, whom, inthe intoxication of the **Soma**, the fierce (demons) withstand not, north firm gods, nor mortal (men)-- who confers glorious wealth on him who reverently praises him, offers the Somaand sings hymns.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Made suśipram = madeṣu śipram;
 

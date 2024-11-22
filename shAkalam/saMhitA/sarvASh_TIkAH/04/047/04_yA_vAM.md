@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruspŕ̥haḥ ← puruspŕ̥h- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -154,7 +157,8 @@ yachatam ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders (of rites), conveyers of sacrifices, **Indra** and **Vāyu**, give to us for the offer (of the oblation), those **Niyuts** who are your (steeds), and are desired of many.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ghr̥taścútam ← ghr̥taścút- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -150,7 +153,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The zealous seers have sung a hymn, sweet with **Soma** and dropping ghī; wealth and manly strengthhav espread themselves among us, and so too the expressed Soma drops.”
 </details>

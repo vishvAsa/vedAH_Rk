@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhani ← áhar ~ áhan- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -188,7 +191,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through your protection, gods, the man who worships on an auspicious day overcomes hisadversaries; he who offers abundant (sacrificial) food to you to detain you (at his rite) enlarges his habitation.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirobhyaḥ ← áṅgiras- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -186,11 +189,13 @@ vāvasānásya ← √vas- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have opened the cloud for the **Aṅgirasas** you have shown the way to **Atri**, who vexes his adversaries by a hundred doors (by a number of **yantras**, means or contrivances); you have granted wealth, with food, to **Vimada**; you are wielding your thunderbolt in defence of a worshipper engaged in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Gotra** = herd of cattle or a cloud;
 

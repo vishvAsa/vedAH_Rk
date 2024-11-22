@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhujyúm ← bhujyú- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -193,11 +196,13 @@ yā́mani ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The straight-flying hawk carried off the **Soma** from above the vast heaven, as (the **Aśvins** carried off) **Bhujyu** from the region of **Indra**, and a falling feather from the middle of the bird dropped from him wounded in the conflict.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Antaḥ** parṇam tan madhye sthitam; one nail of the left foot and the shaft was broken by the collision, the fragments of the nail became the quills of the fretful porcupine, those of the arrow, water-snakes, flying foxes, and worms
 </details>

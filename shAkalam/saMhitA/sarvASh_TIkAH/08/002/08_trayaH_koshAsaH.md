@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 kóśāsaḥ ← kóśa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -117,11 +120,13 @@ samāné ← samāná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Three purifying vessels drop (the **Soma**), three ladles are well filled (for the libation), the whole isfurnished for the common sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The allusion is to the three daily sacrifices. The three vessels are the threetroughs used in the preparation of the Soma libations: droṇakalaśa, pūtabhṛt and **āhavanīya**. The threeladles are the three sets of cups, camaṣāḥ, used in the three libations
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -187,7 +190,8 @@ yāti ← √yā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the protector of progeny, when solicited, consent to bestow upon us the precious (wealth of thedivine **Savitā**; the ardent (adorer) invokes repeatedly **Bhaga** for protection; the less ardent solicits Bhaga forwealth.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asat ← √as- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -181,7 +184,8 @@ utsinā́ti ← √sā- ~ si- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he (the **Rājā**) be rich in kine, in gold, in horses; may **Indra** grant abundant food to him who delays you, returning home in the early morning, by costly gifts, as (a hunter arrests the) wandering (animals) by his snares.”
 </details>

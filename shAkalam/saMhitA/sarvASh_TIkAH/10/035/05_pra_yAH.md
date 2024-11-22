@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -195,7 +198,8 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dawns, who are associated with the rays of the sun, bringing light at the opening (of the day), shineupon us today, propitious, for our subsistence; we solicit the kindled fire for our welfare.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ havyavā́ham ← havyavā́h- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as born **Agni**, shines intelligent, swift-moving, skilled in rites, praised by the wise, and liberal in gifts; (and it is he) whom the gods have held as the bearer of oblations at sacrifices, adorable and all-knowing.”
 </details>

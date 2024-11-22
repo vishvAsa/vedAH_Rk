@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhāgám ← bhāgá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer to (**Indra**) the cherisher (of all) the share suited to the season; (offer it) to **Vāyu**, the drinker ofthe pure (**Soma**), who clamours as he travels, who obtains a draught of white milk; we long for the universal **Aditi**.”
 </details>

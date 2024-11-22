@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gā́thayā ← gā́thā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -131,7 +134,8 @@ vacoyújā ← vacoyúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The priests) by their hymn yoke in the swift deity's yoked at a word.”
 </details>

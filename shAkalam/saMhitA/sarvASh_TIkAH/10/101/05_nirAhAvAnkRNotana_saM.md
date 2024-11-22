@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āhāvā́n ← āhāvá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -145,7 +148,8 @@ suṣékam ← suṣéka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Set up the cattle-troughs, bind the straps to it; let us pour out (the water of) the well, which is full ofwater, fit to be poured out, and not easily exhausted.”
 </details>

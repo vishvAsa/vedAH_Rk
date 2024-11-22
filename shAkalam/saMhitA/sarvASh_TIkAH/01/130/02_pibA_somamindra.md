@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádribhiḥ ← ádri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -260,7 +263,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra**, the **Soma**, that has been expressed by the stones, and spinkled with the sacred grass; as a thirsty ox or a thirsty man hastens to a well. (Drink) fo ryour exhilaration, for your invogoration, for your exceedingly great augmentation; let your horses bring you hither, as his steeds convey the sun; as they carry him (through heaven) day by day.”
 </details>

@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ciketa ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -110,11 +113,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage may know those white-complexioned beings (the **Maruts**), whom the vast **Pṛṣṇi** born at herudder.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 White-complexioned: etāni ninya = **śveta** varṇāni **bhūtāni** marutātmakāni, white-coloured beings,identical with the Maruts; bore at her udder: udho babhāra: **udhas** = firmament of the womb
 </details>

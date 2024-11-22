@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dadhidhve ← √dhā- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRF, voice:MED}
 
@@ -198,7 +201,8 @@ yātā́m ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, you have of yourselves maintained your vigour according as you judge (fit); you shine most mighty and vast, and you pervade the firmament with your power; may the cars of the quick-moving (Maruts) arrive for our good.”
 </details>

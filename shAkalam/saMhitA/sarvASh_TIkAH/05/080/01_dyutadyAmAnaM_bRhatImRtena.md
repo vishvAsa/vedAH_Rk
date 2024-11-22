@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hatī́m ← br̥hánt- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -155,7 +158,8 @@ víprāsaḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise priests celebrate with hymns the divine, bright-chariot, expanded Dawn; worshipped with holy worship, purple-tinted, radiant, leading on the sun.”
 </details>

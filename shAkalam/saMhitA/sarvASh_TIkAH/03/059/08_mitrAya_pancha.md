@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mitrā́ya ← mitrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -122,7 +125,8 @@ víśvān ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The five classes of men have repaired to the victorious **Mitra**, for he supports all the gods.”
 </details>

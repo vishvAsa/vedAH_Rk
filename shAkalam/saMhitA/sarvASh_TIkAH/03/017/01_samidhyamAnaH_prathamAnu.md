@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -175,11 +178,13 @@ yajáthāya ← yajátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The righteous (**Agni**) when first kindled on the several (altars) the object of adoration by all, whose hair is flame, and who is cleansed with butter, the purifier, the worthy-worshipped, is sprinkled with oblations for the worship of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The righteous Agni: prathamānudharmā: **dharma** is a synonym of agni; or, the construction may be anudharma, according to law or religion
 </details>

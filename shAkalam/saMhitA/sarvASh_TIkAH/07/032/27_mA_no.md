@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájñātāḥ ← ájñāta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ tarāmasi ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let no unknown, wicked, malevolent, malignant (enemies) overpower us; may we, protected by you,cross over many waters.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajárā ← ajára- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -160,7 +163,8 @@ puruṣṭutā́ya ← puruṣṭutá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The undecaying, heaven-conferring, unlimited (sacrificial) food, goes to the tamer (of enemies), whose adversarie are unborn; therefore (priests) pour out (the libation), dress (the cakes and butter), diligently discharge (your offices) to him who is the accepter of prayer, who si glorified by many.”
 </details>

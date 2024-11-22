@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -177,11 +180,13 @@ várṇam ← várṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The white-shining dawn, the parent of the sun, has arrived; dark night has sought her own abode; both allied to the same (sun), immortal, succeeding to each other, and mutually effacing each other's complexion, they traverse the heavens.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Parents of the sun: dawn precedes, and, therefore, figuratively bears, or is the parent of the sun
 </details>

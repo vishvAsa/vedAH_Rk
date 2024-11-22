@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pāhi ← √pā- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -210,7 +213,8 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drinker of the **Soma** in season, drink with your divine friend the **Maruts** the Soma that is presented by us; those Maruts whose aid you have enjoyed (in battle), and who, following you have given you the strength whereby you have slain **Vṛtra**.”
 </details>

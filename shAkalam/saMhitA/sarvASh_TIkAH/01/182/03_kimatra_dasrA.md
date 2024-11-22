@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsāthe ← √ās- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -219,7 +222,8 @@ víprāya ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What makes you here, **Aśvins**; why do you tarry, (where) any man who makes no oblation is respected; humble him; take away the life of the niggard; grant light to the pious man striving to speak your praise.”
 </details>

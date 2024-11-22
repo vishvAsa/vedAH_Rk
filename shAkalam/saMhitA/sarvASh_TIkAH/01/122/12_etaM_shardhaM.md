@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhāma ← √dhā- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -172,11 +175,13 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have declared: we confer present vigour upon the worshipper (who invokes us) to partake of the (ibation). May all (the gods) in whom splendour and riches abound, bestow (abundant) food at (solemn) sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Daśataya = a decade: food, by which the vigour of the ten senses is augment; or **Soma** offered in ten ladles. Alternative rendering of the second **pāda**: May all the gods partake of the abundant food (or Soma) at those sacrifices in which the priests are the distributors of the riches of copious libations
 </details>

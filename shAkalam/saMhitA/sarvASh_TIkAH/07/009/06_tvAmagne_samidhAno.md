@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vasiṣṭha** is kindling you, **Agni**; destroy the malignant; worship the object of many rites, (the company ofthe gods), on behalf of the wealthy (instrumental tutor of the sacrifice), praise (the gods), **Jātavedas**, with manifoldpraises, and do you ever cherish us with blessings.”
 </details>

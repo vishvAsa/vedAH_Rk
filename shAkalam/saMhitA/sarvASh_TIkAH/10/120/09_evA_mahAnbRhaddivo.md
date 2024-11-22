@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 átharvā ← átharvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ vardháyanti ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus the great **Bṛhaddiva**, son of **Atharvan**, repeated his diffused (praise) to **Indra**. The unsulliedsiister (streams) abiding in the mother (earth), to Indra, and augment him with strength.”
 </details>

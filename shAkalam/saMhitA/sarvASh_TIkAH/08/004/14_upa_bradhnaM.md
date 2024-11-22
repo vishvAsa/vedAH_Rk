@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bradhnám ← bradhná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ váhantu ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May his vigorous horses, repeatedly traversing the firmament, bring **Indra** to our rites; may your steeds,glorious through sacrifice, bring you indeed to the (daily) ceremonials.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Glorious through sacrifice: adhvaraśriyaḥ= sacrifice-haunting, adhvaram sevamānāḥ
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -194,11 +197,13 @@ vyùte ← √u- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I consider at present the eternal and ancient sisterhood to us of you, our great protectress and progenitrix, within whose vast and separated path your eulogists, the gods, travel in their chariots.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protectress and progenitrix: **mahaḥ** pitur janitur **jāmi** tan naḥ = mahatyaḥ pālayitryaḥ janayitryastava, of you, that is, of the heaven;
 

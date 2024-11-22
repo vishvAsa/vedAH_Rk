@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávye ← ávya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ yónā ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven kine approach the green-tinted (**Soma**) who flows purified in a stream through the woollen fleece, mighty men urge (you) the sage on the lap of the waters to the plural ce of sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The seven kine: the seven verses, **gāyatrī** and others, or the seven rivers; to the plural ce of sacrifice: or to the water; ṛtam is added: ṛtam **yoniḥ** = ṛtasya yoniḥ, meaning water
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 étaśam ← étaśa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -149,11 +152,13 @@ tsárat ← √tsar- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Sūrya** harassed **Etaśa**, **Śatakratu** conveyed (to his aid) **Kutsa**, the son of **Arjuni**, with his twoprancing horses (swift) as the wind, and stealthily approached the irresistible **Gandharva**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gandharva = the sun
 </details>

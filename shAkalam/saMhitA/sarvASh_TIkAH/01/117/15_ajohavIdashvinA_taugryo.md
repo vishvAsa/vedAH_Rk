@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájohavīt ← √hū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -179,7 +182,8 @@ vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Th sun of **Tugra**, brought back by you, **Aśvins**, (to his father), glorified you whenhe ahd crossed the ocean in safety, and you bore him, showerers (of benefits), with your well-harnessed car, swift as thought, to safety.”
 </details>

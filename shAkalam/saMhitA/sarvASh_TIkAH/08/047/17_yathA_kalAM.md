@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 kalā́m ← kalā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -196,11 +199,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As (in the sacrifice) we put severally together the proper parts and the hoofs, and as we discharge adebt, so we transfer all the ill-omened dream that rests on Āptya; your aids are void of harm, your aids are trueaids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As in the sacrifice they plural ce together the **kalā**, the heart etc., as fit to be cut to pieces, and the **śapha**,the hoof, bones etc. as unfit; another explanation is: kalā = śapha or hoof. The words kalā and śapha occurtogether in **Taittirīya** **Saṃhitā** 6.1.10, where the process of buying the **Soma** is desscribed;
 

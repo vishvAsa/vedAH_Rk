@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aiṭṭa ← √īḍ- ~ √īḷ- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -178,7 +181,8 @@ purudhápratīkaḥ ← purudhápratīka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approaching his mother he asked for food, and beheld the acrid **Soma** upon her bosom; eager he proceeds, dislodging the adversaries (of the gods); and, putting forth manifold (energy), he performed great (deeds).”
 </details>

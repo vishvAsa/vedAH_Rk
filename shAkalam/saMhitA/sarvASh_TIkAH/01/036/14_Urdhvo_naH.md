@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁhasaḥ ← áṁhas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -196,7 +199,8 @@ vidā́ḥ ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Erect, preserve us by knowledge from sin; consume every malignant spirit; raise us aloft, that we may pass (through the world); and that we may live, convey our sealth (of oblations) to the gods.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pūtádakṣān ← pūtádakṣa- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -186,11 +189,13 @@ yajatrāḥ ← yájatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable (deities), I venerate with reverential salutations all you who are mighty, the mighty, the regulators of your sacrifice, of pure vigour, dwellers in the chamber of worship, unsubdued, far-seeing, leaders (of rites).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The regulator: ṛtasya **rathyaḥ** = yajñasya ranhitṛn, netṛn, leaders or conveyers of the sacrifice offered to them
 </details>

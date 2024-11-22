@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -191,11 +194,13 @@ yúvā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He causes, by his gyrations, ninety and four periodical revolutions, like a circular wheel, vast of body, and evolving in many forms, through the praises (addressed to him); ever young, though not infantine, he comes at our invocations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ninety and four periodical revolutions: **viṣṇu** = time, comprising ninet-four periods; the year, two solstices, five seasons, twelve months, twenty-four half months, thirty days, eight watches, and twelve zodiacal signs; though not infantine: **yuvā** akumāraḥ, young a boy;
 

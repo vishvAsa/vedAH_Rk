@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 etaú ← eṣá (pronoun)  
 {case:NOM, gender:M, number:DU}
 
@@ -231,11 +234,13 @@ sū́raḥ ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Turn not back, but repeatedly praise these two yoked (steeds) of me the destroyer, which advance (tothe foe and to the sacrifice); the waters fulfil **Indra**'s purpose and (so does) the all-cleansing sun, being (swift as)a cloud.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Which advance to... sacrifice: gāvau;
 

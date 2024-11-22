@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ahve ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -143,7 +146,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In like manner as the wise invoke you for protection, so do I invoke you, **Nāsatyās**, to drink the **Soma**;may all our enemies perish.”
 </details>

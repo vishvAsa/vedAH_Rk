@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
 {}
 
@@ -177,7 +180,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He rushes on boldly like a weapon with a hundred edges, he smites the enemies of his worshipper; thegifts of him who feeds many, swell like the streams of a mountain.”
 </details>

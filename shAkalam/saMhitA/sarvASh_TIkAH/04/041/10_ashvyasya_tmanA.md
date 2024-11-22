@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvyasya ← áśvya- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -174,11 +177,13 @@ sacantām ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we of our own (right) be the masters of permanent riches, comprising horses, chariots, and nourishment; may those two, traversing (the regions), direct their **Niyut** steeds towards us, associating (them) with riches and with recent protections.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May we of our own be: tmanā **patayaḥ** **syāma**, without any effort or labour, aprayatnena
 </details>

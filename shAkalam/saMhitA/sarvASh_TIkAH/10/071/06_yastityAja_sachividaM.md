@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 sacivídam ← sacivíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -202,11 +205,13 @@ sukr̥tásya ← sukr̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who has abandoned the friend who knows the duty of a friend, in his speech there is not a particle(of sense); what he hears, he hears amiss; for he knows not the path of righteousness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Duty of a friend:sacividam = the teacher who is the friend of the **Veda** because he shows his gratitude to the Veda by preventingthe destruction of tradition; he hears amiss: what he hears outside (contrary to) the Veda he hears false
 </details>

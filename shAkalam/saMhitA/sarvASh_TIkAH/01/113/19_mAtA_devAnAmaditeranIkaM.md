@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditeḥ ← áditi- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -201,11 +204,13 @@ viśvavāre ← viśvávāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mother of the gods, rival of **Aditi**, illuminator of the sacrificer, mighty Uṣās, shine forth; approving of our prayer, dawn upon us. Do you, who are cherished by all, make us eminent among the people.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mother of the gods: the gods are awakened at dawn by the worship they then receive, and hence the dawn may be said figuratively to be their parent (**mātā** devānām), and in that character she is the enemy, or rival, of Aditi, who is their mother.
 </details>

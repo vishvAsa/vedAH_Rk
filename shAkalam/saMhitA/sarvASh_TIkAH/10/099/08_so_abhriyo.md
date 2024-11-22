@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhríyaḥ ← abhríya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ hanti ← √han- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like the aggregated cloud desiring to pour water on the pasturage, he found the way to our dwellingwhen he approached the **Soma** with his limbs, like a hawk with heel of metal he smites the **Dasyus**.”
 </details>

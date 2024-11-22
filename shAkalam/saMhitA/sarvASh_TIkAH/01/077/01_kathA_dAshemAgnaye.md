@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáye ← agní- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What (oblations) may we offer to **Agni**? What praise is addressed to the luminous (Agni) that is agreeable to the gods? that Agni who is immortal and observant of truth, who is the invoker of the gods, the performer of sacrifices, and who, (present) amongst men, conveys oblations to the deities.”
 </details>

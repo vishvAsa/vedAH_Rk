@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 asr̥janta ← √sr̥j- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -179,7 +182,8 @@ viśvádhenāḥ ← viśvádhena- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As elders (send forth their young), so the gods have sent you (against **Vṛtra**); thence you became, **Indra** who is the abode of truth, the soverign of the world; you have slain the slumbering Ahi for (the release of) the water and have marked out (the channels of) all the delighting rivers.”
 </details>

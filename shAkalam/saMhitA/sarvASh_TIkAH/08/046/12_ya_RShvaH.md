@@ -23,15 +23,18 @@ ChandaH = "विपरीता"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥ṣváḥ ← r̥ṣvá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ yatásrucaḥ ← yatásruc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The graceful **Indra**, whose friends extol him, knows, praised of many, all births; him, the mighty, all meninvoke at all times, seizing the ladles (for oblation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 All men: viśve mānuṣā, all the priests, **adhvaryus** etc.associated with men, sarvepy adhvaryādayo manuṣyasambandhinaḥ
 </details>

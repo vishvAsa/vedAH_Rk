@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -202,7 +205,8 @@ vr̥trahátye ← vr̥trahátya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, wielder of the thuderbolt, all the protecting deities who are reverently invoked, and both the heaven and the earth, glorify you who are verily one alone, mighty, vast, and plural asing of aspect, for the destruction of **Vṛtra**.”
 </details>

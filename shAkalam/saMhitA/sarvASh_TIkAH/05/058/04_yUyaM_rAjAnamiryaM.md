@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 íryam ← írya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ yuṣmát ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable **Maruts**, you cause (a son) to be born to the man (who worships you), a ruler, an over-comer of foes, and modelled by Vibhvan; from you, Maruts, comes a valiant descendant, strong-fisted, mighty armed; from you (he acquires) an excellent steed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Modelled by Vibhvan: vibhvataṣṭam: vibhvān is the second of the **Ṛbhus**, a skilful artist; fabricated by him, implies very perfect or handsome, tena nirmitam atyantarūpavantam
 </details>

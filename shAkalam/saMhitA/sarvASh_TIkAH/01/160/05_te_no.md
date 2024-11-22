@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇāné ← √gr̥̄- 1 (root)  
 {case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
 
@@ -194,7 +197,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorified by us, grant to us, Heaven and Earth abundant food and great strength; whereby we may daily multiply mankind; bestow upon us commendable vigour.”
 </details>

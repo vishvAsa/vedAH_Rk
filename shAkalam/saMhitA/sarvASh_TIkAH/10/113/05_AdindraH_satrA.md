@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apatyata ← √pat- 2 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -167,7 +170,8 @@ váruṇāya ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** advanced with vast (armies); he overcame with his might (his foed stationed between) heavenand earth; confident, he wielded his metal thunderbolt (to do) good to **Mitra**, **Varuṇa**, and the donor (of theoblation). when fierce he cut **Vṛtra** to pieces by his strength-- (Vṛtra who) obstructed the waters, and was encompassed bydarkness.”
 </details>

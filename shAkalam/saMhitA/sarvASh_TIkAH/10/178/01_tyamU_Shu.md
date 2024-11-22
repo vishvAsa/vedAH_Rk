@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devájūtam ← devájūta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -165,11 +168,13 @@ tā́rkṣyam ← tā́rkṣya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us invoke here for our welfare that **Tārkṣya**, who is mighty, the commissioned of the gods, thevictorious, the outstripper of chariots, of irresistible car, the overthrower of hosts, the swift.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tārk.sya: i.e.,**suparṇa**, the son of Tṛkṣa, commissioned by the gods to bring the **Soma** from heaven; cf. **Nirukta** 10.28
 </details>

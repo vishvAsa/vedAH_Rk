@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 huve ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -133,7 +136,8 @@ vr̥trahantama ← vr̥trahántama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Effusing the libation, I invoke you, the showerer (of benefits), for your marvellous protections; showerer (of benefits), **Indra**, utter destroyer of **Vṛtra**, come with the showering (**Maruts**).”
 </details>

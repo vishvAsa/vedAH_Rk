@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 krátvā ← krátu- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ hárṣasva ← √hr̥ṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I propitiate you, **Agni**, by worshipping you, by the gifts presented to you, by your praises; verily,**Vasu**, they have called you the benevolent- minded; delight, Agni, to give me wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They have called you: they,the pious sages, call you my protector, mama stotur rakṣakam tvām eva brahmavādinaḥ kathayanti
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarám ← adhvará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ yaja ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be gratified, **Agni**, by this our sacrifice; render our (worship) renowned among **Indra** and the **Maruts**; letthe days and nights sit down on the sacred grass; worship (Agni), at this rite, **Mitra** and **Varuṇa**, desiring (theoblation).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayā́saḥ ← ayā́s- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -173,11 +176,13 @@ vŕ̥dham ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The radiant, ever-moving **Maruts**, have mingled with (their) associate, (lightning), like (youths) with common women; the formidable divinities do not overwhelm heaven and earth (with rain), but promote their prosperity through (friendly) regard.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With a common woman: sādhāraṇyeva = a public, or common woman
 </details>

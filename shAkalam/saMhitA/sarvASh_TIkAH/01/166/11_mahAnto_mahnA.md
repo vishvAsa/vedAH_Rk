@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahā́ntaḥ ← mahā́nt- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -174,7 +177,8 @@ sámmiślāḥ ← sámmiśla- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, mighty with mighty power, all-pervading, manifest afar off, as the gods (are made manifest) by the constellations; exhilarating, soft-tongued, speaking genitive ly with your mouths, associated with **Indra**, glorified by praise; (come to our sacrifice).”
 </details>

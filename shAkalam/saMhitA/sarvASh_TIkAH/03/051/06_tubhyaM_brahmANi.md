@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhmāṇi ← bráhman- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -185,7 +188,8 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you, **Indra**, (the pious) address prayers, and praises, and sacrifices; accept them, lord of horses; give all things, partake of this present oblation, and grant food to the worshippers.”
 </details>

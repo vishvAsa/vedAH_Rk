@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -221,7 +224,8 @@ viśvádhāyasam ← viśvádhāyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The herbs, and the trees, and the earth, contain as a germ that all- supporting **Agni**, who occupies aplace provided by the gods, that by his functions he may convey (the offerings) to the immortals.”
 </details>

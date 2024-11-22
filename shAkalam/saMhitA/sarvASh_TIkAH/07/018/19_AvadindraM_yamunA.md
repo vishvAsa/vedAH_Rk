@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́vat ← √avⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -189,11 +192,13 @@ jabhruḥ ← √bhr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The dwellers on the **Yamuna** and the Tṛtsus glorified **Indra** when he killed **Bheda** in battle; the Ajas, theŚigrus, the **Yakṣas**, offered him as a sacrifice the heads of the horses (killed in the combat).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Offered to him:balim śīrṣāṇi jabhrur aśvyāni : they represented the best horses, taken; **bali** may also have the import of asacrifice
 </details>

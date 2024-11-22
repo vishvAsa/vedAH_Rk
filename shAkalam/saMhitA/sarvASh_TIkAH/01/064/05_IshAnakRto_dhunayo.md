@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhúnayaḥ ← dhúni- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -172,7 +175,8 @@ pinvanti ← √pinv- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Enriching their worshipper, agitating the clouds, devourers of foes, they create the winds are lightnings by their power; the cirumambient and agitating **Maruts** milk heavenly udders, and sprinkle the earth with water.”
 </details>

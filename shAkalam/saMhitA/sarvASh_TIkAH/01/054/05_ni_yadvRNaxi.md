@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mūrdháni ← mūrdhán- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since you, loud-shouting, have poured the rain upon the brow of the breathing (wind), and (on the head) of the maturing and absorbing (sun), who shall prevent you from doing today (as you will), endowed with an unaltered and resolute mind?”
 </details>

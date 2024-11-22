@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 devi ← devī́- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -122,7 +125,8 @@ vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Sarasvatī**, protect him engaged in conflict for the sake of wealth, who glorifies you like **Indra**.”
 </details>

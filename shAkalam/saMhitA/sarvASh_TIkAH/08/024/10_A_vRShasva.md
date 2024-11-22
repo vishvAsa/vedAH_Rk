@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -132,7 +135,8 @@ maghavan ← maghávan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Most adorable, chief leader (of men), invigorate (yourself with the **Soma**) for (the conquest of) greatwealth; consume, **Maghavan**, the strong (cities of the **asuras**) for the rich spoil.”
 </details>

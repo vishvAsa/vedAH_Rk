@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -171,11 +174,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Affluent (in sacrificial offerings), actuated by one mind, we and ours awaken you, (Uṣas), today;luminous dawns, soften (the earth) with unctuous (dews) and do you, (gods) ever cherish us with blessingṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Actuated by one mind: sumanasam = śobhanastutikaḥ, having (i.e. offering) excellent praises (or hymns); softenthe earth: tilvilāyadhvam: **tila** = sesamum, or its oil;
 

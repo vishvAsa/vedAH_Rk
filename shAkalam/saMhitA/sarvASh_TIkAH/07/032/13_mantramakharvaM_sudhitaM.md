@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákharvam ← ákharva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -174,7 +177,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Address (to **Indra**), among the gods, the ample, well-uttered, and graceful prayer; many bonds entanglenot him who, by his devotion, abides in Indra.”
 </details>

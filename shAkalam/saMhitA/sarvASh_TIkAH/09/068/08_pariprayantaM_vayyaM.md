@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pariprayántam ← √i- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -170,7 +173,8 @@ vā́cam ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Intelligent praises celebrate the wide-flowing (god) delighting **Soma** who sits in good company, who exhilarating (falls) in a stream with his water from the sky (and) wealth-conquering, immortal, sends out his voice.”
 </details>

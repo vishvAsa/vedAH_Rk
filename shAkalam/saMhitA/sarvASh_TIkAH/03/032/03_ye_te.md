@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávardhan ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -189,7 +192,8 @@ suśipra ← suśiprá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These are the **Maruts**, **Indra**, who, worshipping your prowess, augment your withering force (by their aid); attended by the **Rudras**, drink, wielder of the thunder-bolt, and handsome-chinned, at the noon-day sacrifice.”
 </details>

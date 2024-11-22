@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́mabhiḥ ← dhā́man- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -128,7 +131,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “genitive le **Mitra** and **Varuṇa**, destroyers of foes, come from heaven with your glories, and drink the **Soma**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 drapsáḥ ← drapsá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -172,11 +175,13 @@ vástuṣu ← vástu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sprinkled, (**Agni**, with the libation), the dripping (**Soma**), car-borne, agreeable, offered in due season,resplendent, have been presented to you; you are the beloved of the mighty dawns; you reign over the things ofnight.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rājasi = you shine amid; or, you illuminate
 </details>

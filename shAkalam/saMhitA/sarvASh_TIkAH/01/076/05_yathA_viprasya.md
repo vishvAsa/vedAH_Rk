@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havírbhiḥ ← havís- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -183,7 +186,8 @@ yajasva ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As at the sacrifice of the holy **Manu**, you, a sage amongst sages, did worship the gods with oblations, so also, **Agni**, veracious invoker of the gods, do you today (present the oblations), with an exhilarating ladle.”
 </details>

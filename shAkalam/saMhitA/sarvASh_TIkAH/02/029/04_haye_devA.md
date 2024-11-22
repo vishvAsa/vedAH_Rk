@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpáyaḥ ← āpí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -201,7 +204,8 @@ yuṣmā́vatsu ← yuṣmā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O Gods, you, verily, are our kinsmen; being so, grant felicity to me your suppliant; let not your chariot be tardy in coming to the sacrifice; let us never be weary of relatives such as you are.”
 </details>

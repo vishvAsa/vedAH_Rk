@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āsate ← √ās- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -215,11 +218,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Distributing nourishment to their progeny, they, (the householders), abide (in their dwellings), as if offering ample and sustaining wealth to a guest; constructing (useful works, a man) eats with his teeth the food (given him) by (his) protector and as he, who has enjoined these (things to be done), you, (**Indra**), are especially to be praised.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Constructing useful works: asinvan daṃṣṭraiḥ pitur **atti** bhojanam: asinvan = setubandhādikam **karma** kurvan, doing acts, such as building bridges and the like;
 

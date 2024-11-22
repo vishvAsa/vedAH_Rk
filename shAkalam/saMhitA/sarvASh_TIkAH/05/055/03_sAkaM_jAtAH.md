@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 jātā́ḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
 
@@ -205,7 +208,8 @@ yātā́m ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Born simultaneously, mighty, co-dispensers of moisture, they have grown exceedingly in glory; leaders (of rites), and radiant (are they) as the rays of the sun; may the cars of the quick-moving (**Maruts**) arrive for our good.”
 </details>

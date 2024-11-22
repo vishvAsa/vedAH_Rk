@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 átas ← átas (invariable)  
 {}
 
@@ -202,11 +205,13 @@ viddhi ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rise up from hence, for this (damsel) has a husband; I worship **Viśvāvasu** with reverence and withhymns; seek for another maiden still dwelling in her father's house, decorated with ornaments; that is yourportion, know this (to your portion, take it) from your birth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Viśvāvasu: a **gandharva**
 </details>

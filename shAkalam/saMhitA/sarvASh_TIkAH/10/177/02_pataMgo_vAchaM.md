@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bibharti ← √bhr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -193,11 +196,13 @@ r̥tásya ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The Sun bears the (sacred) word in his mind the **Gandharva** has spoken it, (abiding) within the womb;sages cherish it in the plural ce of sacrifice, brilliant, heavenly ruling the mind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sacred word: vāk: the three **Vedas**;**Taittirīya** **Brāhmaṇa** 3.12.9: in the morning the deity moves in the sky with the hymns of the Ṛk, he abides atnoon in the **Yajurveda**, at his setting he is extolled with the **Sāmaveda**; the sun moves accompanied by thethree Vedas;
 

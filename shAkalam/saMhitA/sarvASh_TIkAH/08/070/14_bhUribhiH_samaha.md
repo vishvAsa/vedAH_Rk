@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ribhiḥ ← bhū́ri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -142,11 +145,13 @@ vatsā́n ← vatsá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the common object of our worship, you are praised by many sacrificing Ṛṣis; for it is you,destroyer of foes, who thus give calves in succession to your worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In succession: ekam ekam = one byone, i.e., many;
 

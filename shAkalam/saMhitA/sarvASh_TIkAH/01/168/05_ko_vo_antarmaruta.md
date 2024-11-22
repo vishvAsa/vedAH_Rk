@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -189,7 +192,8 @@ purupraíṣāḥ ← purupraíṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, lightning-armed, who, (standing) amongst you, sets you of yourselves in motion, as the jaws are (set in motion) by the tongue; as falling rains(are essential) for the obtaining of food, so (those, desirous of sustenance), excite you in various ways, like a horse in (his) daily (training).”
 </details>

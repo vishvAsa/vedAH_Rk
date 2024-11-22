@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adr̥śran ← √dr̥ś- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -188,11 +191,13 @@ pratīcī́ ← pratyáñc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The paths that lead to the gods are beheld by me, innocuous and glorious with light; the banner ofUṣas is displayed in the east, she comes to the west, rising above high plural ces.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Unnatapradeśaḥ: may alsomean, above the houses
 </details>

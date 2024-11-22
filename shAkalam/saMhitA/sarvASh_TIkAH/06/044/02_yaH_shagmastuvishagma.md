@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 śagmáḥ ← śagmá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ svadhāpate ← svadhāpati- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma**, possessor of felicity, which gives you delight, and which is the bestower of riches on your votaries, is poured out; it is your exhilaration, **Indra**, lord of the offering.”
 </details>

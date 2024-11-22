@@ -23,17 +23,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ávasi ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -172,11 +175,13 @@ vajrivaḥ ← vajrivant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are for the strength (of the world), you protect with all your protections, but you need no defender,**Indra**, lord of rites; slayer of **Vṛtra**, irreproachable wielder of the thunderbolt, drink of the **Soma** at the mid- daysolemnity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 But you need no defender: na tvamāvitha; or, did you not protect?
 </details>

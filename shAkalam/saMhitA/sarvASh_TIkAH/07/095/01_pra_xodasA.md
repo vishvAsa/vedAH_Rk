@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́yasā ← dhā́yas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -180,11 +183,13 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Sarasvatī**, firm as a city made of metal, flows rapidly with all sustaining water, sweeping away inits might all other waters, as a charioteer (clears the road).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Firm as a city: dharuṇam āyasi pūḥ = ayasanirmita purīva;
 

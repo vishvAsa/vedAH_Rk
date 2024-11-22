@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahimánaḥ ← mahimán- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We acknowledge no one, **Maghavan**, of greatness equal to yours, nor one of like affluence, nor one of equally glorifiable riches, none has (such as) your power been ever seen (in any other).”
 </details>

@@ -24,16 +24,19 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 asurya ← asuryà- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -216,7 +219,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, you, mighty (**Indra**, gave) hundredfold (riches), **Sumitra** praised you thus, **Durmitra** praised youthus, when at the slaughter of the **Dasyus** you did protect **Kutsa**'s son, when at the slaughter of the Dasyus youprotected Kutsa's darling.”
 </details>

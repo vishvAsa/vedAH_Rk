@@ -23,15 +23,18 @@ ChandaH = "चतुष्पदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyujran ← √yuj- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -144,7 +147,8 @@ svàrmīḷhasya ← svàrmīḷha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rulers over all men, and impelling towards man the water-shedding clouds, they are united, **Indra**, (with you); the host of **Maruts** is delighted by (your) acquisition of heaven-bestowing wealth.”
 </details>

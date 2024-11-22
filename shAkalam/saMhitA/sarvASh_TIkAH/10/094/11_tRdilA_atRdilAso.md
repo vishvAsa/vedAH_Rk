@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádrayaḥ ← ádri- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -140,7 +143,8 @@ supīvásaḥ ← supīvás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Splitting, but unsplit, you, O stones, are untiring, unrelaxing, immortal, free from disease, undecaying,rising and falling, powerful, unthirsting, not genitive rating thirst.”
 </details>

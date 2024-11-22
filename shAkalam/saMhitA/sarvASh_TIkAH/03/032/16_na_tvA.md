@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gabhīráḥ ← gabhīrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ gávyam ← gávya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoked of many, the deep ocean arrests you not, nor do the accompanying mountains (stay you); and therefore, summoned by your friends, you have repressed the strong flame abiding in the abyss.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You have repressed the strong flame: dṛḷham cid arujo gavyam ūrvam = prabalam api avate vartamānam ūrvānalam samyagabhāṅkṣīḥ, you have entirely broken the strong (**ūrva**) fire abiding in the deep
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāśúṣe ← dāśváṁs- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -163,7 +166,8 @@ trā́sīthām ← √trā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come to the mortal, the donor (of oblations) bringing desired wealth in your chariot; keep afar from usfamine and sickness; day and night, **Mādhvis**, protect us.”
 </details>

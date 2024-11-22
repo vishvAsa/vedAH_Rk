@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -176,7 +179,8 @@ matíbhiḥ ← matí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To him the seven sages, our ancient progenitors, performing the nine days' rite, were offerers of (sacrificial) food, celebrating with hymns the very strong (**Indra**), the humiliator of foes, the traverser of the heavens, he dweller in the clouds, whose commands are not to be disobeyed.”
 </details>

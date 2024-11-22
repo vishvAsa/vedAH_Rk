@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 budhné ← budhná- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer (of rain, the sun), urging on the lawn, at the root of the truthful (day) has pervaded the vast heaven and earth; the mighty Uṣas, the golden light, as it were, of **Mitra** and **Varuṇa**, diffuses her lustre in different directions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The truthful day: ṛtasya satyabhūtasya: it is identified with truth as the season in the performance of religious rites
 </details>

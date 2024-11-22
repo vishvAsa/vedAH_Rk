@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhā́ḥ ← bhā́s- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -226,7 +229,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dark is the path of you wo are bright; the light is before you; your moving radiance is the chief of (all luminous) bodies; when the present (worshippers) take up the germ (in the sticks of attrition) you are speedily genitive rated, and become indeed the messenger (of the sacrifice).”
 </details>

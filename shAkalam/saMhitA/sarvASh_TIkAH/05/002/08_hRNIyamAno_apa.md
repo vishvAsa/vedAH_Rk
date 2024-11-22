@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aíyeḥ ← √i- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PLUPRF, voice:ACT}
 
@@ -215,7 +218,8 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When angered, (**Agni**), depart from me; the protector of the worship of the gods, (**Indra**), has spoken to me; the wise Indra has looked upon you, and instrumental ucted by him, I have come, Agni, to you.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhrā́jante ← √bhrāj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -186,7 +189,8 @@ vŕ̥ṣavrātāsaḥ ← vŕ̥ṣavrāta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They who are worthily worshipped shine with various weapons; incapable of being overthrown, they are the over-throwers (of mountains); **Maruts**, swift as thought, entrusted with the duty of sending rain, yoke the spotted deer to your cars.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
-#### Morph
+_________
+**Morph**  
 āśávaḥ ← āśú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -186,7 +189,8 @@ viśvárūpāḥ ← viśvárūpa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who (are) most excellent and swift like horses, lords of cars and munificent like the possessors ofwealth, swiftly moving like rivers with water flowing from a height, (accompanied) everywhere with hymns like themultiform **Aṅgirasas**.”
 </details>

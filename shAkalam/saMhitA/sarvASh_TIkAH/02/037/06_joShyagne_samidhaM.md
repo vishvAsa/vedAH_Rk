@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ uśatáḥ ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be plural ased, **Agni**, with the fuel; be plural ased with the oblation; be plural ased with the sacred prayer that is good for man; be plural ased with holy praise, asylum of all; Agni, willing (to accept oblations), render all the great gods desirous (of the same), and with them all, and with the Ṛtu drink the oblation.”
 </details>

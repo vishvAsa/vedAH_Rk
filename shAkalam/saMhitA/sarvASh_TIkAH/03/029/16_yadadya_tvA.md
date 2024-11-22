@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -195,7 +198,8 @@ yāhi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, offerer of oblations, cognizant of rites, inasmuch as we have recourse to you today in this progressing sacrifice, therefore do you steadily convey (the offering to the gods), or tranquilly be at rest, and knowing (the purport of our acts), and wise (in all respects), approach (and accept) the **Soma**.”
 </details>

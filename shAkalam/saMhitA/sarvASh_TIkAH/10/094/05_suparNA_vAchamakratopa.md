@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akrata ← √kr̥- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -187,7 +190,8 @@ sūryaśvítaḥ ← sūryaśvít- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The well-gliding stones made a noise in the firmament; they danced (like) the black deer in the stall;they exude down from the upper stone the expressed (**Soma**); white as the sun they yield abundant moisture.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 attana ← √ad- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -189,11 +192,13 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Eat abundant fodder in the pasture, O cows, who are anointed in the hall of sacrifice in the cow-stall;may (your) body be the remedy for (our) body. We long for the universal **Aditi**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., may the body of the cowoffered in sacrifice be the expiation for the body of the sacrificer, enabling him to attain **svarga**; or, may the milkbe the corrective of the **Soma**; or, may the body itself be the body's cure
 </details>

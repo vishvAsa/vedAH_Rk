@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 deváḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ yauṣṭam ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun-god by truth extinguishes his beams (in the evening); he spreads abroad (in the morning) thehorn of truth; truth verily overcomes the might of the eager assailant; therefore sever not our friendships, but flingloose (your reins and gallop here).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A praise of truth, satyapraśaṃsā; as the sun swerves not from hisappointed course, and as truth or adherance to right conquers earthly foes, so the **Aśvins** must fulfil the duties ofancient friendship and hear the ṛṣi's prayer
 </details>

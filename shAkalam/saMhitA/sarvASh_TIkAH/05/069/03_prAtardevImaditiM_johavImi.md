@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditim ← áditi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -157,11 +160,13 @@ yós ← yós (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the divine and bright **Aditi** at dawn, and at mid-day, when the sun is high; I worship you, **Mitra** and **Varuṇa**, at all seasons, for the sake of riches, for sons and grandsons, for prosperity and happiness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text is śaṃyoḥ = aṛṣṭaśamanāya sukhasya miśraṇāya ca, for the alleviation or prevention of calamity, and for the mixture or association of happiness
 </details>

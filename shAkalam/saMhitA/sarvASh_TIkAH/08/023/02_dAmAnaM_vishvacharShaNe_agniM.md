@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāmā́nam ← dāmán- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -111,7 +114,8 @@ víṣpardhasaḥ ← víṣpardhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Commend with praise, all-beholding Viśvamanas, that **Agni**, who is the giver of chariots to theunenvious (worshipper).”
 </details>

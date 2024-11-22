@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tam ← amŕ̥ta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -98,7 +101,8 @@ ghr̥tā́havanam ← ghr̥tā́havana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(We have come) to the immortal **Jātavedas**, who shows light across the darkness, well worthy ofpraise, and receiving the offering of ghī.”
 </details>

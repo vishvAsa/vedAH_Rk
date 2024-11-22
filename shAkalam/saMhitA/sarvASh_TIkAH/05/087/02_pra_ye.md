@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -250,7 +253,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Evayāmarut glorifies those who are manifested with the great (**Indra**), who appear spontaneously and speedily with the knowledge (that the sacrifice is prepared); your strength in action, **Maruts**, is not to be resisted, (though qualified) by (your) infinite liberality; you are immoveable as mountains.”
 </details>

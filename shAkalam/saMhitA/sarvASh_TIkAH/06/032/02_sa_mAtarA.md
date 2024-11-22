@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavīnā́m ← kaví- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -165,7 +168,8 @@ usríyāṇām ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He has obtained the parent (worlds, heaven and earth), with the sun, for the sake of the sages, (he **aṅgirasas**), and, glorified (by them), he has shattered the mountain; repeatedly wished for by his adorers intently meditating (upon him), he has cast off the fetters of the kine.”
 </details>
@@ -190,7 +194,8 @@ kavīnā́m belongs only to this putative expression (mātáram kavīnā́m). Th
 
 The part. vāvaśānáḥ in c has generally been ascribed to √vaś ‘want, be eager (for)’: so Grassmann and Lubotsky, as well as the tr. ‘begierig’ of Geldner and Schmidt. However, Kümmel has argued (478-80) that all forms of the perfect stem vāvaś- actually belong to √vāś ‘bellow’, not √vaś -- though he sneaks some of the semantics of the latter into his glosses ‘brüllen sehnsüchtig’ (etc.). Although I do not want to eliminate the pf. to √vaś in so absolute a way as Kümmel, in this passage at least I think the participle embodies a pun and, moreover, the primary sense is ‘bellowing’, not ‘being eager’.
 
-The central narrative of the Vala myth has Indra vocalizing in concert with the Aṅgirases (“the very attentive versifiers”) in order to break open the cave and release the cows. No doubt he was “eager” to accomplish this, but it is the noise-making that is the focus of the myth. In this vs. we get a double view of Indra: he is both hymned (gṛṇānáḥ b) presumably by the Aṅgirases and also sings (/bellows) along with them, with two complementary participles, both modifying Indra and stationed at the end of adjacent pādas. The cooperation of Indra and the Aṅgirases is emphasized in the next vs. ### 03
+The central narrative of the Vala myth has Indra vocalizing in concert with the Aṅgirases (“the very attentive versifiers”) in order to break open the cave and release the cows. No doubt he was “eager” to accomplish this, but it is the noise-making that is the focus of the myth. In this vs. we get a double view of Indra: he is both hymned (gṛṇānáḥ b) presumably by the Aṅgirases and also sings (/bellows) along with them, with two complementary participles, both modifying Indra and stationed at the end of adjacent pādas. The cooperation of Indra and the Aṅgirases is emphasized in the next vs. _________
+**03**  
 On mitájñu- see Scarlatta 344; it is used here in a context very similar to abhijñú in III.39.5, which also concerns Indra and the Aṅgirases at the winning of cattle and contains parallel phraseology: sákhā ha yátra sákhibhiḥ … abhijñú … gā́anugmán “When the comrade with his comrades the Navagvas, the warriors, from their crouch followed after the cows.” The ‘knee’ cmpds presumably describe the stance of the warrior-poets in this conflict, at least in these two passages. However, in VII.95.4, a hymn to Sarasvatī, it describes the position of “reverential ones” (namasyà-) imploring the goddess in prayer, and though there is a martial portion of VII.82.4, where another example of the stem occurs, the form in question is found in the part of the vs. that describes invocations made in peace time. The final instance of the word, in III.59.3, is too generic to pin down. Thus, it seems that a posture with “fixed knees” may be adopted in various circumstances, including that of prayer.
 
 The second hemistich contains a series of balanced etymological figures: púraḥ purohā́sákhibhiḥ sakhīyán, … kavíbhiḥ kavíḥ sán. I am somewhat puzzled by the nom. sg. pres. part. sán, which is usually concessive, but which should not have that function here. The use of sán is esp. surprising because it breaks the parallelism of the two rhyming post-caesura phrases in cd: … sákhibhiḥ sakhīyán, … kavíbhiḥ kavíḥ sán. We should expect rather *kavīyán, matching sakhīyán, and in fact the stem kavīyánt- does exist (IX.94.1 kavīyán, also in pāda-final position). Perhaps an exact match would have been considered too sing-songy, and the near-match phonologically of -íḥ sán with -īyán suggested the figure without insisting on it. Or else the poet wanted to emphasize that Indra is indeed a poet, in addition to his usual roles as victorious warrior and first comrade among comrades. In the latter case, the phrase might be tr. “being himself a poet along with poets.”

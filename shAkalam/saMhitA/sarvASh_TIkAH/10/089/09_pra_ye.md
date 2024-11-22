@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryamáṇam ← áryaman- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ vŕ̥ṣāṇam ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Against those who sinfully offend against **Mitra**, **Aryaman**, your companons (the **Maruts**) and **Varuṇa**,against these your enemies sharpen, **Indra**, showerer (of benefits), your rapid showering radiant thunderbolt.”
 </details>

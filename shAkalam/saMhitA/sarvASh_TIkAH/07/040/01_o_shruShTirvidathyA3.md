@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -186,7 +189,8 @@ vibhāgé ← vibhāgá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the satisfaction derived from pious rites come to us as we contemplate the glorification of the swiftmoving (divinities); may we be included in the apportionment by that wealth-bestowing deity (of the riches) whichthe divine **Savitā** goday distributes.”
 </details>

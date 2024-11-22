@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -114,11 +117,13 @@ aṣṭā́padībhiḥ ← aṣṭā́pad- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, descendantof **Bharatā**, you are entirely ours, when sacrificed to with pregnant kine, with barren cows, or bulls.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When sacrificed to with: vaśābhir ukṣabhiḥ aṣṭāpadībhirāhutaḥ, offered or sacrificed to with barren cows, **vaśā**; will bulls, **ukṣa**, and with eight-footed animals, i.e. a cow with calf; it is remarkable that these animals should be sprung of a burnt-offering
 </details>

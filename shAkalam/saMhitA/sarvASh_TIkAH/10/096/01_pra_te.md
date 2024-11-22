@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hárī ← hári- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -221,7 +224,8 @@ viśantu ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorified your bay horses, **Indra**, at the great sacrifice. I solicit the agreeable exhilaration of you, thedestroyer. May my praises attain to you, whose form is yellow, who, with your horses, shower (water) likebeautiful butter.”
 </details>

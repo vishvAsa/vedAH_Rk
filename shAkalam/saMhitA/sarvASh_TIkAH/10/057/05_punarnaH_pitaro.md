@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 mánaḥ ← mánas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -126,11 +129,13 @@ vrā́tam ← vrā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our progenitors, may the host of the gods, restore (your) spirit; may we obtain (for you) theaggregate of the functions of life.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 3.55: progenitors, by our command let the divine people restore ourspirit, so that we may enjoy living descendants
 </details>

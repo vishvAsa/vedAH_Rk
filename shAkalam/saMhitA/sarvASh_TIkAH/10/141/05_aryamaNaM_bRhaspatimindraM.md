@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)  
 genre D;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 aryamáṇam ← áryaman- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ vājínam ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Stimulate to liberality **Aryaman**, **Bṛhaspati**, **Indra**, **Vāta**, **Viṣṇu**, **Sarasvatī**, and the food-bestowingSavitā.”
 </details>

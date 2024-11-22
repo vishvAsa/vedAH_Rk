@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mártyeṣu ← mártya- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -186,7 +189,8 @@ vrajásya ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He thrives in abundance among men, who, pious, presents to **Agni** (oblations) with prayers; the wonderfully radian Agni plural ces him with marvellous protection in the enjoyment of pasturage full of herds of cattle.”
 </details>

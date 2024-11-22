@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 háritaḥ ← hárita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ vájram ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The azure-coloured showerer (of benefits), illumes, as soon as born, the whole luminous region; the lord of the tawny steeds holds in his **hands** the yellow weapon, the destroying thunderbolt.”
 </details>

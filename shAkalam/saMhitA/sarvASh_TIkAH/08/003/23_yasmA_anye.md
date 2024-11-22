@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyé ← anyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -129,7 +132,8 @@ váyaḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whose burden ten other bearers (of loads) (would be required) to convey, such as were the steeds thatbore **Bhujyu** home.”
 </details>

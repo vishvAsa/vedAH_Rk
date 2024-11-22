@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 bāṇā́ḥ ← bāṇá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -168,11 +171,13 @@ yachatu ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where arrows alight like shaven-headed boys may **brahmaṇaspati**, may **Aditi**, grant us happiness every day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like shaven-headed boys: **kumārā** **viśikhā** iva, like boys without the lock of hair left at shaving; muṇḍitā **muṇḍaḥ**, shorn-headed; the arrows fall where they like, as boys before they are left with the lock of hair, before the religious tonsure, plural y about where they like
 </details>

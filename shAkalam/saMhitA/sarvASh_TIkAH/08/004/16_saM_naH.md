@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhuríjoḥ ← bhuríj- (nominal stem)  
 {case:GEN, gender:F, number:DU}
 
@@ -188,11 +191,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sharpen us like a razor in the **hands** (of a barber); grant us riches, liberator (from iniquity), the wealth ofcattle easily obtained by us from you, such wealth as you bestow upon the (pious) mortal.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sam naḥ śiśīhibhurijor iva kṣuram = nāpitasya bāhvor iva sthitam kṣuram iva, like a razor plural ced as it were in the two armsof a barber
 </details>

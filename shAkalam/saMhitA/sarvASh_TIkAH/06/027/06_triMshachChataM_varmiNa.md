@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -156,11 +159,13 @@ pā́trā ← pā́tra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the invoked of many, thirty hundred mailed warriors (were collected) together on the Yavyāvatī, to acquire glory, but the Vṛcīvats advancing in a hostile manner, and breaking the sacrificial vessels, went to (their own) annihilation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thirty hundred: triṃśac chatam varmiṇaḥ = triṃśada dhikaśatam, one hundred and thirty; kavacabhṛtas, wearers of breasplates or armour;
 

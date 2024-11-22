@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 daśagvínaḥ ← daśagvín- (nominal stem)  
 {case:NOM, number:PL}
 
@@ -174,11 +177,13 @@ tū́yam ← tū́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come quickly with those your horses which are vigorous and fleet, and which are traversers of tens, orhundreds, or thousands (of leagues).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Traversers: or, which are traversers of ten leagues, and are numbered byhundreds and thousands.
 </details>

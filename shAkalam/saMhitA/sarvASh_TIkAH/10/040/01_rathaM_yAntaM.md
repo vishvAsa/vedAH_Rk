@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -189,7 +192,8 @@ vástor-vastoḥ ← vástu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What (worshipper), O leaderes of rites, and where (abiding) glorifies for his good, by his praise at therite, your radiant moving chariot, going (to the sacrifice) at dawn, all-pervading, and bearing (wealth) day afterday to one man after another?”
 </details>

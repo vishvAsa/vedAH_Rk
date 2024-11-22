@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, do you, in this our rite, worship the **Vasus**, the **Rudras**, the **Ādityas**, or any other (living) being sprung from **Manu**, sacrificing well and sprinkling water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Janam: manu-jātam, a man born of Manu **Jana**; signifying a divine being in connection with the enumerated deities, another man, **devatā** **rūpa** of a divine nature or form
 </details>

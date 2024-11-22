@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -191,7 +194,8 @@ saṁsát ← saṁsád- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The messenger, the invoker (of the gods), riding in a golden chariot with a tongue of flame, he frequents all the chambers (of sacrifice); drawn by red horses embodied resplendent, always agreeable, as a delling well supplied with food.”
 </details>

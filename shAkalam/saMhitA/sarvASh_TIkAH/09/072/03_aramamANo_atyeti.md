@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -197,11 +200,13 @@ svásr̥bhiḥ ← svásar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unceasing, the **Soma** goes to mix with the products of the kine, he utters a cry dear to the daughter of the sun. The praiser brings delight to him; he is united to the two kindred sisters (the **hands**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The daughter of the sun: i.e., the dawn, beacause, at that time the noise of the effusion of the Soma is great; the praiser: vinaṃgṛsaḥ = kamanīyam stotram gṛhṇātīti; arm
 </details>

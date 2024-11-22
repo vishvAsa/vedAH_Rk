@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May ghī be the augmenter of the **Agni** of Vadhryaśva; may ghī be his food; may ghī be hisnutriment; sacrified to with ghī he expands exceedingly; he shines like the sun, when the clarified butter ispoured out for him.”
 </details>

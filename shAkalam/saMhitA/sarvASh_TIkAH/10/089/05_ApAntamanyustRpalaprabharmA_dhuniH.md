@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́pāntamanyuḥ ← ā́pāntamanyu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -156,11 +159,13 @@ pratimā́nāni ← pratimā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Appeasing wrath, striking quickly, intimidating foes, doer of great deeds, armed with weapons,possessing the stale residue, **Soma** nourishes all the Atasa woods, they oppose no impediments against **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma: or, Indra
 </details>

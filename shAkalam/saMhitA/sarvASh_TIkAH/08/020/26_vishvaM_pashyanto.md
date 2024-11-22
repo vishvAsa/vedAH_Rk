@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -178,7 +181,8 @@ víhrutam ← √hvr̥- ~ hru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, beholding every sort, collect them for (the good of) our bodies, ad instrumental uct us in their (uses); letthe cure of sickness (be the portion), **Maruts**, of him among us who for his wickedness is sick; re-establish hisenfeebled (frame).”
 </details>

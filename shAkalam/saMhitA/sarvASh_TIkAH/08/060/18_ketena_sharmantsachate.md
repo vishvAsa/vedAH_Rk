@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kétena ← kéta- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The sacrificer) worships you by praises, **Agni**, with the experienced (priests) in the rite celebrated withbeautiful **Sāman** hymns;bring us of your own accord for our protection food of various kinds which may bealways in our reach.”
 </details>

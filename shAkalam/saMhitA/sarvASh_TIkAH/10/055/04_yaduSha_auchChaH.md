@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 aúchaḥ ← √vas- 1 (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -196,11 +199,13 @@ mahatyā́ḥ ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since you, Uṣas, did shine forth the first of luminaries, whereby you did beget the nourishment ofnourishment (the Sun); unequalled is the mighty greatness of you who are mighty, since your relationship isdownwards (towards us), though you are stationed on high.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Uṣas: **Indra** is here intended in the form of thedawn, and then of the sun as typified by the dawn
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 adáḥ ~ adó ← asaú (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -157,11 +160,13 @@ tīvráḥ ← tīvrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, goeds, your abode in this pool well-arranged, then a pungent dust went forth from you as if youwere dancing.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your abode in this pool: i.e., when the world was, yet water (āpo vā idam sarvam: TaittirīyaĀraṇyaka: 10.22), as it was before creation, and the gods were, properly speaking, uncreated;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cákṣuḥ ← cákṣus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -173,11 +176,13 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The auspicious Uṣas, bearing the eye of the gods (the light), leading her white and beautiful courser(the sun), is belied, manifested by her rays, disributress of wonderful wealth, mighty over all.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Leader her,,,: i.e.making the sun manifest; mighty over all: or, risen on account of the whole world, i.e. for the good of thetransactions of the world; viśvān anu sarvam jagad anulakṣya **prabhūta** **pravṛddha** sarvajagadvyavahārayetiarthaḥ
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -183,7 +186,8 @@ vr̥ścaḥ ← √vr̥śc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[7-8\] (We praise) the slayer of many foes, the courageous, the discomfiter (of enemies), the great, the unbounded, the showerer (of benefits), the wielder of the bright thunderbolt, him who is the destroyer of **Vṛtra**, the bestower of food, the giver of wealth, **Maghavan**, the possessor of riches.”
 </details>

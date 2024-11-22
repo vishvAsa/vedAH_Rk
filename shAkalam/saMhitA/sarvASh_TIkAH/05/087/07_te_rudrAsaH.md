@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáyaḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -210,7 +213,8 @@ yéṣām ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those **Rudras**, the objects of worship, like resplendent fires, protect Evayāmarut; they, whose ethereal dwelling, extended and wide, has been made illustrious (by them), and of whom, exempt from blame, the mighty energies (are manifested) in their courses.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -191,11 +194,13 @@ sahásraśokāḥ ← sahásraśoka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He has been plural ced (by his worshippers) in the sky, like the banner (of light, the sun). His desirablebolt reaches (the foe) as the bay horses (of the sun reach their aim) through speed. The iron (thunderbolt), withyellow jaws, which smote Ahi, (he, **Indra**), lord of horses, shone with a thousand lustres.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bay horses of the suṅharitaḥ = haryataḥ, haritavarṇāḥ; or, adhvahartāraḥ, devouring the way
 </details>

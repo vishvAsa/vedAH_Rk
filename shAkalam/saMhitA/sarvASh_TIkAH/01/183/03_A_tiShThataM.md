@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -188,7 +191,8 @@ yātháḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ascend your rolling car, which approaches the sacred rite of the offerer of the oblation; the car in which, **Nāsatyas**, leaders, you purpose to come to the sacrifice, and proceed to the dwelling (of the worshipper), for (bestowing upon him) offspring, and for his own (good).”
 </details>

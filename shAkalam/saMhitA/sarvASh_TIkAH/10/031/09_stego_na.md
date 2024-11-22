@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -218,7 +221,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun does not pass beyond the broad earth, the wind does not drive the rain from off the earth; (Iglorify **Prajāpati**) in whom **Mitra** and **Varuṇa** being manifested, disperse their radiance, as **Agni** (spreads hisflames) in a forest.”
 </details>

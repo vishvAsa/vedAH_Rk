@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámitāni ← ámita- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -138,7 +141,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whose energies are unbounded, whose wealth cannot be carried away, whose bounty extends like thefirmament over all.”
 </details>

@@ -24,16 +24,19 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avr̥káḥ ← avr̥ká- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -206,11 +209,13 @@ sapráthaḥ ← sapráthas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, who are unresisted, become the benefactor of him who is skilled (in sacred rites), his defender against a near of distant enemy; son of strength, who are ever renowned, grant wealth and a dwelling to **vītahavya**, the offerer of the oblation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vītahavya, the bearer, bharat, of the oblation;
 

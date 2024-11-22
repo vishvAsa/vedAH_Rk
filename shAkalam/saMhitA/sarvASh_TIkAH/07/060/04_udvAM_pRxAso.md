@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -182,7 +185,8 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For yo, (**Mitra** and **Varuṇa**), the sweet-flavoured viands have been prepared; the sun has ascended theshining firmament, for whom the **Ādityas** and the consentient Mitra, Varuṇa, **Aryaman** make ready paths.”
 </details>

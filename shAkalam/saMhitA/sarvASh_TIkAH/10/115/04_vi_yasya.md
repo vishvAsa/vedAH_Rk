@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajara ← ajára- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ tritám ← tritá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O imperishable **Agni**, the invincible winds spread around you (who are) rapid in movement, anddesirous of consuming (the forest), like combatants( the priests) calling aloud, anxious to bestow (the oblation),glorify you, the mighty, stationed in the three (altars).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 idám ← ayám (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -153,11 +156,13 @@ páriṣkr̥taḥ ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This is the dwelling of **Yama**, which is called the fabric of the gods; this pipe is sounded for his(gratification), he is propitiated by hymns.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The hymn may be to **Āditya** and to Yama: **Taittirīya** Brāhmaṇa3.11.8; there is a dialogue between **Naciketas** and Yama in **Kaṭha Upaniṣad** on what becomes of the **soul** afterdeath; the father of Naciketas is named: Auddālaki and **Āruṇi**
 </details>

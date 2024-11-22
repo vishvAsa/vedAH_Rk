@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -135,11 +138,13 @@ stómavāhasaḥ ← stómavāhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hasten hither, friends, offering praises; sit down, and sing repeatedly the praises of **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Stoma**-vāhasaḥ = lit. bearing praises; 'presenting in this rite **Trivṛt**, **Pañcadaśa**, and others', trivṛtpañcadaśādistomānasmin karmaṇi bahanti prāpayantīti; i.e. collection of laudatory hymns in the **Ṛgveda** (**Viṣṇu Purāṇa**)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hanti ← √han- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -197,7 +200,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He strikes down the trees, he destroys the **rākṣasas**, he terrifies the whole world by his mighty weapon; even the innocent man flies from the sender of rain, when **Parjanya**, thundering, slays the wicked.”
 </details>

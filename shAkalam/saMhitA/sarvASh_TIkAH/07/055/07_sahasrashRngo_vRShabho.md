@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 sahásraśr̥ṅgaḥ ← sahásraśr̥ṅga- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -135,11 +138,13 @@ svāpayāmasi ← √svap- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We put men to sleep through the irresisible might or the bull with a thousand horns, who rises out of theocean.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The bull: saharaśṛṅgo vṛṣabho yaḥ samudrād udācarat, the sun with a thousand rays; through theworship of the sun, at a later date, **Kumāra** was the patron of house-breakers
 </details>

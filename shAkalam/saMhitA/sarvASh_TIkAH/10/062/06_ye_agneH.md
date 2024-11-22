@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -152,11 +155,13 @@ sácā ← sácā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Among those who have sprung from **Agni** in many forms, (and spring) from heaven, the chiefAṅgirasa, the celebrator of the nine-month rite, the celebrator of the ten-month rite, accompanied by the godsbestows (upon me wealth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Spring from Agni: cf. the **Brāhmaṇa** text cited in the previous ṛca; Chief **Aṅgirasa**:aṅgirastamaḥ = agni
 </details>

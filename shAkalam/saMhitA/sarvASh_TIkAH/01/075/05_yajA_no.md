@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mitrā́váruṇā ← mitrā́váruṇa- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -131,7 +134,8 @@ yákṣi ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship for us, **Mitra** and **Varuṇa**; worship for us, all the gods; (celebrate) a great sacrifice; be present in your own dwelling.”
 </details>

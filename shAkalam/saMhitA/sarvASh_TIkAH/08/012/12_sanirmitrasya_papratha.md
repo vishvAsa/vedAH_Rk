@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 mitrásya ← mitrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -136,11 +139,13 @@ mímīte ← √mā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the benefactor of his friend (the worshipper), has enlarged himself to **drik** the **Soma**, in likemanner as the pious praise dilates and proclaims the measure (of his merits).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Proclaims the measure: like thedilating praise of the worshipper, it proclaims;
 

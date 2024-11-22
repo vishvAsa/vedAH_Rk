@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āghr̥ṇe ← ā́ghr̥ṇi- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -121,7 +124,8 @@ túbhyam ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine, resplendent, **Pūṣan**, this, your most recent laudation, is uttered by us to you.”
 </details>

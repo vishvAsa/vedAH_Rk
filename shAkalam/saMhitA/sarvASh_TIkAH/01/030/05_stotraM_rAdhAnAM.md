@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pate ← páti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -120,7 +123,8 @@ víbhūtiḥ ← víbhūti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, **Indra**, lord of affluence, accepter of praise, may genitive ine prosperity be (the reward of him) who offers you laudation.”
 </details>

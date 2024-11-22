@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By you, (**Agni**), may the **Gṛtsamadas**, repeating your praise, become masters of the precious secret (treasures); so that they may be possessed of excellent dependents, and be able to resist (their) enemies; and do you give to (your) pious worshippers and to him who glorifies (you), such (abundant) food.”
 </details>

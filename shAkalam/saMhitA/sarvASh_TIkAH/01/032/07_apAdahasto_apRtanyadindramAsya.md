@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahastáḥ ← ahastá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ vyàstaḥ ← √as- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having neither **hand** nor foot, he defied **Indra**, who struck him with the thunderbolt upon his mountain-like shoulder, like one emasculated who pretends to virility; then **Vṛtra**, mutilated of many members, slept.”
 </details>

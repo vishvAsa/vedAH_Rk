@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhaḥ ← ándhas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -200,11 +203,13 @@ vītám ← √vī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine cows, and the waters, supply you with (sacrificial) food, for the prosperity of the people whom you favour; or may (**Agni**), the former protector of this (our patron), be the donor (of the oblation); eat (of the butter and curds), drink of the milk of the kine.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Milk of the kine: vītam pātam **payasa** usriyāyāḥ, eat, drink, of the milk of the cow; 'eating' may refer to the coagulation of the milk, or curds, butter, or the like
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424);; repeated line
-#### Morph
+_________
+**Morph**  
 íḷāyāḥ ← íḷā- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -150,11 +153,13 @@ vóḷhave ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** who is **Jātavedas**, we plural ce you upon the earth in the centre, in the plural ce of Iḷā, for the purpose of receiving the oblation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 34.14-15; in the plural ce of iḷā: iḷāyāspade **nābhā** pṛthivyāḥ **adhi**, i.e. in the middle of the northern altar; the hymn is also cited in **Aitareya** **Brāhmaṇa** 1.5
 </details>

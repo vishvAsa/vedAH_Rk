@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -150,11 +153,13 @@ yamám ← yamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship with oblations from **Yama**, king (of the **Pitṛs**), son of **Vivasvat**, the aggregation of mankind,who conducts those who are virtuous over the earth, and opens to many the path (of heaven).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of mankind:janānām pāpinām = of sinners; who conductṣ..over the earth: who has caused men of surpassing merit,who have performed pious acts, which are the means of gaining earthly happiness, to reach one by one afterdeath the various spots of the earth fitted for their respective happiness
 </details>

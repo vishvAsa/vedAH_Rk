@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnaú ← agní- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ urāṇáḥ ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the sacred grass is strewn and the fire is kindled, the **Adhvaryu** rises, propitiating (the gods), and **Agni**, the offerer of the oblation, ancient and multiplying (the offering), thrice circumambulates (the victim) like a keeper of cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thrice circumambulates: paryagnistriveṣṭyeti, Agni goes round, having thrice returned, trir āvṛtya paryeti, or trirhi paryagniḥ kriyate, Agni is thrice made around, which would imply that the fire was thrice circumambulated; the next stanza, however, clearly shows that it is Agni who goes round, either the altar or the victim; perhaps, it is the latter: parito gacchati paśum
 </details>

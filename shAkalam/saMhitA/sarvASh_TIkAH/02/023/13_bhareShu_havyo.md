@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bháreṣu ← bhára- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -185,7 +188,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati** is to be invoked in battles; he is to be approached with reverence; he who moves amidst combats, the distributor of repeated wealth; the lord Bṛhaspati has verily overturned all the assailing malignant (hosts), like chariots (overturned in battle).”
 </details>

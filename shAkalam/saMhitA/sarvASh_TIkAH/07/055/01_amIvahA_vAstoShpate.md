@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 amīvahā́ ← amīvahán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -129,7 +132,8 @@ suśévaḥ ← suśéva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protector of the dwelling, remover of disease, assuming all (kinds of) forms, be to us a friend, thegranter of happiness.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arṇavám ← arṇavá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ svarvídam ← svarvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My praises constantly propitiate **Indra**, the object of many rites, the sender of rain, attended by the **Maruts**, the leader (of all), the giver of food, the destroyer of cities, the swift (in combat), the prompt (dispenser) of waters, the distributor of riches, the subduer of foes, the conferrer of heaven.”
 </details>

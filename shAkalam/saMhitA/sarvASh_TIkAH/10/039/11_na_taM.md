@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 adite ← áditi- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -204,7 +207,8 @@ sahá ← sahá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lofty soverigns, worthy of invocation, going on roads which are praised in hymns, **Aśvins**, the manwhom with his wife you plural ce in front of (your) car, encounters not from any quarter wickedness, difficulty, ordanger.”
 </details>

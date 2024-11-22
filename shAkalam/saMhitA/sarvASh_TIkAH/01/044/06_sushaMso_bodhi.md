@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bodhi ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -158,11 +161,13 @@ namasyá ← √namasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Juvenile **Agni**, whose flames delight, who ar euniversally invoked, and are praised (by us) on behalf of the worshipper, understand (our wishes), and granting **Praskaṇva** to live a lengthened life, do honour to the divine man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Namasyā** daivyam janam, i.e. the ṛṣi of the hymn, Praskaṇva
 </details>

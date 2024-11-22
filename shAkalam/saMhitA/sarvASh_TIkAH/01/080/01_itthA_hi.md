@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -195,11 +198,13 @@ svarā́jyam ← svarā́jya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty wielder of the thunderbolt, when the priest had thus exalted you (by praise), and exhilarating **Soma** (had been drunk), you did expel, by your vigour, Ahi from the earth, manifesting your own soverignty.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Brahmā** = **brāhmaṇa**; this **sūka** is arcannanu svarājyam: arcannanu is interpreted as prakaṭayan: svsya svāmitvam prakaṭayan, making manifest his own mastership or supremacy
 </details>

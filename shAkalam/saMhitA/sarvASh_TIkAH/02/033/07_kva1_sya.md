@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kvà ← kvà (invariable)  
 {}
 
@@ -176,11 +179,13 @@ vr̥ṣabha ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where, **Rudra**, is your joy-dispending **hand**, which is the healer and delighter (of all); showerer (of benefits), who are the dispeller of sins of the gods, quickly have compassion upon me.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The dispeller of the sins of the gods: apabhartā rapaso daivyasya = devakṛtasya pāpasya apahartā, the taker-away of sin committed by a divinity; **daivya** may also connote sin against the gods
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āhuḥ ← √ah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -186,7 +189,8 @@ saścata ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such have they proclaimed him; **Indra** is still celebrated as the distributor of riches, the transporter(beyond calamity), of whom many and emulous are the protections; may acceptable benefits attend us.”
 </details>

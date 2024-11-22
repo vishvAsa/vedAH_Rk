@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ váṁsagaḥ ← váṁsaga- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The amplitude of **Indra** was vaster than the (space of) heaven; earth was not comparable to him in bulk; formidable and most mighty, he has been ever the afflicter (of the enemies of) those men (who worship him); he has his thunderbolt for sharpness, as a bull (his horns).”
 </details>

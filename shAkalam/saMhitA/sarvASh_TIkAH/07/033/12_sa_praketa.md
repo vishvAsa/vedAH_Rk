@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 praketáḥ ← praketá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the sage, cognizant of both worlds, was the donor of thousands; he was verily donation; wearingthe vesture spread spread by **Yama**, **Vasiṣṭha** was born of the **Apsaras**.”
 </details>

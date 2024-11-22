@@ -23,16 +23,19 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 rébhataḥ ← √ribh- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -200,7 +203,8 @@ vardháyan ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear the praises of **Śyāvāśva** eulogizing you, as you have heard those of **Atri** engaged in piousrites; you alone have protected **Trasadasyu** in battle, augmenting his vigour.”
 </details>

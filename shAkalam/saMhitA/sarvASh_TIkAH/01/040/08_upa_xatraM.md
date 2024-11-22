@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hánti ← √han- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -201,11 +204,13 @@ vajríṇaḥ ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let **Brahmaṇaspati** concentrate his strength associated with the regal (divinities), he slays (the foe); in the time of danger he maintains his station; armed with the thunderbolt, there is no encourager nor discourager of him in a great battle or a small.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The thunderbolt identifies **Indra**
 </details>

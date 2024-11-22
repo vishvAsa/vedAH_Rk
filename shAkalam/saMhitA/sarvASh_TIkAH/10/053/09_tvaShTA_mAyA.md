@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 apásām ← apás- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -186,7 +189,8 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Tvaṣṭā** knows the arts of fabricating (drinking vessels), the most skilful of artificers bearing thesacred drinking cups out of which the gods drink-- verily he sharpens his axe of good metal, wherewith thewhite- complexioned **brahmaṇaspati** cuts them.”
 </details>

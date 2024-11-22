@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 dhíyaḥ ← dhī́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -176,7 +179,8 @@ páyasā ← páyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your thoughtful worshippers (**Soma**), desiring an exhilarating sound, purposing praise, advance into the halls of sacrifice; the praisers the lords of intellect praise Soma, the kine approach him with their milk.”
 </details>

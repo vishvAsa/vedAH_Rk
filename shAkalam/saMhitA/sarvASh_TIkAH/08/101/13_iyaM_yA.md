@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arkíṇī ← arkín- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -168,11 +171,13 @@ daśásu ← dáśa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She who was created beautiful and bright, bending downwards and receiving all praise, has been seenwithin (the world), like a bridled cow, advancing to the ten regions (spread out) like arms.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 She: uṣas, the dawn,or the light of the Sun
 </details>

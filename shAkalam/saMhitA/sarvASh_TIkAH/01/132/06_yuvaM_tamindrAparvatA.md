@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indrāparvatā ← indrāparvata- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -286,11 +289,13 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Parvata**, who are foremost in battles, slay every one who is arrayed against us; slay every such (adversary) with the thunderbolt--(the shaft that) bent upon his destruction pursues him, however far, or to whatever hiding plural ce he may have fled. You, hero, (tear) our enemies entirely to pieces; the tearer (of foes, the thunderbolt), rends them entirely asunder.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Parvata = a cloud, or the deity presiding over clouds, another form of Indra
 </details>

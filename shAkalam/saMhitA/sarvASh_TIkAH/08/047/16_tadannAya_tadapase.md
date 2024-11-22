@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 tádannāya ← tádanna- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -202,11 +205,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, bear (elsewhere) the ill-omened dream for **Trita** and **Dvita**, who eat and do (in dreams) that(which is eaten and done amiss when awake) and who obtain that (inauspicious) portion; your aids are void ofharm, your aids are true aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bear elsewhere: i.e., let the eating of honey etc., perceived in a dream, producehappiness as in a waking state; trita and dvita: for dvita, cf. **Śatapatha Brāhmaṇa** 1.2.3.1
 </details>

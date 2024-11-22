@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 br̥haté ← br̥hánt- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -152,7 +155,8 @@ vájreṇa ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, utter forth the hymn to your great **Indra**; let **Śatakratu**, the slayer of **Vṛtra**, smite Vṛtra with hishundred-edged thunderbolt.”
 </details>

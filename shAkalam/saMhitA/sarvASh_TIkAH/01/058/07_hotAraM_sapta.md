@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -166,7 +169,8 @@ yā́mi ← √yā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I worship with oblations that **Agni** whom the seven invoking priests invite as the invoker of the gods; who is most worthy of worship at sacrifices, and who is the donor of all riches; I solicit of him wealth.”
 </details>

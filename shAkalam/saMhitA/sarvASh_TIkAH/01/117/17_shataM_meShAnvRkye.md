@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 māmahānám ← √maṁh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
 
@@ -180,7 +183,8 @@ vicákṣe ← √cakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You restored eyes to **Ṛjrāśva**, who, on presenting a hundred sheep to the she-wolf, had been condemned to darkness by his indignant father, and gave light to the blind, wherewith to behold all things.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 dātā́ ← dātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -114,7 +117,8 @@ riṣat ← √riṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (**Indra**) the king give me cows adorned with gold; O gods, let not **Maghavan** be harmed.”
 </details>
@@ -130,7 +134,8 @@ My interpretation of pāda a is quite different from Geldner’s and starts from
 
 implicitly equates neut. sg. kád with fem. pl. táviṣīḥ. These problems can be fixed by taking kád as a question marker, not an interrogative pronoun, and by assuming that the powers in question are not Indra’s (as Geldner takes them), but those of Indra’s enemies. The implied answer to the rhetorical question is “no, there exist no powers that Indra can’t assail.” For táviṣī belonging to others, see, e.g., I.80.10 índro vṛtrásya táviṣīṃ nír ahan … The hapax bekanā́ṭa- is an almost textbook example of non-Indo-Aryan phonology (see Kuiper, Aryans), and it seems safest to take it as the name of a people, rather than in the traditional interpretation (going back to the Nirukta VI.26 bekanāṭāḥ khalu kusīdino bhavanti) as “Wucherer” (usurer, profiteer) as Geldner does.
 
-For disc. see KEWA and EWA s.v. ### 11
+For disc. see KEWA and EWA s.v. _________
+**11**  
 ápūrvyā [sic, not, as in Aufrecht and Holland & van Nooten Rig Veda edition, ápūrvya] and purūtámāsaḥ play off each other. We may be the latest of many, but our formulations have no predecessors - a variation on the usual theme of the “newest hymn.”
 </details>
 

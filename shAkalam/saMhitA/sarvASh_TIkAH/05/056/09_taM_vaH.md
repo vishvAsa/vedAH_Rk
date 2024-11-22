@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ratheśúbham ← ratheśúbh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -164,11 +167,13 @@ sácā ← sácā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke that, your cohort, gracing the chariot, brilliant and adorable, amidst which the rain-bestowing (goddess), of goodly origin and auspicious, is worshipped together with the **Maruts**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The rain-bestowing goddess: mīḷhuṣī is another name of **Rodasi**, the wife of Miḍhvat, an appellation of **Rudra**
 </details>

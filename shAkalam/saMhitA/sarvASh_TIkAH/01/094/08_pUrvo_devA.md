@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhavatu ← √bhū- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -218,11 +221,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gods, let the chariot of the offerer of the libation be foremost; let our denunciations overwhelm the wicked; understand and fulfil my words let us not suffer injury, **Agni**, through your friendship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Deva**: all gods are but portions or members of Agni;
 

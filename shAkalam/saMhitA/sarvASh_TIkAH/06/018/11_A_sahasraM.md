@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -192,11 +195,13 @@ yótoḥ ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Opulent, **Indra**, son of strength, the invoker of many, whose union (with energy) the impious is unable to disjoint, come down to us with thousands of riches by very powerful conveyances.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Potobhistuvi vājebhiḥ: i.e. vāhaiḥ, vehicles, or sometimes horses; the epithet is: bāhubalaiḥ, very storng or powerful
 </details>

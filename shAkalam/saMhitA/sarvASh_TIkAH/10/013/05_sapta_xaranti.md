@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kṣaranti ← √kṣar- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -179,7 +182,8 @@ yatete ← √yat- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven (metres) offer laudation to the glorious, the adorable parent, (the **Soma**), his sons (thepriests) utter his true (praise); you both are lords of both (men and gods), you both exert yourselves and are thenourishers of both (men and gods).”
 </details>

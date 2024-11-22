@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -192,11 +195,13 @@ várdhāt ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Parvatas** be (bountiful) to us in liberal donations; may they be favourable (to us) who are the establishers (of the world) like heroes; may the adored and adorable (deity), who is accessible (to all), who is friendly to man, ever grant us increase, being propitiated by our praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Parvatas: the clouds; in liberal donations: tuje nastane: tane = vistṛte, expanded;
 

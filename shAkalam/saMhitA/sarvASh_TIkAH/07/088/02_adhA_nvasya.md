@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -203,11 +206,13 @@ vápuḥ ← vápus- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hastening into his sight, may I (worthily) glorify the aggregated radiance of **Varuṇa**, when he is theimbiber of the exhilarating beverage (expressed) by the stones; may he render my person n of goodly aspect.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Theaggregated radiance of Varuṇa: agner anīkam varuṇasya = varuṇasya jvālāsaṅgham
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nahí ← nahí (invariable)  
 {}
 
@@ -165,7 +168,8 @@ vā́jebhiḥ ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, hero, I find no limit to your wealth; O **Maghavan**, the thunderer, bestow (your gifts) quickly uponus, and bless our offerings with (abundant) food.”
 </details>

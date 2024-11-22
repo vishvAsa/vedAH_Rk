@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhítas ← abhítas (invariable)  
 {}
 
@@ -196,7 +199,8 @@ ubhā́ ← ubhá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Annihilate, **Aśvins**, the dogs who bark at us; slay them warring (against us); you know their (means of harm); render every word of him who praises you affluent in precious (rewards); accept **Nāsatyas**, both of you, may praise.”
 </details>

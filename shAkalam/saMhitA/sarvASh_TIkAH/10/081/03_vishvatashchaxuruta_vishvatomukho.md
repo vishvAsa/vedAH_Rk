@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 utá ← utá (invariable)  
 {}
 
@@ -160,11 +163,13 @@ janáyan ← √janⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having eyes everywhere, and having a face everywhere, having arms everywhere, and having feeteverywhere, he traverses (heaven) with his arms, (earth) with his swift-moving (feet), and exists a god withoutcompanion genitive rating heaven and earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Traverses: sam dhamati = he blows together, or inflates; a metaphorto denote the work of creation
 </details>

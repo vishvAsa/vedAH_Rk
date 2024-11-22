@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -201,7 +204,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The devout (priest) excels (going) towards your plural ce of worship; the quick-moving (**Indra**), the chief(of the priests), proceeds with the **Rudras**, (the **Maruts**); sprinkle the exhilarating (**Soma** with water) for theprotecting (deities), the immortals among whom praise is (able) to procure wealth.”
 </details>

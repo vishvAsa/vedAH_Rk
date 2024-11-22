@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 kalpayatu ← √kl̥p- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -151,7 +154,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Viṣṇu** construct the womb, may **Tvaṣṭā** fabricate the members, may **Prajāpati** sprinkle (theseed), may **Dhātā** cherish your embryo.”
 </details>

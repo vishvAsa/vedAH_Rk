@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āṅgirasáḥ ← āṅgirasá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ vājáya ← √vājay- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The son of **Aṅgirasa** pervading him with his brightness has, like **Bhaga**, brought **Aryaman** to the cows;as **Mitra** (unites his radiance) with the people, so has he united husband and wife; **Bṛhaspati**, send (yourwide-spread rays to your worshippers) as (a warrior sends his) horses to battle.”
 </details>

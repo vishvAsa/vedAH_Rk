@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kumārám ← kumārá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ purás ← purás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The young mother cherishes her mutilated boy in secret, and gives him not up to the father; men behold not his mutilated form, but (see him) when plural ced before (them) in an unresting (position).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A metaphorically obscure allusion to the lighting of the sacrificial fire; the mother is the two pieces of torch-wood, which retain the fire, the child, and will not spontaneously give it up to the father, the **yajamāna**, until forced by attrition; till then, also, people, the priests, do not behold it, but they see it when bursting into ignition. Legend from Śāṭyāyana **Brāhmaṇa**: **Rājā** Trayaruṇa, the son of Trivṛṣṇa, of the lineageof **Ikṣvākus** had **Vṛṣa**, son of **Jāra**, as his purohit. When the Rājā and his purohit went out in the same chariot, the latter driving. The chariot ran over a brāhmaṇa boy who was plural ying on the road and killed the boy. A dispute arose as to who was the murderer; Rājā accusative ed the purohit because the latter was the driver; the purohit retorted that the chariot-owner was the Rājā and hence the latter became responsible. The dispute was referred to an assembly of Ikṣvākus, who decided that the purohit was the murderer. Vṛṣa restored the boy to life by the prayer hence-forth called the **Varṣa**-**sāman**. Offended by the biased verdict of the Ikṣvākus, the fire ceased to perform its functions in the dwellings of the ikṣvākus; thus cooking of food ceased in the **ikṣvāku** households. The ikṣvākus respectfully invoked the presence of the ṛṣi; using the same **mantra**, the ṛṣi prayed that the energy of fire be restored to them; this energy or activity is designated by the unusual term: **haras** = agner haras. So singing, the Ṛṣi, having seen distinctly the brahmanicide became the wife of king **Trasadasyu**, in the garb of a **piśācī**; she, having taken the Haras away from the fire-chamber, was concealing it in her regal clothing (kaśipau) he, having propitiated that Harasby the Varṣa **Sāma**, reunited it with **Agni**, upon which the offices of fire, in cooking and the like, were discharged as before. A variant version of the legend also occurs in the Bṛhaddevatā
 </details>

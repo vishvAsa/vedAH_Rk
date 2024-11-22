@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditaye ← áditi- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -108,11 +111,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us be void of offence towards **Aditi**, according to the will of the divine **Savitā**; may we be possessed of all-desired (riches).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the will of the divine Savitā: **devasya** **savituḥ** save save: save = anujñayam satyam, his will or assent existing;
 

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhójase ← √bhuj- 2 (root)  
 {case:DAT, number:SG}
 
@@ -191,7 +194,8 @@ víśvasmai ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You **Indra**, have not (struck) the cloud for (your own) enjoyment; you rulest over those who are possessed of great wealth; that divinity is known by us to surpass all others in strength; the haughty (Indra) takes precedence of all gods, on account of his exploits.”
 </details>

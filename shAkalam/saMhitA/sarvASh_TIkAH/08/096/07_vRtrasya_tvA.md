@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ī́ṣamāṇāḥ ← √īṣ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED, mood:DES}
 
@@ -192,11 +195,13 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the gods who were your friends forsook you, flying away at the snorting of **Vṛtra**; O **Indra**, let therebe friendship to you with the **Maruts**; then do you conquer all these hostile armies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Friendshi: (AitareyaBrāhmaṇa 3.20): The Maruts alone did not leave him
 </details>

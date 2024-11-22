@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhumān ← mádhumant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ matsaráḥ ← matsará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** who have exhilarating juice, who are connected with the sacrifice, clothed with water flow upon the elevated fleece; alight upon the water-holding pitchers, you who are most exhilarating, intoxicating, the especial beverage of **Indra**.”
 </details>

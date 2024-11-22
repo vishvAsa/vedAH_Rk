@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abandhávaḥ ← abandhú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -180,11 +183,13 @@ víśvebhiḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Intelligent, but destitute of kin, let us connect ourselves, **Indra**, with you, who abound with kinsmen;come, showerer (of benefits), with all your glories, to drink the **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Intelligent: or, we your worshippers(viprāsaḥ), destitute of kin
 </details>

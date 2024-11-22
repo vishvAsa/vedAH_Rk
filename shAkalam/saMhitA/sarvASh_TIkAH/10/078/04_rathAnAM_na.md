@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
-#### Morph
+_________
+**Morph**  
 arā́ḥ ← ára- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -168,7 +171,8 @@ suṣṭúbhaḥ ← suṣṭúbh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who (are) united to a common centre like the spokes (of the wheels) of chariots, brilliant like victoriousheroes, sprinkling water like benevolent men, sweet-voiced like men who recite praise.”
 </details>

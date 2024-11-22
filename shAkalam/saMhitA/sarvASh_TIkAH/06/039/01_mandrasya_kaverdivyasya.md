@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyásya ← divyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -180,11 +183,13 @@ yuvasva ← √yu- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra**, of that our sweet, exhilarating, inspiring, celestial, fruit-yielding **Soma**, commended by the wise, and entitled to praise and preparation; bestow upon him who glorifies you, divine (Indra), food, the chiefest of which is cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sweet, exhilarating...: Several epithets are unusual and do not seem to be applicable to a beverage; they are: **mandra**, exhilarating; **kavi**, explained **vikrānta**, heroic; **divya**, divine;
 

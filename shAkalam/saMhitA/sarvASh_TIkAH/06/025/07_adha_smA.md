@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -194,7 +197,8 @@ sūráyaḥ ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Therefore, **Indra**, when your people tremble (with fear), protect them; be to them a defender; may those who are our chief leaders be enjoyers (of your favour), as well as those (your) worshippers who have plural ced us foremost (to perform the sacrifice).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśávaḥ ← āśú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -191,7 +194,8 @@ pári ← pári (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your (juices), purified (**Soma**), all-pervading, quick as thought, go of themselves like the offspring of swift (mares); the celestial well-winged sweet-flavoured juices, great exciters of exhilaration, alight upon the receptacle.”
 </details>

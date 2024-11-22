@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávītāḥ ← ávīta- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -153,11 +156,13 @@ yāhí ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Vāyu**, the oblations yet untested, like (a prince) the terrifier of foes; (bestow) upon the worshipper wealth; come with your brilliant car to drink the **Soma** juice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like a prince the terrifier of foes: vipo rāyo = śatrūṇām vepayitā rājeva
 </details>

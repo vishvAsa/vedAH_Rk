@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágnīparjanyau ← agnī-parjanya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -194,11 +197,13 @@ prajā́vatīḥ ← prajā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** and **Parjanya**, prosper my pious acts; (accept), you who are reverently invoked, our praise at this sacrifice; one of you genitive rates food, the other posterity; grant us, therefore, food productive of descendants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 One of you genitive rates: iḷām anyo janayat garbham **anyaḥ**: Parjanya, by sending rain, causes the growth of corn, and Agni, as the main agent in digestion, produces the vigour necessary for procreation
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 akhyat ← √khyā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -183,11 +186,13 @@ tatāna ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Suparṇa**, (the solar ray), deep-quivering, life-bestowing, well-directed, has illuminated the three regions. Where now is **Sūrya** Who knows to what sphere his rays have extended?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Supraṇa = well-winged, a synonym of **raśmi**, a ray; **asura**, from asu, vital breath; ra, who gives, hence life-giving
 </details>

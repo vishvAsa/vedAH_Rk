@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 mā́nuṣaḥ ← mā́nuṣa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -122,11 +125,13 @@ párvataḥ ← párvata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The house-holder, in dread of your fierce and violent approach, has plural nted a firm (buttress); for the many-ridged mountain is shattered (before you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mānuṣo dadhre, the man has plural nted; mānuṣo is explained: gṛhasvāmī, the master of the house; dadhre is further explained: gṛhadāḍhyārtham dṛḍham stambham, a strong **post** to give stability to the dwelling
 </details>

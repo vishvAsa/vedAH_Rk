@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aṅkuśám ← aṅkuśá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -205,7 +208,8 @@ jánitrī ← jánitrī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you, sapient (**Indra**), wield your might like a long hook; you drag (your foes), **Maghavan**, as a goatwith its fore-foot (drags) a branch; the divine progenitress has given you birth, the auspicious progrenitress hasgiven you birth.”
 </details>

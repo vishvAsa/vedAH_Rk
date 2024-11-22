@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aheṣata ← √hi- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -182,7 +185,8 @@ tanvàm ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty (priests) assembled together send forth (the **Soma**) together; desirous (of heaven) they drive it to the wave of the river; genitive rating praise they nourish the previous body of **Indra** with the streams of the exhilarating Soma.”
 </details>

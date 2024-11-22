@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhāyi ← √dhā- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
 
@@ -210,11 +213,13 @@ sūríbhiḥ ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “My praise has been continually proffered as a protectress, powerful with (the means of) preservation; may the maternal and venerable earth accept our (praises), and, (plural ased) with her pious (worshippers) be (to us) straight-handed, and the giver of good.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As a protectress: **varūtrī** = **asmad** upadravavarayitrī, what or who keeps off oppression upon us
 </details>

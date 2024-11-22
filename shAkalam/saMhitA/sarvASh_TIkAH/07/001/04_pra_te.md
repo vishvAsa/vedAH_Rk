@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáyaḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -150,7 +153,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those radiant fires, at which the well-bon sacrificers assemble, shine more brightly, and are morebountiful bestower of progeny (and other blessings), than the fires (of common life).”
 </details>

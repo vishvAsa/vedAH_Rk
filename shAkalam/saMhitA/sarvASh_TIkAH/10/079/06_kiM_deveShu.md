@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakartha ← √kr̥- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -220,7 +223,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What wrathful act, what sin have you committed among the gods? Ignorant I ask you, **Agni**, sporting(here) not sporting (there), golden-hued; eating what is to be eaten, you cut (your food) into pieces as the knife(cuts up) the cow.”
 </details>

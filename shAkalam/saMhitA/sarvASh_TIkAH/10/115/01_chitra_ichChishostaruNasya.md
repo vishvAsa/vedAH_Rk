@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citráḥ ← citrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ vavákṣa ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wonderful is the conveyance of (the oblation by) the tender infant, who does not come to his parentsto drink, although the udderless (world) gave him birth; he immediately bears (the oblation to the gods) fulfillingthe important office of their messenger.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His parents: heaven and earth, or the two sticks for kindling fire
 </details>

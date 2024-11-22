@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahve ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:MED}
 
@@ -200,11 +203,13 @@ tásyāḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I here, (**ghoṣā**), invoke you. Here my (invocation), **Aśvins**, give me (wealth) as parents give to a son;before (it come) beyond the reach of (a course) that has no relatives, ungrateful, without kinsfolk, without belief,(pursues me); save me from that curse before (it reaches me).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Epithets: anāpiḥ etc. apply to ghoṣā, who,being a leper, could not marry
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āvatam ← √avⁱ- (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -161,11 +164,13 @@ vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You preserved **Vaśa**, **Aśvins**, (that he might obtain) in a single day a thousand acceptable gifts; showerers (of benefits), associated with **Indra**, you destroyed the malignant enemies of **Pṛthuśravas**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vaśa, a ṛṣi, received daily presents to the number of one thousand
 </details>

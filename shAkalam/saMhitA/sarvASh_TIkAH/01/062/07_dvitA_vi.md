@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvitā́ ← dvitā́ (invariable)  
 {}
 
@@ -171,11 +174,13 @@ sudáṁsāḥ ← sudáṁsas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is not to be attained by violence, but (is easily propitiated) by those who praise him with sacred hymns, parted twofold the eternal and united (sphered of heaven and earth); the graceful **Indra** cherished the heaven and earth, like the sun in the august and most excellent sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Ayāsya**: **yaśa**, effort; hence, ayāsya, that which is not attainable by effort (or, not to be overcome in battle)
 </details>

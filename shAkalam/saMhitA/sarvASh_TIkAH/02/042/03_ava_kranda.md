@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -188,7 +191,8 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bird, who are ominous of good fortune, the proclaimer of good luck, cry from the south of our dwellings; may no thief, no evil-doer prevail agains tus; that blessed with excellent descendants we may worthily praise you at this sacrifice.”
 </details>

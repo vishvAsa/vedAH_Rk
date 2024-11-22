@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahā́ntā ← mahā́nt- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -122,11 +125,13 @@ r̥tā́vānau ← ŕ̥tāvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great **Mitra** and **Varuṇa**, the two sovereign and powerful deities, the observers of truth, illumine oursolemn rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sovereign: samrājā = perfectly resplendent, samyag dīpyamānau;
 

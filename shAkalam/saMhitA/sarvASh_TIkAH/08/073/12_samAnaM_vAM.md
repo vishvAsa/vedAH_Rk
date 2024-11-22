@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 sajātyàm ← sajātyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -131,11 +134,13 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, your relationship is common and you have a common kinsman; let your protection abide nearme.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Two Aśvins were both born from the wife of the sun (Vicasvat), who had assumed the form of a mare (cf. RV7.72.2 and the passage from Bṛhaddevatā cited); common kinsman = sacrificial ladle or the ṛṣi himself; cf. RV8.27.10
 </details>

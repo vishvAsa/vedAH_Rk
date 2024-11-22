@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 óṣadhīḥ ← óṣadhī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -157,7 +160,8 @@ kā́māya ← kā́ma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The which have the **Soma** for their king, and are numerous and all- seeking of them you (O Soma) arethe best; be very bountiful to the affectionate heart.”
 </details>

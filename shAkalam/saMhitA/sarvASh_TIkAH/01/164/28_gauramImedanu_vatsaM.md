@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 amīmet ← √mā- 2 ~ mī- (root)  
 {number:SG, person:3, mood:IND, tense:PLUPRF, voice:ACT}
 
@@ -184,7 +187,8 @@ páyobhiḥ ← páyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The cow bellows for her calf, (who stands) with winking eyes, and lows as (she proceeds to lick his forehead; she utters a cry, as, anxious, she sees the moisture in the corners of his mouth, and nourishes him with her milk.”
 </details>

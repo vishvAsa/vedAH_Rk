@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -189,11 +192,13 @@ vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vasiṣṭha**, whos (son) is Pratha by name, and whose (son) is Sapratha, has (with them) borne awayfrom **Dhāta**, and from the radiant **Savitā**, and from **Viṣṇu**, the **rathantara** portion of the oblation which isoffered with the **anuṣṭup** verse.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rathantara: is the **Sāmaveda**; or some hymns of this **Veda**
 </details>

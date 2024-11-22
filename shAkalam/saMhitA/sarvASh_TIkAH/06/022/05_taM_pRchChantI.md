@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pr̥chántī ← √praś- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
 
@@ -183,7 +186,8 @@ túmram ← túmra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He whose ceremonial and eulogistic hymn is commemorating **Indra**, the holder of the thunderbolt, seated in his car, the accepter of many, the doer of many great deeds, the bestower of strength, proceeds promptly to acquire happiness, and encounters (with confidence) the malevolent.”
 </details>

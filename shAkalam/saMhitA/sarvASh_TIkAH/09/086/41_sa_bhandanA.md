@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhandánāḥ ← bhandánā- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -184,7 +187,8 @@ yācatāt ← √yāc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The all-pervading (**Soma**) exfites both day and night all praises easily borne, productive of prosperity; **Indu**, when drunk, solicit **Indra** (to give) us food productive of progeny and riches filling our homes.”
 </details>

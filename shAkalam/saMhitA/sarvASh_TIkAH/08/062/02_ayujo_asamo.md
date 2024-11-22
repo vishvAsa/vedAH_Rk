@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ásamaḥ ← ásama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -169,11 +172,13 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Without a fellow and unlike the other gods, he alone, unconquerable, surpasses the men of formertimes, he surpasses in might all beings; **Indra**'s gifts are worthy of praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Unlike the other gods: nṛbhiḥ =devaiḥ
 </details>

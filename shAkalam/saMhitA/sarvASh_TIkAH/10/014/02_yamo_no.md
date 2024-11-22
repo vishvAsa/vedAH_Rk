@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gātúm ← gātú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -197,11 +200,13 @@ svā́ḥ ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Yama**, the chief (of all), knows our well-being; this pasture no one can take from us; by the road bywhich our forefathers have gone, all who are born (proceed) along the paths they have made for themselveṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yama...from us: Yama first discovered the path for us; this pasture cannot be taken away from us; the paths theyhave made for themselves: i.e., according to their good and evil conduct
 </details>

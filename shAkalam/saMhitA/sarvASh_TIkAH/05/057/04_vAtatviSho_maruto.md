@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -182,7 +185,8 @@ urávaḥ ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts**, radiant with light, purifiers of the rain, like twins of goodly aspect and graceful form, masters of tawny and of ruddy steeds, devoid of guile, thinners (of foes) and vast in magnitude as the sky.”
 </details>

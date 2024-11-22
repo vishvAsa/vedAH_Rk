@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -217,7 +220,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the wealth (to be given by you) come quickly to me, for verily I have glorified you; come to theblessed sacrifice of the offerer of the **Soma**; for you are the lord; sit down upon this sacred grass; these yourcups (of Soma) are not to be insulted by the act (of evil spirits).”
 </details>

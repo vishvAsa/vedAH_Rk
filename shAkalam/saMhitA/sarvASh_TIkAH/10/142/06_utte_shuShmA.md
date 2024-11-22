@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 arcíḥ ← arcís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -212,7 +215,8 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your withering flames, **Agni**, arise; may your light (arise), and the swift movements of you whenyou are praised; rise up, stoop down, increasing in might; may all the **Vasus** this day attend upon you.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -184,11 +187,13 @@ sumnám ← sumná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus, hero, have the **Gṛtsamadas**”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gṛṇāteḥ stutikarmaṇaḥ (**Nirukta** 9.5) fabricated praises to you, as they who are desirous of travelling (construct) roads; may those who worship you, adorable **Indra**, obtain food, strength, habitations and felicity. \[As they who are desirous: avasyavo na vayunāni = gamanam icchantaḥ pumāṃso mārgān yathā kurvanti = as men, wishing to go,make roads
 </details>

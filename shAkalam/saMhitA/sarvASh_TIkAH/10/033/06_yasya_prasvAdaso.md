@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gíraḥ ← gír- ~ gīr- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -118,11 +121,13 @@ raṇvám ← raṇvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Upamaśravas, the words of whose father were sweet, like a plural asant field given to a beggar.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thisand the following ṛcas are explained as the consolatory verses addressed by **Kavaṣa** to Upamaśravas on thedeath of his father king **Mitra**-**tithi**
 </details>

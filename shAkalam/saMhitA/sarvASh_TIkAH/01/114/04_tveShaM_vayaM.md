@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rudrám ← rudrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke for our preservation the illustrious **Rudra**, the accomplisher of sacrifices, the tortuous, the wise; may he remove far from us his celestial wrath, for we earnestly solicit his favour.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The accomplisher of sacrifice: yajñasādham, i.e. sādhayitaram, he who makes the sacrifice well-desired or perfet: sviṣṭam or su iṣṭam; The tortuous: vaṅku, he who goes crookedly
 </details>

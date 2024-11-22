@@ -23,15 +23,18 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhánvasu ← dhánvan- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -170,11 +173,13 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, secure to us well-being on roads, in deserts, well-being in waters, midst the might of assailinghosts; well-being in the son-bearing wombs (of our wives); well-being for (the acquisition of) riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 On roas: indistricts fit for travelling, i.e., well-watered, as opposed to dhanvasu
 </details>

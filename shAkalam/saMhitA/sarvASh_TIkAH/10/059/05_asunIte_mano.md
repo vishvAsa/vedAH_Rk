@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; 11 = 4+7, ending HLX  
 popular
-#### Morph
+_________
+**Morph**  
 asmā́su ← ahám (pronoun)  
 {case:LOC, number:PL}
 
@@ -180,11 +183,13 @@ vardhayasva ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Asunīti, give us back the (departed) spirit; extend our life that we may live (long); establish us that wemay (long) behold the sun; do you cherish the body with the ghī (that we have offered).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Asunīti: liṭ,conductress of breath or **souls**, i.e., who prolongs life
 </details>

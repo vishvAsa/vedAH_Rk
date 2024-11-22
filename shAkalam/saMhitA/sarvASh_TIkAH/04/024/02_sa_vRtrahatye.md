@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávyaḥ ← hávya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ várivaḥ ← várivas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, **Indra**, is to be invoked for the destruction of **Vṛtra**; he, the deservedly praised, is to be worshipped; the real donor of wealth, he, **Maghavan**, gives wealth, (acquired) in battle, to the mortal offers him prayer and libations.”
 </details>

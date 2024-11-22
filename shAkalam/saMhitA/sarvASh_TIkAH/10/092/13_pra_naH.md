@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carátham ← carátha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ yā́mani ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Pūṣan** protect all our moveable (property); may **Vāyu**, the friend of the **Viśvedevās**, thegrandson of the waters, preserve us for the celebration of the sacrifice. Worship the wind, the **soul** of all, (toobtain) excellent (food); **Aśvins**, who are worthy to be invoked, hear us on your way.”
 </details>

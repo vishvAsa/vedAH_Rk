@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥tā́ni ← √kr̥- (root)  
 {case:NOM, gender:N, number:PL, non-finite:PPP}
 
@@ -215,7 +218,8 @@ váhate ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the libation is offered, **Indra**, we celebrate your exploits; those (exploits) which you have been praised (to achieve) for us; let him who is ignorant acquire knowledge (of them); let him who is acquainted (with them) make them known; this **Maghavan** (is) the lord of hosts.”
 </details>

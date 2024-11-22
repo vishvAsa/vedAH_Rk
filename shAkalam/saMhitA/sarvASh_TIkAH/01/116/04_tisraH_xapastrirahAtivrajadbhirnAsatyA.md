@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhā ← áhar ~ áhan- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -178,7 +181,8 @@ tribhíḥ ← trí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Threenights, and three days, **Nāsatyas**, have you conveyed **Bhujyu** in three rapid, revolving cars, having a hundred wheels, and drawn by six horses, along the dry bed of the ocean to the short of the sea.”
 </details>

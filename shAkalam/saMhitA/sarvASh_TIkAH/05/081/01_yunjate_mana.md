@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhíyaḥ ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -218,11 +221,13 @@ savitúḥ ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise apply their minds; they perform sacred rites for the propitiation of the intelligent, great, adorable **Savitā**; he alone, knowing their functions, directs the priests; verily, great is the praise of the divine Savitā.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 5.14; viprasya bṛhato **vipaścitaḥ** are epithets of Savitā
 </details>

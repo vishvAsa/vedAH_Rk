@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {case:NOM, gender:F, number:DU}
 
@@ -209,11 +212,13 @@ víṣuṇam ← víṣuṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These two keep all born things discrete, and, although comprehending the great divinities, are not distressed; all moving and stationary beings rest upon one (basis), whether animals, or birds, or creatures of various kinds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Keep all born things discrete: heaven and earth all that is born distinct, by furnishing interval or space, avakāśapradānena
 </details>

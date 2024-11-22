@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āsú ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -192,11 +195,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “While dwelling in these durable worlds, may **Varuṇa** loose our bonds; may we be enjoyers of theprotection (which has been given by him) from the lap of **Aditi**, and do you (gods) ever cherish us with blessingṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aditi = **Pṛthivī**, earth
 </details>

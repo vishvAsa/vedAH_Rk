@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśnā ← áśman- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ jahi ← √han- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pierce, **Bṛhaspati**, with a radiant shaft, as with a thunderbolt, the sons of the **asura** guarding his gates; in like manner as you did formerly slay **Vṛtra** by your own prowess, so do you now destroy our enemy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛhaspati = **Indra**
 </details>

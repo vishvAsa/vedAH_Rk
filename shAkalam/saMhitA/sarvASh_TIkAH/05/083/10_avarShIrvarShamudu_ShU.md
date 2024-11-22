@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ávarṣīḥ ← √vr̥ṣ- 1 (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -189,7 +192,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have rained; now check well the rain; you have made the deserts capable of being crossed; you have given birth to plural ns for (man's) enjoyment; verily you have obtained laudation from the people.”
 </details>

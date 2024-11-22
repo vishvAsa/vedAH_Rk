@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhavantu ← √bhū- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -169,11 +172,13 @@ yuyavan ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Vājins**, with slackened speed, bringing excellent food, be (disposed) for our happiness, uponour invocations at the worship of the gods; destroying the murderer, the robber, the **rākṣasas**, and keepingfrom us ancient maladies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vājins: etadabhidhāyakādevataḥ, divinities so denominated; or **aśvaḥ**, horse;
 

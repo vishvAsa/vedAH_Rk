@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 agástyasya ← agástya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -139,7 +142,8 @@ víśvān ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yoke the two red horses to your chariot, for the nephews of **Agastya**, and overcome, **rājā**, all theniggard withholders of oblations.”
 </details>

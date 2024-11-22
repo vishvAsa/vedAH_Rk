@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -195,7 +198,8 @@ jánitrī ← jánitrī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you, **Indra**, **Śatakratu**, shake down (upon us) all blessings, (then bestow) upon the offerer of thelibation wealth also, together with your thousandfold protections; the divine progenitress has given you birth, theauspicious progrenitress has given you birth.”
 </details>

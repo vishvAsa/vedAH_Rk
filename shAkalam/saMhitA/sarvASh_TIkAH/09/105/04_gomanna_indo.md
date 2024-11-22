@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvavat ← áśvavant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -148,11 +151,13 @@ várṇam ← várṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful **Indu** who are effused, pour upon us (wealth) comprising cattle and horses; I mix the pure juice with the curds and milk.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sāma veda** reads **dhāraya** for ddīdharam
 </details>

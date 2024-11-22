@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -192,7 +195,8 @@ priyā́ḥ ← priyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, rich in food, lords of water, twin (associates), may your good will devolve (upon us), may thedesires (of our hearts) be attained; you have been my protectors; may we, (being) beloved, attain the habitationof a husband.”
 </details>

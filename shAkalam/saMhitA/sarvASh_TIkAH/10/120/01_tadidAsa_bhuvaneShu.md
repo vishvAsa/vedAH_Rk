@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āsa ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -197,11 +200,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That was the chiefest in all worlds, from whence the fierce one, the rich in radiance, was born; assoon as born, he destroys the foes, he in whom all living beings delight.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That, is **Brahman**, the first cause: sadyohyeṣa **jātaḥ** pāpmānamapāhata: **Aitareya** **Āraṇyaka** 1.3.4 (cf. **Yajus**. 33.20; 14.24: ādityam, the sun, thefirst light);
 

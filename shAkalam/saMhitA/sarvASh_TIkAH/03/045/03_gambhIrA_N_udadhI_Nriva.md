@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gambhīrā́n ← gambhīrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -170,7 +173,8 @@ kulyā́ḥ ← kulyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You cherish the celebrator of the pious rite as you fill the deep seas (with water); or as a careful herdsman (cherishes) the cows; (you imbibe the **Soma**) as cows (obtain) fodder, (and the Soma juices) flow into you as rivulets flow into a lake.”
 </details>

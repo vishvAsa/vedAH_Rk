@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥dhyā́ma ← √r̥dh- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
 
@@ -214,11 +217,13 @@ kā́mam ← kā́ma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we increase our praise, ( **Aśvins**), may we offer you food, come hither in the same chariot to ourworship; and accept the sweet food prepared from within the cows. Bhūtāṃs;a has fulfilled the desires of thelearned.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The **Aśvinī** **sūkta** has been translated, though tough to explain, within a short compass, diṅmātrampradarśitam and deduction is left to the learned to interpret based on etymology, grammar, etc.
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adáḥ ~ adó ← asaú (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -133,11 +136,13 @@ me ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether, immortal (**Aśvins**), you rejoice in the water of the firmament, or in the dwelling of theworshipper hear this my (invocation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Worshipper: iṣo vāgṛhe yuvām icchato yajamānasya
 </details>

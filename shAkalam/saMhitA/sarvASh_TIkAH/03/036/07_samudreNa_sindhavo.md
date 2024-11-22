@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 samudréṇa ← samudrá- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -154,7 +157,8 @@ punanti ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the rivers are solicitious (to mix) with the ocean, so (are the priests) bearing the efficient libation to **Indra**; holding in their **hands** they milk the **Soma**, and purify the sweet Soma (as they fall) indrops through the purifying filters.”
 </details>

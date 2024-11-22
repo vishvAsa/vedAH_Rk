@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áganma ← √gam- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -178,7 +181,8 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us approach with profound reverence the youngest (of the gods), who shines when kindled in hisown abode; who is blazing wonderfully between heaven and earth, and, piously invoked, is coming from everyquarter.”
 </details>

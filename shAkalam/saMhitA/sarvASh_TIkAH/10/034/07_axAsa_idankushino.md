@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akṣā́saḥ ← akṣá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -150,11 +153,13 @@ sámpr̥ktāḥ ← √pr̥c- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dice verily are armed with hooks, with goads, pricking, paining and torturing (the gamester); to thewinning (plural yer) they are the givers of sons, they are tipped with honey; slaying him in return by taking away thegambler's (all).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They are the givers of sons: by acquiring wealth through their means a family may be reared; bytaking the gambler's all: barhaṇa = parivṛddheṇa sarvasvaharaṇena
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 anyā́su ← anyá- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -219,11 +222,13 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the showerer roars in other (regions) he sends down the rain upon a different herd, for he is the victor, the auspicious, the sovereign; great and unequalled is the might of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Upon a different herd: anyasmin yūthe, a herd, or troop,of regions, diśām vṛnde
 </details>

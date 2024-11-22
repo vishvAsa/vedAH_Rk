@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥ṇudhvam ← √kr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -205,7 +208,8 @@ vásvīḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Prevail, (priests), by your prayers, on **Vāyu**, the divine, the fulfiller of desires, the adorable, to harness his chariot; may the light-moving accepters of sacrifice, the lovely and excellent wives (of the gods), come hither to our rite.”
 </details>

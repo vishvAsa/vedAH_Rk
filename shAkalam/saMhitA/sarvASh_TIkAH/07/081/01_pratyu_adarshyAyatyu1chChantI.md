@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adarśi ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -174,7 +177,8 @@ sūnárī ← sūnára- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The daughter of heaven is everywhere beheld advancing and shedding light; she drives away the deepdarkness that objects may meet the eye; the kind guide of man, she diffuses light.”
 </details>

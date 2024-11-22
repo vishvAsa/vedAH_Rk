@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhidrúhe ← abhidrúh- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ uraú ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable **Ādityas**, may I pass (safe) in your car from the illusions which (you devise) for the malignant, the snares which are spread for your foes, (in like manner) as a horseman (passes over a road); and thus may we abide secure in infinite felicity.”
 </details>

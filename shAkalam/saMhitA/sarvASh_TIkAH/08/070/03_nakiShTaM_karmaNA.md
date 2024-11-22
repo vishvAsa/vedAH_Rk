@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kármaṇā ← kárman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -169,7 +172,8 @@ dhr̥ṣṇvòjasam ← dhr̥ṣṇvòjas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “None can touch him by his deeds, who has made **Indra** his friend by sacrifices-- (Indra) ever givingfresh strength, to be hymned by all, great, unconquered, of ever-daring might.”
 </details>

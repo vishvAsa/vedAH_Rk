@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bravā ← √brū- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -231,11 +234,13 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I proclaim, **Aśvins**, your ancient exploits among the people, for you were the physicians, the bestowersof felicity; we count you two worthy to be praised for (our) preservation; so that this worshipper Na-**satyās**, maybelieve (in you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This worshipper: ariḥ = enemy;; or, goer, lord, worshipper
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ichánti ← √iṣ- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -177,7 +180,8 @@ tvát ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bearers of the libations desire you; your friends pour forth the **Soma**; they offer copious oblations; (supported by) you they endure patiently the calumny of men, for who is so renowned as you are.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhr̥ṣṭāḥ ← ádhr̥ṣṭa- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -202,7 +205,8 @@ sūrī́n ← sūrí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Son of strength, **Jātavedas**, with those unobstructed (splendours) which belong to you, a munificentdonor, and with those praises wherewiḥ you protect people with their posterity, do you protect us yourworshippers and praisers.”
 </details>

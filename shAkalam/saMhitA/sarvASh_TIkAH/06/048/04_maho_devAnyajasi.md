@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ānuṣák ← ānuṣák (invariable)  
 {}
 
@@ -187,7 +190,8 @@ vaṁsva ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You sacrifice to the mighty gods; sacrifice (for us) continually, for (sacrifice is perfected) by your wisdom and your acts; bring them down, **Agni**, for our salvation; present (to them) the sacrificial food, partake of it yourself.”
 </details>

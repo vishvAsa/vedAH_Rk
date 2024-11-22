@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dúdhitam ← dúdhita- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -198,7 +201,8 @@ vr̥jinā́ ← vr̥jiná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The scattered darkness was destroyed; the firmament glowed with radiance; the lustre of the divine dawn arose; then the sun stood above the undecaying mountains, beholding all that was right or wrong among mankind.”
 </details>

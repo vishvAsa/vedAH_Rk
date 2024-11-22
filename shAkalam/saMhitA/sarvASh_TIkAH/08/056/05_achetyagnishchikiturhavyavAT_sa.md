@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 áceti ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -169,7 +172,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The shining **Agni** has appeared, the bearer of the oblation, with his chariot; Agni has gleamed forthbrilliantly with his bright flame as **Sura**, he has gleamed forth in heaven as **Sūrya**.”
 </details>

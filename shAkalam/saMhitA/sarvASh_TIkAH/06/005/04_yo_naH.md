@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhidā́sat ← √dās- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -188,7 +191,8 @@ tapiṣṭha ← tápiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, protector of (your) friends, who are most resplendent, blazing with radiance, consume with your own imperishable flames him who injures us abiding in secret, or when near to us design us harm.”
 </details>

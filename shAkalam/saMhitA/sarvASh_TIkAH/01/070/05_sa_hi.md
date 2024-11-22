@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -119,11 +122,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[5-6\] **Agni**, the lord of night, grants riches to the worshipper who adores him with sacred hymns. Agni, who are omniscient, and know the origin of gods and men, protect all these (beings dwelling) upon earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kśapāvān: capable of destroying (the **rākṣasas**); or, having or possessing the night; **āgneyi** vai **rātriḥ**, night is characterized by Agni (**Taittirīya** **Brāhmaṇa** 2.1.2.7); agnirjyotiḥ jyotiragniḥ **svāhā** (**agnyādheya** ceremony: Taittirīya **Āraṇyaka** 4.10.5)
 </details>

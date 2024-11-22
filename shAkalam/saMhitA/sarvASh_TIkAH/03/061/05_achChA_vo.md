@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -194,11 +197,13 @@ ruruce ← √ruc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer, with your prostrations, due praise to the divine Uṣas, shining upon yoou; the repository of sweetness manifests her brightness aloft in the sky, and radiant and lovely lights the regions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The repository of sweetness: madhudhā: **madhu** may mean sweet words of praise, madhurāṇi **stuti** lakṣaṇāni vākyāni, or simply praise, **stoma**; or, it may be the name of Uṣas; dhā is that which has or holds; lights the regions: cf. RV. 1.49.4
 </details>

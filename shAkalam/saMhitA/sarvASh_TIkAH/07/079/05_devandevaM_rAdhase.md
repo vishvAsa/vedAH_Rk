@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 codáyantī ← √cud- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
 
@@ -172,11 +175,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inspiring every individual devout (worshipper) with a desire for wealth, addressing to us the words oftruth, diffusing the light of morning, bestow upon us understanding (fit) for the acquisition of riches; and do you,(gods), ever cherish us with blessings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Addressing to us words of truth: asmadryak sunṛtā īrayantī:asmadryak = asmadabhimukham;
 

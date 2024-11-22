@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -201,7 +204,8 @@ jī́vantaḥ ← √jīv- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May heaven and earth, may the waters, may **Indra**, and the **Maruts**, hear this our invocation and thisour praise; may we not be in sorrow at the sight of the Sun; diving long, may we attain a prosperous old age.”
 </details>

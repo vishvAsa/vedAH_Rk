@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kadhapriye ← kadhapriya- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -117,11 +120,13 @@ vibhāvari ← vibhā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, who are plural ased by praise, what mortal enjoy you, immortal? Whom, mighty one, do your affect?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Uṣas = dawn, dyudevatāyāḥ **duhitṛ**, daughter of the person nified heaven
 </details>

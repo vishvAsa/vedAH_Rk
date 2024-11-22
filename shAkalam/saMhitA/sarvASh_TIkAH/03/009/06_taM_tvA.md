@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agr̥bhṇata ← √gr̥bhⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -161,7 +164,8 @@ yaviṣṭhya ← yáviṣṭhya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bearer of oblations,men apprehend you (thus concealed) for the service of the gods, and that you youngest (of the deities) and friendly to manking, may recompense by your acts all their pious rites.”
 </details>

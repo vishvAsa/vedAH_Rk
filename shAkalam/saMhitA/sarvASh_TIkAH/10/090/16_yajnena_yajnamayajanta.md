@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ayajanta ← √yaj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -192,7 +195,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By sacrifice the gods worshipped (him who is also) the sacrifice; those were the first duties. Those great ones became partakers of the heaven where the ancient deities the **Sādhyas** abide. ”
 </details>
@@ -206,13 +210,15 @@ where the ancient Sādhyas and the gods are.
 
 <details><summary>Whitney</summary>
 
-### Translation
+_________
+**Translation**  
 1. By the sacrifice the gods sacrificed to the sacrifice; those were  
    the first ordinances (*dhárman*); those greatnesses attach themselves to  
    (*sac*) the firmament, where are the ancient (*pū́rva*) perfectible  
    (*sādhyá*) gods.
 
-### Notes
+_________
+**Notes**  
 The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
 5. 11⁵), TA. (iii. 12. 7), MS. (iv. 10. 3), CB. (x. 2. 2³, with  
    comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  

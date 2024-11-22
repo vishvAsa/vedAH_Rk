@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhāḥ ← √dhā- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -192,7 +195,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who is constantly seeking (association) with your allies (the **Maruts**) accept this, our offering (made) for the grant (from you of riches); for you are one who grows with augmenting energies, through reiterated libations, and has been renowned for glorious deeds.”
 </details>

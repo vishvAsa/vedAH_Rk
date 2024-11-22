@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhárgaḥ ← bhárgas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,7 +211,8 @@ r̥tásya ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether **Bharga** is the name of that radiance, on the triple seat of which those who are gods areseated, as if in heaven, or whether it be **Agni**, or **Jātavedas**; invoker (of the gods), who are the ministrant priestof the sacrifice, hear our guileless invocation.”
 </details>

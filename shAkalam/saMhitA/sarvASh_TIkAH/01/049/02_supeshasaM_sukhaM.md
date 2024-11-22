@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rátham ← rátha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, in the ample and beautiful chariot in which you ride, come today, daughter of heaven, to the pious offerer of the oblation.”
 </details>

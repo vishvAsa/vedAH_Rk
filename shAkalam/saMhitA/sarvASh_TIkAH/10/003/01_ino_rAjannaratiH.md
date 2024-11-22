@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aratíḥ ← aratí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -172,11 +175,13 @@ rúśatīm ← rúśant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Royal **Agni**, (you are) the lord (of all). He who is the conveyer of the oblation, the radiant, theformidable, the recipient of the **Soma**, is manifested for the benefaction (of the worshipper); all-knowing, heshines forth with great lustre; he proceeds, scattering the glimmering darkness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Glimmering darkness: anallusion to the burnt sacrifices at sunset and in the morning; asiknim eti ruśatīm apājan = śvetavarṇāmdīptim apagamayan = he goes to the night driving away the white shining light
 </details>

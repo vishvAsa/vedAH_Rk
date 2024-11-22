@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 návebhiḥ ← náva- 2 (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -198,7 +201,8 @@ vivakmi ← √vañc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like a man boasting of his wife, I glorify that **Indra** who is invoked of many, who is hymned by recent sages (who is) like a tree with ripe fruit, like a victorious (warrior), skilful in arms.”
 </details>

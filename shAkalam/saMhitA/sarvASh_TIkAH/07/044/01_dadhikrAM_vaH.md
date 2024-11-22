@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -191,7 +194,8 @@ svàr ← svàr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For your preservation, (worshippers), I invoke, first, Dadhikrā, then the **Aśvins**, the Dawn, the kindledAgni, **Bhaga**, **Indra**, **Viṣṇu**, **Pūṣan**, **Brahmaṇaspati**, the **Ādityas**, heaven and earth, the waters, the sun.”
 </details>

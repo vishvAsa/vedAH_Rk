@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ tmánā ← tmán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your favours, **Indra**, and your bounties, whether old or new, cannot be counted like the (recurring)dawn; you have slain **Devaka**, the son of Mānyamāna, and of thine own will, has cast down **Śambara** from thevast (mountain).”
 </details>

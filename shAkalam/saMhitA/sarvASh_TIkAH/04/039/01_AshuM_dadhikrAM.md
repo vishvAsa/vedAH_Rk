@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśúm ← āśú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ víśvāni ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily we praise that swift Dadhikrā and scatter (proved before him) from heaven and earth; may the gloom-dispelling dawns preserve for me (all good things), and bear me beyond all evils.”
 </details>

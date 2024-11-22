@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 purumandrā́ ← purumandrá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -133,7 +136,8 @@ váhnī ← váhni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Delighters of many, abonding in wealth, bestowers of riches, **Aśvins**, sustainers of all, approve of thismy adoration.”
 </details>

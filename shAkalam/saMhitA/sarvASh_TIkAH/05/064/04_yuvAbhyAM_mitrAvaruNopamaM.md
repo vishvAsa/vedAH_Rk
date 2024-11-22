@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -136,7 +139,8 @@ stotr̥̄ṇā́m ← stotár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I obtain from you, **Mitra** and **Varuṇa**, by my praise, such
 wealth as to excite envy in the dwellings of the rich and the devout.”

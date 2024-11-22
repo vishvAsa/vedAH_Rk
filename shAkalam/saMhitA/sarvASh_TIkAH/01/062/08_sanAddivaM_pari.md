@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ma ← bhū́man- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ vápurbhiḥ ← vápus- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Night and dawn), of various complexion, repeatedly born, but ever youthful, have traversed in their revolutions alternately, from a remote period, earth and heaven; night with her dark, dawn with her luminous limbs.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -153,7 +156,8 @@ vrajám ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, **Pūṣan**, is cognizant of such excellent praises; like **Soma** he is the showerer (of benefits); thegraceful deity rains down upon us, he rains upon our cow-pastures.”
 </details>

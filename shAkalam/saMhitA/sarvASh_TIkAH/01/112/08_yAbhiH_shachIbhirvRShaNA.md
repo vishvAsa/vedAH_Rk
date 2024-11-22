@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 parāvŕ̥jam ← parāvŕ̥j- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -211,11 +214,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerers (of benefits), with those aids by which you enabled (the lame) Parāvṛj (to walk), the blind (**Ṛjraśva**) to see, and (the cripple) **Śroṇa** to go, and by which you set free the quail when seized (by a wolf); with those aids, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Parāvṛj, Ṛraśva and Śroṇa were ṛṣis. Prāndha was a totally blind ṛṣi (Ṛjraśva); Śroṇa is said to have been made to walk, though not a cripple. **Vārttika** = quail, may also be a bird like a sparrow
 </details>

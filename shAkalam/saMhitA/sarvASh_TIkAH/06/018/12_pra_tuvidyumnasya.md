@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghŕ̥ṣveḥ ← ghŕ̥ṣvi- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ sáhyoḥ ← sáhyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The vastness of the affluent, ancient (**Indra**), the demolisher (of foes), exceeds that of the heaven and the earth; there is no antagonist, no counterpart, no recipient of him abounding in wisdom, victorious (in war).”
 </details>

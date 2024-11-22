@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Three thousand three hundred and thirty-nine divinities have worshipped **Agni**; they have sprinkled him with melted butter; they have spread for him the sacred grass; and have seated him upon it as their ministrant priest.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 33.7; three thousand: Bṛhadāraṇyaka (3.9), gives the number as 3333 according to the gloss of **Ānandagiri**, adding eight **Vasus**, eleven **Rudras**, and twelve **Ādityas**, with **Indra** and **Prajāpati**
 </details>

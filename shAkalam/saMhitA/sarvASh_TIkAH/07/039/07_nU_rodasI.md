@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhíṣṭute ← √stu- (root)  
 {case:NOM, gender:F, number:DU, non-finite:PPP}
 
@@ -182,7 +185,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven and earth are now glorified by the **Vasiṣṭhas**, as are **Varuṇa**, the objec of worship, and Mitraand **Agni**; may they, the conferrers of joy, bestow upon us excellent food; and do you (all) ever cherish us withblessings.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaraśríyaḥ ← adhvaraśrī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -180,7 +183,8 @@ yójanāni ← yójana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who, radiant in sacrifices like the rays of the dawn, shine with their ornaments like those expectant ofgood fortune, (who) swift-moving like rivers, having bright weapons, have traversed leagues like mares who havejourneyed from far, (may they come to our sacrifice).”
 </details>

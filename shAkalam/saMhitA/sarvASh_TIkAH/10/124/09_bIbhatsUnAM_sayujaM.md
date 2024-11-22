@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 āhuḥ ← √ah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -168,11 +171,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage called the sun the ally of those who are frightened, abiding in the friendship of the waters ofheaven; the wise have honoured with their praise **Indra**, who ceaselessly moves after the **Anuṣṭup**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Anuṣṭup:or, the ceaselessly moving Indra, who is worthy to be praised with an Anuṣṭup; or, anuṣṭubham = one who isdeserving of praise (anuṣṭobhanīyam)
 </details>

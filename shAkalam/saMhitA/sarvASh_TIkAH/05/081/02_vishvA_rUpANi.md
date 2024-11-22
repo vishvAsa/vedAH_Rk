@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavíḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,11 +200,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise **Savitā** comprehends all forms (in himself); he has engendered what is good for biped and quadruped; the adorable Savitā has illumed the heaven, and shines in sequence to the passage of the Dawn.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 13.3; savitā comprehends all forms in himself: **viśva** rūpāṇi pratimuñcate, he liberates, severally, all forms = ātmani badhnāti or dhārayati he binds or holds in himself; or,he makes all forms manifest in their own substance, by removing darkness; has illumed the heaven: nākam vyākhyat = svargam prakāśayati, he makes manifest **svarga** as the reward of the **yajamāna**
 </details>

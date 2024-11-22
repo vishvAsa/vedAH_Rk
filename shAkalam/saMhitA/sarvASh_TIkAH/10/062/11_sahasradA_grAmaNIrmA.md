@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 grāmaṇī́ḥ ← grāmaṇī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ yásmin ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the donor of a thousand (cows), the head of the district, the **Manu**, never suffer wrong, may hisliberality go spreading (in glory) with the sun; may the gods prolong the life of **Sāvarṇi** (from whom) unwearied(in his service) we enjoy abundant food.”
 </details>

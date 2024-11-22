@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ devéṣu ← devá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your opulent worshippers, **Agni**, obtain (abundant) food; may the learned (who praise you) and offer you (oblations), acquire long life; may we gain in battles booty from our foes, presenting their portion to the gods for (the acquisition of) renown.”
 </details>

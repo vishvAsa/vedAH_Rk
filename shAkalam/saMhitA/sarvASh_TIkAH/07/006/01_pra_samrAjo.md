@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásurasya ← ásura- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -167,11 +170,13 @@ vivakmi ← √vañc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I salute the demolisher (of cities), glorifying the excellence of the powerful **male**, the universal sovereignwho is the reverenced of all men; I proclaim his exploits (which are) like those of the mighty **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Demolisher ofcities: dārum vande = **puram** bhettāram
 </details>

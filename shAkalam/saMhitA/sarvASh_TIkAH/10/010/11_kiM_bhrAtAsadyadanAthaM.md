@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anāthám ← anāthá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,11 +211,13 @@ tanvàm ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yami** speaks). Is he a brother whose sister has no lord? Is she a sister (whose brother) misfortuneapproaches? Overcome by desire, I strongly urge this one request; unite your person n with mine.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Misfortune:decay; **Nirṛti** is a person nification. The meaning is, a true brother will not let his sister lack a husband, and a truesister will not let her brother lack a wife
 </details>

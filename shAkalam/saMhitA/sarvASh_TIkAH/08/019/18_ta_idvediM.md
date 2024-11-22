@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́hutim ← ā́huti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -211,7 +214,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Auspicious (**Agni**), they have set up the altar, have presented oblations, have expressed the libation ona (fortunate) day; they have won by their efforts infinite wealth who have plural ced their affection upon you.”
 </details>

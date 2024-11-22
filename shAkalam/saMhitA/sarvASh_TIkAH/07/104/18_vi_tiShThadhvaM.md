@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 icháta ← √iṣ- 2 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -198,11 +201,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Stay, **Maruts**, among the people, desirous (of protecting them); seize the **rākṣasas**, grind them intopieces; whether you fly about like birds at night, or whether they have offered obstruction to the sacred sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desirous of protecting them: or, be plural ased (to destroy the rākṣasas)
 </details>

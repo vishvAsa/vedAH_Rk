@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sahasrajit ← sahasrajít- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -113,7 +116,8 @@ ukthyàḥ ← ukthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Victor over thousands, you favour, when kindled our holy rites, the honoured messenger of the gods.”
 </details>

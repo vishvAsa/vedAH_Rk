@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áhvat ← √hū- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -199,11 +202,13 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Śunahśepas, seized and bound to the three-footed tree, has invoked the son of **Aditi**; may the regal **Varuṇa**, wise and irresistible, liberate him; may he let loose his bonds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Triṣu drupadeṣu: druḥ (a tree) is a reference to the tripod-like sacrificial **post**
 </details>

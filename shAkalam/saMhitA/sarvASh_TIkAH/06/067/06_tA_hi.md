@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -208,11 +211,13 @@ dyā́m ← dyú- ~ div- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You manifest vigour daily, you strengthen the summit of the sky as if with a pillar; the solid firmamen and the universal deity (the sun) replenish earth and heaven with the food of man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As if with a pillar: upamād iva: upamāt = **sthūṇa**, a **post** or pillar-- the post to which a calf is tied
 </details>

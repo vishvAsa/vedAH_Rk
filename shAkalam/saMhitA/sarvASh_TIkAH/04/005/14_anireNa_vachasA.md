@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aniréṇa ← anirá- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -159,11 +162,13 @@ sacantām ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Men are) not satisfied by unproductive, frivolous, inconclusive, scanty speech; then what, **Agni**, do they here say to you? devoid of the implements (of worship), let them suffer from distress.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., if they pretend to worship Agni without the oblation, and other materials of a burnt offering, they cannot expect his favour
 </details>

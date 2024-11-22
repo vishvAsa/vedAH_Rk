@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáyaḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -172,7 +175,8 @@ suṣā́va ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ssacred fires, the instrumental uments of holy sacrifice the conveyers of libations, praise the associated **Aśvins** at the break of day, when the observant (priest) the conductor of the rite, with washed **hands** has expressed by the (grinding) stones the sweet-flavoured **Soma** juice.”
 </details>

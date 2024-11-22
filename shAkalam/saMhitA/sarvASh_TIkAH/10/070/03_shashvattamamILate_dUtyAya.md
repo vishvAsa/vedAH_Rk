@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūtyā̀ya ← dūtyà- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -168,7 +171,8 @@ vakṣi ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men offering oblations adore the eternal **Agni** to (induce him to perform) the duty of messenger (to thegods); do you with your stalwart draught horses and your well-turning chariots bear (our offering) to the gods,and sit down here as the ministrant priest.”
 </details>

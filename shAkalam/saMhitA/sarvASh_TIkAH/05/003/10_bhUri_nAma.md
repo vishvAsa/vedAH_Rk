@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ri ← bhū́ri- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -178,11 +181,13 @@ vāvr̥dhānáḥ ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorifying you, he offers the copious oblation, if, bestower of dwellings, you as a father are plural ased to accept it; **Agni**, ever augmenting, and desirous (to be friend), by hismight, the devout (worshipper, offering) copious oblations, bestows upon him happiness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He offers the copious oblation: **bhūri** **nāma** vandamāno dadhāti: nāma may mean oblation, **havis**; or, the rendering may be: praising your many names he offers oblations
 </details>

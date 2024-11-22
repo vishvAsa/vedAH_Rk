@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sácā ← sácā (invariable)  
 {}
 
@@ -176,11 +179,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the same time the sun sends forth his rays, and, rising, renders the plural nets luminous; so, Uṣas,upon your manifestation, and that of **Sūrya**, may we become possessed of sustenance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Renders the plural nets:the moon and plural nets shine at night with light derived from the solar ray: saurena tejasā hi naktamchandraprabhṛtīni **nakṣatrāṇi** bhasante
 </details>

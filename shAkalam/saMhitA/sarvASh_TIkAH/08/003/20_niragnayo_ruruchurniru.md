@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáyaḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -203,7 +206,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you had expelled the mighty Ahi from the firmament, then the fires blazed out, the sun shoneforth, the ambrosial **Soma** destined for **Indra** flowed out, and you, Indra, did manifest your manhood.”
 </details>

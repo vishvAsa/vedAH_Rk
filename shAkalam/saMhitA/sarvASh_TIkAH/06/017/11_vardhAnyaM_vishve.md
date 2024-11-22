@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ vr̥traháṇam ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you, **Indra**, whom all the **Maruts**, alike plural ased, exalt, may **Pūṣan** and **Viṣṇu** dress for you a hundred buffaloes, and to him may the three streams flow with the inebriating, foe-destroying **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dress for you a hundred buffaloes: pacat śatam mahiṣān tubyam, may he cook for you a hundred **male** animals; pum-paśūn pacet; three streams: triṇi sarāṃsi = three cups or vessels called āhavanis, holding the soma which has been purified or filtered into the pitcher, the droṇakalaśa
 </details>

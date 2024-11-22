@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhójanam ← bhójana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -213,7 +216,8 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(You are he) who bestows both food and increase, and milk the dry nutritious (grain) from out of the humid stalk; he, who gives wealth to the worshipper, and are sole sovereign of the universe you are he, (**Indra**), who is to be praised.”
 </details>

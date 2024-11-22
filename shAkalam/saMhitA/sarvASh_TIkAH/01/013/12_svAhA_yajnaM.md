@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 kr̥ṇotana ← √kr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -128,11 +131,13 @@ tátra ← tátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Perform the sacrifice conveyed through **Svāhā** (= an exclamation used in pouring the oblation on the fire) to **Indra**, in the house of the worshipper; therefore I call the gods hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svāhā = an exclamation used in pouring the oblation on the fire, also identified with **Agni**. Svāhā is called the daughter of **Bṛhaspati**, son of **Aṅgiras** (**Mahābhārata**); she is also the daughter of **Dakṣa** and wife of Agni
 </details>

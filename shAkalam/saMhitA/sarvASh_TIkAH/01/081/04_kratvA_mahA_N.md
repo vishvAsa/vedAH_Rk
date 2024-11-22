@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anuṣvadhám ← anuṣvadhám (invariable)  
 {}
 
@@ -176,7 +179,8 @@ vájram ← vájra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty through sacrifice, formidable (to foes), partaking of the sacrificial food, **Indra** has augmented his strength; plural asing in appearance, having a handsome chin, and possessing (bright) coursers, he grasps the metal thunder-bolt in his contiguous **hands** for (our) prosperity.”
 </details>

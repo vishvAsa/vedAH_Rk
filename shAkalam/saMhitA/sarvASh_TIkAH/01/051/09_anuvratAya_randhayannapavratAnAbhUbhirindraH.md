@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánuvratāya ← ánuvrata- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** abides, humbling the neglecters of holy acts in favour of those who observe them; and punishing those who turn away from his worship in favour of those who are present (with their praise); Vamra, while praising him, whether old or adolescent, and spreading through heaven, carried off the accusative ulated (materials of the sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vamro vijaghāna samdihaḥ = vamra destryed the collections. Vamra, a ṛṣi, when Indra was absent, carried away the accusative ulated heap of offerings, the marrow or essence of the earth, yad **valmika**-vap_sambhāro **bhavati** ūrjjam eva pṛthivyāḥ
 </details>

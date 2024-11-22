@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -196,7 +199,8 @@ yātudhā́nāḥ ← yātudhā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily the pious praise you, (**Indra**), the giver of wealth in your repeated exhilaration; spread out for usresolute Indra, great and durable (affluence); may the malignant **yātudhānas** never harm you.”
 </details>

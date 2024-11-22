@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 íṣam ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -127,11 +130,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the pious worshipper offers you, **Maruts**, food at the three diurnal rites, then you havesovereignty over the mountains.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Food at the three diurnal rites: triṣṭubham iṣam: chief at the three dailylibations, triṣu savaneṣu praśasyam; praised by the three deities, tribhir devaiḥ stutam; accompanied by hymnsin the **triṣṭubh** metre, i.e., the **Soma** offering at the mid-day libation
 </details>

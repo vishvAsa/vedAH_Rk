@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -211,11 +214,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, divine **Agni**, who kno what is good fortune, on this occasion prolong our existence, and may **Mitra**, **Varuṇa**, **Aditi**, ocean, earth and heaven, preserve it to us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The second **pāda** of this hymn terminates the following **sūktas** from 95 to 101 (with teo exceptions). **Sindhu**: divinity presiding over, or identified with, flowing water; and it may mean either the sea, or flowing steams collectively, or the river Sindhu. **Pṛthivī** and Dyu are the person nified earth and heaven. These are requested to honour, i.e. to preserve or perpetuate, whatever blessing has been asked for (tan māmahantam); from **maha** = to venerate or worship;
 

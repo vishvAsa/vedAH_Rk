@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -162,7 +165,8 @@ niṣī́dan ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As long, **Mātariśvan**, as the swiftly-moving (nights) cover the face of the dawn, (so long) theBrahman, the inferior sitting down (to perform the work) of the **Hotā**, approaching the sacrifice supports (theceremony).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,11 +193,13 @@ vittam ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sharing in satisfaction with the gods, come to our presence, **Nāsatyās**, with your chariot, for thefriendship (that prevails) between you and us is from our forefathers; a common ancestor (is ours); acknowledgehis affinity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A common ancestor: **vivasvat** and **varuṇa** were both sons of **Kāśyapa** and **Aditi**; **Ādityas** are hesons of the former, **Vasiṣṭha** of the latter, making them first cousins
 </details>

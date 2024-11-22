@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṇā́ ← aruṇá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -259,11 +262,13 @@ vāsaya ← √vas- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vāyu** yokes to his car his two red horses; Vāyu (yokes) his purple steeds; Vāyu (yokes) his two unwearied (coursers) to his car to bear their burden; for most able are they to bear the burden. Arouse Vāyu the intelligent (sacrificer), as a gallant (awakens) his sleeping mistress; summon heaven and earth; light up the dawn; light up the dawn (to receive) your sacrificial food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Rohita** = red;
 

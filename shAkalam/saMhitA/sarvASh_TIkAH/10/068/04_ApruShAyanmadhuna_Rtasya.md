@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpruṣāyán ← √pruṣⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -194,7 +197,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Saturating (the earth) with water, scattering the receptacle of rain, the adorable **Bṛhaspati**, raising upthe cattle from the rock as (he raises) a meteor from the sky, rent the skin of the earth (with the hoofs of thecattle) as (**Parjanya** rends it) with rain.”
 </details>

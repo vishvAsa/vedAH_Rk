@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásuraḥ ← ásura- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ purupriyáḥ ← purupriyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The parent of sacrifices, the invigorator of the wise, the end (of the rite), the instrumental uction of the priests, **Agni**, who has pervaded heaven and earth in many forms, the friend of man, wise, (and endowed) with splendours, is glorified (by the worshipper).”
 </details>

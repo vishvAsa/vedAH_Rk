@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhíṣṭibhiḥ ← abhíṣṭi- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -161,7 +164,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With such desired aids as you protected **Kaṇva** with, do you, cherish of pious acts, preserve us; encouragers of sacrifice, drink the **Soma**.”
 </details>

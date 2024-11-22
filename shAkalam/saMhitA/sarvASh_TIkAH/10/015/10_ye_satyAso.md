@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 havirádaḥ ← havirád- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -192,7 +195,8 @@ pū́rvaiḥ ← pū́rva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Agni**, with thousands of **Pitṛs**, of both past and future (time), frequenters of sacrifices, eulogistsof the gods; those who are true, who feed on oblations, and drink oblations, possessing equality with **Indra** andthe gods.”
 </details>

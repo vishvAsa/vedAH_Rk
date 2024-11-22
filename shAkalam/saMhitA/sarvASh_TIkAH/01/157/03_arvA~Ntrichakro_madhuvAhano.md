@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arvā́ṅ ← arvā́ñc- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -193,11 +196,13 @@ vakṣat ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the three-wheeled car of the **Aśvins**, drawn by swift horses, laden with honey, three-canopied, filled with treasure, and every way auspicious, come to our presence, and bring prosperity to our people and our cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Our people and our cattle: dvipade-catuṣpade = liṭ, to our bipeds and quadrupeds
 </details>

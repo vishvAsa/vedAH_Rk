@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gántā ← gántar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ stómavāhāḥ ← stómavāhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, with his steeds, come o us as many (daily) rites (as may be celebrated), bearing the thundeerbolt, drinking the **soma**, bestowing cattle, granting manly and multiplied posterity, hearing the invocation of his adorer, and being the accenter of (our) praises.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 híraṇyapāṇim ← híraṇyapāṇi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -126,11 +129,13 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoke **Savitā** (Sun), the golden- handed, to protect me; he will appoint the station of the worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Suvarṇahasta = golden-handed, i.e. he who gives gold to the worshipper. Legend: At a sacrifice performed by the gods, **Sūrya** undertook the office of **ṛtvij**, but positioned himself in the station of **Brahmā**. The **Adhvaryu** priests saw him in that position and gave him the oblation termed prāśitra. As soon as this was received, Sūrya cut off the **hand** that had improperly accepted it. The priests who had given the oblation bestowed upon Sūrya a hand of gold
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aíta ← √i- 1 (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -173,11 +176,13 @@ yajñiyāsaḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, avoiding the path of death, you go (on the path of he gods), assuming a longer and better life, (myfriends), then may you, (O sacrificers), diligent in sacrifice, enriched with progeny and affluence, be cleansed andpure.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be cleansed and pure: **śuddhaḥ** = pure from the decay caused by the sins accusative ulated in a former life;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahiṣám ← mahiṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -169,7 +172,8 @@ yugā́ ← yugá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men for the sake of happiness plural ce before them **Agni**, the speaker of truth, the mighty, thecontemplator of all; the posterity of **Manu** in pairs (propitiate) with praises you, whose ears are open (to praises)who are most renowned, and the (minister) of the gods.”
 </details>

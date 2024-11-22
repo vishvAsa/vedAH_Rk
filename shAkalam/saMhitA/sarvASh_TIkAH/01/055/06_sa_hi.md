@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -194,7 +197,8 @@ sukrátuḥ ← sukrátu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ambitious of renown, destroying the well-built dwellings of the **asuras**, expanding like the earth, and setting the (heavenly) luminaries free from concealment, he, the performer of good deeds, enables the waters to flow for the benefit of his worshippers.”
 </details>

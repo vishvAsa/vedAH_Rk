@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; 12 = 5+7, ending LHX
-#### Morph
+_________
+**Morph**  
 ádhītau ← ádhīti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -192,7 +195,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, your praise has been recited (by us) at the third (daily) sacrifice, as it was in the repetition on your first propitiation; give us, **Agni**, ample and notorious food, posterity, riches, such as may be the support of numerous dependents.”
 </details>

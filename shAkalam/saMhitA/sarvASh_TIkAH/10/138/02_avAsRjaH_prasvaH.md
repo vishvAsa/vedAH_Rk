@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asr̥jaḥ ← √sr̥j- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -187,7 +190,8 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have sent forth the genitive rative (waters), you have cleft the mountains, you have fetched forth thecows, you have quaffed the delicious **Soma**, you have caused the trees of the forest to grow; through his exploitsby means of the voice produced for the sacrifice the sun has shone bright.”
 </details>

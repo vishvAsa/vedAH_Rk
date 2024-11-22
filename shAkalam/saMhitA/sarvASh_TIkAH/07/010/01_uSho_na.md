@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśret ← √śri- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -186,7 +189,8 @@ uśatī́ḥ ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, like the lover of the dawn (the sun), radiant, bright, resplendent, displays extensive lustre, theshowerer (of benefits), the receiver (of oblations), he shines with splendour, encouraging holy rites; he arouses(mankind), desiring (his presence).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ri ← bhū́ri- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -154,7 +157,8 @@ indra ← índra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A bountiful giver are you, **Indra**; give bountifully to us; (give) not little; bring much; for verily you desire to give much.”
 </details>

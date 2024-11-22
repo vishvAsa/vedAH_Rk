@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ŕ̥dhat ← √r̥dh- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -160,7 +163,8 @@ tarati ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the mortal prosper who propitiates you (his) benefactor, by holy rites; through the protection of you who are resplendent, he overcomes those who hate him, as if they were mortal sins.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ yúyūṣataḥ ← √yu- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise the two leaders of heaven, the presiders over this world; I invoke the **Aśvins**, glorifying them with sacred hymns, them, who are ever the discomfiture (of foes), who at dawn scatter the investing glooms to the ends of the earth.”
 </details>

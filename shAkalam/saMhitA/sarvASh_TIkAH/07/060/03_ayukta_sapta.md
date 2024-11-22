@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áyukta ← √yuj- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -182,7 +185,8 @@ yūthā́ ← yūthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He has harnessed his seven bay steeds, **Mitra** and **Varuṇa**, (to come) from your commondwelling-plural ce, (the firmament); the horses that, shedding water, convey that **Sūrya** who, friendly to you both,(contemplates all) regions, and looks carefully upon living creatures as (a herdsman) upon the herd.”
 </details>

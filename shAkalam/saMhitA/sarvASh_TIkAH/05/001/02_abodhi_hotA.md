@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábodhi ← √budh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -194,7 +197,8 @@ támasaḥ ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The offer of the oblation is awakened for the worship of the gods; favourably minded, **Agni** has rise up with the dawn; the radiant vigour of the kindled (fire) is manifested; the great deity has been liberated from the darkness.”
 </details>

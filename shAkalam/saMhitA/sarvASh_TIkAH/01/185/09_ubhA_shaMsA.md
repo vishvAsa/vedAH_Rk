@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aviṣṭām ← √avⁱ- (root)  
 {number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
 
@@ -175,7 +178,8 @@ mádantaḥ ← √mad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May both these, accepting praise, and friendly to man, be favourable to me; may they both be associated as guardians for my protection; deities, we your adorers, propitiating you with (sacrificial) food, desire ample (wealth), for the sake of makign liberal donations.”
 </details>

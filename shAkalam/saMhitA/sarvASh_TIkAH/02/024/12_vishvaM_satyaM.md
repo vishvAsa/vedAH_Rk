@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -194,11 +197,13 @@ yújā ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All truth, lords of wealth, (**Indra** and **Brahmaṇaspati**), is (inherent) in you both; the waters injure not your rites; come to our presence (to receive) our oblations, like a pair of steeds (to receive) their provender.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The waters injure not your rites: āpaśca na praminanti vratam vām: āpaḥ = by metonymy, for all human beings, sarvāṇi bhūtani
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ ripávaḥ ← ripú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those your protecting (rays), **Agni**, which, beholding (what had chanced), preserved the blind son of **Mamatā** from misfortune; he, knowing all things, cherished those benevolent (rays), and his enemies, intending to destroy him, wrought him no harm.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Preserved the blind son: an allusion to the legend of the birth of **Dīrghatamas**, who recovered his sight by worshipping Agni; cherished those benevolent rays: **rakṣa** tān sukṛto viśvavedā: viśvavedas may apply to Agni or to Dīrghatamas; by adding, bhavān, your honour, the term seems to apply to Agni
 </details>

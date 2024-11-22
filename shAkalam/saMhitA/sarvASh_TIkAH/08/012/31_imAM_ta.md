@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 imā́m ← ayám (pronoun)  
 {case:ACC, gender:F, number:SG}
 
@@ -146,7 +149,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise (worshipper), **Indra**, offers you this gratifying sincere praise along with pious rites at thesacrifice, as (a man plural ces) a kinsman in (a prominent) position.”
 </details>

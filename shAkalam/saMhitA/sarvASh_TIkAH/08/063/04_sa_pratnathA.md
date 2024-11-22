@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavivr̥dháḥ ← kavivr̥dhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -143,7 +146,8 @@ gantu ← √gam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As in former times, so now too is **Indra** the blesser of the worshipper and the bearer of him who praiseshim; may he come among us auspicious for our protection at the oblation of the **Soma**.”
 </details>

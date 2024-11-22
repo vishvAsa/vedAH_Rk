@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṇvāni ← áṇva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -156,7 +159,8 @@ víprebhiḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of (bestowing) food, passing through the interstices of the fleece the **Soma** is adorned like a horse in the battle; the **Pavamāna**, to be rejoiced in (by all, praised) by the intelligent, the sages, the reciters of sacred songs.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádridugdhāḥ ← ádridugdha- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -194,7 +197,8 @@ vasudéyāya ← vasudéya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These copious **Soma** juices, expressed with stones and contained in ladles, are prepared for you; they are the beverage of **Indra**; quaff them; satiate your appetite with them; and then fix your mind on the wealth that is to be given (to us).”
 </details>

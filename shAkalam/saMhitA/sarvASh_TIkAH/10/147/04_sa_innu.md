@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cākanat ← √kanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
 
@@ -206,7 +209,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He obtains well-procured riches, who studies to promote **Indra**'s rapid exhilaration. Exalted by (yourfavour), O **Maghavan**, (the worshipper), celebrating the sacrifice, speedily obtains through the officiating priestsfood and wealth.”
 </details>

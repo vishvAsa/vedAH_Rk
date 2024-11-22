@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 vanaspate ← vánaspáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -115,11 +118,13 @@ tátra ← tátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wherever you know, **Vanaspati**, the secret forms of the gods to be, thither convey the oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yatra** vettha devānām **guhyā** nāmāni: nāmāni = rūpāṇi, forms; it is not soecufued as a faculty of vanaspati in any preceding hymn to the āpris, although vanaspati, in the preceding hymns and also here represents **Agni**, as identified with the sacrificial **post**, or **yūpa**, or the deity presiding over the post: yūpābhimānī **deva**
 </details>

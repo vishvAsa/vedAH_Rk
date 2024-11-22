@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bibhrati ← √bhr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -185,11 +188,13 @@ sadyás ← sadyás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The four (chief priests) sustain him (with oblation and praises), seeking their own welfare; the ten (regions of space) invigorate him, their embryo, to travel (his daily course); his three elementary rays swiftly traverse the boundaries of the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The four chief priests: the text has only catvāraḥ, four; ṛtvijaḥ are implied; his three elementary rays: tridhātavo **gāvaḥ**, supposed to be the causes of cold, heat and rain. Or, simply three ore elements: copper, silver, gold
 </details>

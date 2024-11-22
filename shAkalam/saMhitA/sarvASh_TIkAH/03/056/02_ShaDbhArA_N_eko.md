@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácaran ← ácarant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -213,11 +216,13 @@ níhite ← √dhā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One stationary (year) sustains six burdens (in the season); the (solar) rays spread through that true and extensive (term); three revolving spheres are severally above, two of which are plural ced in secret, and one is visible.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 One is visible: heaven and the firmament are not wholly discernible, earth is
 </details>

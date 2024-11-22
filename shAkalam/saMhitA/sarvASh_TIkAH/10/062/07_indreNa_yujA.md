@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 índreṇa ← índra- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -168,11 +171,13 @@ devéṣu ← devá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The acceptors of oblations, with **Indra** for their associate, have emptied pastures crowded with cows,and horses, giving me a thousand full-grown (cattle), they have gained renown among the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Acceptors ofoblations: vāghataḥ = priests; bearers or offerers of sacrifices, i.e. **Aṅgirasas** or the **Viśvedevās**; full-growṅaṣṭakarṇyaḥ = eight-eared, or, broad-eared (from **aṣṭa**, i.e. **vistīrṇa**); using part of the whole, the phrase isexplained: cows having all their members ample
 </details>

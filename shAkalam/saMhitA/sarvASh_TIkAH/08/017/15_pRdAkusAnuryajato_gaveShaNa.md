@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gavéṣaṇaḥ ← gavéṣaṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -165,11 +168,13 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With head uplifted like a serpent, adorable, the recoverer of the cattle, **Indra** single, is superior tomultitudes; (the worshipper) brings Indra to drink the **Soma** by a rapid seizure, like a loaded horse (by a halter).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With head uplifted: pṛdākusānu = pṛdākuḥ **sarpaḥ**, a serpent; sa iva **sānuḥ** samucchṛtaḥ tadvadunnataśiraskaḥ, having the head lifted up in like manner;
 

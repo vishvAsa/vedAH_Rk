@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -154,11 +157,13 @@ urúdhārām ← urúdhāra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke today the all-sufficient **Indra**, as the milch cow yielding abundant milk, of excellent motion, andeasy to be milked; or, as another (form), the vast-dropping, desirable (rain).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of excellent motion: gāyatravepasam = praśasya vegam, of excellent speed; vast-dropping: anyām iṣam urudhārām =bahūdakadhārām eśanīyam vṛṣṭim;
 

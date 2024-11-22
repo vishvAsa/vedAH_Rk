@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -184,11 +187,13 @@ tváṣṭā ← tváṣṭar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the genitive rous (gods) meet together to us-- **Pūṣan**, **Pavamāna**, **Mitra**, **Varuṇa**, **Bṛhaspati**, the **Maruts**, **Vāyu**, the **Aśvins**, **Tvaṣṭā**, **savitā**, and beautiful **Sarasvatī**. \[”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May the genitive rous (gods) meet together to us-- Pūṣan, Pavamāna, Mitra, Varuṇa, Bṛhaspati, the Maruts, Vāyu, the Aśvins, Tvaṣṭā, savitā, and beautiful Sarasvatī. \[
 </details>

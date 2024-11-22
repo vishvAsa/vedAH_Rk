@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anabhīśúḥ ← anabhīśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ váruṇe ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Without steeds, without stay, (he is nevertheless) borne swift-moving and loud-sounding; he travels, ascending higher and higher, connecting the inconceivable mystery (of sacred rites) with the radiance (abiding) in **Mitra** and **Varuṇa**, (which men), eulogizing, glorify.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Connecting the inconceivable mystery: acittambrahma **yuvānaḥ**: acittam = **citta** aviṣayam,not an object of the mind or thought;
 

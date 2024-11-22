@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,11 +193,13 @@ samudrásya ← samudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Maruts** come to our presence with benefaction; may they who are possessed of knowledge (come) with most excellent and brilliant (treasures), since their glorious horses, the **Niyutas**, gather wealth even on the farther shore of the sea.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Samudrasya cid dhanayanta **pāra**, bearing or collecting wealth, even on the farther shore of the sea; parasmin, on the other bank; metaphorically, the explanation is: winds bring wealth, i.e. rain, from the skirts of the horizon or firmament
 </details>

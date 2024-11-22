@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāsomā ← índrāsóma- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -199,7 +202,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Great, **Indra** and **Soma**, is that your greatness, for you have made great and principal (beings); you have made known (to men) **Sūrya** and the waters; you have dissipated the glooms and (desroyed) the revilers.”
 </details>

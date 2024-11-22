@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ártham ← ártha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -215,7 +218,8 @@ pratiśíkṣanti ← √śak- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the sun (brings) the ascetic, do you bring to the end (of existence) (your worshippers), who satisfyyour desire (fo the **Soma**), as husbands (the desire of their wives); and who (being) leaders of rites, multiformIndra, offer to you ancient praises with (sacrificial) viands.”
 </details>

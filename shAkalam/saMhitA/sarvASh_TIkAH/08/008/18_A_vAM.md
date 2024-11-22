@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -125,11 +128,13 @@ yā́mahūtiṣu ← yā́mahūti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Priyamedhas** at the sacrifices to the gods invoke you, **Aśvins**, who rule over religious rites,together with your protections.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Religious rites: **Taittirīya** **Brāhmaṇa** 3.2.2.1: aśvins are the ministrant priests,the **adhvaryus**, of the gods, **aśvinau** hi devānām **adhvaryu**
 </details>

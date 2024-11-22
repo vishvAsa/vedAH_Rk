@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 acacakṣam ← √cakṣ- (root)  
 {number:SG, person:1, mood:IND, tense:PLUPRF, voice:ACT}
 
@@ -197,7 +200,8 @@ náraḥ ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have looked down upon the secret and fearful plural ce of his abiding; I have repaired, desiring him, (to the plural ce of) the self-sustainer; I have inquired (of him) from others; they, the leaders (of rites), the search after wisdom, have said to me, let us have recourse to **Indra**.”
 </details>

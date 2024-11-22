@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -147,11 +150,13 @@ suśévaḥ ← suśéva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come to us, **Pitā**, auspicious with auspicious aids; a source of delight;not unpalatable; a friend well respected, and having none (but agreeable properties).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Having none but agreeable properties: The text has advayāḥ, notbeing twofold, i.e. being of the property described alone;not comprisingany incompatible property; or, it may be an epithet of **sakhā**, a friend, one who does not differ in mind or act
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devátātā ← devátāti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -184,7 +187,8 @@ vr̥tratúrā ← vr̥tratúr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You two are the principal (divinities) at the worship of the gods; the distributors of wealth; the most vigorous of heroes; the most liberal among the opulent; possessed of vast strength; destroyers of foes by truth; entire hosts (of yourselves).”
 </details>

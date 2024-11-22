@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ mártyāya ← mártya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The offerings (to the gods) are engendered, **Agni**, of you; from you (proceed) praises; from you effective prayers; from you come a vigorous frame and wealth to man who worships with sincerity and offers oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The offerings to the gods: **kāvyā** = kāvyāni, acts in connection with fire, such as bringing the deities conveying oblations; or, it may mean the functions of the **adhvaryu**; or it may refer to the kāvyā, or offerings to the **pitṛs** or manes
 </details>

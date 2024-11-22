@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kramasva ← √kramⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -186,11 +189,13 @@ yantu ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Viṣṇu** my friends, stride forth lustily; O heaven, give room to contain the thunderbolt; let us smiteVṛtra, let us open the rivers; let them flow, set free, at the command of **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Give room to contain thethunderbolt: Bṛhaddevatā is cited: **Vṛtra** had enveloped the **three worlds** and stood there in his fierce energy;Indra could not conquer him, and he went to Viṣṇu and said, "I will smite Vṛtra, do you stride forth and stand bymy side, and let the heavens give room for my uplifted thunderbolt". Viṣṇu consented and did so, and theheavens gave an open space. All this is related in this ṛca
 </details>

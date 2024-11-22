@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -174,11 +177,13 @@ prabhr̥thásya ← prabhr̥thá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Iḷā, the mother of the herd, and **Urvaśī** with the rivers, be favourable to us; may the bright-shining Urvaśī (come), commanding our devotion, and investing the worshipper with light.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Iḷā and Urvaśī: iḷā = the earth, or the daughter of **Manu**, in the form of a cow, the mother of the herd, yūthasya **mātā**; or, the latter may be applied to the company of the **Maruts**, when Iḷā may be **madhyamikā** vāk, middle, articulate or human speech; or, the latter sense may be applied to Urvaśī; investing the worshipper with light: abhyūrṇarvānā prabhṛthasyā yoḥ: the latter term should be read ayum, in the accusative ative, man or the **yajamāna**;
 

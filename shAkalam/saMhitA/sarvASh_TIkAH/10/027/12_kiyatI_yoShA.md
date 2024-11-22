@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kíyatī ← kíyant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -186,7 +189,8 @@ vanute ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “How many a woman has been gratified by the flattering praise of man's desire, when the bride isfortunate and beautiful, she of herself chooses her husband among men.”
 </details>

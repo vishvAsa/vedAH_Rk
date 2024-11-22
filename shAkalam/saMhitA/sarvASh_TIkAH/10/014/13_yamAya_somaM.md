@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -144,7 +147,8 @@ agnídūtaḥ ← agnídūta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pour out the **Soma** for **Yama**; to Yama offer the oblation, the decorated sacrifice of which **Agni** is themessenger proceeds to Yama.”
 </details>

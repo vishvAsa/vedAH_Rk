@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 upásthāt ← upástha- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Delighted by the praises (of his worshippers), the radiant sun rises from the lap of the dawns; thatdivine sun gratifies my desires, who limits not the lustre that is common (to all).”
 </details>

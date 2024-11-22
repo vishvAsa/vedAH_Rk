@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avayunám ← avayuná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -183,11 +186,13 @@ svadhāvaḥ ← svadhā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who made the indistinct, wide-spreading darkness distinct with the sun; whenever, possessor of strength, mortals are seeking to adore the dwelling of you who are an immortal, they harm not (any living being).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Na minanti na hiṃsanti = the object is: kim api praṇijātam
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agrimā́ ← agrimá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -192,7 +195,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The chief of these (our praises) proceed to the ocean-like sun; that chamber of sacrifice fails not in which (his praises) are prolonged; there are heart's desire of the worshiper is not disappointed where the mind is known to be attached to the pure (sun).”
 </details>

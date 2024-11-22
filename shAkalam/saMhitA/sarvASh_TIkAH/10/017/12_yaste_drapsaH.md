@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aṁśúḥ ← aṁśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -205,7 +208,8 @@ váṣaṭkr̥tam ← váṣaṭkr̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, which escapes (from the hide), your filaments which let fall from the **hands** (of the priestescape) from the vicinity of the plural nks (of the press), or (from the **hand**) of the **Adhvaryu**, or from the filter; I offer itall with my mind (to **Agni**) with the word vaṣat.”
 </details>

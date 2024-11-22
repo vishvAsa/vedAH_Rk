@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 satrāsā́ham ← satrāsáh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -121,11 +124,13 @@ cyāvayasi ← √cyu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring here for our protection **Indra** the conqueror of many, who pervades all your praises.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛca isaddressed by the sacrificer to the praising priest
 </details>

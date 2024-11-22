@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīdhŕ̥tam ← carṣaṇīdhŕ̥t- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -160,7 +163,8 @@ járamāṇam ← √gr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let abundant praises celebrate **Indra**, the stay of man, the possessor of opulence, the adorable, prospering with increase, the invoked of many, the immortal, who is daily to be propitiated with sacred hymns.”
 </details>

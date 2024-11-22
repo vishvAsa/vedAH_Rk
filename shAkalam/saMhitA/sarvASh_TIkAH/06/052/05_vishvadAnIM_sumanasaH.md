@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sumánasaḥ ← sumánas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -178,7 +181,8 @@ devā́n ← devá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we at all seasons be possessed of sound minds; may we ever behold the rising sun; such may the affluent lord of riches, (**Agni**), render us, ever most ready to come (at our invocation), charged with our oblation to the gods.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sudákṣiṇaḥ ← sudákṣiṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is well-handled, both left and right, who is the lord, who is wise, he performer of numerousgreat acts, the giver of vast wealth, **Indra**, who is the demolisher of cities, who is gratified by praise, is glorified(by us).”
 </details>

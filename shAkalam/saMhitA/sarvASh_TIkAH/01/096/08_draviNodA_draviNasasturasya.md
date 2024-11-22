@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dráviṇasaḥ ← dráviṇas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -177,7 +180,8 @@ rāsate ← √rā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Draviṇodā grant us (a portion) of moveable wealth; may Draviṇodā grant us (a portion) of that which is stationary; may Draviṇodā give us food attended byprogeny; may Draviṇodā bestow upon us long life.”
 </details>

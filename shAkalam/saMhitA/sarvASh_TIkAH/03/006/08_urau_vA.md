@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antárikṣe ← antárikṣa- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -199,11 +202,13 @@ rathyàḥ ← rathī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The deities who sport in the spacious (firmament); those who are in the luminous sphere of heaven; the adorable Umas, who come when worthily invoked; the horses, **Agni**, that are fit for your car.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The adorable Ūmas: ūmāḥ = ūmasaṅjmakāḥ pitaraḥ **santi**, the Ūmas are the pitara, called Ūmā
 </details>

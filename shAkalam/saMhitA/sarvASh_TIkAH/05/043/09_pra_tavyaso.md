@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 náma:uktim ← náma:ukti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -181,7 +184,8 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer adoration to the powerful and rapid **Pūṣaṇ**, and to (the powerful and rapid) **Vāyu**, who are both instrumental gators of the desire of wealth and of food, (who are both) distributors of riches.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhadrā́ ← bhadrá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -196,7 +199,8 @@ rócamānā ← √ruc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine Uṣas, you are seen auspicious; you shine afar; your bright rays spread over the sky, lovely and radiant with great (splndours), you display your person n.”
 </details>

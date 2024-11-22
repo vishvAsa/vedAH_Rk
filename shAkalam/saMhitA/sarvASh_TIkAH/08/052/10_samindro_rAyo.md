@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 adhūnuta ← √dhū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -181,7 +184,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** has heaped together vast stores of wealth, the two worlds and the sun; the bright pureSoma-drink mixed with milk, has exhilarated Indra.”
 </details>

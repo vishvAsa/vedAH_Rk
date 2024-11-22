@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pūyámānaḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
 
@@ -190,7 +193,8 @@ vāyúm ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Well-armed, purified by those who express you, send your concealed desirable form (into the pitchers); like a horse bring us food in our desire for food; divine **Soma**, bring us life, bring us cattle.”
 </details>

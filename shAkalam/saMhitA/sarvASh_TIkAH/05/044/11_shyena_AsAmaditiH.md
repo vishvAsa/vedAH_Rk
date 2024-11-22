@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -179,11 +182,13 @@ viṣā́ṇam ← viṣā́ṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Swift is the excessive and girth-distending inebriation of Viśvavārā, **Yajata** and **Māyin**; (by drinking) of these (juices) they urge one another to drink; they find the copious draught the prompt giver of intoxication.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Swift iṣ..inebriation: **śyena** āsām **aditiḥ** kakṣyo **madaḥ**: śyena = **śīghra**, quick;
 

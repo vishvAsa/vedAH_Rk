@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -181,11 +184,13 @@ sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The protecting and fostering **Ṛbhus** hastened to the presence of **Indra**, of graceful motion, and irradiating the firmament, imbued with vigour, the humiliator of his enemies, the performer of a hundred pious acts; and by them, encouraging words were uttered.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhus = **Maruts** who encouraged Indra; 'all gods who were your friends have fled; may there be friendship between the Maruts and you'. Indra is one of 12 **Ādityas**, as **Śakra**, hence 'irradiating the firmament'; words were uttered: **prahara** bhagava vīryasva, strike; **bhagavan**, be valiant
 </details>

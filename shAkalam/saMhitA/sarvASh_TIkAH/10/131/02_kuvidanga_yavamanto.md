@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṅgá ← aṅgá (invariable)  
 {}
 
@@ -189,11 +192,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the growers of barley often cut the barley, separating it uin due order, so do you, (O **Indra**), bestowhere and there nourishment upon those who have not neglected the performance of the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Barley: i.e.,grain; cf. **Yajus**. 10.32; anupūrvam viyūya: a metaphor that god should pick out his diligent worshippers oneafter the other, and bestow blessing on them in due order
 </details>

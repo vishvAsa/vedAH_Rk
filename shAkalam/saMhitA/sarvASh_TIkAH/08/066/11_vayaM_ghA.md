@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápūrvyā ← ápūrvya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -150,11 +153,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, slayer of Vṛra, invoked of many, we, your many worshippers, offer new hymns to you, thunderer,as your wages.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Use of wages as an illustration is not inappropriate, as both the hymns and wages are given bya definite rul, niyamena
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jaghantha ← √han- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -185,11 +188,13 @@ yā́nān ← yā́na- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have slain the slave **Namuci** endeavouring (to disturb) the sacrifice, making his illusionspowerless against the Ṛṣi; you have made easy for **Manu** the paths to the gods, so as (to make) the waysstraight.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Endeavouring to disturb the sacrifice: or, desiring your wealth;
 

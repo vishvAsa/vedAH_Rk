@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 alā́yyasya ← alā́yya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -144,11 +147,13 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the battle-axe of the foe destroy the foe; alone flow tous, bright **Soma**; (slay) the villain only, bright Soma.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The battle-axe: **paraśuḥ** = chedakaḥ **pavamānaḥ**, as if Soma were metaphorically called a battle-axe and implored to turn his edge against foes only (tam eva śatrum nāśayatu)
 </details>

@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 chardiṣpaú ← chardiṣpā́- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -158,11 +161,13 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come (to us as) guardians of our dwelling, become our defenders, be protectors of our dependants,cherishers of our person ns; come to the dwelling for (the good of) our sons and grandsons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protectors: jagatpājaṅgamasya prāṇijātasya asmadīyasya pālakau, protectors of our moveable living beings- - either ourdependants, or, our animals; for the good of our sons: or, "come to the dwellings of our sons and grandsons"
 </details>

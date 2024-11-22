@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 budhánta ← √budh- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
 
@@ -184,11 +187,13 @@ viveṣṭi ← √viṣ- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “"When (the worshippers) find (the stalls deserted) by the cattle" (then the performer of the rite)exclaims, "(**Indra**), plural asing to his adorer, the affluent lord of affluence, the compassionate, the sinless, quicklyrecovers all the wealth (that has been carried off)."”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Exclaims: The words, iti bravīti seem to apply to the wholeṛca: **kāravaḥ** is the subject of bravīti; or, an epithet applying to Indra
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́t ← ā́t (invariable)  
 {}
 
@@ -182,11 +185,13 @@ viśvádhā ← viśvádhā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pious worshippers then adore the invoker (of the gods), for (the propitiation of) the dwellers in heaven, as (such men) adore a powerful prince, since the many-lauded, and all upholding (**Agni**) knows how by (holy) act and (bodily) strength to bring together the gods and their mortal worshipper for the sake of obtaining (mutual) sustenance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A powerful prince: bhagam = **bhaga**, a great prince; or, **Āditya**, or the sun
 </details>

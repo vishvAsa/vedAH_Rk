@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 ātithigvé ← ātithigvá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -96,7 +99,8 @@ supéśasaḥ ← supéśas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I receive) two steeds with excellent chariots from the son of **Atithigva**, two with excellent reins from theson of **Ṛkṣa**, two with excellent ornaments from the son of **Aśvamedha**.”
 </details>

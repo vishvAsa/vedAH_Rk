@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mr̥jyámānaḥ ← √mr̥j- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
 
@@ -142,7 +145,8 @@ pávamāna ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fair-fingered (**Soma**) being cleansed you utter a sound in the pitcher; you bring, **Pavamāna**, ample golden-hued much-coveted wealth.”
 </details>

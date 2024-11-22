@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pátim ← páti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -132,11 +135,13 @@ ráthānām ← rátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke (**Indra**) the lord of that might which subdues all enmies and bow to none-- (I invoke him)followed by your onsets as his soldiers and (surrounded) by the protection of your chariots (O **Maruts**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I invokehim to come with his protections in the onsets of your soldiers and chariots
 </details>

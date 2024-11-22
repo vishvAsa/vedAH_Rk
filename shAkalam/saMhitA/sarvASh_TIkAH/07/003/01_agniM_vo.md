@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníbhiḥ ← agní- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -182,7 +185,8 @@ tápurmūrdhā ← tápurmūrdhan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Appoint (gods) the most adorable, divine **Agni**, consentient with (all other) fires, your messenger at thesacrifice; him who is permanently present among men, the observer of truth, who is crowned with flame, thepurifier, whose food is butter.”
 </details>

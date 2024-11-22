@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahā́n ← mahā́nt- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ pūrvī́ḥ ← purú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty, fierce, auspicious **Indra**, the showerer (of benefits), augments (in power) as he is animated for heroic (acts) by praise; his cattle are genitive rated givers of food; many are his donations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Many are his donations: **dakṣiṇā** **asya** pūrvīḥ: these are both epithets of **gāvaḥ**: bahvyastā gāvo **dakṣiṇāḥ** prajāyante, those many cows, givers (of milk and the like) are born
 </details>

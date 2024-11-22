@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádriṇā ← ádri- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Vasukra speaks). Your worshippers express with the stone fast flowing exhilarating **Soma** for you, youdrink them; they roast bulls for you, you eat them, when you are invoked, **Maghavan**, to the sacrificial food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Theyroast bulls: you eat the cattle offered as oblations belonging to the worshippers who cook them for you;
 

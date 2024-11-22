@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvyā ← áśvya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -169,7 +172,8 @@ yaviṣṭhya ← yáviṣṭhya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Youngest (of the gods), protect with your protections from iniquity, (and reward) with numerous citiesthose who, through the desire of extended fame, bestow riches, comprehending horses and treasure.”
 </details>

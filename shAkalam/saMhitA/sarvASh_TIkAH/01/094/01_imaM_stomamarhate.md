@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árhate ← √arh- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -202,11 +205,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To him who is worthy of praise, and all-knowing, we construct, with our minds, this hymn, as (a workman makes) a car; happy is our understanding when engaged in his adoration; let us not suffer injury, **Agni**, through your friendship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The refrain: sakhye mā riṣāmā vayam tava = may we not be injured in or by your friendship, i.e. do you preserve us.
 </details>

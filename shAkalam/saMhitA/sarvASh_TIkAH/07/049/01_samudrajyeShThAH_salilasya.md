@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 mádhyāt ← mádhya- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -182,11 +185,13 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The waters, with their ocen-chief, proceed from the midst of the firmament, purifying (all things), flowingunceasingly; may the divine waters, whom the thunder-bearing **Indra**, the showerer, sent forth, protect me here(on earth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From the midst: samudrajyeṣṭhā salilasya madhyāt: **salila** = **antarikṣa**
 </details>

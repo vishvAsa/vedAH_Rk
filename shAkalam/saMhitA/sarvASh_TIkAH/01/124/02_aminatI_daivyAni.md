@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 áminatī ← áminant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -156,11 +159,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unimpeding divine rites, although wearing away the ages of mankind, the dawn shines the similitude of the (mornings) that have passed, or that are to be forever, the first of those that are to come.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Unimpeding: aminati ahiṃsantī, not injuring, not opposing, not unsuited to; being the fit season for performance
 </details>

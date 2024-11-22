@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 valaṁrujáḥ ← valaṁrujá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -163,7 +166,8 @@ dr̥ḷhā́ ← √dr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The evourer of **Vṛtra**, the fracturer of the cloud, the sender of the waters, the demolisher of cities, **Indra**, the destroyer of powerful enemies, has mounted his chariot to urge his horses to our presence.”
 </details>

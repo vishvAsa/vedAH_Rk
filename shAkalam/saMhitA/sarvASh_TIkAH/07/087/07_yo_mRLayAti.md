@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́gaḥ ← ā́gas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -188,11 +191,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we be free from sin against that **Varuṇa**, who has compassion upon him who commits offence, wewho are duly observing the rites of the son **Aditi**; and do you, (gods), ever cherish us with blessings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of the sonof Aditi: aditer = adīnasya, of the mighty (Varuṇa) or, akhaṇḍanīya
 </details>

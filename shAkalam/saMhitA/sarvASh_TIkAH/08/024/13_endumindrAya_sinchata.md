@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -128,11 +131,13 @@ rā́dhasā ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Effuse the **Soma** for **Indra**, let him quaff the Soma; he by his might rewards (the donor) with wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rādhasā codayāte = vadhāṃsi codayate; he by his might rewards: svamahattvenaiva annena sahadhanādikam stotṛbhyaḥ prakarṣeṇa codayati, he by his might abundantly sends to his worshippers wealth withfood
 </details>

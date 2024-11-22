@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámr̥tyavaḥ ← ámr̥tyu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -197,11 +200,13 @@ rā́jānam ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those his immortal, inviolable rays protect both classes of beings, wherewith he stimulates human (strength) and divine (food); thereupon praises reach the royal (**Soma**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Both classes of beings: the movable and stationary or animate and inanimate creation; or, men and gods; 'the Soma fertilizes the plural nts at the sacrifice, and streams of men flow forth', the plural nts being part of the stationary (**sthāvara**) creation, and men belonging to the movable (**jaṅgama**)
 </details>

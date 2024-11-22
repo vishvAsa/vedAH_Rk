@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duhán ← √duh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -183,7 +186,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Milking the easily milked cow (of sacrifice) of her all-sustaining food, for the benefit of the piousinstitutor of the rite, O **Agni**, doer of good deeds, anointed with butter, illumining the three regions, presiding(over the hall of sacrifice), going round the sacrifice, you accomplish each holy rite.”
 </details>

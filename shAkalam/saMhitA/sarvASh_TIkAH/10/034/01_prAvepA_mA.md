@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 br̥hatáḥ ← br̥hánt- (nominal stem)  
 {case:GEN, number:SG}
 
@@ -152,11 +155,13 @@ vibhī́dakaḥ ← vibhī́daka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The large rattling dice exhilarate me as torrents borne on a precipice flowing in a desert; the excitingdice animate me as the taste of the **Soma** of Maujavat (delights the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Flowing in a desert: iriṇevarvṛtānaḥ: a reference to the dice; rolling on the dice-board; exciting dice: **vibhītaka**, the seed of themyrobalan, used as a die;
 

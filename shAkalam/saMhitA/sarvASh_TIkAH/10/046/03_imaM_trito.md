@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avindat ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -179,7 +182,8 @@ yúvā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Trita**, the son of Vibhuvas, searching (for him), found mighty **Agni** on the head of the cow; he theaugmenter of happiness manifested in the dwellings (of the pious), the youthful (connecting) bond of theresplendent (Sun).”
 </details>

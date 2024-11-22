@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 haṁsaíḥ ← haṁsá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -172,11 +175,13 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With his friends (the **Maruts**) clamouring like geese, throwing open the (**asuras**') cattle-folds made ofstone, **Bṛhaspati** calling aloud (desires to carry off) the cows; knowing all things he praises (the gods) andchants (their laudation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Chants: udgāyat, acts the part of the **Udgātā**
 </details>

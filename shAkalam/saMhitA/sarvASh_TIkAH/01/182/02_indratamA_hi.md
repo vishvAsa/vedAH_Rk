@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhíṣṇyā ← dhíṣṇya- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -177,11 +180,13 @@ yāthaḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, in truth most imperial, adorable, swifter than the winds, and eminent in good works, riders in a car, and most distinguished charioteers, bring hither your car, full heaped up with ambrosia, and with it come, **Aśvins**, to the donor (of the offering).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Most imperial: indratamā, superlatively **indra**; so, maruttamā, superlatively **maruts**; marutttamā may also mean, of moderated passions, mild, genitive le, mitarāgiṇau; or, not noisy, mitarāviṇau
 </details>

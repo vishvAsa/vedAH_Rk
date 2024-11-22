@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citra ← citrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -152,11 +155,13 @@ ubhayāhastí ← ubhayāhastí(n)- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wonderful **Indra**, wielder of the thunderbolt, since precious treasure is to be distributed by you, bestow it, possessor of riches, with both **hands**, upon us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Since precious treasure is to be distributed by you: mehanāsti tvā dātam **rādhas** = maṃhanīyam dhanam tvayā dātavyam, praiseable wealth is to be given by you; another interpretation: mehanāsti = me iha **nāsti**, what is not in this world, or, on this occasion, mine (**Nirukta** 4.4)
 </details>

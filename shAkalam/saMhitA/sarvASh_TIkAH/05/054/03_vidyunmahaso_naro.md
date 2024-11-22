@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśmadidyavaḥ ← áśmadidyu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -176,7 +179,8 @@ stanáyadamāḥ ← stanáyadama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts** (appear) radiant with lightning, leaders (of the rain), armed with weapons of adamant, blazing with the wind, the precipitators of mountains, the repeated distributors of water, wielders of the thunderbolt, roaring in concert, combining (to send rain), and of exceeding strength.”
 </details>

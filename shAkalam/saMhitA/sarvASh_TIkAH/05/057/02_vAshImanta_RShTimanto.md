@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 manīṣíṇaḥ ← manīṣín- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -169,7 +172,8 @@ yāthana ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Intelligent **Maruts**, you are armed with swords, with lances, with bows with arrows, with quivers; you are well mounted and have handsome chariots; sons of **Pṛṣṇi** you are well armed; come for our good.”
 </details>

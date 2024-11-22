@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 hotrám ← hotrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -187,7 +190,8 @@ pātu ← √pā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the fiver orders of men, may those who were born for the sake of ghī, may those who areentitled to worship be plural ased by my (discharge of) the office of **hotā**; may earth preserve us from all earthly sin;may the firmament preserve us from heavenly (sin).”
 </details>

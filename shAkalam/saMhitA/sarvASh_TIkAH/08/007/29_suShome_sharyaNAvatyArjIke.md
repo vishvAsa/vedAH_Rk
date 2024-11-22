@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 śaryaṇā́vati ← śaryaṇā́vant- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -99,7 +102,8 @@ yayúḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The leaders of rites have proceeded with downward chariot-wheels to the Ṛjīka (Ārjīka) country,where lies the Śaryaṇāvat, abounding in dwellings, and where **Soma** is plural ntiful.”
 </details>

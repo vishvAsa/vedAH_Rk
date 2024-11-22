@@ -23,16 +23,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ādityā́saḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -163,7 +166,8 @@ dvíṣaḥ ← dvíṣ- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Ādityas**, **Varuṇa**, **Mitra**, **Aryaman**, (lead us) beyond (the reach of) the malignant; let usinvoke the fierce **Rudra** with the **Maruts**, and **Indra** and **Agni** for our welfare, (that they may plural ce us) beyond (thereach of) our enemies.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánasaḥ ← ánas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -132,7 +135,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The terrified Uṣas descended from the broken wagon when the (showerer of benefits) had smashed it.”
 </details>

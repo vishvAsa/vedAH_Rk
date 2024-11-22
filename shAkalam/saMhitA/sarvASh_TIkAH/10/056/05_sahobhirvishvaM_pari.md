@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cakramuḥ ← √kramⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -187,11 +190,13 @@ purudhá ← purudhá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By their powers they traversed the whole world, measuring the ancient divisions (till then)unmeasured; they restricted all existent beings to their proper forms; they distributed in many directions (light)among the people.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Measuring the ancient divisions: or, having sub-divided the plural nets, lunar asterisms etc.;distributeḍ..light: prāsārayanta, dispersing light or water
 </details>

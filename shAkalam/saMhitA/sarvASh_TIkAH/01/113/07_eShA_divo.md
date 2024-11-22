@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adarśi ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -185,7 +188,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The daughter of heaven, young, white-robed, the mistress of all earthly treasure, is beheld dissipating the darkness. Auspicious Uṣās,shine upon us today in this (hall of sacrifice).”
 </details>

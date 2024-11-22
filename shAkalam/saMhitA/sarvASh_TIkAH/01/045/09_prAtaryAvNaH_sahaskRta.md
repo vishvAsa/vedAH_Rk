@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prātaryā́vṇaḥ ← prātaryā́van- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -143,11 +146,13 @@ vaso ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Strength-genitive rated, giver of rewards, provider of dwellings, plural ce here today upon the sacred grass the morning-moving deities, or (other) deified being, to drink the **Soma** juice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Strength-genitive rated: an apparent reference to production of fire by friction
 </details>

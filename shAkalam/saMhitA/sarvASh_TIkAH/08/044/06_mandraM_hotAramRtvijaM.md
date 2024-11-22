@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -130,11 +133,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I worship **Agni**, the exhilarating invoker (of the gods), the priest, him who shines forth with various lustre,and is rich in brilliance, may he give car.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Priest: ṛtvijam = ṛtau yaṣṭavyam, he who is to be worshipped in dueseason; in RV. 5.22.2 = ṛtuyaṣṭāram, he who offers in due season
 </details>

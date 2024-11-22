@@ -22,14 +22,17 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -105,7 +108,8 @@ vājadā́vnām ← vājadā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mingled (libations; yuvāku = mixture of curds and **ghee**; śacīnām, mixture of butter milk, water and meal) of our pious rites, the mingled yuvāku sumatīnām = (laudations) of our right-minded (= sumatīnām, priests, are prepared); may we be (included) among the givers of food.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 nárāśáṁsam ← nárāśáṁsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -96,11 +99,13 @@ sádmamakhasam ← sádmamakhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have beheld Nārāśaṃsa (i.e. **Agni** or the person nified **yajña** or sacrifice at which men praise the gods), the most resolute, the most renowned, and radiant as the heavens.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 'I beheld (with the eye of the **Vedas**) that divinity **Sadasaspati**, who is to be praised by men, who is also called Narāśaṃsa' (**Aitareya** **Brāhmaṇa** 6.27)
 </details>

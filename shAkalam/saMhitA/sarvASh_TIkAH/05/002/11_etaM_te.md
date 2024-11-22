@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etám ← eṣá (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -212,7 +215,8 @@ svàrvatīḥ ← svàrvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This praise have I, a devout worshipper, composed for you, (**Agni**), who are born with many (faculties), as a steady dexterous (artisan fabricates) a car; if, divine Agni, you approve of it, then may we obtain abundant flowing water.”
 </details>

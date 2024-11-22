@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
-#### Morph
+_________
+**Morph**  
 acodásaḥ ← acodás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -184,7 +187,8 @@ sániṣanta ← √sanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the spontaneous **Soma**-juices flow to us at the brilliant (sacrifices), green-tinted, effused; may they be destroyed who are the withholders of food from us; may (our) foes be destroyed; may (the gods) enjoy our pious acts.”
 </details>

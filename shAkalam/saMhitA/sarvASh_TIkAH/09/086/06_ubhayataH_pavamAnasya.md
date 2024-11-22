@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pávamānasya ← √pū- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -181,7 +184,8 @@ yónā ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rays, the tokens of the extant, steady, purified **Soma**, circulate from both worlds; when the green-tinted juice is cleansed upon the filter, reposing it alights upon its station, the pitchers.”
 </details>

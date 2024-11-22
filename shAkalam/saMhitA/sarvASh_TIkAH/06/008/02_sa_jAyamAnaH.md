@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jā́yamānaḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -176,7 +179,8 @@ vaiśvānaráḥ ← vaiśvānará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That **Agni** who, as soon as born in the highest heaven, the protector of sacred rites, protects the pious acts (of men), he has made he manifold firmament; **vaiśvānara**, the performer of good deeds, has attained heaven by his greatness.”
 </details>

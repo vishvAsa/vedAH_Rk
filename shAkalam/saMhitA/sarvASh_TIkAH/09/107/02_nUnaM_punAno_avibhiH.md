@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávibhiḥ ← ávi- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -167,11 +170,13 @@ góbhiḥ ← gáv- ~ gó- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**) who are unassailable, who are most fragrant, flow around now being purified by the fleece; being effused we praise you eminent in the waters mixing you with food and the (products of the) kind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With food: andhsā = **saktu**, flour
 </details>

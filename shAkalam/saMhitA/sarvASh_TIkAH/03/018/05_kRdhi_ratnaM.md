@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhánānām ← dhána- (nominal stem)  
 {case:GEN, gender:N, number:PL}
 
@@ -206,7 +209,8 @@ vápūṁṣi ← vápus- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Liberal donor (of riches) bestow upon us the most precious of treasures, for therefore is it, **Agni**, that you are kindled; you have aims promptly stretched forth, whose (radiant) forms (bestow) wealth on the dwelling of your fortunate adorer.”
 </details>

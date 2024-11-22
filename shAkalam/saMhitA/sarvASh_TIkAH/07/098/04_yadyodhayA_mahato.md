@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahatáḥ ← mahā́nt- (nominal stem)  
 {case:ACC, number:PL}
 
@@ -194,7 +197,8 @@ tváyā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you enable us to encounter mighty and arrogant (enemies), we are competent to overcome themalignant by our (unarmed) **hands** alone; and when you, **Indra**, surrounded by your attendants (**Maruts**), fightagainst them, we shall triumph, aided by you (in) that glorious war.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhma ← bráhman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -208,7 +211,8 @@ viśvaminva ← viśvaminvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who are wise, come to our adoration; let your horses harnessed be before us; gratified of all(men), all mortals severally invoke you; hear, therefore, our (invocation).”
 </details>

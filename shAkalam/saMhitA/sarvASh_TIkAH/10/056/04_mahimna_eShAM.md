@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 caná ← caná (invariable)  
 {}
 
@@ -203,11 +206,13 @@ viviśuḥ ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Our progenitors (the **Aṅgirasas**) were lords over the might of those (divinities), they having becomegods imposed their will upon the gods; they attained also (the radiances) which shone forth, and they againentered the bodies of those (gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The purport of this and following ṛcas is to enjoin **Vājin** to follow theexample of the Aṅgirasas
 </details>

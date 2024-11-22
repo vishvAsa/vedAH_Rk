@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātávedase ← jātávedas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -133,7 +136,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us, laden with oblations, offer worship with fuel and invocations of the gods to the divineJātavedas, to the purely lustrous **Agni**.”
 </details>

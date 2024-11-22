@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvāvat ← áśvāvant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -184,7 +187,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, bestow upon us affluence, comprehending cattle, horses, cars, treasure, and **male** descendants; sons of **Rudra**, grant us distinction; may I ever enjoy your divine protection.”
 </details>

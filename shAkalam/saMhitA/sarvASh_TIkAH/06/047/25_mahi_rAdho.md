@@ -21,13 +21,16 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádhānān ← √dhā- 1 (root)  
 {case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
 
@@ -102,7 +105,8 @@ sārñjayáḥ ← sārñjayá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The son of **Sṛñjaya** has reverenced the **Bharadvājas** who have accepted such great wealth for the good of all men.”
 </details>

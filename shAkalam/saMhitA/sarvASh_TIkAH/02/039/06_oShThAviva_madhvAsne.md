@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 āsné ← āsán- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ suśrútā ← suśrút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like two lips uttering sweet words, like two breasts yielding nourishment for our existence; be to us like two noses, preserving our person ns, and like two ears for the hearing of agreeable (sounds).”
 </details>

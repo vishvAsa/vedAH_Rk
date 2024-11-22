@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hyás ← hyás (invariable)  
 {}
 
@@ -171,7 +174,8 @@ svásaram ← svásara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thunderer, your worshippers, ready with their oblations, have today and yesterday made you drink (theSoma); listen, **Indra**, here to us who offer you praise and come you to our dwelling.”
 </details>

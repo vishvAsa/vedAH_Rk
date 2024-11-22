@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 agrajā́m ← agrajā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -147,7 +150,8 @@ prajā́patiḥ ← prajā́pati- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke **Tvaṣṭā**, the first-born, the protector, the leader; the golden-coloured pure-flowing **Indu** is **Indra**, the showerer, the lord of all creatures.”
 </details>

@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 yajñávāhasam ← yajñavāhas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -122,7 +125,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(His worshippers) have magnified with many sacrifices him to whom the sacrifice is offered, and withmany libations the eager quaffer of the **Soma**; (they have magnified) **Indra** with hymns, (their praises) haveattained him.”
 </details>

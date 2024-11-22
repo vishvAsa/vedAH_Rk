@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ádhukṣat ← √duh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -111,11 +114,13 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wind by means of the sun's seven rays milks the nourishing food and drink from the seven-steppedone.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Saptapadīm = the middle tone with gliding foot, which is person nified in the cow that is milked into thegharma; sarpaṇa **svabhāva** pādam mādhyamikam vācam gharmadhugrūpeṇāvasthitām; the thunder isoften called the **mādhyamikā** vāk; the cow (**soma** krayani) which is given as the price of the Soma, has totake seven steps, and it is considered to be vāk person nified; cf. **Taittirīya** **Saṃhitā** 6.1.7.8
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 girā́ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -132,7 +135,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, Aṅirasa, whom Gopavana by his praise has made the especial giver of food-- O purifier, hear thisprayer.”
 </details>

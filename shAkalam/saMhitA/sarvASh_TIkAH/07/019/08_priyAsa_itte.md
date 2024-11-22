@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhíṣṭau ← abhíṣṭi- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -176,7 +179,8 @@ kariṣyán ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, **Maghavan**, leaders in your adoration, regarded as dear friends, be happy in our homes; aboutto bestow felicity upon Atithigvan, humiliate **Turvaśa**; (humiliate) the son of **Yadu**.”
 </details>

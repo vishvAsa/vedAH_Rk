@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhartā́raḥ ← dhartár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -188,11 +191,13 @@ yantu ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the upholders of the sky, the radiant with truth, the well-armed deities, **Vāta** and **Parjanya**, (theutterers) of the mighty thunder, the waters, the plural nts, amplify our praises; may the liberal **Bhaga** and Vājinscome to my invocation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The radiant with truth: **Ṛbhus**;
 

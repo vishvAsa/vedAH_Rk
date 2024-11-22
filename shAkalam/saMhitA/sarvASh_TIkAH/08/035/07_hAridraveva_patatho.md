@@ -23,15 +23,18 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 hāridravā́ ← hāridravá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -196,11 +199,13 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You alight upon the effused **Soma** as the Hāridravā plural nges unto the water; you fall upon it like twobuffaloes (plural nging into a pool); united with the dawn and with **Sūrya**, come, **Aśvins**, by the triple path.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hāridravā: a tree; by the triple path: trir vartir yātam, the three daily ceremonies; or, come thrice to ourdwelling
 </details>

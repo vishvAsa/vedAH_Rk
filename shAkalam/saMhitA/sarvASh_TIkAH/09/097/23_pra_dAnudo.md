@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dānudáḥ ← dānudá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ raśmíbhiḥ ← raśmí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine benefactor of givers, poured (boons) on givers, the intelligent (**Soma**) distils his true beverage for true (**Indra**); the radiant (Soma) is the upholder of strength, he is entirely restrained by the ten fingers.”
 </details>

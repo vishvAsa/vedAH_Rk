@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 girā́ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -202,11 +205,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I praise) with a like praise, with the praises of (my) progenitors, with the eulogies of **Nabhāka**, thatVaruṇa who rises up in the vicinity of the rivers, and in the midst (of them) has seven sisters; may all ouradversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sindhūnām upoday saptasvasā sa **madhyamaḥ**: cf. **Yāska** 10.5
 </details>

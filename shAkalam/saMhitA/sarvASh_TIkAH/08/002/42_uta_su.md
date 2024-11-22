@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 payovŕ̥dhā ← payovŕ̥dh- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -115,11 +118,13 @@ māmahe ← √maṁh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify those two (heaven and earth), the augmenters of water, the originators (of beings), thebenefactors of the worshipper, on account of their genitive ration (of the wealth so given to me).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Those two heavenand earth: tye payovṛdhā mākī raṇasya naptyā janitvanāya māmahe: the substantive is added:dyāvāpṛthivau, because, they being plural ased such a gift is obtained, tayoḥ prassayor evedam dānamlabhyate;
 

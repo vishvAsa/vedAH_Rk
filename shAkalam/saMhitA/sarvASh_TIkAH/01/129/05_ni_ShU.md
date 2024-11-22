@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -37,7 +39,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 átimatim ← átimati- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -269,7 +272,8 @@ váhniḥ ← váhni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Humble the adversary of every one (your worshippers) fierce (**Indra**), by your aids, like radiant paths, (to glory); by your powerful aids, gude us, hero, as you have guided our forefathers, for you are honoured (by all). You (Indra), who are the sustainer (of the world), remove all (the sins) of man; present at our sacrifice, you are the bearer (of good things).”
 </details>

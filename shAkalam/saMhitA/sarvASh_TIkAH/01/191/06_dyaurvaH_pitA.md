@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 dyaúḥ ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ tíṣṭhata ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven, (serpents), is your father; Earth, your mother; **Soma**, your brother; **Aditi**, your sister; unseen all-seeing abide (in your own holes); enjoy (your own) good plural asure.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma is here the moon; heaven is the residence of Soma: somadharo dyulokaḥ
 </details>

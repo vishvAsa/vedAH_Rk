@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ajati ← √aj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -207,11 +210,13 @@ svit ← svit (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One pours the red water (the blood) upon the ground; one cuts the flesh, divided into fragments by the chopper; and a third seperates the excrement from the other parts; in what manner may the parents (of the sacrifice) render assistance to their sons?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The **Ṛbhus** are identified with the priests employed in the sacrifice of a victim; the parents of the sacrifice: the parents **pitṛs**, = the instrumental tutor of the ceremony and his wife
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -113,11 +116,13 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pure-flowing (**Soma**) shines forth in its brightness, the universal lord, the showerer of blessings, the rejoicer, uttering a loud sound.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The deities, samidh and others are severally invoked in the successive verses. Soma is praised in the form of the Āpris, and samiddhaḥ is explained as samyagdīptaḥ
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyasáḥ ← āyasá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -168,11 +171,13 @@ upāké ← upāká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**'s iron thunderbolt is grasped firmly in his **hand**, enormous strength resides in his arms; when hegoes forth (to battle), there is ample employment for his head and his mouth, and (his followers) rush near him tohear his commands.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ample employment for his head and his mouth: i.e. his head is employed in fitting thehelmet, etc., and his eyes in seeking the enemy; and the mouth issues its various orders
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 duṣṭáraḥ ← duṣṭára- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ vrajé ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Which is invincibel in contests -- O you desired by all-- well-worthy of praise and the deliverer (fromenemies); come to our oblations, most mighty one, giver of dwellings; may we obtain a stall full of kine.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Delivererfromm enemies: tarutr. = jetr. (RV 8.1.28)
 </details>

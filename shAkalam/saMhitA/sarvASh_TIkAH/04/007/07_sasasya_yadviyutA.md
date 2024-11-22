@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sasásya ← sasá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ véḥ ← √vī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whom, when they desist from slumber, the devout propitiate in the abode of water at every sacrifice; the mighty **Agni**, to whom oblations are to be offered with reverence, who truthful always, accepts the sacrifice.”
 </details>

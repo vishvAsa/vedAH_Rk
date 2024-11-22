@@ -26,10 +26,12 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 nahí ← nahí (invariable)  
 {}
 
@@ -240,11 +243,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do we not invoke you both? We worship especially **Indra**, who is the strongest leader of men; he comesoccasionally with his horses to bestow upon us food; he comes to partake of the sacrifice; may all ouradversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Do we not invoke you both: we do not invoke you both; to bestow upon us food: for thereceiving of food
 </details>

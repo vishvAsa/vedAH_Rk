@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 bhū́rṇayaḥ ← bhū́rṇi- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -136,11 +139,13 @@ tvácam ← tvác- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Praise the **Soma**-juices) which descend like streams of water, swift, brilliant, rapid driving off the black skinned (**rākṣasa**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Liṭ, the black skin, or the black cover (i.e. darkness); **rākṣasas** as the person nification of darkness of the night
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánmane ← jánman- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -197,7 +200,8 @@ yudhā́ ← yúdh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We proclaim eagerly, **Maruts**, your ancient greatness, for (the sake of inducing) your prompt appearance, as the indication of (the approach of) the showerer (of benefits). Loud-roaring and mighty Maruts, you exert your vigorous energies for the advance (to the sacrifice), as if it was to battle.”
 </details>

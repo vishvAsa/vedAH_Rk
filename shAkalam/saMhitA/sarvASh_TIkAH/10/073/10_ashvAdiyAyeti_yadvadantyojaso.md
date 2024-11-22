@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvāt ← áśva- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ yátas ← yátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Although (some) say he came from the horse (the sun), I know that he is the offspring of strength; hecame from wrath, he stands in the homes (of his enemies); **Indra** knows whence he was born.”
 </details>

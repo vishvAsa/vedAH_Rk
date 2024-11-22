@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádāśat ← √dāś- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -160,11 +163,13 @@ vr̥traháṇam ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wife of **Purukutsa** propitiated you two, **Indra** and **Varuṇa**, with oblations and prostrations, and therefore you gave her the king **Trasadasyu**, the slayer of foes dwelling near the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dwelling near the gods: ardhadevam = devānām samīpe vartamānam (yat sarveṣāmardhamindraḥ : **Taittirīya** **Saṃhitā** 5.4.8.3); or, Indra is declared to be one half of all the gods, and therefore, entitled to the largest share of offerings, yat sarveṣām ardham **indraḥ** **prati** tasmād indro devatānām bhuyiṣṭha bhāktmaḥ
 </details>

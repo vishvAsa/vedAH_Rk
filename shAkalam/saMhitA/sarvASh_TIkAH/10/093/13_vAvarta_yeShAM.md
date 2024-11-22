@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 rāyā́ ← rayí- ~ rāy- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -147,7 +150,8 @@ vŕ̥thā ← vŕ̥thā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those whose (praise) arrives, accompanied by wealth, of them it is (as) a golden (ornament), likemanly powers in battle reaching the conclusion as it were, without an effort.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́vaḥ ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -190,7 +193,8 @@ védanā ← védana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have protected, **Maghavan**, the excellent son of Śvitā, when combating for his lands, and encouraged (by you) when immersed in water; do you inflict sharp pains on those of hostile minds, who have long stood (in enmity) against us.”
 </details>

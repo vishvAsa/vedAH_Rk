@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
-#### Morph
+_________
+**Morph**  
 anādhr̥ṣyā́ḥ ← anādhr̥ṣyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -181,7 +184,8 @@ tā́n ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To those who through penance are unassailable (by sin), to those who through penance have gone toheaven, to those who have performed abundant penance, do you (O dead one) go.”
 </details>

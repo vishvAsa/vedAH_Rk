@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -186,7 +189,8 @@ vā́jebhiḥ ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Maruts**, who are irreproachable, pure, and purifying, delight in this our ceremony; protect us,adorable Maruts, with favourable thoughts; be ever anxious to sustain us with food.”
 </details>

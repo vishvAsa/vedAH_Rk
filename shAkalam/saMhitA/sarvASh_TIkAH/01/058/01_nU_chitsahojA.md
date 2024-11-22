@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥taḥ ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -198,11 +201,13 @@ vivāsati ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The strength-genitive rated, immortal **Agni** quickly issues forth, when he is the invoker of the gods, and the messenger (of the worshipper) (then proceeding) by suitable paths, he has made the firmament, and worships (the deities) in the sacrifice with oblationṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agni is identified with light; firmament existed in darkness and agni made it visible; hence agni is said to have created (vimame, nirmame) the firmamement
 </details>

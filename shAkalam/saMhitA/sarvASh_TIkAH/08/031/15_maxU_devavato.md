@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devávataḥ ← devávant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ bhuvat ← √bhū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The chariot of the devout worshipper quickly (prevails), as the hero (prevails) in all combats whatever;the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who are nosacrificers.”
 </details>

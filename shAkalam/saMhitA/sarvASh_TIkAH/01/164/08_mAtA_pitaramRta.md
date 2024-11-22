@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -203,11 +206,13 @@ upavākám ← upavāká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mother, (earth), worships the father, (sun), with holy rites, for the sake of water; but he has anticipated (her wants) in his mind; whereupon desirous of progeny, she is penetrated by the dews of impregnation, and, (all) expectant of abundance, exchange words (of congratulation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Exchange words: metaphocial account of the agency of the sun sending rain upon the earth and its consequent fertility
 </details>

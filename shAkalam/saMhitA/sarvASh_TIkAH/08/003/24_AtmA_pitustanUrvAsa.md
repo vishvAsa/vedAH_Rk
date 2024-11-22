@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ātmā́ ← ātmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -147,7 +150,8 @@ dātā́ram ← dātár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “His father's own son, the giver of dwellings, the sustainer of strength like (invigorating) unguents, Icelebrate Pākasthāman, the destroyer (of foes), the despoiler (of enemies), the donor of the tawny (horse).”
 </details>

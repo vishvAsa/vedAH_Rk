@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 grā́vā ← grā́van- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -140,11 +143,13 @@ vr̥trahantama ← vr̥trahántama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The stone is the showerer, the inebriation is the showerer, this effused **Soma** is the showerer; showerer (of benefits), **Indra**, utter destroyer of **Vṛtra**, come with the showering (**Maruts**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The showerer: either of the Soma juice, or the benefits derivable from offering it; here there is a plural y on the word **vṛṣā**
 </details>

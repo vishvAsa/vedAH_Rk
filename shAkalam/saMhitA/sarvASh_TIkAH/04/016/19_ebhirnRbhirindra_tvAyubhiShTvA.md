@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ebhíḥ ← ayám (pronoun)  
 {case:INS, gender:M, number:PL}
 
@@ -192,7 +195,8 @@ pūrvī́ḥ ← purú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In every battle, **Maghavan**, may we, along with those men who trust in you and offer rich gifts, like those who are resplendent with riches, triumphing over their foes, glorify you many nights and years.”
 </details>

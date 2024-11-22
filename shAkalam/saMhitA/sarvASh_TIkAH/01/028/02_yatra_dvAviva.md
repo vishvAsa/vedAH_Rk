@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D;; repeated line  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 dvaú ← dvá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -146,7 +149,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, (in the rite) in which the two patters for containing the juice, as (broad as a woman's) hips, are employed, recognize and partake of the effusion of the mortar.”
 </details>

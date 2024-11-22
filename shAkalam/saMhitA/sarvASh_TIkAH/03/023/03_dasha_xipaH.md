@@ -23,15 +23,18 @@ ChandaH = "सतोबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajījanan ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -174,11 +177,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ten fingers have genitive rated this ancient (**Agni**); praise, **Devaśravas**, this well-born, beloved (son) of his parents, genitive rated by Devavāta, Agni, who is the servant of men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His parents: the two pieces of stick that have been rubbed together by Devavāta
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kanā́yāḥ ← kanā́- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -176,11 +179,13 @@ usríyāyāḥ ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Quickly (obtaining) the friendship of the maiden, they poured forth water like new wealth, when theyoffered to you (**Indra**) the pure riches, the milk of the cow, that yields ambrosia.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pure riches: rekṇas = wealth leftby a dead person n, wealth consisting of water
 </details>

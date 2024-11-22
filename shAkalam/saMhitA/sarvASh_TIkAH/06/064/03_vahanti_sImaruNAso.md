@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṇā́saḥ ← aruṇá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -182,11 +185,13 @@ vóḷhā ← vóḷhar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ruddy and resplendent kine bear the auspicious, expanding, illustrious dawn; like a warrior, who, casting his darts, or a swift charger scattering enemies, she drives away the glooms.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kine: **gāvaḥ** = raśmayaḥ, rays
 </details>

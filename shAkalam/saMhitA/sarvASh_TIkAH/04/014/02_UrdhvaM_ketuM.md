@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 aśret ← √śri- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -178,7 +181,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine **Savitā** displays his banner on high, diffusing light through all worlds; contemplating (all things), the sun has filled heaven and earth and the firmament with his rays.”
 </details>

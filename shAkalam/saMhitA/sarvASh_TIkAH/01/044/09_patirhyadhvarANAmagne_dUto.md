@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarā́ṇām ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -163,7 +166,8 @@ svardŕ̥śaḥ ← svardŕ̥ś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are the protector of the sacrifices of the people, and the messenger (of the gods); bring hither today the gods awaking at dawn, and contemplating the sun, to drink the **Soma** juice.”
 </details>

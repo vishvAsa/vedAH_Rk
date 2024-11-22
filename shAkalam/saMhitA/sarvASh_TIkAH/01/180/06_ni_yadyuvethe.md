@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ní ← ní (invariable)  
 {}
 
@@ -201,7 +204,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bountiful givers, when you yoke your horses you replenish the earth with viands; may this your worshipper be (swift) as the wind to propitiate and plural ase you, that, through your great (favour), he may, like a pious man, obtain food.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 avadan ← √vadⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -182,11 +185,13 @@ r̥téna ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These spoke first about **Brahmā**'s sin, the boundless (sun), the water- god (**Varuṇa**), the wind-god(**Vāyu**), the fierce, wide-consuming fire, the source of happiness, (**Soma**), the divine waters, the first-born sonsof the truthful (Brahmā).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: **Juhū** is vāc, speech, the wife of Brahmā. **Vācaspati**, the lord of speech,who is **Bṛhaspati**, is also said to be the husband of Juhū or Vāc. On some occasion, Bṛhaspati's sin resultedin her losing her husband's affections, and he deserted her. Afterwards the gods consulted together as to themeans of expiation of Bṛhaspati's sin, and restorred her to her husband
 </details>

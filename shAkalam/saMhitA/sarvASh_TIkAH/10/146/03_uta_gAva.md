@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 adanti ← √ad- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -158,7 +161,8 @@ sarjati ← √sarj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “It is as if cows are grazing, and it looks like a dwelling, and Aranyāni at eventide, indeed, dismissedthe carts.”
 </details>

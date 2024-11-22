@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ryān ← ā́rya- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -198,11 +201,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Discriminate between the **Āryas** and they who are **Dasyus**; restraining those who perform no religious rites, compel them to submit to the performer of sacrifices; be you, who are powerful, the encourager of the sacrificer; I am desirous of celebrating all your deeds in ceremonies that give you satisfaction.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Āryas are those who practise religious rites; Dasyus do not observe religious ceremonies and inimical to those who do
 </details>

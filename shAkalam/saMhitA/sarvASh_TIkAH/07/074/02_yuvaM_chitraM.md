@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhójanam ← bhójana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -161,7 +164,8 @@ somyám ← somyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are possessed, leaders (of rites), of marvellous wealth; bestow upon him who sincerely praisesyou; alike favourable-minded, direct your chariot to our presence; drink the sweet **Soma**.”
 </details>

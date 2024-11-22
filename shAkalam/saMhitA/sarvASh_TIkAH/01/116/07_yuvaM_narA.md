@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 narā ← nár- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -156,11 +159,13 @@ súrāyāḥ ← súrā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You gave, leaders (of sacrifice), to **Kakṣīvat**, of the race of Pajra, various knowledge; you filled from the hoof of your vigorous steed, as if from a cask, a hundred jars of wine.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pajras = **Aṅgiras**; Kakṣīvat was a descendant of this family
 </details>

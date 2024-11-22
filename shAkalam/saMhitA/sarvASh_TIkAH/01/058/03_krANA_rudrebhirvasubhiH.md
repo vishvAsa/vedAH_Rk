@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 krāṇā́ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
 
@@ -174,11 +177,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The immortal, and resplendent **Agni**, the bearer of oblations, honoured by the **Rudras** and the **Vasus** the invoker of the gods, who presides over oblations and is the distributor of riches, praised by his worshippers, and admired like a chariot amongst mankind, accepts the oblations that are successively presented.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Purohitaḥ** = puraskṛtaḥ, honoured or lit. plural ced in front or preceding
 </details>

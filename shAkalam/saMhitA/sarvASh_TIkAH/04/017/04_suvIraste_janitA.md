@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyaúḥ ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ sádasaḥ ← sádas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven, your progenitor, conceived (I have obtained) a worthy son; the maker of **Indra** was the accomplisher of a most excellent work; he who begot the adorable (Indra), armed with the thunderbolt, irremovable from his station, and endowed with greatness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Heaven, your progenitor: **suvīras** te **janitā** manyata **dyauḥ**: dyauḥ = dyotamāna;
 

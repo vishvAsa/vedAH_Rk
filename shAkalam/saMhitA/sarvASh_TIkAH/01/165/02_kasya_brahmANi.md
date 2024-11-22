@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bráhmāṇi ← bráhman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -176,7 +179,8 @@ rīramāma ← √ram- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of whose oblations do the youthful (**Maruts**) approve; who attracts them to his (own) sacrifice (from the rites of others); with what powerful praise may we propitiate (them), wandering like kites in the mid-air?”
 </details>

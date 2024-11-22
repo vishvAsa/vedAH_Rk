@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hárayaḥ ← hári- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -189,7 +192,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The smooth-gliding wafters (of the rain, the solar rays), clothing the waters with a dark cloud, ascend to heaven; they come down again from the dwelling of the rain, and immediately the earth is moistened with water.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -165,11 +168,13 @@ sā́dhase ← √sādh- ~ sidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise **Agni**, (O sacrificers), for the inauguration of your divine offering; (I praise him) when thesacrifice is proceeding; (I praise) Agni first of the gods, at our rites; (I praise) Agni when the enemy approaches; (Ipraise) Agni for the attainment of land.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For the attainment of land: the fruit of the sacrifice
 </details>

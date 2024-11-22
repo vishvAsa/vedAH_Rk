@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 huvema ← √hū- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
 
@@ -135,7 +138,8 @@ viśā́m ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us with uplifted ladles invoke him, the brilliant, bright-shining, undecaying, ancient **Agni**, who is to beadored by men.”
 </details>

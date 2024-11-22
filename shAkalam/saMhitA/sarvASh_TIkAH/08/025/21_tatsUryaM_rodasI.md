@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -153,11 +156,13 @@ sádā ← sádā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify by night and day that sun (**Mitra** and **Varuṇa**) and both the heaven and earth; do you (Varuṇa)ever bring us to the presence of the bountiful.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That sun, Mitra and Varuṇa: tat sūryam = the brightness of Mitraand Varuṇa; sūryam suvīryam tat varuṇam maitram ca **tejas**
 </details>

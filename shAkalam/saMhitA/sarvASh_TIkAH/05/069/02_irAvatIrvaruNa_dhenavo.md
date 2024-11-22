@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenávaḥ ← dhenú- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -172,11 +175,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, the cows are full o fmilk through your (command), and the rivers yield through your (will) sweet water; through you the three radiant receptacles and showerers of rain stand severally in their three spheres.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Agni**, **Vāyu** and **Āditya**, present, severally, upon the earth, in the mid-air, and in heaven
 </details>

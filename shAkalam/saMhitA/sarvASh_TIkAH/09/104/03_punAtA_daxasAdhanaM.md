@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dakṣasā́dhanam ← dakṣasā́dhana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -117,7 +120,8 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purify the bestower of strength so that he may make for invigoration for the banquet (of the gods) and may grant much happiness to **Mitra** and **Varuṇa**.”
 </details>

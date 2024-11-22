@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 daduḥ ← √dā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -239,7 +242,8 @@ vindate ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have not assigned hunger as (the cause of) death, for deaths approach the man who haseaten; the riches of one who gives do not diminish, he who gives not finds no consoler.”
 </details>

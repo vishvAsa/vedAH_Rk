@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūta ← √bhū- (root)  
 {number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -189,7 +192,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhus**, go not away; let us not leave you (thirsting); (be present) unreproached at this sacrifice; be exhilarated, deities, along with **Indra**, with the **Maruts**, and with (other) brilliant (divinities), for the distribution of wealth.”
 </details>

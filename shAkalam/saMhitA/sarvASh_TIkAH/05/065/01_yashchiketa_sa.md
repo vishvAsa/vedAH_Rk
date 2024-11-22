@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cikéta ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -167,7 +170,8 @@ vánate ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who knows (how to honour you two) among the gods, is ghe performer of good works; let him, communicate (that knowledge) to us, he of whom the graceful **Varuṇa** or **Mitra** accepts the laudation.”
 </details>

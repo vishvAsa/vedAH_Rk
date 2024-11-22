@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvā ← árvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -157,7 +160,8 @@ vásubhiḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Dadhikrāvan, the swift steed, the first (of horses), knowing (his office), is in the front of the chariots (ofthe gods), consentient with Uṣas, with **Sūrya**, wiḥ the **Ādityas**, with the **Vasus**, with the **Aṅgirasas**.”
 </details>

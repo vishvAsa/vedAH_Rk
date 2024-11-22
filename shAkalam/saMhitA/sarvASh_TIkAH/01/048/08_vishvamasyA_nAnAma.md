@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyāḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -179,11 +182,13 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All living beings adore her, that she may be visible; bringer of good, she lights up the world; the affluent daughter of heaven drives away the malevolent and disperses the absorbers (of moisture).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sridhaḥ: śoṣayitṛn = the driers up; an allusion to the clouds which take up the dew of night?
 </details>

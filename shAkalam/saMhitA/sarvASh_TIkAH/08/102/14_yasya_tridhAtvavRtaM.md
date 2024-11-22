@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ávr̥tam ← ávr̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -146,11 +149,13 @@ padám ← padá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The waters find their plural ce in him, for whom the triple-jointed grass is spread unlimited and untied (inthe sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Waters find their plural ce in him: waters rest in **Agni**, who abides as lightning in the firmament;triple- jointed grass: tridhātu = triparvan; sacred grass is not tied in bundles in the sacrifice;
 

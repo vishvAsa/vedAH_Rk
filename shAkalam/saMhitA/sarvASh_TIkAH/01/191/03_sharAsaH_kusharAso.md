@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 kúśarāsaḥ ← kúśara- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -133,11 +136,13 @@ sárve ← sárva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Blades of) **śarā** grass, (of) kuśarā, (of) **darbha**, (of) sairyā, (of) **muñja**, (of) **vīraṇa**, all (the haunt) of unseen (venomous creatures), have together anointed me (with their venom).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Blades of śarā: these are, saccarum **śara**, poa cynosuroides, saccharum spontaneum, saccarum muñja, andropogon muricatum, long-reed like grasses, amidst which reptiles may lurk unseen
 </details>

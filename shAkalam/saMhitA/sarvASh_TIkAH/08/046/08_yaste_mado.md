@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádaḥ ← máda- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -155,11 +158,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That exhilaration of your, **Indra**, which is pre-eminent, which utterly desroys your enemies, which winswealth from men, and is invincible in battles.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From men: nṛbhiḥ = śatrubhyaḥ, from your foes
 </details>

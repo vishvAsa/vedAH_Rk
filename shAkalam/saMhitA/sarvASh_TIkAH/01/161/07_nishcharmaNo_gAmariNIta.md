@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ariṇīta ← √rī- (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -198,7 +201,8 @@ yuktvā́ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sons of **Sudhanvan**, from a hideless (cow) you have formed a living one; by your marvellous acts you have made your aged parents young; from one horse you have fabricated another; harness now your chariot, and repair unto the gods.”
 </details>

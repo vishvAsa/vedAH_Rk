@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devayántaḥ ← √devay- (UNK_TYPE)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -183,7 +186,8 @@ pariṣádantaḥ ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Performers of good works, brilliant and devout, the praises of the gods have freed their birth from impurity, as (a smith heats) bronze; exciting **Agni**, elevating **Indra**, and wandering about (in search), they have gone to the vast (hidden) herd of cattle.”
 </details>

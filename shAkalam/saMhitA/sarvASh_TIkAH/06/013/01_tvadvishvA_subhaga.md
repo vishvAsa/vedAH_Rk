@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 saúbhagāni ← saúbhaga- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -192,7 +195,8 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Auspicious **Agni**, all good things proceed from you like branches (from the trunk) of a tree, renowned rices, vigour for the destruction of foes, the rain of heaven; you are to be glorified the sender of the waters.”
 </details>

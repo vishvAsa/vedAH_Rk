@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devāḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -216,7 +219,8 @@ mādayadhvam ← √mad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Universal gods, hear this my invocation, whether you be in the firmament or in the heaven; you who (receive oblations) by the tongue of **Agni**, or are to be (otherwise) worshipped; seated on this sacred grass, be exhilarated (by the **Soma**).”
 </details>

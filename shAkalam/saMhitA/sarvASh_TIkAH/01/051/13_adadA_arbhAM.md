@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádadāḥ ← √dā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -193,11 +196,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have given, **Indra**, the youthful Vṛcaya to the aged **Kakṣīvat**, praising you and offering oblations; you, **Śatakratu**, were **Menā**, the daughter of **Vṛṣaṇaśva**; all these your deeds are to be recited at your worship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vṛcaya was given to Kakṣīvat at a **rājasūya** ceremony. Indra became Menā, the daughter of Vṛṣaṇaśva and later, also fell in love with her. Menā is a daughter of **Pitṛs** by **Svadhā** and the wife of **Himavat**, king of mountains
 </details>

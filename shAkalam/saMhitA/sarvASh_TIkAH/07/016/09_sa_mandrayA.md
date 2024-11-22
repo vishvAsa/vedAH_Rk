@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -172,7 +175,8 @@ sūdaya ← √sūd- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The most wise **Agni** is the bearer (of oblations), as the mouth of the gods with his graceful tongue (offlame); bring riches, Agni, to the affluent (in sacrifices); encourage the donor of the oblation.”
 </details>

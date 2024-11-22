@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 parāvátaḥ ← parāvát- (nominal stem)  
 {case:ABL, gender:F, number:SG}
 
@@ -127,7 +130,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The som whom **Suparṇa**, the son of the falcon, brought from afar, the bestower of many boons, whois the stimulator of Ahi.”
 </details>

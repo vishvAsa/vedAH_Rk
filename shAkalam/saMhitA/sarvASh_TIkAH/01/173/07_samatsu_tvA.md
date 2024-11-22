@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 samátsu ← samád- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -166,7 +169,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those people, who, jointly worshipping **Indra**, diligently endeavour, O hero, to propitiate you, the invigorator in combats, the guide in the right way; provide, for his gratification, with sacrificial viands.”
 </details>

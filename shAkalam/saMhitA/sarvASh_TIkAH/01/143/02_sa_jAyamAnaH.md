@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jā́yamānaḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -181,11 +184,13 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as born, what that (**Agni**) manifested to Matariśvan in the highest atmosphere, and his radiance, kindled by vigorous effort, spread through heaven and earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Mātariśvan**: to the wind, to be fanned into flame; in another text: tvam agne prathamo mātariśvane āvirbhava, by first manifest, Agni, to the wind; or mātariśvan = **yajamāna**, or sacrificer
 </details>

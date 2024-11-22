@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ámena ← áma- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus (glorified), to you (**Soma**) like a king, performing your functions, flow on destroying all evils by your might; **Indu**, give food (in answer) to (our) well-recited praise; do you (O gods) cherish us ever with blessings.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ vácasaḥ ← vácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who, **Agni**, among your (followers) are the imprisoners of foes? who among them are the protectors (of men) the splendid distributors of gifts? who among them defend the asserters of untruth? who are the encouragers of evil deeds?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who among them: The last are person ns not worshipping Agni; another rendering: who are they that confine their foes? who are they that preserve men from uttering untruth? who are they that vindicate people from calumny? they are, Agni, your worshippers
 </details>

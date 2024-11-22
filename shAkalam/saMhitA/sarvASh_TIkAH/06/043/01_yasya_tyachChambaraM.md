@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 8+4
-#### Morph
+_________
+**Morph**  
 máde ← máda- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -145,11 +148,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Soma**, in the exhilaration of which it is known that you have subdued **Śambara** for (the sake of) **Divodāsa**, is poured out, **Indra**, for you; drink.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 It is known: yasya tyacchambaram made: tyat = tat prasiddham yathā **bhavati** tathā, such as that which is notorious
 </details>

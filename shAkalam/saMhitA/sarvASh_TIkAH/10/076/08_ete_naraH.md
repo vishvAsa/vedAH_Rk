@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūtana ← √bhū- (root)  
 {number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -188,7 +191,8 @@ vásu-vasu ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You stones, leaders (of rites), youu are the doers of good works; you who express the **Soma** for **Indra**,(make) all desirable wealth for the glory of heaven; you (give) all treasures to the earthly effuser.”
 </details>

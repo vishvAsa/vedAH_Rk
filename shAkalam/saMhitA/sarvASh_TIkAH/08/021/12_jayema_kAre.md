@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jáyema ← √ji- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
 
@@ -177,11 +180,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, invoked of many, may we conquer in battle those contending against us; may we resist themalignant; may we, aided by the leaders (of rites, the **Maruts**), slay **Vṛtra**; may we be prosperous, and do youprotect our pious works.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Leaders of rites: nṛbhiḥ = wielders of weapons, āyudhanetṛbhiḥ;
 

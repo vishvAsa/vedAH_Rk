@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iyarmi ← √r̥- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -183,7 +186,8 @@ víśvābhiḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of bay steeds, showerer (of benefits), I send you strong good drink that you may proceed; **Indra**,who are glorified for your prowess, be exhilarated at this (ceremony) with praises, with all rites.”
 </details>

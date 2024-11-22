@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 8+4;; repeated line
-#### Morph
+_________
+**Morph**  
 mádam ← máda- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -161,7 +164,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Soma**, the exhilarating draught of which, when fresh effused (at dawn), or at noon, or at the last (or evening worship), you cherish, is poured out, **Indra**, for you; drink.”
 </details>

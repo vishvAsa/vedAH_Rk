@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -200,7 +203,8 @@ tū́rvatam ← √tūr(v)- ~ tur- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wise **Nāsatyās** come quickly to my invocation (united) with holy acts; (extricate us) from thick darkness, as you did extricate **Atri**; protect us, leaders (of rites) from danger in battle.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 agmata ← √gam- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -125,11 +128,13 @@ rā́jabhiḥ ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhus**, the exhilarating juices are offered to you, along with **Indra**, attended by the **Maruts** and along with the brilliang **Ādityas**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Libations offered at the third daily, or evening sacrifice, are presented to Indra, along with the Ādityas, together with **Ṛbhu**, **Vibhu** and **Vāja**, with **Bṛhaspati** and the **Viśvedevās** (**Āśvalāyana** **Śrauta Sūtra**, 5.3)
 </details>

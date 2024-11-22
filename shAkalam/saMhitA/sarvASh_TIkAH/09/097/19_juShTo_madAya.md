@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devátāte ← devátāt- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -169,7 +172,8 @@ vā́jasātau ← vā́jasāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indu**, who are adequate for exhilaration flow in a stream to the elevated fleece at the sacrifice; thousand- streaming, fragrant, irresistible, flow for the acquisition of food in the combat.”
 </details>

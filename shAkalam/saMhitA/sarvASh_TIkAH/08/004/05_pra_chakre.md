@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakre ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -171,11 +174,13 @@ yemire ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By his strength he has overpowered the strength (of his foes), he has crushed thei wrath by hisprowess; all hostile armies have been arrested like trees (immoveable through fear), mighty **Indra**, by you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Allhostile armies: or, those wishing to fight, pṛtanāyavaḥ
 </details>

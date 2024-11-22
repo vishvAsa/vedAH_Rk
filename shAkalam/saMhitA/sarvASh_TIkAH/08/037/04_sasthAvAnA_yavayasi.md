@@ -23,17 +23,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ékaḥ ← éka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -166,7 +169,8 @@ vajrivaḥ ← vajrivant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You alone, **Indra**, lord of rites, separate the combined worlds (heaven and earth) with all yourprotections; slayer of **Vṛtra**, irreproachable wielder of the thunderbolt, drink of the **Soma** at the mid-daysolemnity.”
 </details>

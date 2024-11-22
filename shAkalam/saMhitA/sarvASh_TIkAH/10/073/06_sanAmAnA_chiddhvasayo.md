@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ sākám ← sākám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have expelled the two of the same name, you have destroyed the **Vṛtra** as (he destroyed) the cartof the dawn; you advance with the mighty friends (the **Maruts**), who were eager (to slay the Vṛtra); youdemolished his precious limbs.”
 </details>

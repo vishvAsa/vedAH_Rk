@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 okivā́ṁsā ← okiváṁs- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -164,7 +167,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You approach together, when the libation is effused, like two fleet coursers to their forage; we invoke today **Indra** and **Agni**, deities armed with the thunderbolt, to this ceremony for our preservation.”
 </details>

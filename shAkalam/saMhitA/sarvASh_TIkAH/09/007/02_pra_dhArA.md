@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 agriyáḥ ← agriyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -124,11 +127,13 @@ vándyaḥ ← vándya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That which is to be praised as the oblation among oblations is immersed in the great (holy) waters, the stream of honey, the pre-eminent.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Immersed in the great holy waters: i.e. vasatīvari waters; the pre-eminent: pra **dhārā** agriyaḥ = dhārā **mukhyaḥ** prapatanti, the pre-eminent streams fall down
 </details>

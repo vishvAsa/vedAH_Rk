@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́yudhā ← ā́yudha- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -159,7 +162,8 @@ māyínaḥ ← māyín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Strong be your weapons for driving away (your) foes, firm in resisting them; yours be the strength that merits praise, not (the strength) of a treacherous mortal.”
 </details>

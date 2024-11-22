@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dhruvā́ḥ ← dhruvá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -189,7 +192,8 @@ ráveṇa ← ráva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your progenitors (the mountains), stable from age to age, desirous of repose, seek not to mix with(religious) assemblies; exempt from decay, enjoying the **Soma**, flowing green (with Soma), they made heavenand earth resound with their clamour.”
 </details>

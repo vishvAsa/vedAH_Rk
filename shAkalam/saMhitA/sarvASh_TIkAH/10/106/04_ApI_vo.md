@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpī́ ← āpí- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -212,7 +215,8 @@ iva ← iva (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are kinsmen to us, like parents (to) sons, like two fierce shining fires, like two princes hastening togive protection, like two bestowers of food are you for the nourishment of men, like two luminaries for theenjoyment (of our worshippers), like two quick horses you came to our invocation.”
 </details>

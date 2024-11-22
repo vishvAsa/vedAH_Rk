@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avyat ← √vyā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -201,7 +204,8 @@ savitā́ ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She, (Night), enwraps the extended (world) like (a woman) weaving (a garment); the prudent man lays aside the work he is able (to execute) in the midst (of his labour); but all spring up (from repose) when the divine, unwearied Sun, who has divided the seasons, again appears.”
 </details>

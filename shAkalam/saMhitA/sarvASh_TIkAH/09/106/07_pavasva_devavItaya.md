@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 devávītaye ← devávīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -132,7 +135,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow, **Indu**, in your strength with your streams for the banquet of the gods; sit down, **Soma**, who are sweet-flavoured, in our pitcher.”
 </details>

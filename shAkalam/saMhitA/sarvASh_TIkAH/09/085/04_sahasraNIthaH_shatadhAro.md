@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádbhutaḥ ← ádbhuta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -206,7 +209,8 @@ urúm ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The guide of thousands, flowing in a hundred streams, marvellous, **Indu** flows forth for **Indra**, (his) beloved beverage; approach (the filter) winning (us) land, winning water, O **Soma**, sprinkler, make our path broad.”
 </details>

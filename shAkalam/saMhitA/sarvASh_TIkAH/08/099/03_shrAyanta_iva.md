@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -166,11 +169,13 @@ práti ← práti (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the gathering (rays) proceed to the son, so (the **Maruts** proceed) to **Indra**, and by their power divideall his treasures among those who have been or will be born; may we meditate on our share.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhakṣata =bhajata (or, vibhajante?): (O worshippers), as the gathering (rays) proceed to the sun, so do you enjoy all thewealth of Indra; and let us possess like an inheritance the treasures which by his power (he distributes) to himthat has been or will be born;
 

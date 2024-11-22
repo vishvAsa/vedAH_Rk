@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kratuvít ← kratuvíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -206,11 +209,13 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow for us, **Soma**, cognizant of (our) worship and deserving praise; pour (your) beloved sweet-flavoured (juice) upon the woollen fleece; slay, **Indu**, all the voracious **rākṣasas**; blessed with excellent **male** offspring may we offer ample (praises) at the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May we offer ample praises: bṛhad vadema = liṭ, may we say much (or speak loudly); or, may we solicit much wealth
 </details>

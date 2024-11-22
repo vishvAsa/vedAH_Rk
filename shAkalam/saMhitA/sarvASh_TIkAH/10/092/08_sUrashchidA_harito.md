@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -196,11 +199,13 @@ stan ← √stanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sun urging his steeds (in obedience to) his (commands) delights (in his presence); every (god) isin fear of the powerful **Indra**; from the belly of the formidable sighing showerer (of benefits) the all-enduringirresistible (deity) thunders day by day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Every god is in fear: cf. **Taittirīya** **Upaniṣad** 2.8
 </details>

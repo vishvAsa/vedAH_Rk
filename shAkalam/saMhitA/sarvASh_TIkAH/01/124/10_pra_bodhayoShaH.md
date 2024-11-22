@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bodhaya ← √budh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -169,7 +172,8 @@ sūnr̥te ← sūnŕ̥ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Awaken, wealth-abounding, Uṣā, those whose delight (in holy offerings); let the (niggard) traders, reluctant wake (for such a purpose), sleep on. Arise, opulent Uṣā, bearing wealth to the liberal (worshipper); speaker of truth, who are the waster away (of living creatures), arise, bearing wealth to him who praises you.”
 </details>

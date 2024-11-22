@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ārundhānáḥ ← √rudh- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -171,11 +174,13 @@ tirás ← tirás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who, opposing the mingled multitude in battles, rushes eager, passing through the regions, whose vigour is manifestl, who, understanding what is to be known, puts to shame the adversary of the (pious) man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vidhatā nicikyat tiro aratim paryāpa āyoḥ = jñātavyāni janam aramanām arim vā tiraskaroti stoturmanuṣyasya, knowing things cognizable, who disgraces the opponent, or the foe of the man, the praiser
 </details>

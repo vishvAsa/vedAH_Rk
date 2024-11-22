@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 etā́ḥ ← eṣá (pronoun)  
 {case:ACC, gender:F, number:PL}
 
@@ -206,11 +209,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Prajāpati** bestowing these (Cows) upon me concurring with the universal gods and the Pitara,bring the auspicious cattle to our cow-pen, may we be in possession of their progeny.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The **sūkta** is to berepeated at eventide, when the cows are being brought home
 </details>

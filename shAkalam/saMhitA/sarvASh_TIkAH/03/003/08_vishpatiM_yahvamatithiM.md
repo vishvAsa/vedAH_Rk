@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithim ← átithi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The leaderes (of holy rites) praise with prostration, for (the sake of) increase, the mighty lord of people, the guest (of men), the regulator eternally of acts, he desired of the priests, the exposition of sacrifices, **Jātavedas**, endowed with (divine) energies.”
 </details>

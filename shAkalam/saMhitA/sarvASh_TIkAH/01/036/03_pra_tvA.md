@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūtám ← dūtá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -165,7 +168,8 @@ spr̥śanti ← √spr̥ś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We select you, **Agni**, the messenger and invoker of the gods, who are endowed with all knowledge. The flames of you, who are mighty and eternal, spread around the rays, touch of the heavens.”
 </details>

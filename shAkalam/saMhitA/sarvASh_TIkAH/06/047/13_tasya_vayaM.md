@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sumataú ← sumatí- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -193,7 +196,8 @@ yuyotu ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we continue in the favour of that adorable (deity) even in his auspicious good-will; may that protecting and opulent **Indra** drive far from us, into extinction, all those who hate us.”
 </details>

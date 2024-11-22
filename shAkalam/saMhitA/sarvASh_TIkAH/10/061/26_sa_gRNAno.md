@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adbhíḥ ← áp- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -191,7 +194,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Being praised with reverence and hymns thus, "the god-accompanied (**Varuṇa**) of good lineage,together with the waters"; may he be magnified; (attracted) by hymns and prayers (may he) now (approach); thepath of the milk of the cow is open (for his worship).”
 </details>

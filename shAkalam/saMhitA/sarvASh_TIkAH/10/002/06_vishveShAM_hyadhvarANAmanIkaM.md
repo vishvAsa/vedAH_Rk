@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarā́ṇām ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -192,11 +195,13 @@ viśvájanyāḥ ← viśvájanya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The progenitor has engendered you the chief of all sacrifices, variegated, illuminating (all); do youoffer (to the gods) the desirable all- sustaining praise-accompanied viands growing upon man-occupied earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The progenitor: either **Prajāpati** or the sacrificer, the **yajamāna**; (viands) prepared by men, plural ced on theearth, i.e., the altar
 </details>

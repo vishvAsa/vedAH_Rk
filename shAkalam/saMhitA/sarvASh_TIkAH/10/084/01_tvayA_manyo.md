@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ārujántaḥ ← √ruj- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -168,7 +171,8 @@ yantu ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the leaders (of rites) wearing the form of **Agni**, (ascending) the same car with you, **Manyu**, whoare accompanied by the **Maruts**, proceed to combat, advancing, exulting, indignant, armed with sharp arrow,whetting their weapons.”
 </details>

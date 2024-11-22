@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -197,7 +200,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With his left **hand** he restrains the malignant, with his right he receives the (sacrificial) offerings; he is the giver of riches, (when propitiated) by one who celebrates his praise; may **Indra**, associated with the **Maruts**, be our protection.”
 </details>

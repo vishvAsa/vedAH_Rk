@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dī́dhitiḥ ← dī́dhiti- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -177,11 +180,13 @@ yakṣat ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the all-approved praise reach the invoker of the gods; may Iḷā first proceed to worship and to praise with prostrations the showerer (of benefits) in his presence; may the adorable (**Agni**), instrumental gated (by us), worship the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Iḷā = the iḷita of preceding **sūktas**
 </details>

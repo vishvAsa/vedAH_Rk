@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábudhram ← √budh- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -182,11 +185,13 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fires that are connected with **Indra** are awake, bringing light at the opening of the dawn; let thegreat heaven and earth be cognizant of that office; to-day we solicit the protection of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At the opening ofthe dawn: when he dawn repels the darkness
 </details>

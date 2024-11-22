@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityā́ḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -169,7 +172,8 @@ kr̥ṇvantu ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the leaders of the rite, the divine **Ādityas**, **Rudras**, **Vasus**, Heaven and Earth, the Earth, the firmament, well plural ased, protect our sacrifice; let them raise aloft the standard of the ceremony.”
 </details>

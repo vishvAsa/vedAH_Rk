@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 taráṇiḥ ← taráṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -137,11 +140,13 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Sūrya**, outstrip all in speed; you are visible to all; you are the source of light; you shine throughout the entire firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Smṛti** states that the sun moves 2,202 **yojanas** in a half a winkle of the eye;
 

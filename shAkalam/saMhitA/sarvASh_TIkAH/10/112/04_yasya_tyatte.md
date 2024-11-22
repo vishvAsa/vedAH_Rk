@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádeṣu ← máda- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -210,7 +213,8 @@ yāhi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You whose greatness (manifested) in your exhilarations the vast heaven and earth, do not separate;come, **Indra**, with your beloved bay horses harnessed to your chariot, come to our dwelling to (partake of) the(sacrificial) food that is agreeable to you.”
 </details>

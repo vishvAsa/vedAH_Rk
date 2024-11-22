@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dóhena ← dóha- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ maghadéyāya ← maghadéya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Control, worshipper, your friend (**Indra**), like a cow for your milking; awake, Indra, the author of decay;bring down for the distribution of wealth the hero who is pressed down with wealth like a vessel full (of water).”
 </details>

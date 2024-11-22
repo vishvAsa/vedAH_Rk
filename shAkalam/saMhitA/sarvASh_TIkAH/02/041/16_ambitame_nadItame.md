@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámbitame ← ámbitama- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -134,11 +137,13 @@ práśastim ← práśasti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sarasvatī**, best of mothers, best of rivers, best of goddesses, we are, as it were, of no repute; grant us, mother, distinction.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ambitame, nadītame, devitame: the superlatives of **ambikā**, a mother, **nadī**, a river and **devī**, a goddess
 </details>

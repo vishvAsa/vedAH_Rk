@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dadhīmahi ← √dhā- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
 
@@ -152,7 +155,8 @@ riṣáḥ ← ríṣ- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We enjoin you, (priests), to offer earnestly praise and sacrifice to the **Maruts**, who through all human ages, protect the mortal worshipper from harm.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hantā́ ← hantár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow you who are straight going, the slayer of the crooked-goer, driving away disease and enemies; mixing your juice with thejuice of the kine (you go to the cups); (you are) **Indra**'s (friend), we (are) your friends.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -189,11 +192,13 @@ saniṣyati ← √sanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, (**Indra**), has formerly arrested in battle the rapid chariot of the sun; **Etaśa** has born away the wheel, and (with it Indra) demolishes (his foes); may he, giving us precedence, be propitiated by our rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Etaśa has borne away the wheel: bharaccakram **etaśaḥ**: etaśaḥ is put for etasaya, he, Indra, has taken the wheel for Etaśa
 </details>

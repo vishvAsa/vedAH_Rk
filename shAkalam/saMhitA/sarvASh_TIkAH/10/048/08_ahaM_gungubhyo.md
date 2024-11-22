@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -197,7 +200,8 @@ vr̥trahátye ← vr̥trahátya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I prepared **Atithigva** for (the protection of) the Guṅgus, I upheld him, the destroyer of enemies, assustenance among the people; when I gained renown in the great **Vṛtra**-battle, in which **Parṇaya** and **Karañja**= hospitable; guṅgus = name of a people; parṇaya and karañja = names of **asuras**\].”
 </details>

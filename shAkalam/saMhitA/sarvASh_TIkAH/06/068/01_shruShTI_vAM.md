@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sajóṣāḥ ← sajóṣas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ sumnā́ya ← sumná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mighty **Indra** and **Varuṇa**, promptly has the **Soma** returned, engaged conscientiously (with the priests) to offer sacrifice to you to obtain food for him by whom, like **Manu**, the sacred grass has been clipped; he who (invited you hither) today for exceeding happiness.”
 </details>

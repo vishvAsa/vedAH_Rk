@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 járatībhiḥ ← járant- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -149,7 +152,8 @@ srava ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With dried plural nts (are arrows made), with the feathers of birds (and) with glistening stones; the smith seeks a man who has gold; flow, **Indu**, for **Indra**.”
 </details>
@@ -164,7 +168,8 @@ has gold.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-On the vs. see esp. Oldenberg’s comm. It is couched somewhat as a riddle, though the solution is included in the vs. ### 03
+On the vs. see esp. Oldenberg’s comm. It is couched somewhat as a riddle, though the solution is included in the vs. _________
+**03**  
 As noted in the published introduction, this vs. contains informal nursery words for father (tatá-) and mother (nanā́-). The latter is not found elsewhere in the RV or indeed elsewhere in Skt. (though similar forms are well established in other IA lgs and in Iranian), while the former is found twice in the Apālā hymn (VIII.91.5-6) and is widespread later (also in the vṛddhi voc. tāta). Of course nanā́plays off the immediately following nā́nā(-dhiyaḥ) beginning pāda c, as well as nānānám opening the hymn.
 
 For upala-prakṣíṇī I’m afraid in the published translation I gave in to my baser inclination towards an alliterative colloquialism: “pushing a pestle.” In fact, upala is of course not a pestle, but the upper millstone of a hand mill, and the standard tr. are more accurate at least for the first member: Geldner “… füllt den Mahlstein auf”; Renou “… alimente la meule”; Doniger (235) “a miller with grinding stones.” The 2nd member, prakṣíṇī, is obscure. The older association with √pṛc ‘mix’ (see Grassmann, Oldenberg’s citation of Pischel, and AiG I Nachtr. 118) seems unlikely on both semantic and morphological grounds. Similarly the connection (see AiG II.2.346, citing but rejecting Renou) with upaprakṣé ‘in copulation’ in V.47.6, which appears to be an s-enlarged from of √pṛc and again not a good semantic fit. Thieme’s etym. (cited in EWA I.220 [s.v. úpara-] and II.185-86 [s.v. práṣṭi-]) connecting it with a PIE *plenḱ- ‘dance’, with verb forms only in Balto-Slavic (these forms differently explained in LIV), is too gossamer to consider. I do not have a good alternative, but suggest a possible derivation from √kaṣ ‘scratch, scrape’, a reasonable characterization of the action of manipulating the upper stone on a handmill (see YouTube). Whatever its ultimate source (see EWA s.v.), verb forms to √kaṣ begin to appear in the AV and it is also widespread in MIA and NIA (see Turner nos. 2970-73, 2979), often associated with testing on a touchstone (perhaps requiring motions similar to manipulating a handmill). Though it does not seem to show up with prá, this combination would not seem surprising. We probably need to assume a zero-grade thematic noun *kṣ-á- ‘scraping’ (vel sim.) from which the -ín-stem was derived. All of this is very tenuous, but at least provides another possible source to evaluate. In any case I would now tr. this pāda as “mama scrapes away with a millstone.”

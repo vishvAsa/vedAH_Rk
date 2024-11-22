@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 náraḥ ← nár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -172,7 +175,8 @@ váṁsagaḥ ← váṁsaga- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The leaders (of rites), repeating praises, shout to you, **Vasu**, when the libation issues forth; when, **Indra**,bellowing like a bull, do you come to the dwelling thirsting fo the **Soma**?”
 </details>

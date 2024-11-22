@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahī́ ← máh- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -159,11 +162,13 @@ somasútā ← somasút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As two large, mutually defiant (armies), emulous in corporal vigour, may contend in war, so do youdestroy, by the devout, those who are not devoted to the gods in sacrifice, and, by the man who presentslibations, (him who does not offer).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As two large: sam yan **mahī** mithati spardhamāne tanūrucā śūrasātāyataite: lit. two large reviling rivalling may strive together
 </details>

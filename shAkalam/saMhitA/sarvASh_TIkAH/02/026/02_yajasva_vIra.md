@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 manāyatáḥ ← √manāy- (root)  
 {case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -197,7 +200,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer worship, O man, (to **Brahmaṇaspati**); proceed resolutely against those who are meditating (hostility); keep your mind firm in contending against foes; offer oblations whereby you may be prosperous; we also solicit the protection of Brahmaṇaspati.”
 </details>

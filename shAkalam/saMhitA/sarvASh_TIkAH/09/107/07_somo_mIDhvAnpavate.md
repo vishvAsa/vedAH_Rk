@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gātuvíttamaḥ ← gātuvíttama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ sū́ryam ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** flows forth the showerer of benefits, the best of path-finders, a ṛṣi, a sage, all-discriminating; you are a seer, most devoted to the gods; you have made the sun to mount the sky.”
 </details>

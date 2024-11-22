@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 indrāgnī ← indrāgní- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -193,11 +196,13 @@ sutásya ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, **Indra** and **Agni**, you are amongst men who are in offensive, malevolent, or tyrannical, or those who live (to fulfil the duties of life), or those who receive the fruits (of good deeds), then, showerers of benefits, come hither from wherever you may be, and drink of the effused **Soma** libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Men who are inoffensive, malevolent: the allusion may be to proper names or many families: **yadus**, turvaṣas, **druhyus**, anus and **purus**, descendants of the five sons of **yayāti** (**Mahābhārata** I.138);
 

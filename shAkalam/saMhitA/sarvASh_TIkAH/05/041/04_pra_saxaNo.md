@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyáḥ ← divyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine accepter of sacrifice, of whom the **Kaṇvas** are the priests, **Tṛta**, **Vāyu** and **Agni**, concurring in satisfaction with (the ruler of) heaven, or (**Sūrya** and) **Pūṣan** and **Bhaga**, and they who are the protectors of the universe, (come quickly) to the sacrifice, as the fleet course rush to battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Trita**: may be an epithet of Vāyu; the threefold, pervading the three regions of heaen, mid-air and earth
 </details>

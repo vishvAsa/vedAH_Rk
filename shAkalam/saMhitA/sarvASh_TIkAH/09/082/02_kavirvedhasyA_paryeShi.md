@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣi ← √i- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -192,7 +195,8 @@ yāsi ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, who are wise, pass through the adorable (filter) with a desire to perform the sacrifice; being cleansed you rush like a horse to the cattle. Driving away misfortunes be gracious (to us), **Soma**; clothed in water you proceed to the cleansing (vessel).”
 </details>

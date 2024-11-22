@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 antarikṣaprā́m ← antarikṣaprā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -180,11 +183,13 @@ vartasva ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Purūravā**). I, **Vasiṣṭha**, bring under subjection **Ūrvaśī** who fills the firmament (with lustre) andmeasures out the rain. May (Purūravā), the bestower of the auspicious rite, abide near you; come back-- myheart is burning.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vasiṣṭha: an epithet, pre-eminently the giver of dwellings
 </details>

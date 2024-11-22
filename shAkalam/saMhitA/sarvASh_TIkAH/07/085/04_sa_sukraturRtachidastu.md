@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -194,7 +197,8 @@ suvitā́ya ← suvitá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the devout worshipper derive benefit from sacrifice when offering adoration to you both, sons ofAditi (involved) with strength; he who, liberal of oblations invites you for your satisfaction, may he, possessingabundance, be in the enjoyment of happiness.”
 </details>

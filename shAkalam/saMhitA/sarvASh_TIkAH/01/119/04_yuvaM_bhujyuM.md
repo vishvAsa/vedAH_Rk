@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhujyúm ← bhujyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You brought back to his ancestor (**Bhujyu**, who, borne by his own steeds, had perished), (but that you rescued him) with your self-harnessed horses, and sent showerers (o fbenefits), to his distant dwellign; and great was the succour whichit is know you rendered to **Divodāsa**.”
 </details>

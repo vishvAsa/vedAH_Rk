@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruṣṭuta ← puruṣṭutá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**), the praised of many, you alone destroy many mighty foes; no other Indra achieves such greatexploits.”
 </details>

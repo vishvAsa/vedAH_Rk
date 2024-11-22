@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 ápagūḷham ← √guh- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -203,11 +206,13 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The guardian of the sacred rites of the gods, **Indra**, said to me, (**Agni**), who had been deposited in thewaters; the sagacious Indra, following you, Agni, has discovered you, therefore, admonished by him may I, Agni,proceed to heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Deposited in the waters: a plural y on the word nidhīyamānam, being deposited; also, a titleof the fire plural ced on the altar, at the kuruśravaṇa ceremony\]. proceeds (to his destination); such verily is the good of instrumental uction, and (thereby) one finds tehe path of thethings that are to be reached by a straight path. \[One finds the path: i.e., the thirsty man finds the right road tothe waters which have to be reached by a straight path, or taking añjasīnām as an adjective agreeing withstutim, not crooked, a path which may be easily travelled over
 </details>

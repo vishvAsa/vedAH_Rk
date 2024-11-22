@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hántā ← hántar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -215,7 +218,8 @@ vásu ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, dilating in bulk, is the slayer of **Vṛtra**; the hero defends his worshipper promptly with hisprotection, whether he be the giver of dominion to **Sudāsa**, or the donor repeatedly of wealth to the offerer (ofoblations).”
 </details>

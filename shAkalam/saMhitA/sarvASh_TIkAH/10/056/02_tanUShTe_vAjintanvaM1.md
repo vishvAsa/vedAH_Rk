@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 náyantī ← √nī- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
 
@@ -199,7 +202,8 @@ svám ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this body (the earth) conveying your body, **Vājin**, give precious wealth to us and happiness toyou; an ddo you, without stumbling, enter among the great gods for their support; and the light that is in heaven(the sun) and your own (light).”
 </details>

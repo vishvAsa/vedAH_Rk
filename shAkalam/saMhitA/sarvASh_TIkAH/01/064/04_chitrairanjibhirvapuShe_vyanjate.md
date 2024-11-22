@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 añjate ← √añj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -195,7 +198,8 @@ svadháyā ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They decorate their person ns with various ornaments; they have plural ced, for elegance, brilliant (garlands) on their breasts; lances are borne upon their shoulders, and with them and their own strength have they been both, leaders, from the sky.”
 </details>

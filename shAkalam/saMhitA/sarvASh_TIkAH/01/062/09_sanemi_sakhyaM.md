@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sakhyám ← sakhyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -167,7 +170,8 @@ rúśat ← rúśant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The son of strength assiduous in good works, diligent in pious acts, retains his ancient friendship (for his votary). You, (**Indra**), provide within the yet immature cows, whether black or red, the mature and glossy milk.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anā́ ← anā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ vr̥ṣabhā́ḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They speak, they received into their mouth the sweet (**Soma**), they roar (like the eaters of flesh) overthe roasted meat; chewing the branch of the purplle tree, the voracious bulls have bellowed.”
 </details>

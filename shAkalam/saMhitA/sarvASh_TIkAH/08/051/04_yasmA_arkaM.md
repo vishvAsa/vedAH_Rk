@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ānr̥cúḥ ← √r̥c- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -191,11 +194,13 @@ paúṁsyam ← paúṁsya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He to whom they **sang** the seven-headed hymn with its three parts in the highest region, he has madeall these worlds tremble, and has thus brought forth his power.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. sun by seven divine singers in heaven
 </details>

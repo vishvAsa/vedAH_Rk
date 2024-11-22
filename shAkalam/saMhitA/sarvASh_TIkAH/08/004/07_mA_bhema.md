@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhema ← √bhī- (root)  
 {number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
 
@@ -165,7 +168,8 @@ yádum ← yádu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Secure) in the friendship of you who are terrible, let us not fear, let us not be harassed; great andglorious, showerer (of benefits), are your deeds, as we may behold them in the case of **Turvaśa**, of **Yadu**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -206,7 +209,8 @@ rájasaḥ ← rájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May heaven and earth, the first invoked, (promote) our happiness; may the firmament be happiness toour view; may the herbs, the trees, (yield) us happiness; may the victorious lord of the world, (**Indra**), be(favourable to) our felicity.”
 </details>

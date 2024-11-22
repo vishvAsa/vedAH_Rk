@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apáḥ ← áp- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -186,7 +189,8 @@ uṣā́sam ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have set the obstructed waters free o flow in all directions; you have fractured the solid (barrier) of the cloud; you are lord over the people of the world, making manifest together the sun, the sky, and the dawn.”
 </details>

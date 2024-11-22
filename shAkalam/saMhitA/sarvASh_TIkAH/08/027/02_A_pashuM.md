@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -174,11 +177,13 @@ prāvitā́raḥ ← prāvitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You come (**Agni**) to the victim, to the dwelling (of the worshipper), to the touchwood, to the **Soma**, atdawn and at night; universal deities, givers of wealth, knowing all things, be the defenders of our pious actṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dwelling of the worshipper: pṛthivīm = idam devasadanam, this chamber of the gods;
 

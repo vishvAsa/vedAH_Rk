@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhr̥távrataḥ ← dhr̥távrata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -113,11 +116,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who accepting the rites (dedicated to him) knows the twelve months and their productions and that which is supplementarily engendered.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 An allusion to the thirteenth, the supplementary or intercalary month of the Hindu unisolar year and to the transition to the lunar year from the **solar year**; 'that thirteenth or additional month which is produced of itself, in connection with the year', yaḥ trayodaśo adhikamāsa upajāyate saṃvatsarasamīpe svayam evotpadyate
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíḥ ← barhís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -172,7 +175,8 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They repair to the sacrifice, they strew the sacred grass; the (grinding) stones at the ceremony are ofdifficulty suppressed noise; famous priests, whose voices are heard far off, bring the stones from the interior ofthe dwelling.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápratītaḥ ← ápratīta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unopposed he is the master of the riches of hostile people, and of his own subjects; the **Rājā** who bestows riches upon the **Brāhmaṇa** seeking his protection him the gods protect.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This and the preceding verse are in **Aitareya** Brāhmaṇa 8.5. 24,26: 'the gods eat not the food of a Rājā who has no **purohita**; therefore when about to sacrifice, let him (liṭ, plural ce before) a Brāhmaṇa, nā **hava** apurohitasya rājño **deva** **annam** adani tasmād rājā yakṣyamāna brāhmaṇam **puro** dadhīta'; here, iḷā = food, instrumental ad of earth, his food increases at all seasons;
 

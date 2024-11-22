@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayugdhvam ← √yuj- (root)  
 {number:PL, person:2, mood:IND, tense:AOR, voice:MED}
 
@@ -166,11 +169,13 @@ mā́nuṣāḥ ← mā́nuṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have harnessed the spotted deer to your chariot; the red deer yoked between them, (aids to) drag the car; the firmament listens for your coming, and men are alarmed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Pṛṣatī** = spotted deer (steeds of **Maruts**); the text says: praṣṭirvahati **rohita**;
 

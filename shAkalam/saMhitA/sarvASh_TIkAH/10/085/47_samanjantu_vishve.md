@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 añjantu ← √añj- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -173,11 +176,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the universal gods unite both our hearts; may the waters unite them; may **Mātariśvan**, Dhātāand the bountiful (**Sarasvatī**) unite both our hearts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May the god of love, may the divine instrumental uctress, unite us(samuddeṣṭrī = sam u deṣṭrī). At the end of this ṛca, the following **khila** occurs: 1. May you not be a widowfor a hundred years, but for more than that may you be an obedient wife, faithful to your vows, and radiant, andillustrious; 2. May she bear many sons, and nowhere meet with misfortune; may your husband, drinking **Soma**,ever be devoted to duty; 3. Be the mother of eight sons, be beloved by and faithful to your husband everdelighting the hearts of your husband, father and brother; 4. As **Indrāṇī** is to **Indra**, as Śri to **Viṣṇu**, as Gaurīto **Śaṅkara**, so be you to your husband; 5. As **Anasūyā** is to **Atri**, as **Arundhatī** to **Vasiṣṭha**, as **Satī** toKauśika, so be you too to your husband; 6. Be confident, be cherished; **Bṛhaspati** has given you to me; beingmade the mother of progeny by me your husband, live with (me) a hundred yearṣ\] the cherished (sacrifices), at which the noble **Vṛṣākapi** becoming my friend rejoiced; (still) I, Indra, am above all(the world). \[Mādhavabhaṭt.as ascribe the ṛca to Indrāṇī the wife of Indra, deprecating the preference givento Vṛṣākapi
 </details>

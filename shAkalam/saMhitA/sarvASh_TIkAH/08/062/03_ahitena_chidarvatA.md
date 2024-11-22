@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áhitena ← áhita- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -174,7 +177,8 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the swift giver, wishes to bestow blessings (upon us) with his unurged courser, your greatness,**Indra**, as you are about to display your powers, should be proclaimed, Indra's gifts are worthy of praise.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,11 +196,13 @@ sédhatam ← √sidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Nāsatyas**, with the thrice eleven divinities; come, **Aśvins**, to drink the oblation prolong our lives, efface our faults, restrain our enemies, and be ever with us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three fold repetition of 11 divinities: ye devāso divy- ekādaśa **stha**, you eleven deities who are in heaven or 33 divnities: 8 **vasus**, 11 **rudras**, 12 **ādityas**, **prajāpati** and vaśaṭkāra
 </details>

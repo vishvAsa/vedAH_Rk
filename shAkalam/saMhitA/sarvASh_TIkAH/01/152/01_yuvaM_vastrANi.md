@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pīvasā́ ← pīvasá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -158,11 +161,13 @@ sacethe ← √sac- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Robust **Mitra** and **Varuṇa**, you wear vestments (of light); your natures are to be regarded as without defect; you annihilate all untruths; you associate (us) with sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Robust: pīvasā = pīnau, fat, stout, as an epithet of **Mitrāvaruṇa**; or, acchinnāni, untorn; vastrāṇi, garments; or, in the 3rd case, singular, with great or intense radiance, tejasā
 </details>

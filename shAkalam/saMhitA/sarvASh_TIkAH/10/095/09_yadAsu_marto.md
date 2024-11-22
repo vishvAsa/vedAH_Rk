@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 amŕ̥tāsu ← amŕ̥ta- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -191,11 +194,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When a mortal mixing with these immortal nymphs has conversed with them with words and actions,they (becoming) ducks do not show their bodies, like plural yful horses champing (the bit).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ducks: they clean theirbodies like ducks;
 

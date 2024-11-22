@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -149,11 +152,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Aśvins**, to drink the **Soma** at our sacrifice, you who are praised (by him) and honoured by hispious acts, benefactors of the worshipper, sages and leaders of rites.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Svāhā** stomasya vardhanā pra kavīdhītibhir **narā**: svāhā = voc. dual, svāhākṛtau svāhākāreṇa iṣṭau, worshipped with the termsvāhā;
 

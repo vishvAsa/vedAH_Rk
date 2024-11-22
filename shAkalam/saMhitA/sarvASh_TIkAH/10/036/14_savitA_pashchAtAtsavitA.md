@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 paścā́tāt ← paścā́tāt (invariable)  
 {}
 
@@ -167,7 +170,8 @@ savitā́ ← savitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Savitā** on the west, Savitā on the east, Savitā on the north, Savitā on the south, may Savitāsend us all desired wealth, may Savitā bestow upon us long life.”
 </details>

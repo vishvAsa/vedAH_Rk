@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 anudéyī ← anudéya- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -134,11 +137,13 @@ páriṣkr̥tam ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Raibhi was her companion; Nārāśaṃsī her slave; **Sūrya**'s lovely dress was adorned by **Gātha**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Raibhi, Nārāśaṃsī and **Gāthā** are person nifications of son and praise. Raibhi from rebh, to sound:**Aitareya** **Brāhmaṇa** 6.32
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line
-#### Morph
+_________
+**Morph**  
 óṣadhīnām ← óṣadhī- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -138,7 +141,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The virtues of the plural nts which are desirous of bestowing wealth issue from them, man, (towards) yourbody like cattle from the pen.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gaṇám ← gaṇá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke for their friendship, the deservedly invoked, purifying, beautiful troops of the **Maruts**, the giversof felicity, the dispensers of riches; we meditate upon them for the attainemtn of abundant food; we solicit todaythis protection of the gods.”
 </details>

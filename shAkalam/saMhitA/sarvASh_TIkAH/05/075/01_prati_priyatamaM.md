@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 práti ← práti (invariable)  
 {}
 
@@ -170,11 +173,13 @@ máma ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ṛṣi, your worshipper, **Aśvins**, graces your beloved chariot, the showerer (of benefits), the vehicle of wealth, with praises; masters of mystic lore, hear my invocation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Mādhvī** māma śrutam havam: mādhvī = **madhuvidyā** veditārau
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 brahmacārī́ ← brahmacārín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,11 +200,13 @@ sómena ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He leads the life of a **Brahmacārin**, even adoring all the gods; he becomes a portion of the gods;therefore, **Bṛhaspati** obtained his wife (formerly) brought him by **Soma**, as the gods receive an offering.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Brahmacārin: i.e., being without a wife
 </details>

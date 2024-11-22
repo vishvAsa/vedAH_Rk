@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 manāmahe ← √man- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
 
@@ -106,7 +109,8 @@ sāhvā́ṁsaḥ ← √sah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We praise the auspicious **Soma**'s imprisonment (of the **rākṣasas**) and hostile (intent against them), while we triumph over the enemy who performs no riteṣ”
 </details>

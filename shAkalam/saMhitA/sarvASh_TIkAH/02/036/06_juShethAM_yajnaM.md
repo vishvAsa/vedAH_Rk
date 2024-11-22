@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bódhatam ← √budh- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -192,7 +195,8 @@ somyám ← somyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, both be gratified with the sacrifice; hear my invocation as the seated **Hotā** repeats in succession the ancient praises; the (sacrificial) food encompassed (by the priests), attends the royal pair drink, both of you, the sweet **Soma** libation, offered by the Praśāstā.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adribhít ← adribhíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -163,11 +166,13 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati**, who is the breaker of the mountain, the first-born (of **Prajāpati**), the observer of truth, the descendant of **Aṅgirasa**, the partaker of the oblation, the traverser of two worlds, abiding in the region of light, is to us a father; he, the showerer, hunders and in heaven and earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛhaspati was born the seed of Prajāpati; then he was born from **Aṅgirasas**. **Aitareya** Brāhman.a iii.34: A legend of the origin of various deities from the seed of Prajāpati converted into burning coals is narrated: from some of the cinders proceeded, it is said, the Aṅgirasas; and then, from other cinders, not yet cool, Bṛhaspati
 </details>
@@ -192,7 +197,8 @@ barha- or a secondary redactional adjustment. (Wackernagel’s solution, flg.
 Bartholomae [AiG I.339, cf. II.1.65, 125], that dvibárha-jmā- was simplified from
 
 *dvibárhaj-jmā, with -aj- the sandhi form of -ad-, which in turn is a sandhi form of -
-as- before a voiced sound, seems to me without merit, though clever.) In any case, the unclarity of the structure of the cmpd. and the uncertainty of the lexical affiliation of -jmā- or -ajmā in the posited *dvibarhajmā-prā́- could have led to redactional reanalysis, with segmentation of *prā́, which was then attached to what follows. However, one problem with my analysis is that it assumes a three-member cmpd. *dvibarha-jmā-prā́-; these are rare in the RV and might be expected to be rarer when archaic elements are involved. I therefore have a further suggestion, which also addresses another problem with the analysis. Consider VI.19.1, where Indra is described as carṣaṇīprā́utá dvibárhā(ḥ) “filling the domains and doubly lofty.” If we re-segment and readjust the beginning of our sequence here, to a twoword phrase *dvibárhā *jmā-prā́(ḥ), *dvibárhā can keep its accent, we are saved from positing the thematic byform (since *dvibárhā would be nom. sg. m. to the sstem), and we avoid a three-member compd. True, we have to lengthen the final of dvibárha, but it is already metrically heavy (before the cluster -jm-). This would yield a description of Bṛhaspati “doubly lofty, filling the earth” that is similar to that of Indra in VI.19.1. It also fits the thematics of the hymn; note Bṛhaspati’s bellowing to the two world-halves in d and, especially, his making wide space (ulokám … cakā́ra) in the next vs. ### 03
+as- before a voiced sound, seems to me without merit, though clever.) In any case, the unclarity of the structure of the cmpd. and the uncertainty of the lexical affiliation of -jmā- or -ajmā in the posited *dvibarhajmā-prā́- could have led to redactional reanalysis, with segmentation of *prā́, which was then attached to what follows. However, one problem with my analysis is that it assumes a three-member cmpd. *dvibarha-jmā-prā́-; these are rare in the RV and might be expected to be rarer when archaic elements are involved. I therefore have a further suggestion, which also addresses another problem with the analysis. Consider VI.19.1, where Indra is described as carṣaṇīprā́utá dvibárhā(ḥ) “filling the domains and doubly lofty.” If we re-segment and readjust the beginning of our sequence here, to a twoword phrase *dvibárhā *jmā-prā́(ḥ), *dvibárhā can keep its accent, we are saved from positing the thematic byform (since *dvibárhā would be nom. sg. m. to the sstem), and we avoid a three-member compd. True, we have to lengthen the final of dvibárha, but it is already metrically heavy (before the cluster -jm-). This would yield a description of Bṛhaspati “doubly lofty, filling the earth” that is similar to that of Indra in VI.19.1. It also fits the thematics of the hymn; note Bṛhaspati’s bellowing to the two world-halves in d and, especially, his making wide space (ulokám … cakā́ra) in the next vs. _________
+**03**  
 I do not understand why hánti in d is accented. Nor does Oldenberg (“Akzent … befremdet”). Both Geldner and Renou evade the problem by reading pāda-init. bṛ́haspátiḥ with the previous pāda as subj. of a nominal sentence, leaving hánti to begin a new cl. The published translation does the same. Despite adopting the Geldner/Renou strategem in my tr., I consider this solution artificial but have nothing better to offer.
 </details>
 

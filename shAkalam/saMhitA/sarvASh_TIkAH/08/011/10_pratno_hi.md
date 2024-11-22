@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaréṣu ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -201,7 +204,8 @@ yajasva ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, the ancient, are to be hymned at sacrifices; from eternity the invoker of the gods, you sit (at thesolemnity) entitled to laudation; cherish, **Agni**, yor own person n, and grant us prosperity.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ávaraḥ ← ávara- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the lower and upper (fire) disputed "which of us twain leaders of sacrifice knows the work best?"then the friends (the priests) were competent (to offer) sacrifice, they came to the sacrifice; who declares this?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lower and upper fire: the lower fire is **Agni**, or the terrestrial fire; the upper fire is **Vāyu**, or the intermediate fire
 </details>

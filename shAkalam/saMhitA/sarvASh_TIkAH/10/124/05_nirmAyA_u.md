@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhūvan ← √bhū- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -183,7 +186,8 @@ rāṣṭrásya ← rāṣṭrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These **asuras** were deprived of their magical power; if you, **Varuṇa**, desire me, (then), O king,separating truth from falsehood, come and enjoy sovereignty over my realm.”
 </details>

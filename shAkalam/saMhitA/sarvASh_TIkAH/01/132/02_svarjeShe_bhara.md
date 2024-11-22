@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āprásya ← āprá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -243,11 +246,13 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the combat which secures heaven, **Indra**, (treading) in the appropriate and straight path of the active (combatant), as well as in his own appropriate and straight (path), destroys (the adversary) of him who wakes at dawn and celebrates (pious rites); he therefore to be adored with the head (bowed down), as revernce is paid by prostration to a holy sage. May your treasures, (Indra), be accusative ulated upon us; may the treasures of you who are auspicious be auspicious (to us).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svasminnañjasi, are the words reiterated;
 

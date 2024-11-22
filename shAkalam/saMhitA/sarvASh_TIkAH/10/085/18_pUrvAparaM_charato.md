@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 carataḥ ← √carⁱ- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -197,7 +200,8 @@ vidádhat ← √dhā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These two (the sun and moon) wandering in thought one after the other, youthful, sportive, approachthe sacrifice; one (of them) looks over all worlds, the other regulating the seasons is born repeatedly.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhī́vr̥tā ← √vr̥- (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
 
@@ -217,11 +220,13 @@ vidyút ← vidyút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, too, bellows, and the cow utters inarticulate sounds, as, encompassed by him, she repairs to her stall; (influenced) by her instrumental ncts, she acts like a human being, and, radiant, manifests her nature.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Life reposes: anat śaye jīvam ejat, life-breathing comes to repose, reposes or abides
 </details>

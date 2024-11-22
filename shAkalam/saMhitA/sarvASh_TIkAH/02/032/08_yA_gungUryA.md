@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line
-#### Morph
+_________
+**Morph**  
 guṅgū́ḥ ← guṅgū́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -142,11 +145,13 @@ varuṇānī́m ← varuṇānī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke her who is Gaṅgū, who is **Sinīvālī**, who is **Rākā**, who is **Sarasvatī**; (I invoke) **Indrāṇī** for protection, **Varuṇānī** for welfare.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gaṅgū = **kuhu**, the day of conjunction, when the moon rises invisible; these phases of moon were perhaps, identifiable with Indrāṇī or Varuṇānī, or with both
 </details>

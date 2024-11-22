@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gā́vaḥ ← gáv- ~ gó- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -120,7 +123,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the cows to the herd, so repair the oxen; so the oxen repair to me.”
 </details>

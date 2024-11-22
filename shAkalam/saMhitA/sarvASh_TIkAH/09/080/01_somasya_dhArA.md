@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́rā ← dhā́rā- 1 (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -173,7 +176,8 @@ vivyacuḥ ← √vyac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The stream of the **Soma**, the contemplator of man, flows forth; it invites by the sacrifice the gods (who dwell) above the sky; it shines forth at the voice of the sacrificer; the libations cover (the earth) like rivers.”
 </details>

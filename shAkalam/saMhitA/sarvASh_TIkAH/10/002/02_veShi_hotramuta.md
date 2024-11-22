@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hotrám ← hotrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -192,7 +195,8 @@ yajatu ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether, **Agni**, you prefer the office of **hotā** or **potā** among men, you are wise, the giver of wealth,the observer of truth, let us offer the oblations with the (sacred) **svāhā**, and may the most excellent and divineAgni present them to the gods.”
 </details>

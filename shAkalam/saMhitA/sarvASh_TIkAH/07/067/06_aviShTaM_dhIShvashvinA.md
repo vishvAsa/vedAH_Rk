@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsú ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -190,7 +193,8 @@ surátnāsaḥ ← surátna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protect us, **Aśvins**, in these pious acts, may our procreative power fail not; but (through your favour)possessing sons and grandsons, distributing desired riches and enjoying ample wealth, may we accomplish theworship of the gods.”
 </details>

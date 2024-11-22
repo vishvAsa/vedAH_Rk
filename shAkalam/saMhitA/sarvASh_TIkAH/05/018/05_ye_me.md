@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadúḥ ← √dā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -177,7 +180,8 @@ nr̥vát ← nr̥vánt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Immortal **Agni**, bestow upon those opulent men, who, upon (my) praise (of you), gave to me fifty horses, and brilliang, ample, and abundant food, (supporting numerous) dependants.”
 </details>

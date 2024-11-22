@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityā́saḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -156,11 +159,13 @@ r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine **Ādityas** are the upholders (of all things), moveable or immoveable; the protectors of the universe; the provident in acts; the collectors of rain; the possessors of veracity; the acquitters of our debts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The collectors of rain: asuryam rakṣamāṇāḥ: **asurā** = a cloud; from asu = water, as the same with life;
 

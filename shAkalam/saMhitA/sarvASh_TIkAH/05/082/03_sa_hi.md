@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāśúṣe ← dāśváṁs- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -136,11 +139,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That **Savitā** who is **Bhaga**, bestows precious treasure on the donor of the offering; we solicit (of him) a valuable portion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That Savitā who is Bhaga: sa savitā Bhaga; or, the latter may be an attributive, bhajanīya, to be worshipped, shared, or desired
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -186,7 +189,8 @@ síndhūnām ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, invoked of many, you triumph over your enemies; pre-eminent is your strength, may yourgenerosity be shown on this occasion; bring treasures with your right **hand**; you are the lord of thewealth-conveying rivers.”
 </details>

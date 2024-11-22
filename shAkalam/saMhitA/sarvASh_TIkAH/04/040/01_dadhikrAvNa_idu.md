@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carkirāma ← √kr̥̄- 2 (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -174,7 +177,8 @@ jiṣṇóḥ ← jiṣṇú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we repeatedly recite (the praise) of Dadhikrāvaṇ; may all rising dawns excite me (to the adoration) of the waters, of **Agni**, of Uṣas, of **Sūrya**, of **Bṛhaspati**, and of **Jiṣṇu**, the son of **Aṅgiras**.”
 </details>

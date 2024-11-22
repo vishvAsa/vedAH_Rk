@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áha ← áha (invariable)  
 {}
 
@@ -191,7 +194,8 @@ jā́yamānam ← √janⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The months attend upon **Indra** as soon as born, the forests attend upon him, the plural nts, themountains, the affectionate heaven and earth, and the waters (attend upon) him.”
 </details>

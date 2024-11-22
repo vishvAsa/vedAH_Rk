@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śámī ← śámī- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -169,7 +172,8 @@ saṁvatsaré ← saṁvatsará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated with the priests, and quickly performing the holy rites, they, being yet mortals, acquired immortality and the son of **Sudhanvan**, the **Ṛbhus**, brilliant as the sun, became connected with the ceremonies (appropriated to the different season) of the year.”
 </details>

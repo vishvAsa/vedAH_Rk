@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 proṣṭheśayā́ḥ ← proṣṭheśayá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -141,11 +144,13 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We put to sleep all those women are lying in the courtyard in litter on the bed, the wom who aredecorated with holiday perfumes.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Striyo yāḥ puṇyagandhāḥ **maṅgalya** **gandhāḥ**, wearing garlands offragrant flowers on festival occasions, as at marriages
 </details>

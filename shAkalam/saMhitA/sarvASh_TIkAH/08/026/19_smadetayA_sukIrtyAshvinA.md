@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etáyā ← eṣá (pronoun)  
 {case:INS, gender:F, number:SG}
 
@@ -115,11 +118,13 @@ váhethe ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, following a brilliant course, you acquire celebrity by the white river worthily praising you theenricher (of the peole on its banks).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 On its banks: the river is said to have praised the Aśvins, as the ṛṣi livedon its banks. These banks are golden, and consequently enrich those who live near
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sáṁgatā ← √gam- (root)  
 {case:NOM, gender:N, number:PL, non-finite:PPP}
 
@@ -119,11 +122,13 @@ sudā́tu ← sudā́tu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In you, O drinker of the **Soma**, are treasures stored, and all precious things and unblemished giftṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Drinker of the Soma: i.e., Soma, here appliedl to **Indra**, as possessing it (somavān) or as identified with it afterdrinking it
 </details>

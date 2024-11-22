@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -188,7 +191,8 @@ purudatra ← purudatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Endowed) with upward-rising, foe-thinning, and glorified (vigour), ascend your car for the destruction of **Vṛtra**; take the thunderbolt in your right **hand**, giver of wealth, baffle the devices (of the **asuras**).”
 </details>

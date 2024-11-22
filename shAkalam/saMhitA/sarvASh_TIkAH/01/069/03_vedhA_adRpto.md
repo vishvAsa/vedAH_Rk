@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ádr̥ptaḥ ← ádr̥pta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -116,7 +119,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[3-4\] The wise, the humble, and discrimating **Agni**, is the giver of flavour to food, as the udder of cows (gives sweetness to the milk); invited (to the ceremony), he sits in the sacrificial chamber, diffusing happiness like a benevolent man, amongst mankind.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D;; repeated line  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 agnéḥ ← agní- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ pitáram ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us invoke the auspicious name of **Agni**, the first divinity of the immortals, that he may give us to the great **Aditi**, and that I may behold agin my father and my mother.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Aitareya** **Brāhmaṇa**: **Prajāpati** said to Śunahśepas: 'Have recourse to Agni, who is the nearest of the gods'; upon this, he resorted to Agni. Tam prajāpati-ruvācāgnirvai devānām nediṣṭhastam evopadhāveti: so Agnim upasasāra
 </details>

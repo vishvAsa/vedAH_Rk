@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ásum ← ásu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May earth restore the (departed) **soul** to us; may the divine heaven, may the firmament (restore it);may **Soma** restore body to us; may **Pūṣan** restore to us speech, which is prosperity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The firmament: pathyam =that which is in the firmament, i.e., speech, which is derived from ether (**ākāśa**);
 

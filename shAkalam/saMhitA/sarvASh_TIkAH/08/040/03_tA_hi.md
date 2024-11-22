@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhárāṇām ← bhára- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -203,7 +206,8 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They two, **Indra** and **Agni**, are present in the midst of battles; do you two, leaders of rites, who are reallysages, when solicited (by the wise), accept the offering (from him) who seeks your friendship; may all ouradversaries perish.”
 </details>

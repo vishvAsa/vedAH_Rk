@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithim ← átithi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -114,7 +117,8 @@ víprāḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pious men glorify the ancient **Agni**, the guest of men, the son of the trees, for protection.”
 </details>

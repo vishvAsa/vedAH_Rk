@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákr̥thāḥ ← √kr̥- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:MED}
 
@@ -201,11 +204,13 @@ ródasī ← ródasī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily you have made me, **Indra**, your associate when grinding the head of the slave **Namuci** like a sounding and rolling cloud; and the heaven and earth (have been caused) by the **Maruts** (to revolve like a wheel).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like a sounding and rolling cloud: aśmānam cit svaryam vartamānam: the first two are rendered megham iva, like a cloud
 </details>

@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 ukthávāhasaḥ ← ukthávāhas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -128,7 +131,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I pour the oblation of the sacrifice, like clarified butter, into the mouth (of that **Indra**), whom wise men,addressing with prayers, delight.”
 </details>

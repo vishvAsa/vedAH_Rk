@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -190,11 +193,13 @@ viveda ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A friend, accompanied by the faithful friends who had celebrated the nine months rite, and tracking the cows upon their knees, and in like manner accompanied by those ten who had accomplished the ten months' rite, **Indra** made manifest the true (light of the sun) (theretofore) dweling in (the) darkness (of the cave).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The faithful friends: the **aṅgirasas**; ten months' rite: **navagvaḥ** and daśagvaḥ
 </details>

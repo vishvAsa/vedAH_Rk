@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dayate ← √dā- 3 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -162,11 +165,13 @@ náryam ← nárya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mortal desirous of wealth quickly obtains it who presents (offerings) to the widely-renownedViṣṇu, who worships him with entirely devoted mind, who adores so great a benefactor of mankind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Withentirely devoted mind: i.e. with united praise, sahañcatā stotreṇa
 </details>

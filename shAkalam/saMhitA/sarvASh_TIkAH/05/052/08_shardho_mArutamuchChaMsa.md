@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́rutam ← mā́ruta- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -165,7 +168,8 @@ yujata ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify the truth-invigorated and infinite strength of the **Maruts**, for they, the leaders (of the rains), gliding along, are labouring voluntarily for (our) good.”
 </details>

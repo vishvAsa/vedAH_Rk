@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádabdhebhiḥ ← ádabdha- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -188,7 +191,8 @@ vaíśvānara ← vaiśvānará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adored **Agni**, present in the **three worlds**, protect your worshippers with your irresistible protections, preserve the strength of us who offer (oblations); glorified (by us), Agni **vaiśvānara**, transport us (beyond evil).”
 </details>

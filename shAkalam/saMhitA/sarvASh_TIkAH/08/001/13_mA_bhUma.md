@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūma ← √bhū- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -154,7 +157,8 @@ duróṣāsaḥ ← duróṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we never be like the abject, **Indra**, through your favour, nor suffer affliction; may we never be likebranchless trees; for, thunderer, unconsumable (by foes) we glorify you.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhī́rāsaḥ ← dhī́ra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -180,7 +183,8 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Experienced sages (kavayaḥ: ye vā anūcāste kavayaḥ--**Aitareya** **Brāhmaṇa** 2.2) bring the invincible (**Agni**), to his station (onthe altar); cherishing him in manifold (ways) in their hearts; desirous of propitiating him, they worshipthe (boon) shedding (Agni); and to those men he is manifest as the Sun.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
 {}
 
@@ -126,7 +129,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By valour you have carried off the wealth of **Śuṣṇa**, when you had demolished his cities.”
 </details>

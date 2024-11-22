@@ -22,14 +22,17 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 índrajyeṣṭhāḥ ← índrajyeṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -122,7 +125,8 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, of whom **Indra** is the chief; divinities, of whom **Pūṣan**. is benefactor; do you all hear my invocation.”
 </details>

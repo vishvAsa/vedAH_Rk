@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ nís ← nís (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, as you enjoy both heaven and earth, investing the universe with your magnitude, you have blown away the robber with the prayers which are repeated on behalf of those who do not comprehend them.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Amanyamānān abhi manyamānair brahmabhiḥ adhamaḥ = with prayers to be understood over those not understanding, i.e. those **yajamānas** who merely repeat the **mantras** without understanding their meaning, are nevertheless to be protected by, or are to reap the benefit of those mantras; and with mantras, Indra will be empowered to scatter the followers of **Vṛtra**, clouds and darkness. Śrīṅgiṇām śuṣṇam = lit. the first having horns, i.e. furnished with weapons like the horns of bulls and buffaloes;
 

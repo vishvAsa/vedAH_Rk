@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 durgr̥bhīyase ← √durgr̥bhīy- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -154,11 +157,13 @@ yávase ← yávasa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are laid hold of with difficulty like the young of tortuously-twining (snakes); you who are the consumer of many forests, as an animal is of fodder.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the young of tortuously twining snakes: putro na hvāryāṇām, like the son of the crooked-going, like a young snake, **bāla** **sarpaḥ**; or it may mean the colt of rearing and plural nging horses, of those not broken in a aśiksi.ta bālaśvaḥ
 </details>

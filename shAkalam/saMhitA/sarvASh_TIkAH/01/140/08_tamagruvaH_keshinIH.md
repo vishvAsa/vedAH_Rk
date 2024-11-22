@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agrúvaḥ ← agrū́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -213,11 +216,13 @@ páram ← pára- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The curving tresses (of the flames) embrace him, (**Agni**), and when expiring spring aloft again to (greet) their coming (lord); rescuing them from decrepitude, he comes sounding aloud, genitive rating (in them) intenser animation and unimpaired vitality.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The curving tresses: agruva **keśinīḥ**;
 

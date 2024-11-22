@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 diví ← dyú- ~ div- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -208,7 +211,8 @@ sajóṣāḥ ← sajóṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether, **Indra**, you abide in the distant heaven, in any other plural ce, or in your own abode, or whersoever (you may be), from thence do you, who are propitiated by praise, putting to your steeds, protect, together with the **Maruts**, well plural ased, our sacrifice, for our preservation.”
 </details>

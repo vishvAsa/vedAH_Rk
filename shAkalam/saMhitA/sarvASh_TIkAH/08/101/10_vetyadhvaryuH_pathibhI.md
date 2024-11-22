@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaryúḥ ← adhvaryú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -154,11 +157,13 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ministrant priest comes by the straighter paths, he brings the oblations for your enjoyment; thenlord of the **Niyut** steeds, drink of both kinds, the **Soma** pure and that mixed with milk.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Priest comes: i.e., from thehavirdhāna, a cart for the Soma
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhidā́sati ← √dās- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -140,7 +143,8 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, **Agni**, who annoys us, whether nigh or afar perish; and do you be to us (propitious) for our advancement.”
 </details>

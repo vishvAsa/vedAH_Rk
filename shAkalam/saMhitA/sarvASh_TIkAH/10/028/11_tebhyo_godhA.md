@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ayátham ← ayátha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -173,7 +176,8 @@ tanvàḥ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Gāyatrī** drew it away without difficulty, for the good of those (gods) who, (satisfied) with the viandsof **Indra**, retaliate the injuries (of the enemies of the gods); they devour all the sprinkling (**Soma** libations) left (byIndra), spontaneously destroying the armies and bodies (of the enemy).”
 </details>

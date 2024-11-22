@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 dádāśati ← √dāś- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
 
@@ -155,7 +158,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He verily who presents oblations to you, the knower of all things, he acquires (**Agni**) excellent progeny; he prospers.”
 </details>

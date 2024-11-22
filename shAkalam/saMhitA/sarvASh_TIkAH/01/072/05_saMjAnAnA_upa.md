@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhijñú ← abhijñú (invariable)  
 {}
 
@@ -175,11 +178,13 @@ sákhyuḥ ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods, discovering you, sat down, and with their wives paid reverntial adoration to you upon their knees. Secure on beholding their friend, of being protected, your friends, the gods, abandoned the rest of their bodies in sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Adhijñu, upon their knees: applied to **Agni** kneeling before them; **devāḥ** yajñam atanvata, the gods verily constituted the sacrifice (**Aitareya** **Brāhmaṇa** 2.11)
 </details>

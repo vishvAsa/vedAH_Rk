@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ samānádakṣāḥ ← samānádakṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** effused with reiterated prayer delights **Indra**; the effused juices, (offered) with repeatedpraise, (exhilarate) **Maghavan**; therefore, (the priests), combining together and making like exertion, invoke Indrafor protection, as sons (apply) to a father.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -194,11 +197,13 @@ yébhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring wealth, thunderers, and give it to us; protect us, **Indra** and **Agni**, by your deeds; may those rays of the sun, by which our forefathers have attained together a hevenly region, shine also upon us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rays of the sun: the radiance of Indra and Agni, as identical with the sun; by praisint the sun, therefore, Indra and Agni are praised also: terciṣamabhisaṃbhavantyarciṣohaḥ (**Chāndoga** **Upaniṣad**. 5.10.1);
 

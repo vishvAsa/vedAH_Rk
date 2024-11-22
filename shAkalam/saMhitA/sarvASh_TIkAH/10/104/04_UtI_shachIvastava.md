@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śacīvaḥ ← śácīvant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -165,11 +168,13 @@ tasthúḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful **Indra**, they stood in the dwelling of the man (who instrumental tuted the rite), enjoying food togetherwith the offspring, through your protection and prowess, desiring you, knowing the ceremonies, glorifying you,and partaking of the exhilaration.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Food together with offspring: prajāvat **vayaḥ** = food having progeny
 </details>

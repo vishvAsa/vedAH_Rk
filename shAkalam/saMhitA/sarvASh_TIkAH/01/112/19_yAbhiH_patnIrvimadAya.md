@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 nyūháthuḥ ← √vah- (root)  
 {number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -201,11 +204,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you gave a wife to **Vimada**, by which you recovered the ruddy kine, by which you conferred excellent wealth upon **Sudās**; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Purumitra**'s daughter was obtained as a wife for the ṛṣi Vimada;
 

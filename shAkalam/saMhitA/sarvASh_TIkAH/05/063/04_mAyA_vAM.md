@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diví ← dyú- ~ div- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ párjanya ← parjánya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your deevice, **Mitra** and **Varuṇa**, is manifested in heaven, when the light (that is) the sun, your wonderful weapon, moves (in the firmament); him you invest in the sky with the cloud (and) with rain; and (your) sweet drops, **Parjanya**, fall (at their desire).”
 </details>

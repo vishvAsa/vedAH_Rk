@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 dāḥ ← √dā- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -212,7 +215,8 @@ sú ← sú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Give us not up, **Soma**, to death; may we (long) behold the rising sun; may our old age brought on by(passing) days be happy; may **Nirṛti** depart far off.”
 </details>

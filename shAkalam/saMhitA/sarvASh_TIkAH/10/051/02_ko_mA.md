@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dadarśa ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -207,7 +210,8 @@ These cryptically allude exactly to what de Santillana and von Dechend mention a
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agni** speaks). Who has beheld me? Which is it of the deities who has fully seen my manifold forms?Where **Mitra** and **Varuṇa**, do Agni's luminous vehicles of the gods abide?”
 </details>

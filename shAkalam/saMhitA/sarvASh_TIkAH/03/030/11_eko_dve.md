@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvé ← dvá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -193,7 +196,8 @@ vā́jān ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** alone has filled the two,both earth and heaven mutually combined, and abounding with wealth; do you hero, mounted in your car, come with your harnessed horses from the firmament, impatient to be near us.”
 </details>

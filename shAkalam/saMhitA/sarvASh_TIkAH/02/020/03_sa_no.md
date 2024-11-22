@@ -23,15 +23,18 @@ ChandaH = "विराड्रूपा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ stuvántam ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that young, adorable **Indra**, ever be the friend, the benefactor, and protector of us, his worshipper; who, with his protection, may conduct (to the object of his worship) him who repeats (to him) prayer and praise, who prepares the oblation, and recites (his) commendations.”
 </details>

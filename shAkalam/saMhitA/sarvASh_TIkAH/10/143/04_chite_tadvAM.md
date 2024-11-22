@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cité ← √cit- (root)  
 {case:DAT, number:SG}
 
@@ -164,11 +167,13 @@ sámane ← sámana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Munificent **Aśvins**, my offering and praise (is) for your recognition, because, leaders (of rites), youprotect us at the sacrifice in the spacious sacrificial hall.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Is for your recognition: i.e., awaits your recognition
 </details>

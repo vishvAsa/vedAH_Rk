@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -137,7 +140,8 @@ víprāḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise have plural ced you, **Agni**, in (their) sacrifices as the invoker, the ministrant priest, the donor of vast wealth, the quick-hearing the far-renowned.”
 </details>

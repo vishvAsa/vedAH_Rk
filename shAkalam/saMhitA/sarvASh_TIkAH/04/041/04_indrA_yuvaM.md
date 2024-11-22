@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmin ← ayám (pronoun)  
 {case:LOC, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ tásmin ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fierce **Indra** and **Varuṇa** you hurled the bright-shining and most mighty thunderbolt against this (our foe), who is difficult ot be resisted by us; (who is) rapacious, malevolent; grant us strength to overcome him.”
 </details>

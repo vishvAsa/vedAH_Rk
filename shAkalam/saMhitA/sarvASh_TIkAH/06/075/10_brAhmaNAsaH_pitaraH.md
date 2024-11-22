@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 brā́hmaṇāsaḥ ← brā́hmaṇa- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -175,11 +178,13 @@ rákṣa ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **brāhmaṇas**, the progenitors presenters of the **Soma**, the observers of truth, protect us; may the faultless heaven and earth be propitious to us; may **Pūṣan** preserve us from misfortune, let no calumniator prevail over us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The observers of truth: ṛtāvṛdhaḥ **rakṣā**: of deities, **deva**, rakṣatasmān, protect us;
 

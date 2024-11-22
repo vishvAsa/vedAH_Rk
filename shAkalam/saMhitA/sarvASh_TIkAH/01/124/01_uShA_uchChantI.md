@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnaú ← agní- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the (sacred) fire is kindled, Uṣā sheds abundant light, dispersing (the darkness) like the rising sun; may the divine Savitābestow upon usfor our use, wealth of both bipeds and quadrupeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For our use: ityatai, lit. = for going; i.e. for carrying on our own affairs
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryamáṇam ← áryaman- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -197,7 +200,8 @@ vaha ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Possessed, **Agni**, of good steeds, an excellent car, and abundant wealth, do you amidst these (worshippers) bring to the man who offers worthy oblations, **Aryaman**, **Varuṇa**, **Mitra**, **Viṣṇu**, the **Maruts**, or the **Aśvins**.”
 </details>

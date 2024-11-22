@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣáḥ ← aruṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And let not that horse, bright-shining, loud-neighing, of graceful form, who has been plural ced (in harness), delay you, **Maruts**, on your journey; urge him on in the car.”
 </details>

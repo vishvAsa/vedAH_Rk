@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásāmi ← ásāmi- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -162,11 +165,13 @@ vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pracetasas**, who are to be unreservedly worshipped, uphold (the sacrificer) **Kaṇva**; come to us, **Maruts**, with undivided protective assistance, as the lightning (bring) the rain.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Pracetas**: an epithet: pra (those possessed of superior) **cetas** (intellect).
 </details>

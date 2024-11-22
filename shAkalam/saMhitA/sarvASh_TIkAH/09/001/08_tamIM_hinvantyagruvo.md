@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 agrúvaḥ ← agrū́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -149,11 +152,13 @@ The etymology of droNa from wooden=drUNa. Its described as ayohatam in the previ
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fingers press the **Soma**, they squeeze it glittering like a water-skin; its juice becomes threefold, enemy-averting.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Its juice becomes threefold = tridhātu = liṭ, in three plural ces; or, as filling the three vessels, the droṇakalaśa, the **āhavanīya** and the pūtabhṛt
 </details>

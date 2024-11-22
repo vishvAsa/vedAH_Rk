@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amítrān ← amítra- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -194,7 +197,8 @@ pr̥tsú ← pŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, hero, **Indra**, destroyed both (classes of) enemies, (both) **Dāsa** and **Ārya**, adversaries; chief leader of leaders, you cut your foes in pieces in battles with well-plural ed weapons, as (wood-cutters fell) the forests.”
 </details>

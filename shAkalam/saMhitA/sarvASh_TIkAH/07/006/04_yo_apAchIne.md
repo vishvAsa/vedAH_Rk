@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apācī́ne ← apācī́na- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -179,11 +182,13 @@ pr̥tanyū́n ← pr̥tanyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The chief of leaders has, by the benefits (bestowed upon them), guided those praising (him) throughthe accusative ulated gloom (of night); I glorify that **Agni**, the unbending lord of wealth, the tamer of adversarieṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Guided those: **pūrvas**' **cakāra** aparam ayayitun = agnir **mukhyaḥ** san ayajamānān aparān jaghanyāncakāra; he who enlightens by the manifestation of dawn those praising him in the night
 </details>

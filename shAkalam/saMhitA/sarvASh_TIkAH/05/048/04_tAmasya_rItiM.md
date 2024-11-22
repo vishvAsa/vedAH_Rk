@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ viśé ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I behold) the practice of that (**Agni**) as of a deputy (or axe); I celebrate the host (of rays) of that (resplendent) form, (designed) for the enjoyment (of mankind); if he be with (the worshipper), he bestows upon the man who invokes him at a sacrifice such opulence as a mansion abounding with food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As of a depty: tām **asya** rītim paraśor iva: the verb is supplied, paśyāmi;
 

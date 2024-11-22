@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ataséṣu ← atasá- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -187,7 +190,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Excited by the wind, and roaring loudly, **Agni** penetrates easily with his flames and diffusive (intensity) among the timber; when, undecaying and fiercely-blazing Agni, you rush rapidly like a bull amongst the forest trees, your path is blackened.”
 </details>

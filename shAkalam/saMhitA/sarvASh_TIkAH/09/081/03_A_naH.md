@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -219,11 +222,13 @@ sicaḥ ← √sic- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, when purified, strew upon us wealth; **Indu**, who are possessed of affluence, be (the donor) of ample riches; dispenser of food, grant to **Vasu** prosperity through (your) intelligence, scatter not our riches far from us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Our riches: no gayam, i.e., asmabhyām pradeyam dhanam, the wealth to be bestowed on us
 </details>

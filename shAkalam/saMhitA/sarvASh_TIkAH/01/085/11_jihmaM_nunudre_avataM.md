@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avatám ← avatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ víprasya ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They brought the crooked well to the plural ce (where the **Muni** was), and sprinkled the water upon the thirsty **Gotama**; the variously-radiant (**Maruts**) come to his succour, gratifyinng the desire of the sage with life-sustaining (waters).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: Ṛṣi Gotama, being thirsty, prayed to the Maruts for relief; Maruts brought a well from a distance to his hermitage
 </details>

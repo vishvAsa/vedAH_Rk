@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular
-#### Morph
+_________
+**Morph**  
 pitáraḥ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -181,11 +184,13 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Pitṛs** who are entitled to the **Soma** come, when invoked by us, to the agreeable treasuresconnected with the sacred grass; let them here listen (to our praises), let them speak (their approbation in reply);let them protect us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Entitled to the Soma: somyāsaḥ = **anugraha** **parāḥ**, kind or favourable,somasampādinaḥ, obtaining the Soma
 </details>

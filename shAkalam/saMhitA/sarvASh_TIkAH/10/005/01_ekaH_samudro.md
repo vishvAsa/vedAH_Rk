@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dharúṇaḥ ← dharúṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ véḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the sole capacious ocean of riches who is of many births beholds our hearts; he waits on thecloud in the neighbourhood of the hidden (firmament); go, Agni, to the appointed plural ce in the midst of the waterṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He waitṣ..firmament: he waits on the night in the neighbourhood of the times of morning and evening covered(respectively) by light and darkness; in the midst of the waters: utsasya = udakadhārakasya lokasya, ormeghasya, the firmament containing water, or a cloud
 </details>

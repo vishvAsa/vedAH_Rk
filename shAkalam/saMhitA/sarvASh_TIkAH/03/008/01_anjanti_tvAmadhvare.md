@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vanaspati**, the devout anoint you with sacred butter at the sacrifice; and whether you stand erect, or your abode be on the lap of this your mother (earth), grant us riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vanaspati = lit. forest lord; here, the reference is to the **post** of wood to which the victim is tied; the hymn is cited in **Aitareya** **Brāhmaṇa** 2.2; cf. **Nirukta** 8.18
 </details>

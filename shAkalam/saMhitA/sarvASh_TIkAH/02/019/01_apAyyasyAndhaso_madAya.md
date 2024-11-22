@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -167,11 +170,13 @@ náraḥ ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “It has been partaken (by **Indra**) for his exhilaration, of this agreeable (sacrificial) food, the libation of his devout (worshipper); thriving by which ancient (**Soma**),he has bestowed a (fitting) dwelling, where the adoring conductors (of the ceremony) abide.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 It has been partaken: apāyi **asya** andhasaḥ: used impersonally, 3rd person singular of the 3rd preterite, passive voice; it may as well be used for the imperative and is equated to: **indraḥ** **somam** pitabu = may Indra drink the Soma
 </details>

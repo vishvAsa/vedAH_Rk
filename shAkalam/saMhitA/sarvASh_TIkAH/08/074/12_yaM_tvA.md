@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 ī́ḷate ← √īḍ- ~ √īḷ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -116,11 +119,13 @@ vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O you whom the crowding worshippers praise for the obtainment of food, attend to them for thedestruction of their enemiess.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Or, vṛtraturye, in battle
 </details>

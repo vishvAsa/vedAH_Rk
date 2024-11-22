@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 bahudhā́ ← bahudhā́ (invariable)  
 {}
 
@@ -184,7 +187,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He whom the wise priests bring, when they arrange the offering in many ways, who was employed as alearned **brāhmaṇa**, what is the offerer's knowledge regarding him?”
 </details>

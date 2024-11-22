@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhīmahi ← √dhā- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
 
@@ -144,7 +147,8 @@ yaja ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like **Manu**, we meditate, **Agni**, upon you; like Manu, we kindle you; worship the gods on behalf of the (worshipper), devout as Manu.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dā́nam ← dā́na- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -191,11 +194,13 @@ mánave ← mánu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maghavan**, who are glorified by us, assailing with the thunderbolt the antagonist (of the gods), you have slain those who were ever hostile (to you) from your birth; desiring to do good to **Manu**, you have bruised the head of the slave **Namuci**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Desiring to do good to Manu: manave gātum icchan: gātum = sukham; identifying Manu with the ṛṣi of the **sūkta**, namucina apāhṛtagodhanāya mahyam, to me whose wealth of cattle has been carried off by Namuci, an **asura**
 </details>

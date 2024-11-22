@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {}
 
@@ -213,11 +216,13 @@ vr̥ha ← √vr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yama** speaks). The spies of the gods, which wander upon earth, never stop, never close their eyeṣAssociate quickly, destructress, with some other than with me, and exert yourselves in union, like the two wheelsof a wagon.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Destructress: i.e., causing unhappiness by your shameful conversation
 </details>

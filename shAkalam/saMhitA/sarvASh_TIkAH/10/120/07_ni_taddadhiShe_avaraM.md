@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ávaram ← ávara- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -186,11 +189,13 @@ purū́ṇi ← purú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You deposit the lesser and the greater wealth in the mansion in which you are satisfied with food; youfix the two wandering mothers, you accomplish many works.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Two wandering mothers: i.e., heaven and earth:viṣvak tastambha pṛthivīmuta dyām: RV 10.89.4)\]. over the great self-ruling herd of cattle, and he opened all his doors.
 </details>

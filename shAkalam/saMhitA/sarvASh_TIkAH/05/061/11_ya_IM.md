@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśúbhiḥ ← āśú- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -121,7 +124,8 @@ dadhire ← √dhā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those (**Maruts**) who are brought hither by swift horses, drinking the inembriating juice, receive here gratification.”
 </details>

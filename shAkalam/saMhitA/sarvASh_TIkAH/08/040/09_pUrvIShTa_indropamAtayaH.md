@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, wielder of the thunderbolt, instrumental gator (of acts), may the numerous merits, the many excellences ofyou, who are the bestower of affluence and of **male** offspring, perfect our understandings; may all ouradversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Indra, wielder of the thunderbolt, instrumental gator (of acts), of you, the gladdener, the brilliant, thehero, the wealth-bestower, numerous (or ancient) are the comparisons, numerous (or ancient) are the praises,which exercise our understandings;
 

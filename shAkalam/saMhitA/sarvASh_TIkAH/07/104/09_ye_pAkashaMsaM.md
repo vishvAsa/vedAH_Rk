@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 évaiḥ ← éva- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -194,11 +197,13 @@ vā ← vā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Soma** give to the serpent, or toss upon the lap of **Nirṛti**, those who with designing (accusative ations)person cute me, a speaker of sincerely, and those who by spiteful (calumnies) vilify all that is good in me.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thosewho by spiteful calumnies: or, those who with violence vilify me, acting uprightly
 </details>

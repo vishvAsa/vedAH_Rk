@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -216,7 +219,8 @@ yuktā́ḥ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Master of tawny steeds, the remotest regions are not remote for you; then come quickly with your horses; to you the steady showerer (of benefits), these sacrifices are presented; the stones (for bruising the **Soma**) are ready, as the fire is being kindled.”
 </details>

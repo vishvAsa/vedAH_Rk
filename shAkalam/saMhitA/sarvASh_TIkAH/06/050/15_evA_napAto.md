@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhībhíḥ ← dhī́- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -179,7 +182,8 @@ yajatrāḥ ← yájatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus do my sons, of the race of **Bharadvāja**, worship the gods with sacred rites and holy hymns; and so, adorable (deities), may you, who are worshipped and glorified, the givers of dwellings, the invincible, universal gods, ever be adored, (together with your) wives.”
 </details>

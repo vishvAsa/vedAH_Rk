@@ -21,13 +21,16 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhire ← √dhā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -122,7 +125,8 @@ nápātam ← nápat- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods have made you, **Agni**, who are the son of strength, the bearer of the oblation.”
 </details>

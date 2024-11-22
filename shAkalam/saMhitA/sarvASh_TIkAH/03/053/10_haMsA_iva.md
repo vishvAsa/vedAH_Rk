@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádribhiḥ ← ádri- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -197,7 +200,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sages and saints overlookers of the leaders (of sacred rites), **Kuśikas**, when the **Soma** is expresssed with stones at the sacrifice, then exhilarating (the gods) with praises, sing the holy strain (aloud) like (screaming) swans, and, together with the gods, drink the sweet juice of the Soma.”
 </details>

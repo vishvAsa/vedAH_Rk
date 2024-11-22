@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 bhavatu ← √bhū- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -241,7 +244,8 @@ védiḥ ← védi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the **Soma** be (offered for) our happiness; may the prayer be (uttered for) our happiness; may thestones (grind the Soma), the sacrifice be (solemnized for) our happiness; may the measured lengths of thesacrificial **posts** be (conducive to) our felicity; may the sacred grass be (strewn) for our happiness; may the altarbe (raised for) our happiness.”
 </details>

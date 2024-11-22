@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 bhándiṣṭhaḥ ← bhándiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -133,7 +136,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(in like manner as, among these your worshippers, **Kutsa**) is the pre-eminent panegyrist, so are our encomiasts (of you) the most distinguished; may our sin be repented of.”
 </details>

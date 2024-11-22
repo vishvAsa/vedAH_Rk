@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arkaíḥ ← arká- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -117,7 +120,8 @@ ________________
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adore the pure **Bṛhaspati** at sacrifices with hymns; I solicit of him unsurpassable strength.”
 </details>

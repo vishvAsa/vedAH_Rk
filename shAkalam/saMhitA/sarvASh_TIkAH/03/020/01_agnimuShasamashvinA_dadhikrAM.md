@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ vāvaśānā́ḥ ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bearer (of the oblation) invokes with praises at the break of day, **Agni**, the dawn, the **Aśvins**, and Dadhikra); may the resplendent divinities, desirous of our sacrifice, hear in unison (the invocation).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dadhikrā = ordinarily means a horse; here, it implies a divinity: **dadhikrāva** **nāma** kaścidevaḥ tam dadhikāvaṇam
 </details>

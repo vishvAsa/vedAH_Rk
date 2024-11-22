@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́rutāya ← mā́ruta- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ nr̥mṇám ← nr̥mṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer praise to the company of the **Maruts**, the self-irradiating, the precipitators of mountains; present liberal oblations to the assuagers of heat, to those who come from the sky, to whom solemn rites are familiar, to the givers of abundant food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To whom solemn rites are familiar: pṛṣṭhayajvane: by whom the sacrifices called **pṛṣṭha** are made, these are said to be six, of which two are specified: **rathantara** and **bṛhat**, śatpṛṣṭhaiḥ rathantara bṛhadādibhir ijānāya
 </details>

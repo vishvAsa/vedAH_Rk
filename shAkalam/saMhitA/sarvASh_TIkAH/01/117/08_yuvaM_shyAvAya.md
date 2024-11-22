@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adattam ← √dā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -174,11 +177,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You gave, **Aśvins**, a lovely bride to Śyāvā; you gave sight to **Kaṇva**, unable to see his way; showerers (of benefits), the deed is to be glorified by which you gave hearing to the son of **Nṛṣad**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Śyāva**, a ṛṣi, had the black leprosy, but was cured of it by the Aśvins, and consequently married. The son of Nṛṣad is a ṛṣi
 </details>

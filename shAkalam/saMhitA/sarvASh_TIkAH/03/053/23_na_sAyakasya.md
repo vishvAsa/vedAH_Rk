@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cikite ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -176,11 +179,13 @@ purás ← purás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men, (the might) of the destroyer is not known toyou; regarding him as a mere animal, they lead him away desirous (silently to complete his devotions); the wise condescend not to turn the foolish into ridicule, they do not lead the ass before the horse.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: **Viśvāmitra** was seized and bound by the followers of **Vasiṣṭha**, when observing a vow of silence. These were the reflections of the sage on the occasion: disparaging the rivalry of Vasiṣṭha with himself, as if between an ass and a horse: sāyakasya = of an arrow;here explained, to destroy, avasānakāriṇaḥ; lodham nayanti = they lead the sage;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayā́saḥ ← ayā́s- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -182,7 +185,8 @@ tuviṣvaṇásaḥ ← tuviṣvaṇás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those, your rays, **Agni**, triumphant, wide-spreading, radiant, adorable, go like hawk-faced horses (to their goal), loud-sounding like the company of the **Maruts**.”
 </details>

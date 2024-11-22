@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -203,7 +206,8 @@ támāṁsi ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He indeed, the ancient **Indra**, making himself by his might sovereign over all worlds, became supreme over (all); and thenceforth sustaining heaven and earth, he overspread them with effulgence, and scattering the malignant glooms, he pervaded (all things).”
 </details>

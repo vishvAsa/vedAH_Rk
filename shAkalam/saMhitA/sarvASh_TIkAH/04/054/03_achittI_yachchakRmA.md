@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácittī ← ácitti- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -192,7 +195,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, **Savitā**, through ignorance, through pride in feeble or powerful (dependants), or through human infirmity, we have committed (offence) against your divine person n, or against gods or men, do you on this occasion hold us to be unoffending.”
 </details>

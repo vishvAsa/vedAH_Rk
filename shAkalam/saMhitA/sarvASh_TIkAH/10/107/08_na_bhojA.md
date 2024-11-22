@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhojā́ḥ ← bhojá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -218,11 +221,13 @@ sárvam ← sárva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Saramā**). Excited by the **Soma**, the Ṛṣis, the **Aṅgirasas** of the nine months' rite, headed by **Ayasya**,will come here; they will partition this herd of cattle, then the **Paṇis** will retract their words.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Headed by Ayasya:or, unwearying; will retract their words: liṭ, vomit, i.e., reject
 </details>

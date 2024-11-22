@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ātmā́ ← ātmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ vidhema ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **soul** of the gods, the germ of the world, this divinity moves according to his plural asure; his voicesare heard, his form is not (seen); let us worship that **Vāta** with oblations. nutritious life-sustaining (waters); **Rudra**, have compassion upon the food which has feet.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., the cow
 </details>

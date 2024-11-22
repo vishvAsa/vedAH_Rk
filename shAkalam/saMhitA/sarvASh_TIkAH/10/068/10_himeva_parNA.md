@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 himā́ ← hímā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -171,11 +174,13 @@ yā́t ← yā́t (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the trees (bemoan) their leaves carried off by the winter, so **Vala** bemoaned his kine (carried off) byBṛhaspati; he did that which cannot be imitated, which cannot be repeated, whereby sun and moon mutually rise(day and night).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Trees: vanāni = vananīyāni, the desirable wealth of cows; as leaves are carried off bywinter, so the desirable cows were carried off by Vala had pity on **Bṛhaspati** coming in search of the cows; i.e.,gave him the cows. He made this, i.e. the mutual rising of the sun and moon, which cannot be made afterwards,which cannot be made again
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 imā́ ← ayám (pronoun)  
 {case:ACC, gender:N, number:PL}
 
@@ -183,11 +186,13 @@ ukthaśā́saḥ ← ukthaśás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You know not him who has genitive rated these (beings); (his life) is another, different from yours;wrapped in fog, and foolish speech (do they) wander (who are) gluttonous and engaged in devotion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sāyaṇa**:"The assertion that we know **Viśvakarman** in the same way as men say, 'I am **devadatta**, I am **yajñadatta**', isfalse, for the essence (**tattva**) of Viśvakarman **Parameśvara** is not endowed with conscious individual existence,but he is a different entity from you who are sentient beings, who have individual consciousness, and so forth".Wrapped in foolish speech: jalpyā: i.e., saying I am god, I am man etc.;
 

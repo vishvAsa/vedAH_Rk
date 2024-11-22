@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarásya ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -153,7 +156,8 @@ vidúṣṭaraḥ ← vidúṣṭara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You who are all-knowing understand the functions of a messenger (of the gods) at the sacrifice; well informed of both heaven and earth and the intermediate (firmament), and a most intelligent, ancient, and amplifying envoy, you go up the ascents of heaven.”
 </details>

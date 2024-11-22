@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́nām ← devá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -190,7 +193,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That was the exploit, (performed) for the most divine of the gods, by which the firm (**shut** gates) were thrown open, the strong (barriers) were relaxed, (by him) who set the cows at liberty; who, by the (force of the) sacred prayer, destroyed **Bala** who dispersed the darkness and displayed the light.”
 </details>

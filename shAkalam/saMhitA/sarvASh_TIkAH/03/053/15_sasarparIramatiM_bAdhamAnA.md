@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámatim ← ámati- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -159,11 +162,13 @@ devéṣu ← devá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The daughter of **Sūrya** given by **Jamadagni** gliding everywhere and dissipating ignorance, has emitted a mighty (sound), and has diffused ambrosial imperishable food among the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Given by Jamadagni: jamadagni **dattā** = given by the ṛs;is maintaining a blazing jamat-jvalat, fire, **agni**; mighty sound: the sound of thunder or the like in the sky; food among the gods: as the prayers or exclamation which accompanies the burnt offering
 </details>

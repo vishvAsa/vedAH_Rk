@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -182,7 +185,8 @@ trivárūthena ← trivárūtha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I, with my fellow-worshippers, obtain that your most excellent felicity and vigour, which, most mighty **Indra**, associate of heroes, the pious celebrate (as bestowed) by you, who are the humiliator (of foes), the protector of the three (worlds).”
 </details>

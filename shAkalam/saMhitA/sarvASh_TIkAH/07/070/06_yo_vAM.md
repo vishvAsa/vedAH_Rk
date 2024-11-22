@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havíṣmān ← havíṣmant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ yuvábhyām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Nāsatyās**, to the excellent **Vasiṣṭha**, the worshiper who, accompanied by the priests, ispresent, offering oblations and repeating praises; these prayers are recited to (bring) you (hither).”
 </details>

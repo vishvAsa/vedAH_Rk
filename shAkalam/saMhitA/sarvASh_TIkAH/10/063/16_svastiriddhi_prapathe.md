@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -212,7 +215,8 @@ svāveśā́ ← svāveśá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (**pṛthivī**), who secures well-being to the excellent path, who, abounding with wealth, goes to thedesirable (plural ce of sacrifice), preserve our home, may she protect us on the path we have to travel; cherished bythe gods, may she be to us a plural asant abode.”
 </details>

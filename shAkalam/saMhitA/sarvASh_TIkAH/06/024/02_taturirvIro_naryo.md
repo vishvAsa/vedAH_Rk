@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 náryaḥ ← nárya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The surpasser (of foes), a hero, the friend of man, the discriminator, the hearer of the invocation, the great protector of his adorers, the giver of dwelings, the ruler of men, the cherisher of his worshippers, the bestower of food, grants us, when glorified at the sacrifice, (abundant) sustenance.”
 </details>

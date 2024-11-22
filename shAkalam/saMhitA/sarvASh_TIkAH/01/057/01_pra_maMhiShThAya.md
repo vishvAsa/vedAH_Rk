@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hádraye ← br̥hádri- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ viśvā́yu ← viśvā́yu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer especial praise to the most bountiful, the excellent, th eopulent, the verily powerful and stately **Indra**, whose irresistible impetuosity is like (the rush) of waters down a precipice, and by whom widely-diffused wealth is laid open (to his worshippers) to sustain (their) strength.”
 </details>

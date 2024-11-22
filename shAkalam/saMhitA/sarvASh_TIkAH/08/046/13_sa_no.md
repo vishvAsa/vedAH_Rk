@@ -21,13 +21,16 @@ ChandaH = "द्विपदा जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avitā́ ← avitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -117,7 +120,8 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Maghavan**, the wealthy, the slayer of **Vṛtra**, stand before us as our defender in battles.”
 </details>

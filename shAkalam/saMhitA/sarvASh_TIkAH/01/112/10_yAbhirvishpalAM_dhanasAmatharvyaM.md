@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 atharvyàm ← atharvī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -184,11 +187,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you enabled the opulent Viśpalā, when she was unable to move, to go to the battle rich in a thousand spoils, and by which you protected the devout **Vaśa**, the son of **Aśva**; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Viśpalā was the wife of Khela, son of **Agastya**. Vaśa and **Asva** were ṛṣis
 </details>

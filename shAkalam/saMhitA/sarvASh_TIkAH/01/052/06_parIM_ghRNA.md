@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carati ← √carⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -190,7 +193,8 @@ tanyatúm ← tanyatú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, you had smitten with my thunderbolt the check of the wide-extended **Vṛtra**, who, having obstructed the waters reposed in the region above the firmament, your fame spread afar, your prowess was renowned.”
 </details>

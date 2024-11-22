@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ráthaḥ ← rátha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your thunderbolt, **Indra**, is the rainer (of bounties); your chariot, the showerer (of blessings); your two horses, the shedders (of desires); your weapons the diffusers (of wishes); you reign, showerer (of benefits), over the inebriating **Soma**, the sprinkler (of delight); satiate yourself, Indra, with the good-diffusing Soma.”
 </details>

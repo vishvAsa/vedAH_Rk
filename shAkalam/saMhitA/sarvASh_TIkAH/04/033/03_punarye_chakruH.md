@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrúḥ ← √kr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -197,7 +200,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May they who rendered their decrepid and dropsy parents, when, like two dry **posts**, again perpetually young, **Vāja**, Vibhavan, and **Ṛbhu** associated with **Indra**, drinkers of the **Soma** juice, protect our sacrifice.”
 </details>

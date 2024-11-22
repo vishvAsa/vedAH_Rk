@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asiṣyán ← √as- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
 
@@ -208,11 +211,13 @@ véḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He casts (afar his flames) as an archer (his arrows), and sharpens when about to dart his radiance, as (a warrior whets) the edge of his metal (weapons), he who, variously moving, passes through the night, like the light-falling foot of a bird perched upon a tree.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The edge of his metal: ayaso na dhārām
 </details>

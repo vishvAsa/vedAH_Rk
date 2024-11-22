@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antamébhiḥ ← antamá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -190,11 +193,13 @@ svadhā́m ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “ (The **Maruts**): Therefore we also, decorating our person ns, are ready, with our docile and night-standing steeds, (to attend) you, with all our splendour, to those rites; verily, **Indra**, you appropriate our (sacrificial) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You appropriate: svadhām anu hi no babhūtha, you have been upon or after our food; or, balam, strength; or, udakam, water; i.e. you seek after the oblations genitive rated either by our strenght, or the water we have created
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhnām ← áhar ~ áhan- (nominal stem)  
 {case:GEN, gender:N, number:PL}
 
@@ -200,7 +203,8 @@ viśé ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As the rays of the days of the sun are let loose (so are the streams of the **Soma**); a prudent king does not abandon his friend; as a son preserving in pious acts (wins) his father's (safety), do you pour upon this people immunity from defeat.”
 </details>

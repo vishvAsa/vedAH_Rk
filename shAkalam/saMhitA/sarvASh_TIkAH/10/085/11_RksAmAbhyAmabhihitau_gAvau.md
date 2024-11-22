@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 abhíhitau ← √dhā- 1 (root)  
 {case:NOM, gender:M, number:DU, non-finite:PPP}
 
@@ -153,7 +156,8 @@ pánthāḥ ← pánthā- ~ path- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those two oxen yoked by the Ṛk and the **Sāman** march equally; the two wheels were your ears; themoving path (was) in heaven.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sávanam ← sávana- 1 (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -202,7 +205,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pour forth this excellent libation; the stone grasped by the **hand** is like a horse when the grinder(effuses the **Soma**). The animating (worshipper) acquires virile strength overpowering (his foes) when (the stone)bestows horses for the sake of great wealth.”
 </details>

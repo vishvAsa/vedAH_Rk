@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ratheṣṭhā́m ← ratheṣṭhā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -154,7 +157,8 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Śatakratu**, slayer of **Vṛtra**, let your horses, yoked to your car, bring you, the lord, riding in your chariot,(to our sacrifices), avoiding those sacrifices (offered) by others.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -184,7 +187,8 @@ pr̥thivyā́m ← pr̥thivī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The invoker (of the gods), the exhilarator (of his worshippers), the true, the offerer of sacrifice, the most wise, the creator, is present at our sacred rites. **Agni**, the son of strength, whose chariot is the lightning, whose hair is flame, manifests his glory on the earth.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 rayīṇā́m ← rayí- ~ rāy- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -107,11 +110,13 @@ jigyúṣām ← √ji- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You desire to give wealth to those who conquer in combat as (men offer fodder) to horses in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You desire to give wealth: siṣāsatuḥ; another interpretation treats this term as 3rd dual, 'they two desire wealth'; bhareṣu jigyuṣāmasi = you are on the side of the successful in battle
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 sunīthám ← sunīthá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(We know you to be) well armed, a sure protector, a safe guide, (renowned throughout) the fouroceans, the depositary of riches, deserving of repeated worship, adorable, the preventer of many (ills); grant usvarious fertilizing riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 We know you to be: **ukta**-guṇaviśiṣṭam rayim **dehi** = give us wealth, having thesequalities, i.e. well-armed etc.
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -201,7 +204,8 @@ varūthyàm ← varūthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or may the adorable, heaven-abiding company of the **Maruts**, come to us to take their seats on the sacred grass; or may **Bṛhaspati**, **Pūṣaṇ**, **Varuṇa**, **Mitra**, **Aryaman**, bestow upon us domestic happiness.”
 </details>

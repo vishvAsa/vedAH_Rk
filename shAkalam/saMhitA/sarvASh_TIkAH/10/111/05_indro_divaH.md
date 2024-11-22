@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diváḥ ← dyú- ~ div- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ skámbhanena ← skámbhana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the counterpart of heaven and earth, is cognizant of all sacrifices, he is the slayer of **Śuṣṇa**; hespread out the spacious heaven with the sun (to light it up); best of proppers, he propped up (the heaven) with aprop.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Propped up the heaven with a prop: Satyatātā = that which is stretched out by the true ones, the gods;or, **tāti** as a suffix, that which is true, i.e., heaven
 </details>

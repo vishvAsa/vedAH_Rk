@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhrāśáyan ← √bhraś- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -183,7 +186,8 @@ vr̥śca ← √vr̥śc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Brandishing your sharp, shining weapons, pierce the solid bodies of the evil spirits. I give to you whoare fierce, foe-subduing strength; having assailed the enemies, cut them to pieces in the midst of their clamour.”
 </details>

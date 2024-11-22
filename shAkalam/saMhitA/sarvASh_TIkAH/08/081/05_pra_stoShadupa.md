@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 gāsiṣat ← √gā(y)- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
 
@@ -118,11 +121,13 @@ rā́dhasā ← rā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (**Indra**) sing the prelude, may he sing the accompaniment, may he listen to our hymn as it ischanted; may he, endowed with wealth, accept us favourably.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May he sing the accompaniment: i.e., let him actas **prastotā** and **upagatā**; cf. **Aitareya** **Brāhmaṇa** 3.23; 7.1 for a description of the functions of theseassistants at a **sāman**
 </details>

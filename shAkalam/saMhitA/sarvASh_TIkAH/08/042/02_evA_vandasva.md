@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hántam ← br̥hánt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ upásthe ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify then the mighty **Varuṇa**; reverence the wise guardian of the ambrosia; may he bestow upon usa thrice sheltering habitation; may heaven and earth preserve us abiding in their proximity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thrice-shelteringhabitation: trivarūtha (RV. 6.46.9) = sheltering from cold, heat and rain; here, tristhānam
 </details>

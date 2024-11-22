@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínam ← aśvín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ virapśínaḥ ← virapśín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sindhu** has harnessed his easy-going, well-horsed, chariot, with it may he bring (us) food; the might ofthis inviolable, great, renowned (chariot) at this sacrifice is praised as mighty.”
 </details>

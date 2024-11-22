@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāśvàdhvarāya ← dāśvàdhvara- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that opulence comprising treasure and abundant food, which you besow, deities, upon the donor (of the oblation), that, **Indra** and **Varuṇa**, which baffles the calumnies of the malevolent, be ours.”
 </details>

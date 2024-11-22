@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,11 +196,13 @@ tváṣṭar ← tváṣṭar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, who are devoutly invoked, come to us together, and, seated on the sacrificial grass, enjoy your rest; and then, **Tvaṣṭā**, who head a brilliant cohort (come) with the gods and their wives, and rejoice being plural ased with the (sacrificial) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 26.24; addressed to devapatnyaḥ, the wives of the gods, and then to Tvaṣṭā along with them
 </details>

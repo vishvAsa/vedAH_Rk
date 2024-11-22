@@ -27,10 +27,12 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -39,7 +41,8 @@ genre M
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 mahiṣáḥ ← mahiṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -281,11 +284,13 @@ satyáḥ ← satyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The adorable and powerful (**Indra**), partaking of the **Soma**, mixed with barley, effused at the Tṛkadruka rites, has drunk with **Viṣṇu** as much as he wished; the draught has excited that great and mighty Indra to perform great deeds; may that divine (Soma) pervade the divine (Indra), the true Soma (pervade) the true Indra.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 All the hymns in this **sūkta** occur in the **Sāmaveda**;
 

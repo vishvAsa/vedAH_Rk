@@ -24,16 +24,19 @@ ChandaH = "अतिशक्वर्यष्टिर्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gāyasi ← √gā(y)- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -250,11 +253,13 @@ viśvátas ← viśvátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You sing, Bird, like the **udgatā** chanting the **sāma**; you murmur like the brahmaputra at sacrifices; like a horse (neighing) when approaching a mare do you proclaim (aloud) to us good fortune from every quarter; proclaim aloud prosperity to us from every direction.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Brahmaputra: the same as the brāhmaṇāccaṃsi one of the sixteen priests, who 'sastram śaṃsati, recites the **mantra** that is not to be sun or chanted
 </details>

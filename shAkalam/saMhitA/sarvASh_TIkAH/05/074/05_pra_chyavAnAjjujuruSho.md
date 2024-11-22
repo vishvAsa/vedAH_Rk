@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cyávānāt ← cyávāna- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ vadhvàḥ ← vadhū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You stripped off (his aged form) like a cuirass ffrom the decrepit **Cyavāna**, so that, when you had rendered him again a youth, he attracted the desires of women.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vā ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -120,7 +123,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven and Earth, bear to the gods today our heaven aspiring sacrifice, the means of obtaining **svarga**.”
 </details>

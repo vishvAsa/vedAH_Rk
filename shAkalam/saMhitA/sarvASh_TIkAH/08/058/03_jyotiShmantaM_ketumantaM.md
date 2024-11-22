@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya  
 popular;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 jyótiṣmantam ← jyótiṣmant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The brilliant chariot, diffusing splendour, rolling lightly on its three wheels, offering an easy seat, and fullof many gifts, at whose yoking the Dawn was born, rich in marvellous treasures, I invoke that your chariot (OAśvins), come you here to drink.”
 </details>

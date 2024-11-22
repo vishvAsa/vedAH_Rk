@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 catúraḥ ← catúr- (nominal stem)  
 {}
 
@@ -115,11 +118,13 @@ spr̥hayet ← √spr̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For he (the worshipper) loves not, but fears to speak evil (of any one), as a gamester fears (his adversary) holding the four (dice), until they are thrown.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Caturaścid dadamānād vibhīyād-ā-nidhātoḥ, he may fear from one holding four until the fail; explained as: caturo akṣān dhārayataḥ kitavat = from a gambler holding four dice. The dice are four cowrie shells, **kapardakaḥ**
 </details>

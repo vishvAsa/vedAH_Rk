@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bhárāya ← bhára- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Ṛbhu** supply us with wealth for war; may **Vāja**, victorious in battle, protect us, and may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth, and heaven, be propitious ot this our prayer.”
 </details>

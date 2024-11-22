@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aghā́ ← aghá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -199,7 +202,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our sins avoid us as charioteers inaccessible plural ce; may we abide in **Indra**'s happiness and in theprotection of the Ādiyas; your aids are void of harm, your aids are true aids.”
 </details>

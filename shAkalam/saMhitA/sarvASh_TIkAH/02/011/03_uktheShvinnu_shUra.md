@@ -23,15 +23,18 @@ ChandaH = "विराट्स्थाना त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.  
 genre M;; virāṭsthānā; see Oldenberg (1888) 86–95 and Arnold (1905) 240–1, 246.
-#### Morph
+_________
+**Morph**  
 cākán ← √kanⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
 
@@ -193,11 +196,13 @@ vāyáve ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, hero, these brilliant (laudations), in (the form of) hymns, in which you delight, and in (that of) the praises uttered by the worshipper by which you are gratified, are addressed to you, to bring you (to your sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the praises uttered by the worshippers: rudriyeṣu stomeṣu: rudriya = the means of giving plural asure, sukhasādhana bhūteṣu;or, **rudraḥ** = stotāraḥ, praisers, worshipped
 </details>
@@ -220,7 +225,8 @@ etā́(ḥ), but it is not clear whether masc. yéṣu does. If we take the nomi
 
 ukthéṣu, etc., as belonging to the main clause, then it does. This seems to be the solution of the standard tr. (e.g., Renou’s tenative “parmi (?) les hymnes en lesquels tu te complais et parmi (?) les corps-de-louange rudriens …” I do not know the answer, though I’m inclined to follow the standard tr., against the published translation, and take these masc. locatives as belonging to the main clause, with loc. relative clauses dependent on them, parallel to the fem. loc. in c. So, rather like Renou, “Amidst the hymns, praises, and Rudriyans in which you take (have taken? injunc. pf.) delight, these (FEM. PL.), in which you are finding exhilaration, run forth to you …” As the just-produced tr. shows, yet another problem is the identity of the subject of the main clause and its verb sisrate. The subj. must be fem. because of the etā́(ḥ) and it is either qualified as śubhrā́ḥ ‘resplendent’ or compared to entities that are. The anomalous position of the simile particle ná is, uneasily, compatible with either: “resplendent like Xes” or “like resplendent Xes.” Various solutions for the identity of the subject have been suggested. The published translation ‘waters’ seems the most likely, since 1) the verb means ‘run forth, flow’, 2) the subj. must be fem. pl., 3) śubhrá- elsewhere characterizes waters and rivers, and 4) the waters were prominent in the immediately preceding vs., though not named, and rivers appear in 1d.
 
-Identifying the referent of śubhrā́ḥ is complicated by the fact that this stem is the signature word of the next vs. ### 04
+Identifying the referent of śubhrā́ḥ is complicated by the fact that this stem is the signature word of the next vs. _________
+**04**  
 The first two pādas contain two exx. of predicated pres. participles, vardháyantaḥ and dádhānāḥ, but unfortunately it’s not clear what they are predicated of. Geldner, Renou, and the published translation supply “we,” which is a reasonable default, Witzel Gotō “diese Lobreden,” from 3a (which does not work because ukthá- is neut. and the participles are masc.). In any case, the referents of these participles are not directly reflected in the rest of the verse (save perhaps for asmé ‘for us / among us’ in c), and it seems best with the standard tr. to assume an abrupt syntactic division between ab and cd because the subject of ab must be plural, not sg., though the intrans./pass. part.
 
 vāvṛdhānáḥ and the adj. śubhráḥ in c show lexical and thematic continuity with the first hemistich.

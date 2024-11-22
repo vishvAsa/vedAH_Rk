@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 drapsáḥ ← drapsá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -206,7 +209,8 @@ yásya ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This dropping, omniform **Soma**, the showerer (of benefits), has been duly prepared for **Indra**, the showerer (of rain); lord of steeds, ruler over all, mighty (Indra), drink this over which you have of old pressed, which is your food.”
 </details>

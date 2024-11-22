@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)  
 {case:ABL, gender:F, number:PL}
 
@@ -197,7 +200,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Attending to the summons at the time of battle, you surpass all me (in magnitude); you are vaster than the earth, than the sky, than the rivers, than the mountains; you exceed all other existent things.”
 </details>

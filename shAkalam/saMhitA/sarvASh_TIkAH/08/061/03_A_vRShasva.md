@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -156,7 +159,8 @@ dadhr̥ṣváṇim ← dadhr̥ṣváṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, possessor of much wealth, pour the effused **Soma** within you; possessor of (bright) coursers, weknow you, the overpowerer in battles, the unconquerable, the conqueror.”
 </details>

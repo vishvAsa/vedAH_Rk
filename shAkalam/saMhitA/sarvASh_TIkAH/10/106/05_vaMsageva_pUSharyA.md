@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -181,11 +184,13 @@ saparyā̀ ← saparyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are like two plural asantly moving well-fed (hills) like **Mitra** and **Varuṇa**, the two bestowers of felicity,veracious, possessors of infinite wealth, happy, like two horses plural mp with fodder, abiding in the firmament, liketwo rams (are you) to be nourished with sacrificial food, to be cherished (with oblations).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like Mitra and Varuṇa:liṭ, like two **Mitras**
 </details>

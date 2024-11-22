@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -219,7 +222,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “But you (no one) resists, neither the hero, nor the fleet runner, nor the resolute, nor the combatant confiding (in his valour); neither of these, **Indra**, is a match for you; you are superior to all these person ns.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dātā́ ← dātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,7 +188,8 @@ tū́tujānaḥ ← √tuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** is the donor of substantial food; may the very illustrious Indra increase (in glory) through our praises; may Indra, the destroyer (of enemies), be the especial slayer of **Vṛtra**; may he, the animator the quick-mover, grant us those (riches which we desire).”
 </details>

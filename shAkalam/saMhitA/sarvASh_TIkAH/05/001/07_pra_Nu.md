@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaréṣu ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -190,7 +193,8 @@ vājínam ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They glorify at present withhymns that **Agni** who is intelligent, the fulfiller (of desires) at sacrifices, the offer of oblations, who has charged heaven and earth with water, and whom they always worship with clarified butter as the bestower of food.”
 </details>

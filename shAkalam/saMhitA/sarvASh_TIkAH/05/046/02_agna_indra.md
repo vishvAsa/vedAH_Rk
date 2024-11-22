@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ sárasvati ← sárasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, **Indra**, **Varuṇa**, **Mitra**, gods, confer (upon us) strength; or, company of the **Maruts**, or **Viṣṇu**, (bestow it); and may both the **Nāsatyas**, **Rudra**, the wives of the gods, **Pūṣan**, **Bhaga**, **Sarasvatī**, be plural ased (by our adoration).”
 </details>

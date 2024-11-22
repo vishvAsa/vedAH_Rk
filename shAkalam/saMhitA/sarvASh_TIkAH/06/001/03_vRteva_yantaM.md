@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bahúbhiḥ ← bahú- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -174,7 +177,8 @@ viśváhā ← viśváhā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those who are assiduous in (worshipping) you for riches follow you, going with many **Vasus** by the path (of the firmament); you, the radiant **Agni**, of goodly aspect, mighty, fed with burnt-offerings, and blazing every day.”
 </details>

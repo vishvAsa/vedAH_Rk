@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣásya ← aruṣá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ like the purified tasty soma for agni.
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I commemorate promptly at the holy ceremony the might of the all-pervading jātavaedasa, the showerer, the radiant; new, pure, and graceful praise issues (from me) like the **soma** juice (from the filter), to **Agni** **vaiśvānara**.”
 </details>

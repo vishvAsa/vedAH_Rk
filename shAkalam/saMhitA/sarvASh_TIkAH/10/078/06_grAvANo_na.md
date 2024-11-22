@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; 11 = 4+7, ending HLX
-#### Morph
+_________
+**Morph**  
 grā́vāṇaḥ ← grā́van- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -183,11 +186,13 @@ yā́man ← yā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having streams for mothers like the grinding-stones which send forth moisture; ever destroying(enemies) like destructive thunderbolts; having tender mothers like sportive infants; (endowed) with splendourlike a great crowd of men in a procession.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Having streamṣ..grinding stones: clouds;
 

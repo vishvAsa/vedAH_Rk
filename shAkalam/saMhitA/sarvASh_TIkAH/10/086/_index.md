@@ -64,7 +64,8 @@ The occurrence of such words as dāsa, arya and parshu in the hymn have led some
 
 Piscel and Geldner introduce Vr̥ṣākapayī in the dialogue and distribute the verses somewhat differently thus, indra, 1, 3, 8, 12, 14, 19, 20; Indrāṇī 2, 4, 8, 8, 9, 16, 21 ; Vr̥ṣākapi 7, 10 13 ; and Vr̥ṣākapayī, 11, 15, 17, 18, Verses 23 und 39 are supposed to be addressed by a stranger, the narrator.
 
-##### Conclusion
+_________
+**Conclusion**  
 Now let us see what are the leading features of the story of Vr̥ṣākapi and what they signify. We have seen that scholars differ in assigning the verses of the hymn to the different speakers, and here and there we meet with expressions and words which cannot be said to be yet satisfactorily explained. Some of the interpretations I have proposed may not again be acceptable to all. But these difficulties do not prevent us from determining the leading incidents in the legend, which may therefore be summarised somewhat as follows.
 
 Vr̥ṣākapi is a Mr̥ga, and sacrifices are stopped where he revels. He is, however, a favourite of Indra, and consequently the latter, instead of punishing, follows him. Indrāṇī, who has herself been offended by the Kapi, now reproaches Indra for his over fondness for the animal and threatens to punish the beast by cutting off his head and letting loose a dog at his ear. Indra intercedes and Indrāṇī assures him that the punishment has not been inflicted on his favorite beast, but on someone else. Vr̥ṣākapi is now going down to his house and Indra, in bidding farewell to his friend, asks him to come up again to his (Indra's) house, so that the sacrifices may be recommenced ; and, strange to say, that when Vriṣākapi returns, in his upward march to the house of Indra, the impertinent Mr̥ga is no longer to be seen! Vr̥ṣākapi, Indra and Indrāṇī thus finally meet in the same house, without the offensive beast, and the hymn therefore concludes with a benedictory verse.

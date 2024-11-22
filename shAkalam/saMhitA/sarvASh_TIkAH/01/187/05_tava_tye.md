@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádataḥ ← √dā- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -162,11 +165,13 @@ tuvigrī́vāḥ ← tuvigrī́va- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those (men), **Pitā**, (are the enjoyers of your bounty), who are your distributors, most sweet Pitā, (to others); they who are the relishers of your flavours, are as if they had stiff necks.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tuvigrīvaḥ iva irate: tuvi = **bahu**,much, many; or, **pravṛddha**, enlarged; when people eat, they are dṛḍhāṅga, erect, firm; and when they are without food, the neck is bent, or bends down; or it may mean, that they are great eaters, as if they had many throats
 </details>

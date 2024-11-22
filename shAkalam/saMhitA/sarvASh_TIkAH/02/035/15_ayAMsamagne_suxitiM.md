@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have come, **Agni**, to you, (the giver) of good dwellings, for the sake of offspring; I have come with a propitiatory hymn for the sake of the opulent (offerers of oblations); may all the good which the gods defend (be ours); that, blessed with excellent descendants, we may worthily glorify you at this sacrifice.”
 </details>

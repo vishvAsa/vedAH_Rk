@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇanti ← √gr̥̄- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -128,7 +131,8 @@ sutéṣu ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious celebrate your manly exploits, **Indra**, object of laudation, when the juices (of the **Soma**) are effused.”
 </details>

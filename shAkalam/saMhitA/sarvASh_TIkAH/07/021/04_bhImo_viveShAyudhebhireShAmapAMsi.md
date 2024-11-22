@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́yudhebhiḥ ← ā́yudha- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -179,7 +182,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The formidable (**Indra**), knowing all actions beneficial to man, intimidated those (**asuras**) by hisweapons; Indra, exuling shook their cities; armed with his thunderbolt he slew them in his might.”
 </details>

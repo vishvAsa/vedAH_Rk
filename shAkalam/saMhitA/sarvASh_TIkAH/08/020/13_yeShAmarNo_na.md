@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árṇaḥ ← árṇas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -151,11 +154,13 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One illustrious name is given to them all, as widely diffused as water for the gratification (of theirworshippers), like invigoraing paternal food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vayo na pitryam **sahaḥ**: prasahanaśīlam; the worshipers may relyupon it
 </details>

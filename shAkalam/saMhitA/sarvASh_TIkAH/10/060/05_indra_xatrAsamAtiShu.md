@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ásamātiṣu ← ásamāti- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -118,7 +121,8 @@ sū́ryam ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Maintain, **Indra**, vigour in the Rathaproṣṭha Asamātis, as (you maintain) the sun in heaven for thesight (of all).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 áhinā ← áhi- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -169,11 +172,13 @@ vran ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine Heaven and Earth, I praise you together with **Ahirbudhnya** for those (good things that are) desired, as those desirous of acquiring (riches) praise the ocean on traversing it (in which) the sounding rivers disappear.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As those desirous: **samudram** na sañcaraṇe saniṣyavaḥ = dhanānām sambhaktum iccantaḥ samudramadhyagamanāya samudram yathā stuvanti, as those wishing to possess riches for the sake of going through the midst of the ocean praise the ocean; gharmasvara so nadyo apavran = dīptadhvanayho nadyo apavṛnvantiti **parokṣa** iva, referring this to the deities, the explanation is: may they, Heaven and Earth, cherish or replenish the rivers
 </details>

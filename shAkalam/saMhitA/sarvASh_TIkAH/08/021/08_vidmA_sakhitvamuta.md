@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhojyàm ← bhojyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,7 +211,8 @@ vā́je ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We acknowledge, hero, your friendship, (the wealth) to be enjoyed through you, and solicit both,thunderer, of you; giver of dwellings, **Indra** of the handsome jaws, sustain us in all abundance and in (store of)cattle.”
 </details>

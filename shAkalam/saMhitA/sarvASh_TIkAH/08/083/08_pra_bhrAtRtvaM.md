@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 bhrātr̥tvám ← bhrātr̥tvá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -119,11 +122,13 @@ mātúḥ ← mātár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bounteous (deities), we forthwith proclaim aloud that brotherhood of yours in mother's womb, (first) incommon union, then as born in diverse manner.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The legend (**Taittirīya** **Saṃhitā** 6.5.6): **Aditi** is represented asoffering a certain offering to the gods, and as conceiving four of the **Ādityas** on eating the remainder which theygave to her. Thinking to conceive a still nobler offspring, she next eats the whole of the second offering herself,but she only conceives a barren egg. She then offers the third offering to the Ādityas and conceives **Vivasvat**
 </details>

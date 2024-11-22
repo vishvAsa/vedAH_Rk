@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávatha ← √avⁱ- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -176,11 +179,13 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the man whom you, **Ṛbhus** and **Indra**, favour, be ever liberal by his acts, and possessed of a horse at the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A horse at the sacrifice: medhasātā so arvatā, perhaps a horse fit for the **aśvamedha** is implied
 </details>

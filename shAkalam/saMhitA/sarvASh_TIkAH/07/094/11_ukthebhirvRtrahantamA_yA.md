@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ukthébhiḥ ← ukthá- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -116,11 +119,13 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Utter destroyers of **Vṛtra**, exhilarated (by the **Soma**), you who are worshipped with prayers and hymnsand songs, (come hither).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Uttter destroyers of Vṛtra: vṛtra hantamā = āvarakāṇām hantṛtamau,pāpmānam; with prayers: aṅgūṣair = āghoṣair anyais stotraiḥ, with clamours, with other praises; or,laukikavākstomaiḥ, with praises in worldly or vernacular speech, not that of the **Veda**
 </details>

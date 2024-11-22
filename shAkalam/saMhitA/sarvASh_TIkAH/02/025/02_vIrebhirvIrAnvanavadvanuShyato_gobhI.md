@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 vanavat ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -202,7 +205,8 @@ yújam ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Surrounded) by his descendants, may he **surpas** the malevolent descendants (of his adversaries), for he is famed for great wealth of cattle, and understands (all things) of himself; his sons and grandsons prosper whom **Brahmaṇaspati** makes his associate.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádabdhāḥ ← ádabdha- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -188,7 +191,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The adorable, unassailable (deities) sip the **Soma** juice, they hail it at its station like worshippers greedy (of wealth); the skilful priests send forth the Soma with their ten fingers, they anoint its body with the fluid of the waters.”
 </details>

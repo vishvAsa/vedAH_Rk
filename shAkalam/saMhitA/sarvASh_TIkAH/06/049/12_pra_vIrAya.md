@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prá ← prá (invariable)  
 {}
 
@@ -185,7 +188,8 @@ vípaḥ ← víp- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer adoration to the valiant, powerful, swift-movig (company of the **Maruts**), as the herdsman (drives his) herd to their stall; may that (company) appropriate to its own body the praises of the pious worshipper, as the firmament (is studded) with stars.”
 </details>

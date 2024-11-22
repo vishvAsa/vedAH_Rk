@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -208,11 +211,13 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are the royal **Varuṇa**, observant of holy vows; you are the adorable **Mitra**, the destroyer (of foes); you are **Aryaman**, the protector of the virtuous, whose (liberality) is enjoyed by all; you are a portion (of the sun); be the distributor (of good things), divine (Agni), at our sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whose liberality: liberality is said to be the characteristic of Aryaman, dātṛtvam caryamṇo liṅgam; you are a portion of the sun: tvam **aṃśaḥ** = forms of the sun, or the **Āditya**, named **aṃśa**; You, Agni, are **Rudra**: tvam rudro asuro maho **divaḥ**: **asura** = śatrūṇām nirasitā, the expeller of enemies;
 

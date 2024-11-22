@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 admasádvā ← admasádvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -224,7 +227,8 @@ rā́jā ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sons of strength, you are to be praised; **Agni**, sitting upon the (sacrificial) viands, has given (to his worshippers), from their birth, habitation and food giver of strength, bestow strength upon us; triumph like a prize, so that you may abide in our unassailed (dwelling).”
 </details>

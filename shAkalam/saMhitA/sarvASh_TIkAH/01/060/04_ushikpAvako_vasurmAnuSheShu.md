@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́nuṣeṣu ← mā́nuṣa- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -172,7 +175,8 @@ rayipátiḥ ← rayipáti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the desirable, the purifying, the giver of dwellings, the excellent, the invoker (of the gods) has been plural ced (upon the altar) among men; may he be inimical (to our foes), the protector of (our) dwellings and the guardian of the treasures in (this) mansion.”
 </details>

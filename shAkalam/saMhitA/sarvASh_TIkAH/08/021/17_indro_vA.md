@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gha ← gha (invariable)  
 {}
 
@@ -158,7 +161,8 @@ vā ← vā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Is it **Indra** who has given to the donor (of the oblation) so much affluence? Is it the auspiciousSarasvatī (who has given) the treasure? Or, **Citra**, is it you?”
 </details>

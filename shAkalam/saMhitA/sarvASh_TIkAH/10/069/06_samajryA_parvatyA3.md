@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajryā̀ ← ajryà- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -180,7 +183,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have gained mountain-treasures beneficial to men, (you have defeated the hostilities) of strongmen, **Dāsas** and **Vṛtras**, like a resolute warrior, do you, **Agni**, the overthrower (of enemies), overcome thosewho are desirous of battle.”
 </details>

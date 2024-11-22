@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágram ← ágra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -191,7 +194,8 @@ upamā́dam ← upamā́da- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The graceful (**Agni**) protects the primary station of the moving earth; mighty, he protects the path of the sun; he protects the seven-headed (troop of the **Maruts**) in the centre between heaven and earth; he protects the exhilarating (oblations) of the gods.”
 </details>

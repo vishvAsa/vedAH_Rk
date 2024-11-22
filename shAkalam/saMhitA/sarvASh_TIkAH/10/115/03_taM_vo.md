@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhasaḥ ← ándhas- 2 (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -199,7 +202,8 @@ sarájantam ← sarájanta- (?) (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Glorify) him, (worshippers), the divine, like a bird seated upon a tree, demanding sacrificial food,clamorous, wood-consuming, water-shedding, like one bearing (the oblation) in his mouth, mighty with radiance,simultaneously illuminating the paths, like the great functionary (the sun).”
 </details>

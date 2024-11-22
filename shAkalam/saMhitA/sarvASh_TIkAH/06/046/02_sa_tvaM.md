@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citra ← citrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wonderful wielder of the thunderbolt, **Indra**, the lord of clouds, mighty in resolution, being glorified by us, grant us cattle, and horses fit for chariots, as (you grant) abundant food to him who is victorious (in battle).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The lord of clouds: adrivas = wielder of the thunderbolt; abundant food to him who is victorious: **satrā** vājam na jigyuṣe: satrā = prabhūtam, abundant;
 

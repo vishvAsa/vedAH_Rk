@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūtáḥ ← dūtá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are the chief and most excellent messenger; do you, invoked by us to partake of the ambrosia,become exhilarated; the **Maruts** decorated you in the dwelling of the donor of the oblation; the **Bhṛgus** haveglorified you with hymns.”
 </details>

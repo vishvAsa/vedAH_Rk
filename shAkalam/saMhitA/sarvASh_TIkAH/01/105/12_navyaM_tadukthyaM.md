@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hitám ← √hi- (root)  
 {case:NOM, gender:N, number:SG, non-finite:PPP}
 
@@ -177,11 +180,13 @@ vittám ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That new praiseworthy and commended (vigour) is seated in you, ye Gods, (by which) the rivers urge on the waters, and the sun diffuses his constant (light). Heaven and earth, be conscious of this (my affliction).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Commended vigour: **bala** = strength, which is ukthyam (praiseworthy)
 </details>

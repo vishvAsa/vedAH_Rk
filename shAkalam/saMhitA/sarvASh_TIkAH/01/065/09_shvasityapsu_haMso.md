@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 apsú ← áp- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -111,11 +114,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[9-10\] He breathes amidst the waters like a sitting swan; awakened at the dawn, he restores by his operations consciousness to men; he is a creator, like **Soma**; born from the waters (where he lurked) like an animal with coiled-up limbs, he became enlarged and his light (spread) afar.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Creator like Soma: soma na **vedhaḥ**; just as soma creates or causes 'plural nts' to grow, so **Agni** creates or extracts from them their nutritive faculty. etāvad vā idam **annam** annādaśca soma eva annam agnir **annādaḥ**: inasmuch as there is food and feeder, so soma is the food, and the feeder is agni (Vājasneyi **Yajuṣ**)
 </details>

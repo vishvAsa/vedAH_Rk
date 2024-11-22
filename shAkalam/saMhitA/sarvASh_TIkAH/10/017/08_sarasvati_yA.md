@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 sárasvati ← sárasvant- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -179,7 +182,8 @@ dhehi ← √dhā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Sarasvatī**, who rides in the same chariot with the **Pitṛs**, and delighted (along with them) by the(sacrificial) viands, seated on the sacred grass gratified (by our offering, and grant us wholesome food. worshippers at this sacrifice a portion of food fit for thousands, and increase of riches.”
 </details>

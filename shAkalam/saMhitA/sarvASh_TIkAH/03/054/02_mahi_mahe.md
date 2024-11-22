@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arca ← √r̥c- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -190,11 +193,13 @@ saparyávaḥ ← saparyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Knowing their greatness, offer worship to the vast heaven and to the earth; my desire, wishing (for felicity) proceed (to them), in whose praise the gods,desirous of adoration, delight together with their worshippers at the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 My desire proceeds: **kāma** me icchan **carati** = liṭ, my desire wishing goes, or exists; added to icchan, sarvān bhogān, all enjoyments
 </details>

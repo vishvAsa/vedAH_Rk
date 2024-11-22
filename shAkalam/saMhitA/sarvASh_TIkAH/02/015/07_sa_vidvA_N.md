@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 apagohám ← apagohá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -209,7 +212,8 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Conscious of the disappearance of the damsels, the (ṛṣi) Parivṛj, becoming manifest, stood up; the lame man overtook (them), the blind man beheld (them); in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
 </details>

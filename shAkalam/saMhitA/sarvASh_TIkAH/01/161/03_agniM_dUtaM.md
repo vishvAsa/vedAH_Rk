@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ábravītana ← √brū- (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -247,11 +250,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then said they, in answer to **Agni**, the messenger (of the gods). Whatever is to be done, whether a horse is to be made, or a car is to be made, or a cow is to be made, or the two (old parents) are to be made young, having done all these (acts), Brother Agni, we are then ready to do (what you desire) to be done.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. **sūktas** 20, 110 and 111 which relate the marvelsof the **Ṛbhus**
 </details>

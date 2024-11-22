@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -176,7 +179,8 @@ vasavaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May light be spread throughout heaven and earth for (the promotion of the) sacrifice; may we be far removed from exceeding ill; **Vasus**, who are to be rendered present (by pious praise), bestow increasing affluence upon the men who is liberal of gifts.”
 </details>

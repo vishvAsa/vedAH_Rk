@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ vr̥ṣabha ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I sprinkle the butter, for butter is his birth-plural ce; he is nourished by butter; butter is his radiance; **Agni**, showerer (of benefits), bring the gods to the offered oblation; exhilarate them; convey to them the offering that has been reverently sanctified.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. **Yajurveda** 17.88; **dhāma** - dwelling, or radiance; alternative reading: **Adhvaryu**, or priest, bring hither Agni to the oblation; exhilarate him; (and say to him). Showerer (of blessings), convey the consecrated oblation (to the gods).
 </details>

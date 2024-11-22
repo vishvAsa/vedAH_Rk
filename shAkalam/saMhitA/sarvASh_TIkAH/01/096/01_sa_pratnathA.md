@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jā́yamānaḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -197,11 +200,13 @@ draviṇodā́m ← draviṇodā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Engendered by force, **Agni** verily appropriates, as soon as born, the offerings of the sages; the waters and voice make him their friend, and the gods retain him as the giver of (sacrificial) wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Draviṇodā, the giver of wealth
 </details>

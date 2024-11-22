@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -179,11 +182,13 @@ dhī́ram ← dhī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desire, either from this cause or from that, has come upon me whilst engaged in prayer and suppressing (passion); let **Lopāmudrā** approach her husband; the unsteady feminine le beguiles the firm and resolute man.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Either from this cause or that: itoamutaḥ kutaścit, from some cause, from this, or from that; from your society or from the influence of the season, as spring and the like; or from the suggestions of this world or of the next
 </details>

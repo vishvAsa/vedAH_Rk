@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sakhāyaḥ ← sákhi- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -203,7 +206,8 @@ súṣvim ← súṣvi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Friends, when the libations are effused, do you satisfy that liberal **Indra** with the **soma**; let there be plural nty for him, that (he may provide) for our nourishmen; Indra never neglects the care of him who presents copious oblations.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "ऊर्ध्वबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhy-àbhi ← abhí (invariable)  
 {}
 
@@ -153,7 +156,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have burst open (the filter) with (your) food as (one bursts open) an inexhaustible fountain giving drink to the nation, like one taking up (water) with the fingers of his two **hands**.”
 </details>

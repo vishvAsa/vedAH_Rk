@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 háriḥ ← hári- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -173,11 +176,13 @@ pravā́ce ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The green-tinted **Soma** being let loose propels the voice that indicates the path of truth as the boatman (propels his) boat; the bright Soma reveals to his worshipper on the sacred grass the secret names of the god. \[”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The green-tinted Soma being let loose propels the voice that indicates the path of truth as the boatman (propels his) boat; the bright Soma reveals to his worshipper on the sacred grass the secret names of the god. \[
 </details>

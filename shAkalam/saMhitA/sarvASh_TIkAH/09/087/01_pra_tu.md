@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 drava ← √dru- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -201,7 +204,8 @@ raśanā́bhiḥ ← raśanā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow fast (**Soma**), sit down on the receptacle, purified by the priests hasten (showing) food (to the sacrificer); cleansing you like a strong horse, they guide you with (their fingers for) reins to the sacred grass.”
 </details>

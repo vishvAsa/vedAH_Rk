@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 aruṇáḥ ← aruṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -216,11 +219,13 @@ vásu ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vigorous with (innate) vigour, (comes) a purple-coloured bird, mighty, heroic, ancient, having no nest;that which he knows is truth, and is not vain; (he is) the conqueror and distributor of desirable wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purple-coloured bird: **Indra** in the form of **suparṇa**, or **garuḍa**; having no nest: i.e., nestless from eternity
 </details>

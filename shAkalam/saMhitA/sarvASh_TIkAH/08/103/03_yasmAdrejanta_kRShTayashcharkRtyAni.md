@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -153,7 +156,8 @@ saparyata ← √sapary- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since men tremble before those who perform the sacred sacrifices, therefore, do you devoutly worshipin the solemn rite **Agni** the bestower of thousands of kine.”
 </details>

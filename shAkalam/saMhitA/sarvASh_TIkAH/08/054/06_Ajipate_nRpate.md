@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́jipate ← ājipati- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O lord of battle, lord of men, mighty in action, do you guide us in the conflict; far-famed are those whoobtain their desires by sacrificial feasts, by invocations, and by entertaining the gods.”
 </details>

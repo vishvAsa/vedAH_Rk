@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dasrā́ ← dasrá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -115,11 +118,13 @@ vasuvídā ← vasuvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who are divine, of plural asing appearance, children of the sea, willing dispensers of wealth, and granters of dwellings (in recompense of) pious acts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sindhu**-mātarau; the sun and the moon, born of the sea, **samudra**-jau
 </details>

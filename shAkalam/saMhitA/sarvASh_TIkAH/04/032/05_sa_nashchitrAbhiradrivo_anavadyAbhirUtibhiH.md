@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrivaḥ ← adrivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -118,7 +121,8 @@ gahi ← √gam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wielder of the thunderbolt, do you come to us with wondrous, irreproachable, irresistible protections.”
 </details>

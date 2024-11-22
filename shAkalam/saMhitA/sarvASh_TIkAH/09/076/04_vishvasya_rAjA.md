@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pavate ← √pū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -170,7 +173,8 @@ pitā́ ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**) the soverign of the universe flows forth; surpassing the ṛṣis he desire the worship of the all-seeing truthful (**Indra**); he who is cleansed by the ray of he sun, the father of praise, the unequalled sage.”
 </details>

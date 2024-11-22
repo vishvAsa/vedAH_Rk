@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśuyā́ ← āśuyā́ (invariable)  
 {}
 
@@ -178,7 +181,8 @@ gr̥bhītā́ḥ ← √gr̥bhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rushing rapidly like rivers in their downward course and although neighing loudly through trro, they yet, tight-girthed, return repeatedly (to the conflict) for cattle, like birds darting on their prey.”
 </details>

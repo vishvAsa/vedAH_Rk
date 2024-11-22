@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádho ← mádhu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ bhava ← √bhū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Savoury **Pitā**; sweet pitā; we worship you; become our protector.”
 </details>

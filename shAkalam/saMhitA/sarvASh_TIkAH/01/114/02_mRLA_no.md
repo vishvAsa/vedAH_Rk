@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥dhi ← √kr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -229,7 +232,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be gracious to us, **Rudra**; grant us happiness, for we worship the destroyer of heroes with oblations; and, by your directions, Rudra, may we obtain that freedom from disease and exemption from dangers which our progenitor, **Manu**, bestowed upon us, (having obtained them form the gods).”
 </details>

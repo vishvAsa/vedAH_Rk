@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádhānaḥ ← √dhā- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -192,11 +195,13 @@ siṁháḥ ← siṁhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “While having (your) person n in the proximity of the sun, your form becomes redolent of ambrosia, and you are like the deer-like elephant, consuming the strength (of the strong), and are like a terrible lion when wielding your weapons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the deer-like elephant: mṛgo na **hasti** = **gaja** **viśeṣa**; **mṛga** iva = a sort of elephant like a deer
 </details>

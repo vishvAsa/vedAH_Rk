@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gātuvít ← gātuvíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -193,11 +196,13 @@ yatate ← √yat- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, the intelligent, the knower of the right path, accompanied by all the gods, undergoing purification goes to his constant abode; he is one who delights in all sacred praises; the sage endeavours to approach the five classes of beings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Accompanied by all the gods: or, having all-pervading light
 </details>

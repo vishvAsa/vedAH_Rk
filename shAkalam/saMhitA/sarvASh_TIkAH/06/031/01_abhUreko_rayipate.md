@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhūḥ ← √bhū- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -192,7 +195,8 @@ vívācaḥ ← vívāc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, lord of riches, are the chief (soverign) over riches; you hold men in your two **hands**, and men glorify you with various praises for (the sake of obtaining) sons, and valiant grandsons, and rain.”
 </details>

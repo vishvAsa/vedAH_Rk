@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 namovŕ̥dhā ← namovŕ̥dh- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -111,7 +114,8 @@ drā́ghiṣṭhābhiḥ ← drā́ghiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Performers of pure rites, glorified by many, exalted by adoration, (celebrated) by prolonged praises, you reign by the greatness of (your) strength.”
 </details>

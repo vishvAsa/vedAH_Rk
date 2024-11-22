@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 níditā ← √dā- 4 (root)  
 {case:ACC, gender:N, number:PL, non-finite:PPP}
 
@@ -166,11 +169,13 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Praise him) the knower, worthy of the sacrifice, who brings to us treasures which have come up (fromthe depths) and are far-renowned-- whose (flames), as he hastend to wage the battle by means of our sacred riteand hard to be passed through as waves rushing down a declivity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Far renowned: niditā = śrutāni; by meansof our sacred rite: dhiyā = **karmaṇā**; the offering gives the god strength for the battle
 </details>

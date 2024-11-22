@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ántān ← ánta- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -179,11 +182,13 @@ víprāḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ancient sages, illustrious, intelligent, have plural ced before (them) the plural asing-tongued **Bṛhaspati**, who propped up by (his) strength the ends of the earth, and who abides with noise in the three regions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who abides with noise: trisadhastho raveṇa = triṣu sthāneṣu vartamāno raveṇaivam tiṣṭhatetyanena śabdena
 </details>

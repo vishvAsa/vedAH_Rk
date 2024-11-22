@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ uśíjaḥ ← uśíj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine (**Agni**), gods, (made) comely by your glory, and bearing (the) great (affection), sip the ambrosia; men adore Agni, the conveyer of theburnt-offering, presenting oblations on behalfof the instrumental tutor of the rite, desirous of (its) reward.”
 </details>

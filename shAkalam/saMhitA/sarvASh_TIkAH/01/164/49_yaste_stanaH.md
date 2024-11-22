@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 mayobhū́ḥ ← mayobhū́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -221,7 +224,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sarasvatī**, that retiring breast, which is the source of delight, with which you bestow all good things, which is the container of wealth, the distributor of riches, the giver of good (fortune); that (bodom) do you lay open at this season for our nourishment.”
 </details>

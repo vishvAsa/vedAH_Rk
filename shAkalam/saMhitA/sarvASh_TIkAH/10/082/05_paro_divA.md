@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 divā́ ← dyú- ~ div- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What was that embryo which was beyond the heaven, beyond this earth, beyond the gods, beyondthe **asuras**, which the waters first retained, in which all the gods contemplated each other?”
 </details>

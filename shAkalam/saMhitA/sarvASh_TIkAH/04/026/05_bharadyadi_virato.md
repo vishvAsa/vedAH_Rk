@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átas ← átas (invariable)  
 {}
 
@@ -187,7 +190,8 @@ vivide ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the bird, intimidating (its guardians), carried off from hence (the **Soma**) it was at large; (flying) swift as thought along the vast path (of the firmament), it went rapidly with the sweet Soma, and the hawks thence acquired the celebrity in this world.”
 </details>

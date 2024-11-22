@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 devayántaḥ ← √devay- (UNK_TYPE)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -155,7 +158,8 @@ vā́ryam ← vā́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The devout invoke **Sarasvatī**; they worship Sarasvatī at the strewn sacrifice; the virtuous call uponSarasvatī; may Sarasvatī bestow blessings upon the donor (of the oblation).”
 </details>

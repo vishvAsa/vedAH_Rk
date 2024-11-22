@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hitā́ ← √dhā- 1 (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
 
@@ -192,7 +195,8 @@ vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In you, **Indra**, is all vigour fully concentrated; you will delight to drink the **Soma**; it is known by us that the thunderbolt is deposited in your **hands**; cut off all prowess from the foe.”
 </details>

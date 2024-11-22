@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -134,7 +137,8 @@ sumát ← sumát ~ smat- (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beautiful night and morning, ever hymned, ever associated, progeny (yahuḥ **sunuḥ**--**Nirukta** 2.2.11) (of time), parents of sacrifice, sit down of your own good will on the sacred grass.”
 </details>

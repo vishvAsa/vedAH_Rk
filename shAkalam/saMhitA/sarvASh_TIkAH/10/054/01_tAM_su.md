@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 kīrtím ← kīrtí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -217,7 +220,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I celebrate), Maghavat, the great glory (you have acquired) by your might; when heaven and earthalarmed called upon you, you did defend the gods, and destroy (their) adversary; (I celebrate your glory), **Indra**,in that you gave strength to one person n (the worshipper).”
 </details>

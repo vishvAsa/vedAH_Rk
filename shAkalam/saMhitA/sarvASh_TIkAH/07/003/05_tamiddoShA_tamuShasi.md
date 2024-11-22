@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 doṣā́ ← doṣā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -191,7 +194,8 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men cherish that youthful **Agni** at evening and at dawn, as (they tend) a horse; lighting him as a guestin his proper station; the radiance of the showerer (of benefits), to whom the oblation is offered, shines brightly.”
 </details>

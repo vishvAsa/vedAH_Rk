@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádāya ← máda- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -136,7 +139,8 @@ yajñaíḥ ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hymn, friends, the **Soma** purified for the exhilaration (of the gods), gratify him with oblations and praises as (men gratify) a child (with ornaments).”
 </details>

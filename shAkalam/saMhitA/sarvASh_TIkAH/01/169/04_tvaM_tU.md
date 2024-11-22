@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāḥ ← √dā- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -212,7 +215,8 @@ vā́jaiḥ ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Indra**, quickly grant us that wealth (which you possess, for we gratify) the donor with a most worthy present; we, your praisers, offer to you, the ready giver of boons, the laudations that would propitiate you; (and the priests) nourish you with sacrificial food, as they cherish the bosom (of a feminine le for the sakeof replenishing it) with sweet (milk).”
 </details>

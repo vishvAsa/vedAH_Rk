@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 anindrā́n ← anindrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -192,11 +195,13 @@ vavr̥tyuḥ ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beholding here the drinkers of the libations who serve not **Indra**, who cut (the worshippers) to pieceswith their **hands**, assailing them to do them harm; my shafts quickly fall upon them, as well as on those who revile(your) powerful friend. all existence; the ancient Indra verily destroys (his foe), the other does not destroy (Indra). The united two(heaven and earth) surpass not him who extends beyond the confines of the universe.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 United two: pavaste =going; i.e., going in order to surpass everyone in greatness
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 jánānām ← jána- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -181,7 +184,8 @@ yunajat ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When we, the grass-eaters of men, (are) together, I (am) among the barley-eaters in the wide field;here he who is yoked would like one to unloose him, and the assailant would yoke him who is unyoked.”
 </details>

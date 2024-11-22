@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -114,11 +117,13 @@ syoné ← syoná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Welcome him) as soon as born, like a beloved guest, and plural ce the lord of the mansion upon the sacred (altar) whence wisdom is derived.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This and previous ṛca are recited when the fire that has been produced by attrition is applied to kindle the **āhavanīya**, or fire of burnt-offerings; **Aitareya** Brāhman.a 1.16; **Agni** is the guest, not the sacriicer, of the āhavanīya fire; jātavedasi is applied to the latter, as knowing the birth of the churned fire, to whom it is a giver of delight, śyona, sukhakara, by giving him a welcome reception.
 </details>

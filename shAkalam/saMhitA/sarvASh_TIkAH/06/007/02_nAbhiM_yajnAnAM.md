@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nā́bhim ← nā́bhi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -169,11 +172,13 @@ yajñásya ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The worshippers) glorify together, (**Agni**), the bond of sacrifices, the abode of riches, the great receptacle of burnt-offerings; the gods genitive rate vaśvānara, the conveyer of oblations, the emblem of sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The bond of sacrifices: nābhim yañānām: **nābhi** = vahanam, bandhakam, the connecting link or binding of differing rites
 </details>

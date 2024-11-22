@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́gaḥ ← ā́gas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -218,11 +221,13 @@ rákṣatam ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this sacrifice be the means of expiating those offences which we may have committed against the gods, against a friend at any time, against a son-in-law; defend us, Heaven and Earth, from great danger.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A son-in-law: jaspatim vā: jāḥ = daughters;
 

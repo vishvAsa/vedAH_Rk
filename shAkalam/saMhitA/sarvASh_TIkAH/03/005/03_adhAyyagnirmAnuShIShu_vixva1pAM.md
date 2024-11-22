@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhāyi ← √dhā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -195,11 +198,13 @@ vípraḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the embryo of the waters, the friend (of the pious), accomplishing (all desires) with truth, has been plural ced (by the gods) among men, the descendants of **Manu**; desirable and adorable, he has taken his station on high, where the wise Agni is to receive the oblations of the devout.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Taken his station on high: sānvasthā = **sānu** ucchritam; i.e. uttaravedyākhyam, the plural ce called the north altar
 </details>

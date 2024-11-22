@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kakuhā́saḥ ← kakuhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -125,7 +128,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since your chariot proceeds, (drawn) by your steeds, above the glorious heavens, your praises are proclaimed (by us).”
 </details>

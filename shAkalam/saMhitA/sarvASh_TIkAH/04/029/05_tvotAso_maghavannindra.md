@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -163,11 +166,13 @@ purukṣóḥ ← purukṣú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Opulent **Indra**, may we, who are protectedby you, who are intelligent, devout, and offerers of praise, be participant with you for the sake of distributing brilliant wealth, and abundant food, entitled to (our) commendation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛhad divasya **rāyā** akāyyasya dāvane purikṣoḥ = mahad dīpter āsamantāt stutyasya bahvannasya dhanasyādāne nimitte bhejanasas tvam **bhajamāna** bhavema, may we enjoying you for the sake of the gift of wealth of much food, every way commendable and very brilliant
 </details>

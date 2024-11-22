@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carṣaṇīsahaḥ ← carṣaṇīsáh- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -176,7 +179,8 @@ syā́ma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Royal (**Ādityas**), overcomers of (hostile) men, (you subdue) any one harassing those (who areengaged in sacred rites) and may we, **Varuṇa**, **Mitra**, and **Aryaman**, be the conveyers of the sacrifice(addressed) to you.”
 </details>

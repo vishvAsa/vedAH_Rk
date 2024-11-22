@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arkā́ḥ ← arká- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -185,7 +188,8 @@ yuvatáyaḥ ← yuvatí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (our) praises and prayers, the causes of good fortune, attain at this sacrifice **Viṣṇu**, the object of many rites; he, the wide-stepping; whose commands the many-blending regions of space, the genitive rators (of all beings), do not disobey.”
 </details>

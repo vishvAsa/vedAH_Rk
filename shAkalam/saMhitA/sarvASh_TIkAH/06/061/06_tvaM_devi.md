@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devi ← devī́- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -127,7 +130,8 @@ saním ← saní- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Sarasvatī**, abounding in food, protect us in combat, and, like **Pūṣan**, give us gifts.”
 </details>

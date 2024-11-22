@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámimīta ← √mā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -188,7 +191,8 @@ rakṣitā́ ← rakṣitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vaiśvānara**, the performer of sacred acts, is he who made the regions; foreseeing (he has made) the luminaries of heaven, and has spread throughout all worlds; the irresistibel guardian (of all), the protector of ambrosial (rain).”
 </details>

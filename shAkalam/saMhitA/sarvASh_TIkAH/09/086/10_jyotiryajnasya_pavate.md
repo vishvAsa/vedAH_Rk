@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jyótiḥ ← jyótis- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -180,7 +183,8 @@ rásaḥ ← rása- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The light of the sacrifice, he distils sweet (juice) delightful (to the gods), the parent of the gods, the genitive rator (of all), possessed of ample wealth; he supports the hidden wealth of heaven and earth, the most exhilarating, the exciting (**Soma**), the nourisher of (**Indra**), the juice.”
 </details>

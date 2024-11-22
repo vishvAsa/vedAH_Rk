@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -181,11 +184,13 @@ suśiprāḥ ← suśiprá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vājas**, possessors of energy, let your capacious, commendable, and unobstructed chariot bring you(hither); be satiated, handsome-chinned, with the copious triply-combined libation (poured out) for yourexhilaration at our sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With the copious: tripṛṣṭhaiḥ somaiḥ, with **Soma** mixed with milk curds and meal
 </details>

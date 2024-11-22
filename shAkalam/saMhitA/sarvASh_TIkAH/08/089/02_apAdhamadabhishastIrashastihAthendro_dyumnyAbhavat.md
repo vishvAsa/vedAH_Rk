@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíśastīḥ ← abhíśasti- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -173,11 +176,13 @@ márudgaṇa ← marúdgaṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the destroyer of those who offer not praise, has driven away the malevolent and has becomeglorious; I indra of mighty splendour, lord of the troops of **Maruts**, the gods press you for your friendship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Malevolent: abhiśastīḥ = injuries, enemies; calumnies, abhiśāpan; gods press you: yemire = tvāmniyacchanti; or, the gods anxiously devote themselves to win your friendship. cf. RV 8.98.3
 </details>

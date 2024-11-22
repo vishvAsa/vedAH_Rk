@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūvan ← √bhū- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -158,11 +161,13 @@ ripávaḥ ← ripú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, be firm, for there are obstructors of your path; secure to the worshipper and his friends (the means of completing) the sacrifice; mortal enemies bearing bows, armed with mischievous weapons, and coming with evil intent, must be destroyed (by you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mortal enemies: martyāsaḥ = mārayitāraḥ, killers, murderers
 </details>

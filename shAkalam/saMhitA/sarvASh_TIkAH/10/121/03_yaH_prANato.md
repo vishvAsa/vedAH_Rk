@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 mahitvā́ ← mahitvá- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -183,7 +186,8 @@ vidhema ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(To him) who, by his greatness, has verily become the sole king of the breathing and seeing world,who rules over this aggregate of two-footed and four- footed beings -- let us offer worship with an oblation to thedivine Ka.”
 </details>

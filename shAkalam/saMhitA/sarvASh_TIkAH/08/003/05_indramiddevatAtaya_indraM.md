@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devátātaye ← devátāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -147,11 +150,13 @@ sātáye ← sātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke **Indra** for the worship of the gods, and when the sacrifice is proceeding; adoring him, we callupon Indra as the close of the rite; we invoke him for the acquisition of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At the close of the rite: samīkesampūrṇe yāge; or, it may mean saṅgrāme, in war
 </details>

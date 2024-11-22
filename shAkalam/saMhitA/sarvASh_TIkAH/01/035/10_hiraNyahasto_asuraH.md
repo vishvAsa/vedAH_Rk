@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ásuraḥ ← ásura- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ pratidoṣám ← pratidoṣám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the golden-handed, life-bestowing, well-guiding, exhilarating, and affluent **Savitā**, be present (at the sacrifice); for the deity, if worshipped in the evening, it at **hand**, driving away **rākṣas** and **yātudhānas**.”
 </details>

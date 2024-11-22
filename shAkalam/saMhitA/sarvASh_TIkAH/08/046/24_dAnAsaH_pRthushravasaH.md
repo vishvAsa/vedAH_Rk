@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dā́nāsaḥ ← dā́na- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -155,7 +158,8 @@ várṣiṣṭham ← várṣiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These arehtje gifts of the wealthy **Pṛthuśravas**, the son of Kānīta; he, bestowing a golden chariot,has proved himself most liberal and wise, he has won most abundant fame.”
 </details>

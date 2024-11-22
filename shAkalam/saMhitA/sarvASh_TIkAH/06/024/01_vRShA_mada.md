@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índre ← índra- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ rā́jā ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the rites at which **soma** (is offered) the exhilaration (produced) in **Indra** is a shower (of benefits to the offerer); so is the chanted hymn with the (recited) prayer, therefore the drinker of the soma, the partaker of the stale soma, **Maghavan**, is to be propitiated by men with praises; dweller in heaven, he is the lord of sacred songs, unwearied in the protection (of his votaries).”
 </details>

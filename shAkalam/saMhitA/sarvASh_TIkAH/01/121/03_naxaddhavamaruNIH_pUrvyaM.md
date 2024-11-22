@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṇī́ḥ ← aruṇá- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -180,7 +183,8 @@ náryāya ← nárya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, illuminating the purple (dawn), listen to the invocation (addressed to him) of old, daily besowing wealth upon the race of **Aṅgiras**; he has sharpened his fatal shaft; he has supported the heaven for the good of men, of quadrupeds, andbipeds.”
 </details>

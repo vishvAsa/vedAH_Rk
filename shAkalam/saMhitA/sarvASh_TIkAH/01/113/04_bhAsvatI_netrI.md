@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhā́svatī ← bhā́svant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -194,11 +197,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Brilliant guide of the speakers of truth, the many-tinted dawn, is recognized by us; she has opened our doors; having illuminated the world, she has made our riches manifest. Uṣās gives back all the regions (that had been swallowed up by night).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Brilliang guide of the speakers of truth: upon the appearance of the dawn, the animals and birds utter their true, or natural, cries
 </details>

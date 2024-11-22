@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 dadātu ← √dā- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -126,11 +129,13 @@ vājínam ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** bring to us the bounteous **Ṛbhu** Ṛbhukṣaṇa to partake of our sacrificial viands; may he,the mighty, bring the mighty (**Vāja**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhukṣaṇa: was the eldest and Vāja the youngest of three brotherṣThe **Ṛbhus** have a share in the evening libation between **Prajāpati** and **Savitā** (**Aitareya** **Brāhmaṇa** 3.30);the ṛca is addressed to the Ṛbhus in the evening libation on the ninth day of the **dvādaśāha** ceremony(Aitareya Brāhmaṇa 5.21)
 </details>

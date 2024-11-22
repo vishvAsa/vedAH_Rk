@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -149,11 +152,13 @@ parás ← parás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Performer of various functions, who are deservedly renowned, you praise by your words that **Agni**, who is possessed of wonderful splendour, who is exempt from pain, who is adorable and supreme in understanding.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Performer of various functions: vidharman, may apply to the ṛṣi or the **yajamāna**
 </details>

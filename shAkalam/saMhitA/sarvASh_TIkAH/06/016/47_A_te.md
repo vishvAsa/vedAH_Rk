@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -165,11 +168,13 @@ vaśā́ḥ ← vaśā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We offer to you, **Agni**, the oblation sanctified by the heart, and (identified) with the sacred verse may the vigorous bulls and the cows be (as such an oblation) to you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May the vigorous bulls and the cows: te te bhavantu ūkṣaṇa rṣabhāso **vaśā** uta, may these vigorous bulls or the cows be for you; an intimation of their being offered to Agni as victims rṣabhavaṣārūpeṇa pariṇatam san tvabhakṣa **ṇāya** (havir) bhavatu, let the oblation, matured in the form of bulls or cows, be for your food
 </details>

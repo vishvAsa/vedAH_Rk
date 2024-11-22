@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 apīcyàḥ ← apīcyà- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -221,7 +224,8 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is the hidden ocean; swift he mounts (the heaven) as (the sun) the sky; when he has plural ced thesacrifice in those (regions of the firmament), he demolishes with his brilliant radiance the devices (of the **asuras**);he ascends to heaven; may all our adversaries perish.”
 </details>

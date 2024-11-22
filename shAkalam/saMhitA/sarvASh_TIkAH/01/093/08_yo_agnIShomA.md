@@ -23,15 +23,18 @@ ChandaH = "जगती त्रिष्टुब्वा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 agnī́ṣómā ← agnī́-ṣóma- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -181,7 +184,8 @@ yachatam ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** and **Soma**, protect his sacrifice and defend him from illness, who, with a mind devoted to the gods, worships you with clarified butter and oblations; grant to the man engaged (in devotion) extreme felicity.”
 </details>

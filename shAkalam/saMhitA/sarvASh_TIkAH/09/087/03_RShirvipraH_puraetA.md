@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánānām ← jána- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -183,11 +186,13 @@ nā́ma ← nā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ṛṣi, the sage, the foremost of men, the far-shining intelligent Uṣanas-- he verily by his poetic gift discovered the secret milk of those cows which was hidden and concealed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In RV. 9.005.02, the ṛṣi is Uṣanas, son of **Kavi**, or Uṣanas the poetical
 </details>

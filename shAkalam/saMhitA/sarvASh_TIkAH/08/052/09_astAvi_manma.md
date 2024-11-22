@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ástāvi ← √stu- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -149,7 +152,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The old hymn has been sun, you have uttered the prayer to **Indra**; they have shouted many bṛhatīverses of the rite, many hymns of the worshipper have they poured forth.”
 </details>

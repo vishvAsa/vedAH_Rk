@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 matīnā́m ← matí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -171,7 +174,8 @@ manīṣíbhiḥ ← manīṣín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The all-obsergant **Soma**, the showerer (of the desires) of his eulogists, the increase of the day, the dawn, the sun; maker of rivers he desires to enter the pitchers, penetrating to **Indra**'s heart, (praised) by the wise.”
 </details>

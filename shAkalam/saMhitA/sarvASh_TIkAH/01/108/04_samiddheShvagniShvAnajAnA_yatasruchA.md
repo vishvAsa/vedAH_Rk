@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníṣu ← agní- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -170,11 +173,13 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The first being kindled the two (priests stand by) sprinkling the clarified butter from the ladles, which they raise, and spreading the sacred grass (upon the altar); therefore, **Indra** and **Agni**, come before us for our gratification, (attracted) by stimulating **Soma** sprinkled all round.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The two: are explained as **adhvaryu** and the his assistant priest
 </details>

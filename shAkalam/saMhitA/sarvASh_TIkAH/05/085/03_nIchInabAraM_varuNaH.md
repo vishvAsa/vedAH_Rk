@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kávandham ← kávandha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ yávam ← yáva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa** has set free the (water of the) downward opening cloud for the (benefit of the) heaven, the earth, and the firmament, thence is the monarch of all the world, watering the soil as the rain bedews the barley.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yavam na vṛṣṭir vynatti **bhūma**: **vṛṣṭi** = sekta, the sprinkler, the man, **pumān**, who waters the soil
 </details>

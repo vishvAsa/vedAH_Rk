@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mānavasyaté ← √mānavasy- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -157,11 +160,13 @@ yujyante ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (flames of **Agni**), light-moving, dark-tracked, quick (consuming), capricious, restless, plural ying lightly, fanned by the wind, wide-spreading, and ensuring liberation (to the devout), are kindled for (the benefit of) the pious reverencer of (holy) priests.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 'Flames of Agni' is inserted to explain the epithets: **raghu**-druvaḥ, going lightly; kṛṣṇasītāsaḥ, black-pathed; juvaḥ, quick; asamanā, not same-minded (some going east, some west or in different colours); ajirāsaḥ, moving; raghuṣyadaḥ, light-gliding; vātajūtaḥ, wind-impelled; **āśavaḥ**, pervading; mumukṣvaḥ, giving liberation
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánuṣṭutiḥ ← ánuṣṭuti- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -131,7 +134,8 @@ vartaním ← vartaní- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This praise is yours, for you have achieved those exploits; you have guarded the road of ourchariot-wheel (to the sacrificial rite).”
 </details>

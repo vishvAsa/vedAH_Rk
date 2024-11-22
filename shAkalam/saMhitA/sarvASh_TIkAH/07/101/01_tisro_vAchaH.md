@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 jyótiragrāḥ ← jyótiragra- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -211,11 +214,13 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Recite the three sacred texts, preceded by light, which milk the water- yielding udder; for he, theshowerer, (thereby) becoming quickly manifest, loudly roars, engendering the (lightning) infant, the embryo of theplants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three sacred texts: three **vedas**, preceded by Om; water-yielding udder: the cloud; the showerer:**parjanya**, plural ased with the hymns, and in consequence, sending rain
 </details>

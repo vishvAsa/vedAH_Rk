@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 sáṁvr̥ktadhr̥ṣṇum ← sáṁvr̥ktadhr̥ṣṇu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -113,7 +116,8 @@ rurukṣáṇim ← rurukṣáṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The overthrower of the resolute (foe), the praiseworthy, to whom many solemn observances are addressed, the exhilarator, the destroyer of a hundred cities (of the **asuras**).”
 </details>

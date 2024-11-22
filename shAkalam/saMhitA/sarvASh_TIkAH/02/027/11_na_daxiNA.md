@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cikite ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -198,11 +201,13 @@ yuṣmā́nītaḥ ← yuṣmā́nīta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Neither is the right **hand** known to us, **Ādityas**, nor is the left; neither is that which is in front, nor that which is behind, (discerned by me); givers of dwellings, may I, who an immature (in knowledge), and timid (in spirit), obtain, when guided by you, the light that is free from fear.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Either the light of day, or the light of knowledge
 </details>

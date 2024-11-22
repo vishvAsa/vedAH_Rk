@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pári ← pári (invariable)  
 {}
 
@@ -189,7 +192,8 @@ tvíṣyā ← tvíṣi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The heroic **Indra** causes numerous rays of light revolve as a charioteer (effects the rotation of) thewheels of the chariot; he destroys by his radiance the black darkness like a restless active horse.”
 </details>

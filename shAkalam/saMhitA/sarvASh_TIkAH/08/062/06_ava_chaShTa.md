@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -167,11 +170,13 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who is well-deserving of the hymn, looks down (with favour) upon us as a (thirsty) man (looksdown) on wells; and being well-plural ased he makes the energetic **Soma**-offerer his friend; Indra's gifts are worthyof praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His friend: yujam = ātmānam; he makes the skilled Soma-offerer his friend; alternative interpretatioṅhe makes the Soma the friend of the worshipper
 </details>

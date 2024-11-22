@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rocanā́ ← rocaná- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -191,11 +194,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “eithe ryou traverse, **Savitā**, the three regions, or combine with the rays of **Sūrya**; or you pass between the night on either **hand**; or you, divine Savitā are **Mitra**, through your (benevolent) functions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sūrya: Savitā is the sun before rising; Sūrya is the sun in genitive ral
 </details>

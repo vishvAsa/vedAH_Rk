@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajihīta ← √hā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -193,7 +196,8 @@ nís ← nís (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Bṛhaspati**, descendant of **Aṅgiras**, for your glory, **Parvata** had concealed the herd o fkine, you did set them free, and with thine associate, **Indra**, did send down the ocean of water which had been enveloped by darkness.”
 </details>

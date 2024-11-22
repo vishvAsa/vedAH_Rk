@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 catvā́raḥ ← catúr- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -156,11 +159,13 @@ vahanti ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Four (horses), having golden trappings, going steadily on a difficult road, celebrated on the earth, theexcellent and acceptable gifts (made) to me by **Sudāsa**, the son of **Paijavana**, bear me as a son (to obtain) foodand progeny.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The excellent: smaddiṣṭayaḥ, an epithet of **aśvaḥ**: **prasa**'stātisarjanāśraddhādidānāṅgayuktā, being or having part of a donation made in the belief of presenting what isexcellent
 </details>

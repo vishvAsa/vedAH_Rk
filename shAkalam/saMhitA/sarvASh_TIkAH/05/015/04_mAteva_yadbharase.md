@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhárase ← √bhr̥- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -184,11 +187,13 @@ víṣurūpaḥ ← víṣurūpa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, everywhere predominating, you cherish all men like a mother, and (are implored by all) to behold and to support them; and when, being detained, you mature every kind of food, then, multiform (**Agni**), you comprise (all beings) in yourself.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You mature every kind of food: vāyo vayo jarase yad dadhānaḥ = yad dhāryamāno bhavasi **tadā** sarvam **annam** jarayasi, when you are being detained, then you cause all food to decay, i.e., to digest
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahinā́ ← mahimán- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, by the virtue of your chariot, you come (to the sacrifice), and when, like the ministering priest (after discharging his rfunction), you depart, gliding away, you give to the devout (worshippers a reward), thogh it be store of good horses; may we be enriched, **Nāsatyās** (by your favour).”
 </details>

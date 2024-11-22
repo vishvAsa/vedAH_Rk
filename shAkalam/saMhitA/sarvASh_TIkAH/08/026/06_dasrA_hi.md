@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ānuṣák ← ānuṣák (invariable)  
 {}
 
@@ -122,11 +125,13 @@ pátī ← páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, who are gratified by sacred rites, of fascinating complexion, lords of rain, pass with your fleet(horses) completely round our entier (sacrifice).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Complexion: madhuvarṇā = ye yuvayo rūpam **paśyanti** tetatraiva **hṛṣṭā** **bhavanti**, they who look upon your beauty are delighted
 </details>

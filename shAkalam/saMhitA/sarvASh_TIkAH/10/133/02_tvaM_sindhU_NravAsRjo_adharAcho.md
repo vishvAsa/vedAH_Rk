@@ -26,10 +26,12 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asr̥jaḥ ← √sr̥j- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -215,7 +218,8 @@ jyākā́ḥ ← jyāká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have sent the rivers away downwards, you have slain Ahi; you are born, **Indra**, without an enemy,you grant all that is desirable, as such we embrace you; may the bowstrings on the bows of our enemies bedestroyed.”
 </details>

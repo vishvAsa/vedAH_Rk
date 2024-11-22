@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -171,11 +174,13 @@ anavadyā́ḥ ← anavadyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those of equal exploits, **Mitra**, **Aryaman**, **Varuṇa**, be plural ased today by this my praise; they who are **Ādityas**, luminous, purified by showers, who abandon none (that worship them), who are irreproachable unassailable.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purified by showers: dhārapūtā, cleansed by water, clean (**nirmala**)
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́t ← ā́t (invariable)  
 {}
 
@@ -209,7 +212,8 @@ yájadhyai ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thereupon some verily worship the powerful (**Indra**); thereupon one man prepares the buttered cake that he may offer it to (Indra); thereupon the offerer of the **Soma** he distinguishes from him who presents no libation; thereupon some one rejoices to worship the showerer (of benefits).”
 </details>

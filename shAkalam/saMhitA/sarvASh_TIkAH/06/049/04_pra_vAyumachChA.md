@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -178,11 +181,13 @@ prayajyo ← práyajyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our earnest praise proceed to the presence of **Vāyu**, the possessor of vast riches, the desired of all, the filler of his chariot (with wealth for his worshippers); most adorable (Vāyu), who are riding in a radiant car, and driving your **Niyut** (steeds), do you, who are far-seeing, show favour to the sage, (your adorer).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kavim iyakṣasi prayajyo: prayajyo is applied to the priest, the **adhvaryu**; worship, venerable priest, the wise Vāyu...
 </details>

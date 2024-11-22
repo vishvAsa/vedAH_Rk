@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -182,11 +185,13 @@ súdhitā ← súdhita- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fierce **Maruts**, free from malevolence in your kindly thoughts, fulfil towards us your good purposes; when your missile lightning rends (the clouds), as a well-hurled weapon wound the deer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Asa a well-hurled weapon: paśvaḥ sudhiteva barhaṇā: paśūn is connected with with krivirdatī, the missile of the winds; when the wind blows, animals are withered or chilled
 </details>

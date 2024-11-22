@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrám ← cakrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ stoṣat ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wielder of the thunderbolt, the invoked of many, my mind trembles through dread of poverty like a whirling wheel; **Maghavan**, ever prosperous, may your worshipper, **Puruvasu**, praise you promptly and abundantly, seated in your chariot.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Through dread of poverty: amater id: amati = dāridyam, poverty, or astotā, one who does not praise or worship
 </details>

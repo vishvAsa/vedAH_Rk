@@ -23,15 +23,18 @@ ChandaH = "मध्येज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mánave ← mánu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -175,7 +178,8 @@ aśvínau ← aśvín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In like manner, as you have prepared, **Aśvins**, the sacrifice for **Manu**, consent (to prepare it) for the sonof **Kaṇva**; for I invoke **Bṛhaspati**, the universal gods, **Indra** and **Viṣṇu**, and the Aśvins, with rapid steeds.”
 </details>

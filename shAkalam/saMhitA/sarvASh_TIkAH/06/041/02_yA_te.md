@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kākút ← kākúd- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -230,7 +233,8 @@ vartatām ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra**, with that well-formed and expanded tongue wherewith you ever quaff the sweet (**Soma**); before you stands the ministrant priest; let your bolt, Indra, designed (to recover) the cattle, be hurled (against your foes).”
 </details>

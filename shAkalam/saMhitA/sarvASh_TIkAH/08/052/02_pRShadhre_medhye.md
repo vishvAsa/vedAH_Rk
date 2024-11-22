@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 mātaríśvani ← mātaríśvan- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -132,7 +135,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You did enjoy, **Indra**, the effused drink with **Pṛṣadhra**, **Medhya** and **Mātariśvan**, just as you did drinkthe **Soma** with Daśaśipra, Daśoṇya, Syumaraśmi, and Ṛjunas.”
 </details>

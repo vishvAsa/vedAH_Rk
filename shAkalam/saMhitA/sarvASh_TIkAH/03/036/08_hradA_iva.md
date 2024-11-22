@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hradā́ḥ ← hradá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -192,11 +195,13 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The stomach of **Indra** (is) as capacious (a receptacle) of **Soma**, as a lake, for he has partaken of it at many sacrifices; and inasmuch as he has eaten the first (sacrificial) viands, he has been the slayer of **Vṛtra**, and has shared the Soma (with the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As capacious of Soma as a lake: **hradā** iva kukṣayaḥ soma **dhānāḥ**: bellies udarāṇi, is used in the plural ral, to intimate capaciousness for holding the Soma
 </details>

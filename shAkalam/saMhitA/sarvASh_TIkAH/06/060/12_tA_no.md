@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 íṣaḥ ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -131,7 +134,8 @@ vóḷhave ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those two grant us strengthening food, and swift horses to convey (our offerings).”
 </details>

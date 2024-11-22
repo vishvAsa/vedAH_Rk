@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 brahmaṇaḥ ← bráhman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -174,11 +177,13 @@ vanúṣām ← vanús- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This praise has been offered as prayer to you both, **Brahmaṇaspati** and **Indra**, the wielder of thethunderbolt; protect our ceremonies; hear our manifold praise; annihilate the assailing adversaries of yourworshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Prayer: **iyam** suviktir **brahma** = iyam mantrarūpa **stutiḥ**, this praise in the form of a **mantra**, asacred text or prayer
 </details>

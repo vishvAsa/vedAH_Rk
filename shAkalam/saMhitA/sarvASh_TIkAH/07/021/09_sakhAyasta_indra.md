@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ vanúṣām ← vanús- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, daily increasing in reverence, be (regarded), **Indra**, (as) your friends; through the protection ofyou, surpasser in greatness, may (your worshippers) repulse the attack of the foe in battle, the strength of themalevolent.”
 </details>

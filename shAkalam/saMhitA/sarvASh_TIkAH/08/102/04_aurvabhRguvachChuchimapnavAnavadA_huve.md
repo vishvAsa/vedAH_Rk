@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 aurvabhr̥guvát ← aurvabhr̥guvát (invariable)  
 {}
 
@@ -116,11 +119,13 @@ samudrávāsasam ← samudrávāsas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like **Aurva** **Bhṛgu** and like Apanvān, I invoke the pure **Agni**, dwelling in the midst of the sea.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 AurvaBhṛgu: Aurva, the descendant of Bhṛgu (sometimes he is called the son, sometimes the grandson, andsometimes only the descendant); Aurva became the submarine fire; or, aurvabhṛgu = like Aurva and Bhṛgu(**dvandva** compound);
 

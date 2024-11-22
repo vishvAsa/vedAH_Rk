@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ paribhū́ḥ ← paribhū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By you, **Agni**; **Varuṇa**, observant of his duties and **Mitra** and **Aryaman**, bountiful divinities, are animated, so that yo have been born comprehending them all universally in all (their) functions, and encompassing (them all) as the circumference (encompasses) the spokes (of a wheel).”
 </details>

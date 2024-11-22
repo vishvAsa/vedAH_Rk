@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pávasva ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -126,7 +129,8 @@ mádhumattamaḥ ← mádhumattama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow, **Soma**, who are the giver of food in a stream, when effused, to the filter; (flow) Soma who are most sweet for **Indra**, for **Viṣṇu**, for the gods.”
 </details>

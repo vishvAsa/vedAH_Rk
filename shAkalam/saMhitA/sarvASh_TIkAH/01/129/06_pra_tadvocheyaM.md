@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -37,7 +39,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 bhávyāya ← bhávya- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -288,7 +291,8 @@ sravet ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I be competent to utter (praise) for the (**Soma**) libation, sustaining existence, which, like the (deity) to be invoked, (**Indra**), goes abounding with food to (each) venerable (rite); the destroyer (of **rākṣasas**) at (each) venerable (rite). May that (libation) of itself repress with chastisement the malevolence of him who reviles us; let the thief fall downwards (and perish), like a little (water) running down (a declivity).”
 </details>

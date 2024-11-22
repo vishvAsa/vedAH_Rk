@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bráhmakr̥tim ← bráhmakr̥ti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -187,11 +190,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Magnified hero, **Indra**, approving of the sacred rite, come to us speedily with your steeds; be exhilaratedat this sacrifice; hear these our prayers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the variously flamorous strife: vivācī: **vividha** vāco yasminprādurbhavanti tasmin yuddhe, in that war or combat in which many words are manifested;
 

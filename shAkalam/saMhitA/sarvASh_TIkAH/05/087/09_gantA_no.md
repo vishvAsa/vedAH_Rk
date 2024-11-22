@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gánta ← √gam- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -200,7 +203,8 @@ syā́ta ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable **Maruts** come to our sacrifice, so that it may be prosperous; hear, undeterred by **rākṣasas**, the invocation of Evayāmarut; abiding like lofty mountains in mid-heaven, do you, who are profoundly wise, be ever intolerant of the reviler.”
 </details>

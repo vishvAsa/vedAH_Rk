@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 itthā́ ← itthā́ (invariable)  
 {}
 
@@ -139,11 +142,13 @@ havyádātaye ← havyádāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That man verily consecrates the oblation for the sacrifice, who brings quickly **Mitra** and **Varuṇa** to theofferer for the attainment of his desires.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Verily that man who worships Mitra and Varuṇa for the attainment of hisdesires and the giving of oblations, becomes thereby perfectly tranquil and able to perform the sacrifice: ṛdhagdevatātaye
 </details>

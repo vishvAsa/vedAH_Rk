@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 añjate ← √añj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -186,11 +189,13 @@ paśúm ← paśú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The priests) smear and grease and anoint (the **Soma** with milk); (the gods) taste the invigorating (juice); they smear it over with sweet (milk). Purifying it with gold, they plural nge it into those (waters) the sprinkler, the beholder, falling into the seething torrent.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Smear and grease and anoint: añjate, vyañjate and samañjate are synonyms; into the seething torrent: sindhor ucchvāse = liṭ, in the hreathing of the river; i.e., going to an elevated plural ce, the receptacle of the juice, rasasyādhārabhūte ucchrite deśe gacchantam
 </details>

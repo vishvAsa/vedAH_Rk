@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -210,11 +213,13 @@ yā́ni ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The **Maruts**): Verily, Maghvan, nothing (done) by you is unavailing; there is no divinity as wise as you; no one being born, or that has been born, ever surpasses the glorious deeds which you, mighty (**Indra**), have achieved.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Verily, **Maghavan**: anuttamā te maghavan nakir nu na = whatever is said by you, Indra, is true;
 

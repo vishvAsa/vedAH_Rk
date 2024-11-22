@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 apr̥chata ← √praś- (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -179,11 +182,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhus**, reposing in the solar orb, you inquire: who awakens us, unapprehensive (Sun), to this office (of sending rain). The Sun replies: the awakener is the wind; and the year (being ended), you again today light up this (world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The awakener is the wind: śvānam bodhayitāram = the awakener is the dog; but, śvānam = antarkṣe svasantam vāyum, the reposer in the firmament, the wind; saṃvatsare idam **adyā** vyakhyata, you have made this world today luminous, after the year has expired; i.e. the rainy season has passed, the rays of the sun and moon are again visible
 </details>

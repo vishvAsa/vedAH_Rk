@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhuraṇā ← bhuraṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -207,7 +210,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Nourishers of all, the chariot of you two, who are associated in a common purpose, traverses the sevenflowing (streams); the excellent horses harnessed by the gods, who bear you rapidly, careering in the car, arenever wearied.”
 </details>

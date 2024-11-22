@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātáḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -205,11 +208,13 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No being that is or that has been born, divine **Viṣṇu**, has attained the utmost limit of your magnitude bywhich you have upheld the vast and beautiful heaven, and sustained the eastern horizon of the earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Easternhorizon = the entire earth; Viṣṇu's upholding the **three worlds** has been mentioned more than once; cf. RV.1.154.4
 </details>

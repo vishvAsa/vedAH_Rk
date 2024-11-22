@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ī́mahe ← √yā- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -135,11 +138,13 @@ vā ← vā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke, **Indra**, whether he come from this earthly region, or from the heaven above, or from the vast firmament; that he may give (us) wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Either the **pṛthivī**-**loka** or the dyu-loka (heaven); **antarikṣa**-loka = sphere of the firmament (space between the earth and heaven, perhaps = **vyoman** or **ākāśa**, sky or atmosphere)(**Manu**, I.13)
 </details>

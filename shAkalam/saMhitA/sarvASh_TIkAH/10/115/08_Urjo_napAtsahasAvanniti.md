@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 íti ← íti (invariable)  
 {}
 
@@ -178,7 +181,8 @@ pratarám ← pratarám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “"Offspring of food! vigorous (**Agni**)", thus the praise of Upastuta, showering forth oblations, glorifiesyou. "Let us praise you; through you let us obtain excellent **male** progeny, enjoying long protracted life". them and the pious, worshippers. With uplifted faces, calling out **vaṣaṭ**! vaṣaṭ! they reached you; with upliftedfaces they reached you, calling out **namas**! namas!”
 </details>

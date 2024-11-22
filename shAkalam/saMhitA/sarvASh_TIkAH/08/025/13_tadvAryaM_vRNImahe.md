@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -128,7 +131,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit that ample, all-desired, all-guarding (wealth) which **Mitra**, **Varuṇa** and **Aryaman** hold undertheir protection.”
 </details>

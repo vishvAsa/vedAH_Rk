@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhanvantu ← √dhanv- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -182,7 +185,8 @@ viśvádhā ← viśvádhā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May they flow to us, may they bring us riches-- the honey-dropping **Soma**-juices by whose aid we encounter the powerful (enemy); may we overcoming the opposition of every man always bear off his wealth.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cániṣṭhā ← cániṣṭha- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -195,11 +198,13 @@ yujānáḥ ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This excellent praise, redolent of food, propitiates you; the ewer has been heated in the dwelling of theworshipper, which, reaching you, fills the ocean and the rivers (through the rain it obtains), associating you (inthe rite), like two well-matched horses in a chariot.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ewer: **gharma** = pravarga; **gharmaḥ** pravargaśca
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dr̥ṣṭvā́ya ← √dr̥ś- (root)  
 {non-finite:CVB}
 
@@ -212,7 +215,8 @@ vr̥ṣaláḥ ← vr̥ṣalá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gamester, having observed the happy wife and well-ordered home of others, suffers regret; yet inthe forenoon he puts to the tawny steeds, and at night the sinner lies down by the fire.”
 </details>

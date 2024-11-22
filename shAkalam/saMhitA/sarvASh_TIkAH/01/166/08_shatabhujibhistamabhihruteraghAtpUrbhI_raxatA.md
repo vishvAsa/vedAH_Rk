@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíhruteḥ ← abhíhruti- (nominal stem)  
 {case:ABL, gender:F, number:SG}
 
@@ -184,11 +187,13 @@ tánayasya ← tánaya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, gratify, with infinite and complete enjoyments, him, whom you proect from degrading sin; that man whom, fierce and mighty, and glorified (as you are), you defend from calumny, by (providing for) the nourishment of his descendants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of his descendants: tanayasya puṣṭiṣu: **tanaya**, a son = putrādayaḥ, descendants
 </details>

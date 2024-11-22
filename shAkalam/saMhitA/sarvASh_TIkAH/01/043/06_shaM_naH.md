@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 árvate ← árvant- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -136,7 +139,8 @@ Some RV mantravAdin-s suggest replacing this incantation of kaNva in the midst o
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who bestows easily-obtained happiness on our steeds, our rams, our ewes, our men, our women, and our cows?”
 </details>

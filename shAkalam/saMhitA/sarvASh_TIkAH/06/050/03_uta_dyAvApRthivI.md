@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:VOC, gender:F, number:DU}
 
@@ -176,7 +179,8 @@ kṣáyāya ← kṣáya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or bestow, Heaven and Earth, vast strength; give us, Earth and Heaven, a spacious habitation for our comfort; so arrange, that infinite wealth may be ours, remove, beneficent deities, iniquity from our abode.”
 </details>

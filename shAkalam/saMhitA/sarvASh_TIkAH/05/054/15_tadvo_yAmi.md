@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dráviṇam ← dráviṇa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,7 +211,8 @@ yásya ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Therefore do I solicit wealth of you, who are prompt to grant protection, whereby we may multiply our descendants, as the sun (spreads wide his rays); be propitiated, **Maruts**, by this my praise, by the efficacy whereof may we pass over a hundred winters.”
 </details>

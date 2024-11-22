@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -204,11 +207,13 @@ víprāḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sage, the observer of men, retaining the water proceeds to his plural ce on the filter; like a ministrant priest sitting at the sacrifice (the **Soma** flows) into the cups; the seven wise ṛṣis approach him with praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The seven wise ṛṣis: **Bharadvāja**, **Kaśyapa**, **Gotama**, **Atri**, **Viśvāmitra**, **Jamadagni** and **Vasiṣṭha**
 </details>

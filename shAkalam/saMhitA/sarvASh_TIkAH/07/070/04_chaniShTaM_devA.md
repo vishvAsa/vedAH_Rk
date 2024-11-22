@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apsú ← áp- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -175,11 +178,13 @@ yugā́ni ← yugá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, divine **Aśvins**, as you accept that which is most acceptable in the plural nts and in the waters,and those (things) which are most suitable to you, (the offerings) of the Ṛṣis, therefore, bestowing upon usample riches, (favour us) as you have favoured, bestowing former couples.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That which is most acceptable: i.e.the cakes of meal and the **Soma** offered in sacrifices; former couples: sacrifiers, or instrumental tutors of sacrifices,**yajamānas**, and their wives
 </details>

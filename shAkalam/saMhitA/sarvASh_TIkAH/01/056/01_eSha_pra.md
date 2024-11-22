@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -202,7 +205,8 @@ rátham ← rátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Veracious (**Indra**) has risen up (as ardently) as a horse (approaches) a mare, to partake of the copious libations (contained) in the (sacrificial) ladles; having stayed his well-horsed, golden, and splendid chariot, heplies himself, capable of heroid (actions with **Soma**).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kaváyaḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -127,11 +130,13 @@ sumnayā́ ← sumnayā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wise (priests) harness the plural ughs, they lay the yokes apart, firmly devoted through the desire ofhappiness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Happiness: sumnayā = to give plural asure to the gods
 </details>

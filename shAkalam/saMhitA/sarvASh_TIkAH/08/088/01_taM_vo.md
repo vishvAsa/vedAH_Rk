@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dasmám ← dasmá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -160,11 +163,13 @@ navāmahe ← √nu- ~ nū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We offer praise with our hymns, as cows (low) to their calf in the stalls, to that handsome **Indra** of yours,(O priests), the overcomer of enemies, who rejoices in the excellent **Soma**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the stalls: svasareṣu; **Yāska**(**Nirukta** 5.4): days; we praise you in the days; excellent Soma: vasoḥ = vasayītuḥ; cf. RV 6.16.25
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 átapyamāne ← átapyamāna- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -174,11 +177,13 @@ rákṣatam ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we ever be (devoted to) that Heaven and Earth, who are not subject to annoyance, who satisfy (all beings) with food, who have the gods (and men) for sons, and who are both endowed with the double (condition) of the divine days (and nights); defend us, Heaven and Earth, from great (danger).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Divine days and nights: ubhe devānām ubhayebhir ahnām: **ahan** = night as well as day
 </details>

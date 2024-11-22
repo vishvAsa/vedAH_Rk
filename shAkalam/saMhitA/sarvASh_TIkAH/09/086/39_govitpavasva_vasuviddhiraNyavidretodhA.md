@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 govít ← govíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -222,7 +225,8 @@ víprāḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow, **Indu**, who are the winner of cattle, wealth, and gold, the fructifier, plural ced upon the waters; you, **Soma**, are a hero, omniscient; you these sages approach with praise.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 havyā́ ← havyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -212,7 +215,8 @@ vocata ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (my priests) offer for me whatever oblations of mine (there may be); may the purpose of my mindbe sincere; may I not fall into any kind of sin; universal gods, bless us.”
 </details>

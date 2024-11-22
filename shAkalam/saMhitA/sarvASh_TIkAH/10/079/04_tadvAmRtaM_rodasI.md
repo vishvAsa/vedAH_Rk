@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bravīmi ← √brū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -204,11 +207,13 @@ vícetāḥ ← vícetas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (that) I declare unto you, heaven and earth, (is) the truth; as soon as born, the embryo devoursthe parents; I who am a mortal know not (the condition) of the deity; **Agni**, (O **Vaiśvānara**), is discriminating, heis exceedingly wise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Embryo: i.e., fire as soon as lighted burns the two pieces of touchwood by which it wasgenerated
 </details>

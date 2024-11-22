@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ní ← ní (invariable)  
 {}
 
@@ -152,7 +155,8 @@ jīrám ← jīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We plural ce you, **Agni**, as **Manu** plural ced you, who are the implement of sacrifice, the invoker, the ministering priest, very wise, the destroyer (of foes), immortal, the messenger (of the gods).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -196,7 +199,8 @@ paúṁsyāya ← paúṁsya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine and powerful (**Indra**), come to us with your strength; be the augmenter of our riches; be to us,king of men, wielder of the thunderbolt, for (a source of) vigour, of great prowess, hero, of manhood.”
 </details>

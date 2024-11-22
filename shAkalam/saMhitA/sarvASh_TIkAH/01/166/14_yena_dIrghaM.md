@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīrghám ← dīrghá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -176,7 +179,8 @@ yajñébhiḥ ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Quick-moving **Maruts**, we augment the long (offered ceremony) upon your mighty (approach), whereby men triumph in war; may we obtain, by these our sacrifices, your wished-for (presence).”
 </details>

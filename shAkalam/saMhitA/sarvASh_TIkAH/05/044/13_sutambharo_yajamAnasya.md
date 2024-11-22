@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sátpatiḥ ← sátpati- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -185,11 +188,13 @@ svapán ← √svap- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sutambhara, is the ministrant priest of the instrumental tutor of the sacrifice, the causer of the upward ascent of all holy rites; the cow offers juicy (milk); the milk is distributed; announcing this in order (Avastāra) studies (the holy texts) without repose.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ministrant priest: sutambharo yajamānasya satpatiḥ: satpatiḥ = **hotā**;
 

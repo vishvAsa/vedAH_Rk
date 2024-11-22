@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāyate ← √janⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -186,7 +189,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where is the new (**Agni**) born? He is present in the old (plural nt) and in the wood, grey-haired,smoke-bannered; though not needing ablution, he hastens to the water like a (thirsty) bull, he whom men withone consent propitiate.”
 </details>

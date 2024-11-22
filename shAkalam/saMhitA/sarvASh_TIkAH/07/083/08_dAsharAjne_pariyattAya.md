@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāśarājñé ← dāśarājñá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -146,11 +149,13 @@ tŕ̥tsavaḥ ← tŕ̥tsu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You gave vigour, **Indra** and **Varuṇa**, to **Sudāsa** when surrounded on all sides by the ten **rājās** (inthe country) where the pious Tṛtsus, walking in whiteness, and wearing braided hair, worshipped with oblationsand praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Walking in whiteness: śvit yañcaḥ kapardinas tṛtsavaḥ: the epithes are explained: svaityamnairmālyam gacchantaḥ, going in, or to, whiteness, or freedom from soil; and **jaṭilaḥ**, having braided hair. TheTṛtsus are the pupils of **Vasiṣṭha**, Vasiṣṭhaśiṣyāḥ etasanjñāḥ ṛtvijāḥ
 </details>

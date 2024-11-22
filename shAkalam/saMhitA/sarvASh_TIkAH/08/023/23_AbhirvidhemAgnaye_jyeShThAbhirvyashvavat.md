@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́bhiḥ ← ayám (pronoun)  
 {case:INS, gender:F, number:PL}
 
@@ -115,7 +118,8 @@ matíbhiḥ ← matí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us, like **Vyaśva**, glorify the brilliant **Agni** with these excellent and most pious praises.”
 </details>

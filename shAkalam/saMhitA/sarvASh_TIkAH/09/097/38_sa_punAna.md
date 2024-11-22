@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́tā ← dhā́tar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -227,7 +230,8 @@ yaṁsat ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The purified (**Soma**) approaches (**Indra**) as the year (approaches) the sun, he fills both heaven and earth (with his radiance), he opens (the darkness with his light); may he, the beloved (Soma), whose beloved (streams) are for (our) preservation, bestow upon us wealth like (wages given) to a labourer.”
 </details>

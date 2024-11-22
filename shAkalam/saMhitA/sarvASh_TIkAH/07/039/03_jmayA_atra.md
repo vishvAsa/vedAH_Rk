@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -195,7 +198,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine **Vasus** sport on this occasion upon the earth; the brilliant (**Maruts**) in the expansivefirmament are being worshipped; swift-moving deities, direct your paths towards us; hear (the words) of this ourmessenger, (**Agni**), approaching you.”
 </details>

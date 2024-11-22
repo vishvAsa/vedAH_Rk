@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citrám ← citrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -216,7 +219,8 @@ suvī́ryebhiḥ ← suvī́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestow quickly, **Agni**, upon us who are affluent (in oblations), wondrous wealth), with abundant viands and protections, such as enrich other men with wealth with food, and with **male** descendants.”
 </details>

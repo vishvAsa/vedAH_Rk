@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -187,7 +190,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, the bearer of the thunderbolt, did drown **Śruta**, **Kavaṣa**, **Vṛddha** and afterwards **Druhyu**, in thewaters; for they, **Indra**, who are devoted to you, and glorify you, preferring your friendship, enjoy it.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 supalāśé ← supalāśá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -149,11 +152,13 @@ venati ← √ven- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In that leafy tree where **Yama** drinks with the gods, there the progenitor, the lord of the house, invitesus to join themen of old.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The legend: **Naciketas**, the son of **Vājaśravas**, was sent by his father to visit Yama.Yama received Naciketas hospitably and allowed him to return to the world, on which occasion, he recited thishymn. Another account: the person n who recited this hymn was **Kumāra** and the Yama of the hymn is **Āditya**,the sun: **Nirukta** 12.29. The tree is a reference to the final repose where the dead rest, like weary travellers at thefoot of a tree
 </details>

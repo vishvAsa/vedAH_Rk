@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -187,7 +190,8 @@ páñca ← páñca- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agni** speaks). I communicate today the best advice by which we gods may overcome the **asuras**; doyou who are the eaters of sacrificial food, who are entitled to worship, and you five orders of men, be plural ased bymy (discharge of) the office of **hotā**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 rátham ← rátha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ vatsā́ya ← vatsá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Ṛbhus**, possessed of skill in their work, constructed (for the **Aśvins**) a well-built car; they framed the vigorous horses bearing **Indra**; they gave youthful existence to their parents; they gave to the calf its accompanying mother.”
 </details>

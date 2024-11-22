@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apsarā́ḥ ← apsarás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -183,7 +186,8 @@ venáḥ ← vená- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Apsaras**, smiling affectionately like a wife at her lover, cherishes him in the highest heaven; shewanders in the abodes of her beloved; he, **Vena**, being loved, sits, down on his golden wing.”
 </details>

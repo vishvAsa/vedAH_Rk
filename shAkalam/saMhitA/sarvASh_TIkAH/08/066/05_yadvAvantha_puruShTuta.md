@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruṣṭuta ← puruṣṭutá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, praised of many, what of old time you did desire from your votaries, that, **Indra**, we hasten to bringto you-- oblation and recited praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Chid = as of old time (you received) from your votaries, so now we hasten tobring you what you did desire (upamārthe, **Nirukta** 1.4)
 </details>

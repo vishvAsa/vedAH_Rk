@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvaiḥ ← áśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -180,7 +183,8 @@ vā́haḥ ← vā́has- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gratify this our desire (of wealth) with cows, with horses, with shining treasure, and make us renowned; the wise **Kuśikas**, desirous of heaven, offer praise to you **Indra**, with pious (prayers).”
 </details>

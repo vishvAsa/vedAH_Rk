@@ -23,15 +23,18 @@ ChandaH = "प्रस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bādhathāḥ ← √bādhⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:MED}
 
@@ -185,11 +188,13 @@ enam ← ena- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Earth, rise up above him; oppress him not; be attentive to him (and) comfortable; cover him up, earth,as a mother covers her child with the skirt of her garment.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Earth, rise up above him: i.e., so as to give himbreathing room; while reciting this verse, dust is to be scattered over the grave;
 

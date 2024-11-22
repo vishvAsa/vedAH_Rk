@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 devayā́nam ← devayā́na- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the priests at the season (of the ceremony), lead forth the horse, the offering devoted to the gods, thrice round (the sacrificial fire); then the goat, the portion of **Pūṣan**, goes first, announcing the sacrificer to the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The goat is to be first immolated
 </details>

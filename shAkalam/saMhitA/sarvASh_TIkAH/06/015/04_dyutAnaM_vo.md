@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithim ← átithi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ r̥ñjase ← √r̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Propitiate with pious praises the radiant **Agni**, your guest, the guide to heaven, the invoker of the gods( at the sacrifice) of **manu**, the celebrator of holy rites, the speaker of brilliant words like a learned sage, the bearer of oblations (to the gods), the lord, the divine.”
 </details>

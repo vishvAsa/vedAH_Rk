@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥ṣikŕ̥t ← r̥ṣikŕ̥t- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ virā́jam ← virā́j- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thinking as a ṛṣi, acting as a ṛṣi, gaining heaven, praised by thousands, the guide of the wise, the mighty **Soma** desiring to attain the third region (heaven), being praised adds lustre to the illustrious (**Indra**).”
 </details>

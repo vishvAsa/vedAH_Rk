@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 híraṇyapāṇiḥ ← híraṇyapāṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ among the gods you O Savitaḥ have set your call, now impel to us the totality 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The golden-handed, soft-tongued **Savitā** is descending from heaven (to be present) thrice (daily) at the sacrifice; accept, Savitā, the praise (recited) by the worshippers, and thereupon grant to us all our desires.”
 </details>

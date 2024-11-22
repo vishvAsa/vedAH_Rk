@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āpatuḥ ← √āp- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -177,7 +180,8 @@ vidúḥ ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The two sources of heat (**Agni** and **Āditya**) spreading to the limit (of the horizon), have pervaded thethreefold (universe); **Mātariśvan** has come to give them plural asure; (when) the shining (rays) reached theadorable (sun), having the brilliancy of the **Sāman**, sustaining (the universe), they attained the water of heaven.”
 </details>

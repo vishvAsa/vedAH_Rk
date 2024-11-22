@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya;; repeated line
-#### Morph
+_________
+**Morph**  
 maghónām ← maghávan- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -147,7 +150,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We come to you, O **Maghavan** **Indra**, the highest of **Maghavans**, the strong of bulls, the mightiestbreakere of forts, the provider of kine, the lord of wealth.”
 </details>

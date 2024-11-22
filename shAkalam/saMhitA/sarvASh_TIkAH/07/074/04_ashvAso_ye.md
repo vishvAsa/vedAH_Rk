@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvāsaḥ ← áśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -167,7 +170,8 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yours are the horses that, conveying you, bring you to the dwelling to the donor (of the oblation); divineleader (of rites), favourable inclined towards us, come with your rapid steed”
 </details>

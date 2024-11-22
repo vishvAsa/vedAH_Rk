@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -181,7 +184,8 @@ suvitáḥ ← suvitá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are, **Vājin**, (strong) through food; you (are) well-beloved; urged thereto follow (the object of your)praise; urged thereto proceed to heaven; urged thereto pursue the duties that are the most important and sure ofreward; urged thereto follow the gods; urged thereto follow (the light), descending (from heaven).”
 </details>

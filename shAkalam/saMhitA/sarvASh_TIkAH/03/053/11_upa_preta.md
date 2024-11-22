@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cetáyadhvam ← √cit- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -199,7 +202,8 @@ yajāte ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approach, **Kuśikas**, the steed of **Sudās**; animate (him), and let him loose to (win) riches (for the **raja**); for the king (of the gods) has slain **Vṛtra** in the East, in the West, in the North, therefore let (Sudās) worship him in the best (regions) of the earth.”
 </details>

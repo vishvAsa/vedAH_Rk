@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajyate ← √añj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
 
@@ -163,11 +166,13 @@ spárase ← √spr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The voice (of the **Maruts**) blends with the songs of the Sobharis in the receptacle of their goldenchariot; may the mighty well-born Maruts, the offspring of the (bridled) cow, (be gracious) to us regard of food,enjoyment, and kindness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The voice: **vāṇa** = the lute, **vīṇā**
 </details>

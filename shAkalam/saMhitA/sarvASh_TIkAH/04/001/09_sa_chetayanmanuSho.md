@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cetayat ← √cit- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -197,7 +200,8 @@ sadhanitvám ← sadhanitvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Associated with sacrifice, and knowing those men (who are engaged in good works), they lead him with the strong cord (of praise); he, the divine **Agni**, fulfilling (all desires), abides in the dwelling of this mortal, and obtains fellowhip in his wealth.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nínīṣasi ← √nī- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
 
@@ -173,11 +176,13 @@ tmánā ← tmán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, bestower of dwellings, that mortal whom you wish to lead to wealth, and who gives offerings toyou possess of himself a strong son, a reciter of hymns and a lord of great wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A lord of great wealth:sahasrapoṣiṇa = bahudhanam, nourisher of thousands
 </details>

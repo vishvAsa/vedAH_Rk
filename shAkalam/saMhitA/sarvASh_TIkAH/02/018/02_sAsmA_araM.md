@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX
-#### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -221,11 +224,13 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That (sacrifice) is sufficient for him, (**Indra**), whether (offered) for the first, the second, or the third time; it is the bearer (of good) to man; other (priests) engender the embryo of a different (rite), but this victorious (sacrifice), the showerer (of benefits) combines with other (ceremonies).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For the first: alluding to the three daily sacrifices; with other (ceremonies): anyasyāy, anye, anyebhiḥ, of another, others, with others; the substantives are supplied; anyo **vṛṣā**: indrādibhiḥ devair saṅgacchate, Indra andother deities
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 budhnā́t ← budhná- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ sántam ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As powerful priests extract by force (of prayer) this **Agni** from his primitive seat, (for the evolution) of his mighty form; as the wind arouses him lurking in the hiding-plural ce (of the altar), for the sake of offering oblations now as of old.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By the force (of prayer): or by bodily strength, applied to attrition as producing fire
 </details>

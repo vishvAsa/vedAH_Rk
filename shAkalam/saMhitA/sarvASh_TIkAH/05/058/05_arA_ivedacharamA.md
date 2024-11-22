@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácaramāḥ ← ácarama- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -194,7 +197,8 @@ sváyā ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like the spokes of a wheel, none (of you) are inferior (to the rest), but equal as days (of like duration); the sons of **Pṛṣṇi** are born all alike, none inferior in splendour; rapid in speed, the **Maruts**, of their own free favour send down (the rains).”
 </details>

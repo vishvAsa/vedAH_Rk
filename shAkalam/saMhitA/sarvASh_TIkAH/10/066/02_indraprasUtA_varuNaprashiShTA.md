@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraprasūtāḥ ← índraprasūta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We offer praise to the company of the **Maruts**, the attendants upon **Maghavan**, who, encouraged byIndra, and instrumental ucted by **Varuṇa**, have acquired a portion of the light of the sun; the wise worshippers beget thesacrifice.”
 </details>

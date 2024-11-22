@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adite ← áditi- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -187,7 +190,8 @@ priyátamasya ← priyátama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Indivisible and mighty heaven and earth protect us who, of fortunate birth, have knowledge of you both;let us not incur the displeasure of **Varuṇa**, or of **Vāyu**, or of **Mitra**, the best beloved of men.”
 </details>

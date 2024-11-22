@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 sanádvājam ← sanádvāja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant us, **Indra**, various fertilizing riches, dispensing food, comprising intelligent **male** offspring, theprotector, filling men with wealth, the granter of increase, the very powerful, the slayer of the **Dasyus**, thedestroyer of cities, the observer of truth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Comprising intelligent male offspring: or, as an epithet of Indra, the heroof the sages
 </details>

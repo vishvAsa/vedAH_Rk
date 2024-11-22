@@ -25,10 +25,12 @@ ChandaH = "शक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
@@ -36,7 +38,8 @@ genre M;; line affected by realignment;; repeated line
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ávasi ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -232,7 +235,8 @@ satpate ← sátpati- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Maghavan**, protect the gods with (sacrificial) food, and yourself by your might; drink joyfully,**Śatakratu**, the **Soma** for your exhilaration-- that portion which (the gods) assigned you, **Indra**, lord of the virtuous,who are the victor over all (hostile) hosts, the conqueror of many, the subduer of the waters, the leader of theMaruts.”
 </details>

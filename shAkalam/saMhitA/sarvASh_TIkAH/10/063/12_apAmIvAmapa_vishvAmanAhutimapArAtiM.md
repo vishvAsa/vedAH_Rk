@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámīvām ← ámīvā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -184,7 +187,8 @@ yachata ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Remove far) from us disease, remove all neglect of oblations, remove illiberality, the malevolence ofthose who wish to do us harm; remove far from us, gods, those who hate us; grant us ample happiness for ourwell-being.”
 </details>

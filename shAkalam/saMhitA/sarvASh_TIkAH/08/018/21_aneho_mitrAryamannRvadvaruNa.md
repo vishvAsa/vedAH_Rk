@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aneháḥ ← anehás- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -132,11 +135,13 @@ yanta ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra**, **Aryaman**, **Varuṇa** and **Maruts**, grant us a secure, excellent and well-peopled dwelling, athree-fold shelter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Trivarūtham, a guard against heat, cold and wet; or, tribhūmikam, three-storied
 </details>

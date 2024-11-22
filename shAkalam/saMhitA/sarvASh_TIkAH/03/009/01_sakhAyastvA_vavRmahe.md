@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 sákhāyaḥ ← sákhi- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -143,7 +146,8 @@ suprátūrtim ← suprátūrti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We, your mortal friends have recourse for our protection to you, the divine, the grandson of the waters, the auspicious, the resplendent, the accessible, the sinless.”
 </details>

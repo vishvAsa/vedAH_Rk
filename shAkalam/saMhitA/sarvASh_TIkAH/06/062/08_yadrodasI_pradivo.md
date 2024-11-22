@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásti ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -178,11 +181,13 @@ tápuḥ ← tápus- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven and Earth, Ādiyas, **Vasus**, **Maruts**, rende that dread ange of the gods which (has) of old (been directed) against mortals, destructive and fatal to him who is associated with the **rākṣasas**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rakṣoyuje = rākṣasam svāmine prerakāya vā; rakso.obhir yuktāya yajvane, one who sacrifices, assisted or joined by the rākṣasas
 </details>

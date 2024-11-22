@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -195,7 +198,8 @@ smáyamānaḥ ← √smi- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who shines amidst the forests, as if satisfying himself (with food); who (rushes along), like water down a declivity, and thunders like a chariot (of war); dark-pathed consuming, yet delightful, he is regarded like the sky smiling with constellations.”
 </details>

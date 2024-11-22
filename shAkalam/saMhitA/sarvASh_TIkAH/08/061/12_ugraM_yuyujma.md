@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -166,7 +169,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We join (to our rite) the mighty **Indra**, the subduer of enemies in battles, the inviolate, him to whompraise is due as a debt; he, the best of charioteers, knows (among steeds) the strong racer, and (among men)he, the bounteous (knows) the offerer whom he is to reach.”
 </details>

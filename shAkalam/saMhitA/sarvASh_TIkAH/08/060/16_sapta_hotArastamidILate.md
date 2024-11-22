@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótāraḥ ← hótar- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -199,11 +202,13 @@ tiṣṭha ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven priests praise you, **Agni**, giver of good things and unfailing; you cleave the cloud with yourfierce splendour; go forth, having overcome our enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Janām = asmān, proceed to the gods with theoblation, having left us behind
 </details>

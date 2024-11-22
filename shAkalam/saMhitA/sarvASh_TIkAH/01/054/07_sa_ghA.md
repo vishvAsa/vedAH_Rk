@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gha ← gha (invariable)  
 {}
 
@@ -208,7 +211,8 @@ pinvate ← √pinv- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That eminent person n, the cherisher of the pious, (he instrumental tutor of the ceremony), promotes his own prosperity, who, while offering oblations to **Indra**, pronounces his praise; or who, along with the offerings he presents, recites hymns (in honour of him); for him the bounteous Indra causes the clouds to rain from heaven.”
 </details>

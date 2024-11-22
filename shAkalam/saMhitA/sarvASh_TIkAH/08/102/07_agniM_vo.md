@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -108,11 +111,13 @@ sáhasvate ← sáhasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Draw) near to **Agni** the strong, the mightiest, him who expands (with his flames), the grandson of theinvincible ones.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Invincible ones: adhvarāṇām = ahiṃsyānām balinām
 </details>
@@ -125,7 +130,8 @@ for the mighty child (of might)...
 
 <details><summary>Jamison Brereton Notes</summary>
 
-This vs. consists of two ungoverned sentence fragments, both referring to Agni: an accusative phrase in ab, a dative phrase in c. The former could continue the syntax of the preceding vss., although the intervening tṛca boundary makes some difficulties. The dative phrase is entirely untethered except that it adjoins áchā, which ordinarily takes the accusative, and the next vs. makes a fresh syntactic start with Agni in the nominative. Geldner suggests that there are two Agnis in question in this verse, but this seems to be overthinking it. I think we’re dealing with two false starts, with the first perhaps simply carrying on from the previous vs. ### 08
+This vs. consists of two ungoverned sentence fragments, both referring to Agni: an accusative phrase in ab, a dative phrase in c. The former could continue the syntax of the preceding vss., although the intervening tṛca boundary makes some difficulties. The dative phrase is entirely untethered except that it adjoins áchā, which ordinarily takes the accusative, and the next vs. makes a fresh syntactic start with Agni in the nominative. Geldner suggests that there are two Agnis in question in this verse, but this seems to be overthinking it. I think we’re dealing with two false starts, with the first perhaps simply carrying on from the previous vs. _________
+**08**  
 The lexeme ā́√bhū generally means ‘stand by, be at hand’; this works fine for pāda a, but not so well for pāda b. Neither Geldner’s “eingehe … in” nor Renou’s “s'intègre à” seems to work any better.
 </details>
 

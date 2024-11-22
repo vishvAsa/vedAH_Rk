@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣáḥ ← aruṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ puruṣṭutásya ← puruṣṭutá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They cleanse the green-tinted (**Soma**); he is harnessed like a swift horse; the Soma is combined in the pitcher with the products of the kine. He utters a sound, (the worshippers) send forth praise; how many (boons) abundantly delightint the utterer of many praises (does Soma bestow).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abundantly delighting: paripriyaḥ = paritaḥ prīṇayitṛṇi
 </details>

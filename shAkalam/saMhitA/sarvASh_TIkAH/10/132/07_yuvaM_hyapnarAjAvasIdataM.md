@@ -24,16 +24,19 @@ ChandaH = "महासतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 apnarā́jau ← apnarā́j- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -180,11 +183,13 @@ tatre ← √trā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you, brilliant through your functions, have sat down; now mount, (each of you, his) chariot, whichrests on the yoke, which abides in the forests, (to overcome) those (people) who clamour against us; Nṛmedhawas preserved (by you) from sin, the pious worshipper was preserved from sin.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Which abides in the forests: or,in the water; **Varuṇa** is said to reside in the ocean
 </details>

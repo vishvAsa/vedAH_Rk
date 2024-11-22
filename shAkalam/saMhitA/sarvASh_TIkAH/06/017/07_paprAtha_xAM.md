@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáṁsaḥ ← dáṁsas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -192,11 +195,13 @@ yahvī́ ← yahvī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have filled the wide earth, **Indra**. With (the power of) your deeds; you, the mighty one, have propped up the vast heaven; you have sustained the heaven and earth, whose children are the gods, (and who are) the old and mighty parents of sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The old and mighty: pratne mātarā yahvir ṛtasya = the ancient parents, the offspring or **Brahmā**; ṛtasya, **brahmaṇa** yahvi purtyau yahu = **Āpatya** (Nighaṇṭ.u 2.2)
 </details>

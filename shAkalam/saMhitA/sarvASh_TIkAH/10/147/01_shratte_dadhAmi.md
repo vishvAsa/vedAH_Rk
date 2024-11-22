@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhāmi ← √dhā- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -211,11 +214,13 @@ réjate ← √rej- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have faith, **Indra**, in your first wrath, whereby you did slay **Vṛtra**, and did undertake a work friendly toman; when both heaven and earth were inferior to you, the firmament trembled at your might, O wielder of thethunderbolt.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Friendly to man: naryam vṛtram: from ni, to lead; viver **apas** = did approach the waters, i.e., thisworld;
 

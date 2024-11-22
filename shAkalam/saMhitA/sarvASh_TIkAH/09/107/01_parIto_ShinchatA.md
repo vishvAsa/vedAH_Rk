@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 itás ← itás (invariable)  
 {}
 
@@ -172,7 +175,8 @@ suṣā́va ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sprinkle from hence the effused **Soma**-juice which is the best oblation (to the gods), and which, good for man, is going into the midst of the firmament; (the priest) has expressed the Soma with the stones.”
 </details>

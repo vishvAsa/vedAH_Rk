@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āpī́ ← āpí- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -216,7 +219,8 @@ vā ← vā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Indra** and **Varuṇa**, the mortal diligent in offering (you) sacrificial food, who has through friendship made you his kinsmen, destroys (his own) sins, and his enemies in battle; and by your great favours he becomes renowned.”
 </details>

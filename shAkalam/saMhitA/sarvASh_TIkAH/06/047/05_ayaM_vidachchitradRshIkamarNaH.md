@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 árṇaḥ ← árṇas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -178,7 +181,8 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This makes known the wonderfully beautiful and inspiring (solar) radiance) at the appearance of the dawns, whose dwelling is the firmament; this mighty (**Soma**) has sustained the heaven with a powerful support, th sender of rain, the leader of the winds.”
 </details>

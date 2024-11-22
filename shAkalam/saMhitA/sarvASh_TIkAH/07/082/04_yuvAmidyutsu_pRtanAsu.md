@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ít ← ít (invariable)  
 {}
 
@@ -170,11 +173,13 @@ suhávā ← suháva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bearers (of offerings) invoke you, **Indra** and **Varuṇa**, in wars, in battles; on banded knees (theAṅgirasas invoke you) for the begetting of prosperity; and we, your worshippers, invoke you, who are entitled torespectful homage, the lords of both celestial and terrestrial treasures.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In battles: priyasat = śatrusenāsu,among hostile armies; respectful homage: suhasva = sukhena hvatavyau, easily accessible to invocation, easilyinvoked
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ikṣvākúḥ ← ikṣvākú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -127,7 +130,8 @@ páñca ← páñca- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the good government of whose (realm) the opunlent and victorious **Ikṣvāku** prospers (so that) thefive orders of men (are as happy) as if they were in heaven.”
 </details>

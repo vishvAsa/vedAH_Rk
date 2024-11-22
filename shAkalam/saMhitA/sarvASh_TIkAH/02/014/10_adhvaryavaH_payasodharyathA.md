@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvaryavaḥ ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -193,7 +196,8 @@ yajatáḥ ← yajatá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Priests, fill the bountiful **Indra** with libations as the udder of a cow is filled with milk; so shall the adorable (Indra) fully comprehend (the liberality) of him who desires to present the gift, and shall say (to him), I acknowledge the secret (virtue) of this my (draught).”
 </details>

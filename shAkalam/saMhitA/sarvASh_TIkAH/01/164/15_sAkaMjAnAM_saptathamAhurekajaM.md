@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āhuḥ ← √ah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -188,11 +191,13 @@ víkr̥tāni ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of those that are born together, sages have called the seventh single-born; for six are twins, and are moveable, and born of the gods; their desirable (properties), plural ced severally in their proper abode, are various (also) in form, and revolve for (the benefit of) that which is stationary.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Six are twins: six seasons, made of two months each; the seventh is the intercalary month, which has no **āditya** to preside over it; the six seasons are also ṛsi, ṛṣayaḥ = gantāraḥ, goers; a ṛṣi is present in the sun's car in each of the twelve months; revolve for the benefit: the seasons are diversified by classes of temperature, produce, for the benefit of the world
 </details>

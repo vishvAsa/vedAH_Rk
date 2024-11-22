@@ -25,10 +25,12 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line  
@@ -36,7 +38,8 @@ popular;; epic anuṣṭubh (525);; repeated line
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line  
 popular;; line affected by realignment;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 iyattikā́ ← iyattikā́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -233,11 +236,13 @@ madhulā́ ← madhulá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That little insignifcant bird has swallowed your venom; she does not die; nor shall we die; for, although afar off, yet drawn by his coursers, (the Sun) will overtake (the poison); the science of antidotes has converted you, (Poison), to ambrosia.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The insignificant bird: the feminine le **kapiñjala**, or francoline partridge, which was known as a remover of poison, **viṣa** hartrī
 </details>

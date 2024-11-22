@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mātúḥ ← mātár- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -155,7 +158,8 @@ yávaḥ ← yáva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the sister (vessel), bearing the clarified butter, is plural ced near the maternal (altar), the **Adhvaryu** rejoices at their approach, like barley (at the fall of) rain.”
 </details>

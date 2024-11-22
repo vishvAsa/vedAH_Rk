@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyán ← √i- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -187,7 +190,8 @@ saúbhagāya ← saúbhaga- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indu** coming to obtain the friendship of the god; flows in a thousand streams for (their) exhilaration, glorified by the priests (he proceeds) to his ancient station, he proceeds to **Indra** for the sake of great prosperity (to the worshippers).”
 </details>

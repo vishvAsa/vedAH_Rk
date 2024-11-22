@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káḥ ← ká- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ yajñāyaté ← √yajñāy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who, **Mitra** and **Varuṇa**, desiring to sacrifice to you, (is able to do so)? do you, whether (abiding) in the region of heaven, or of the vast earth, or of the firmament, protect us, and give to the donor (of the oblation), and to the sacrificer, cattle and food.”
 </details>

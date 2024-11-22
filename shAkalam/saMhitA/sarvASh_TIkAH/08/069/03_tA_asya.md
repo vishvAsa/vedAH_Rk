@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -149,11 +152,13 @@ triṣú ← trí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These white kine, giving milk wells, mix the **Soma** for him at the three oblations, rising (in consequece tothe brilliant home of the sun, the birthplace of the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When the bright fertilizing rivers (or the white cows,**pravṛddha**) flow with full waters (or with distended udders), then take...; (RV 6.48.11): dhenum sṛjadhvamanapasphurām = release the cow unobstructed, anapabādhanīyām ; (RV 4.42.10): tam dhenum dhattamanapasphurantīm, grant us that cow (riches) uninured, anavahiṃsitām;
 

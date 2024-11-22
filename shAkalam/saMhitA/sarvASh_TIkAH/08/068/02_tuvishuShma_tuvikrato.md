@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 túvikrato ← tuvikratu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -116,11 +119,13 @@ paprātha ← √prā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Great in power, rich in deeds, might one, adorable, you have filled (all things) with your universalmajesy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Adorable: mate = pūjanīya, adorable, stotavya (V 8.18.7);
 

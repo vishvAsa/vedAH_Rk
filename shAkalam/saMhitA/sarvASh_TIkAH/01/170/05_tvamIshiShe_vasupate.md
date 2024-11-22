@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 īśiṣe ← √īś- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -184,7 +187,8 @@ r̥tuthā́ ← r̥tuthā́ (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agastya**); You, Vasupati, are the lord of riches; you, Mitrapati, are the firm stay (of us), your friends; declare, **Indra**, along with the **Maruts**, (your approval of our acts), and partake of the oblation offered in due season.”
 </details>

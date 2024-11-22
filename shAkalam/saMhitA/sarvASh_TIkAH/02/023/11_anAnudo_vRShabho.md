@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āhavám ← āhavá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ vīḷuharṣíṇaḥ ← vīḷuharṣín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Brahmaṇaspati**, who have no requiter (of your bounty), who are the showerer (of benefits), the repairer to combat, the consumer of foes, the victor in battles, you are true, the discharger of debts, the humiliator of the fierce and of the exulting.”
 </details>

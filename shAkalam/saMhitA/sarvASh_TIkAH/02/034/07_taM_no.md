@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dāta ← √dā- 1 (root)  
 {number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -193,7 +196,8 @@ saním ← saní- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestow upon us, **Maruts**, that (son) who shall enjoy abundance, and who shall be repeating your appropriate praises day by day to (induce) your coming; give food to those who praise you; to him who glorifies you in battles; (grant him) liberality, intelligence, and unimpaired unsurpassable vigour.”
 </details>

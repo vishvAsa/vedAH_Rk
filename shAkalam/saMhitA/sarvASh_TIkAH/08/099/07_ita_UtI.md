@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajáram ← ajára- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -139,7 +142,8 @@ tugryāvŕ̥dham ← tugryāvŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Worshippers), summon here for protecting him who never grows old, the repeller (of enemies), himselfnever expelled, the swift conqueror, the driver, the best of charioteers, unharmed of any, the augmenter of water.”
 </details>

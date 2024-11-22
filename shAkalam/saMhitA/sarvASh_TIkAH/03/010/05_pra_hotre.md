@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 hótre ← hótar- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -139,7 +142,8 @@ vedháse ← vedhás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer to the ministering **Agni** as if to the Creator (of the world), the great praise recited of old, for the sake of animating the energies of the pious (worshipper).”
 </details>

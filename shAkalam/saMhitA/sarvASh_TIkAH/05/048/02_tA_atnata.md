@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 atnata ← √tan- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -199,11 +202,13 @@ tirate ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These dawns diffuse the consciousness that is apprehended by pious men, and (overspread) the whole world with uniform, investing (light); the devout man disregards the dawns which have turned back, and (those which) are to come, and improves (his understanding) by those which have proceeded.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The dawns which have...: āpo apācīr **aparā** apejate: **apaciḥ** = pratinivṛttamukhiḥ;
 

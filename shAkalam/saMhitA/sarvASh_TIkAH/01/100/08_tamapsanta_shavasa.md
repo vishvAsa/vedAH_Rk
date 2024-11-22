@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 apsanta ? ← apsanta ? (invariable)  
 {}
 
@@ -204,11 +207,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To him, a leader (to victory), his worshippers apply in contests of strength for protection and for wealth, as he grants them the light (of conquest) in the bewildering darkness (of battle); may **Indra**, associated with the **Maruts**, be our protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Jyotis**. = light; cit-**tāmasi** = in the darkness of thought; hopefully, Indra will give the light of knowledge to darkness of understanding
 </details>

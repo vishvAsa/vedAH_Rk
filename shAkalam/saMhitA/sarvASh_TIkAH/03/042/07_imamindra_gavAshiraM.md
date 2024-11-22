@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gávāśiram ← gávāśir- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having come (to our rite) drink, **Indra**, this our (libation), effused by the stones, and mixed with milk and curds, and with barley.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -202,11 +205,13 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven who preside over this sevenpwheeled chariot (are) the seven horses who draw it; seven sisters ride in it together, and in are deposited the seven forms of utterance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The seven: either the solar rays or the seven portions of a year: **ayana** (solstine season), month, fortnight, day, night, hour; seven horses: seven wheels and seven horses are the seven solar rays; seven sisters: either the rays of the run, or the six seasons and the aggregate year of the six double and one intercalary month; seven forms of utterance: seven notes of music as employed in chanting the praises of the Sun; or, if gavām is used in the sense of water, the seven forms may be the seven divine rivers
 </details>

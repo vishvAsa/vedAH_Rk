@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nadáyanta ← √nad- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -193,7 +196,8 @@ rathīyántī ← √rathīy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When your brilliant coursers make the mountains echo; and, friendly to man, traverse the summit of the firmament; then all the forest lords are alarmed at your approach, and the bushes wave to and fro, as a woman in a chariot.”
 </details>

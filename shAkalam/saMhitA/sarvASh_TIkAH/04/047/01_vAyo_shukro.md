@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayāmi ← √yam- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -149,11 +152,13 @@ spārháḥ ← spārhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purified (by holy acts) I bring to you, **Vāyu**, the **Soma**, first (offered to you at sacrifices) that seek to gain heaven; deity, who are ever longed over, come with your **Niyut** steeds to drink the Soma juice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 27.30; purified by holy acts: **śukraḥ** vratacaryādinā dīpto aham, illustrious by observing vows; I bring to you the Soma, first offered: ayāmi te madhvo agram: madhvoḥ = madhum;
 

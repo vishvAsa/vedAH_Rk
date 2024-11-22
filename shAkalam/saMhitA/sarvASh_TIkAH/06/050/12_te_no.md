@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -172,7 +175,8 @@ pipyatām ← √pī- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Rudra** and **Sarasvatī**, alike well plural ased and **Viṣṇu** and **Vāyu**, make us happy, sending rain; and Ribhukṣin, and **Vāja**, and the divine **Vidhātā**; and may **Parjanya** and **Vāta** grant us abundant food.”
 </details>

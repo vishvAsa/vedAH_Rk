@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pavasva ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -139,7 +142,8 @@ svāyudháḥ ← svāyudhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow, **Soma**, overcoming (our) enemies, driving away the **rākṣasas** who are difficult to approach, well-armed, triumphing over foes.”
 </details>

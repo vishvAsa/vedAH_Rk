@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákaviṣu ← ákavi- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -190,7 +193,8 @@ tvé ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This far-seeing, sagacious, immortal **Agni**, has been stationed among short-sighted mortals; harm usnot, vigorous Agni, in this world, that we may ever be devoted to you.”
 </details>

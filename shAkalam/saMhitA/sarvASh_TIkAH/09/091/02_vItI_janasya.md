@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 divyásya ← divyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ marmr̥jānáḥ ← √mr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** juice effused by pious mortals (comes) down (to the sacrifice) for the food of the celestial people; which immortal (beverage) is purified by mortal (priests) with the filter, the curds and milk and the waters.”
 </details>

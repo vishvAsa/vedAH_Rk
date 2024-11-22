@@ -24,16 +24,19 @@ ChandaH = "महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -170,7 +173,8 @@ pāvaka ← pāvaká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine, resplendent **Agni**, youngest (of the gods), when kindled by **Bharadvāja**, shines with many flames, with pure lustre, (conferring) riches upon us; shine, resplendent purifier.”
 </details>

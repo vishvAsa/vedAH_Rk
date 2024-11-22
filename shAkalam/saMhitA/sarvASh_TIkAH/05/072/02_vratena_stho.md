@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhruvákṣemā ← dhruvákṣema- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -130,7 +133,8 @@ sómapītaye ← sómapīti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Steady are you in your functions, whom men animate by (their) devotion; come and sit down upon the sacred grass to drink the **Soma** libation.”
 </details>

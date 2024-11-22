@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -199,11 +202,13 @@ rā́jā ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The aggregate fifty-three of them are plural yed as the divine truth, observant **Savitā**, (travels); the dicebow not before the wrath of any, however violent; a king himself pays them homage.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The aggregate...travels: asthe sun roams (viharati) in the world, so the heap of dice moves or plural ys on the dice table (āsphāre). Maybe,fifty-three dice were used, akṣikāḥ prāyeṇa tāvadbhir akṣair dīvyati, gamblers usually plural y with so manydice; maybe, the dice were thrown from east to west to render the comparison with the sun meaningful
 </details>

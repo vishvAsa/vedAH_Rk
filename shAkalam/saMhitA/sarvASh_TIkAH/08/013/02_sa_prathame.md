@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 prathamé ← prathamá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -131,7 +134,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Abiding in the highest heaven, in the dwelling of the gods, he is the giver of increase, the accomplisher(of works), the possessor of great renown, the conqueror of (the obstructer of) the rains.”
 </details>

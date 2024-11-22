@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 kím ← ká- (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -183,11 +186,13 @@ I prefer taking amba as an affectionale and respectful mode of address, as in mo
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[**Indra** speaks\]: You who have beautiful arms, who have beautiful fingers, long-haired, broad-hipped,why are you angry with our **Vṛṣākapi**, O you wife of a hero; Indra is above all (the world).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 \[Indra speaks\]: You who have beautiful arms, who have beautiful fingers, long-haired, broad-hipped,why are you angry with our Vṛṣākapi, O you wife of a hero; Indra is above all (the world).
 </details>

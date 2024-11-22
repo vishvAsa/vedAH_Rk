@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; 11 = 4+7, ending HLX  
 popular
-#### Morph
+_________
+**Morph**  
 mā́ ← mā́ (invariable)  
 {}
 
@@ -208,11 +211,13 @@ vada ← √vadⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May no kite, no eagle, kill you; may no archer armed with arrows, reach you; crying repeatedly, in the region of the **Pitā**, be ominous of good fortune; proclaimer of good luck, speak to us on this occasion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the region of the pitā: the south; the cry of the birds on the south is a good omen, cf. next hymn
 </details>

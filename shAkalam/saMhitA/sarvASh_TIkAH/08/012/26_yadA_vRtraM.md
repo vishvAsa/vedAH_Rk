@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 nadīvŕ̥tam ← nadīvŕ̥t- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -133,7 +136,8 @@ vavakṣatuḥ ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, thunderer, by your strength you did slay **Vṛtra**, the obstructer of the waters, then your belovedhorses bore you.”
 </details>

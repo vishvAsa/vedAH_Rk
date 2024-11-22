@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 anehásam ← anehás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -158,7 +161,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The prayers which consecrate the **Soma** flow forth to the incomparable one who calls you for hisfavour, the Soma-drops which invoke you, O gracious one, have set you in the midst of the hymns.”
 </details>

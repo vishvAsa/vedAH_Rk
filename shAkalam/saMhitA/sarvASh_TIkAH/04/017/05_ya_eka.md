@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ma ← bhū́man- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -189,7 +192,8 @@ rātím ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All men, praising the munificence of the divine **Maghavan**, verily glorify him who alone casts downmany, **Indra**, the king of men, the adored of many.”
 </details>

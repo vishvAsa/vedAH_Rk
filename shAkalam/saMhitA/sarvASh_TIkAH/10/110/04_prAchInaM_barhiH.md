@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíḥ ← barhís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -171,7 +174,8 @@ syonám ← syoná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the beginning of the day the sacred grass, pointing eastwards, is strewn with the prescribed (text)as a covering for the earth (of the altar); they spread it out far and wide as a plural asant (seat) for the gods andAditi.”
 </details>

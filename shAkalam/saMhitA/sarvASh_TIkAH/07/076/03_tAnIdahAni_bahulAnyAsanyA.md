@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhāni ← áhar ~ áhan- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -200,11 +203,13 @@ yatī́ ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Many are the days that have dawned before the rising of the sun, on which you, Uṣas, have beenbeheld like a wife going to an inconstant husband, and not like one deserting him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like a wife: yathā **pari** jāraivācaranti... na punar yatīvā: as in the world a virtuous woman is not seen abandoning a bad and vagranthusband, nor herself going astray
 </details>

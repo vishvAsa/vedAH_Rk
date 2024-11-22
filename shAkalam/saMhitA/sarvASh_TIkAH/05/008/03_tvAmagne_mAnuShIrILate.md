@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ tuviṣvaṇásam ← tuviṣvaṇás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Human beings glorify you, **Agni**, the appreciator burnt-offerings, the discriminator (of truth), the main liberal giver of precious (things), abiding (awhile), auspicious one, in secret, (at other times) visible to all, loud sounding, offering worship, thriving upon clarified butter.”
 </details>

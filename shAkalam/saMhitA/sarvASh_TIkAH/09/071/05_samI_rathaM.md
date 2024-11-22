@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aheṣata ← √hi- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -202,7 +205,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ten fingers of the arms urge him near to the ground (of the sacrificial altar) like a chariot; he goes (to the vessels), he approaches the concealed (milk) of the cow when the praisers produce his resting plural ce.”
 </details>

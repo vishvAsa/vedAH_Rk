@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adveṣáḥ ← adveṣás- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -185,11 +188,13 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “On strewing the sacred grass, and bringing the stones into contact (with the **Soma**), whereby ourwishes are accomplished, we solicit today the benevolent (**Ādityas**); abiding in the happiness of those Ādityas,you discharged, worshipper, your duties, we solicit the kindled fire for our welfare.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whereby our wishes areaccomplished: manmanas sādhe = liṭ, on the accomplishment of our wishes; or, an epithet of **yoga**, the bringinginto contact, which is the accomplisher (sādhake) of our wishes; you discharge your duties: bhuraṇyasi =kartavyāni karmāṇi bibharṣi, you practise the acts that are to be performed
 </details>

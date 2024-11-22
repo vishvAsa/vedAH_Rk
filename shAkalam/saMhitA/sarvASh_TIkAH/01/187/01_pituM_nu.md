@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुब्गर्भोष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nú ← nú (invariable)  
 {}
 
@@ -140,11 +143,13 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify Pitu, the great, the upholder, the strong, by whose invigorating power **Trita** slew themutilated **Vṛtra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Anna**-**devatā** = anna, the divinity presidingover food, or merely food;
 

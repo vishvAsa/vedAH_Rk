@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhartā́ ← dhartár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ vŕ̥thā ← vŕ̥thā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**) the sustainer (of all) flows from the firmament, the purifiable juice, the invigorator of the gods, worthy tobe praised by the priests; green-tinted like a horse let loose by the charioteers he easily restores his vigour in the waters.”
 </details>

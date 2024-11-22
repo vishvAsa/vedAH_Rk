@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adanti ← √ad- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -199,11 +202,13 @@ pitā́ ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Afflictions consume me, your worshipper **Śatakratu**, as mice (eat) threads, for once, **Indra**, possessorof opulence, grant us felicity; be to us as a father.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As mice eat threads: threads that have been washed
 </details>

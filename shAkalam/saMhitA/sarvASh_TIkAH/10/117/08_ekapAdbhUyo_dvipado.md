@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhū́yaḥ ← bhū́yaṁs- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -169,11 +172,13 @@ upatíṣṭhamānaḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who has but one foot takes a longer time on a journey than he who has two; he who has two feetcomes after him who has three; he who has four feet comes up overtaking the two-footed (and three-footed),beholding their traces as he passes by.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Foot: a metaphor, for portion or wealth. The man who has four times theriches of another should be four times as liberal
 </details>

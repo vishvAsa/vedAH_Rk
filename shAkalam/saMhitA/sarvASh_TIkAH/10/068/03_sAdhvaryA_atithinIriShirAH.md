@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 atithínīḥ ← atithín- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -168,11 +171,13 @@ yávam ← yáva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati** brings unto (the gods), after extricating them from the mountains, the cows that are theyielders of pure (milk), ever in motion, the objects of search and of desire, well-coloured and of unexceptionableform, (as men bring) barley from the granaries.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The cows: gāḥ = the rain water;
 

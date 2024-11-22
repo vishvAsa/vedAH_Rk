@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -201,11 +204,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni** inflict (evil) upon the evil-doer, who commits offence, or wickedness against us; destroy, sagacious Agni, the calumniator who injures us in these two ways.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The calumniator: abhiśastim etam = this calumny; the antecent of yaḥ, he who, is in the masculine, hence abhiśastri = accusative er or calumniator is identified; in these two ways: offence, **āgas** or **aparādha**, and sin or wretchedness, enas or **pāpa**
 </details>

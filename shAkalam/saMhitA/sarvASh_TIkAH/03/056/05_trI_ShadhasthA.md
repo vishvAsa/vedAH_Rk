@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavīnā́m ← kaví- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -183,11 +186,13 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Rivers, the dwelling-plural ces of the intelligent gods are thrice three; the measurer of the three (worlds) is the sovereign at sacrifices; three feminine le (divinities) of the waters charged with the rains descend from heaven at the thrice (repeated) solemnity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Each of the three **lokas** has three divisions; this information is addressed to the river, **Sindhavaḥ** being in the vocative case; the measurer of the **three worlds**: the sun or the year; three feminine le divinities: iḷā, **sarasvatī** and **bhāratī**
 </details>

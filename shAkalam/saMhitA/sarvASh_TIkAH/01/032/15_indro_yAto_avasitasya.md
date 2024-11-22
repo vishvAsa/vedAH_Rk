@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávasitasya ← √sā- ~ si- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
 
@@ -205,7 +208,8 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then **Indra**, the wilder of the thunderbolt, became the sovereign of all that is moveable or immoveable, of hornless and horned cattle; and as he abides the monarch of men, he comprehended all things (within him), as the circumference comprehends the spokes of a wheel.”
 </details>

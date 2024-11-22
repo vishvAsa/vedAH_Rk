@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámyak ← √myakṣ- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -202,7 +205,8 @@ práyāṁsi ← práyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your weapon, **Indra**, is at **hand** for our (good); the **Maruts** send down the long-accusative ulated rain; **Agni** is blazing for the ceremony; the oblations encompass him as the waters (surround) an island.”
 </details>

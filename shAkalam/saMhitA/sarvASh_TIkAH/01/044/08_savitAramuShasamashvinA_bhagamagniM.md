@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -153,11 +156,13 @@ svadhvara ← svadhvará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Object of holy rites, (bring hither) on the dawn following the night, **Savitā**, Uṣas and **Aśvins**, **Bhaga** and **Agni**; the **Kaṇvas** pouring out libations, kindle the water of the burnt offering.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svadhvara, from su (good) and **adhvara** (sacrifice), hence equated with the **āhavanīya** fire
 </details>

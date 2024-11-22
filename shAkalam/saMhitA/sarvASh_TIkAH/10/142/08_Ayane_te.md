@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 ā́yane ← ā́yana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -136,7 +139,8 @@ samudrásya ← samudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Both at your arrival, **Agni**, and at your departure, may the flowering **dūrva** grasses spring up; maylakes (be formed) and lotuses (therein); may these be the dwellings of the ocean.”
 </details>

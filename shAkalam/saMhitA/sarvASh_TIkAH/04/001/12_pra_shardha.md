@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ārta ← √r̥- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -174,7 +177,8 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Radiance has first proceeded to you, (**Agni**), who are glorified by praise, in the womb of the water, in the nest of the rain-cloud; the seven attached (priests) have engendered (praise) to the showerer (of benefits), who desirable, ever young, embodied, and resplendent.”
 </details>

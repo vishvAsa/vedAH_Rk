@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -172,11 +175,13 @@ huvema ← √hū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the first-born immortals (by his command) bestow upon us the food that is necessary for existence;let us invoke the unresisted **Bṛhaspati**, to whom pure praises are addressed, he adored of householder.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thefirst-born: born of yore, **purā** **jātaḥ**, purājā; the adored: pastyānām yajatam = the adorable of houses, i.e.by metonymy householders
 </details>

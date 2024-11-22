@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átithiḥ ← átithi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ bhójanāni ← bhójana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Proppitiated, lowly-minded, a guest in the dwelling, come, you who are wise, to this our sacrifice; having destroyed **Agni**, all our adversaries, bring off the possessions of those who bear us enmity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Guest: atithirabhyatito gṛhān **bhavati** (**Nirukta** 4.5)
 </details>

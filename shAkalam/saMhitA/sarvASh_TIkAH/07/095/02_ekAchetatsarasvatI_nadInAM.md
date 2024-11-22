@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 acetat ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -174,11 +177,13 @@ páyaḥ ← páyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sarasvatī**, chief and pure of rivers, flowing from the mountains to the ocean, understood the request ofNahuṣa, and distributing riches among the many existing beings, milked for him butter and water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Milked for him:the legend is that king **Nahuṣa**, before performing a sacrifice for a thousand years, prayed to Sarasvatī, whogave him butter and water, or milk, sufficient for that period
 </details>

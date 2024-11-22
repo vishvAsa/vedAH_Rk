@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -201,7 +204,8 @@ saṁyátaḥ ← saṁyát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mornings and evenings, **Agni**, are desirous (of worshipping) you, as cows in their stalls long for their calves; adored of many, you, self-controlled, are verily spread through the sky; you (are present at all) the sacred rites of men, and shine brightly by night.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -208,7 +211,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Irreproachable **Agni**, a vigilant god amongst the gods, (abiding) in the proximity of (your) parents, and bestowing upon us embodied
 (progeny), aweke us. Be well disposed to the offerer of the oblation; for you, auspicious Agni, grant all riches.”

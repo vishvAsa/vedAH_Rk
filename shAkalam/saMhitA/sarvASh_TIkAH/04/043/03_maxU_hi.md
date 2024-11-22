@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyū́n ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -183,11 +186,13 @@ káyā ← ká- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Moving, you proceed rapidly by day, as **Indra**, at the end of the night, (manifests his) power; descended from heaven, divine, of graceful motion, (**Aśvins**), by which of (your) acts are you most distinguished?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Kayā** śacinām bhavathaḥ śaciṣṭhā = śacīnām yuṣmat saṃbandhinām karmaṇām śaktinām vā, acts or energies connected with you
 </details>

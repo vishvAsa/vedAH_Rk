@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyā́ ← anyá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -216,7 +219,8 @@ sú ← sú (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such exploits as his worshippers, when the **Soma** is effused, proclaim that he has achieved, let himnow perform; may **Indra**, equal (to the task) and unaided, possess all the riches (of the **asuras**) as a husband hiswives.”
 </details>

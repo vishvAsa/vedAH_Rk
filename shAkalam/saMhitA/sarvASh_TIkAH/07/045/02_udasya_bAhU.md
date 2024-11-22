@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ sū́raḥ ← sū́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the outspread, vast, and golden arms of **Savitā** extend to the ends of the sky; verily his greatnessis glorified (by us); may the sun impart energy unto him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Suraścid **asmā** anudād apasyām = sūryo asminsavitre karmecchām anudadātu, may **Sūrya** subsequently give to that Savitā the desire for acts.
 </details>

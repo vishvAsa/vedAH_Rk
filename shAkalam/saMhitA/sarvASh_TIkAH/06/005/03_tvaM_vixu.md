@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āsú ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -175,7 +178,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, abide from of old in these people, and by your deeds have been (to them) the conveyer of good things; thence, sage **jātavedas**, you bestow continually wealth upon the sacrificer.”
 </details>

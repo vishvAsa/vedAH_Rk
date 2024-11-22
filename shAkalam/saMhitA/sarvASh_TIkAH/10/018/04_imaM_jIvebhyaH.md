@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dadhāmi ← √dhā- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -190,11 +193,13 @@ párvatena ← párvata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I erect this circle (of stones) for (the protection of) the living, that none other of them may approach thislimit; may they live a hundred years, occupied by many holy works, and keep death hidden by this mound.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I erectthis circle of stones: after the burning of the body, the **Adhvaryu** is to raise a bank or lump or earth betwen thevillage where the deceased lived and the cemetery, as a rampart against death (**Mahīdhara**, **Yajus**. 35.15);
 

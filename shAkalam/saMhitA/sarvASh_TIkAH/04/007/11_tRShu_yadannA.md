@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánnā ← ánna- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -193,7 +196,8 @@ vājayate ← √vājay- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When quickly, with rapid (radiance), he has carried off his food, the mighty **Agni** makes (himself) the fleet messenger (of the worshipper); consuming (the fuel), he allies himself with the force of the wind, and as (a horseman) urges his fast steed, so the rapid going Agni, invigorates and urges (his flames).”
 </details>

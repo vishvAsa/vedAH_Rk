@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mātaríśvā ← mātaríśvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -180,7 +183,8 @@ draviṇodā́m ← draviṇodā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni**, the dweller in the firmament, the nourisher with abundant benefits, the bestower of **svarga**, the protector of mankind, the progenitor of heaven and earth, instrumental uct my sons in the right way; the gods retain Agni as the giver of (sacrificial) wealth.”
 </details>

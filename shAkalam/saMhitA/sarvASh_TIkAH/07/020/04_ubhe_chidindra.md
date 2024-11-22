@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -183,7 +186,8 @@ vaí ← vaí (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Opulent **Indra**, you have filled both heaven and earth with your magnitutde, your energies; Indra, thelord of horses, brandishing the thunderbolt, is gratified at sacrifices by the (sacrificial) food.”
 </details>

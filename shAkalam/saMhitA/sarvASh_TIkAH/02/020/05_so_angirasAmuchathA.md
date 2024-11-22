@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirasām ← áṅgiras- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -175,7 +178,8 @@ pūrvyā́ṇi ← pūrvyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Propitiated by the hymns of the **Aṅgirasas**, **Indra** granted their prayer, and directed them on the way (to recover their cattle); carrying off the dawns by the (light of the) sun, he, animated by praise, demolished the ancient cities of Aśna.”
 </details>

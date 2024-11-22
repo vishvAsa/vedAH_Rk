@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āraik ← √ric- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -203,11 +206,13 @@ sukŕ̥toḥ ← sukŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(A son) born of the body, does not transfer (paternal) wealth to a sister; he has made (her) the recptacle of the embryo of the husband; if the parents procreate children (of either sex), one is the performer of holy acts, the other is to be enriched (with gifts).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Born of the body: **tānvaḥ** = tanujaḥ na jāmaye riktham āraik, if there be a son the inheritance does not go to the sister, jāmaye, bhaginyai; he has made her the receptacle: and by so doing he makes her sanskṛta-- he secures for her one of the essential purificatory rites; if the parents procreate children: yadi mātaro janayanti vahnim: **vahni** = offspring, or **male** offspring, a son;
 

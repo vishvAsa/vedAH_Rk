@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádarśi ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -168,7 +171,8 @@ nakṣanta ← √nakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, in whom they offer the sacrifices, has appeared-- he who knows all ways; our praises rise to **Agni**,auspiciously born, the helpeer of the **Ārya**.”
 </details>

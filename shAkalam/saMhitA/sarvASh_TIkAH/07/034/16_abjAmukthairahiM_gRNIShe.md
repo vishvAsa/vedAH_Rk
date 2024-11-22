@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 abjā́m ← abjā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -108,11 +111,13 @@ sī́dan ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify with hymns the disperser of the clouds in the firmament; the water-born, sitting among thewaters of the rivers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Disperser of the clouds: ahim gṛṇīse budhne, dividing two words usually put together:**ahirbudhna**: māghānāmāhantāram, the firmament, or the region in which the waters of rains are bound orretained, **baddhā** asmin **dhṛtā** āpa **viti** vyutpatteḥ (**Nirukta**. 10.44); in the next ṛca the words are united as aname of **Agni**
 </details>

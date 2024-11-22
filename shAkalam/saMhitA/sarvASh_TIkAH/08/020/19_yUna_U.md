@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 náviṣṭhayā ← náviṣṭha- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -141,11 +144,13 @@ iva ← iva (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise, Sobhari, (and attract here) by a new song the youthful purifying showerers, as (a plural ughman)repeatedly drags his oxen.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As a plural ughma: "as a plural ughman repeatedly drawing the furrows (praises oraddressed) of his oxen"
 </details>

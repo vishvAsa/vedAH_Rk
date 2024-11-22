@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -179,11 +182,13 @@ vasūyúm ← vasūyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke, **Aśvins**, today, your rapid car, the associator of the solar ray; the banked car which bears **Sūrya**, vast, wealthy, and laden with praises.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Associator of the solar ray: saṅgatim goḥ = goḥ saṅgamayitāram, the bringer into union, or associator of Go; the basis is the connection of the Aśvins with light, or the sun
 </details>

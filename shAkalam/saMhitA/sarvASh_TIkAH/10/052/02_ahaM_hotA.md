@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -203,11 +206,13 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Best entitled to the sacrifice, I have sat down as the **Hotā**; all the divine **Maruts** urge me( to bear theoblation); the office of the **Adhvaryu** is to be discharged daily, **Aśvins**, by you; let the moon be the **brahman**, andlet it be also your oblation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The moon: samidh = fuel; or, the moon, identical with **Soma**, which is the oblation;three chief priests are present: **agni** is the hotā, aśvins the adhvaryu, and soma the **brahmā**
 </details>

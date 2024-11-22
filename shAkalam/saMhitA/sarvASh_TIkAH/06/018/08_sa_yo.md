@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́t ← √bhū- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -210,7 +213,8 @@ purā́m ← púr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is never perplexed, who is no engenderer of that which is in vain, whose name is renowned, who promptly (exerts himself) for the overturning of the cities (of the **asuras**), and for the destruction (of his foes); you, (**Indra**), have indeed slain Cumuri, **Dhuni**, Pipru, **Śambara**, and **Śuṣṇa**.”
 </details>

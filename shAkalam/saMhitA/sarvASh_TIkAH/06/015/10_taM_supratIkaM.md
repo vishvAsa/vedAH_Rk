@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sudŕ̥śam ← sudŕ̥ś- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vocat ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We of little wisdom adore the most wise **Agni**, the well-formed, the well-looking the graceful-moving; may Agni, who knows all things that are to be known offer the sacrifice; may he announce the oblation to the immortals.”
 </details>

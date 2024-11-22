@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́riretasā ← bhū́riretas- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -187,7 +190,8 @@ víṣṇuḥ ← víṣṇu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They the heaven and earth, abounding with waters, the Narāśaṃsa rite with its four fires, **Yama**,**Aditi**, the divine **Tvaṣṭā**, (**Agni**) the giver of wealth, the **Ṛbhus**, **Rodasī**, the **Maruts**, and **Viṣṇu** areworshipped (by us).”
 </details>

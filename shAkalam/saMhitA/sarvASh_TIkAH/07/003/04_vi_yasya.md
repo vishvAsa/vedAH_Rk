@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśret ← √śri- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -205,11 +208,13 @@ yávam ← yáva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The light of whom quickly spreads over the earth when with his teeth (of flame) he devours his food;your blaze rushes along like a charging host, when **Agni**, of goodly aspect, you spread with your flame (amongthe trees) as if (they were) barley.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You spread with your flame: yavam na dasma juhvā = darśanīyāgnertvam yavam iva jvālayā kāṣṭhādīni bhakṣayasi, when you eat wood and other things like barley, withflame
 </details>

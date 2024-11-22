@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 jāráḥ ← jārá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -109,11 +112,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[9-10\] May **Agni**, who is possessed of manifold light, like the extinguisher of the dawn, the granter of dwellings, and of cognizable form, consider (the desires of) this, (his worshipper); (his rays), spontaneously bearing the oblation, open the doors (of the sacrificial chamber), and all spread through the visible heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Uṣo na **jāraḥ**: extinguisher of the dawn, is explained by jarayitrī, the causer of decay. The dawn is obliterated by the superior radiance of the sun
 </details>

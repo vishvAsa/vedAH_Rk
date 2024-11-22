@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.;; repeated line  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.;; repeated line
-#### Morph
+_________
+**Morph**  
 brahmā́ ← brahmán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -125,11 +128,13 @@ mahī́bhiḥ ← máh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** is **Brahmā**, Indra is the ṛṣi; Indra is the much-invoked of many, mighty with mighty deeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Indrais Brahmā: indro brhmā parivṛḍaḥ sarvebhyodhikaḥ, the augmented or vast, more or greater than all;
 

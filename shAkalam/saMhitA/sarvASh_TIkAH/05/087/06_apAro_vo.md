@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apāráḥ ← apārá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -211,7 +214,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Possessor of vast strength, may your unbounded greatness, your brilliant vigour, protect Evayāmarut; for you are the regulators for overseeing (what is fit for) the limits of the sacrifice; preserve us from those who revile us, you, who are like blazing fires.”
 </details>

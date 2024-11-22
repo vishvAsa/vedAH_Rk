@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 subhágāsaḥ ← subhága- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -166,7 +169,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, **Varuṇa**, deeply meditating on you, earnestly praising you, and (engaged) in your worship, be prosperous; glorifying you daily, like the fires (that are kindled in your honour) at the coming of the luminous dawns.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhrigum ← ádhrigu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those protections with which you have defended **Paktha**, **Adhrigu**, and **Babhru**, when propitiatingyou, come to us, **Aśvins**, quickly; administer **medicine** to the sick.”
 </details>

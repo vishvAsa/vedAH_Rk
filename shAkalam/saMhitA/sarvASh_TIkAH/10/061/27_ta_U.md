@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 maháḥ ← máh- (nominal stem)  
 {case:NOM, number:PL}
 
@@ -187,11 +190,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable divinities, be consentient for our great preservation, both you who, going in variousdirections, are the bringers of food, and you who, being no longer perplexed, are the discoverers (of the cattle).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Adorable divinities: **Aṅgirasas**; being no longer perplexed: i.e., by the sixth day's ceremonials whichNābhānediṣṭha had enabled them to complete
 </details>

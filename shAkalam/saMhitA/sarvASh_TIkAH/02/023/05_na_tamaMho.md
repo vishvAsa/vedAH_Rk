@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁhaḥ ← áṁhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -209,7 +212,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The man whom you, **Brahmaṇaspati**, a kind protector, defend, neither sorrow nor sin, nor adversaries nor dissemblers ever harm, for you drive away from him all injurious (things).”
 </details>

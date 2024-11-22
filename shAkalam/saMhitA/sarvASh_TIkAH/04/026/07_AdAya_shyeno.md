@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abharat ← √bhr̥- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -183,7 +186,8 @@ sómasya ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having taken it, the hawk brought the **Soma** with him to a thousand and ten thousand sacrifices, and this being provided, the performer of many (great) deeds, the unbewildered (**Indra**) destroyed, in the exhilaration of the Soma, (his) bewildered foes.”
 </details>

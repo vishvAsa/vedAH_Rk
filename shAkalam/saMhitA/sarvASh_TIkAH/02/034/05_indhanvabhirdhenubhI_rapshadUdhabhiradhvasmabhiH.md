@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenúbhiḥ ← dhenú- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -169,7 +172,8 @@ samanyavaḥ ← sámanyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, who are of one mind, and are armed with shining lances, come with the bright, full-uddered kine, by obstructed paths, to partake of the exhilaration of the (**Soma**) juice, as swans (fly) to their nests.”
 </details>

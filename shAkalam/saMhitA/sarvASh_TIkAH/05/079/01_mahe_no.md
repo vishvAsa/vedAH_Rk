@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -165,11 +168,13 @@ sújāte ← sujātá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Radiant Uṣas, wake up today for (the acquisition of) ample riches, in like manner as you have awakened us (of old); bright-born, and praised sincerely for (the gift of) horses, show favour to **satyaśravas**, the son of **Vayya**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The concluding phrase is the refrain of the following verses: sujāte aśvasūnṛte: **sujātā**, well-born = śobhanaprādur **bhūta**, becoming manifest with splendour or light; aśvasunṛta, she whose praise for the sake of horses is affectionate and true, **svartha** priyasatyātmika stutivāk yasyāḥ sa
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nāsatyā ← nā́satya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -190,7 +193,8 @@ syuḥ ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Purupanthā, **Nāsatyās**, grant to him who praises you, hundreds and thousands of horses; may he give them, heroes, to **Bharadvāja**; achievers of great deeds, may the **rākṣasas** be slain.”
 </details>

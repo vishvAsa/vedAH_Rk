@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 girā́ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -128,7 +131,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you; that (**Agni**) whom **Gotama**, desirous of riches, worships with praise, we offer adoration with commendatory (hymns).”
 </details>

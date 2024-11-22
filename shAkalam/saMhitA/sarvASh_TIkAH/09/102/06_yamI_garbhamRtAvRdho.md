@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 gárbham ← gárbha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -134,7 +137,8 @@ puruspŕ̥ham ← puruspŕ̥h- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The germ which the augmenters of the rite brought forth at the sacrifice lovely to look upon intelligent, most adorable, desired by many.”
 </details>

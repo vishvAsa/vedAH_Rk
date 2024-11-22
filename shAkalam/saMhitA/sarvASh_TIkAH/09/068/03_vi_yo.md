@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádaḥ ← máda- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ pā́jaḥ ← pā́jas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The exhilarating (**Soma**) who constructed the twin united (heaven and earth) does by means of his juice maintain them growing together, imperishable; he has distinguished these two great unbounded worlds, wandering everywhere, he has assumed imperishable strength.”
 </details>

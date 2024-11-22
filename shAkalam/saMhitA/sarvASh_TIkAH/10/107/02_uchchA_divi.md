@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -191,7 +194,8 @@ vāsodā́ḥ ← vāsodā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Saramā**). I come, the appointed messenger of **Indra**, desiring, **Paṇis**, your great hidden treasures;through fear of being crossed the (water) helped us, thus I passed over the waters of the **Rasā**.”
 </details>

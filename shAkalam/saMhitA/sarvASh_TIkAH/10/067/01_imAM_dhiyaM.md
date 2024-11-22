@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhíyam ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -178,11 +181,13 @@ ukthám ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This great seven-headed ceremony, born of truth our father (**Aṅgirasa**) discovered; **Ayāsya**, thefrined of all races, engendered the fourth (genitive ration), reciting a hymn to **Indra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: Ṛṣi Aṅgirasa had ason named **Bṛhaspati**, who became the **purohita** of Indra, for the instrumental uction of the gods. His cows were stolen bythe **Paṇis**, and taken to **Vala**'s city, and hidden in three plural ces. Indra urged Bṛhaspati to go with the **Maruts** andlook for them. Bṛhaspati begot the sun to light up the cave where the cows were hidden (events referred to inthis **sūkta**). Bṛhaspati took away the cows after kiling the demon Vala and the Paṇis who chased him;seven-headed ceremony: i.e., accompanied by seven bands of the Maruts, or having seven metres;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákravihastā ← ákravihasta- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -176,11 +179,13 @@ sahásrasthūṇam ← sahásrasthūṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be open-handed and benignant to the performer of pious acts, whom you protect in the midst of the plural ce of sacrifice; for you two, who are soverigns, and free from wrath, uphold together a mansion of a thousand columns.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kṣatram sahasrasthūṇam = anekāvaṣṭambhaka stambhopetam saudhādi rūpam gṛham, house, such as a palace and the like, possessing many supporting pillars;
 

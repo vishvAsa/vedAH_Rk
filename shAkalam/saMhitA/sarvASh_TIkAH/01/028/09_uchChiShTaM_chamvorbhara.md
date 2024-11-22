@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhara ← √bhr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -140,11 +143,13 @@ tvací ← tvác- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring the remains of the **Soma** juice upon the plural tters, sprinkle it upon the blades of **kuśa** grass and plural ce the reminder upon the cow-hide.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The hymn is to **Hariścandra**, a ministering priest or a divinity so named. The remains contained in **pātra** or plural tters are to be plural ced upon a cart (śakaṭasya upari) and having brought it away, cast it upon the **pavitra** (two or three blades of kuśa grass serving as a kind of filter). Or, through a strainer made of goat's hair (**tvaci**)
 </details>

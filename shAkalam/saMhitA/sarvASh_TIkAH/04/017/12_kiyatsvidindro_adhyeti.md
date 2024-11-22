@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -205,11 +208,13 @@ vā́taḥ ← vā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Some portion (of his strength) **Indra** derives from his mother, some portion from his father; he who, though his progenitor, has begotten (the world), and animates its vigour repeatedly, as the wind is driven by thundering clouds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His progenitor: **Prajāpati**; as the wind is driven by thundering clouds: The simile is applied to Indra: as the wind is impelled by thunder-clouds, so Indra is influenced by the hymns of the worshippers
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -215,11 +218,13 @@ pū́rvam ← pū́rva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who may (adequately) praise him? Who may satisfy him? Who offer worthy adoration? Since Maghava is daily conscious of his own terrible (power); by his acts he makes first one and then the other precede and follow, as (a man) throws out his feet (alternately in walking).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Make first one and then: that is, **Indra**, at his plural asure, makes the first of his worshippers the last, and the last the first
 </details>

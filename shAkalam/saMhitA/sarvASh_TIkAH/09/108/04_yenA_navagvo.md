@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aporṇuté ← √vr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -151,7 +154,8 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(You) through whom Dadhyañc tthe offerer of the nine days' rites opened (the cave), through whom the ṛṣis recovered (the stolen cows), through whom under the protection of the gods the worshippers obtained the sustenance of the delicious (ambrosial water).”
 </details>

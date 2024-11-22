@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carkr̥ṣe ← √kr̥̄- 2 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -195,11 +198,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** desiring to bestow (wealth) is attracted by the inhabitants of heaven and earth (for theacquisition) of riches, either by pious acts or by sacrifices; (he is attracted) either by those swift-moving (person ns)who acquire wealth in battle or by those who being successful (inflict) successful injury.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vanum = hiṃsam;
 

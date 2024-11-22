@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhvanyàsya ← dhvanyà- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ vrajám ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or may the bright and active steeds bestowed upon me by **dhvanya**, the son of **Lakṣmaṇa** (bear me); the riches endowed with greatness, that have been presented, have passed (to the dwellings) of the Ṛṣi **Saṃvaraṇa**, like cows to their stallṣ”
 </details>

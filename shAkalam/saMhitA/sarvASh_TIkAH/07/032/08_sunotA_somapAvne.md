@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 somapā́vne ← somapā́van- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -163,7 +166,8 @@ pr̥ṇaté ← √pr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pour out the libation to **Indra**, the thunderer, the drinker of the **Soma**; prepare the baked (cakes) tosatisfy him; do (what is agreeable to him), for he bestows happiness on (the worshipper) who plural ases them.”
 </details>

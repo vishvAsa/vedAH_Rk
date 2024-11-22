@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -180,11 +183,13 @@ hótrā ← hótrā- 2 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May there be to us, **Indra** and **Varuṇa**, such wealth (as we covet); may there be, **Maruts**, to us wealth( of cattle) and numerous descendants; may the delightful (wives of the gods) shelter us with dwellings; may **Hotā** and **Bhāratī** (enrich) us with gifts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wives of the gods: the text has only varutrīḥ; this is explained as sarvaiḥ sambhajanīya, devapatnayaḥ, to be admired by all; the wives of the gods
 </details>

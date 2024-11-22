@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -142,11 +145,13 @@ maṁsīṣṭhā́ḥ ← √man- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your inebriety is most intense; nevertheless, your acts (for our good) are most beneficent. You desire, bountiful giver of horses, that (both your inebriety and your beneficence should be the means of) destroying enemies and distributing riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your inebriety and your beneficence: the epithets are dual and refer to the **mada**, intoxication; and **kratu**, the acts of **Indra**
 </details>

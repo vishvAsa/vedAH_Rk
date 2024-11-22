@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dr̥śé ← √dr̥ś- (root)  
 {case:DAT, number:SG}
 
@@ -199,11 +202,13 @@ vibhātī́ ← √bhā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily she, the wide-expanded Uṣā, neglects not (to give) the joy of sight to those of her own or of a different nature; visible in her faultless person n, and brightly shining, she passes not by the littleror the great.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ajāmim na parivṛṇakti jāmim: **jāmi** = sajātīya, of the same species, i.e. of divine beings, the gods;
 

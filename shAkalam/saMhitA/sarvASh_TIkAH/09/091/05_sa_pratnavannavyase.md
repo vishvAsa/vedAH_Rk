@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 návyase ← návyas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -195,11 +198,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable (**Soma**), do you as of old grant the ancient paths to your new worshipper; doer of many acts, utterer of many sounds, may we obtain those (portions) of you which are difficult to defeat, inflicting injury (on foes) and mighty.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Adorable: viśvavāra, who is worthy to be chosen by all
 </details>

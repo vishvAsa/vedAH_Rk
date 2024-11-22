@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhī́raḥ ← dhī́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ yújam ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, who are wise, punish the guilt (of worshippers); you cut off their sins as a sword (cuts off)the limbs (of victims); (you cut off) the people who (ignorantly) injure the supporting (function) of **Mitra**, andVaruṇa, (which is) as it were their close friend.”
 </details>

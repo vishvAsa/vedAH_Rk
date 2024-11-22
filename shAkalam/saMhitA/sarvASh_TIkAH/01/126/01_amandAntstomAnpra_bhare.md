@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámandān ← ámanda- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -177,11 +180,13 @@ rā́jā ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I repeat with a (willing) mind, the unreluctant praises of **Bhavya**, dwellingon th ebanks of the **Sindhu**; a prince of unequalled (might), desirous of renown, who has enabled me to celebrate a thousand sacrifices.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Bhāvya** = **Svanaya**, his son; sindhu **adhi** = upon the Sindhu, either the river Sindhu or the sea-shore
 </details>

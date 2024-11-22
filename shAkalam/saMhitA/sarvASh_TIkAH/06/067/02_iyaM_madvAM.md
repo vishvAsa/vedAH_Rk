@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iyám ← ayám (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -193,7 +196,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This my praise is addressed to you both, and proceeds to you beloved (deities) together with the oblation; the sacred grass is spread before you; grant us, **Mitra** and **Varuṇa** an unassailable dwelling, that through your favour, munificent divinities, may be a (secure) shelter.”
 </details>

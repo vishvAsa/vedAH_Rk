@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dī́dhitī ← dī́dhiti- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -182,7 +185,8 @@ mayobhúḥ ← mayobhú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May our most animating praise, together with our offerings, successfully attain **Varuṇa**, **Mitra**, **Bhaga** and **Aditi**; may the ministrant of the five (vital airs, **Vāyu**), the dweller in the dappled (firmament), he whose path is unimpeded, who is the giver of life, the bestower of happiness, hear.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 śalmalím ← śalmalí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ vahatúm ← vahatú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ascend, **Sūrya**, the chariot made of good **kiṃśuka** wood and of **śalmali**, multiform, decorated withgold, well-covered, well-wheeled, prepare the happy world of the immortals, your marriage procession to yourhusband.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ṛca is recited when the bride goes to the house of the husband. amṛtasya lokam = the world ofimmortality; or, the abode of the **Soma**, the object of aroha, ascend
 </details>

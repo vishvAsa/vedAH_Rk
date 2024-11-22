@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrāte ← √kr̥- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -106,7 +109,8 @@ sarpírāsutī ← sarpírāsuti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Two of like beauty and of royal rank (**Mitra** and **Varuṇa**), worshipped with oblations of clarified butter,have taken their seat in heaven.”
 </details>

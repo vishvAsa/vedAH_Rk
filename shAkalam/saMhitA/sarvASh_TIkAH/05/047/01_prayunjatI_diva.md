@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bruvāṇā́ ← √brū- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
 
@@ -160,11 +163,13 @@ sádane ← sádana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Arousing (men to their labours), the adorable (Dawn) comes from the heaven, a mighty mother, the awakener of her daughter (earth); pious, ever young, and glorified (she comes), when invoked, to the chamber of sacrifice with the protcting (gods0.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Awakener of her daughter: duhitur bodhayantī = bhūmyā bodham kurvāṇā, making or awaking of the daughter, of the earth; uṣas is called divor duhitā bhuvanasya patnī, the daughter of heaven, the bride of earth; genitive rally, she is designated the daughter of heaven
 </details>

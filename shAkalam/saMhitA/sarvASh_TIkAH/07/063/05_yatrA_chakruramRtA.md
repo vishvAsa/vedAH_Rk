@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tāḥ ← amŕ̥ta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -197,7 +200,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He travels the path which the immortals have prepared for his course, darting along like a hawk; weworship you, **Mitra** and **Varuṇa**, when the sun has risen, with praises and oblations.”
 </details>

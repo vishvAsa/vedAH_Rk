@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -143,11 +146,13 @@ siñcāt ← √sic- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When verily you arrive, **Aśvins**, the ṛṣi understands with excellent (comprehension) the praise (to beaddressed to you); he will sprinkle the sweet- flavoured **Soma** and the **gharma** (oblation) on **Atharvan** fire.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gharma: gharmam siñcād aharvaṇi, in the innoxious fire ahiṃsake agnau; or, in the fire kindled by the ṛṣiAtharvan: tvām atharvo niramanthata: cf. RV. 6.016.13
 </details>

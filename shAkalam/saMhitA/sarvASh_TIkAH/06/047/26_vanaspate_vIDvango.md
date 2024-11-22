@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bhūyā́ḥ ← √bhū- (root)  
 {number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
 
@@ -176,11 +179,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Chariot made of the) forest lord, be strong of fabric; be our friend; be our protector, and be manned by warriors; you are wrapped with cow-hides; keep us steady; and may he who rides in you be victorious over conquered (foes).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be manned by warriors: suvīro **bhava** = śūrabhaṭt.aiḥ putrādibhir vā **yuktaḥ**, joined with warriors, or with sons and the rest; you are wrapped with cow-hides: **gobhiḥ** sannaddhosi = you are bound together by cow; govikāraiḥ, by what are formed from cattle; in the next ṛca, gobhirāvṛtam = carmabhiḥ parita aveṣṭitam, encompassed round with hides, as if the exterior of the war-chariot especially were so strengthened; or, encompassed with rays of light, or with splendours, gobhiḥ, tejobhiḥ
 </details>

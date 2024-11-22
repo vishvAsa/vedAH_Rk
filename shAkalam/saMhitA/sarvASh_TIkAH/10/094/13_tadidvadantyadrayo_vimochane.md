@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádrayaḥ ← ádri- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -192,7 +195,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The stones proclaim it with their clamour at the issue of the **Soma**, like the quick-protecting (chariots)on the road; like cultivators sowing the seed, they, devouring the Soma, mix it, and do not hurt it.”
 </details>

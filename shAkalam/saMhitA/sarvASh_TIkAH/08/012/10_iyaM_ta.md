@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 iyám ← ayám (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -124,11 +127,13 @@ mímīte ← √mā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This new praise, suited to the season, approaches, (**Indra**), to you; offering adoration and greatlydelighting (you), it verily proclaims the measure (of your merits).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Suited to the season: or, connected withsacrifice, ṛtviyāvatī; it verily proclaims the measure: mimīta it: verily measures; indra gatān guṇānparicchinatti, it, the praise, discriminates the good properties attached to Indra, māhātmyam prakhyāpayati, itmakes known his greatness.
 </details>

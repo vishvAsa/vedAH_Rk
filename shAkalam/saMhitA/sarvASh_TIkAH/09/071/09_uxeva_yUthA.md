@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic, Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arāvīt ← √rū- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -188,11 +191,13 @@ sómaḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like a bull approaching the herbs (**Soma**) roars (as he approaches the praises); he appropriates the lustre of the sun; celestial, flying gracefully he looks down upon the earth; by his wisdom Soma contemplates mankind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Flying gracefully: **suparṇaḥ** = a hawk; supatanaḥ, going gracefully, because it is carried off by **gāyatrī** in the shape of a hawk
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāyata ← √janⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -181,7 +184,8 @@ vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is first engendered in the habitation (of the sacrificers); then upon his station, (the altar), the base of the vast firmament; without feet, without head, concealing his extremities, combining with smoke in the nest of the rain-cloud.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -201,7 +204,8 @@ vŕ̥kāya ← vŕ̥ka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant, son of strength, to men (who praise you), those abundant viands and excellent descendants, (that may contribute) to their prosperity; grant also that copious sustenance from cattle, which by your strength you take away from a churlish and malignant adversary.”
 </details>

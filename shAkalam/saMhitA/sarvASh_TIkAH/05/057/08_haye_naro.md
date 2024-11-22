@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hayé ← hayé (invariable)  
 {}
 
@@ -163,11 +166,13 @@ ukṣámāṇāḥ ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ho, **Maruts**, leaders (of rites), be propitious to us, you who are infinitely opulent, immortal, shedders of rain, renowned for truth, wise, young, greatly glorified, and worshipped with copious oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Bṛhat** ukṣāmāṇāḥ may also mean sprinkliing much water, udakam siñcantaḥ
 </details>

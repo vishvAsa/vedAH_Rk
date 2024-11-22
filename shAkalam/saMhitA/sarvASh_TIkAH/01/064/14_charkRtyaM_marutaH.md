@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 carkŕ̥tyam ← carkŕ̥tya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ tokám ← toká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, grant to your wealthy (worshippers a son), eminent for good works, invincible in battle, illustrious, the annihilator (of his adversaries), the seizer of wealth, the deserver of praise, and all-discerning; may we cherish such a son and such a grandson for a hundred winterṣ”
 </details>

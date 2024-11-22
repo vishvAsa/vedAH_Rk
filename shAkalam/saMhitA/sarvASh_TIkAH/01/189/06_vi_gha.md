@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gha ← gha (invariable)  
 {}
 
@@ -189,7 +192,8 @@ viṣpáṭ ← viṣpáś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, born for sacrifice, (a man) praising you, who are excellent, for (the sake of cherishing) his body, becomes such as you are; exempts himself from all who are inclined to harm or revile him; for you, Agni, are the especial adversary of those who do wrong.”
 </details>

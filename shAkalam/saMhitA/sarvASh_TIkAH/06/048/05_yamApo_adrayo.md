@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádrayaḥ ← ádri- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -160,11 +163,13 @@ sā́navi ← sā́nu- ~ snú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(You are he) whom the waters, the mountains, the woods, nourish as the embryo of sacrifice; who, churned with strength by the performers (of the rite), are genitive rated in the highest plural ce of the earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whom the waters: yam āpo adrayo **vanā** piprati: water prepared to mix with the **Soma**, the vasatīvarī, the stones for grinding the Soma, and the wood for attrition
 </details>

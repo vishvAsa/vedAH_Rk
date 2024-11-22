@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ándhāṁsi ← ándhas- 2 (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -157,7 +160,8 @@ tirás ← tirás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The exhilarating viands have been prepared for you; come quickly to partake of my oblation;disregarding the invocations of an adversary, listen to ours.”
 </details>

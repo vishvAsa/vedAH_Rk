@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 etā́vat ← etā́vant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -185,7 +188,8 @@ sújāte ← sujātá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, Uṣas, are able to give (us) whatever, indeed, (has been solicited), and much (that has not been asked for); for, radiant (divinity), who are dawning upon your adorers, you are never cruel (to them);bright-born goddess (who are) sincerely praised for (the gift of) horses.”
 </details>

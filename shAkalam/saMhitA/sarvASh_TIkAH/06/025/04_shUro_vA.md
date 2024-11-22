@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śárīraiḥ ← śárīra- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -193,7 +196,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The hero, (favoured by you), assuredly slays the (hostile) hero by his bodily prowess, when, both excelling in person nal strength, they strive together in conflict, or when, clamorous, they dispute for (the sake of) sons, of grandson, of cattle, of water, of land.”
 </details>

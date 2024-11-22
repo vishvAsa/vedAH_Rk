@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásti ← √as- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -206,11 +209,13 @@ svadhā́vān ← svadhā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Heaven and earth are insufficient for the girth of that **Indra**, who, with his greatness, rules over the leaders (of sacrifice); as the atmosphere encompasses the earth, so he encompasses (the **three worlds**), and, being the master of the rain, he upholds the sky as well as the firmament and the earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He upholds the sky: opaśam iva bibharti: opaśam = near to; may be appied to the earth and sky, as contiguous to heaven;
 

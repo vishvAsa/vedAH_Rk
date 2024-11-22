@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hátsumnaḥ ← br̥hátsumna- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ trivárūtham ← trivárūtha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that divine **Savitā**, who is the source of great happiness, the engenderer (of good works), the comprehender (of all beings), the regulator of both the moveable and the stationary, grant us happiness in the **three worlds**, and (be) to us for the destruction of sin.”
 </details>

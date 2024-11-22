@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhūtayaḥ ← dhū́ti- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -143,11 +146,13 @@ prayajyavaḥ ← práyajyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, agitators, especially to be adored, may your kind and true speech be our conductress; that plural asant (speech which is the guide) to desirable (wealth) for both gods and sacrificing mortals.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For semant. 'agitators' maṛti go.l = churning stick; maṛt- = to turn over (**Kota**); cf. sindhumathya = produced at the churning of the ocean (Skṭ)
 </details>

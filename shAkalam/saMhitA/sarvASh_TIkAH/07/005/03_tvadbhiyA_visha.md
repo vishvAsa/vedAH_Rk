@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásiknīḥ ← ásita- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -166,11 +169,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through fear of you, **Vaiśvānara**, the dark-complexioned races, although of many minds, arrived,abandoning their possessions, when, **Agni**, shining upon **Puru**, you have blazed, consuming the cities of his foe.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Puru: In RV. 1.67.3, Purave occurs as an epithet of **Sudāsa**, one who fills or satisfies with offerings.
 </details>

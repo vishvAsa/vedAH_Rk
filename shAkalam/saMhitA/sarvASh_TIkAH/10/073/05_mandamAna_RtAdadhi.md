@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -196,11 +199,13 @@ tamrā́ḥ ← tamrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** rejoicing at the sacrifice accompanied by hisswift-moving riends (the **Maruts**, gave) wealth to thepeople; he has come with them against the **Dasyu** to destroy his illusions; he has scattered the dark rain-cloudsand the gloom.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dark rain-clouds: tamrāḥ = causing to languish, i.e., by giving no rain; is this a plural y on the wordtāmra, copper?
 </details>

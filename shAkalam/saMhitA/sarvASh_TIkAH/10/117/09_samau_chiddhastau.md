@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -223,7 +226,8 @@ sántau ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The two **hands** are alike, but they do not perform the same work; two cows calving at the same timedo not yield the same milk; two twins have not the same strength; two person ns of the same family do not displayequal liberality.”
 </details>

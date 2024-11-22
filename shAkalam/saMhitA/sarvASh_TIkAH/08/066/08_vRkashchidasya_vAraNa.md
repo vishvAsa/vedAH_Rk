@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -193,11 +196,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The obstructing robber, the destroyer of travelling enemies, is obedient to him in hiw ways; hasten,**Indra**, (drawn) by our gorgeous rite, welcoming this our hymn.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Destroyer of travelling enemies: **vṛkas**' cidvāraṇa urāmathiḥ: from ur, to go; but, **Yāska** (**Nirukta** 5.21): the obstructing wolf, destroying the sheep; in hisways: vayuneṣu = **prajña**-neṣu, in his counsels
 </details>

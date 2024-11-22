@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -202,11 +205,13 @@ vācí ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the wise create Speech through wisdom winnowing (it) as (men winnow) barley with a sieve,then friends know friendship; good fortune is plural ced upon their word.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Friendship: sakhāyaḥ: sa, khya,samānakhyānā = stuṣe, who possess knowledge of the **śāstras**\]. it they dispersed it in many plural ces; the seven noisy (birds) meet together. \[Birds: the seven metres, gāyatrīetc.;
 

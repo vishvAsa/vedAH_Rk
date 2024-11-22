@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX
-#### Morph
+_________
+**Morph**  
 mánmabhiḥ ← mánman- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -173,7 +176,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They (the **Maruts**) are like **Brāhmaṇas** sanctified by pious praises, they are instrumental tutors of holy riteslike the propitiators of the gods by sacrifices; decked with various ornaments, and handsome like kings, devoid ofsin like men (who are the lords) of habitations.”
 </details>

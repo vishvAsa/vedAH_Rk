@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arkaíḥ ← arká- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -182,11 +185,13 @@ sámmiślaḥ ← sámmiśla- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Magnified by our oblations, propitiated by our praises, swift-moving, he proceeds to the presence ofthe gods; the adorable invoker of the deities, most entitled to worship, associated (with the gods). **Agni** presentsto them (the oblation) with the sacrificial ladle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sacrificial ladle: sammiślaḥ = svaguṇair devair vāsamprayuktaḥ
 </details>

@@ -21,13 +21,16 @@ ChandaH = "द्विपदा त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ādityaíḥ ← ādityá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -112,7 +115,8 @@ tanū́nām ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** with the **Ādityas**, and attended by the **Maruts**, be the protector of our bodies.”
 </details>

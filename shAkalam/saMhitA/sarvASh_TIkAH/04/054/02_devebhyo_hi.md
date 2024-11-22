@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devébhyaḥ ← devá- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -180,11 +183,13 @@ mā́nuṣebhyaḥ ← mā́nuṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “First you engender for the adorable gods the best portion, immortality; then, **Savitā**, you set open (the day) to the donor (of the oblation), and (grant) successive existences to men.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 33.54; your engender :suvasi, from su, to bear or bring forth; successive existences: anūcīnā jīvitā: jīvitānyanukrama yuktāni, i.e., in the order of fathers, sons;
 

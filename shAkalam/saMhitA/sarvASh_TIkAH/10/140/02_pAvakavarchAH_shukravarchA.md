@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pāvakávarcāḥ ← pāvakávarcas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ ubhé ← ubhá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who are of purifying radiance, of unsullied lustre, of full brightness, you issue forth withsplendour; visiting your parents (like) a son, you protect (the worshippers), you unite both heaven and earth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You unite: or, you fill both worlds, i.e., heaven with oblations and earth wirh rain
 </details>

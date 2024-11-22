@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhanasā́m ← dhanasā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you enriched **Śucanti**, and gave him a handsome habitation, and rendered the scorching heat plural asurable to **Atri**, and by which you preserved Pṛśnigu and **Purukutsa**; with them, **Aśvins**, come willingly hither.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Atri, the patriarch, was thrown by the **asuras** into a cave with a hundred doors, at all of which fires of chaff were kindled; the fires were extinguished with cold water by the Aśvins; or, Atri = **Agni**, the eater (**attri**)of clarified butter, but whose appetite, or intensity, being checked by the heat of the sun in the hot weather, was renovated by the rain sent down by the Aśvins. Pṛṣnigu = pṛṣṇayo gāvo yasya, so named from possessing bridled cows
 </details>

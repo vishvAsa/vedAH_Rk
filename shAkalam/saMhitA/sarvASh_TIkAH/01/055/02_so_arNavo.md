@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arṇaváḥ ← arṇavá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ yudhmáḥ ← yudhmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The firmament-abiding **Indra** graps the wide-spread waters with his comprehenisve faculties, as the ocean (receives the rivers); he rushes (impetuous) as a bull, to **drik** of the **Soma**; he, the warrior, even covets praise for his prowess.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gṛbhṇāti varīmabhiḥ, he graps with his powers of comprehending or collecting (saṃvaraṇaiḥ) or may be, his vastness (urutvaiḥ)
 </details>

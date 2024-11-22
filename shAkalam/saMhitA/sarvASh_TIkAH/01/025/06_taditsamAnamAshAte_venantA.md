@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśāte ← √naś- 1 (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -128,7 +131,8 @@ dhr̥távratāya ← dhr̥távrata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Partake, (**Mitra** and **Varuṇa**), of the common (oblation), being propitious to the giver and celebrator of this pious rite.”
 </details>

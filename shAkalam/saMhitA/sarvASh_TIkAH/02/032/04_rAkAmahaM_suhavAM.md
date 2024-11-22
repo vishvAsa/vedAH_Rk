@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -199,11 +202,13 @@ vīrám ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke, with suitable praise, **Rākā**, who is worthily invoked; may she, who is auspicious of good fortune, hear us, and spontaneously understand (our purpose); may she sew her work with an infallible needle; may she grant us excellent and opulent descendants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May she sew her work: sīvyatu **apaḥ** sūcyācchidyamānayā = may she sew the work with a needle that is not capable of being cut or broken; with one, of which the stitches will endure, in like manner as clothes and th elike wrought with a needle last a long time
 </details>

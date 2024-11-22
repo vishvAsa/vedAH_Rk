@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -147,7 +150,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Fortunate was he, **Maruts**, who, in former days, was secure in your protections, as is he who nowenjoys them.”
 </details>

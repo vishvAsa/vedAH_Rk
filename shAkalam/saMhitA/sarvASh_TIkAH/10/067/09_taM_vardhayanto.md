@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 matíbhiḥ ← matí- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -163,7 +166,8 @@ madema ← √mad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Magnifying the victorious **Bṛhaspati**, the showerer (of benefits), roaring in mid-heaven like a lion, letus praise him in the conflicts where heroes win, with auspicious praises.”
 </details>

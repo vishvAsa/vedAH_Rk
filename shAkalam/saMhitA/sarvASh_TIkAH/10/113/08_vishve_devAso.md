@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -188,7 +191,8 @@ tr̥ṣú ← tr̥ṣú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then all the gods magnified your exploits with praise, accompanied with libations of **Soma**; (andpeople) quickly devoured **Vṛtra**, the obstructer of water, wounded by **Indra**'s slaughtering (weapon), as Agnidevours food with his teeth.”
 </details>

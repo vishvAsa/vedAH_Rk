@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sumatím ← sumatí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -169,11 +172,13 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu**, granter of desires, show to us that favourable disposition which is benevolent to all, unmixed(with exception), so that there may be to us the attainment of easily-acquire, ample, steed-comprising,all-delighting riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Granter of desires: evayāvan: from eva = obtainable, desires;
 

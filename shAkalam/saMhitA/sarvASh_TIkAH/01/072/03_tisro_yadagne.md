@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ tanvàḥ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Agni**, as the pure (**Maruts**) worshipped you, (equally) pure, with clarified butter for three years, therefore they acquired names worthy (to be treated) at sacrifice, and, being regenerated obtained celestial bodies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śucayaḥ = the pure; for the Maruts, seven plural tters are plural ced at the **Agnicayana** and invoked: idṛs', anyādṛs', tādṛs', pratidṛs', **mitaḥ**, sammitaḥ (**Taittirīya** **Saṃhitā** 2.1.2.10); as a consequence of this participation with Agni, they exchanged their perishable bodies for immortal bodies and obtained heaven; the Maruts, are, therefore, deified mortals, like the **Ṛbhus**
 </details>

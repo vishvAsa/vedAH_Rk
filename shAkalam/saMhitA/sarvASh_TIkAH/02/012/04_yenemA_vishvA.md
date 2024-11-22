@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cyávanā ← cyávana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -230,7 +233,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, by whom all these perishable (regions) have been made; who consigned the base servile tribe to the cavern; who seizes triumphant the cherished (tresures) of the enemy, as a hunter (strikes) his prey; he, men, is **Indra**.”
 </details>

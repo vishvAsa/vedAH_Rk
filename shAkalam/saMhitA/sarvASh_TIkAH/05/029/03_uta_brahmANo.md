@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -198,11 +201,13 @@ papivā́n ← √pā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or,mighty **Maruts**, and you also, **Indra**, drink of this my copiously-effused libation; then the offered libation obtains cattle for the offerer, and Indra, drinking of it, kills Ahi.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Obtains cattle for the offerer: mānuṣe gā avindat = yajamānasya vedayati gā may also mean rain, dhenuvṛṣṭilakṣaṇāni udakāni vā
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -205,11 +208,13 @@ nápāt ← nápat- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We desire, gods, to repeat the praise of you, who are propitiated by praise; may **Ahirbudhnya**, Aja ekapād, **Trita**, **Ṛbhukṣin**, **Savitā**, bestow upon us food, and may the swift-moving grandson of the waters, (**Agni**, be gratified by) our praises and our worship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ahirbudhnya and Aja ekapād are two **rudras**;
 

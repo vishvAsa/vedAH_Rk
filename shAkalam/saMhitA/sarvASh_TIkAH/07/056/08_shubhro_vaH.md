@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 krúdhmī ← krúdhmi- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -117,11 +120,13 @@ múniḥ ← múni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorious is your vigour, unrelenting are your minds; (the exertion) of your irresistible force, the agitator(of the trees), is like (the manifold tone of the prayers of) a **muni**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Manifold tone: **dhuni** muniriva = the agitationlike a muni; the sounds produced by the shaking of the trees are like the varied intonations of a reciter ofpraises
 </details>

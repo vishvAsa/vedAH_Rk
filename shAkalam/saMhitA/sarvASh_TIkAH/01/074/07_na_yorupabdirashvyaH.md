@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áśvyaḥ ← áśvya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -134,7 +137,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whenever you go, **Agni**, on a mission of the gods, the neighing of the horses of your (swift) moving chariot, however audible is not heard.”
 </details>

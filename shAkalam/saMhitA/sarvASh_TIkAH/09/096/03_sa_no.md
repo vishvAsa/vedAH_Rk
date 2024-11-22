@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -204,7 +207,8 @@ varivasya ← √varivasy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Soma**, who are the beverage of **Indra**, flow at our sacrifice for (his) abundant food; sending water, causing rain to fall upon heaven and upon this earth, (come) from the wide (firmament, and) being purified bestow upon us wealth.”
 </details>

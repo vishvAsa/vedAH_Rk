@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ānaṭ ← √naś- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -212,7 +215,8 @@ sán ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Endowed with strength, since you grant the prayers of the Ṛṣis, let your greatness, **Indra**, extend tothine invoker; and as, fierce deity, you hold the thunderbolt in your **hand**, then formidable by your exploits youhave become invincible.”
 </details>

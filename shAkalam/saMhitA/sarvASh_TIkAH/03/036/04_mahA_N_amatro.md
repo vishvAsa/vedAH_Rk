@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámatraḥ ← ámatra- adj. (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great **Indra**, the victorious in battle, the defier of foes; his fierce strength and resolute vigour are exerted; verily the earth does not contain him, neither (does the heaven), when the **Soma** libations exhilarate the lord of the tawny steeds.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cátustriṁśat ← cátustriṁśat- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -177,11 +180,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The axe penetrates the thirty-four ribs of the swift horse; the beloved of the gods, (the immolators), cut up (the horse) with skill, so that the limbs may be unperforated, and recapitulating joint by joint.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thirty-four ribs: it is noted that other animals have only 24 ribs;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,7 +192,8 @@ tatanyuḥ ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, possessing eminent (fitness) for supreme sovereignty, has been glorified by us, with holy rites (śimī **śaktiḥ**: **Nirukta** 2.1.24), and with hymns. Let all who are presen1, as well as we ourselves, enriched (by his favour), shout aloud (the praise of Agni), as (loudly as) the sun (causes) the rain-cloud (to thunder).”
 </details>

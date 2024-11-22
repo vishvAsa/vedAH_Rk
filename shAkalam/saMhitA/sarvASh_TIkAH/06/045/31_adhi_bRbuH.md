@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -120,11 +123,13 @@ urúḥ ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bṛbu presided over the high plural ces of the **Paṇis**, like the elevated bank of the **Ganges**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛbu paṇīnām varṣiṣṭhe **mūrdhan** adhyasthāt = he stood over upon the high plural ce, as if it were on the forehead of the Paṇis; mūrdhavat ucchrite sthale; the Paṇis may be either merchants or traders, or **asuras**, so termed; like the elevated bank of the Ganges: uruḥ kakṣo na gāṅgyaḥ = gaṅgāyāḥ kule vistīrṇe ivā, as on the broad bank of the Ganges, that is, as the bank is above the bed of the river.
 </details>

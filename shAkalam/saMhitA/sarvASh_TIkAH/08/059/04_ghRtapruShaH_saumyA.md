@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ghr̥taprúṣaḥ ← ghr̥taprúṣ- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -176,7 +179,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven sister-streams of the **Soma**, in the hot the offering, pour forth ghī-dripping streams of yours,O **Indra** **Varuṇa**, provide for and help the offerer.”
 </details>

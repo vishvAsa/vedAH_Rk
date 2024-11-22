@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anārambhaṇé ← anārambhaṇá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -153,11 +156,13 @@ nā́vam ← naú- ~ nā́v- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “this exploit you achieved, **Aśvins**, in the ocean, where there is nothing to give support, nothing to rest upon,nothing to cling to, that you brought **Bhujyu**, sailing in a hundred-oared ship, to his father's house.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śatāritram nāvam = a ship with a hundred, i.e., with many oars
 </details>

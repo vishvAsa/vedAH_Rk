@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvī́ ← aśvín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -144,7 +147,8 @@ vāvr̥dhānám ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To whatsoever sacrifice the lord of horses regularly repairs, render, (**Agni**), our dwelling blessed withprogeny, with excellent posterity, prospering with lineal successors.”
 </details>

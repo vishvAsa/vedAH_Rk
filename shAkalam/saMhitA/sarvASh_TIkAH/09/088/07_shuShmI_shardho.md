@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́rutam ← mā́ruta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -188,11 +191,13 @@ yajñáḥ ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow strong as the army of the **Maruts**, like the divine blameless folk; like waters become quickly favourable to us; (you are) of a thousand shapes, adorable like (**Indra**) the victor in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The divine blameless folk: i.e., the Maruts: maruto vai devānām **viśaḥ** (**Taittirīya** **Saṃhitā** 2.2.5.7)
 </details>

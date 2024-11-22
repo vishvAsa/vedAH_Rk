@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámāt ← áma- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ yetire ← √yat- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “From their approach, the earth trembles with fear as a crowded boat goes quivering (through the water) visible from afar, they are recognized by their movements; the **Maruts**, leaders (of rites), pass between (heaven and earth) to the solemn sacrifice.”
 </details>

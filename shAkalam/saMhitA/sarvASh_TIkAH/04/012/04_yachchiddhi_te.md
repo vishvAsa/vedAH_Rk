@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -212,11 +215,13 @@ víṣvak ← víṣvañc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, young (of the gods), with the inconsiderateness common to men, we have ever committed any offence against you, make us free from the defects of earth efface entirely, **Agni** our offences.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Free from the defects of earth: aditer anāgān = bhumer anāgasaḥ, pāparahitān, sins of the earth, or against the earth
 </details>

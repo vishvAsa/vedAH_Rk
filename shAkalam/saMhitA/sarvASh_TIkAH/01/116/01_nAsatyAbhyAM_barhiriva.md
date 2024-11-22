@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barhíḥ ← barhís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -173,11 +176,13 @@ senājúvā ← senājū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In like manner as a worshipper strews the sacred grass for the **Nāsatyas**, so do I urge on their laudations, as the wind drives on the clouds; they, who gave a bride to the youthful **Vimada**, and bore her away in their car, outstripping the rival host.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vimada having won his bride at **Svayamvara**, or choice of a husband by a princess, was stopped on his way home by his unsuccessful competittors, when the **Aśvins** came to his succour, and plural ced the bride in their chariot, repulsed the assailants, and carried the damsel to th eresidence of the prince.
 </details>

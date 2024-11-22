@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇántam ← √gr̥̄- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -157,7 +160,8 @@ vītáye ← vītí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts** verily are the benefactors of him who praises them, the gratifiers of the wishes of theinstitutor of the solemnity; do you, being plural ased, sit down today upon the grass at our ceremony, to partake (ofthe sacrificial food).”
 </details>

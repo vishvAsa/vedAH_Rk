@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devī́ ← devī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -190,11 +193,13 @@ pr̥ṅktám ← √pr̥c- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sacred prayer, desiring your presence, offers to you both, **Indra** and **Agni**, for your exhilaration, the **Soma** libation; do you two, who have horses, handsome arms, and graceful **hands**, come quickly and mix (the libation) with sweetness in the waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Devi** **dhiṣaṇā** = divine speech (sacred prayer);
 

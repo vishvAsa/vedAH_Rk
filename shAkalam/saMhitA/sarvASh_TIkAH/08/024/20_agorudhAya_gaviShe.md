@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágorudhāya ← ágorudha- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -119,7 +122,8 @@ vocata ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Recite agreeable words, sweeter than clarified butter, or than **Soma**, to the illustrious (**Indra**), who isgratified by eulogy, who rejects not praise.”
 </details>

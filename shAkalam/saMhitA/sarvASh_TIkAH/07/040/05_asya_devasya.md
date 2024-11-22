@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ yāsiṣṭám ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I propitiate with oblations the ramifications of that divine attainable **Viṣṇu**, the showerer of benefits;**Rudra**, bestow upon us the magnificence of his nature; the **Aśvins** have come to our dwelling abond with(sacrificial) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ramifications: **vayāḥ**, branches; all other deities, as it were, branches of Viṣṇu: anye devāhśākhā iva **bhavanti**; citing a text: viṣṇu is all divinities, **viṣṇuḥ** **sarā** **devatā** iti śruteḥ: viṣnuḥ sarvādevatāḥ (**Aitareya** **Brāhmaṇa** 1.1)
 </details>

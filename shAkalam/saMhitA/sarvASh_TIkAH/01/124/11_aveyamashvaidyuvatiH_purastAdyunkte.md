@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvait ← √śvit- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -199,7 +202,8 @@ tiṣṭhāte ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This youthful Uṣā, approached from the east; she harnesses her team of purple oxen. Assuredly she will disperse the darkness, a manifest sign (of day) in the firmament; the (sacred) fire is kindled in every dwelling.”
 </details>

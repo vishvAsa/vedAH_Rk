@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īmahe ← √yā- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -182,7 +185,8 @@ vásu ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have recourse to **Indra** for his friendship, for wealth, for perfect might; for he, the powerful Indra, conferring wealth, is able (to protect us).”
 </details>

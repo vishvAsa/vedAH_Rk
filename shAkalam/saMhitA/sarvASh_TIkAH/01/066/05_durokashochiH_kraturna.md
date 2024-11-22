@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 durókaśociḥ ← durókaśocis- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -117,7 +120,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[5-6\] **Agni** of unattainable brightness, is like a vigilant sacrificer; he is an ornament to all (in the sacrificial chamber), like a woman in a dwelling; when he shines with wonderful lustre, he is like the white (sun) or like a golden chariot amongst men, resplendent in battle.”
 </details>

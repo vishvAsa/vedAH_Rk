@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrā́ ← cakrá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -183,11 +186,13 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where, **Nāsatyas**, ae the three wheels of your triangular car? where the three fastenings and props (of the awning?) When will be the harnessing of the powerful ass, that you may come to the sacrifice?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Trivṛto rathasya = tribhiraśribhir-upetasya rathasya; the front of the car is the apex and the back of the car is the base forming three angles;
 

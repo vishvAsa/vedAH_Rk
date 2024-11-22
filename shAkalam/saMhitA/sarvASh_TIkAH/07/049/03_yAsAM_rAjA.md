@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 mádhye ← mádhya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -188,7 +191,8 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those whose sovereign, **Varuṇa**, passes in the middle sphere, discriminating the truth and falsehod ofmankind; those shedding sweet showers, pure and purifying; may those divine waters protect me here (on earth).”
 </details>

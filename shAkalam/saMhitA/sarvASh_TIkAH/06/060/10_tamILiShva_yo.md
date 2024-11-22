@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcíṣā ← arcís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -129,7 +132,8 @@ kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify that **Agni** who envelopes all the forest with flame, who blackens them with (his) tongue.”
 </details>

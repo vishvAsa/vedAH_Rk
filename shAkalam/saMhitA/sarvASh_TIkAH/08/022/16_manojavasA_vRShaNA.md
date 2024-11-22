@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 madacyutā ← madacyút- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -151,7 +154,8 @@ pūrvī́bhiḥ ← purú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Aśvins**), who are swift as thought, the showerers (of benefits), prostrators of the arrogant, the givers ofenjoyment to many, be ever near unto us, for our security, with many and prompt protections.”
 </details>

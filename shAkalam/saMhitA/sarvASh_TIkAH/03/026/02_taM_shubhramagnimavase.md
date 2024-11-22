@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -159,11 +162,13 @@ vípram ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you for our own protection and for the devotions of mankind, the radiant **Agni**, **Vaiśvānara**, the illuminator of the firmament, the adorable lord of sacred rites, the wise, the hearer (of supplications), the guest (of man), the quick-moving.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The adorable lord of sacred rites: **bṛhaspati**, explained here: bṛhato yajñasya patim, the lord of the great sacrifice, tatpālakatayā svāminam, lord through protecting it
 </details>

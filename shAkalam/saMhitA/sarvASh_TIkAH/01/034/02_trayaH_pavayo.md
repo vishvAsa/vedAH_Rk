@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 madhuvā́hane ← madhuvā́hana- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ yātháḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Three are the solid (wheels) of your abundance-bearing chariot, as all (the gods) have known (it to be), when attendant on **Vena**, the beloved of **Soma**; three are the columns plural ced (above it) for support, and in it thrice do you journey by night, and thrice by day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Aśvins** went to the marriage of Vena with Soma and loaded their **ratha** (chariot) with goodies; skambhasaḥ skabhitāsa ārabhe = **posts** standing up from the body of the car, which the riders held, to avoid being thrown off by the rapid or uneven motion of the car
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asmā́su ← ahám (pronoun)  
 {case:LOC, number:PL}
 
@@ -185,7 +188,8 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Restore to us, Asunīti, sight and breath, and enjoyment in this world; long may we behold the risingsun; make us happy, gracious (goddess), with prosperity.”
 </details>

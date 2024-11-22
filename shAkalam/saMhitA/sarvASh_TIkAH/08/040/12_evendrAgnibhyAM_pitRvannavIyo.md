@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -182,11 +185,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus has a new hymn been addressed to **Indra** and **Agni**, as was done by my father, by **Mandhātā**,by **Aṅgirasa**; cherish us with a triply defended dwelling; may we be the lords of riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Triply defended dwelling:tridhātunā śarmaṇā = triparvaṇā gṛheṇa, with a house of three joints; in RV. 1.34.6, tridhātu **śarma** =**vātapitta** **śleṣma** dhātutrayaśamana viṣayam sukham; in RVV 1.85.12 śarma tridhātūni = pṛthivyādiṣutriṣu sthāneṣu avasthitāni sukhāni gṛhāni vā;
 

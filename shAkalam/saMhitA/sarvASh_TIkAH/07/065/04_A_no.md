@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -185,11 +188,13 @@ udnáḥ ← udán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Mitra** and **Varuṇa**, to our offered oblation sprinkle our plural ce of sacrifice with water and withviands (who) in this world (may present to you such) excellent (donations) that you may (thereby be induced to)gratify mankind with celestial and beautiful water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lit. = toward you two here an excellent to man bestow of watercelestial, beautiful (or flowing): **prati** vām atra **varamā** janāya pṛṇītam udnaḥ divyasya caroḥ
 </details>

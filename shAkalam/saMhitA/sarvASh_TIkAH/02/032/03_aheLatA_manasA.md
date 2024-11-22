@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -180,11 +183,13 @@ viśváhā ← viśváhā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring to us, with benignant mind, the well-nourished and compactly-limbed cow, yielding milk, and conferring happiness; daily I glorify you, who are adored by many, quick in (your) steps, and rapid in (your) words.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Quick in your steps: padyābhir āśum vacasā ca vājinam: this and the preceding hymn may apply to **Indra** or **Tvaṣṭā**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhúniḥ ← dhúni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -187,11 +190,13 @@ yádum ← yádu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, are the terrifier (of your foes); you have made the trembling waters overspread (the earth) like flowing rivers; but, hero, when you fill the ocean you have protected in their well-being **Turvaśa** and **Yadu**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like flowing rivers: **sīrāḥ** na sravantīḥ: **sīrā** may be a certain river; or river, in genitive ral; you have protected:pārayā turvaśam yadum **svasti**: pāraya = apālayaḥ, you have protected;
 

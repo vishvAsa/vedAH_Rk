@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gómataḥ ← gómant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -136,11 +139,13 @@ tujyámānāsaḥ ← √tuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your, wielder of the thunderbolt, did open the cave of **Vala**, who had there concealed the cattle; and the gods whom he had oppressed, no longer feared when they had obtained you (for their ally).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vala was an **asura**; he stole the cows of the gods and hid them in a cave; **Indra** recovered the cattle after surrounding the cave with his army. **Paṇis**, also cow-stealers, werre the soldiers of Vala (Anukramaṇikā)
 </details>

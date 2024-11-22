@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -209,11 +212,13 @@ víbhvaḥ ← víbhū- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ṛbhus**, who by your assistance (gratiied) the **Aśvins**, who (renovated your) parents, who (restored) the cow, who fabricated the horses, who made armour (for the gods), who separated earth and heaven, and who, the all-pervading leaders (of rites), accomplished (acts productive of) good results.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svapatyāni cakruḥ = svapatana sādhanāni karmāṇi, acts, the means of accomplishing their good offspring or consequences; ye in the next verse may refer to te agrepat, they the first drikers, the **Soma** being first offered at the evening sacrifice to the Ṛbhus
 </details>

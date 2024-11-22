@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ri ← bhū́ri- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -173,7 +176,8 @@ dabhī́taye ← dabhī́ti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Celebrate the numerous benevolent (acts of **Indra**) with clever affectionate praises, together with texts;for adoration.”
 </details>

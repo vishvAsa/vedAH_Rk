@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jarádhyai ← √gr̥- (root)  
 {case:DAT, number:SG, tense:PRS}
 
@@ -189,7 +192,8 @@ vivakmi ← √vañc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lords of men, (I approach) to adore your chariot with devout praise and oblation, I address it as if itwere a messenger to awaken you, adorable deities, as a son (addresses) his parents.”
 </details>

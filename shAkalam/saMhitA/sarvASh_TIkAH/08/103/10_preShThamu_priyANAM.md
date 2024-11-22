@@ -22,14 +22,17 @@ ChandaH = "ह्रसीयसी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 préṣṭham ← préṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG, mood:OPT}
 
@@ -114,11 +117,13 @@ yámam ← yáma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise, singer of hymns, the guest, **Agni**, the dearest of the dear, the driver of chariots.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Āsāva** =stotā
 </details>

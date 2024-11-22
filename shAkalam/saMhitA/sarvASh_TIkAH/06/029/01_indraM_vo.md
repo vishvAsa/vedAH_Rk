@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -190,11 +193,13 @@ yajadhvam ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your priests, (oḥ worshippers), proppitiate **Indra** for his friendship, offering great (praise), and desirous of his favour; for the wielder of the thunderbolt is the giver of vast (wealth); worship him, therefore, who is mighty and benevolent, (to obtain) his protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Offering great praise: maho yantaḥ sumataye cakānāḥ = **mahat** **karma** anutiṣṭhantaḥ, performing great worship; stutim śabdāyantaḥ, uttering praise
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dakṣa ← dákṣa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -210,11 +213,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine (**Agni**), mighty and omniscient, these (are the offerings) which we mortals present to you in the sacrifice; do you be cognizant of every respectable worshipper, and partake, immortal of all (his offerings) on this occasion.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be cognizant: **viśvasya** surathasya **bodhi**: know that I am his protector, gopāyitā bhavāmi iti budhyasva;
 

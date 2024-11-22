@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 medhākārám ← medhākārá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -210,7 +213,8 @@ vr̥ṇate ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The priest) selects you, (**Agni**), the giver of intelligence, the accomplisher of the sacrifice, the invokerof the gods, the chief overcomer of foes, the councillor, alike verily at the lesser and at the greater oblation andnone other than you.”
 </details>

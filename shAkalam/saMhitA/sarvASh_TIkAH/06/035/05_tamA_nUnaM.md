@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -207,11 +210,13 @@ vipra ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Direct him who is actually our adversary into a different (course); mighty **Indra**, who are a hero, the destroyer (of enemies), therefore are you glorified; never may I desist from the praise of the giver of pure (gifts); satisfy, sage Indra, the **aṅgirasas** with food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Into a different course: i.e. consign him to death, a course different from that of living beings; never may I desist: mā niraram śukradughasya dhenoḥ = may I not cease from the cow the yielder of pure milk;
 

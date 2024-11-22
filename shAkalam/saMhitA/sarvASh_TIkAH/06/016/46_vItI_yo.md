@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 devám ← devá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -169,7 +172,8 @@ vivāset ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever mortal, offering oblations, worships a deity with (sacrificial) food, let him at the ceremony also worship **Agni**, the invoker of heaven and earth, the sacrificer with truth; let him adore (Agni) with uplifted **hands**.”
 </details>

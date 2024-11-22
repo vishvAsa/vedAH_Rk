@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásāmi ← ásāmi- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -154,7 +157,8 @@ sr̥jata ← √sr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bounteous givers, you enjoy unimpaired vigour; shakers (of the earth), you possess undiminished strength; **Maruts**, let loose your anger, like an arrow, upon the wrathful enemy of the ṛṣis.”
 </details>

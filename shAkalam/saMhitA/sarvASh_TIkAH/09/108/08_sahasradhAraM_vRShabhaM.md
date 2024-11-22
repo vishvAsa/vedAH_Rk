@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 payovŕ̥dham ← payovŕ̥dh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -162,7 +165,8 @@ r̥tám ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thousand-streamed, showererof benefits, augmenter of water, affectionate; (pour it forth) for the race of the gods which water-born is fostered by the water, the king, the god, the true, the great.”
 </details>

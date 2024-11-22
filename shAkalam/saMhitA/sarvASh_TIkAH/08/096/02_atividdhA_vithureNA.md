@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ástrā ← ástar- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ yā́ni ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By him the thrower, unaided, were pierced asunder the thrice seven table-lands of the mountainheaped together; neither god nor mortal could do what he, the showerer, in his full-grown strength has done.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pierced asunderthe thrice seven tablelands: the legend in RV 8.8.10
 </details>

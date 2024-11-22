@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahihátye ← ahihátya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -201,7 +204,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They who encouraged you, **Maghavan**, to slay Ahi, who (aided you) in the conflict with **Śambara**, and in the recovery of the cattle, and who, possessed of wisdom, contribute verily to your exhilaration, with them, the troop of the **maruts**, do you **Indra**, drink the **Soma**.”
 </details>

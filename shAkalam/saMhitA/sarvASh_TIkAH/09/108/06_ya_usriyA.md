@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -188,11 +191,13 @@ varmī́ ← varmín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You who by your might extricated from the rock the quick-moving kine abiding in the waters, you have spread out a pasturage for cattle and horses; like a mailed (warrior) slay (the **asuras**), brave (**Soma**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Interpretation: Who by his might cut the quick-moving waters of the firmament from out of the cloud, you get a herd of cattle and horses
 </details>

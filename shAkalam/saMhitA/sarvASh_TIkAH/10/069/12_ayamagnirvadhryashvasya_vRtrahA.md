@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ vādhryaśva ← vā́dhryaśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “From a long period has this **Agni** the slayer of foes been kindled (by the oblation) of Vadhryaśva; (heis) to be addressed with reverence; do you, (Agni, kindled in the) family of Vadhryaśva, overcome our enemies,both those who have no kinsmen and those who have many kinsmen.”
 </details>

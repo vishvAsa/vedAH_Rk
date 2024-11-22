@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asurya ← asuryà- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ víśveṣām ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati**, destroyer of the **asuras**, through you the intelligent gods have obtained the sacrificialportion; in like manner as the adorable sun genitive rates the (solar) rays by his radiance, so are you the genitive rator of all prayers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛhaspati = **Brahmaṇaspati**; perhaps Bṛhaspati is of a more martial character; his protection is souhght for against enemies and evil spirits; perhaps, bṛhatām vedānām **pālakaḥ**: **bṛhat** = **mantra**, bṛhato mantrasya, **svāmin**
 </details>

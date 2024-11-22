@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 savitā́ ← savitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ patayiṣṇávaḥ ← patayiṣṇú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Devoutly praised (**Maruts**), when the adorable **Savitā** has risen above you, then bipeds andquadrupeds, and the flying birds, seeking (their objects), enter (upon their functions).”
 </details>

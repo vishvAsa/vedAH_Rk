@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -188,11 +191,13 @@ vajrī́ ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The wielder of the thunderbolt, the render of the rain-cloud, has destroyed with his bolt the mighty **Śuṣṇa**, the wrath-born (son) of the **Dānava**, the walker in darkness, the protector of there showering cloud, exhilarating himself with the food of these (living creatures).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The protector of the showerin gcloud: miho napātam = meghasya rakṣitāram **napāt**, here meaning pātā, a protector, a preserver, as in the **Brāhmaṇa** text cited: prāṇo vai **tanūnapāt** sa hi **tanvaḥ** **pāti**, vital air is called the body-preserver, for it preserves the limbs
 </details>

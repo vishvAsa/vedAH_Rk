@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahé ← máh- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -185,7 +188,8 @@ mahé ← máh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O hero, giver of dwellings, raise up to enjoy abundant food; raise us up, **Maghavan**, for abundantwealth; raise us up, **Indra**, for abundant fame.”
 </details>

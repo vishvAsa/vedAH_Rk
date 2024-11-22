@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 harítā ← harít- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -162,11 +165,13 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yoking his horses to his car, **Tvaṣṭā** shines in many plural ces here in the **three worlds**; who (else), sojourning daily among his present worshippers, is their proector against adversaries?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In this ṛca,Tvaṣṭā is an appellative of **Indra**, the ancient artificer!
 </details>

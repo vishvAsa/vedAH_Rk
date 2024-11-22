@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -179,11 +182,13 @@ vándanāya ← vándana- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Nāsatyas**, leaders, glorious was that exploit of yours, one to be celebrated, to be adored, to be desired by us, when, becoming aware (of the circumstance), you extricated **Vandanā**, (hidden), like a concealed treasure, from the (well) that was visible (to travellers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Darśatāt, well, i.e. that which was to be seen by thirsty travellers
 </details>

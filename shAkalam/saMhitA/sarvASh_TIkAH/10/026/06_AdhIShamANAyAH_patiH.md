@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādhī́ṣamāṇāyāḥ ← √dhīṣ- (?) (root)  
 {case:ABL, gender:F, number:SG, voice:MED}
 
@@ -131,11 +134,13 @@ vā́sāṁsi ← vā́sas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord both of the pure desirable (she-goat), and of the pure (he-goat); weave3r of the cloth (of thewool) of the sheep; he has cleansed the vestments.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He has cleaned: vāsovāyovīnām, making woollencloths such as the woollen filter etc.;
 

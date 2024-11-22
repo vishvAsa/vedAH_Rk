@@ -22,14 +22,17 @@ ChandaH = "वर्धमाना गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -118,7 +121,8 @@ mā́nuṣe ← mā́nuṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, have been appointed by the gods, the ministrant fo men, the descendants of **manu**, at all sacrifices.”
 </details>
@@ -131,7 +135,8 @@ by the gods for the human race.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The tr. “for the human race” reads like a dative, but mā́nuṣe jáne is of course a locative. Unfortunately English lacks the “bei” / “chez” locution that would idiomatically tr. this loc. ### 02-03
+The tr. “for the human race” reads like a dative, but mā́nuṣe jáne is of course a locative. Unfortunately English lacks the “bei” / “chez” locution that would idiomatically tr. this loc. _________
+**02-03**  
 The first pādas of these vss. end respectively in adhvaré# and ádhvanaḥ#, which seems to signal an awareness of the deeper etym. relationship between the two stems.
 </details>
 

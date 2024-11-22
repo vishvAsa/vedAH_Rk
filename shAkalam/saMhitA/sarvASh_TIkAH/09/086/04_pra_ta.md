@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́śvinīḥ ← ā́śvina- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -188,7 +191,8 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purified (**Soma**), your celestial steed-like (streams) as quick as thought are poured along with the milk into the receptacle; the ṛṣis, the ordainers (of sacrifice), who cleanse you, O ṛṣi-enjoyed (Soma), pour your continuous (streams) into the midst (of the vessel).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ája ← √aj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -187,11 +190,13 @@ vástoḥ ← vástu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Go the cities inhabited by the **rākṣasas**, and thence to heaven (attended), receiver of many sacrifices by those who (attend you). Defend, like a lion, the untamed, quick-moving **Agni**, that he may abide in his dwelling, fulfilling his functions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the cities inhabited by rākṣasas: **vṛtaḥ** **śura** patnīḥ = raksobhiḥ pālayitā vṛtaḥ **purīḥ**; defend like a lion: as a lion protects the forest, in which his lair is, from the depredations of other animals
 </details>

@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; line affected by realignment;; 12 = 8+4  
 genre M;; line affected by realignment  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvavat ← áśvavant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -122,7 +125,8 @@ sádā ← sádā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is directed by **Āditya** ever increases, possessing abundance of kine and horses and vigorouschildren; he increases in wealth longed for by many.”
 </details>

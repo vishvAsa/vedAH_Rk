@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aktáḥ ← √añj- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -183,11 +186,13 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **male** **Agni**, the showerer (of benefits), has been sprinkled by the genitive ine sustaining milk; the giver of food proceeds unswerving (from his course), and the sun, the shedder of rain, has milked the white (fluid) of the udder (of the firmament).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The sun milked: duduhe pṛśnir **udhas**: prśni = **Sūrya**
 </details>

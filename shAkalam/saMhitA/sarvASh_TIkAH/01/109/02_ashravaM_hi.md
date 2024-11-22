@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśravam ← √śru- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -187,11 +190,13 @@ stómam ← stóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have heard, **Indra** and **Agni**, that you are more munificent givers than an unworthy bridegroom, or the brother of a bride; therefore, as I offer you **a Soma** libation, I address you, Indra and Agni, with a new hymn.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 An unworthy bridegroom: vijamātṛ; the prefix vi- refers to a son-in-law (jāmātṛ) who is not possessed of the qualifications required by the **Vedas**, and who is, therefore, obliged to conciliate his father-in-law by libereal gifts. In **Nirukta** 6.9 vījamātrī = asusamāpta, the unfulfilled, or unaccomplished bridegroom. There may no implication of a bride-price: 'let no father who knows the law receive a gratuity, however small, for giving his daughter in marriage, since the man who, through avarice, takes a gratuity for that purpose is a seller of his offspring' (Laws of **Manu**, III.51); 'A bribe, whether large or small, is an actual sale of the daughter, although a bull and cow might be given at a marriage of saintly person ns or ṛṣis' (Laws of Manu, III.53). **syāla** = brother of the maiden, who makes her gifts through affection;
 

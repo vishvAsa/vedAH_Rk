@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -166,7 +169,8 @@ r̥ñján ← √r̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And that swift (horse) enduring in battle, bestowing food, and doing service with his limbs, rushing swiftly upon the quick-moving (host of the enemy), going straight onward, and tossing up the dust, throws it above his brows.”
 </details>

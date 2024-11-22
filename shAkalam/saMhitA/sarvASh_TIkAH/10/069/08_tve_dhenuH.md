@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenúḥ ← dhenú- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -159,11 +162,13 @@ sumitrébhiḥ ← sumitrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In you, **Jātavedas**, is the cow easy to be milked, yielding ambrosia as it were inexhaustibly in battle,you are kindled, **Agni**, by the devout **Sumitras** who are entitled to the sacrificial donation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yieldingambrosia...battle: asaścateva **samanā** = united with the sun which has no association, i.e., is not joined toanything because it has no settled home
 </details>

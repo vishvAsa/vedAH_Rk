@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cikitré ← √cit- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -211,7 +214,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For, verily, their greatness is well known, (as) they diligently discharge their functions; by which their spot pours rain upon every arid soil, as light spreads (universally) on a fine day.”
 </details>

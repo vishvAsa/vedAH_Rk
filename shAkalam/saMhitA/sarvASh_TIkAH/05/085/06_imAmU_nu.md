@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imā́m ← ayám (pronoun)  
 {case:ACC, gender:F, number:SG}
 
@@ -186,11 +189,13 @@ samudrám ← samudrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No one has counteracted the device of the most sagacious divinity, whereby the lucid water-shedding rivers do not fill the ocean with water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 These wonderful acts are not the acts of **Varuṇa**, but of **Parameśvara**, the Supreme Being, from his existin gin the forms of Varuṇa and others, **karma** parameśvarasyaiva ucitam na varuṇasya tasya varuṇādirūpavasthānāt
 </details>

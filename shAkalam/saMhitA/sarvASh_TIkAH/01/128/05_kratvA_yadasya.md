@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -266,7 +269,8 @@ aghā́t ← aghá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch as (all men) offer in holy rite (food) for his satisfaction in the blazing (flames) of **Agni**, like (the grains that) are to be enjoyed by the winds, and like the viands that are to be given to him who solicits them; therefore the worshipper presents gifts to him, according to the extent of his opulence; and he preserves us, when oppressed (by sin), from wickedness; from overpowering malevolence and sin.”
 </details>

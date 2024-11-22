@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadhiṣvá ← √dhā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
 
@@ -119,7 +122,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Receive, **Indra**, into your stomach this excellent effused libation, these bright (drops) abide with you in heaven.”
 </details>

@@ -25,17 +25,20 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áram ← áram (invariable)  
 {}
 
@@ -185,7 +188,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I desire the coming of you, the mighty one, we give praise with oblations and ymns to the showerer whohastens readily (to the sacrifice), associated with the **Maruts**, you are worshipped of all men; I glorify you withadoration and praise.”
 </details>

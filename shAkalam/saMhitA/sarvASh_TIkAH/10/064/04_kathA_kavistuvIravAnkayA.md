@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 girā́ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -168,11 +171,13 @@ hávīmani ← hávīman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “How is the sage(**Agni**) adored by multitudes, and by what praises? **Bṛhaspati** is magnified with sacredhymns; Aja, walking alone, is magnified with solemn invocations and prayers; may **Ahirbudhnya** hear us at theseason of invocation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ahirbudhnya: ahiḥ budhnyaḥ, the deep dragon
 </details>

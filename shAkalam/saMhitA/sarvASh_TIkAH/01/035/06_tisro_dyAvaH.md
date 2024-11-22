@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dvaú ← dvá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -204,11 +207,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Three are the spheres; two are in the proximity of **Savitā**, one leads men to the dwelling of **Yama**. The immortal (luminaries) depend upon Savitā as a car upon the pin of the axle; let him who knows (the greatness of Savitā) declare it.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Amṛta** = immortals; moon and constellations are added
 </details>

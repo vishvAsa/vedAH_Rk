@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṁseṣu ← áṁsa- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -175,11 +178,13 @@ vítatāḥ ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lances (gleam), **Maruts**, upon your shoulders, anklets on your feet, golden cuirasses on your breasts, and pure (waters shine) in your chariots; lightning blazing with fire in your **hands**, and golden tiarsa are towering on your heads.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Śiprāḥ** śirṣasu **vitatā** hiraṇyayīḥ: **śipra** = uṣṇīṣamayaḥ, composed of turbans or head-dresses
 </details>

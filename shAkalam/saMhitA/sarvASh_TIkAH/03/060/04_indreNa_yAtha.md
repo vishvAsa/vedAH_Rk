@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índreṇa ← índra- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -213,7 +216,8 @@ vīryā̀ṇi ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Go with **Indra** in his chariot when the libation is poured out, and be (welcomed) with honour by the (worshipper) desiring (your favour); **ṛbhus**, sons of **Sudhanvan**, bestowers (of the rewards of pious acts), your virtuous deeds, your great faculties, arenot to be mesured.”
 </details>

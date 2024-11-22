@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dr̥ṁhitā́ni ← √dr̥h- (root)  
 {case:ACC, gender:N, number:PL, non-finite:PPP}
 
@@ -186,11 +189,13 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, in his might, quickly demolished all their strongholds, and their seven (kinds of) cities; he hasgiven the dwelling of the son of Anu to Tṛtsu; may we, (by propitiating Indra), conquer in battle the ill-speakingman.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seven kinds of cities: **puraḥ** sapta, seven cities; nagaīḥ sapta **prakāraḥ** or prākārāḥ, seven-walled;conquer in battle: jeṣma pūrum manuṣyam mṛdhravācam, speaking imperfectly or barbarously; orbaddhavācam, whose speech is threatening, obstructing or adverse
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 brahmakŕ̥taḥ ← brahmakŕ̥t- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -194,7 +197,8 @@ ráthe ← rátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the libation is effused for you, these offerers of sacrifice swarm like flies around honey; the piouspraisers, desiring riches, fix their hope upon **Indra**, like a foot upon a chariot.”
 </details>

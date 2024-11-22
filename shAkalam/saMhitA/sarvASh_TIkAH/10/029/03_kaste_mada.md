@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūt ← √bhū- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -227,7 +230,8 @@ upamám ← upamá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What sort of exhilaration, **Indra**, is agreeable to you? You who are powerful hasten to the doors (of thesacrificial chamber) to our praises; when will the **Soma** be present? (When will) intelligence (come) to me? When,having propitiated you, may I acquire wealth and food?”
 </details>

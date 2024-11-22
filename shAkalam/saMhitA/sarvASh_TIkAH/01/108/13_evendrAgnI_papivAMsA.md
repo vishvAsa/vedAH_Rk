@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -198,7 +201,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thus, **Indra** and **Agni**, drinking deep of the libation, grant to us all (kinds of) wealth; and may **Mitra**, **Varuṇa** and **Aditi**--ocean, earth, and heaven, preserve it to us.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -185,11 +188,13 @@ yájyave ← yájyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke you, **Aśvins**, the restrainers (of desire), for the acceleration ofyour chariot with the swiftness of the wind; (priests) offer praise and oblations to the celestial destroyer of life, to the accmplisher of the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Celestial destroyer of life: divo asurāya = dyotamānāya prāṇāpahartre, that is, to **Rudra**;
 

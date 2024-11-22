@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 eti ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -150,11 +153,13 @@ yātudhānyàḥ ← yātudhānī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The all-seeing Sun rises in the east, the destroyer of the unseen, driving away all the unseen (venomous creatures), and all evil spirits.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Destroyer of the unseen: adṛṣṭhā may also mean the dissipator of darkness; **adṛṣṭa** occurs in the sense of invisible venomous creatures, these as well as the **yātudhānas**, or **rākṣasas**, disappear at sunrise; cf. AV 5.23.6
 </details>

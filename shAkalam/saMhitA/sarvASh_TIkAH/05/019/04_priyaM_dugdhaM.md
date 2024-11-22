@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dugdhám ← √duh- (root)  
 {case:NOM, gender:N, number:SG, non-finite:PPP}
 
@@ -148,11 +151,13 @@ dábhaḥ ← dábha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (**Agni**) with his two relatives, (heaven and earth), hear this faultless (praise), acceptable as milk; he who, like the mixed oblation, is filled with food, and unsubsdued, is ever the subduer of his foes.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He who, like the mixed oblations, is filled with food: gharmo na vājajaṭharaḥ, he in whose belly is food like the **gharmaḥ**; the ordinary sense is warm, hot and day; it is further identified with the ceremony called **pravargya**: pravargya iva gharmo yathā havyenājyenapayasā siktā, like the pravargya the **gharma**, sprinkled with the oblation butter and milk;
 

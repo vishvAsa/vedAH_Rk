@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -203,11 +206,13 @@ vr̥jáne ← vr̥jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As a wife to her husband, so you (afford) delight to your worshipper; (**Soma**), offspring of Pajra, listen (to the praises) I address to you; in the midst of our adorations advance to grant us life; Soma, who are irreproachable, be vigilant against (our) foe.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pajra: i.e., the earth; Soma is its offspring, because it is produced in the ground
 </details>

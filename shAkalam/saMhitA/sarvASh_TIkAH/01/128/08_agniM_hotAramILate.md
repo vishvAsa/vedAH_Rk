@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -240,7 +243,8 @@ vasūyávaḥ ← vasūyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They, (the devout), praise **Agni**, the invoker (of the gods), the possessor of wealth, the beloved, the thoughtful; they have recourse to him as to a sovereign; they have recourse to him as the bearer of oblations; to him, who is the life (of all living beings), who knows all things, the offerer of oblations, the object of worship, the sage; the sacred (priests), desirous of affluence, murmur (his praises) to obtain his protection; desirous of affluence, they murmur (his praises) in their hymns.”
 </details>

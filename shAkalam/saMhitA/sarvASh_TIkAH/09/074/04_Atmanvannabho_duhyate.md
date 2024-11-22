@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ātmanvát ← ātmanvánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -189,11 +192,13 @@ péravaḥ ← péru- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Full of sap the butter and milk is milked from heaven, the bond of the sacrifice, the water is genitive rated; the assembled liberal givers delight him; (the **Soma**-juices) the leaders, the protectors shower down the accusative ulated (water).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The bond: **nābhiḥ** = binding; from naḥ, to bind
 </details>

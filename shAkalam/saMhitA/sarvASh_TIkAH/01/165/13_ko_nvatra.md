@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -196,11 +199,13 @@ r̥tā́nām ← r̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Agastya**): What mortal, **Maruts**, worships you in this world; hasten, friends, to the presence of your friends; wonderful (divinities), be to them the means of acquiring riches, and be not uncognizant of my merits.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be not uncognizant: eṣām **bhūta** navedā me ṛtānām = be cognizant of these my truths, madīyānām avitathānām jñātāro bhavata
 </details>

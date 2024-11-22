@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -176,7 +179,8 @@ víṣūcaḥ ← víṣvañc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the conflict where (combatants) strive against us, in those (contests) in which bright (weapons) fallupon the banners, do you two, **Indra** and **Varuṇa**, slay with your shaft those enemies who have been routed, andare scattered in various directions.”
 </details>

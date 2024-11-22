@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -191,7 +194,8 @@ rātáhaviṣe ← rātáhavis- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the golden-breasted munificent **Maruts**, yoke their horses to their chariots on an auspicious (occasion), they shed in their peculiar (directions) abundant food upon him who offers them oblations, as a cow (gives milk) to her calf.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áchoktibhiḥ ← áchokti- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -190,7 +193,8 @@ svadhvaráḥ ← svadhvará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, giver of dwellings, let not those come to harm, who approach you in whatever manner with hymnsof praise; the worshipper who offers his libation and duly performs the rite praises you that you may be thebearer of the sacrifice.”
 </details>

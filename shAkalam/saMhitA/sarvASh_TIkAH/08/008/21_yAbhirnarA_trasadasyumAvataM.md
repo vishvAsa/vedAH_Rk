@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 narā ← nár- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -141,7 +144,8 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(And) with which, leaders (of rites), you protected **Trasadasyu** when wealth was to be acquired; do youwith the same graciously protec tus, **Aśvins**, for the acquisition of food.”
 </details>

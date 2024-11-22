@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 daívyā ← daívya- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -173,11 +176,13 @@ víśvān ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I follow the two chief priests the divine offerers of burnt sacrifices, (I follow) successfully the path ofsacrifice; we solicit (wealth of) the contiguous lord of the field, and the immortal and not unheeding universaldeities.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The two chief priests: i.e., **Agni** and **Āditya**\]. well-being; having come to us, gods, at our desire, bestow wealth upon us like affectionate relations.
 </details>

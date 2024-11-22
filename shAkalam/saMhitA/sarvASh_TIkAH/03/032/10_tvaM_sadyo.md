@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apibaḥ ← √pā- 2 (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -187,7 +190,8 @@ pūrvyáḥ ← pūrvyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As soon as born in the highest heaven, you have quaffed, **Indra**, the **Soma** for your exhilaration; and when you had pervaded the heaven and earth, you became the primary artificer (of creation).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āśíṣam ← āśís- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -197,7 +200,8 @@ viśvaminvé ← viśvaminvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Make good our prayer for the bestowal of food; you protect through your movements even (me) yourprayer).”
 </details>

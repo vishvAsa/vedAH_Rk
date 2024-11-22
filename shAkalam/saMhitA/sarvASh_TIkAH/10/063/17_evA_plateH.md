@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avīvr̥dhat ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -169,7 +172,8 @@ jánaḥ ← jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Universal deities and **Aditi**, thus has the prudent son of plural ti magnified you; the celestial people, theimmortal (company of the gods) through whom (when praised) men become the lords (of wealth) have beengloried by **Gaya**.”
 </details>

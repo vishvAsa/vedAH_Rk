@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dadr̥śre ← √dr̥ś- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -162,7 +165,8 @@ pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Entire in all parts and girded with rings, they appear upon the earth like the horns of horned cattle; hearing (their praises) by the priests; may they protect us in battles.”
 </details>

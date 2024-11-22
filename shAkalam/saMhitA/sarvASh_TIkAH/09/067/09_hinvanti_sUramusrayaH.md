@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 hinvánti ← √hi- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -111,11 +114,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fingers express the purified honey-dropping heroic **Soma**; (the worshippers) hail him with praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Heroic: i.e., the instrumental gator of everybody's good actions (sacrifice)
 </details>
@@ -130,7 +135,8 @@ they cry out in unison with a song.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details open><summary><h2>07-09 ...{Loading}...</h2></summary>
 
-Elementary sign of cohesion in the Gotama tṛca: a form of páva- in every vs. ### 09
+Elementary sign of cohesion in the Gotama tṛca: a form of páva- in every vs. _________
+**09**  
 On úsrayaḥ as ‘rosy (fingers)’ see comm. ad IV.65.1.
 
 The published translation contains a grammatical error: asvaran should of course be ‘they cried’ not ‘they cry’.

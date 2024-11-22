@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásūta ← √sū- 2 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -174,7 +177,8 @@ rājānā ← rā́jan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer (of benefits), the preceder and elder (of the gods), genitive rated (the waters); they are the abundant allayers of his thirst; sovereign **Indra** and **Varuṇa**, grandsons of heaven, you possess the wealth (that is to be acquired) by the rites of the splendid sacrifice.”
 </details>

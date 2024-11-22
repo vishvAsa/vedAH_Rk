@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyát ← anyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -181,7 +184,8 @@ ukthā́ ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Repeat, friends, no other praise, be not hurtful (to yourselves); praise together **Indra**, the showerer (ofbenefits) when the **Soma** is effused; repeately utter praise (to him).”
 </details>

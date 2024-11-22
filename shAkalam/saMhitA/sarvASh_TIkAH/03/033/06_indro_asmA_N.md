@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aradat ← √rad- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -188,11 +191,13 @@ yāmaḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rivers speak; **Indra**, the wielder of the thunder-bolt, dug our channels when he slew Ahi the blocker-up of rivers; the divine and well-handed **Savitā** has led us (on our path), and obedient tohis commands we flow (as) ample (streams).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The blocker-yo if ruversL tge ckiyd unorusibubg the water of the rains;
 

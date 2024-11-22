@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíṣṭibhiḥ ← abhíṣṭi- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -114,7 +117,8 @@ vā́yo ← vāyú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vāyu**, who are drawn by the **Niyuts**, and have **Indra** for charioteer, come (for the fulfilment) of our numerous wishes, and do you (and Indra) drink of the libation.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvī́ ← aśvín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is your friend, **Indra**, is verily possessed of horses, of cars, of cattle, and is of goodly form; he isever supplied with food-comprising riches, and delighting all, he enters an assembly.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With food-comprisingriches: wealth-associated food, śvātrabhājā vayasā: svātram iti dhananāma
 </details>

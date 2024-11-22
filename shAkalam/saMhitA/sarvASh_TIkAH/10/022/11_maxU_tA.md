@@ -23,15 +23,18 @@ ChandaH = "पुरस्ताद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; 11 = 4+7, ending HLX  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 dānā́pnasaḥ ← dānā́pnas- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -163,7 +166,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, **Indra**, (your worshippers glorify) those prompt exploits performed by you in battle, (by you whoare) ever bountiful, when with your associate (**Maruts**) you destroyed the whole race o **Śuṣṇa**.”
 </details>

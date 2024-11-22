@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnijihvā́ḥ ← agnijihvá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -194,11 +197,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pervading heaven (with their radiance), having **Agni** as their tongue, the augmenters of sacrifice,(these deities) sit contemplating the plural ce of sacrifice; sustaining heaven they have produced the waters by theirpower; having genitive rated sacrifice, they have decorated their person ns (with it).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., they partake of the oblation
 </details>

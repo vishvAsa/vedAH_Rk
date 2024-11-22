@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 atviṣanta ← √tvíṣ- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -115,7 +118,8 @@ pūtádakṣasaḥ ← pūtádakṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When do the sages flash like waters across (to sky)? When do the **Maruts**, pure in vigour, destroyers ofenemies, come to our offering?”
 </details>

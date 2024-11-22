@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́taiḥ ← ā́tā- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -112,7 +115,8 @@ súṣṭutāḥ ← súṣṭuta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bright golden doors, praised by the priests together with the **Soma**, rise up from the vast horizon.”
 </details>

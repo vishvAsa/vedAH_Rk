@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayā́ḥ ← ayā́s- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -212,11 +215,13 @@ yāsat ← √yā- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approaching nigh to whom, and repeating the mighty name of the **Maruts**, (the worshipper is able) quickly to obtain (his wishes); the liberal donor pacifies the angry Maruts, who are otherwise in their might the resistless plural nderers (of their wealth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He pacifies those na ye staunā ayāso mahnā nu cid, who now are thieves going with greatness verily ever
 </details>

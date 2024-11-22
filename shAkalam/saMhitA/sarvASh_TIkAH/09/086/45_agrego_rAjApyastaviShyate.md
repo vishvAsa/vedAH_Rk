@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agregáḥ ← agregá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**) going foremost, radiant, sanctified by water, plural ced in the firmament as the measure of days is glorified; green-tinted, shedding water, of goodly aspect, the source of moisture, borne in a chariot of light he flows giving wealth, friendly to the house.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The measure of days: beacause, the rule as to the length of day depends on the increase and decrease of the moon's digits, Soma being here regarded as the moon
 </details>

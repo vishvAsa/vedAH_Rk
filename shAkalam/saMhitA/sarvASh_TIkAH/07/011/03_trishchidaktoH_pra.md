@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aktóḥ ← aktú- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -193,7 +196,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In you, **Agni**, thrice in the day, (the priests) make manifest the treasures (of the oblation) for (the benefitof the) mortal donor; worship the gods on this occasion, Agni, as (you did) for **Manu**; be our messenger, ourprotector against malignity.”
 </details>

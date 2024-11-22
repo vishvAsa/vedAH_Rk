@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahitvám ← mahitvá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -139,7 +142,8 @@ suṣṭutīnā́m ← suṣṭutí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(May e) whose greatness (manifested as) the matured rain, this pious man celebrates with piousrites-- may he be cognizant of such excellent praises.”
 </details>

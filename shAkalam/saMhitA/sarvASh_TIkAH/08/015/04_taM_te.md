@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 8+4
-#### Morph
+_________
+**Morph**  
 gr̥ṇīmasi ← √gr̥̄- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -139,11 +142,13 @@ ulokakr̥tnúm ← ulokakr̥tnú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We celebrate, thunderer, your exhilaration, the showerer (of benefits), the overcomer (of foes) in battle,the maker of the world, the glorious with your steeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Lokakṛtnu = the provider of a plural ce (for his worshipper),sthānasya kartāram;
 

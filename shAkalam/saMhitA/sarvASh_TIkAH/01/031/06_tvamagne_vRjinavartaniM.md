@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ sámr̥tā ← sámr̥ti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, excellently wise, you direct the man who follows improper paths, to acts that are fitted to reclaim him; you who, in the strife of heroes, (grateful to them) as widely- scattered wealth, destryed in the combat the mighty by the feeble.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bŕ̥haspate ← bŕ̥haspáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ virapśám ← virapśá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those (steeds), **Bṛhaspati**, which had come from that distant (region), the best (of all), have sat down in connection with the ceremony, and to you the **Soma** juices expressed by the stones flow copiously, (accompanied) by the sounds of praise, like deep wells that supply water.”
 </details>

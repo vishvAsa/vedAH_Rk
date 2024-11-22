@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyā́ḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -261,7 +264,8 @@ návīyasaḥ ← návīyaṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Will (**Indra**) be present at this our morning rite; be appraised, (Indra), of the oblation offered with (due) observances; offered with (due) observances for the sake of (obtaining) heaven; and since, wielder of the thunderbolt, showerer (of benefits), you know how to destroy the malevolent, do you, therefore, listen to the acceptable (praise) of me, intelligent, though a novice; (hear it from me) a novice.”
 </details>

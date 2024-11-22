@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -184,7 +187,8 @@ nícetārā ← nícetar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showerers (of benefits), rejoicing in (our) libations), make us happy, and destroy the niggard (withholder) of offerings; hear, leaders, with your ears, my praises addressed to you with pure words, for you are seekers (after praise), you are retentive (of laudation).”
 </details>

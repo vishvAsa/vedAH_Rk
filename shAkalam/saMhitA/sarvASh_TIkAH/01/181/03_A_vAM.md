@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -177,11 +180,13 @@ yajatáḥ ← yajatá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, excellent and steady, may your chariot, vast as the earth, broad-fronted, rapid as the rain (fleet) as thought, cumulative and adorable, come hither for (our) good.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Emulative: ahampūrvaḥ, I first, is normally related to a warrior, one who would be first in battle; here, it is explained as intelligent, manasvin; or very genitive rous atyudāraḥ
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dásyum ← dásyu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ sanakā́ḥ ← sanaká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, **Indra**, you have slain the wealthy barbarian with your bold; your, singly assailing (him), although with auxiliaries (the **Maruts**) at **hand**. Perceiving the impending manifold destructiveness of your bow, they, the **Sanakas**, the neglecters of sacrifice, perished.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Barbarian: **Vṛtra**, the **Dasyu** (lit. a robber), in contrast to **Ārya**; vṛtrasya **antaḥ** sarve **devaḥ** sarvaśca **vidyaḥ** sarvāṇi haviṃṣi cāsan: he comprehends within him all gods, all knowledge, all o9blations;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásāmi ← ásāmi- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -170,7 +173,8 @@ vr̥tratū́ryeṣu ← vr̥tratū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “So, wise **Indra**, may we today propitiate you who are manifested, to overcome (our foes), you who are greatly augmenting, mighty and free, for (the sake of) wealth, fame, and protection, and for the destruction of (our) enemies.”
 </details>

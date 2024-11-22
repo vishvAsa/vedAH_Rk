@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 páripatim ← páripati- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -204,11 +207,13 @@ sīṣadhāti ← √sādh- ~ sidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (the worshipper), influenced by the hope (of reward), approach with praise the adorable (**Pūṣan**), protector of all path; may he bestow upon us cows with golden horns; may Pūṣan bring to perfection our every rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Protector: pathaspathaḥ paripatim: Pūṣan is the lord of the paths
 </details>

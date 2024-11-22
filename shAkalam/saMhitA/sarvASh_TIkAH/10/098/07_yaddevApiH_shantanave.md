@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 devā́piḥ ← devā́pi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -166,11 +169,13 @@ vā́cam ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Devāpi**, the **Purohita** for **Śantanu**, engaged in his functions of **Hotā**, compassionating (him),slicited **Bṛhaspati**, to whom the gods listen, who begs for rain, (Bṛhaspati) being plural ased gave him a voice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Voice: **Nirukta** 2.12: Bṛhspati communicated to him the address go **Agni** which follows
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruhūta ← puruhūtá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -176,7 +179,8 @@ sunvaté ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bearer of the thunderbolt, invoked of many, radiant, drinker of the **Soma**, be present at our libations foryour exhilaration; for you are an abundant giver of desirable wealth to him who utters your praises and effusesthe Soma.”
 </details>

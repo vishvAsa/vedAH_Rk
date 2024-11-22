@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yours **Agni**, is the office of the **Hotā**, of the **Potā**, of the **Ṛtvij**, of the **Neṣṭā**; you are the **Agnīdhra** of the devout; yours is the functionof the Praśāstā; you are the **Adhvaryu** (adhvaryu radhvarayur adhvaram kāmayata iti vā (**Nirukta** 1.8) and the **Brahmā**; and the householder in our dwelling.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hotā etc.: these are the eight of the sixteen priests employed at very solemn ceremonies; the duty of the Praśāstā is ascribed to the **Maitrāvaruṇa**, and Brahmā is identified with the Brāhmaṇāccahṃsi; Kulluka Bhaṭt.a, in his commentary on **Manu** viii.210 enumerates sixteen priests, in the order and proportion in which they are entitled to share in a **dakṣiṇā** of a hundred cows, being arranged in four classes, of which the first four are severally the heads, and others subordinate to them, in the same course of succession: 1. Hotā, Adhvaryu, **Udgatā** and Brahmā, are to have twelve each, or forty-eight in all; 2. Maitrāvaruṇa, Pratistotā, Brāhmaṇāccaṃsi and **Prastotā**, six each, or twenty-four; 3. Accavāka, Neṣṭā, **Āgnīdhra** and **Pratihartā** four each, or sixteen; and 4. Grāvadut, **Netā**, Potā and **Subrahmaṇya**, three each, or twelve in all; making up the total of one hundred. Thus, the percentages for the four groups are: 48, 24, 16, 12 respectively. **Rāmanātha**, in his commentary on the **Amarakośa**, viii.17 gives the names of 16 priests, but with a few variations: **Grāvastut** replaces Grāvadut; Prastotā, Netā and Potā are replaced with Prasthātā, Praśāstā and Balaccadaka. In the **Aitareya** **Brāhmaṇa** vii.1, the sixteen priests are enumerated with some variations: Pratistotā, Grāvadut, Netā and Subrahmaṇya are replaced with Pratiprasthatā, Upagātā, **Ātreya** and **Sadasya**. Other priests included in this list are: Grāvastut, **Unnetā**, Subrahmaṇya and the **Śamitā** (immolator), when a Brāhmaṇa. **Mādhava**'s commentary on the **Nyāya**-**māla**-**Vistāra** of **Jaimini**, the list of 16 priests, following **Kumārila** Bhaṭt.a includes: 1. Adhvaryu, **Prati**-prasthātā, Neṣṭā, Unnetā (ceremonial of the **Yajurveda**); 2. Brahmā, Brāhmaṇāccaṃsi, Āgnīdh, Potā (superintend the whole according to the ritual of the three **vedas**); 3. **Udgātā**, Prastotā, Pratihartā, Subrahmaṇya (chant the hymns, especially, **Sāmaveda**); 4. Hotā, Maitrāvaruṇa, Acchavāka, Grāvastut (repeat the hymns of the Ṛcā); the head of each class receives the entire dakṣiṇā,or gratuity; the second, one-half; the third, one-third; and the fourth, a quarter
 </details>

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -179,7 +182,8 @@ yácha ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Strength-bestowing **Agni**, protect from the oppressor and the revilers those in whose dwelling Iḷā,butter-handed, sits down satisfied, and grant to us felicity long renowned; Iḷā, butter-handed: iḷā ghṛtahastā= annarūpa havirlakṣaṇā **devī**, a goddess, the impersonation of food, that is, of sacrificial food, or theoblation person nified\].”
 </details>

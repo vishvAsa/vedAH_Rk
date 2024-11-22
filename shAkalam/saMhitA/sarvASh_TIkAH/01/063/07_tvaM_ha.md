@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -205,11 +208,13 @@ várivaḥ ← várivas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, wielder of the thunderbolt, warring on behalf of **Purukutsa**, you did overturn the seven cities; you did cut off for **Sudāsa** wealth of Aṅhas, as if (it had been a tuft) of sacred grass, and did give it to him, O king, ever satiating you (with oblations).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purukuts ais a ṛṣi. Sudāsa is a king. Aṅas is an **asura**
 </details>

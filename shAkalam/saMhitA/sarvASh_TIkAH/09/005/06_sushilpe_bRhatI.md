@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hatī́ ← br̥hánt- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -110,7 +113,8 @@ náktoṣā́sā ← náktoṣā́s- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pure-flowing (**Soma**) longs for the fair-formed wide-reaching mighty Night and Dawn not yet visible.”
 </details>

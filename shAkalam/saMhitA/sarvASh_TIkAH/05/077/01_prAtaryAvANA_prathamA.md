@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prātaryā́vāṇā ← prātaryā́van- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -174,11 +177,13 @@ pūrvabhā́jaḥ ← pūrvabháj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship the two who come first (of the gods) at dawn; let them drink before the greedy withholders (of the offering); for the **Aśvins** verily claim the morning sacrifice; the ardent sages praised them (at dawn).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ancient sages: kavayaḥ pūrvabhājaḥ: **kavi** = one learned in the **Vedas**: ye ve anucānas te kavayaḥ, those are anucānas are **kavis** (**Aitareya** **Brāhmaṇa**);
 

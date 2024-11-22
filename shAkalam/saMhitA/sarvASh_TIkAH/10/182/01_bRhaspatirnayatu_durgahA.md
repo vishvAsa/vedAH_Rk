@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -194,11 +197,13 @@ yós ← yós (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let **Bṛhaspati**, the overcomer of difficulties, put aside (all sins), let him thrust aside the weapon of thecalumniator; may he hurl down the inglorious (enemy), may he baffle the malevolent, and bestow upon thesacrificer health and prosperity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Difficulties: duragaha = destroyer of those who go wickedly; or, may he lead usacross difficulties
 </details>

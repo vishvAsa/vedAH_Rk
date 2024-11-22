@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámr̥ktena ← ámr̥kta- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -170,11 +173,13 @@ upastáraṇam ← upastáraṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The immortal green-tinted **Soma** when purified is arranged in an uncleaned shining vestment; he ahs created (**Āditya**) who stands on the back of the sky for the destruction (of sin) and purification, (and has created) Āditya's brilliance, the cover of the two worlds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Shining vestment: i.e., the milk; Āditya's brilliance: nabhasmayam = ādityamayam ādityasya svabhūtam **tejas**
 </details>

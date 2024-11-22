@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣā́saḥ ← aruṣá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ vidhaté ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The bright and wondrous steeds, conveying the resplendent Uṣas, are visible; she advances, radiantin her every-way-moving chariot; she bestows wealth upon the man who practises sacred rites.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -195,7 +198,8 @@ kŕ̥tvyam ← kŕ̥tvya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Conveyed by the swift white horses of **Sūrya**, I hasten forth by my power; when the effused libation ofa man invokes me to the brilliant form of the sacrifice, I drive off with my weapons the destroyer who is to beslain.”
 </details>

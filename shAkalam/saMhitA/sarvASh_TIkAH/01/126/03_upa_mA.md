@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dattā́ḥ ← √dā- 1 (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
 
@@ -181,7 +184,8 @@ sánat ← √sanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ten chariots drawn by bay steeds, and carrying my wives, stood near me, given meby **Svanaya**; and a thousand and sixty cows followed; these, after a short interval of time, did **Kakṣīvat** deliver (to his father).”
 </details>

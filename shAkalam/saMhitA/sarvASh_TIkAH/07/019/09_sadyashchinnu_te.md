@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíṣṭau ← abhíṣṭi- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -197,11 +200,13 @@ yújyāya ← yújya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The leader (of rites), reciters of prayers, offer, **Maghavan**, prayers devoutly for your adoration; they bytheir praises have appropriated the wealth of the niggards; select us (as the objects) of your friendship.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By theirpraises: ye te havebhir vi pāṇin adaśan: apradānaśīlān vaṇijo api dhanāni viśeṣeṇadāpayan, theyhave made to give, or have mulched, especially in their riches, those traders who are not donors of offerings
 </details>

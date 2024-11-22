@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -210,11 +213,13 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, may the energies of that man be enfeebled; may heaven consume that impious adversary who thinks himself superior to us, and who pretends to deprecate the worship that we offer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That impious adversary: brahmadviṣam: the next verse has brahmadviṣe; tam śatrum, that enemy, with reference to the word **brahma**, which has occurred before, religious act or praise, the enemy or obstructer of prayer or praise;
 

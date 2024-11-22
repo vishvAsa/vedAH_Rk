@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádreḥ ← ádri- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ vratā́ni ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They propitiate the wise, the manifesting, the sustaining,t he enlightener of the pious, the giver ofhappiness, the sovereign of heaven and earth; I glorify the ancient and mighty works of **Agni**, the demolisher ofcities.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -158,11 +161,13 @@ súbandho ← subándhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (**Agni**) your mother, this your father, this the giver of life to you, has arrived; come back,**Subandhu**, to this your (body) that is capable of motion. Come forth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Givr of life: The brothers of Subandhuaddress their supplications to Agni, to restore him to life and that he has come accordingly, being, as it were, hisparent and begetter; or, as Subandhu, your father, mother and son, have come to mourn your decease\]. not for death, but for security. for death, but for security.
 </details>

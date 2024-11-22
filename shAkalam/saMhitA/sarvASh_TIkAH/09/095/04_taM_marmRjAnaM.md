@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahiṣám ← mahiṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ váruṇam ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The priests) milk forth the **Soma** cleansed (dwelling) on a high plural ce like a buffalo, the sprinkler, plural ces between the grinding-stones; praises attend upon the longing Soma; (**Indra**) who dwells in three abodes supports him, the defeater of enemies, in the firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The priests milk forth: grāvaṇo **vatsā** ṛtvijo duhanti (**Taittirīya** **Saṃhitā**: 6.2.11.4); who dwells in three abodes: or, **tritaḥ** may be an epithet of **somaḥ**; varuṇam may be an epithet of indram
 </details>

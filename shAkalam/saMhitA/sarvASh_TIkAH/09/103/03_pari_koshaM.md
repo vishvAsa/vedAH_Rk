@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kóśam ← kóśa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -126,7 +129,8 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** sends forth (its juice) through the woollen fleece to the honey-dripping receptacle; the seven metres of the ṛṣis praise (it).”
 </details>

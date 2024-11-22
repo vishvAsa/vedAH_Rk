@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 pūyámānaḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:PASS}
 
@@ -208,11 +211,13 @@ uṣṇán ← √uṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Soma** the augmenter (of the gods), self-augmenting, being purified, the showerer (of benefits), protect us by his radiance; through whom our forefathers, tracing the footmarks, cognizant of all things, stole the cattle from the rock.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Stock the cattle from the rock: us. = muṣ; i.e. 'stole (ransacked) the rock with regard to (i.e., for) the cattle'
 </details>

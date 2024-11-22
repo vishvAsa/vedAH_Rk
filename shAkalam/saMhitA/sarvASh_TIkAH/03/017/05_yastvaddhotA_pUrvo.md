@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -222,7 +225,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is the most diligent offerer of worship who is the presenter of oblations before you are and who in two plural ces (the middling and the best) seated with the sacrificial food is (the source of) happiness (to the worshippers); do you cognizant (of the objects of devotion), officiate in accordance with his piety, and thus render our rite acceptable to the gods.”
 </details>

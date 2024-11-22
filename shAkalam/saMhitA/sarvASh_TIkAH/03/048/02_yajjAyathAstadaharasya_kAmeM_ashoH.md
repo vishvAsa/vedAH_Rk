@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhar ~ áhaḥ ← áhar ~ áhan- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -212,7 +215,8 @@ pitúḥ ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “On the day on which you were born, you did drink at will the mountain-abiding nectar of this **Soma**, for your youthful parent mother (**Aditi**), in the dwelling of your great sire (**Kaśyapa**), gave it to you before she gave the breast.”
 </details>

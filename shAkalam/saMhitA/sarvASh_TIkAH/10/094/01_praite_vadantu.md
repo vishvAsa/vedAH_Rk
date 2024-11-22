@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {}
 
@@ -199,7 +202,8 @@ somínaḥ ← somín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let these (stones) speak; let us reply to the speaking stones, and do you (priests) utter (praise); when,you solid, quick-moving stones, you utter the noise of praise together to **Indra**, (then you become) full of theSoma.”
 </details>

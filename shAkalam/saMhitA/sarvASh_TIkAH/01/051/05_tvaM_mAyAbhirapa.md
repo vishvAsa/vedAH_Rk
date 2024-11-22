@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhamaḥ ← √dhamⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -191,11 +194,13 @@ r̥jíśvānam ← r̥jíśvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, by the devices, have humbled the deceivers who presented oblations to their own mouths; propitious to men, you have destroyed the cities of Pipru, and have well defended Ṛjiśvan in robber-destroying (contest).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pipru is an **asura**; Ṛjiśvan is a worshipper whom they oppressed; **dasyu**-hatyeśu, in battles killing the **dasyus**
 </details>

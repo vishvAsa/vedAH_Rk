@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dúghānām ← dúgha- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -176,11 +179,13 @@ paṇím ← paṇí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** with his voice as with an (armed) **hand** clove **Vala** the defender of hte kine; desirous of themixture (of milk and **Soma**) he with (the **Maruts**)k, who were shining with person iration, destroyed **Paṇi** andliberated the cows.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Shining with person iration: dripping ornaments, or having streaming ornaments,kṣaradābharaṇaiḥ
 </details>

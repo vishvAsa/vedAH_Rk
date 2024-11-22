@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gávām ← gáv- ~ gó- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -179,11 +182,13 @@ párā ← párā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let the **Yātudhāna** drink poison from the cattle; let the (**rākṣasas**) hard to overcome be cut topieces for the sake of **Aditi**; may the divine **Savitā** give them over (to destruction), may they be deprived of thefood of herbs.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e., may they take the food of herbs
 </details>

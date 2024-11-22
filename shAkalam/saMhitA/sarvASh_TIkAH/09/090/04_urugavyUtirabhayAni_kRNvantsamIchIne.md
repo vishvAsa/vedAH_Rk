@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhayāni ← ábhaya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -182,7 +185,8 @@ vā́jān ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow you whose paths are broad, giving security (to the worshipper), uniting heaven and earth, wishing to enjoy the waters of dawn, the sun and (his) rays you cry aloud, ( to bestow upon) us ample food.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -196,7 +199,8 @@ vītáye ← vītí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are he who, for our good, are possessed of riches; kindled by us, blaze as the liberal donor of wealth to us; render heaven and earth propitious to us so that, divine Agni, (the gods) may partake of the oblations of the instrumental tutor of the rite.”
 </details>

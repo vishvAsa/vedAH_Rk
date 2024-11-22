@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imā́ ← ayám (pronoun)  
 {case:NOM, gender:N, number:PL}
 
@@ -164,7 +167,8 @@ viśvádhā ← viśvádhā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you, hero, I indeed offer these sacrifices, to you I address these elevating praises; you are to be inall ways invoked by the leaders (of rites).”
 </details>

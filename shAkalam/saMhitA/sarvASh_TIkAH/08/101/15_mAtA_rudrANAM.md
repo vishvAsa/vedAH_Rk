@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 duhitā́ ← duhitár- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -185,7 +188,8 @@ vadhiṣṭa ← √vadhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(She who is) the mother of the **Rudras**, the daughter of the **Vasus**, the sister of the **Ādityas**, the homeof ambrosia-- I have spoken to men of understqanding-- kill not her, the sinless inviolate cow.”
 </details>

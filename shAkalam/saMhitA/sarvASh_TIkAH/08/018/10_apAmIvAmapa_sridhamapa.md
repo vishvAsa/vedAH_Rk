@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámīvām ← ámīvā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -125,7 +128,8 @@ yuyótana ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Ādityas**, remove (from us) disease, enemies, malignity; keep us afar from sin.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 acikradat ← √krand- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -188,11 +191,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Shining, he cries aloud (descending) into the vessels, pressed by the priests into the golden receptacle; the milk of the sacrifice glorify him; the supporter of the three sacrifices shines (most) on the days of sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The milk of the sacrifice: 'the priests milk the stones as calves (milk the cows)' (**Taittirīya** **Saṃhitā** 6.2.11.4).
 </details>

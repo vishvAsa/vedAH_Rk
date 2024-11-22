@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 ádadhāt ← √dhā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -192,7 +195,8 @@ br̥hádukthāt ← br̥háduktha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To that **Indra**, who has deposited the light in luminous bodies, who has flavoured sweet things withsweetness, this acceptable invigorating praise has been recited by **Bṛhaduktha**, the author of the prayer.”
 </details>

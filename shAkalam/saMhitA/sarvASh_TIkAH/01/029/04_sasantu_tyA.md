@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 árātayaḥ ← árāti- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -167,7 +170,8 @@ tuvīmagha ← tuvī́magha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May those who are our enemies, slumber, and those, O hero, who are our friends, be awake; **Indra**, of boundless wealth, enrich us with thousands of excellent cows and horses.”
 </details>

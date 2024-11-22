@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mŕ̥dhaḥ ← mŕ̥dh- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -121,7 +124,8 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke the fierce **Indra** and **Agni**, the slayers of enemies; may they give us success in similar warfare.”
 </details>

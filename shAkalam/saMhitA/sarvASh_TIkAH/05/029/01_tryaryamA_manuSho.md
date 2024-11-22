@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryamā́ ← áryaman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the adoration of the gods by **Manu** there are three effulgences, and they, (the **Maruts**), uphold three luminaries in heaven; the Maruts of pure energy worship you, for you, **Indra**, are their intelligent ṛṣi”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three luminaries: the sun, the wind, and fire; the same trio may be intended by the earlier phrase tryaryamā trīṇi aryamāṇi tejāṃsi
 </details>

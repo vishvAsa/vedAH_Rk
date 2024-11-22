@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 enā́ ← ayám (pronoun)  
 {case:INS, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ vr̥kṣám ← vr̥kṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And flow with this filtered stream at the renowned station ofyou who are worthy of renown; (the **Soma**) the destroyer of enemies has shaken down (for us) sixty thousand treasures for victory as (one shakes) a tree whose fruit is ripe.”
 </details>

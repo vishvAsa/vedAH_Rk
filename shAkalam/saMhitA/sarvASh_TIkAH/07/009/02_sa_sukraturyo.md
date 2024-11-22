@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dúraḥ ← dvā́r- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -187,7 +190,8 @@ tirás ← tirás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the doer of great deeds, who forced open the doors of the **Paṇis**, recovered for us the sacredfood-bestowing (herd of kine), he who is the invoker of the gods, the giver of delight to the lowly-minded, is seenof all people dissipating the gloom of the nights.”
 </details>

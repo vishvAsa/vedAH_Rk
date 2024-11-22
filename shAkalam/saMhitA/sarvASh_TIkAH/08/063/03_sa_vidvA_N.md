@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirobhyaḥ ← áṅgiras- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -135,11 +138,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the wise **Indra**, discovered the cows to the **Aṅgirasas**; I glorify that his might.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Discovered the cows:when carried off by the **paṇis**; cf. RV 1.6.5; 1.11.5
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 dhíyam ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -175,7 +178,8 @@ vidáthe ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Pūṣaṇ**, who is the benefactor of all, be propitious to (this pious) rite; may **Soma**, the lord of wealth, grant us affluence; may **Aditi**, who is without an adversary, protect us, so that, blessed with excellent descendants, we may worthily glorify (you) at this sacrifice.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -177,7 +180,8 @@ suṣṭutím ← suṣṭutí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Leaders of rites, when the Ṛṣis formerly invoked you for protection, you came; so now, **Aśvins**, comeat my devout praises.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adharā́t ← adharā́t (invariable)  
 {}
 
@@ -193,7 +196,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Seven sages sprang from the lower portion (of **Indra** as **Prajāpati**); eight were born from the upperportion; nine occupants of stations came from behind, and ten, genitive rated in the front, partaking of food,eight **vālakhilyas**; nine **bhṛgus**; ten **aṅgirasas**; or, seven **Maruts** on Indra's right, eight on his left, nine behindhim, and ten in front\].”
 </details>

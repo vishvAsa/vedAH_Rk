@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 babhrúḥ ← babhrú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -115,11 +118,13 @@ hiraṇyáyam ← hiraṇyáya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One (**Soma**) brown of hue, all-pervading, leader of the nights, ever young, decorates (himself) withgolden ornament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 One Soma brown of hue: **babhru** is an apparent reference to the hue of a commodity; otherepithets appear to describe Soma as the moon; leader of the nights: sunara = suṣṭhu rātrīṇām **netā**
 </details>

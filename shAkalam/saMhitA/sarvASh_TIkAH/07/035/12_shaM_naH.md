@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 bhavantu ← √bhū- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -224,7 +227,8 @@ pitáraḥ ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the lords of truth be (propitious to) our happiness; may horses, may cattle, (contribute to) ourhappiness; may the virtuous, the dexterous **Ṛbhus**, be to us (for) felicity; may the progenitors be (promoters of)our happiness at the seasons of worship.”
 </details>

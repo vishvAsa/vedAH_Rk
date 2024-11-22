@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hán ← br̥hánt- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -135,7 +138,8 @@ tvā́m ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Viṣṇu**, the mighty giver of dwellings, praises you, and **Mitra** and **Varuṇa**; the company of the Marutsimitates you in exhilaration.”
 </details>

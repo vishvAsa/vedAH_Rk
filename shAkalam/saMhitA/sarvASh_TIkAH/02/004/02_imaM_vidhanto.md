@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apā́m ← áp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -186,11 +189,13 @@ jīrā́śvaḥ ← jīrā́śva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Bhṛgus**, worshipping **Agni**, have twice made him manifest; (once) in the abode of the waters, and (once) among the sons of men; may that Agni, the sovereign of the gods, mounted on a rapid courser, ever overcome all (our foes).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Twice made him manifest: as lightning in the firmament, and as culinary fire on earth
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́hutaḥ ← √hu- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -124,7 +127,8 @@ srucā́ ← srúc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is to be glorified with the voice (of praise), blazes up when invoked, he is sprinkled with theladle before (the other gods).”
 </details>

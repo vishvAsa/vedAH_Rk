@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrāṇā́saḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
 
@@ -168,7 +171,8 @@ sū́ryeṇa ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Decorated with gold and jewels, they were spreading over the circuit of the earth; but mighty as they were, they triumphed not over **Indra**; he dispersed them with the (rising) sun.”
 </details>

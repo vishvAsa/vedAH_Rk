@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́paḥ ← áp- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -206,11 +209,13 @@ vidvā́n ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The leaders (of the ceremony) have prepared for you, **Indra**, this (libation), sweetened with milk, the stones, the water; beautiful Indra, who is favourably disposed, and who is wise, knowing well (the worship) that is according to your peculiar paths, come and drink of this libation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Knowing well the worship: prajānan **pathyā** anu svāḥ = righty apprehending the praises which are due or peculiar, and which are offered with the rites enjoined by the **Vedas**.
 </details>

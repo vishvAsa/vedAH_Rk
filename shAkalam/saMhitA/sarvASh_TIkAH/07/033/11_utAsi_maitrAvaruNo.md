@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -187,11 +190,13 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, **Vasiṣṭha** you are the son of **Mitra** and **Varuṇa**, born, **Brahmā**, of the will of **Urvaśī**, after theseminal effusion; all the gods have sustained you, (endowed) with celestial and Vedic vigour in the lake.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Born ofthe will of Urvaśī: Urvaśī, on seeing the birth of the Ṛṣi, said to herself, let this be my son; Endowed withcelestial and vedic vigour: brahmaṇā daivyena; adding an epithet: yuktam, joined with; devasambandhinavedarāśināhambhuva yuktam;
 

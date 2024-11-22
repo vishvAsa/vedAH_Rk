@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ápa ← ápa (invariable)  
 {}
 
@@ -221,7 +224,8 @@ Indeed, the funerary ritual mentions that before a yajamAna attains the H Elysiu
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Depart from hence, begone, go far off, (evil spirits); the **Pitṛs** have assigned this plural ce to him, yamahas given him a plural ce of cremation consecrated by days, streams and nights. To him-- (the departedworshipper\].”
 </details>

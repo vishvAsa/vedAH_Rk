@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 báṭ ← báṭ (invariable)  
 {}
 
@@ -144,7 +147,8 @@ várṣiṣṭham ← várṣiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine sons of **Aditi**, **Mitra**, **Varuṇa**, **Aryaman**, verily you are possessed, at the present time, of perfect, adorable, vast, exceeding strength.”
 </details>

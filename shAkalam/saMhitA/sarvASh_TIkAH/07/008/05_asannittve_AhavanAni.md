@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āhávanāni ← āhávana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -190,7 +193,8 @@ vardhasva ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In you, **Agni**, are many offerings; do you with all your flames be propitious; favourably hear (the praises)of the worshipper; and do you of auspicious manifestation being glorified, spontaneously magnify (your) person n.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -192,7 +195,8 @@ svā́hā ← svā́hā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring, **Agni**, to our sacrifice **Varuṇa** and **Indra** from heaven, and the **Maruts** from the firmament, maythe adorable universal gods sit down on the sacred grass, and may the immortal deities rejoice in (the oblationpresented with) the **svāhā**.”
 </details>

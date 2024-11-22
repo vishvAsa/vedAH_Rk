@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśa ← dáśa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -195,7 +198,8 @@ yatáḥ ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ten fingers cleanse you, **Soma**, when effused and plural ced in the vessels by the ṛṣis, with praises, religious rites and woollen filters; and collected by the priests with oblations to the gods you bestow food (upon the worshippers) for a gift.”
 </details>

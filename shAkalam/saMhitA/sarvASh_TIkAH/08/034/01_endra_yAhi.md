@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -146,11 +149,13 @@ yayá ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come, **Indra**, with your horses to receive the praise of **Kaṇva**; do you, ruling yonder heaven, O radiantwith oblations, return here.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Do you ruling yonder heaveṇ..: This is the burden of the **sūkta**; divo amuṣyaśāsato divam **yaya** divāvaso = of heaven of that one governing go you to heaven, heaven- affluent; manyinterpretations are attempted: divam amuṣmin (indre) śāsati, tatra vayam sukham āsmahe: when Indra rulesheaven we abide there happily;
 

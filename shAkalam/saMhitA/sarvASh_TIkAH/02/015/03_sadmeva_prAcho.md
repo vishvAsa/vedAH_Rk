@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -198,7 +201,8 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(He it is) who has measured the eastern (quarters) with measures like a chamber; who has dug with the thunderbolt the beds of the rivers, and has easily sent them forth by long-continued paths; in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
 </details>

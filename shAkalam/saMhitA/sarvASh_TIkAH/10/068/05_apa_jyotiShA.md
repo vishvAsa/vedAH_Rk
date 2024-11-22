@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 antárikṣāt ← antárikṣa- (nominal stem)  
 {case:ABL, gender:N, number:SG}
 
@@ -195,11 +198,13 @@ vā́taḥ ← vā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Bṛhaspati** drove away the darkness from the firmament with light as the wind (blows) the Śīpālafrom the water; guessing (them to be there), he swept the **Vala**'s cows together to himself as the wind (sweeps)the clouds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Śīpāla** = an aquatic plural nt, **śaivāla**, the vallisneria
 </details>

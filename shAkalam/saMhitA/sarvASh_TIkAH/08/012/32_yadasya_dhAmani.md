@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -130,11 +133,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the congregated (worshippers) praise him aloud in a plural ce that plural ases (him) on the navel (of theearth), in the spot where the libation is effused at the sacrifice, (then).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Then: tadānīm dhanam pradehi:connects the verse with what follows-- **uttaratra** **sambandha**; **nābhā** yajñasya dohanā prādhvare: the navelis the altar (pṛthivyā nābhisthānīye);
 

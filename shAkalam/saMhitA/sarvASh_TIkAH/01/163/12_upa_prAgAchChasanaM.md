@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agāt ← √gā- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -182,11 +185,13 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The swift horse approaches the plural ce of immolation, meditating with mind intent upon the gods; the goat bound to him is led before him; after him follow the priests and the singers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The goat bound to him: ajaḥ puronīyate nābhirasyānu paścāt kavayo yanti rebhāḥ: **nābhi** is connected with aja, implying nahanam, a binding; or, as not detached from him; anu andpaścāt are connected = following after; **kaviḥ** manīṣī (**Nirukta** 3.15.10), i.e. the priests; rebhaḥ **jaritā** (Nirukta 3.16.1), i.e. the singers; stotāraḥ, i.e. the praisers follow the goat fastened to the horse's waist
 </details>

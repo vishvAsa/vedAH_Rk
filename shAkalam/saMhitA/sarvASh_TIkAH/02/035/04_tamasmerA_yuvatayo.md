@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásmerāḥ ← ásmera- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -182,11 +185,13 @@ ghr̥tánirṇik ← ghr̥tánirṇij- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The young and modest (waters) wait upon the youth, assiduous in bathing him, and he, although unfed with fuel, yet cleansed with clarified butter, shines with bright rays amidst the waters, the abundance (may be) to us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bright rays amidst the waters: allusion either to the submarine fire or to the lightning amidst the rain-clouds
 </details>

@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ryam ← ā́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -232,11 +235,13 @@ oṣati ← √uṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the manifold protector (of his worship) battles, defends his **Ārya** worshipper in all conflicts, in conflicts that confer heaven; he punished for (the benefit of) man the neglecters of religious rites; he tore off the black skin (of the aggressor); as if burning (with flame), he consumes the malignant; he utterly consumes him who delights in cruelty.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The black skin: The legens is that an **asura**, named **Kṛṣṇa** the black, advanced with ten thousand followers to the banks of the **Aṃśumati** river, where he committed fearful devastation until Indra, with the **Maruts**, was sent against him by **Bṛhaspati**, when he was defeated by Indra, and stripped of his skin
 </details>

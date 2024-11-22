@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áha ← áha (invariable)  
 {}
 
@@ -212,7 +215,8 @@ syandayádhyai ← √syand- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then, **Indra**, lord of horses, the divine sister (rivers) praise (you) for your protection when you did set them free to flow, after having been impeded (by **Vṛtra**) through a long confinement.”
 </details>

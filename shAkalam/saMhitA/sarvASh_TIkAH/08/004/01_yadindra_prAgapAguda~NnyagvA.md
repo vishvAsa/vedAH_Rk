@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápāk ← ápāñc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -168,11 +171,13 @@ turváśe ← turváśa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Indra**, as you are invoked by the people in the east, in the west, in the north, in the south, so,excellent Indra, have you been incited by men on behalf of the son of Anu; so, overcomer of foes, (have you beencalled upon) on behalf of **Turvaśa**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Inasmuch as: used for although, still
 </details>

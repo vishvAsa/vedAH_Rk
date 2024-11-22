@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kṣódaḥ ← kṣódas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -181,7 +184,8 @@ páreṣu ← pára- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As men pass over the water to the several quarters of the earth in a ship; (as they pass over) alldifficulties by the blessings (of fortune), **Bṛhaduktha** by his might has committed his own offspring to those onthis side, and to those on the other side.”
 </details>

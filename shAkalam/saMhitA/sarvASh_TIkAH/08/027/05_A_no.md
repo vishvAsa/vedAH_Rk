@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -163,7 +166,8 @@ sádane ← sádana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Universal deities, united together and of one mind, come this day to us, (attracted) by the sacred praiseaddressed to you; and do you, **Maruts**, and the mighty goddess **Aditi**, (come) to the dwelling, (our) abode.”
 </details>

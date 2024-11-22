@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥haddivā́ ← br̥haddivá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -192,7 +195,8 @@ raṇváḥ ← raṇvá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the bright shining mother (of the gods) hear us; may father **Tvaṣṭā**, with the gods, and theirwives, (hear our) words; may Ṛbhukṣan, **Vāja**, Rathaspati, **Bhaga**, may the joyous adorable (company of theMaruts) protect us their praisers.”
 </details>

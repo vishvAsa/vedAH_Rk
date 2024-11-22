@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deváḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ pátijuṣṭā ← pátijuṣṭa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who, like the divine (Sun), is the supporter of the universe, abides on earth like a prince, (surrounded by) faithful friends; in his presence, men sit down like sons in the dwelling of a parent, and (in purity he resembles) an irreproachable and beloved wife.”
 </details>

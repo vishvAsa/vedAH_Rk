@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 sunvaté ← √su- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -130,7 +133,8 @@ satsi ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To the instrumental tutor of the rite, pouring out the libation, bring excellent vigour; sit down with the gods upon the sacred grass.”
 </details>

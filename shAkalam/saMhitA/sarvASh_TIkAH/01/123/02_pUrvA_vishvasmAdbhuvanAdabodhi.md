@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abodhi ← √budh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -192,11 +195,13 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “First of all the world is she awake, triumphing over transitory (darkness); the mighty, the giver (of light) from on high, she beholds (all things); ever youthful, ever reviving, she comes first to the invocation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Jayantī** vājam: **vāja**, moving, motive; the darkness that goes away with the dawn; or, food, producing food (**annam** vai **vājaḥ**: **Śatapatha Brāhmaṇa** 9.3.4.1), as the reward of the morning sacrifice
 </details>

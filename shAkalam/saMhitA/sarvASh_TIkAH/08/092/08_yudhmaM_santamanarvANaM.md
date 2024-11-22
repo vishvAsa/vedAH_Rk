@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anarvā́ṇam ← anarván- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -116,7 +119,8 @@ náram ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The warrior, whom none oppose and none can harm, the quaffer of the **Soma**, the leader whose deedscannot be hindered.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etám ← eṣá (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -194,7 +197,8 @@ tarpayethām ← √tr̥p- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, bedew with water him who fabricates your chariot in his mind, offering high praise,the people well affected towards him.”
 </details>

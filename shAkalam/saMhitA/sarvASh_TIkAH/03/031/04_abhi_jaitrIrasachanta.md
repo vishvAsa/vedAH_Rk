@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -206,7 +209,8 @@ pátiḥ ← páti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The victorious (**Maruts**) associated (with **Indra** when contending with **Vṛtra**) perceived a great light issuing from the darkness. The dawns recognizing him (as the sun) arose, and Indra was the sole sovereign of the rays (of light).”
 </details>

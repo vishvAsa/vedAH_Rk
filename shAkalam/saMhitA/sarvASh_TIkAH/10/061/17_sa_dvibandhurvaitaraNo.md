@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvibándhuḥ ← dvibándhu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -167,7 +170,8 @@ várūthaiḥ ← várūtha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The kinsman of the two (worlds, **Agni**), the conveyer (of all), the sacrificer, (made) theambrosia-yielding cow, which had not given birth, to yield milk (for **Śayu**), when he praises **Mitra**, **Varuṇa** andAryaman, with most excellent and choice hymns.”
 </details>

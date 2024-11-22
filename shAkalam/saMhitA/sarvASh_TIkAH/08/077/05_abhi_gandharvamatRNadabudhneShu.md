@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -122,11 +125,13 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In the realms (of the sky) where the foot finds no resting-plural ce, **Indra** shattered the cloud to bringincrease to the **brāhmaṇas**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cloud: **gandharva**, gandharvam;
 
@@ -144,7 +149,8 @@ I have no idea who or what the Gandharva represents here. Geldner suggests that 
 
 The one clear connection to the Emuṣa myth within the hymn is the adj.
 
-abudhná- ‘bottomless’, which anticipates the name of the bow, bundá-, in the next vs. ### 06
+abudhná- ‘bottomless’, which anticipates the name of the bow, bundá-, in the next vs. _________
+**06**  
 Geldner takes bundám in c as the object of nír āvidhyat ‘pierced’ that opens the verse. This requires assuming an aberrant meaning for the verb (‘abschiessen’ [shoot]), and I find it unlikely (so does Oldenberg, who also feels that the object should be the target of the verb). Instead, though it requires supplying a first object for the verb in a and a verb to govern the acc. in c, I take the three pādas as relatively syntactically independent and supply the boar as one object of nír āvidhyat, in addition to odanám in b. I take the first two pādas as shorthand for killed the boar, pierced the mountain, and got the porridge - the three signature actions in the Emuṣa story. Note that odanám is the object of bhinat ‘split’ in another condensed allusion to the Emuṣa myth in VIII.69.14. As for what verb to supply to govern bundám, I supply ‘took’ from yet another abbreviated version in VIII.45.4, the only other hymn in which bundá- is found: ā́bundám … dade. For a possible long-distance syntactic/formulaic relationship between 6a and 10d, see comments on vs. 10.
 
 I take the phrase giríbhya ā́as expressing the freeing of the odanám from the mountains (pāda b), but it could also be read with pāda a with the sense of ā́+ abl.

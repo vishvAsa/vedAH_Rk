@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gā́ḥ ← gáv- ~ gó- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -158,11 +161,13 @@ usríyāḥ ← usríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They with truthful mind searching for the cows resolved by their exploits to make him the lord of cattle;**Bṛhaspati** with his self-yoked (allied) mutually defending each other from reproach, set free the kind.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mutuallydefending: mitho avadyapebhiḥ = those to whom the kine, to be protecte4d from the **asura** in the guise of sin,mutually resort
 </details>

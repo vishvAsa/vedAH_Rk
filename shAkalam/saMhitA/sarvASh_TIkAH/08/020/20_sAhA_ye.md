@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hávyaḥ ← hávya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ vándasva ← √vandⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Propitiate wiḥ praise he **Maruts**, the senders of rain, the givers of plural asure, the liberal bestowers offood; who are ever victorious in combats, and like a boxer who has been challenged over his challengerṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bestowers of food: or, the most illustrious, suśravastamā, "who are ever victorious in combats and everchallengers, like a challenge-worthy boxer"
 </details>

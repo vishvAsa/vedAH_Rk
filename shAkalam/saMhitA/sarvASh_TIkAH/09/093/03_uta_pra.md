@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ághnyāyāḥ ← ághnya- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -178,11 +181,13 @@ vásubhiḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And he nourishes the cow's udder; the intelligent **Indu** is associated with his stream; the cows clothe the elevated **Soma** in the ladles with their milk as with newly washed robes.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nourish the cow's udder: the Soma entering the herbs, etc., nourishes the cow who eats them
 </details>

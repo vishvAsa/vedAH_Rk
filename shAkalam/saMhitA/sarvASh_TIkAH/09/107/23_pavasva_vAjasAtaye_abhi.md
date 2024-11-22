@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pávasva ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -151,7 +154,8 @@ soma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow, **Soma**, to all praises to procure food (for us); you, the exhilarator of the gods, are the chief supporter of the firmament.”
 </details>

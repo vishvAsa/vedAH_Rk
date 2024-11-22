@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrisāno ← adrisānu- (nominal stem)  
 {case:VOC, gender:F, number:SG}
 
@@ -196,7 +199,8 @@ satyā́ ← satyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, Dawns, there is at presen wealh to give to your worshipper, to the man offering (oblations) to the sage repeating your praise; if the praises (are accepted), then bring to him who is like me such wealth as has been formerly bestowed (upon myself).”
 </details>

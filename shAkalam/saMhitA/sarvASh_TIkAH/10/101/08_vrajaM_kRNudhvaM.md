@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -212,7 +215,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Construct the cow-stall, for that is the drinking plural ce of your leaders (the gods), fabricate armour,manifold and ample; make cities of metal and impregnable; let not the ladle leak, make it strong.”
 </details>

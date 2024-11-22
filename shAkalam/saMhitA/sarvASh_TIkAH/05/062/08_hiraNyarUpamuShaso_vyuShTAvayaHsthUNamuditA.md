@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 híraṇyarūpam ← híraṇyarūpa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ dítim ← díti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the break of dawn, at the rising of the sun, ascend **Mitra** and **Varuṇa**, your golden-bodied, metal-pillared car, and thence, behold the earth and its inhabitants.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 10.15; ataścakṣāthe aditim ditim ca = aditim akahṇḍanīyam prajādikam, the divisible people; alternative reading: aditim = adinam, not base, i.e. vihitānuṣṭhātāram, one who follows what is prescribed, i.e., performs his religious duties;
 

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arbhakáḥ ← arbhaká- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ víśve ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “There is no one among you, gods, who is an infant or a youth; you verily are all of mature existence.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Allof mature existence: sato **mahāntaḥ** = sarvasmād vidyamānāt pṛthivyām api ye **mahāntas** tesatomahānta iti ucyante, liṭ, greather than all that is
 </details>

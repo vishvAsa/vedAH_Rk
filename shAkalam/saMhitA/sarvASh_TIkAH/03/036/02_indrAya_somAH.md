@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāya ← índra- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -176,11 +179,13 @@ vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To **Indra** have libations been presented in the days of old, whereby he has become illustrious, the regulator of time, the granter of desires; accept, Indra, these prescribed (offerings), and drink of this auspicous (**Soma**), expressed by the stones.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Has become illustrious: ṛbhur yebhiḥ, **vṛṣaparvā** vihāyāḥ = with which (libations) he is **ṛbhu**;or, dītaḥ, enlightened;
 

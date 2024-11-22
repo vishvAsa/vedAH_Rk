@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 adhvaré ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -137,11 +140,13 @@ agni, the hotar, being the booty bearing horse, is led around in our sacrifice; 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the invoker (of the gods), like a horse (that bears a burden), is brought to our sacrifice; a deity adorable among deities.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Is brought to our sacrifice: pariṇīyate = implies a formal ceremonial, the bringing of the fire taken from the household fire wherewith to light the sacrificial fire; **vāji** san = a horse, i.e., whom they load as a horse bringing a load; Agni is brought to become the bearer of the oblation, havir **vāhanaḥ** (**Aitareya** **Brāhmaṇa** 2.5)
 </details>

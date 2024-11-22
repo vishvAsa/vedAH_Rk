@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -196,11 +199,13 @@ véṣantīḥ ← √viṣ- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(One of you), the disperser (of the clouds), like **Indra**, the annihilator (of his foes), desirous of the oblation, proceeds (bestowing) abundant food. (Devout worshippers) cherish with (sacrificial) viands, (the faculties) of the other, for the sake of favours, which flow upon us like swelling rivers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Disperser of the clouds: **śaradvān** = śaraṇavān, blighting, withering as leaves, or many-yeared, old, eternal, **bahu**-**saṃvatsaraḥ**; or, autumnal, with reference to one of the **Aśvins** as the moon, śaratkālavān; faculties of the other: the reference is to ekasya, of the one and anyasya, of the other
 </details>

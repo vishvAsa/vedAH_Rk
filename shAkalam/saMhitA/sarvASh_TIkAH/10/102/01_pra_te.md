@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 mithūkŕ̥tam ← mithūkŕ̥t- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -154,11 +157,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May (**Indra**) by his prowess protect your cart (**mudgala**) that has no companion, defend us, O invokedof many, in this memorable conflict in the recovery of our wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Legend: the oxen of mudgala were carried offclub in front of him. It conducted him to the robbers, and he got back his cattle
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávātaḥ ← ávāta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -183,7 +186,8 @@ iṣaṇyán ← √iṣaṇ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Soma**) who are the exhilarator, harming (the foe) in battles, (yourself) unharmed, who have a thousand streams, rush against the strength (of the enemy), **Indu**, who are being purified, the sage, uttering cries, urge on for **Indra** the wave of juice.”
 </details>

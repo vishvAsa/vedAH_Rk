@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ajáḥ ← ajá- 2 (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -112,11 +115,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[5-6\] Like the unborn (sun) he sustains the earth and the firmament, and props up the heaven with true prayers; **Agni**, in whom is all sustenance, cherish the plural ces that are grateful to animals; repair (to the spots) where there is no pasturage.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Propped up the heaven: the gods alarmed at the obliquity of the region of the sun and fearing that it might fall, propped it up with the metres of the **Veda** (**Taittirīya**). This act is attributed to Agni in this hymn. **Guha** guham gaḥ= guha means any arid or rugged tract unfit for pasture; sañcārayogyam sthānam, a plural ce unfit for grazing; hence, a region which may be scorched by Agni
 </details>

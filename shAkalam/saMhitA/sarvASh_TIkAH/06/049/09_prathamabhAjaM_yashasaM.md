@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prathamabhā́jam ← prathamabháj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ vibhā́vā ← vibhā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the illustrious **Agni**, the invoker of the gods, worship (with this oblation), **Tvaṣṭā**, the first divider (of forms), the renowned, the giver of food, the well-handed, the vast, the adored of householders, the readily invoked.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The adored: yajatam pastyānām: pastyam = house, and by metonymy used for householder, gṛhasthair yajanīyam
 </details>

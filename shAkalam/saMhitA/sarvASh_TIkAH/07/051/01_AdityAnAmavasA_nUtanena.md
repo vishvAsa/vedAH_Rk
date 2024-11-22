@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityā́nām ← ādityá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -146,7 +149,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, through the protection of the **Ādityas**, be in the enjoyment of a new and comfortable dwelling;may the swift-moving Ādityas, listening to our praises, preserve this their worshipper in sinlessness andindependence.”
 </details>

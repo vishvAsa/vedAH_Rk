@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 krámaṇāya ← krámaṇa- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -188,7 +191,8 @@ yuvóḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Firm-set Heaven and Earth, the mortal who has offered (oblations) for your straight-forward course, accomplishes (his objects), he prospers with progeny, and invigorated by your operation, many beings of various forms, but similar functions, are engendeed.”
 </details>
@@ -218,7 +222,8 @@ My “poured out from you” of course tacitly misrepresents the case of dual yu
 
 yuvát is attested only once in the RV, and I take yuvóḥ as an ex. of the all-purpose genitive: poured out from you and hence yours.
 
-The explicitly contrastive víṣurūpāṇi sávratā reminds us of the phrase in the Yama/Yamī hymn X.10.2, sálakṣmā … víṣurūpā, describing Yamī compared to Yama: “having the same marks, but dissimilar form.” ### 04-05 These two vss., concerning ghee and honey respectively, have similarly structured 1st halves: a case form of the substance opens the vs. (4a ghṛténa, 5a mádhu), while the 2nd pāda consists of three 3 cmpds in the dual with the substance as 1st member. The 2nd members do not repeat (ghṛta-śríyā ghṛta-pṛ́cā ghṛtā-vṛ́dhā; madhu-ścútā madhu-dúghe mádhu-vrate), but only the last two are not root noun cmpds.
+The explicitly contrastive víṣurūpāṇi sávratā reminds us of the phrase in the Yama/Yamī hymn X.10.2, sálakṣmā … víṣurūpā, describing Yamī compared to Yama: “having the same marks, but dissimilar form.” _________
+**04-05 These two vss., concerning ghee and honey respectively, have similarly structured 1st halves: a case form of the substance opens the vs. (4a ghṛténa, 5a mádhu), while the 2nd pāda consists of three 3 cmpds in the dual with the substance as 1st member. The 2nd members do not repeat (ghṛta-śríyā ghṛta-pṛ́cā ghṛtā-vṛ́dhā; madhu-ścútā madhu-dúghe mádhu-vrate), but only the last two are not root noun cmpds.**  
 </details>
 
 <details><summary>Griffith</summary>

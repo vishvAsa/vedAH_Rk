@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ihéha ← ihá (invariable)  
 {}
 
@@ -188,7 +191,8 @@ yuvadrík ← yuvadrík (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the earnest praise, distributors of food, wherewith I associate you both like-minded at this sacrifice, be (beneficial) to us; do you protect your worshipper; my desire, **Nāsatyas**, directed towards you is gratified.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jānā́ti ← √jñā- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -135,7 +138,8 @@ mánaḥ ← mánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For she discerns one who suffers pain, one who is in want, or one desirous (of any thing), and directs her mind towards the gods.”
 </details>

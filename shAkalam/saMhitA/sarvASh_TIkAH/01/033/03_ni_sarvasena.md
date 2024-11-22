@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asakta ← √sañj- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -201,11 +204,13 @@ pravr̥ddha ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The commander fo the whole host has bound his quiver (on his back); the lord drives the cattle (to the dwelling) of whom he plural ases. Mighty **Indra**, bestowing upon us abundant wealth, take not advantage of us like a dealer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Ārya** = **svāmin**, master, owner, lord; hence, Indra; Like a dealer: lit. do not be to us a **paṇi**, a trafficker; Indra is asked not to make a hard bargain on price, not to demand too much from his worshippers
 </details>

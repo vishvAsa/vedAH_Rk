@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávardhayan ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -186,7 +189,8 @@ vapuṣyan ← √vapuṣy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seven great rivers augmented in might the auspicious, pure, and radiant **Agni** as soon as he was born, in like manner as mares (tend) the newborn foal; the gods cherished the body (of Agni) at his birth.”
 </details>

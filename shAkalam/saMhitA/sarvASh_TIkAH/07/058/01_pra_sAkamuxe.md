@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcata ← √r̥c- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -164,11 +167,13 @@ nírr̥teḥ ← nírr̥ti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer worship to the company (of the **Maruts**), the associated dispensers of moisture, which is powerfulover the celestial region; the Maruts, by their greatness, oppress both heaven and earth; they spread from theearth and the firmament to heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 They spread: nakṣante nākam **nirṛti** avaṃsāt: niṛṛti = **bhūmi**;
 

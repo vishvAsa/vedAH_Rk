@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -204,7 +207,8 @@ vasavyaìḥ ← vasavyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mortal who by praise, by prayers, by sacrifices, attracts, son of strength, your heightened (radiance) to the altar, enjoys all-sufficiency and corn, and abounds in wealth.”
 </details>

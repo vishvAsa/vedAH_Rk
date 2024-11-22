@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hatā́ ← br̥hánt- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ vājinīvati ← vājínīvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable Uṣas, associate us with much and multiform wealth, and with abundant cattle, with all foe-confounding fame, and giver of sustenance, with food.”
 </details>

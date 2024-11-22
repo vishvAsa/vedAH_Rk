@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -182,11 +185,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I make the five stages of the sacrifice ascend; I take four steps by pious observances; with the sacredsyllable, I perfect this (adoration); I purify (the **Soma**) on the navel of the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I make...ascend: the fivestages are the five members of the sacrifice: i.e., grain, Soma, the kind, the **puroḍāśa** cake and butter. Thefour steps are: the metres most commonly used, **triṣṭubh** etc.; the other three are perhaps, **jagatī**, gāyatrīand **anuṣṭubh**; pious observances: **rupaḥ** = that which causes the sacrificers to ascend to heaven, i.e., thesacrifice, I make ascend = I put on the **sakaṭa**
 </details>

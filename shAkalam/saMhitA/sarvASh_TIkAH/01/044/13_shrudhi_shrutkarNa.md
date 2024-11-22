@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śrudhí ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -160,7 +163,8 @@ prātaryā́vāṇaḥ ← prātaryā́van- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, with sharp ears, hear me; let **Mitra** and **Aryaman**, and Aryaman, and (other) early-stirring deities, with all the accompanying oblation-bearing gods, sit down at the sacrifice upon the sacred grass.”
 </details>

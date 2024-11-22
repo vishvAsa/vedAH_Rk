@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 asmin ← ayám (pronoun)  
 {case:LOC, gender:M, number:SG}
 
@@ -165,7 +168,8 @@ vr̥jánam ← vr̥jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We address our pious prayers to you, **Agni**, the son of prayer, the subduer of foes; may we procure, by these sacred supplications, infinite wealth, that we may thence obtain food, strength and long life.”
 </details>

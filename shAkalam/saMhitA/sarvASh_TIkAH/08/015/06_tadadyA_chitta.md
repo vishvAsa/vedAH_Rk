@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; 12 = 8+4
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -143,7 +146,8 @@ vŕ̥ṣapatnīḥ ← vŕ̥ṣapatnī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The reciters of prayer celebrate that your (exhilaration) now as of old; do you daily hold in subjectionthe waters, the wives of the showerer.”
 </details>

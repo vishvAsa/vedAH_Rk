@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhnā ← áhar ~ áhan- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -232,7 +235,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be propitious to us with light; be propitious to us with sunshine; be propitious to us with warmth; bepropitious to us with frost; and grant us, **Sūrya**, various wealth, whereby we may prosper on the road and in thehouse.”
 </details>

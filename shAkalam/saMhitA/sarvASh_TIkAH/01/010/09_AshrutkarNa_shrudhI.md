@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́śrutkarṇa ← āśrutkarṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ yujáḥ ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Oh! your whose ears hear all things, listen quickly to my invocation; hold in your heart my praises; keep near to you this my hymn, as it were (the words of) a friend.”
 </details>

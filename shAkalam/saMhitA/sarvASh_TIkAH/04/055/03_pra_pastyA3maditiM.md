@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditim ← áditi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -179,11 +182,13 @@ uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I adore the venerated **Aditi**, the **Sindhu** and the divine **Svasti** for their friendship; (I praise you) both, Day and Night, that you may protect us unimpeded; night and morning do (what we desire).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svastim: sukhanivāsam, etannāmikam devim, the abose of happiness; well-being, or a goddess so named
 </details>

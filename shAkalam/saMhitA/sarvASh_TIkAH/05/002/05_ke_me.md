@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 góbhiḥ ← gáv- ~ gó- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -222,11 +225,13 @@ paśváḥ ← paśú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who have disunited my people from the cattle? was there not for them an invincible protector? may they who have seized upon that (people) perish, for he who knows (our wishes) approaches to (protect) the cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who have disunited my people from the cattle: ke me maryakam viyavanta **gobhiḥ** = what enemies have despoiled my kingdom; an invincible protector: **Agni**
 </details>

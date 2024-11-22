@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 kát ← ká- (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -108,11 +111,13 @@ vocéma ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When may we repeat a most grateful hymn to the wise, the most bountiful and mighty **Rudra**, who is (cherished) in our hearts?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rudra means, he who makes to weep, who causes all the weep at the end of time; he thus gets identified with the principle of destruction, or **Śiva**; in this **Sūkta** he presides over medicinal plural nts and is a beneficent deity
 </details>

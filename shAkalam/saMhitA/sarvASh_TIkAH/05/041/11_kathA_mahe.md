@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bravāma ← √brū- (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -176,7 +179,8 @@ vr̥kṣákeśāḥ ← vr̥kṣákeśa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Howcan we offer (fit praise) to the mighty posterity of **Rudra**, or to the all-knowing **Bhaga**, for (the sake of obtaining) riches; may the waters, may the plural nts, protect us, and the heaven, the woods, and the mountains, whose tresses are trees.”
 </details>

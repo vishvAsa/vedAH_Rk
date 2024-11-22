@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ vr̥ṣabhéṇa ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All men offer worship to that adorable, powerful, and munificent (**Indra**), who is associated (with praise); therefore, (do you), who are liberal and most wise, worship him with oblations; and drink, Indra, the **Soma**, together with the Sun, the showerer (of benefits).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Together with the Sun: vṛṣabheṇa bhānunā: **bhānu** = **agni**, fire
 </details>

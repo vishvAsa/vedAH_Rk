@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aktúbhiḥ ← aktú- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -180,7 +183,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Cherish us, **Aśvins**, always, by night or day, with undiminished blessings; and may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth and heaven, be favourable to this our (prayer).”
 </details>

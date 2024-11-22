@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 br̥hántam ← br̥hánt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -152,11 +155,13 @@ sárasvantam ← sárasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke for our protection the celestial, well-winged, swift-moving, majestic (Sun); who is the germ of the waters; the displayer of herbs; the cherisher of lakes replenishing the ponds with rain.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Replenishing the ponds: abhīpato vṛṣṭibhis tarpayantam, satisfying with rain the reservoirs, salilādhārān;
 

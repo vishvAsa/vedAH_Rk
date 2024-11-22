@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424);; repeated line  
 popular;; epic anuṣṭubh (424);; repeated line
-#### Morph
+_________
+**Morph**  
 āpaḥ ← áp- (nominal stem)  
 {case:VOC, gender:F, number:PL}
 
@@ -177,7 +180,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Waters, take away whatever sin has been (found) in me, whether I have (knowingly) done wrong, orhave pronounced imprecations (against holy men), or have spoken untruth.”
 </details>

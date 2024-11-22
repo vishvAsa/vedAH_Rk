@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 māsva ← √mā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
 
@@ -184,7 +187,8 @@ prātár ← prātár (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, when you are purified, measure out to us riches and dependents and all-gratifying water. **Indu**, may the life of your praiser be prolonged; may (Soma) who acquires wealth by his intelligence come quickly at dawn.”
 </details>

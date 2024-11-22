@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 góṣu ← gáv- ~ gó- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -179,7 +182,8 @@ sán ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, the achiever of many deeds, together with his worshippers ever offering oblations upon bended knees, has overcome (the **asuras**) for (the rescue of) the cows; friendly with his friends (the **aṅgirasas**), far-seeing with the faqr-seeing, the destroyer of cities has demolished the strong cities (of the asuras).”
 </details>

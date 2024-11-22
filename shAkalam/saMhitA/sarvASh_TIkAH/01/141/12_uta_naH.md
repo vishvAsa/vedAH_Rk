@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jīrā́śvaḥ ← jīrā́śva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,7 +191,8 @@ vásyaḥ ← vásyaṁs- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he who is one with light, who has fleet horses, the invoker (of the gods), full of joy, and borne in a golden chariot, listen to us; may that irresistible, yet plural cable **Agni**, conduct us, by the most efficacious (means), to that desirable and accessible (heaven).”
 </details>

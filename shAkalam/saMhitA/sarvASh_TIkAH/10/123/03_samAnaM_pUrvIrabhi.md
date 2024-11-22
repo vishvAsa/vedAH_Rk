@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -171,11 +174,13 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The many waters occupy a common station, clamouring around like the assembled mothers of the calf;wandering above the summit of the water they utter the praises of the sweet-flavoured ambrosia.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dark allusionsrefer to the agency of the thunder-clouds in sending rain; the calf, **vatsa** = vaidyutāgni, **agni** as the lightning
 </details>

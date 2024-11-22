@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cakr̥má ← √kr̥- (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
 
@@ -226,7 +229,8 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yama** speak). We have not done what was done formerly; for how can we who speak truth, utter nowthat which is untrue? **Gandharva** (the sun) was in the watery (firmament), and the water was his bride. She is ourcommon hence our near affinity.”
 </details>

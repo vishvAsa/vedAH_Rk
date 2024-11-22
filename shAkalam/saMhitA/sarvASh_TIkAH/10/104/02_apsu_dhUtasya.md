@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apsú ← áp- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -187,7 +190,8 @@ vardhasva ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of bay steeds, drink at this ceremony of the **Soma** that has been shaken up with the water, fillyour belly with the libation offered by the priests, which the grinding-stones desired to express for you, **Indra**; doyou who are carried by hymns enhance your exhilaration with these (hymns).”
 </details>

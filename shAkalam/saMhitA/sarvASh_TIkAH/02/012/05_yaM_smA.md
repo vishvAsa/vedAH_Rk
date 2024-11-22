@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghorám ← ghorá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -251,7 +254,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, whom, terrible, they ask for, (saying), Where is he? or, verily, they say of him, he is not (in any one plural ce); but who, inflicting (chastisement), destroys the cherisshed (treasures) of the enemy; in him have faith; for he, men, is **Indra**.”
 </details>

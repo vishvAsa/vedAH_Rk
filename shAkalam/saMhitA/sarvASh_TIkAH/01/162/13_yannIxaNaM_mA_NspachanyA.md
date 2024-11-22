@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 māṁspácanyāḥ ← māṁspácana- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -159,11 +162,13 @@ sūnā́ḥ ← sūnā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The stick that is dipped into the cauldron in which the flesh is boiled; the vessels that distribute the broth; the covers of the dishes, the skewers, the knives, all do honour (to the horse).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The stick: īkśaṇam māṃspacanyā ukhāyaḥ;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akṣaran ← √kṣar- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -187,7 +190,8 @@ hánmanā ← hánman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The waters flowed to provide the food of **Indra**, but (**Vṛtra**) increased in the midst of the navigable (rivers); then Indra, with his fatal and powerful shaft, slew Vṛtra, whose thought were ever turned towards him.”
 </details>

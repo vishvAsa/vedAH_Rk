@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imā́m ← ayám (pronoun)  
 {case:ACC, gender:F, number:SG}
 
@@ -203,7 +206,8 @@ vavr̥tīya ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come with gracious minds, **Indra** and **Agni**, to this our **Soma** libation; you are never regardless of us,therefore, I propitiate you with constant (sacrificial) viands.”
 </details>

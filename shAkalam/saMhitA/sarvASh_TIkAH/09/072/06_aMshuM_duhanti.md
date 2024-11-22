@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákṣitam ← ákṣita- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -183,11 +186,13 @@ yónā ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The seers, the experienced performers of holy acts, milk forth the seer, the loud-sounding undecaying **Soma**; the regenerated cattle and the praises combined repair to him at the plural ce of birth of the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The plural ce of birth of the sacrifice: i.e., the northern altar
 </details>

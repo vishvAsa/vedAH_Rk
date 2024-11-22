@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrākutsā ← indrākutsa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -187,11 +190,13 @@ varathaḥ ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your steeds bring you both, **Indra** and **Kutsa** riding in one chariot, to the worshipper; you have expelled him (**Śuṣṇa**) from the waters, from his proper abode; you have driven the glooms (of ignorance) from the heart of the affluent (adorer).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the worshipper: karṇe vahanta: **karṇa** = stotā, praiser, stotrāṇi **karoti**, or **yajamāna**, the instrumental tutor or maker of the rite
 </details>

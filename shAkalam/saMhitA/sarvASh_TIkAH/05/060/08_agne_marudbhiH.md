@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -154,7 +157,8 @@ vaíśvānara ← vaiśvānará- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, drink the **Soma**-juice, rejoicing, along with the **Maruts**, resplendent, adorable, associated in troops, purifying all, animating and long-lived; drink, **Vaiśvānara**, who are identified with the ancient emblem (of flame).”
 </details>

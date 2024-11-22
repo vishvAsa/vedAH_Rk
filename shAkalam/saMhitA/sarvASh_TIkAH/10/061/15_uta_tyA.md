@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcimántā ← arcimánt- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -159,11 +162,13 @@ yájyū ← yájyu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And, **Indra**, let those two brilliant sons of **Rudra**, the **Nāsatyās**, (be present) at my praise andsacrifice; being propitious to (me seated) on the strewn grass, as (at the sacrifice of) **Manu**, cheerful, liberal ofwealth to the people, deserving of adoration.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The people: i.e., to our priests
 </details>

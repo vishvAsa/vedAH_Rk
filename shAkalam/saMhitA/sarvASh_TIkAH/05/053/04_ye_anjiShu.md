@@ -22,14 +22,17 @@ ChandaH = "पुरउष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 añjíṣu ← añjí- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -131,11 +134,13 @@ rátheṣu ← rátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The praise of them) who are all self-irradiating splendid in ornaments, in arms, in garlands, in breast-plural tes, in bracelets, in chariots, in bows.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In bracelets: khādiṣu; in an earlier text **khādi** = hasta tranaka, a guard for the **hand** or arm (RV. 1.23.43); here, it is explained as: hastapādasthita kaṭahāḥ = rings for the **hands** or feet,bracelets or anklets
 </details>

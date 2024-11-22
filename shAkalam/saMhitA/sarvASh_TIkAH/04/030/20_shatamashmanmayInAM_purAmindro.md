@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśmanmáyīnām ← aśmanmáya- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -106,11 +109,13 @@ dívodāsāya ← dívodāsa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** has overturned a hundred stone-built cities for Divodās, the donor of oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Stone-build cities: aśmanmayīnām purām, an apparent reference to the use of masonry for walls and dwellings
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 astu ← √as- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -206,7 +209,8 @@ tváṣṭā ← tváṣṭar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine (**Indra**), with the **Vasus**, grant us happiness; may the justly-praised **Varuṇa**, with theĀdityas, be (friendly to) our happiness; may the grief-assuaging **Rudra**, with the **Rudras**, be (for) our happiness;may **Tvaṣṭā**, with the wives of the gods, be (with us) for our happiness, and hear us at this solemnity.”
 </details>

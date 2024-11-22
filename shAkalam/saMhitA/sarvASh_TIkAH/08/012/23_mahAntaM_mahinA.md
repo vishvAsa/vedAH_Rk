@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 mahā́ntam ← mahā́nt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -134,7 +137,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We repeatedly glorify with praises and adorations him who is great with greatness, who hears ourinvocations, (to enhance) his vigour.”
 </details>

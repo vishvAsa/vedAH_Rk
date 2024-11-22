@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 brahmā́ṇaḥ ← brahmán- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -116,11 +119,13 @@ sutā́vantaḥ ← sutā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We **brāhmaṇas**, offerers of **Soma**, bearing the effused Soma, invoke with suitable (prayers), you thedrinker of the Soma.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 We brāhmna.as = i.e. brahmāṇaḥ = brāhamṇāḥ
 </details>

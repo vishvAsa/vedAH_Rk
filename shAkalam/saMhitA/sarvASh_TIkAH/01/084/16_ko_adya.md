@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -180,7 +183,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who yokes todya to the pole of the car (of **Indra**) his vigorous and radiant steeds, whose fury is unbearable, in whose mouths are arrows, who trample on the hearts (of enemies), who give happiness (to friends). (The sacrificer) who praises their (performance of their) duties obtains (long) life.”
 </details>

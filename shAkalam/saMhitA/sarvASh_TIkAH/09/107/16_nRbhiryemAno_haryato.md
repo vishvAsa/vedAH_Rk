@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 haryatáḥ ← haryatá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -96,7 +99,8 @@ samudríyaḥ ← samudríya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Regulated by the priests, the divine royal **Soma**, agreeable, intelligent, abiding in the firmament.”
 </details>

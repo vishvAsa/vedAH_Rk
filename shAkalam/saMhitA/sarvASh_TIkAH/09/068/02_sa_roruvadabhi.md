@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -194,7 +197,8 @@ váram ← vára- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He with a noise re-echoes the principal (praises), separating the growing herbs, the green-tinted (**Soma**) sweetens them; passing through the filter, (he exerts) great speed, he annihilates the **rākṣasas**, the shining (Soma) bestows wealth (upon the worshippers).”
 </details>

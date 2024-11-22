@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jínva ← √ji- 2 ~ jinv- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -204,7 +207,8 @@ sthāt ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be propitious, showerer (of benefits); grant (abundant) food, **Agni**; (make) heaven and earth yield us milk; divine (Agni), associated with the gods, shining with bright radiance, let not the ill-will of any mortal prevail against us.”
 </details>

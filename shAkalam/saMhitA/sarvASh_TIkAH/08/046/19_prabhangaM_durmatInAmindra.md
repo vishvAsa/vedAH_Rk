@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 durmatīnā́m ← durmatí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -146,11 +149,13 @@ jyéṣṭham ← jyéṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(We worship) the crusher of the malevolent, most powerful **Indra**, bring to us suitable wealth, Oinspirer-- (bring) most excellent( wealth), O inspirer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 O inspirer: codayanmate = dhanam prerayanti matir yasya,you whose mind sends wealth to his worshipper; in RV 5.86.6, it is applied to the eye, 'having the mind as itsinstigator
 </details>

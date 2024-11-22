@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hárikeśaḥ ← hárikeśa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -186,11 +189,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Savitā**, the solar-rayed, the yellow-haired, sent up the undying light from the east; at his commandthe wise **Pūṣan**, the preserver, follows, looking upon all creatures.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 17.58: **Agni** is the deity, takingSavitā as an epithet, the genitive rator. In this ṛca, Savitā is the deity presiding over he period immediately afterdawn and **Sūrya** presides over the rest of the day
 </details>

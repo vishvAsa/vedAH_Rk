@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havíḥ ← havís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -114,7 +117,8 @@ yuṣmā́ka ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, desroyers of foes, this oblaion is designed for you; do you, who are the devourers of enemies,(coming) with your protections, graciously accept it.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityébhyaḥ ← ādityá- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -195,11 +198,13 @@ The reason why the list of seven is a possibility is because elsewhere in the �
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I present continually, with the ladle (of speech), these oblation-dropping hymns to the royal **Ādityas**; may **Mitra**, **Aryaman**, **Bhaga**, the multi-present **Varuṇa**, the powerful **Aṃśa**, hear us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ādityas, sons of **Aditi**: here only five are enumerated. **Taittirīya** adds: **dhātā**, **indra** and **vivasvat** to make the total eight; **aṃśu** (for aṃśa). **Purāṇas** enumerate twelve, adding to the eight of the Taittirīya: **viṣṇu**, **pūṣan**, **tvaṣṭā** and **savitā**).
 </details>

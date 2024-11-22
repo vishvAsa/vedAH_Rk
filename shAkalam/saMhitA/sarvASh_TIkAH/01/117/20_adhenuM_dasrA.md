@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhenum ← ádhenu- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -162,11 +165,13 @@ yóṣām ← yóṣā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, you fille dthe milkless, barren, and emaciated cow of **Śayu** with milk; you brought, by your powers, the daughter of **Purumitra**, as a wife, of **Vimada**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purumitra was a **rājā**
 </details>

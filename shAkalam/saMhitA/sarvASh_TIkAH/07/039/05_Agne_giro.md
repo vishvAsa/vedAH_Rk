@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ sárasvatī ← sárasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring **Agni**, whether from heaven or earth, the adorable deities **Mitra**, **Varuṇa**, **Indra** and Agni,**Āryaman**, **Aditi** and **Viṣṇu** (for the good) of these (worshippers); and may **Sarasvatī** and the **Maruts** bedelighted (by our offerings).”
 </details>

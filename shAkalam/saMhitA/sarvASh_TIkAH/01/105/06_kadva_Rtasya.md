@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dharṇasí ← dharṇasí- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -180,11 +183,13 @@ vittám ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where, deities, is your observance of the truth, where the (benignant) regard of **Varuṇa**, where is the path of the mighty **Aryaman**, (so that) we may overcome the malevolent? Heaven and earth, be conscious of this (my affliction).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varuṇa and Aryaman: Varuṇa is the obstructor of evil, which is undesired (aniṣṭanivāraka); Aryaman, is the restrainer of enemies (ariṇām niyantā)
 </details>

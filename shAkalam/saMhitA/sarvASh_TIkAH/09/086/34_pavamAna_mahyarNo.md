@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árṇaḥ ← árṇas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -182,7 +185,8 @@ vā́jāya ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purified (**Soma**), you pour forth abundant juice; like the wonderful sun (you approach) the fleecy filters; purified by the **hands** of the priests, expressed with the stones you flow for a mighty wealth-yielding conflict.”
 </details>

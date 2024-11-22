@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sánti ← √as- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -209,7 +212,8 @@ vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever blessings (are diffused) through the **three worlds**, and are in your gift, do you bestow upon the donor (of the oblation), who addressed you with praise; bestow them, also, **Maruts**, upon us, and grant us, bestowers of all good, riches, whence springs prosperity.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadabhanta ← √dabh- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
 
@@ -184,7 +187,8 @@ kāróḥ ← kārú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not (my enemies) prevail against me, when presenting acceptable (oblations), for (**Agni**) is desirous of my so offered adoration, and all they (the gods) are gratified by the (pious) acts of me, the reciter of their praise, and the celebrator (of the sacrifice).”
 </details>

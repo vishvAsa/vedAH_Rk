@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292);; repeated line  
 popular;; epic anuṣṭubh (292);; repeated line
-#### Morph
+_________
+**Morph**  
 svápnena ← svápna- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -145,7 +148,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we exterminate from hence (the evil spirit), who, having beguiled you by sleep or darkness,approaches you, and seeks to destroy your offspring.”
 </details>

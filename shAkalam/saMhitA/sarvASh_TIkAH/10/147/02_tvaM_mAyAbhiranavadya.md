@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anavadya ← anavadyá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -172,7 +175,8 @@ víśvāsu ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Irreproachable **Indra**, with mind intent on glory you have your deceptions slain the deceptive **Vṛtra**.The worshipper chooses you when he seeks for his (stolen) cattle, and in all sacrifices accompanied withinvocations.”
 </details>

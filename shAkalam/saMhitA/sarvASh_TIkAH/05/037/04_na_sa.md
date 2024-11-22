@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ subhágaḥ ← subhága- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That prince suffers no evil in whose realm **Indra** drinks the sharp **Soma** juice mixed with milk; attended by faithful (followers), he moves (in all directions); he destroys his enemy, he protects his subjects enjoying prosperity, he cherishes the name of (Indra).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 párā ← párā (invariable)  
 {}
 
@@ -141,7 +144,8 @@ tartarīti ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** rejects the friendship of those who are formost (in pious acts), and, depositing them, associates with (their) inferiors; or (again) shaking off those who neglect his worship, Indra abides many years with those who serve him.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -217,11 +220,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They who know the station of **Agni** upon the earth; the station of **Vāyu** that was fabricated from the firmament; and that station of the Sun which is plural ced in heaven, obtain immortality.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yadgāyatre **adhi** gāyatram traṣṭubhād vā traiṣṭubham: perhaps, a mystical reference to the text of the **Veda**, a knowledge of which is essential to final felicity; **gāyatra** is derived from **gāyatrī** the earth; it is the **pada**, or station of Agni; **traiṣṭubha** is identified with the firmament, and the plural ce of Vāyu; jāgat is identified with the sun: jāgat, the solar region (**Taittirīya** **Saṃhitā** 2.2.9.5-6)
 </details>

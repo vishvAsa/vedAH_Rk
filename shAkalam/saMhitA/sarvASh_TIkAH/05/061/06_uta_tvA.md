@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śáśīyasī ← śáśīyaṁs- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -114,11 +117,13 @@ arādhásaḥ ← arādhás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Śaśīyasi, though a feminine le, is more excellent than a man who reverences not the gods, nor bestows wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Though a feminine le: uta tvā **strī** śaśīyasī: tvā = eka, one
 </details>

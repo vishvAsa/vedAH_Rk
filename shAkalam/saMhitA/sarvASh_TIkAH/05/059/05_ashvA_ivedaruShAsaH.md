@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣā́saḥ ← aruṣá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -203,7 +206,8 @@ vr̥ṣṭíbhiḥ ← vr̥ṣṭí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Resplendent as steeds, of one kindred, they engage in combat like valiant heroes; like (prosperous) men, they, the leaders (of rites), have increased (in power), and cover the eye of the sun with showers.”
 </details>

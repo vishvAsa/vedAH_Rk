@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arvācī́nam ← arvācī́na- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -127,11 +130,13 @@ vāghátaḥ ← vāghát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your praisers, **Indra**, who is worshipped in a hundred rites, direct your mind and your eyes towards us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Worshipped in a hundred rites: **śatakratu** = Indra; or, an epithet, he to whom a hundred (i.e. many) sacrifices are offered, or by whom many great acts are performed.
 </details>

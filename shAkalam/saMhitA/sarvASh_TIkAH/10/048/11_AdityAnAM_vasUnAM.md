@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityā́nām ← ādityá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -169,7 +172,8 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine (**Indra**) abandons not the abode of the deities, the **Ādityas**, the **Vasus**, and the Rudriyas;may they fashion me for auspicious vigour, undefeated, unharmed, unconquered.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádāya ← máda- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -137,7 +140,8 @@ vyácaḥ ← vyácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All which (libations), being accusative ulated for the gratification of the powerful **Indra**, is contained in his belly, as water in the ocean.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -186,7 +189,8 @@ vardhantām ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer adoration to the company of the **Maruts** deserving of sacred sacrifice, to obtain the waters, whether born of heaven or earth; may my praises prosper; may the joy-bestowing heavens (flourish); may the rivers cherished (by the Maruts) be filled with water.”
 </details>

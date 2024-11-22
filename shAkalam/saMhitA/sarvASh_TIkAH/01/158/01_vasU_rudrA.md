@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 purumántū ← purumántu- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -187,11 +190,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, showerers (of benefits), granters of dwellings, dispellers of sin, cognizant of many (things), increasing (through praise), and fulfillers (of desires), inasmuch as Aucatthya offer you (sacrificial) wealth, and you protect (your worshippers) with unobjectionable aids, bestow uponus (our prayers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Granter of dwellings: **vasus**-vāsayitārau prajānām, causers of the habitations ofmanking; or, possessorsof **vasu**, wealth; dispellers of sin: the text has **rudras** (rudro rautīti **sataḥ**-- **Nirukta** 10.5): from rut, pain or its cause, sin; and dru, what drives away; or, from rut, to sound, a reference perhaps to those who shout in battle
 </details>

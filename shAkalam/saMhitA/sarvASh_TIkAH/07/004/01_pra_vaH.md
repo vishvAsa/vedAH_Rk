@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhānáve ← bhānú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -186,7 +189,8 @@ víśvāni ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer your sacred oblation, and praise the bright and radiant **Agni**, who passes with wisdom between alldivine and human beings.”
 </details>

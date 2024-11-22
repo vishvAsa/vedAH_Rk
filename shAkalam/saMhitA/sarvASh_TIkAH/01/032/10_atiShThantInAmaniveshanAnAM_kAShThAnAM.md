@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aniveśanā́nām ← aniveśaná- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -180,7 +183,8 @@ támaḥ ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The waters carry off the nameless body of **Vṛtra**, tossed into the midst of the never- stopping, never-resting currents. The foe of **Indra** has slept a long darkness.”
 </details>

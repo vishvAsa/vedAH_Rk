@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 śréṇiḥ ← śréṇi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -177,7 +180,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Purūravā**). Sujūraṇi, **Śreṇi**, Sumna-āpi, Hradecakṣus, Granthinī, and the swift-moving(**Ūrvaśi** who arrived) they, decorated and purple-tinted, did not go first, they lowed like kine for protection.”
 </details>

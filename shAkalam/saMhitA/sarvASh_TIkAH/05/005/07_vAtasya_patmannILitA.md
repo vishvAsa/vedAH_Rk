@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īḷitā́ ← √īḍ- ~ √īḷ- (root)  
 {case:NOM, gender:M, number:DU, non-finite:PPP}
 
@@ -130,11 +133,13 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praised (by us), divine invokers of the gods, come moving on the path of the wind, to this sacrifice of our patron.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 On the path of the wind: vātasya patman = with the swiftness of the wind, or through the firmament; to this sacrifice of our patron: manuṣo no yajñam = liṭ, to the sacrifice of our man, i.e. of the **yajamāna**
 </details>

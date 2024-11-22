@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghr̥tasno ← ghr̥tásnu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -125,7 +128,8 @@ vītáye ← vītí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Feeder upon butter, bright and variegated radiance we solicit you, the beholder of heaven, to (partake of) the (sacrificial) food.”
 </details>

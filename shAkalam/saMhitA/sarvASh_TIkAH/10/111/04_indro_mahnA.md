@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arṇavásya ← arṇavá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praised by the **Aṅgirasas**, **Indra** has by his might injured the functions of the mighty cloud; he has sentdown abundant rains, he who (at other times) has supported the supporting (cloud) in heaven.”
 </details>

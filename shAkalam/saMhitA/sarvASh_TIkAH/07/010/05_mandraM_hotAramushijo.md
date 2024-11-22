@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ yajáthāya ← yajátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men desiring him celebrate at sacrifices the youthful **Agni**, the giver of delight, the invoker of the gods;he, the ruler of the night, has been the diligent envoy of the opulent (instrumental tutors of sacrifices) for the worship ofthe gods.”
 </details>

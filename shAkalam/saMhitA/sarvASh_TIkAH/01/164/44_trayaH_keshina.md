@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cakṣate ← √cakṣ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -196,11 +199,13 @@ rūpám ← rūpá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The three, with beautiful tresses, look down in their several seasons upon the earth; one of them, when the year is ended, shears (the ground); one, by his acts, overlooks the universe; the course of one is visible, though not his form.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The three: **Agni**, who burns up the earth; the Sun, who revives it by his light, and the rain which he sends; and **Vāyu**, the wind, who contributes to the fall of rain
 </details>

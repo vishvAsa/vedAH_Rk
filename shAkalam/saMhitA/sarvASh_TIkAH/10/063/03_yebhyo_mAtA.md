@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhumat ← mádhumant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -174,11 +177,13 @@ tā́n ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To (these dieties) to whom the maternal (earth) yields the sweet- flavoured milk, and thecloud-invested, undepressed heaven (yields) ambrosia, to those **Ādityas** whose strength is sacred praise, whoare bringers of rain, the doers of good actions, offer for your welfare laudation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whose strength is praise:ukthabalān = very strong
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 samídhā ← samídh- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -187,7 +190,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who propitiates you, son of strenght, with sacrifice, with fuel, with prayers, with praises, shines immortal amongst men, eminent in wisdom and possessed of splendid opulence and (abundant) food.”
 </details>

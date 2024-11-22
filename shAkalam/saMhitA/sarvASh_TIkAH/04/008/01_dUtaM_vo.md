@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 dūtám ← dūtá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -109,7 +112,8 @@ yájiṣṭham ← yájiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I propitiate you with praise, the messenger (of the gods), the omniscient, the bearer of oblations, the immortal, the chief sacrificer.”
 </details>

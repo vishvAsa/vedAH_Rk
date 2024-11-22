@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 óṣadhīḥ ← óṣadhī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -150,7 +153,8 @@ rakṣohā́ ← rakṣohán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Where, plural nts, you are congregated like princes (assembled) in battle, there the sage is designated aphysician, the destroyer of evil spirits, the extirpator of disease.”
 </details>

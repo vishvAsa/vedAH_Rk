@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīrgháprasadmani ← dīrgháprasadman- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -126,11 +129,13 @@ pitváḥ ← pitú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Raise your voice in the spacious hall of sacrifice (to him) who is lord over food derived from cattle, whois able to grant nutritious sustenance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Spacious hall: dīrghaprasadmani: an epithet of yajñe; vistṛtamsadanam yasmin yajñe
 </details>

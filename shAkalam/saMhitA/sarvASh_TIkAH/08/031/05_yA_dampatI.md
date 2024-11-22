@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dámpatī ← dámpati- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -122,7 +125,8 @@ nítyayā ← nítya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gods, may the husband and wife, who with one mind offer libations and purify them, and (propitiateyou) with the **Soma** ever mixed with milk.”
 </details>

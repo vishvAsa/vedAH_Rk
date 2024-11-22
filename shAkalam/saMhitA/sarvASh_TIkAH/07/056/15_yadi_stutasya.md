@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhīthá ← √i- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -185,7 +188,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If, **Maruts**, you justly appreciate the praise of the devout offerer of (sacrificial) food, conjoined withoblations, then promptly bestow (upon us) riches, comprehending excellent **male** posterity, such as no unfriendlyman can take away.”
 </details>

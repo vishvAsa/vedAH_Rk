@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínoḥ ← aśvín- (nominal stem)  
 {case:GEN, gender:M, number:DU}
 
@@ -185,7 +188,8 @@ víśvāni ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we ever be participant of the unprecedented, joy-conferring and well-guided protection of the **Aśvins**; bring to us, immortal (Aśvins), riches, **male** progeny, and all good things.”
 </details>

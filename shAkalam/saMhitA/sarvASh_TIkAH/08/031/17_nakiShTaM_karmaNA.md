@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kármaṇā ← kárman- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -203,7 +206,8 @@ bhuvat ← √bhū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “No one obstructs him by his acts, he is never driven (from his station), he is never separated (from hisfamily); the celebrator of the sacrifice, who desires to propitiate the mind of the gods, overcomes those who areno sacrificers.”
 </details>

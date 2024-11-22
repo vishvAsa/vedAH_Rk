@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥té ← r̥té (invariable)  
 {}
 
@@ -158,7 +161,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He gains (wealth) without war, he travels along the roads with quick (horses), whom **Aryaman**, Mitraand **Varuṇa**, alike munificent, and acting in concert, protect.”
 </details>

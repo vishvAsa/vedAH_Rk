@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áhāni ← áhar ~ áhan- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -196,11 +199,13 @@ kalpaya ← √kl̥p- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As days pass along in succession; as season are duly followed by seasons; as the successor doesnot abandon his predecessor, so, **Dhātā**, support the lives of these (my kinsmen).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As the successor: i.e., as ason does not leave his father by dying first
 </details>

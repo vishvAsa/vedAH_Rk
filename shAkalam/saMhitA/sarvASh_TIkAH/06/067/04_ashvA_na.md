@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvā ← áśva- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -203,7 +206,8 @@ ripáve ← ripú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who (are) strong as horses, accepters or pious praise, observers of truth, whom **Aditi** conceived; whom, mighty of the mighty at your birth and formidable to mortal foes, she bore.”
 </details>

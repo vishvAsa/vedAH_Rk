@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iṣṭaú ← iṣṭí- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -208,7 +211,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harm us not, **Varuṇa**, with those destructive (weapons), repeller (of foes), demolish him who does evil at your sacrifice; let us not depart (before our time) from the regions of light; scatter the malevolent, that we may live.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hávānām ← háva- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -121,7 +124,8 @@ yuvā́bhyām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, leaders (of rites), among (all) invocations may my most earnest praise invoke you as amessenger may it be (acceptable) to you.”
 </details>

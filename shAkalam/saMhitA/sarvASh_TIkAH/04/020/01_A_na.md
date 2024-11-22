@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,7 +193,8 @@ turváṇiḥ ← turváṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the illustrious **Indra**, the granter of desires, come to us, whether from afar or nigh, for our protection; he who is the lord of men, armed with the thunderbolt, overcoming his foes in conflict and in combats, (attended) by the most illustrious (**Maruts**).”
 </details>

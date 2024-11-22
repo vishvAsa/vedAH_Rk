@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -182,7 +185,8 @@ vīrā́n ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Contemplating their own (cattle) giving milk to their former progeny (the **aṅgirasas**) were delighted; their shouts spread through heaven and earth; they replaced the recovered kine in their plural ces, and stationed guards over the cows.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iyarti ← √r̥- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -192,7 +195,8 @@ prajā́vat ← prajā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The offerer of praise, the reciter of praise, celebrating the brilliant Uṣas, repeats the well-connected words (of the **Veda**). Possessor of affluence, dawn today upon him who praise you; bestow upon us food, whence progeny may be obtained.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akaram ← √kr̥- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -204,11 +207,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I spent many years within this (altar), preferring **Indra** I abandon the progenitor; **Agni**, **Soma**, **Varuṇa**,fall (from their power); returning, I protect that kingdom which awaits me.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Progenitor: i.e., the touchwood
 </details>

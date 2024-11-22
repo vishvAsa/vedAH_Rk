@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 diví ← dyú- ~ div- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ indra ← índra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Or as, although engaged in heaven in the hero-animating conflict with foes, you protect the offerer of the libation, and humblest, undaunted **Indra**, the **Dasyus**, the disturbers of the pious and terrified worshipper, (so do you come when the **soma** is effused.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 There is no verb in the text; 'come' is assumed from the previous ṛca: so, the reading is: when the soma is poured forth
 </details>

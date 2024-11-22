@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -195,11 +198,13 @@ vā́tāḥ ← vā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the high plural ces, and the many low paces, the heaven and the earth, trembled (through fear) of the mighty (**Indra**) at his birth; the strong (Indra) cherishes the parents of the moving (Sun), and the winds, like men, make a noise in their peregrination.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Parents of the moving sun: mātarā **bharati** goḥ: goḥ = gantuḥ sūryasya
 </details>

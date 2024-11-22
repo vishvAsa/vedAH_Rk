@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 jihīṣva ← √hā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -148,11 +151,13 @@ saptávadhrim ← saptávadhri- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Open, **Vanaspati**, like the womb of parturient feminine le; hear, **Aśvins**, my invocation; set Saptavadhri free.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ancient chroniclers, purāvidaḥ tell this story: the sons of the brothers of Saptavadhri beign determined to prevent his having intercourse with his wife **shut** him up every night in a lare basket, which they locked and sealed, letting him out in the morning; in this dilemma the ṛṣi prayed to the Aśvins, who came to his succour; and enabled him to get out of his cage during the night, he returning to it at day-break; in this verse he first addresses the basket, peṭkā, as a form of Vanaspati, lord of forests, and then invokes the Aśvins
 </details>

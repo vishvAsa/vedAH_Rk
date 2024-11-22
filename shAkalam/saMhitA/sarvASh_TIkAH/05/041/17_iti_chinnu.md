@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -228,7 +231,8 @@ nírr̥tiḥ ← nírr̥ti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mortal (sacrificer) worships you, gods, at all times for progeny and cattle; verily, gods, the mortal worships you; may **Nirṛti**, on this occasion, sustain my body with salutary food, and keep off decay.”
 </details>
@@ -250,7 +254,8 @@ It is true that two different words for ‘old age’ are involved: jarimán- in
 
 Instead I think de is the expression of his fear that if he fails to win the gods (abc) Dissolution will succeed in depriving him of his wished-for old age. I have pushed átrā perhaps a bit too much -- to ‘otherwise’; I would prefer a ‘lest’ (néd) clause or even a mā́clause, but néd, which becomes well developed in Vedic prose, barely exists in the RV and the poet may have been casting about for a way to express this modality. A further piece of evidence in favor of my interpr. is the word dhāsí.
 
-Although this word often means ‘well-spring’ or ‘source’ (see comm. ad I.62.3, 140.1), in some cases it seems to mean ‘place, depository’ and be associated with (/derived, at least synchronically, from) √dhā. Here the dhāsí- seems to be the nominalization of ní dhāyi in 15 (cf. hitáḥ in X.58.4) — that is, the place in which old age is securely held. I therefore take it as coreferential with jarā́m in e. ### 18-20 If, as suggested above, 16-17 are the finale of the hymn proper, these 3 (or 2 ¼) were tacked on. They certainly lack the complications of the rest of the hymn. The dominance of female figures is striking.
+Although this word often means ‘well-spring’ or ‘source’ (see comm. ad I.62.3, 140.1), in some cases it seems to mean ‘place, depository’ and be associated with (/derived, at least synchronically, from) √dhā. Here the dhāsí- seems to be the nominalization of ní dhāyi in 15 (cf. hitáḥ in X.58.4) — that is, the place in which old age is securely held. I therefore take it as coreferential with jarā́m in e. _________
+**18-20 If, as suggested above, 16-17 are the finale of the hymn proper, these 3 (or 2 ¼) were tacked on. They certainly lack the complications of the rest of the hymn. The dominance of female figures is striking.**  
 </details>
 
 <details><summary>Griffith</summary>

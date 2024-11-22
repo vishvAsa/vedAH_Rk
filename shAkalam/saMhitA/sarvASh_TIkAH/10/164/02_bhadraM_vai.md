@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 bhadrám ← bhadrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -148,7 +151,8 @@ mánaḥ ← mánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men solicit the boon of good fortune, they acquire abundant good fortune, (I desire) the auspicioussight of Vaivasvat; the mind of a living being is variously (directed).”
 </details>

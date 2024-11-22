@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábodhi ← √budh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -166,7 +169,8 @@ sukŕ̥tsu ← sukŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The waster away (of living creatures), the invoker (of the gods), the giver of delight, the wisest of thewise, the purifier, (**Agni**), has been manifested from the lap of the dawn; he gives consciousness to both classesof beings (men and animals), oblations to the gods, and wealth to the pious.”
 </details>

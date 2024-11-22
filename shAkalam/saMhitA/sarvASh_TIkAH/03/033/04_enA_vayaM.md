@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 enā́ ← ayám (pronoun)  
 {case:INS, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ vípraḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The rivers speak: Fertilizing (the land) with this (our) current, we are flowing to the receptacle which has been appointed by the deity (**Indra**); the course appointed for our going (permits) not of delay; of what is the sage desirious, that he addresses the rivers?”
 </details>

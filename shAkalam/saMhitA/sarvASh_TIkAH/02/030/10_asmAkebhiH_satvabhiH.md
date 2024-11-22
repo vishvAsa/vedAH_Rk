@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́kebhiḥ ← asmā́ka- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -202,7 +205,8 @@ vásūni ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Achieve, hero, along with our valiant heroes, the exploits that are to be achieved by you; long have (our enemies) been inflated (with pride); slay them, and bring to us their treasures.”
 </details>

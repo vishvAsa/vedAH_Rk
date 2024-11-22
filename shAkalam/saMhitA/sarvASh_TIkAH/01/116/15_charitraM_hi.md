@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áchedi ← √chid- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -178,11 +181,13 @@ sártave ← √sr̥- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The foot of (Vispalā, the wife of) Khela, was cut off, like the wing of a bird, in an engagement by night; immediately you gave her a metallic leg, that she might walk, the hidden treasure (of the enemy being the object of the conflict).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Khela was a king; **Agastya** was his **purohita**. Through his prayers the **Aśvins** gave **Viśalā** a metallic leg
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arbhakébhyaḥ ← arbhaká- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -180,11 +183,13 @@ vr̥kṣi ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Veneration to the great gods, veneration to the lesser, veneration to the young, veneration to the old we worship (all) the gods as well as we are able; may I not omit the praise of the elder divinities.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śunahśepas, is said to worship the **Viśvedevā** on the advice of **Agni**
 </details>

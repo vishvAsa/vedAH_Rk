@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 rakṣásaḥ ← rakṣás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -192,7 +195,8 @@ yós ← yós (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Tapurmūrdhā consume the **rākṣasas**, who are the enemies of the **Brāhmaṇas**, (and thenproceed) to slay (their) malignant (chief); may **Bṛhaspati** hurl down the inglorious (enemy), may he baffle themalevolent, and bestow upon the sacrificer health and prosperity.”
 </details>

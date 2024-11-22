@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarasya ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -205,11 +208,13 @@ vedhásaḥ ← vedhás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, ministrant of the sacrifice, do you who are entitled to worship, be above usin this offering to the gods; for you prevail over all that is desirable; you inspire the praise of the worshipper.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Prevail over all that is desirable: viśvam abhyasi manma: manma = mananīyam śatrūṇām dhanam abhibhavasi, you conquer the desirable wealth of foes.
 </details>

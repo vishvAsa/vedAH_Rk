@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ná ← ná (invariable)  
 {}
 
@@ -179,7 +182,8 @@ vándanāya ← vándana- 1 (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You extricated, **Dasras**, the sage (**Vandanā**) cast into a well, like a handsome and splendid ornament designed for embellishment, and (lying) **Aśvins**, like one sleepin gon the lap of the earth or like the sun disappearing in darkness.”
 </details>

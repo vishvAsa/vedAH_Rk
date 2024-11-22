@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 pitáraḥ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -153,11 +156,13 @@ vrātasāhā́ḥ ← vrātasāhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The guards (of chariot), revelling in the savoury (spoil), distributors of food, protecors in calamity, armed with spears, resolute, beautifully arranged, strong in arrows, invincible, of heroic valour, robust, and conquerors of numerous hosts.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The guards of the chariot: pitaraḥ is the only substanive: pālayitāraḥ, guards, defenders, a body of spearmen, śaktivantaḥ: attendants on the war chariot of the chief
 </details>

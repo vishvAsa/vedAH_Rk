@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sácanta ← √sac- 1 (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -206,7 +209,8 @@ yatáḥ ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the dawns are associated with the sun, his rays acquire wonderful beauty; but when theconstellation of heaven is not seen, no one really knows (his rays) as he moves.”
 </details>

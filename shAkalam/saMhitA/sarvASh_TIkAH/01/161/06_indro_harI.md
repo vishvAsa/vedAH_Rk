@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -188,7 +191,8 @@ yajñíyam ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** has caparisoned his horses; the **Aśvins** have harnessed their car; **Bṛhaspati** has accepted the omniform (cow); therefore, **Ṛbhu**, **Vibhva** and **Vāja**, go the gods, doers of good deeds, enjoy your sacrificial portion.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣā́ ← eṣá (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -168,7 +171,8 @@ pátnī ← pátnī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Exerting herself, she approaches rapidly from afar (to give light) to the five classes of men, witnessingthe thoughts of men, the daughter of heaven, the benefactress of living beings.”
 </details>

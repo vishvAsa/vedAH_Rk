@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 8+4;; repeated line
-#### Morph
+_________
+**Morph**  
 antár ← antár (invariable)  
 {}
 
@@ -154,7 +157,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Soma**, in the exhilaration of which you have liberated the cattle, firm (fastened) within the rock, is poured out, **Indra**, for you; drink.”
 </details>

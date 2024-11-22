@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
 genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
-#### Morph
+_________
+**Morph**  
 havyā́ ← havyá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -128,11 +131,13 @@ sádma ← sádman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accepting the oblations (offered) at the sacrifice of the worshipper, he blazes up, with a mighty flame;fixing his abode, he advances.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fixing his abode: an allusion to a part of the fire worship: when the fire is takenfrom one altar or firepit, to another, from the saumikī **vedi**, or altar of libation, to the **uttara** vedi, the north orprincipal altar
 </details>

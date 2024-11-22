@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́yase ← dhā́yas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -156,11 +159,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he, the ministering priest, discharge the office of priest at his own ceremony; and may we worthily repeat (his) praise, and offer (him) sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ministering priest: **Ṛtvij** or a priest in genitive ral, in which capacity, **Agni** is invited to officiate for himself
 </details>

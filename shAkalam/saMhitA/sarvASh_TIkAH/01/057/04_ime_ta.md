@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imé ← ayám (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -225,7 +228,8 @@ vácaḥ ← vácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Much-lauded and most opulent **Indra**, we are thy, who, relying (on your favour), approach you; accepter of praise, no other than you receie our commendations; be plural ased (with our address), as the earth (cherishes) her creatures.”
 </details>
@@ -240,7 +244,8 @@ for none other than you bears up to our songs, o you who long for songs.  Gladly
 
 The translation “Here we are -- those of yours” reflects the annunciatory imé as well as the te … té vayám, which identifies the speakers as Indra’s own. In c I take cárāmasi as an independent verb, meaning to ‘carry on’ with life and activities, though it is possible that it is an auxiliary verb with the gerund ārábhya, as Geldner takes it.
 
-On kṣoṇī́- as ‘war-cry’, see Thieme (1978[79]: KZ 92: 46), EWA s.v. ### 05
+On kṣoṇī́- as ‘war-cry’, see Thieme (1978[79]: KZ 92: 46), EWA s.v. _________
+**05**  
 táva smasi is a paraphrase of 4a (imé) te … té vayám
 
 

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 iyattakáḥ ← iyattaká- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -143,11 +146,13 @@ saṁvátaḥ ← saṁvát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the insignificant mongoose (carry off) your venom, (Poison); if not, I will crush the vile (creature) with a stone; so may the poison depart (from my body) and go to distant regions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The mongoose: kuṣumbako **nakulaḥ**, the mongoose, whose hostility to the snake is proverbial
 </details>

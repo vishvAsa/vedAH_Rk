@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvayogāḥ ← áśvayoga- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -194,11 +197,13 @@ surabhíṣṭamam ← surabhíṣṭama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For our minds, yoked together like horses tend to the ever youthful **Indra**, as cows to their calves; and the praises of men, (addressed) to him, are genitive rating most fragrant (fruit), as wives bear (children to their husbands).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Most fragrant fruit: surabhiṣṭamam = atiśayena surabhim, exceedingly fragrant
 </details>

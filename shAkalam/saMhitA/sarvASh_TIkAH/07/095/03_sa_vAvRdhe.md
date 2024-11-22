@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 náryaḥ ← nárya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer Sarasvat, the friend of man, a showerer (of benefits), even while yet a child, continuallyincreases among his adorable wives (the rains); he bestows upon the affluent (worshippers) a vigorous son; hepurifies their person ns (to fit them) for the reception (of his bounties).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sarasvat: Sarasvat is the wind **Vāyu** in thefirmament, madhyasthāno **vāyuḥ** sarasvat
 </details>

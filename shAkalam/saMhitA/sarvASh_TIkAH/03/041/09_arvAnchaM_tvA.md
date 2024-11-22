@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arvā́ñcam ← arvā́ñc- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -126,7 +129,8 @@ ghr̥tásnū ← ghr̥tásnu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your long-maned and sleek-coated steeds bring you down in your easy chariot to sit upon the sacred grass.”
 </details>

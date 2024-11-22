@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 tvát ← tvám (pronoun)  
 {case:ABL, number:SG}
 
@@ -180,7 +183,8 @@ tvát ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “From you, who are vigorous, to conveyer of oblations, the vast, the granter of what is desired, is born (a son) of real strength; from you comes wealth approved of by the gods, the source of happiness; from you, **Agni**, (is obtained) a swift unarrested horse.”
 </details>

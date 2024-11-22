@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádadhāḥ ← √dhā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -183,11 +186,13 @@ sahásradānā ← sahásradāna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The man to whom you grant, lord of power, (your good-will), enjoys unprecedented domestic (prosperity); **Indra**, who are invoked by many, your auspicous favour, which is obtained by oblations, is the giver of unbounded wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Which is obtained by oblation: sumatirghṛtācī = that which goes to or obtains clarified butter, havir añcati, prāpnoti
 </details>

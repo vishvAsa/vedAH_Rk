@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 droṇasā́cam ← droṇasác- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, **Indra**, you pour into your capacious (stomach) the protecting (**Soma**), serving the woodentrough, intelligent, holding strength; bestow (upon us) vigour; take us into yourself, for you are the lord for theexaltation of the wise.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sakhyé ← sakhyá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -207,7 +210,8 @@ khā́ni ← khá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through that friendship, **Soma**, which has united you with your (friend) **Indra**, he has made the waters flow for man; he has slain Ahi; he has sent forth the seven rivers, and has opened the **shut**-up sources (of the streams).”
 </details>

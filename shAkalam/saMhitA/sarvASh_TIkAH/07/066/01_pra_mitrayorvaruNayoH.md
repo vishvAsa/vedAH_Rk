@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 mitráyoḥ ← mitrá- (nominal stem)  
 {case:LOC, gender:M, number:DU}
 
@@ -119,11 +122,13 @@ tuvijātáyoḥ ← tuvijātá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May this our propitiatory praise, accompanied by oblations, proceed to you, **Mitra** and **Varuṇa**, ofreiterated manifestations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tuvijātayoḥ, repeatedly born, as presiding over day and night they may be said to bemanifest repeatedly in daily succession
 </details>

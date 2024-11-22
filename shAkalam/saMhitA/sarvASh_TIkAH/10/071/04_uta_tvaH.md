@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 dadarśa ← √dr̥ś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -222,11 +225,13 @@ uśatī́ ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One (man) indeed seeing Speech has not seen her; another (man) hearing her has not heard her; butto another she delivers her person n as a loving wife well-attired presents herself to her husband.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 But to another:i.e., he understands thoroughly the meaning of the **Veda**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánima ← jániman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -190,7 +193,8 @@ vīryèṇa ← vīryà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With immortal, foe-humiliating might he has promoted the (multiplied) birth of mankind; he, the chief of leaders, dwells in the same dwelling with fame, with strength, with riches, with heroism.”
 </details>

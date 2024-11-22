@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -193,7 +196,8 @@ yajatrā ← yájatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, may I bring you, by the vehicle of my prayers, (hither), to bestow (upon me your aid), like the infirm son of **Tugra**; heaven and earth combine (to worship you) through your greatness; may this, your aged (worshipper), adorable (**Aśvins**), enjoy long life, (exempt) from sin.”
 </details>

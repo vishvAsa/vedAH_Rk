@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M
-#### Morph
+_________
+**Morph**  
 bhuvaḥ ← √bhū- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -185,11 +188,13 @@ tvā́vān ← tvā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are the type of the extended earth you are the lord of the vast god-frequent (**svarga**) verily with your bulk you fillest all the firmament of a truth, there is none other such as you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pratimānam **bhuvaḥ**, the counter-measure of the earth, i.e. of similar magnitude and like inconceivable power; ṛṣvavīrasya bṛhataḥ **patiḥ**, lord or protector of the great (region), in which are the gods (**vīra**) who are plural asant (ṛṣva)
 </details>

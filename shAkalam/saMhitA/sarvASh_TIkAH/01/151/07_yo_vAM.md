@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dā́śati ← √dāś- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -210,7 +213,8 @@ sumatím ← sumatí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come to the devout (worshipper), who, glorifying you, and providing (all that is) acceptable, presents you with oblations; (to him), the sage, the invoker, who offers you worship; accept his sacrifice; favourably disposed towards us, (accept) our praises.”
 </details>

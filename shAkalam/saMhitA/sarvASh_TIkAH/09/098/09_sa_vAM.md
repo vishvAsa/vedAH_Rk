@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mānavī ← mānavá- (nominal stem)  
 {case:VOC, gender:F, number:DU}
 
@@ -147,7 +150,8 @@ tuviṣváṇi ← tuviṣván- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine heaven and earth the progeny of **Manu**, the **Soma** juice is genitive rated at your sacrifices, radiant, abiding in the grinding stones; (the priests) bruise him at the loud-sounding ceremony.”
 </details>

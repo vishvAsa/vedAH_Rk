@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 r̥jrā́ḥ ← r̥jrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -110,7 +113,8 @@ sū́ryāḥ ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such as are straight-going, fleet as the wind, bright-coloured, light- footed, and shine like the suṇ..”
 </details>

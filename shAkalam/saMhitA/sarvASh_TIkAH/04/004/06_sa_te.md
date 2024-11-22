@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jānāti ← √jñā- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -210,11 +213,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He experiences your good favour, young (of the gods), who offers praise to you a **Brahman**, coming quickly (to bestow felicity); to him are all prosperous days and wealth (of cattle) and treasures; do you as the lord of sacrifice, shine upon his dwelling.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A brahman coming quickly: ivate brahmaṇe, i.e., parivṛdhāya, to the greatly augmented; shine upon his dwelling: aryo vi duro abhidyaut, he the worshipper especially shines over his house, aryo yajamāno gṛhān abhi viśeṣeṇa dyotate
 </details>

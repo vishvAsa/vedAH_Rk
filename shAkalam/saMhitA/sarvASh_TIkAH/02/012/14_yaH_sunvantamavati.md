@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávati ← √avⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -205,7 +208,8 @@ yásya ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who protects (the worshipper) offering the libation, or preparing (the mixed curds and butter), repeating his praise and soliciting his assistance, he, of whom the sacred prayer, the (offered) **Soma**, the (presented sacrificial) food, augment (the vigour); he, men, is **Indra**.”
 </details>

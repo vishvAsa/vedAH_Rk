@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityásya ← ādityá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -192,7 +195,8 @@ váruṇasya ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The worshipper repeats) this praise of the sage; the self-radiant **Āditya**; may he preside over all beings by his power; I beg for fame of the sovereign **Varuṇa**, a deity who, when much plural ased (is propitious) to hsi adorer.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityáḥ ← ādityá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ váyaḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Āditya**, the upholder, has created all this water; the rivers flow by the power of **Varuṇa**; they never weary, they never stop; they have descended with swiftness, like birds upon the circumambient (earth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Has created all this water: pra sīm aṣrjad ṛtam; the word ṛtam has many interpretations: truth, sacrifice, water; sindhavo varuṇasya yanti, rivers go of Varuṇa, or by his will or power; like birds upon the circumambient earth: paptū raghuyā parijman;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devajā́ḥ ← devajā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -174,11 +177,13 @@ kuśikébhiḥ ← kuśiká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great ṛṣi the genitive rator of the gods, the attracted by the deities, the overlooker of the leaders (at holy rites), **Viśvāmitra** attested the watery stream when he sacrificed for **Sudās**; **Indra**, with the **Kuśikas** was plural ased.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The genitive rator of the gods: **devajāḥ** = the genitive rator of radiances or energies, tejasām janayitā; arrested the watery stream: astabhnāt sindhum arṇavam: he is said to have stoped the current of the confluence of the vipās/ā and **śutudri** rivers; indra with the kuśikas was plural ased: apriyayata kuśikebhir Indra = kuśikagotrotpannair ṛṣibhiḥ **saha**, with the ṛṣis of the **kuśika** lineage, or it might be rendered, plural ased by the Kuśikas
 </details>

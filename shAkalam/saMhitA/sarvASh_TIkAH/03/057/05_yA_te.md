@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jihvā́ ← jihvā́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -191,7 +194,8 @@ sādaya ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With your wide-spreading tongue, **Agni**, sweet and intelligent, which is renowned amongst the gods, bring hither all the adorable deities for our protection, and give them to drink of the sweet (libations).”
 </details>

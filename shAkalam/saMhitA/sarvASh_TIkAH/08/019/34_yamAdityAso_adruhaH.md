@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 ādityāsaḥ ← ādityá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -114,11 +117,13 @@ víśveṣām ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Benevolent and genitive rous **Ādityas**, amid all the offerers of oblations, the man whom you conduct to thelimit (of his undertakings obtains his reward).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 When you conduct to the limit: yam nayatha pāram, whom you ledto the opposite bank
 </details>

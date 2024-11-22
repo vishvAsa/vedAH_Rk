@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anānudáḥ ← anānudá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unequalled in liberty, the showerer (of benefits), the slayer of the malevolent, profound, mighty, (endowed with) impenetrable sagacity, the dispenser of prosperity, the enfeebler (of foes), firm (of frame), vast (in bulk) the performer of pious acts, **Indra** has given birth to the light of the morning.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Uṣasaḥ **svar** janat: svar may mean the sun; Indra, or the sky, makes manifest the morning sun
 </details>

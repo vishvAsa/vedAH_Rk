@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaryo ← adhvaryú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -207,11 +210,13 @@ ukthám ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Adhvaryu**, let us two offer praise; do you concur with me; let us address plural asing praise to **Indra**; sit down, Indra, on the sacred grass (prepared by) the instrumental tutor of the rite; and may our commendations be most acceptable to Indra.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Do you concur with me: **prati** me gṛṇīhi; the **Hotā** is supposed to speak to Adhvaryu to direct their joint performance of some part of the ceremony
 </details>

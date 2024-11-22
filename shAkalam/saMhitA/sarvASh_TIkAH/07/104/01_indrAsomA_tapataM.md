@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 índrāsomā ← índrāsóma- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -177,7 +180,8 @@ nudéthām ← √nud- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Soma**, afflict, destroy the **rākṣasas**; showerers (of benefits) cast down those who delight indarkness; put to flight the stupid (spirits); consume, slay, drive away, utterly extermiante the cannibals.”
 </details>

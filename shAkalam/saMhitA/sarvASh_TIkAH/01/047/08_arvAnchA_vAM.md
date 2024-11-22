@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaraśríyaḥ ← adhvaraśrī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -176,7 +179,8 @@ sīdatam ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let your coursers, the grace of the sacrifice, bring you to be present at our rite; guides (of men) bestowing food upon the pious and liberal donor (of the offering), sit down on the sacred grass.”
 </details>

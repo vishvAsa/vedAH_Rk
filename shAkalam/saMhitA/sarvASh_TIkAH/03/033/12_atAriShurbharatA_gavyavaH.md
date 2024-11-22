@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átāriṣuḥ ← √tr̥̄- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -173,7 +176,8 @@ yātá ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Bharatās** seeking cattle passed over; the sage enjoyed the favour of the rivers; streams dispensing food, productive of wealth, spread abundance, fill (your beds), flow swiftly.”
 </details>

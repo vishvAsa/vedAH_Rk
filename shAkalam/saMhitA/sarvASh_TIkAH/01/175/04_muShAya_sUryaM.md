@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kave ← kaví- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -141,11 +144,13 @@ vā́tasya ← vā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sage **Indra**, who are the lord, you have carried off by your strength one wheel of (the chariot of) the sun. Take up your bolt for the death of **Śuṣṇa**, and proceed with your horses, swift as the wind, to **Kutsa**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kutsa = thunderbolt
 </details>

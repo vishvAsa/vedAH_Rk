@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhr̥máyaḥ ← bhr̥mí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -185,7 +188,8 @@ yéna ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Varuṇa**, may these people who are relying upon you, and wandering about (in alarm), sustain no injury from a youthful (adversary); for where is that reputation (you enjoy) on account that you bestow sustenance on your friends.”
 </details>

@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 parāváti ← parāvát- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -142,11 +145,13 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Śakra**, as you are exhilarated (by the **Soma**) on the far- distant ocean, so be you gratifiednow, when the Soma is effused by our libations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 On the far-distant ocean: **samudra** = Soma, i.e., if you areexhilarated by some distant (offering of) Soma
 </details>

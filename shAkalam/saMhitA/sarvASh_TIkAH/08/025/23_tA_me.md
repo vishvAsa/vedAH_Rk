@@ -22,14 +22,17 @@ ChandaH = "उष्णिग्गर्भा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvyānām ← áśvya- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -124,7 +127,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Among bay horses these two are pre-eminently the destroyers (of foes), and of those eager in combat;the two strong bearers of men.”
 </details>

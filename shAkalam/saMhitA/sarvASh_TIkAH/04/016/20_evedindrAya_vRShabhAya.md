@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -214,11 +217,13 @@ ugráḥ ← ugrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Therefore we offer to the vigorous **Indra**, the showerer (of benefits), holy adoration, that he may never withdraw his friendly (actions) from us, and that he may be our powerful protector, the defender of (our) person ns, as the **Bhṛgus** (fabricate) a car (for use).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhṛgavo na ratham: bhṛgavo = **dīptas** takṣāṇaḥ, bright or dexterous carpenters; i.e. as a wheelwright makes a chariot for a special purpose, so the worshipper performs worship in order to secure Indra's favour
 </details>

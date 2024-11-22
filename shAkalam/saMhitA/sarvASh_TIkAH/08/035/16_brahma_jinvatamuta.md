@@ -23,15 +23,18 @@ ChandaH = "उपरिष्टाज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 bráhma ← bráhman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
 
@@ -168,11 +171,13 @@ sunvatáḥ ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be propitious to prayer, be propitious to sacred rites, slay the **rākṣasas**, remedy diseases united withthe dawn and with **Sūrya**, (drink), **Aśvins**, the **Soma** of the offerer.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Be propitious to prayer: brahmajinvatam:**brahma** = **brāhmaṇa**. Note: consistent with the epithet, hāridrāvā used in an earlier ṛca (8.035.07), there issome association of the Aśvins with the trees and herbs (to remedy diseases)
 </details>

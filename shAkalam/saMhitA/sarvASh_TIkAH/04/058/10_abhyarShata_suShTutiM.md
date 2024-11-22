@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -180,11 +183,13 @@ pavante ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Priests) address the pious praise, (the source) of herds of cattle; bestow upon us auspicious riches; convey this our sacrifice to the gods, (where at) the streams of Ghī with sweetness descend.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Priests: the text has no nominative native; Ṛtvijaḥ, priests are impied; an alternative implied term may be **devāḥ**, gods; the pious praise the source of herds of cattle: suṣṭutim gavyam ājim: ājim = gosambandhinām saṅghātam, the number or collections related to cattle; or, it may mean the abundance of water; another interpretation: **agni** = **yajña** (sacrifice);
 

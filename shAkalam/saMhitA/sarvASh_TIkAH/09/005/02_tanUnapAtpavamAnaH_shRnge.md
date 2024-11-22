@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pávamānaḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -97,11 +100,13 @@ rā́rajat ← √rāj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pure-flowing **Tanūnapāt**, rushes sharpening its splendour on the height and hastens through the sky.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tanūnapāt = a name of **Soma**, abhyo amśavo jāyante **tataḥ** somo jāyate, from the waters are born beams, from these is born Soma; hastens through the sky: that is, to the droṇakalaśa, according to the text, 'he takes **āgrayaṇa** libation with two streams'
 </details>

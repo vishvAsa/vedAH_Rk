@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávare ← ávara- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -173,7 +176,8 @@ vājayántaḥ ← √vājay- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The most exalted, the most humble, (invoke) **Indra**; the middle (classes) invoke Indra; those going, those stopping, (invoke) Indra; those dwelling at home, those going in battle, (invoke) Indra; men needing food invoke Indra.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 narā ← nár- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -135,11 +138,13 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hear, leaders (of rites), (the invocation) of me the son of **Vyaśva**, and understand its (purport), and mayVaruṇa, **Mitra** ans **Aryaman** concurrently (grant me wealth).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purport: you recognize this my (invocation asdevoted to you)
 </details>

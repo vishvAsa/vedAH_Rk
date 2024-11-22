@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ámīvām ← ámīvā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -187,7 +190,8 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Savitā** drive away (our) disease, may the mountains keep off our most heinous (sin), where thestone( the effuser) of the sweet **Soma** is abundantly praised. We long for the universal **Aditi**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 apacanta ← √pac- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -174,11 +177,13 @@ punántā ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sages cooked a fat ram; they followed (**prajāpati**) in succession like dice thrown in gambling; two(of them), having the means of purification and becoming purified, proceed in the midst of the waters to (**Prakṛti**)the augmenter, to (**Kapila**) the implement of destruction.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A fat ram: i.e., the **aṅgirasas** sacrificed an animal toIndra as Prajāpati; in gambling: **dīva**, devane ramaṇasthāne;
 

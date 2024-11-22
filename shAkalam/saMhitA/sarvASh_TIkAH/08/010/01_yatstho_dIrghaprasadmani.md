@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīrgháprasadmani ← dīrgháprasadman- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whether, **Aśvins**, you are at present where the spacious halls of sacrifice (abound), whether you are inyonder bright sphere of heaven, or whether you are in a dwelling constructed above the firmament, come here.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádr̥pitāya ← ádr̥pita- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Repeat, oḥ priest, the praise, the prayer, to the attentive, the affable **Agni**, the beholder of man, the giver of felicity, the divine, the immortal; to him whom the effuser of the libation, like the (bruising) stone, adores aloud.”
 </details>

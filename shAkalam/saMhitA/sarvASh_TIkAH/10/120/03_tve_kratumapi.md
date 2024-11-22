@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ápi ← ápi (invariable)  
 {}
 
@@ -210,11 +213,13 @@ yodhīḥ ← √yudh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you all (worshippers) offer adoration, whether those propitiators be two or three. Combine thatwhich is sweeter than the sweet with sweetness, unite that honey with honey.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The two or three refer to theyajamāna and his wife and child. (ardho vā eṣa ātmano yatpatnīḥ: **Taittirīya** **Brāhmaṇa** 3.3.3)
 </details>

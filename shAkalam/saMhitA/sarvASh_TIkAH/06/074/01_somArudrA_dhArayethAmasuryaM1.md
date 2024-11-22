@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 asuryàm ← asuryà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -186,11 +189,13 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** and **Rudra**, confirm (in us the strength) of **asuras** may sacrifices in every dwelling adequately reach you; do you, possessors of the seven precious things, besow happiness upon us; happiness upon our bipeds and quadrupeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Possessors of seven precious things: sapta **ratnā** dadhāna; perhaps a reference to seven **dhātus** or seven elements
 </details>

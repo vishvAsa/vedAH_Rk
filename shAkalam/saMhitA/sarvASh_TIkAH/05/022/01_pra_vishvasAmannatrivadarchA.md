@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 atrivát ← atrivát (invariable)  
 {}
 
@@ -134,7 +137,8 @@ viśí ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sing, Viśvasāman, like **Atri**, (a hymn) to the dispenser of purifying light; (to him) who is to be praised at sacrifices, the invoker of the gods, the most adorable by man.”
 </details>

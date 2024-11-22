@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyā́ḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -178,7 +181,8 @@ yandhi ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, bearer of the thunderbolt, preserve us from this (poverty), that is so difficult to be destroyed, and from misfortune in war; grant us riches, conspicuous for chariots, remarkable for horses, for the sake of food, of fame, and of truth.”
 </details>

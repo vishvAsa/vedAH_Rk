@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātávedasaḥ ← jātávedas- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -117,7 +120,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he invest our sacrifice with those bright (flames) of **Jātavedas**, that are the bearers of theoblation to the gods.”
 </details>

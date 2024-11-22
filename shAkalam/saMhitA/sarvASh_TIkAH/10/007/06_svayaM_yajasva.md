@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -202,11 +205,13 @@ yajasva ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer sacrifice thyself, divine (**Agni**), to the gods in heaven; what can one who is ignorant and ofimmature understanding effect for you? As in due seasons, divine (Agni), you have sacrificed to the gods, so doyou, well- engendered (Agni), sacrifice to your won person n.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 What caṇ..for you: kim te kṛṇavat =tvayānadhiṣṭhitaḥ kiñcidapi na janāti, undirected (or unpresided over) by you he knows nothing
 </details>

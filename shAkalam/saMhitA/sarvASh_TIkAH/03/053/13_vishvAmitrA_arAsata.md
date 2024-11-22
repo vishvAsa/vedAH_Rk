@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arāsata ← √rā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -125,11 +128,13 @@ surā́dhasaḥ ← surā́dhas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Viśvāmitras** have addressed the prayer to **Indra**, the wielder of the thunderbolt; may he therefore render us very opulent.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Viśvāmitras: The **bharatas**, or descendants of **Bharata**, are descendants of **Viśvāmitra**; Bharata is the son of **Śakuntalā**, the daughter of the sage, **Visvāmitra** (**Mahābhārata** **Ādiparva**); **Vasiṣṭha** is the family priest of the Bharats and was the restorer to dominion from which they had been expelled by the **Pañcālas**
 </details>

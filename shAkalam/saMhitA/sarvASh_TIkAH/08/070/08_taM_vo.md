@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 maháḥ ← mahás- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -158,11 +161,13 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Great (priests), worship that **Indra** who is propitiated by gifts; who is to be invoked in the shallows andin the depths, and who is to be invoked in battles.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Propitiated by gifts: dānāya sakṣaṇim = who follows for agift
 </details>

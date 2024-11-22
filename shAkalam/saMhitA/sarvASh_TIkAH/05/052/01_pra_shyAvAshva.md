@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
 {}
 
@@ -134,7 +137,8 @@ yajñíyāḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer, worship with person verance, **Śyāvāśva**, to the praise-deserving **Maruts**; they who are adorable and delight in the daily offered and inoffensive sacrificial food.”
 </details>

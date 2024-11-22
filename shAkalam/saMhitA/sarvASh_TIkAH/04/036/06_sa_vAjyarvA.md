@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvā ← árvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -230,7 +233,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He is vigorous and skilled in war, he is a ṛṣi worthy of homage, he is a hero, the discomfiter of foes, invincible in battles, he is possessed of ample wealth, and (is blessed) with excellent posterity, whom **Vāja** and Vibhvan, whom the **Ṛbhus** protect.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iṭátas ← iṭátas (invariable)  
 {}
 
@@ -121,7 +124,8 @@ somínaḥ ← somín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have protected, **Indra**, this chariot of Iḷā, who offered libations; hear the invocation of thepresenter of the **Soma**.”
 </details>

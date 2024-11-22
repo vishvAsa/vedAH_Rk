@@ -20,12 +20,15 @@ ChandaH = "एकपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M
-#### Morph
+_________
+**Morph**  
 anibādhé ← anibādhá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -73,7 +76,8 @@ uraú ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we ever, gods, enjoy great and uninterrupted felicity.”
 </details>

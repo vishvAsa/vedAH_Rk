@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pávamānasya ← √pū- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -180,11 +183,13 @@ udámandiṣuḥ ← √mand- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The graceful waves of the purified **Soma** flow into **Indra**'s belly when being effused and drawn forth (together) with the potent curds of the kine, they excite the hero to bestow (gifts to the worshippers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The hero: i.e., Indra
 </details>

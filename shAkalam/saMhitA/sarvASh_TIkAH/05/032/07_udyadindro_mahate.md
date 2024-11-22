@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dānavā́ya ← dānavá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Indra** raised his powerful irresistible weapon against the mighty **Dānava**, when he struck him with the blow of the thunderbolt, he made him the lowest of all creatures.”
 </details>

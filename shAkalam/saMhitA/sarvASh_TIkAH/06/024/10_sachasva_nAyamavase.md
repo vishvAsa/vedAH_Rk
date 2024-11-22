@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhī́ke ← abhī́ka- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -195,7 +198,8 @@ suvī́rāḥ ← suvī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accompany, **Indra**, the leader in battle for his protection; defend him against a near (or distant) foe; protect him from an enemy, whether in (his) house or in a forest, and may we, blessed with excellent **male** descendants, be happy for a hundred winters.”
 </details>

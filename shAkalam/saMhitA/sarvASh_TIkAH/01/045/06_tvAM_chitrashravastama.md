@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citraśravastama ← citráśravastama- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -128,7 +131,8 @@ vóḷhave ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, granter of abundant sustenance, who are beloved of many, the sons of men invoke you, radiant-haired, to bear the oblation (to the gods).”
 </details>

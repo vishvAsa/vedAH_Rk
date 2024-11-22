@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́māni ← dhā́man- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -186,11 +189,13 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All-seeing (**Soma**), the mighty rays of you, who are the lord, encompass all the sphere; pervading (all things) you flow, Soma, through your functions; you rule lord of the whole world.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Through your functions: 'by the supporting streams of juice'
 </details>

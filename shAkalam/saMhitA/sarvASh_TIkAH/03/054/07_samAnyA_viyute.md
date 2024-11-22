@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūréante ← dūréanta- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -167,11 +170,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Common (in function), disjoined, of distant termination, they remain vigilant in a permanent station; being, as it were, sisters, and ever young; they therefore address each other by twin appellations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Heaven and earth are the person nifications here alluded to; address each other by twin appellations: ādu bruvāte mithunāni **nāma**; heaven and earth are designated together by **urvi** and other duplicate terms: urvyādibhir **dvandva** nāmābhir dyāvāpṛthivyavucyate
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ ubhaú ← ubhá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Both (heaven and earth) combined, cherish him (whom the **Ādityas** protect); verily prosperous, he thrives, with the rain of heaven; victorious in battles, (he defends) both his own dwelling (and assails) that of his foe; to him both portions (of creation) are propitious.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He defends both: ubhā **kṣayā** vājayan **yāti** = liṭ, he goes, conquering, to both habitations; both portions of creation: ubhau ardhau, the two parts of the world; either moveable and immoveable things, or mortal and immortal beings
 </details>

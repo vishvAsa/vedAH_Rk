@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánnam ← ánna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -187,7 +190,8 @@ tásmin ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May a son, firm in (devotion) and liberal (in offerings), be born to him who presents (sacrificial) food to you when needing food, who gives you constantly the exhilarating (**Soma** juice), who welcomes you as a guest, and devoutly kindles you in his mansion.”
 </details>

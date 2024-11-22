@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 dávidyot ← √dyut- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -194,7 +197,8 @@ urváśī ← urváśī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Ūrvaśī**) who shone like flashing lightning, bringing me the desirable dews (of heaven, hasappeared); a son able in act and friendly to man has been born; Ūrvaśī has prolonged my lengthenedexistence.”
 </details>

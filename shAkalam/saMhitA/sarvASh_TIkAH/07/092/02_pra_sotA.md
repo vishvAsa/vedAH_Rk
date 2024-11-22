@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvaréṣu ← adhvará- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -180,7 +183,8 @@ devayántaḥ ← √devay- (UNK_TYPE)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The prompt effuser of the libation offers the **Soma** to **Indra** and to **Vāyu** to drink at the sacrifices, atwhich devout priests, according to their functions, bring to you two the first (portion) of the Soma.”
 </details>

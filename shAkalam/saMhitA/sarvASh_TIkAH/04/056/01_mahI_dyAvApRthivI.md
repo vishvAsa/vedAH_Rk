@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -180,7 +183,8 @@ ukṣā́ ← ukṣán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vast and most excellent Heaven and Earth, be present with splendour at this (sacrifice, attracted) by sanctifying hymns; since that the showerer sounds everywhere with (his) heralds, the rapid (winds), passing through the two spacious and mighty (regions).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ráthena ← rátha- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -172,11 +175,13 @@ yuvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You brought, Śundhyu, the daughter of **Purumitra** to (her husband) **Vimada**; you came atVadharimati's invocation, and gave excellent offsprin to her who was full of wisdom.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śundhyu: the **Aśvins** heardher invocation in battle when her **hand** was cut off and gave her a golden hand
 </details>

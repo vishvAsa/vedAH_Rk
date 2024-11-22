@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marútvate ← marútvant- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -132,11 +135,13 @@ kartana ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Priests), present the oblation with **svāhā** to **Indra**, in the form of **Gāyatra**, along with **Pūṣan** and the **Maruts**; also to the assembled gods, and the **Vāyu**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In the form of Gāyatra: Gāyatra-vepase--gāyatra is substituted for itara-**sāma**: vepas = **rūpa**; gāyatram- rūpam yasya;
 

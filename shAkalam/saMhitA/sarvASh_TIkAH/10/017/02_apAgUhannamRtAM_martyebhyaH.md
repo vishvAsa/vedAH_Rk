@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 agūhan ← √guh- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -196,11 +199,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods concealing the immortal (Sarṇyū) for th esake of mortals and having formed her, gave herto **Vivasvat**. She bore the two **Aśvins** when this had happened and then **Saraṇyū** gave birth to two twins.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Forthe sake of mortals: maryebhyaḥ = manuṣyebhyas tadutpattyartham, for men, i.e. that men might be born. Manuwas the offspring of Vivasvat and the woman resembling Saraṇyū and all men are descended from **Manu**; thetwo twins: **Yama** and **Yamī**, but dvā mithunā, may mean two pairs of twins, Yama and Yamī, the first pairand the Aśvins the second
 </details>

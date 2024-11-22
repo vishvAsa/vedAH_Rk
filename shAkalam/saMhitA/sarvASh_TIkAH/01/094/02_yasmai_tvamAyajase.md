@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āyájase ← √yaj- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -209,7 +212,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, for whom you sacrifice, accomplishes (his objects), abides free from aggression, and enjoys (wealth, the source of) strength; he prospers, and poverty never approaches him; let us not suffer injury, **Agni**, through your friendship.”
 </details>

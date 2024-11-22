@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arkaíḥ ← arká- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beautiful **Indra**, who are to be praised with holy hymns, the pious who are desirous of holy rites, those who are anxious for riches, and those who are wise, repair to you with veneration; powerful Indra, their minds adhere to you, as affectionate wives to a loving husbaṇḍ+”
 </details>

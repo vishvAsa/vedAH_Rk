@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ké ← ká- (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -122,11 +125,13 @@ parāvátaḥ ← parāvát- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who are you, most excellent leadeers (of rites), who come one by one from a region exceedingly remote?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A wonderful old story: āścaryam purāvṛttam āhurāgamapāragaḥ, those who have gone through the **āgamas** have related a wonderful occurrence
 </details>
@@ -142,7 +147,8 @@ Note the doubly marked superlative śréṣṭhatama- (also I.113.12), which the
 
 unaccented naraḥ.
 
-It is somewhat notable that the Maruts are referred to éka-ekaḥ “one by one,” since they are usually not differentiated at all. ### 01-02 These two vss. contain a fairly high percentage of the total number of RVic 2nd pl. active pfs., with the poorly characterized ending -a on the weak stem: āyayá (1b), śeka, yaya (2b). Macdonell (VG p. 358) lists only twelve forms in all of Vedic (some of which have more than one token) of the 2nd pl. act. pf., and one of these (anāha) is better interpr. otherwise (see comm. ad VIII.48.5).
+It is somewhat notable that the Maruts are referred to éka-ekaḥ “one by one,” since they are usually not differentiated at all. _________
+**01-02 These two vss. contain a fairly high percentage of the total number of RVic 2nd pl. active pfs., with the poorly characterized ending -a on the weak stem: āyayá (1b), śeka, yaya (2b). Macdonell (VG p. 358) lists only twelve forms in all of Vedic (some of which have more than one token) of the 2nd pl. act. pf., and one of these (anāha) is better interpr. otherwise (see comm. ad VIII.48.5).**  
 </details>
 
 <details><summary>Griffith</summary>

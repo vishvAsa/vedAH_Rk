@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hiraṇyáyebhiḥ ← hiraṇyáya- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -168,11 +171,13 @@ marútaḥ ← marút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Augmenters of rain, they drive with golden wheels the clouds asunder, as elephants (in a herd break down the trees in their way); they are honoured with sacrifices, visitants of the hall of offering, spontaneous assailers (of their foes), subverters of what are stable, immoveable themselves, and wearers of shining weapons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As elephants: āpathyo na, lit. like that which is produced or occurs on the road; alt. meaning: like a chariot which drives over and crushes sticks and straws on the way
 </details>

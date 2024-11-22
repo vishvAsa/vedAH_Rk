@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -188,11 +191,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Although **Brāhmaṇas** who are friends concur in the mental apprehensions which are conceived bythe heart (of the wise), yet in this (assembly) they abandon one man (to ignorance of the sciences) that are to beknown, others again who are reckoned as Brāhmaṇas (wander at will in the meanings of the **Veda**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Brāhmaṇa**: who possess the investigated **Brahman**, consisting of knowledge, divine lore (**śruti**), thought andwisdom, i.e., the learned
 </details>

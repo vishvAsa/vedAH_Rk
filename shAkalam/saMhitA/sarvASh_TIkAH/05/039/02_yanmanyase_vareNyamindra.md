@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mányase ← √man- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -161,11 +164,13 @@ dāváne ← √dā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whatever food you consider desirable, **Indra**, bestow it; let us be to you (in the relation of your) gift of unlimited sustenance.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Gift of unlimited sustenance: tasya akūpārasya dāvane = in the giving of that unlimited food, annasya or dānasya, gift;
 

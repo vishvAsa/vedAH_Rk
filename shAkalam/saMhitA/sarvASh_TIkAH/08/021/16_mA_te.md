@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arāma ← √r̥- 1 (root)  
 {number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
 
@@ -217,11 +220,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us never, **Indra**, giver of cattle, cease (to benefit) from your wealth; let us not accept it (from anotherthan) you; do you, who are the lord, connfirm to us permanent (riches), bestow them upon us; your benefactionscannoe be arrested.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Another than you: te = vayam tava svabhūtāḥ, we who are thine
 </details>

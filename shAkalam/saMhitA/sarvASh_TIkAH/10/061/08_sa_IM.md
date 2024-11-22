@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ājaú ← ājí- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -225,11 +228,13 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, like the showerer (**Indra**), cast foam around in the combat, and came away from us with a niggardmind; he advances not a step, relinquishing the donations; though skilled in rapine, he seizes not these my(cows).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The verse is said to be repeated by Nābhānediṣṭha when he sees **Vāstoṣpati** (or **Rudra**) coming tostop him; cast foam around: an allusion to the destruction of **Namuci** by Indra in the shape of the foam of the sea;relinquishing the donations: i.e., the cows given to Rudra by the **Aṅgirasas** as **dakṣiṇā** or honorarium
 </details>

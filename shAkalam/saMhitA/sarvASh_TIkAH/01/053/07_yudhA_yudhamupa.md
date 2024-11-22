@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhr̥ṣṇuyā́ ← dhr̥ṣṇuyā́ (invariable)  
 {}
 
@@ -206,11 +209,13 @@ nibarháyaḥ ← √br̥h- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Humiliator (of adversaries), you go from battle to battle, and destroy by your might city after city; with you foe-prostrating associate, (the thunderbolt), you **Indra**, did slay afar off the deceiver named **Namuci**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Namuci is an **asura**; he is also a **Dānava**, descendant of **Danu**
 </details>

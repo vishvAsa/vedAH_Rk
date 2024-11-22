@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 āsan ← √as- 1 (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -135,11 +138,13 @@ purogaváḥ ← purogavá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hymns were the cross-bars (of the car); the Kurīra metre was the thong of the whip; the **Aśvins** wereSūrya's groomsmen; **Agni** was the leader of the procession.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thong of the whip: or tuft of hair; cf. go opaśa: RV6.53.9; Aśvins were **Sūrya**'s groomsmen: **Prajāpati** **Savitā** had offered his daughter Sūrya to **Soma**: AitareyaBrāhmaṇa 4.7
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́pyam ← ā́pya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -177,7 +180,8 @@ té ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the gods who, (coming) from afar proclaim their affinity (with men), and beloved by men, (support)the genitive rations of (**Manu**, the son of) **Vivasvat**; may they who are seated on the sacred grass of **Yayāti**, the sonof **Nahuṣa**, speak favourably unto us.”
 </details>

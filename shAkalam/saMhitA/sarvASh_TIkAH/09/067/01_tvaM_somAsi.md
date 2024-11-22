@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -115,7 +118,8 @@ pávasva ← √pū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Soma**, who are most exhilarating, most powerful, are disposed to shed your stream at our sacrifice; flow then you who are the giver or riches.”
 </details>
@@ -129,7 +133,8 @@ You, Soma, are supporting, invigorating, strongest at the ceremony. Purify yours
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">
 <details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
-Attributed to Bharadvāja, the tṛca shows elementary unity by positoning tvám at the beginning of each vs. ### 01
+Attributed to Bharadvāja, the tṛca shows elementary unity by positoning tvám at the beginning of each vs. _________
+**01**  
 Grassmann derives dhārayú- from dhā́rā- ‘stream’ and glosses ‘strömend’, an idea that goes back to Sāyaṇa. Geldner follows suit (“der hervorsprudelnde”), though in n. 1a he entertains a derivation from √dhṛ, which underlies Renou’s “le mainteneur” (see his n.) I also think that √dhṛ is the correct etymon. There would be no reason to shorten the final of dhā́rā- (though dhā́ra-pūta- ‘purified by streams’ (?) and dhāra-vāká- ‘recitation for the streams’ (?) do give me pause), while there is a well-established relationship between -ā̆-yá-(ti) verbs and - ā̆-yú- adjectives (type devayá- / devayú-). Though it has a different accent and a different functional profile, dhā́ráyati is a very common verb, and it is easy to imagine the creation of a -yú- nominal to that stem. However, if it is derived from dhā́rā- ‘stream’, the sense should not be of the type given by Grassmann and Geldner, but rather ‘seeking streams’, as is standard with -yuformations to nouns. The idea would be that the soma, once pressed, goes forth to seek the ritual waters.
 </details>
 </div>

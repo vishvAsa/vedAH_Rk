@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ágram ← ágra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -204,11 +207,13 @@ tát ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That, **Bṛhaspati**, is the best (part) of speech which those giving a name (to objects) first utter; thatwhich was the best of those (words) and free from defect, (**Sarasvatī**) reveals it though secretly imparted, bymeans of affection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Deity **Jñāna**: The knowledge of **Brahman** is identical with the study of the **Veda**, essentialto divine knowledge; Those...first utter: this refers to children's first utterances; Bṛhaspati says this to himselfwith a smile, having noticed that children know the meaning of the Veda: **Aitareya** **Brāhmaṇa** 1.14; Best ofthose words: tat = that knowledge of the Veda
 </details>

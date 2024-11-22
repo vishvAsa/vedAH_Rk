@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhū́ri ← bhū́ri- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -228,7 +231,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Great is your prowess, **Indra**; we are yours; satisfy **Maghavan**, the desires of this your worshipper, the vast heaven has acknowledged your might; this earth has been bowed down through your vigour.”
 </details>

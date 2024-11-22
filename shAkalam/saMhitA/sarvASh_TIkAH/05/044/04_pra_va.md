@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eté ← eṣá (pronoun)  
 {case:NOM, gender:M, number:PL}
 
@@ -177,7 +180,8 @@ pravaṇé ← pravaṇá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These well-combined rays (of the sun) are descending with intent to proceed on the path (of the sacrifice), amplifiers of the ceremony for this (its instrumental tutor); operating with these swift-moving, all-regulating rays, he, (**Āditya**) steals the waters (that flow) in low plural ces.”
 </details>

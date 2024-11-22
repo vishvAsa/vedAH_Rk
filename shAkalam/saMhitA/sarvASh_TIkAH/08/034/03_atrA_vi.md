@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -151,7 +154,8 @@ yayá ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The circumference of these (stones) shakes (the **Soma**) at this (rite), as a wolf (terrifies) a sheep doyou, ruling yonder heaven, O radiant with oblations, return here.”
 </details>

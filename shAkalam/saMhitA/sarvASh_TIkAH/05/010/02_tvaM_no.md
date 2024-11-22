@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adbhuta ← ádbhuta- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -153,11 +156,13 @@ yajñíyaḥ ← yajñíya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Marvellous **Agni**, (gratified) by our acts, (produce) in us greatness of vigour; in you abides the strength destroying evil spirits; you who are to be worshipped like **Mitra**, are the doer (of great deeds).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The text has only krāṇā for kurvāṇā; the acts alluded to are such as driving away the **rākṣasas** or other disturbers of religious rites
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ tvé ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Agni**, knowing all that exists and distributor of food, many are the names of you who are immortal satisffier of all men, friend of the suppliant, the gods have deposited in you whatever are the delusions of the deluding (**rākṣasas**).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Many are the names of you: bhūrīṇi **nāma**, for nāmāni; the substantive is explained by tejāṃsi, splendours; the gods have deposited: therefore agni is able to counteract their devices for disturbing sacrifices.
 </details>

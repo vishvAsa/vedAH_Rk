@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 8+4
-#### Morph
+_________
+**Morph**  
 āyáve ← āyú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -127,7 +130,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whereby you have made the plural nets manifest to Ayu and to **Manu**, and rule rejoicing over this sacredrite.”
 </details>

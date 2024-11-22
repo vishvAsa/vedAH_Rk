@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánāsaḥ ← jána- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -190,7 +193,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Without whom men do not conquer; whom, when engaged in conflict, they invoke for succour; he, who is the prototype of the universe and the caster down of the unyielding; he, men, is **Indra**.”
 </details>

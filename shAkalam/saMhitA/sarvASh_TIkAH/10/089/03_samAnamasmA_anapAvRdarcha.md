@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánapāvr̥t ← ánapāvr̥t (invariable)  
 {number:SG}
 
@@ -194,7 +197,8 @@ sákhāyam ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sing along with me a new song, unceasing, surpassing heaven and earth, to him who like the **pṛṣṭha**(praises), born at sacrifices, overcomes his enemies, **Indra** who desires no friend.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -196,7 +199,8 @@ He who is in waters with his own pure splendour spreads forth widely as per the 
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All other beings are, as it were, branches of him, who, truthful, eternal, and vast, shines amid the waters with pure and divine (radiance); and the shrubs, with their products, are born (of him).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kathā́ ← kathā́ (invariable)  
 {}
 
@@ -165,7 +168,8 @@ sā́dha ← √sādh- ~ sidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Why tell it to the veracious company of the **Maruts**? why, even when asked, to the mighty sun? why repeat it to **Aditi**, or to the swift wind? fulfil, all-knowing **Jātavedas**, (the worship) of heaven.”
 </details>

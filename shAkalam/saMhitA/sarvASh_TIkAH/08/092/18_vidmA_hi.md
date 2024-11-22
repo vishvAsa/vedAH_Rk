@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adrivaḥ ← adrivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -131,7 +134,8 @@ víśvāsu ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thunderer, smiter of enemies, truthful drinker of the **Soma**, we know (the wealth) which is given by youto all your votaries.”
 </details>

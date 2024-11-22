@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gónām ← gáv- ~ gó- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -196,7 +199,8 @@ upaṣṭút ← UNK_ROOT (UNK_TYPE)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And being purified, **Soma**, you pursue the herd of (stolen) cattle in the same chariot with **Indra**; O you who give quickly, give (us) when invoked plural ntiful and abundant viands, for they are your (property) O you who abound in food.”
 </details>

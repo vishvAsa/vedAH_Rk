@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 edhatúm ← edhatú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -204,11 +207,13 @@ yauṣṭam ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Gladdeners of many, you have given to Viśṇāpu this prosperity for the attainment of excellent wealth!**Viśvaka** now invokes you for the sake of his son; sever not our friendships, but fling loose (your reins and gallophere).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Viṣnāpu = name of the ṛṣi's son or grandson
 </details>

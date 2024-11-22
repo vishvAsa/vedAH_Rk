@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásāvi ← √su- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -194,7 +197,8 @@ priyā́ ← priyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** has been effused, (**Indra**), for your gratification, for (giving you) strength in action, and for your great exhilaration; therefore Indra, when invoked by us, put to your two beloved, docile, well-trained horses in your car, and come down.”
 </details>

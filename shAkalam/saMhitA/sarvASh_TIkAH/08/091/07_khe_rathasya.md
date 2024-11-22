@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 ánasaḥ ← ánas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -159,11 +162,13 @@ sū́ryatvacam ← sū́ryatvac- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thice, **Śatakratu**, did you purify **Apālā**, in the hole of the chariot, in the hole of the cart, and in thehole of the yoke, and you did make here with a skin splendent like the sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Thrice did you purify: **Indra** draggedher through the wide hole of his chariot, the narrower hole of the cart, and the small hole of the yoke, and shecast off three skins. The first skin became a hedge-hog, the second an alligator, the third a chameleon
 </details>

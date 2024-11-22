@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -127,11 +130,13 @@ mádhu ← mádhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I fill your belly (with the libation); let is spread throughout the limbs; take the honied **Soma** with yourtongue.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Belly: kukṣyoḥ, in the dual: **Indra** has two bellies, indrasya hi dve udare; fill both the bellies of the slayerVṛtra; or, the reference may only be to the right and left sides, or the upper and lower portions of the sam ebelly,yadvā ekasyaiva udarasya savyadakṣiṇabhedena ūrddhvādhobhāgena vā dvitam
 </details>

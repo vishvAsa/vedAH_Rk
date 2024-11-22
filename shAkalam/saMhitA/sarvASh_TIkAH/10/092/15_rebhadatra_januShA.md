@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṅgirāḥ ← áṅgiras- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ vánanvati ← vánanvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aṅgirasa**, the prior in birth, praises (the gods, here); the uplifted stones behold (the **Soma** of) thesacrifice, through which (stones) the sage **Indra** has been exalted, (and his) thunderbolt brings forth excellentwater, (producing) food on watery way.”
 </details>

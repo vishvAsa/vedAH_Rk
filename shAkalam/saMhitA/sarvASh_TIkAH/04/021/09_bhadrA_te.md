@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhadrā́ ← bhadrá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -244,7 +247,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your auspicious **hands**, **Indra**, are the doers of good deeds; your two hands, Indra, are the extenders of wealth to him who praises you; what, Indra, is this delay? why do you not exhilarate us? why are you not delighted to make us gifts?”
 </details>

@@ -25,17 +25,20 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 śáktibhiḥ ← śákti- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -177,7 +180,8 @@ vívakṣase ← √vac- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The intelligent (priests), whose desires are fixed (on the fruit of good works), with sacred rites showforth (the praises) of you, **Soma**, who are wise and powerful; do you, in your exhilaration, (grant us) pastures,abounding with cattle, and with horses; for you are mighty.”
 </details>

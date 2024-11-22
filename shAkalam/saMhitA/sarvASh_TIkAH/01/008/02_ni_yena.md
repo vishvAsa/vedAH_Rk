@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 muṣṭihatyáyā ← muṣṭihatyā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -117,7 +120,8 @@ tvótāsaḥ ← tvóta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By which we may repel our enemies, whether (encountering them) **hand** to hand, or on horse-back; ever protected by you. (muṣṭihatyayā = muṣṭiprahāreṇa) = lit. by striking with the fist; on horseback = with a horse (a reference to infantry and cavalry)\].”
 </details>

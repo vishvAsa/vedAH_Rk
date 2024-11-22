@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 manoyújaḥ ← manoyúj- (nominal stem)  
 {case:NOM, number:PL}
 
@@ -154,7 +157,8 @@ yāhí ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the ninety-nine steeds harnessed together, that are as swift as thought, convey you; come, **Vāyu**, with your brilliant car, to drink the **Soma** juice.”
 </details>

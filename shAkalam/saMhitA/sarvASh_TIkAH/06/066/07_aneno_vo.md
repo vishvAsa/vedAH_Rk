@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anenáḥ ← anená- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May your chariot, **Maruts**, be devoid of wickedness; that which (the worshipper) impels, and which without driver, without horses, without provender, without traces, scattering water and accomplishing (desires), traverses heaven and earth and the paths (of the firmament).”
 </details>

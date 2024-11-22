@@ -22,14 +22,17 @@ ChandaH = "पादनिचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 purūvaso ← purūvásu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -107,11 +110,13 @@ sthātar ← sthā́tar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O wealthy **Indra**, the leader (of rites), we belong to one like you, ruler of horses.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 We belong to one likeyou: since none other is like you, we are yours
 </details>

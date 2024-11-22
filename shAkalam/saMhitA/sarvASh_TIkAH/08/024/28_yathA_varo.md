@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 suṣā́mṇe ← suṣā́man- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -114,11 +117,13 @@ vyàśvebhyaḥ ← vyàśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As you, Varu, have distributed vast wealth to those who have solicited (riches) on behalf of **Susāman**,(so do you now distribute) to the descendants of **Vyaśva**; (and so too you), auspicious food-bestowing (Uṣas).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 On behalf of **Suṣāman**: Varu is said to have distributed these alms that his father, Suṣāman, might go toheaven;
 

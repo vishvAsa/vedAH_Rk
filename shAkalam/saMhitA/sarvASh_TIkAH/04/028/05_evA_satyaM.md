@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -183,7 +186,8 @@ tatr̥dānā́ ← √tr̥d- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Possessors of wealth, destroyers of foes, **Indra** and **Soma**, it is indeed true that you have distributed great numbers of horses, and of the cattle which had been concealed and the land which you had recovered by your strength.”
 </details>

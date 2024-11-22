@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 abhídyave ← abhídyu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -118,11 +121,13 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Virūpa**, with constant voice address your praise to this well-plural ased showerer (of blessings).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Withconstant voice: nityayā **vācā**: an allusion to the eternal nature of the hymns, **utpatti** rahitayā vācāmantrarūpayā; well- plural ased: abhidyave = abhigatatṛptaye; abhigatadīptaye
 </details>

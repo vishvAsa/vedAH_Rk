@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 prajā́vatīḥ ← prajā́vant- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -187,11 +190,13 @@ vr̥jyāḥ ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May you, cows, have many calves grazing upon good pasture, drinking pure water at accessible ponds; may no thief be your master; no beast of prey (assail you), and may the (fatal) weapon of **Rudra** avoid you.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rudra, the supreme being identical with time, kālātmakasya parameśvarasya
 </details>

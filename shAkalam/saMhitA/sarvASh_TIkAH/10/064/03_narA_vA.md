@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágohyam ← ágohya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -193,11 +196,13 @@ vā́tam ← vā́ta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adore with praises Nārāśaṃsa and **Pūṣan**, and the unapproachable **Agni** kindled by the devoutAśvins.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Trita**: tritam = stretched, i.e., diffused through his own might over the **three worlds**, i.e., **Indra**;
 

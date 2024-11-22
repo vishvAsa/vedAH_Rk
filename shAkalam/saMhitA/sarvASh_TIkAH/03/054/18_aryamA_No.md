@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áditiḥ ← áditi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -171,11 +174,13 @@ prajā́vān ← prajā́vant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Aryaman**, **Aditi**, the adorable (gods), and the unimpeded functions of **Varuṇa** (protect) us; keep us from (following) the course unpropitious to offspring, and may our dwelling be abundant in progeny and cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Keep us from the course: yuyota no anapatyāni gantoḥ: anapatyāni = putrāṇām ahitāni karmaṇi tanmārgāt **pṛthak** **kuruta**
 </details>

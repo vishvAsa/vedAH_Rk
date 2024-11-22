@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -193,7 +196,8 @@ taráṇim ← taráṇi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Celebrating (sacred) rites, I glorify you, **Aśvins**; well-horsed and undecaying is that chariot, whereby you quickly traverse the regions (of space), and come to (our sacrifice) abounding in oblations, promptly passing away, and the yielder of enjoyment.”
 </details>

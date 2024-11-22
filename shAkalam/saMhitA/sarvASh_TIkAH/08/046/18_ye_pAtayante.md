@@ -24,16 +24,19 @@ ChandaH = "उपरिष्टाद्बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ájmabhiḥ ← ájman- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -136,11 +139,13 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(We present) the oblation to those loud-sounding (**Maruts**) who rush along with the streaming trains ofthe clouds; may we obtain in the sacrifice the happiness which those deep-roarers bestow.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Streaming trains:ajman = gamanam (RV 1.166.5), **saṅgrāma** (RV 1.112.17); here, balair balakarair udakaiḥ
 </details>

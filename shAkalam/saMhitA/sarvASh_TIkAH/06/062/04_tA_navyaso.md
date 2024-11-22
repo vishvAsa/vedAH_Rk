@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 járamāṇasya ← √gr̥̄- 1 (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -180,7 +183,8 @@ yúvānā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harnessing their horses, bringing excellent food, nourishment, and strength, they approach (to receive) the adoration of their recent worshipper; and may the benevolent ancient invoker of the gods (**Agni**) sacrifice to the ever youthful (deities).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 cátuḥsahasram ← cátuḥsahasra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -195,11 +198,13 @@ víprāḥ ← vípra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have accepted, **Agni**, the four thousand cattle from the **Ruśamās**; and the glowing, the golden ewer prepared for the solemnity, we who are wise have accepted it.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The golden ewer: **gharmas**' cit **taptaḥ** pravṛje ya āsid ayasmayaḥ: ayasmayaḥ = made of metal, here, made of gold, hiraṇyamaya **kalaśa**, a ewer;
 

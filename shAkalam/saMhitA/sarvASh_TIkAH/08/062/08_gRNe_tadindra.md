@@ -23,16 +23,19 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 gr̥ṇé ← √gr̥̄- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -164,11 +167,13 @@ rātáyaḥ ← rātí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, I laud that might of yours which isnear at **hand** to the worshipper-- (I laud you) that you slay **Vṛtra**,O lord of rites, by your strength; Indra's gifts are worthy of praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To the worshipper: for the sake of theoffering
 </details>

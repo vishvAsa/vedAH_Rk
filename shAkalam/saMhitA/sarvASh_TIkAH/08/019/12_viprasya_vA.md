@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sahasaḥ ← sáhas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -147,11 +150,13 @@ vividúṣaḥ ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Son of strength, giver of dwellings, plural ce the prayer of he devout intelligent worshipper, who is mostprompt in offerings, below the gods and above mortals.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Above mortals: spread it throughout the sky; avodevanupari martyam = sarvam **nabhaḥ** pradeśam vyāpaya
 </details>

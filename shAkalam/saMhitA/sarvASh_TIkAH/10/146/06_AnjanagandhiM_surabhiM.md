@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 ā́ñjanagandhim ← ā́ñjanagandhi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -136,7 +139,8 @@ aśaṁsiṣam ← √śaṁs- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise the musk-scented, fragrant, fertile, uncultivated **Araṇyāni**, the mother of wild animals.”
 </details>

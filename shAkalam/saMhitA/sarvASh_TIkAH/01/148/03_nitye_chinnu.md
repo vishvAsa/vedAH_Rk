@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -185,11 +188,13 @@ rathyàḥ ← rathī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him, whom the worshippers lay hold of in his perpetual abode, they detain by their praises, and the holders convey him diligently to the sacrifice, as rapid coursers, harnessed to a car, (bear the rider to his destination).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Holders convey him: praṇayanta: the allusion is to the solemn conveyance of fire from the **gārhapatya** or household, to the **āhavanīya**, or sacrificial fire
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 háribhiḥ ← hári- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -190,7 +193,8 @@ sū́ryam ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, performer of holy acts, desirous of going to man, you with your steeds have slain **Vṛtra** (have set free) the waters, have taken in your **hands** your thunderbolt of metal, and have made the sun visible in the sky.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anehásam ← anehás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -172,11 +175,13 @@ svastáye ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we for our well-being ascend the well-oared, defectless, unyielding, divine vessel, thesafe-sheltering expansive heaven, exempt from evil, replete with happiness, exalted and right-directing.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Allepithets, e.g. pṛthivīm are read with dyām;
 

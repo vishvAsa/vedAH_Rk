@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcata ← √r̥c- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -166,7 +169,8 @@ yā́sat ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Raise the sacred chant to him who is the destroyer of the cities (of the foes) of his worshipper,(induced) by which may the thunderer come to sit down at the sacrifice of the sons of **Kaṇva**, and destroy thecities (of their enemies).”
 </details>

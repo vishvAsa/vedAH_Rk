@@ -26,10 +26,12 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M;; repeated line
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenúm ← dhenú- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -248,7 +251,8 @@ sutáḥ ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They milk for you two with stones, that succulent creeper, like a productive cow; they milk the **Soma** with stones; come to us as our protectors; be present with us to drink the Soma; thos Soma has been effused, **Mitra** and **Varuṇa**, for you both; effused for your drinking.”
 </details>

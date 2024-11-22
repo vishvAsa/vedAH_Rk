@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hádbhyaḥ ← br̥hánt- (nominal stem)  
 {case:DAT, gender:M, number:PL}
 
@@ -176,11 +179,13 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You elevate those, of whom **Indra** is chief, above the vast clouds; for these, (your worshippers), you provide dwelling (plural ces) filled in habitations; as when advancing they detained you, so in like manner at your command they stayed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yathā yathā patayantaḥ gaccandas tvam viyemire evaiva tasthuḥ savāya te: tavanujñayā eva tiṣṭhanti, probably this applies to the worshippers
 </details>

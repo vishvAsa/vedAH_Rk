@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adharā́t ← adharā́t (invariable)  
 {}
 
@@ -186,11 +189,13 @@ hetī́ḥ ← hetí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, protect us from the west, from the south, from the north, from the east, protect us from every side;keep far from us supernatural alarm, keep afar the weapons of the demons.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. protect us from the west, fromthe east, from below, from the north
 </details>

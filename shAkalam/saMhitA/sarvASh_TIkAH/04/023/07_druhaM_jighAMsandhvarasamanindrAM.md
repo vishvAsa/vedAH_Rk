@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anindrā́m ← anindrá- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -180,11 +183,13 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Resolving to kil the oppressing, malevolent (**rākṣasi**), not acknowledging **Indra**, he sharpened his sharp weapons for (her) destruction, and the fierce (Indra) the canceller of debts, has kept afar the unknown dawns in which the debts (are to be paid).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Resolving to kill: jighāṃsan druham dhavarasam anindram: the implied rākṣasi is thought to mean death, the debt of nature, the payment of what Indra's favour delays by prolonging life
 </details>

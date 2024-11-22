@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ástā ← ástar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -122,7 +125,8 @@ yā́tā ← yā́tar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(May **Agni**), who is like one who succeeds (in his undertakings), and acquires (what he wishes for), who is like a warrior casting a dart, and resembles a fearful adversary, who is brilliant in combats, (be to us a friend).”
 </details>

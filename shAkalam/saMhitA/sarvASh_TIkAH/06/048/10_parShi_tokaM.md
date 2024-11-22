@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 párṣi ← √pr̥- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
 
@@ -156,7 +159,8 @@ hvárāṁsi ← hváras- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You protect with uninjurable, irremovable defences (our) sons and grandsons; remove far from us celestial wrath and human malevolence.”
 </details>

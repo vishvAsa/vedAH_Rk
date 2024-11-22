@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥táḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -203,11 +206,13 @@ váyaḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like a chariot drawn by ropes, **Agni**, set in movement by his own revolving members (his flames), proceeds to the heavens; the paths he traverses are blackened by smoke, as he consumes (the fuel), and (beasts and) birds fly from his radiance as (enemies fly from the prowess) of a hero.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Flames: angebhir aruṣebhiḥ gamanaśīlair avayavair jvālābhiḥ, by limbs, i.e., flames, having motion; beasts and birds: **vayaḥ** gamanavantaḥ pakṣimṛgādayaḥ, creatures having motion--birds, beasts and the like
 </details>

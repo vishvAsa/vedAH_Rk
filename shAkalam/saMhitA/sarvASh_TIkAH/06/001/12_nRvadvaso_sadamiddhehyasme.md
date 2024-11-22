@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M
-#### Morph
+_________
+**Morph**  
 asmé ← ahám (pronoun)  
 {case:DAT, number:PL}
 
@@ -182,7 +185,8 @@ sauśravasā́ni ← sauśravasá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Possessor of wealth, bestow upon us at all times opulence conjoined with dependants, and (grant) abundance of cattle to our sons and grandsons; may therefore be to us abundant food, satisfying our wishes, and free from blame; and may there be auspicious and reputable (means of subsistence).”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánuttamanyum ← ánuttamanyu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praises truly enable the universal monarch, **Indra**, whose wrath is irresistible, to overcome (his foes);urge your kinsmen, (worthippers, to glorify) the lord of bay steeds.”
 </details>

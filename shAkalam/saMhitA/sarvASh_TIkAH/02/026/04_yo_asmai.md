@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmai ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ urucákriḥ ← urucákri- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Brahmaṇaspati** leads by a straight path (to his reward), the worshipper who propitiates him with oblations of butter; he guards him against sin; he protects him from foes and from distress; and wonderful (in might) confers upon him many (favours).”
 </details>

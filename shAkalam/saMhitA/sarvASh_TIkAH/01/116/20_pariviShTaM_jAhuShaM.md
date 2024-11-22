@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāhuṣám ← jāhuṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -154,11 +157,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Undecaying **Nāsatyas**, you bore away by night, in your foe-overwhelming car, **Jāhuṣa**, surrounded on every side by (enemies), through practicable roads, and went to (inaccessible) mountains.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jāhuṣa: the name of a king
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 árṇaḥ ← árṇas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -123,11 +126,13 @@ víśvāḥ ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sarasvatī**, makes manifest by her acts a mighty river, and (in her own form) enlightens all understandings.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sarasvatī is the river in this hymn: **dvividhā** hi sarasvatī vigrahavaddevatā nadīrūpā ca, tatra sarasvatītyetasya nadīvaddevatāvacca nigamā **bhavanti** (**Nirukta** 2.23)
 </details>

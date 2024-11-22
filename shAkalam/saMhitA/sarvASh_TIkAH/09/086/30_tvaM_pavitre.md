@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pavítre ← pavítra- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -177,7 +180,8 @@ yemire ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Purified **Soma**, you are purified for the gods in the filter the supporter of the worlds; the chief (priests) desiring (you) lay hold (of you), all these worlds offer themselves to you.”
 </details>

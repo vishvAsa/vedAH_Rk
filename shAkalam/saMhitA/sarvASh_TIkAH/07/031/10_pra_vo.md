@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bharadhvam ← √bhr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -160,7 +163,8 @@ víśaḥ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring (libations) to the great (**Indra**), the giver of great (wealth); offer praise to the wise Indra; fulfiller (ofthe desires) of men, come to the people offering many (oblations).”
 </details>

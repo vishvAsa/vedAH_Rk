@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 avatu ← √avⁱ- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
 
@@ -195,11 +198,13 @@ yós ← yós (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Narāśaṃsa protect us at the Prayāja rite; may he be (the giver of) felicity to us as theAnuyāja (divinity) at oblations; may **Bṛhaspati** hurl down the inglorious (enemy), may he baffle the malevolent,and bestow upon the sacrificer health and prosperity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 At the Prayāja rite: there are five prayājas, and threeanuyājas; the second Prayāja has Narāśaṃsa (a name of **Agni**) for its deity; the second Anuyāja has Agnias its deity
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áva ← áva (invariable)  
 {}
 
@@ -135,7 +138,8 @@ bráhma ← bráhman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The drum utters its sound, the leathern guard twangs, the tawny bowstring leaps to and fro; let thehymn be raised to **Indra**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -195,7 +198,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He stoops down among the bushes as if embellishing them (with his lustre), and rushes roaring like a bull amongst (a herd of) cows; thence increasing in intensity, he enhances (the fierceness) of his form, and is difficult to be arrested as a formidable (animal), when he brandishes his horns. Like a bull amongst: vṛṣeva pantir abhyeti; patnir = pālayitrīḥ, those who cherish him, **Agni**, i.e., bushes, timber; patnī = a cow\].”
 </details>

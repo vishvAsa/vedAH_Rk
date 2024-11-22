@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 nákiḥ ← nákiḥ (invariable)  
 {}
 
@@ -178,7 +181,8 @@ pr̥thujráyāḥ ← pr̥thujráyas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whom, when borne by his steeds, foremost and eminent in battles, breaking in two the (hostile host), no one ever surpasses; supreme in a way, attended by his faithful **Maruts**, and hastening to combat, he has destroyed with foe-withering (energies) the existence of the **Dasyu**.”
 </details>

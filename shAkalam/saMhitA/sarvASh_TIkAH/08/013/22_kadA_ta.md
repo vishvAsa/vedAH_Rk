@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 girvaṇaḥ ← gírvaṇas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -145,7 +148,8 @@ vásau ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Indra**, who delight in praise, may your worshipper be entirely happy? When will you establish usin (the affluence of) cattle, of horses, of dwellings?”
 </details>

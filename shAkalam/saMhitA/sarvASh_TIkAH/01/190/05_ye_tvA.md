@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deva ← devá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ píyārum ← píyāru- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Divine **Bṛhaspati**, you do not bestow desired (wealth) upon those stupid (men), who, sinful and mean subsist, considering you, who are auspicious, as an old ox; but you favour him who offers (you) libations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 As an old ox: tvā usriyam manyamānaḥ: usriya = a cow giving little milk; or an old one, jīrṇam anaḍvāham vā; but your favour: cayasa it piyārum, you go to bestow favour on him who sacrifices with the **Soma**; another interpretation: you destroy the malevolent (**Nirukta** 4.25)
 </details>

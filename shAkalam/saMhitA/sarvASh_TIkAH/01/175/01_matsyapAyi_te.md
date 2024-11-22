@@ -23,15 +23,18 @@ ChandaH = "स्कन्धोग्रीवी बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápāyi ← √pā- 2 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -163,7 +166,8 @@ vājī́ ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of steeds, you are exhilarated when the sacred (**Soma**) has been imbibed by you as by its (appropriate) vessel; for to you, showerer (of benefits), it is exhilarating, inebriating, invigorating, the yielder of delight, (satisfying as) food, and the giver of a thousand (plural asures).”
 </details>

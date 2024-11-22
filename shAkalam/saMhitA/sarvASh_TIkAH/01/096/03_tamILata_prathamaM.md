@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 īḷata ← √īḍ- ~ √īḷ- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -177,11 +180,13 @@ draviṇodā́m ← draviṇodā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Approachinghim,let all men adore **Agni**, the chief (of the gods), the accomplisher of sacrifices, who is gratified by oblations and propitiated by praises--the offspring of food, the sustainer of (all men), the giver of continual gifts; the gods retain Agni as the giver of (sacrificial) wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Prathama** = lit. the first; here, mukya, chief (of the gods)
 </details>

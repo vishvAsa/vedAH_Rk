@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhīmáḥ ← bhīmá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ tvák ← tvác- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The formidable showerer, the contemplator of all through desire for strength roars, sharpening his green-tinted horns; the **Soma** settles on his well-prepared station; the cowhide is his cleanser and the sheep-skin (too).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His green-tinted horns: i.e., the streams of the Soma juice
 </details>

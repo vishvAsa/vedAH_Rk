@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 óhate ← √uh- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
 
@@ -181,7 +184,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of wealth, we solicit that **Soma**, the fried of **Indra**, who for your welfare, **Ṛbhus**, brings(hither) **Tvaṣṭā**,**Vāyu**, the two divine sacrificers (the **Aśvins**), Dawn, **Bṛhaspati**, and the wise slayer of **Vṛtra**.”
 </details>

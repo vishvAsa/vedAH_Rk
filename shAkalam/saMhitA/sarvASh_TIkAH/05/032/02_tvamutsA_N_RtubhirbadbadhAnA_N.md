@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 badbadhānā́n ← √bādhⁱ- (root)  
 {case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
 
@@ -175,7 +178,8 @@ táviṣīm ← táviṣī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, thunder, (have set free) the obstructed clouds in their seasons; you have invigorated the strength of the cloud; fierce **Indra**, destroying the mighty Ahi when slumbering (in the waters), you have established the reputation of your prowess.”
 </details>

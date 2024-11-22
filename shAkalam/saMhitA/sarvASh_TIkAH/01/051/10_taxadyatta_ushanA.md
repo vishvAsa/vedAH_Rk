@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sáhaḥ ← sáhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -205,7 +208,8 @@ pū́ryamāṇam ← √pr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “If Uṣanās should sharpen your vigour by his own, then would your might terrify by its intensity both heaven and earth. Friend of man, let the will harnessed steeds, with the velocity of the wind, convey you, replete (with vigour), to (partake of the sacrificial) food.”
 </details>

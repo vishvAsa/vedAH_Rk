@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -188,11 +191,13 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He verily is pure, borne by numerous conveyances, he is the purifier armed with golden weapons, theobject of desire, the enjoyer of heaven; he, **Bṛhaspati** is well domiciled, of goodly aspect, a most bountiful giverof ample food to his friend.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Armed with golden weapons: hiraṇyavāśīḥ = he whose speech is benevolent,hitaramaṇīya vāk
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajyeṣṭhā́ḥ ← ajyeṣṭhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -196,7 +199,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “None of them are older, none younger (than the others); the destroyers of (foes), none hold a middle (rank), but all excel in glory; honourable by birth having **Pṛṣṇi** for your mother, do you, **Maruts**, favourable to man, come from heaven to our presence.”
 </details>

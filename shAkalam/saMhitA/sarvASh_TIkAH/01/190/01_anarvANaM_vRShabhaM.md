@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anarvā́ṇam ← anarván- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -158,11 +161,13 @@ návamānasya ← √nu- ~ nū- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Priests), augment by your hymns **Bṛhaspati**, who deserts not (his worshipper); the showerer (of benefits) the plural asant-tongued, the adorable; of whom resplendent gods and men, (the ministers) of the instrumental tutor of the sacrifice, emulous in sacred songs, proclaim (the praise).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bṛhaspati is here defined as mantrasya pālayitāram, the protector of cherisher of the prayer
 </details>

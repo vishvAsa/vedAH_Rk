@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -217,11 +220,13 @@ ukthārkā́ ← ukthārká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Many praises, **Indra**, are concentrated in you; from you abundant comemndations diversely proceed; to you, formerly and at presen, the praises of the sages, their prayers and hymns, vie (in glorifying) Indra.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From you abundant commendations: vica tvad yanti manīṣāḥ tvattaḥ stotṛṇām, approbations of the praisers variously go forth
 </details>

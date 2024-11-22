@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 āyajī́ ← āyají- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -123,7 +126,8 @@ iva ← iva (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Implements of sacrifice, bestowers of food, loud-sounding, sport like the horses of **Indra** champing the grain.”
 </details>

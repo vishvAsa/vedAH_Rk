@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sahasrākṣáḥ ← sahasrākṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -111,11 +114,13 @@ ukthyàḥ ← ukthyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The thousand-eyed, all-beholding, **Agni**, drives away the **rākṣasas**, and (praised by us) with holy hymns, he, the (invoker of the gods) celebrates their praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Sahasrākṣa** = asaṃkhyāta **jvālāḥ**, having countless flames
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhrātā́ ← abhrātár- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -193,11 +196,13 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She goes to the west, as (a woman who has) no brother (repairs) to her **male** (relatives); and like one ascending the hall (of justice) for the recovery of property, (she mounts in the sky to claim her lustre); and like a wife desirous to plural ase her husband, Uṣā puts on becoming attire, and smiling as it were, displays her charms.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abhrāteva puṃsa eti **pratīcī** = as a damsel who has no brother, averted from her own abiding plural ce (**garta** iti gṛhanāma, kṛdaro **gartaḥ** (**Nirukta** 3.4.3), goes to or relies upon her male relatives, puṃsaḥ, for support; or it may mean that she is in such case to offer the funeral cakes to her progenitors; pratīcī, with face averted, as applicable to Uṣā, means looking or going to the west; gartārug iva sanaye dhanānām, like one who ascends (āruḥ, to mount) a house (garta-**gṛha**) for the gift or receipt of riches;
 

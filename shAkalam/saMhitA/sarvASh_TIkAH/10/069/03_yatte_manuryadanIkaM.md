@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánīkam ← ánīka- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -235,7 +238,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that your army of flame, **Agni**, which **Manu**, which **Sumitra** has kindled, be the newest; do youshine wealthily; do you graciously accept our praises; do you destroy the might (of our foes), do you grant usabundance.”
 </details>

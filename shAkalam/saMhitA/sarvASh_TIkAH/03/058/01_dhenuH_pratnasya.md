@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhenúḥ ← dhenú- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -170,11 +173,13 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The cow (the dawn) yields the desired milk to the ancient (**Agni**); the son of the south passes within (the firmament); the bright-houred (day) brings the illuminative (sun); the praiser awakes (to glorify) the **Aśvins** preceding the dawn.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The son of the south: dakṣināyāḥ **putraḥ** = uṣasaḥ putraḥ **Sūrya**, the sun, the son of the dawn
 </details>

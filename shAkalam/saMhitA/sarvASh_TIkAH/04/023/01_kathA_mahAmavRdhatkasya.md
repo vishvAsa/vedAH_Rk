@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avr̥dhat ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -183,7 +186,8 @@ vavakṣé ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In what manner may (any one) extol the mighty **Indra**? at the sacrifice of what worshipper may he, propitiated, be present, drinking the sacrificial **Soma** beverage, desirous of the (sacred) food, and plural ased (by the oblation)? the mighty Indra is borne (to the rite) for the purpose of bestowing brilliant wealth.”
 </details>

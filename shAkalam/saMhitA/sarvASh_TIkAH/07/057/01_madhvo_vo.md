@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhvaḥ ← mádhu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -187,7 +190,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable (**Maruts**), the worshippers vigorously celebrate at sacrifices your appellation of company ofthe Maruts, they who cause the spacious heaven and earth to tremble, the clouds to rain, the move everywhereterrible.”
 </details>

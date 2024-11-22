@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 abhīvarténa ← abhīvartá- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -136,7 +139,8 @@ vartaya ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By the abhivarta oblation, whereby **Indra** has conquered (everything), do you, O **Brahmaṇaspati**, bringname is suggested by the repetition of the derivatives of abhivṛti\].”
 </details>

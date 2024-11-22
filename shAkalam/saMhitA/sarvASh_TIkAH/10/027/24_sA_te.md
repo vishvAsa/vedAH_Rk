@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 jīvā́tuḥ ← jīvā́tu- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -228,7 +231,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That your (divine) nature identified with the (sun) is the cause of life; and know such (solar form) of his(to be worthy of adoration) at the sacrifice; conceal nothing; that motion of him the all-cleansing (sun) makesmanifest the universe; it absorbs the moisture; it is never discontinued.”
 </details>

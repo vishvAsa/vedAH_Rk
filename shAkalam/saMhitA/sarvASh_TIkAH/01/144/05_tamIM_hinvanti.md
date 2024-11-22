@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáśa ← dáśa- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -196,7 +199,8 @@ vayúnā ← vayúna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ten fingers intertwined propitiate that divine (**Agni**), whom we mortals invoke for protection; he darts (his rays) like swift (arrows) from a bow, and accepts the new praises (uttered) by those who crowd round the altar.”
 </details>

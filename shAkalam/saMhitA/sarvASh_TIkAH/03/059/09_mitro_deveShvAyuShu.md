@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āyúṣu ← āyú- (nominal stem)  
 {case:LOC, gender:M, number:PL}
 
@@ -122,7 +125,8 @@ iṣṭávratāḥ ← iṣṭávrata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** is he who among tods and men bestows food as the reward of pious acts upon the man who has prepared (for him) the lopped sacred grass.”
 </details>

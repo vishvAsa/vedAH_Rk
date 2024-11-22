@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágr̥bhītaśociṣam ← ágr̥bhītaśocis- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ vítatam ← √tan- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, when moving, you agitate the heaven of unchecked radiance, and (stir) the bright water; when you combine your energies and are shining brilliantly, and when purposing to send down rain, you utter a loud shout.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 And stir the bright water: the text changes the person n of the verb, yat svaranti ghoṣam, when they sound a noise; i.e. when the Maruts make a fearful noise, or when the worshippers utter loud praises
 </details>

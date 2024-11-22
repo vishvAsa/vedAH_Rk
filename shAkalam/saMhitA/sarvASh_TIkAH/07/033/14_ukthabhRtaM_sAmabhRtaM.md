@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bibharti ← √bhr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -186,11 +189,13 @@ vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pratṛts, **Agastya** comes to you; welcome him with devoted minds, and he in the foremost station directsthe reciter of the prayer, the chanter of the hymn, the grinder of the stone, and repeats (what is to be repeated).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pratṛts = Tṛtsus; in the foremost station: agre, in front, that is, as their **Purohita**
 </details>

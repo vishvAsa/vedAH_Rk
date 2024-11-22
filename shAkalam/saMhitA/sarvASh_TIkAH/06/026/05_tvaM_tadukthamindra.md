@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 barháṇā ← barháṇā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -216,7 +219,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who are the subduer (of foes), you have achieved a glorious (deed), inasmuch as you have scatered, hero, the hundreds and thousands (of the host of **Śambara**), have slain the slave Śambara (when issuing) from the mountain, and have protected **Divodāsa** with marvellous protections.”
 </details>

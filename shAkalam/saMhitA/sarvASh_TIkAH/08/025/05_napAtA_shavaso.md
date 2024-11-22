@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 maháḥ ← máh- (nominal stem)  
 {case:GEN, number:SG}
 
@@ -135,7 +138,8 @@ vā́stu ← vā́stu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grandson sof mighty strength, son sof energy, doers of good deeds, liberal benefactors, they presideover the habitation of food.”
 </details>

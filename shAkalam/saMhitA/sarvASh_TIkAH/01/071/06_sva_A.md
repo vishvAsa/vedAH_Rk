@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -229,7 +232,8 @@ yā́sat ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When (the worshipper) kindles you in his own dwelling, and presents an oblation to you, daily desiring it, do you, **Agni**, augmented in two ways, (as middling and as best), increase his means of sustenance; may he whom you sen dwith his car to battle, return with wealth.”
 </details>

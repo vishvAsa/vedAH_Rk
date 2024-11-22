@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávatha ← √avⁱ- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -172,7 +175,8 @@ svastáye ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The chariot) which, deities, you protect for the supply of food; that which, **Maruts**, (you protect) inbattle for the sake of the deposited spoil; may we mount, **Indra**, the early-moving desirable irresistible chariot forour well- being.”
 </details>

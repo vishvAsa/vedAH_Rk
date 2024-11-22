@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424);; repeated line
-#### Morph
+_________
+**Morph**  
 akāriṣam ← √kr̥̄- 2 (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -160,11 +163,13 @@ tāriṣat ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have celebrated the praise of Dadhikrā, the rapid and victorious stee; may he make our mouths fragrant, may he prolong our lives.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 23.32; may he make our mouths fragrant: the mouth having been defiled by the use of inelegant language
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -171,7 +174,8 @@ mandānáḥ ← √mand- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who knows him drinking with (the priests) when the **Soma** is effused? What food has he partaken of?He, the handsome-jawed, who, exhilarated by the (sacrificial) Soma, destroys cities by his might.”
 </details>

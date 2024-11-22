@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvantaḥ ← árvant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -193,7 +196,8 @@ naśat ← √naś- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of him assuredly the rapid horses rush (on the foe); his is most brilliant glory; him no evil, whether thework of gods or of men, ever assails.”
 </details>

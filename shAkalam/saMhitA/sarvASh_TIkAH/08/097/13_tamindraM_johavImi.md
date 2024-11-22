@@ -23,15 +23,18 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -218,7 +221,8 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Again and again I invoke the strong **Indra**, **Maghavan**, who alone really possesses might, the irresistible;may he draw near through our songs, most bounteous and worthy of sacrifice; may he, the thunderer, make allthings prosperous for our wealth.”
 </details>

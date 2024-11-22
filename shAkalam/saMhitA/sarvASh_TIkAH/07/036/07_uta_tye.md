@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mandasānā́ḥ ← mandasāná- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -204,11 +207,13 @@ yújyam ← yújya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May these joyous and swift-going **Maruts** protect our sacrifice and our offspring; let not the imperishablegoddess of speech, deserting us, speak (kindly) to our (adversaries); and may both (she and the **Marut**)associated augment our riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Let not the imperishable goddess of speech: mā naḥ parikhyad akṣarācaranti = **akṣarā** vyāptā caranti vāgdevatā asmān parityaktvā asmād vyatiriktā mā drākṣīt, let notthe diffusive deity of speech, having abandoned us, look upon our opponents
 </details>

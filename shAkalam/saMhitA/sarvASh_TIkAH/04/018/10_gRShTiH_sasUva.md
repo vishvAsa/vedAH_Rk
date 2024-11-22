@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 gr̥ṣṭíḥ ← gr̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -169,7 +172,8 @@ tanvè ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As a helper bears a calf, his mother, (**Aditi**), bore **Indra**, mature (in years), strong, irresisitble, vigorous, energetic, invincible, (destined) to follow his own course, heedful of his person n.”
 </details>

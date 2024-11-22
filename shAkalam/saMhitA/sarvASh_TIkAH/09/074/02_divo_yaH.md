@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dharúṇaḥ ← dharúṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ samīcīné ← samīcīná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The supporter of heaven, the prop (of the earth), the **Soma**-juice who, widely spreading, filling (the vessels), flows in all directions-- may he unite the two great worlds by his own strength; he has upheld them combined; (may he) the sage (bestow) food upon (his worshippers).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The prop of the earth: cf. RV. 9.089.06; may he unite: yakṣat = saṃyojayatu;
 

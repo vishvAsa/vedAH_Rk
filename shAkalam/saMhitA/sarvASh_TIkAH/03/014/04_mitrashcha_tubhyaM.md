@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -199,11 +202,13 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vigorous **Agni**, you **Mitra** and **Varuṇa**, and all the **Maruts**, offer praise; since, son of strength, you stand a sun, shedding your rays with lustre on manking.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You stand a son: tiṣṭāḥ **sūrya**: su, good; **arya**, master; or as, urger, impeller, **preraka**, or vigour, energy, **vīrya**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)  
 genre M;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -170,11 +173,13 @@ svastí ← svastí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra** and **Varuṇa**, grant us prosperity; path (of the firmament), and goddess of riches, (grant us) prosperity; may **Indra** and **Agni** (grant us) prosperity; **Aditi**, bestow prosperity upon us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Path of the firmament: pathye, **revati** are two proper names;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 hayé ← hayé (invariable)  
 {}
 
@@ -162,11 +165,13 @@ ukṣámāṇāḥ ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ho, **Maruts**, leaders (of rites), be propitious to us, you who are infinitely opulent, immortal, shedders of rain, renowned for truth, wise, young, greatly glorified, and worshipped with copious oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This last phrase is repeated from the last verse of the preceding **sūkta**
 </details>

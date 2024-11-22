@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhiśríyā ← abhiśrī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -150,7 +153,8 @@ víṣkabhite ← √skambhⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Radiant Heaven and Earth, the asylum of created beings, you are spacious, manifold, water-yielding, lovely, separately fixed by the functions of **Varuṇa**, undecaying, many-germed.”
 </details>

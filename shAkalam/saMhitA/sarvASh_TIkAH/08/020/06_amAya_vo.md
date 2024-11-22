@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámāya ← áma- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -160,7 +163,8 @@ tvákṣāṁsi ← tvákṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Alarmed) at your violence, **Maruts**, the heaven seeks to rise higher, abandoning the firmament, where(you) the strong-armed leaders (of rites) display the ornaments of (your) person ns.”
 </details>

@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́hitam ← √dhā- 1 (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
 
@@ -110,7 +113,8 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One (**Indra**) holds his thunderbol wielded in his **hand**, by which he slays the **Vṛtras**.”
 </details>

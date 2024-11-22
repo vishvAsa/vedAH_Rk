@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -174,7 +177,8 @@ pr̥thú ← pr̥thú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Send to us, **Agni**, (who are) **Vaiśvānara** **Jātavedas**, that brilliant sustenance whereby you conferwealth, and (grant), all-desired Agni, abundant food to the mortal, the donor (of the oblation).”
 </details>

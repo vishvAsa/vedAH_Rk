@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -182,7 +185,8 @@ rihánti ← √rih- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great showerer (of benefits) has pervaded these two (worlds); undecaying and adorable, he is (ever) present, bestowing protection; he plural ces his foot on the summit of the earth, and his radiant (flames) lick the udder (of the firmament).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápiṁśata ← √piś- 1 (root)  
 {number:PL, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -188,7 +191,8 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those faculties by which you have divided the ladles; with that intelligence wherewith you have covered the (dead) cow with skin; with that will by which you have fabricated the two horses (of **Indra**); with those (means), **ṛbhus**, you have attained divinity.”
 </details>

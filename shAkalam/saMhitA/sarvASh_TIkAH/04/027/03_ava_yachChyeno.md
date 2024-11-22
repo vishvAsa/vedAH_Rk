@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádha ← ádha (invariable)  
 {}
 
@@ -223,7 +226,8 @@ mánasā ← mánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the hawk screamed (with exultation) on his descent from heaven, and (the guardians of the **Soma**) perceived that the Soma was (carried away) by it then, the archer of **Kṛśānu**, pursuing with the speed of thought, and stringing his bow, let fly an arrow against it.”
 </details>

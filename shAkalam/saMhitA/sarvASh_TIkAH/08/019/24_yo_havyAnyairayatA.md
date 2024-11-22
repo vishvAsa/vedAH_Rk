@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aírayata ← √īr- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -154,7 +157,8 @@ hótā ← hótar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine (**Agni**), established by **Manu**, the offerer of the sacrifice, the invoker (of the gods), the divine,the immortal, who conveys the oblations in his fragrant mouth, bestows (upon his adorers) desirable (riches).”
 </details>

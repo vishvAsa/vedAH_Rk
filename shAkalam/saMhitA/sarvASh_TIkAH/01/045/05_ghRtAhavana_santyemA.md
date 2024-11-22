@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ghŕ̥tāhavana ← ghr̥tā́havana- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -142,7 +145,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Invoked by oblations, giver of rewards, listen to these praises with which the sons of **Kaṇva** invoke you for protection.”
 </details>

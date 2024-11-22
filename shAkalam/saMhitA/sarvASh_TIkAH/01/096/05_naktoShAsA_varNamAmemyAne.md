@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āmémyāne ← √mī- 1 (root)  
 {case:NOM, gender:F, number:DU, tense:PRS, voice:MED}
 
@@ -173,11 +176,13 @@ draviṇodā́m ← draviṇodā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The night and the day, mutually effacing each other's comlexion, give nourishment combined together, to one infant, who, radiant, shines between earth and heaven the gods retain **Agni** as the giver of (sacrificial) wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 To one infant: Agni, whom they nourish with the oblations offered
 </details>

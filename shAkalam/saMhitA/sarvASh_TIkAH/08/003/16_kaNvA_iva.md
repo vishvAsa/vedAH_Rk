@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhŕ̥gavaḥ ← bhŕ̥gu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -157,7 +160,8 @@ priyámedhāsaḥ ← priyámedha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Bhṛgus**, like the **Kaṇvas**, have verily attained to the all- pervading (**Indra**), on whom they havemeditated, as the sun (pervades the unverse by his rays); men of the **Priyamedha** race, worshipping Indra withpraises glorify him.”
 </details>

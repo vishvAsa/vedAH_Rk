@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 írāvatīm ← írāvant- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -177,7 +180,8 @@ varṣayatam ← √vr̥ṣ- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The cloud, (through your will), **Mitra** and **Varuṇa**, utters a wonderful sound, indicative of radiance, and announcing (abundant) food; the **Maruts** thoroughly invest the clouds with (their) devices, and, (along with them), you two cause the purple and faultless sky to send down rain.”
 </details>

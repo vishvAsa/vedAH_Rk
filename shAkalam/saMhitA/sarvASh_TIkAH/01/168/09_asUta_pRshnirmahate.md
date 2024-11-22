@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásūta ← √sū- 2 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -185,11 +188,13 @@ svadhā́m ← svadhā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Pṛśni** bore the brilliant troop of the quick-moving **Maruts** for the great combat (with the clouds), whereupon (mankind) immediately beheld the desiderated food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pṛśniyai vai payaso maruto **jātāḥ** (**Taittirīya** **Saṃhitā** 2.2.11.4)
 </details>

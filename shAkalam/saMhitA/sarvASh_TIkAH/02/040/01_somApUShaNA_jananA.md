@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 jánanā ← jánana- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -173,11 +176,13 @@ nā́bhim ← nā́bhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** and **Pūṣaṇ**, you two are the genitive rators of riches, the genitive rators of heaven, the genitive rators of earth; as soon as born you are the guardians of the whole world; the gods have made you the source of immortality.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma: by this we are to understand both the moon and the Soma, as further intimated in the fourth hymn; the source of immortality: akṛṇvan amṛtasya nābhim: ketum, the cause or source, amaraṇasya, of not dying
 </details>

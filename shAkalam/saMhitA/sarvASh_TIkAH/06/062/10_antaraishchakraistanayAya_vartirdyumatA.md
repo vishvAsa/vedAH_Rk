@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ántaraiḥ ← ántara- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -159,11 +162,13 @@ vavr̥ktam ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Come with your shining and well-guided chariot, (fitted) with excellen wheels, to our dwelling, (to bestow upon us) **male** offspring; cut off with secret indignation the heads of those obstructing (the adoration) of the mortal (who worships you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Well-guided chariot: nṛvata rathena, having a leader, a driver; or nr. may mean a horse; with excellen wheels: antaraiścakraiḥ: anikṛṣṭaiḥ, with not inferior wheels; with secret indignation: sanutyena tyajasā = tirohitena krodhena
 </details>

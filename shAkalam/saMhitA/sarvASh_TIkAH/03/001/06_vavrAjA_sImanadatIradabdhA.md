@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádabdhāḥ ← ádabdha- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -198,11 +201,13 @@ vā́ṇīḥ ← vā́ṇī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** everywhere repairs to the undevouring, undevoured (waters); the vast (offspring) of the firmament, not clothed, yet not naked, seven eternal ever youthfful rivers, sprung from the same source, received Agni as their common embryo.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Undevouring, undevoured waters: anadatir adabdhā, not extinguishing Agni, nor yet evaporated by him; not clothed: avasānā anagnā, not wearing garments but invested by the water as by a robe
 </details>

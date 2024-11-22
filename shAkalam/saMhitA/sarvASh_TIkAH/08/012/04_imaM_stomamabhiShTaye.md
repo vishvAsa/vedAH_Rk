@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 abhíṣṭaye ← abhíṣṭi- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -134,7 +137,8 @@ vavákṣitha ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accepts, thunderer, their praise (offered) for the attainment of our desires, like consecrated butter;(induced) by which, you, promptly bear us by your might (to our objects).”
 </details>

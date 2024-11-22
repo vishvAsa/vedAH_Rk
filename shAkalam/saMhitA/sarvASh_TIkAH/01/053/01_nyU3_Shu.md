@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bharāmahe ← √bhr̥- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -216,7 +219,8 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We ever offer fitting praise to the mighty **Indra**, in the dwelling of the worshpper, by which he (the deity) has quickly acquired riches, as (a thief) hastily hastily carried (off the property) of the sleeping. Praise ill expressed is not valued among the munificent.”
 </details>

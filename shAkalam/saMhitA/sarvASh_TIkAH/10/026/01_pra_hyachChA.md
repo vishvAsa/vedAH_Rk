@@ -23,15 +23,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácha ← ácha (invariable)  
 {}
 
@@ -142,11 +145,13 @@ pūṣā́ ← pūṣán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since our appointed and acceptable prayers proceed to him, may the mighty **Pūṣan**, of plural asingaspect, whose care is ever harnessed, protect us.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Of plural asing aspect: **Dasra** = **darśanīyaḥ**; or, twoaccomplishers of the rite, the yakanāna and his wife; may Pūṣan protect them
 </details>

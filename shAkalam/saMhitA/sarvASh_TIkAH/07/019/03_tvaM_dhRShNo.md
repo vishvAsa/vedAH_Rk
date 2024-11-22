@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhr̥ṣatā́ ← √dhr̥ṣ- (root)  
 {case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -172,7 +175,8 @@ vr̥trahátyeṣu ← vr̥trahátya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Undaunted (**Indra**), you had protected with all your protections **Sudāsa**, the offerer of oblations; youhave protected in battles with enemies for the possession of the earth **Trasadasyu**, the son of **Purukutsa**, andPuru.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajyáse ← √añj- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
 
@@ -167,11 +170,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You are manifested in the timber, **Agni**, by the act of attrition; you are the bearer (of the oblation) as a horse (is of his rider); you are like the circumsambient wind; you are food and dwelling; you are like a (newborn) babe, and variable (in movement) as a horse.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You are food and dwelling: **svadhā** **gayaḥ** = **annam** gṛham ca; bhavasi, you are is supplied
 </details>

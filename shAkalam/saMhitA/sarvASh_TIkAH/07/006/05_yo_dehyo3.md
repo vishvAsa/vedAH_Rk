@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánamayat ← √nam- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -195,11 +198,13 @@ víśaḥ ← víś- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The mighty **Agni**, who by his fatal (weapons) has baffled the devices (of the **asuras**), who has createdthe lawns, the birds of the sun, having coerced the people by his strength, has made them the tributaries ofNahuṣa.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Baffled: dehyo anamayat, has bowed or hukbled; dehyaḥ dehairūpacita, connected with, or collectedbodies; **āsurī** **vidyā**, the learning or science of the asuras
 </details>

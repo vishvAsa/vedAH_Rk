@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -224,11 +227,13 @@ suṣṭutī́ ← suṣṭutí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “His ray creates a shining form; at whatever battle it is present, it beats down the adversaries; the giver of water goes with the oblation to the divine people, (it meets) with good praise; (**Soma**) is joined by (a hymn) demanding kine as the chief boon.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His ray: **varṇa** = from vṛ, keeping off, beating back; 'his ray repelling his foes'
 </details>

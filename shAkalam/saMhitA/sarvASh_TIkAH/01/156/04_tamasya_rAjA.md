@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvínā ← aśvín- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -197,11 +200,13 @@ vrajám ← vrajá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The royal **Varuṇa** associates (himself) with the sacrifice of the pious worshipper, assisted by the company of the priests; the **Aśvins** (unite with it); **Viṣṇu**, with his friend (**Indra**), possesses supreme heaven-conferring power, and sits upon the clouds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Assisted by the company of the priests: kratum sacanta mārutasya **vedhasaḥ**;
 

@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 abhidā́sati ← √dās- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -214,7 +217,8 @@ jyākā́ḥ ← jyāká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who assails us, **Indra**, whether he be of the same caste or of degraded caste-- scatter of yourselfhis host, (though it be vast) as the wide heaven; may the bowstrings on the bows of our enemies be destroyed.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvareṣṭhā́ḥ ← adhvareṣṭhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The worshipper who engaged in worship at the sacrifice, accompanied with praise, presentsdonations (to the priests) as if to the **Maruts**, he enjoys food with riches, and **male** progeny; may he be present atthe god's **soma**-drinking.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Praise: urichi yajñe = when the sacrifice has the praise perfected, i.e., when thesacrifice is complete; or, when the sacrifice is begun
 </details>

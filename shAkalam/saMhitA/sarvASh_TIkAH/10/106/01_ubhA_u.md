@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arthayethe ← √arthay- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -211,7 +214,8 @@ taṁsayethe ← √taṁs- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You both demand the oblation (**Aśvins**), you spread out the ceremonials as two weavers (strentch)cloths; (the instrumental tutor of the rite) praised you associated together to attain (his desires); like two fortunate daysyou bestow food.”
 </details>

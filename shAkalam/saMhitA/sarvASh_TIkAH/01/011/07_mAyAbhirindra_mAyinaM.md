@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -160,11 +163,13 @@ tira ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your slewest, **Indra**, by stratagems, the wily **Śuṣṇa**; the wise have known of this your (greatness); bestow upon them (abundant) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śuṣṇa is an **asura** slain by Indra. Śuṣṇa = dryer up; bhutānām **śoṣaṇa**-hetum, the cause of the drying or withering of beings: heat or draught; Indra, as the rain puts an end to this; **indraḥ** śuṣṇum jaghāna (**Nirukta**. 3.11)
 </details>

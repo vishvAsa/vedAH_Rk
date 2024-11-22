@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)  
 popular;; epic anuṣṭubh (380)
-#### Morph
+_________
+**Morph**  
 áditeḥ ← áditi- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -155,11 +158,13 @@ párā ← párā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Eight sons (there were) of **Āditya** who were born from her body; she approached the gods withseven, she sent forth **Mārtāṇḍa** on high (**Taittirīya** **Āraṇyaka** 1.13.3)”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Eight sons: **Mitra**, **Varuṇa**, **Dhātā**,**Aryaman**, **Aṃśa**, **Bhaga**, **Vivasvat** and Āditya (the sun). **Purāṇās** made the **Ādityas** twelve in number;**Sāyaṇa** cites Taittirīya **Saṃhitā** 6.5.6.1
 </details>

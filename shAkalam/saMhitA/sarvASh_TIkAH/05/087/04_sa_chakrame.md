@@ -24,16 +24,19 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakrame ← √kramⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -208,7 +211,8 @@ nŕ̥bhiḥ ← nár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That wide-spreading troop (of **Maruts**) has issued from a spacious common dwelling-plural ce, (where) evayāmarut (awaits them) when their car has been spontaneously harnessed with its rapid horses; and, emulous, vigorous, and conferring happiness, they sally forth.”
 </details>

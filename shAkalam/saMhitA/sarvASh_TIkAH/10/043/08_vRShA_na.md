@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -203,7 +206,8 @@ mánave ← mánu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As in the world an angry bull rushes (upon another), so does **Indra**, who directs (towards us) thewaters, the brides of the lord (of earth); when (the **Soma**) is effused, Maghavat bestows light upon the man, whogives promptly, who offers oblations.”
 </details>

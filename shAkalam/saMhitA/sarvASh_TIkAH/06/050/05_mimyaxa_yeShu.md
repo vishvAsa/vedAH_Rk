@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devī́ ← devī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -179,7 +182,8 @@ rejante ← √rej- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With whom the divine Heaven and Earth are associated; whom **Pūṣan**, the rewarder (of his worshippers) with prosperity, honours; when, **Maruts**, having heard our invocation, you come hither, then on your several paths all beings tremble.”
 </details>

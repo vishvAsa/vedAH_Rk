@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dadā́śa ← √dāś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -189,7 +192,8 @@ vidátheṣu ← vidátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who presents offerings to the royal and true (**Ādityas**); he whom their constant favours exalt; he proceeds, wealthy, renowned, munificent, and honoured, to sacrifices, in his chariot.”
 </details>

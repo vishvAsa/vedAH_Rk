@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhágasya ← bhága- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣā, endowed with truth, who are the sister of **Bhaga**, the sister of **Varuṇa**, be you hymned first (of the gods); then let the worker of iniquity depart, for we shall overcome him with our chariot, through your assistance.”
 </details>

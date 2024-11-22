@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 íṣam ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -145,11 +148,13 @@ vivāsati ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Present your sacrificial food with a three-fold song of praise to **Indu**, gladdener of heroes; he will blessyou in your religious rites to the accompaniment of your sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purandhyā = bauprajñayā; (RV 7.97.9):bahvīr stuthi;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 adharā́t ← adharā́t (invariable)  
 {}
 
@@ -185,7 +188,8 @@ dahantu ← √dah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, **Agni**, protect us on the south, on the north, on the west, and on the east; may these, yourundecaying, scorching, blazing (flames), consume the perpetrator of wickedness.”
 </details>

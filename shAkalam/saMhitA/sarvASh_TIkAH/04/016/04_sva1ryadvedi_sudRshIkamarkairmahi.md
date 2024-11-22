@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arkaíḥ ← arká- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -191,11 +194,13 @@ nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the vast luminous heaven manifested by the rays (of light) is displayed, then are (the deities) resplendent according to (their heavenly) abode; the chief of leaders, (**Indra**), in his approach has scattered the thick glooms so that men may see.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Indra: **Sūrya**, as identical with Indra
 </details>

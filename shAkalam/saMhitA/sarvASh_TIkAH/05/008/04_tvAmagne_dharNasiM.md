@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ yaśásā ← yaśás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We approach you, all-sustaining **Agni**, adoring you in many ways with hymns and with prostrations; do you, **Aṅgiras**, when kindled, be propitious to us; may the divine (Agni be plural ased) by the (sacrificial) food (offered by the) worshippers, and by the bright flames (of his sacrifice).”
 </details>

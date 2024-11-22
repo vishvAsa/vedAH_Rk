@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pr̥thupā́jase ← pr̥thupā́jas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ sanátā ← sanátā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Intelligent (worshippers), offer to the powerful **Vaiśvānara** precious things at holy rites, that they may go (the way of the good), for the immortal **Agni** worships the gods; therefore, let no one violate eternal duties.”
 </details>

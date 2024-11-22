@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arkásātau ← arkásāti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
 
@@ -177,11 +180,13 @@ kariṣyán ← √kr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have animated the sage with (the hope of) obtaining food; you have cut to pieces **Śuṣṇa** for **Kutsa**, the donor of the oblation; you have struck off the head (of **Śambara**), imagining himself invulnerable, intending to give plural asure to Atithigvan.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Imagining himself invulnerable: amarmaṇaḥ = marmahīnam ātmānam manyamānasya, of him thinking himself devoid of any fatally vulnerable part
 </details>

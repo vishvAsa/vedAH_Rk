@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́yuḥ ← ā́yus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -188,7 +191,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestowing new existence, dispersing the thick darkness by her radiance, the Dawn is awakened andlike an immodest dame, she comes before (the sun), and makes manifest **Sūrya**, sacrifice and **Agni**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)  
 popular;; epic anuṣṭubh (292)
-#### Morph
+_________
+**Morph**  
 kaváyaḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -137,7 +140,8 @@ tapojā́n ← tapojā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Go, **Yama**, to those ascetic Ṛṣis, the sons of penance, who protect the sun, being leaders ofthousands, and intelligent.”
 </details>

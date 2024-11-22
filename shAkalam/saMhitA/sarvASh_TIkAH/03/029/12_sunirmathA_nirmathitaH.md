@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424)  
 genre D;; epic anuṣṭubh (424);; repeated line
-#### Morph
+_________
+**Morph**  
 nírmathitaḥ ← √manthⁱ- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -142,7 +145,8 @@ yaja ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, who is pronounced by reverential attrition, and deposited with reverential care, and who are far-seeing, render our rites (exempt from defects), and worship the gods (on behalf) of the devout worshipper.”
 </details>

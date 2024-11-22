@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahitvanám ← mahitvaná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -214,11 +217,13 @@ yásmai ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such, well-born **Maruts**, is your greatness, that your munificence is as long (continued) as the function of **Aditi**; and **Indra** does not exceed, by his own liberality, (the value of) that which you have bestowed upon the devout man (who worships you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aditer iva vratam, the act or obligation of Aditi, either the mother of the gods, or the earth
 </details>

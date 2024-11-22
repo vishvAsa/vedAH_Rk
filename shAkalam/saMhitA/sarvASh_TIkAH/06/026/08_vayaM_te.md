@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyā́m ← ayám (pronoun)  
 {case:LOC, gender:F, number:SG}
 
@@ -183,7 +186,8 @@ vr̥trā́ṇām ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we, adorable **Indra**, your friends, at this your worship, offered for (the acquisiiton of) wealth, be held most dear to you; may Kṣatraśrī, the son of **Pratardana**, (my patron), by most illustrious through the destruction of foes, and the attainment of riches.”
 </details>

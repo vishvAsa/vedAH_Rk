@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bā́dhase ← √bādhⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -203,7 +206,8 @@ suva ← √sū- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With that light, **Sūrya**, with which you disperse the darkness, and with that radiance with which youquicken every moving thing, remove from us all famine, neglect of oblations, sickness and evil dreams.”
 </details>

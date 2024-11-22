@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ádhinirṇijaḥ ← ádhinirṇij- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -224,11 +227,13 @@ same ← sama- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who in his successive functions emits his bright rays or turns them dark, first made his residence (inthe firmament), and as the unborn sun the sky, supports with the pillar (of the firmament) both heaven and earth;may all our adversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Emits his bright rays: as presiding over day and night
 </details>

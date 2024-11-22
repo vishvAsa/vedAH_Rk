@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āśáye ← √śī- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -219,11 +222,13 @@ A bit of unmAda & you could run away with such
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who, passing amid those (regions of the firmament), given refuge to all their races, and all thedeities precede the chariot of **Varuṇa**, when manifesting his glories to perform his worship; may all ouradversaries perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 ..who, going through these regions (of space) rests on all their tribes, surrounding allhomes-- all the gods are engaged in worship before Varuṇa's dwelling; may all our adversaries perish.
 </details>

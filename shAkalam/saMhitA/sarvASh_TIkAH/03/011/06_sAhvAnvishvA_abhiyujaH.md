@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhiyújaḥ ← abhiyúj- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -113,7 +116,8 @@ tuvíśravastamaḥ ← tuvíśravastama- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, the most liberal contributor of food, is able to resist all assailants unharmed, the nourisher of the gods.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhabhyaḥ ← áhar ~ áhan- (nominal stem)  
 {case:DAT, gender:N, number:PL}
 
@@ -210,7 +213,8 @@ síndhubhyaḥ ← síndhu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** is vaster than the nights, vaster than the days, vaster than the firmament or the receptacle of theocean, vaster than the wind, or space or the ends of the earth; Indra exceeds the rivers and mankind.”
 </details>

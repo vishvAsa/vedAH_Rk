@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ativídhe ← √vyadh- (root)  
 {case:DAT, number:SG}
 
@@ -166,7 +169,8 @@ syāma ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Munificent **Mitra** and **Varuṇa**, protectors of the universe, (it is yours to grant) exceeding and perfect felicity, such as it is impossible to disturb; bless us with that (felicity), and may we ever be (possessed) of the riches we desire, and be confident of vicotry (over our enemies).”
 </details>

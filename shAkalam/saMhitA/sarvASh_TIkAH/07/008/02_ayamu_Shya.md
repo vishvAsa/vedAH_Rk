@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avedi ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -198,7 +201,8 @@ vavakṣe ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This great **Agni** has been known among men as invoker (of the gods), the giver of deligh, the mighty; hehas spread (in the firmament), he, the darkpathed at large upon the earth, is nourished by the plural nts.”
 </details>

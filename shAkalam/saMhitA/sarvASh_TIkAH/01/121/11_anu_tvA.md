@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 acakré ← acakrá- (nominal stem)  
 {case:NOM, gender:N, number:DU}
 
@@ -185,7 +188,8 @@ varā́hum ← varā́hu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then the vast, powerful, and immoveable earth and heaven animated you, **Indra**, to glorious needs, and you did hurl down into the waters, with your mightythunderbolt, the everywhere-spreading and destroying **Vṛtra**.”
 </details>

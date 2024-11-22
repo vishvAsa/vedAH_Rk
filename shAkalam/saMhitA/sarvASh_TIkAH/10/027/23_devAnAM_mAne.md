@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 atiṣṭhan ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -176,11 +179,13 @@ vahataḥ ← √vah- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At the creation of the gods, the (clouds) stood first; from their division, the waters (of the rain) cameforth; the three divinities (**Parjanya**, **Vāyu** and **Āditya**). Sowing in succession, warm the earth; two of them(Vāyu and Āditya) convey all-delighting water (to the sun's sphere).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Meghā** eva mādhyamivā devagaṇāḥ:**Nirukta** 2.22
 </details>

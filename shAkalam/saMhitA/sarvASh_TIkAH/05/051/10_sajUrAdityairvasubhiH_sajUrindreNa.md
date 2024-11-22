@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment;; repeated line  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 ādityaíḥ ← ādityá- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -141,7 +144,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Accompanied by **Āditya** and the **Vasus** accompanied by **Indra** nad by **Vāyu**, come, **Agni**, and like, **Atri**, delight in the libation.”
 </details>

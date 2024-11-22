@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 dhr̥ṣát ← √dhr̥ṣ- (root)  
 {case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
 
@@ -129,11 +132,13 @@ suśiprám ← suśiprá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the victorious handsome-jawed **Indra** for your protection, and to hear (your praises), as (atraveller invokes) the water from the cloud.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Water from the cloud: tūrṇāśam na girer **adhi**: tūrṇāśa =**udaka** (tūrṇāśamudakam **bhavati** tūrṇamaśnute : **Nirukta** 5.16); as a man in hot weather calls for water fromthe cloud, yathā gharmebhitptaḥ **pumān** udakam megham **prati** hvayati
 </details>

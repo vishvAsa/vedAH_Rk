@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhūvan ← √bhū- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -202,7 +205,8 @@ vīráḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They have been sanctified by holy rites, who have fostered their bodies with prayers, at the **Soma**(sacrifice); speaking like a man, grant us food, you possess in heaven name and fame as a hero.”
 </details>

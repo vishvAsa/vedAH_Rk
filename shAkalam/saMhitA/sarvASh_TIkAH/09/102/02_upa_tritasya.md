@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 pāṣyòḥ ← pāṣyà- (nominal stem)  
 {case:LOC, gender:N, number:DU}
 
@@ -139,11 +142,13 @@ priyám ← priyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the **Soma** has been taken the secret station of the grinding stones (at the sacrifice) of **Trita**, then with the seven supports of the sacrifice (the priests praise) the conciliating (Soma).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With the seven supports of the sacrifice: i.e., with the seven metres; or, deriving sapta from. sṛp, they effuse the Soma with the vasatīvarī water
 </details>

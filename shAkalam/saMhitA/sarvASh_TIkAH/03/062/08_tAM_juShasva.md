@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gíram ← gír- ~ gīr- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -123,7 +126,8 @@ yóṣaṇām ← yóṣaṇā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be plural ased by this my praise, and incline to this food-supplicating laudation as an excessively submissive (husband) to his wife.”
 </details>

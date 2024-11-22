@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhídyavaḥ ← abhídyu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -112,11 +115,13 @@ sumnayúḥ ← sumnayú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The months, the half months, (the gods) who are the receivers of oblations, with the butter-yielding kine, preside over your rite; the sacrificer, desirous of prosperity, worships the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The months: pra vo vājā abhidyavo haviṣmanto ghṛtācyā: vājā = **māsāḥ**, months;
 

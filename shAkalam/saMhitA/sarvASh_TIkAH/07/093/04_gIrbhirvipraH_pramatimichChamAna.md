@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -180,11 +183,13 @@ tiratam ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The pious sage, desiring your favour, glorifies you with praises for the sake of formerly enjoyed riches,accompanied by celebrity; **Indra** and **Agni**, slayers of **Vṛtra**, bearers of the thunderbolt, exalt us with preciousdonations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Formerly enjoyed riches: i.e. riches desirable even in older time, pūrvam eva sambhajanīyam\],
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -207,7 +210,8 @@ vithurám ← vithurá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May all the triumphant gods, **Mitra**, **Aryaman**, **Varuṇa** equally well plural ased, come (to our rite); may they all be propitious to us; may they not leave us in want of food, after overcoming (our foes).”
 </details>

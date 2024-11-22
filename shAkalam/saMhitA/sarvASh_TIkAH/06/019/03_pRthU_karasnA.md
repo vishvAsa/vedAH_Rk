@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bahulā́ ← bahulá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -193,7 +196,8 @@ vavr̥tsva ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Extend towards us your long, active, and bountiful **hands**, (to bring us) food; be abot us, lowly-minded **Indra**, in battle, as a herdsman (tends) the herds of cattle.”
 </details>

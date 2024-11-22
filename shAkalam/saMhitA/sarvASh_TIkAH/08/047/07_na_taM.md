@@ -25,17 +25,20 @@ ChandaH = "महापङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 caná ← caná (invariable)  
 {}
 
@@ -217,11 +220,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Him fierce wrath touches not, nor heavy (calamity), to whom, **Ādityas**, you have given greathappiness; your aids are void of harm, your aids are true aids.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fierce wrath: tigmam: him, though fierce (orharsh) wrath touches not; you have iven great happiness: saprathas: neuter nominative singular agreeing with **śarma**
 </details>

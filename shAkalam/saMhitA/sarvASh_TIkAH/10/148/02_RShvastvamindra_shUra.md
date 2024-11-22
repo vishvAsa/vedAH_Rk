@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ sómam ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero **Indra**, who are mighty, may you as soon as you are born overcome with **Sūrya** the races of theDāsas, and the fugitive (**Vala**) lurking in secrecy, hidden in the waters; we now present to you the **Soma** in acopious stream. your praisers; may we be of those who gratify (you) with Soma libations; to you, O car-borne indra, these(praises are offered) with sacrificial viands.”
 </details>

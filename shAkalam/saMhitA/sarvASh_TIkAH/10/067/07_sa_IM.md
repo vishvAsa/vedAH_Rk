@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 īm ← īm (invariable)  
 {}
 
@@ -177,11 +180,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Together with his true brilliant wealth-winning friendly (**Maruts**) he destroyed the detainer of the cows;**Brahmaṇaspati**, with the showerers (of benefits), the conveyers of desirable (water), the frequenters of sacrifice,acquired wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Brahmaṇaspati: lord of praise, i.e., of the three **Vedas**, the Ṛk, **Yajus**. and **Sāman**;frequenters of sacrifice: or, those who go in lustre; or, dripping water
 </details>

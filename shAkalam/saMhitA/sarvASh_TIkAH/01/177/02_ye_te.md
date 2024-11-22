@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -211,11 +214,13 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Mount, **Indra**, your steeds, who are young and vigorous, tractable to prayer, and harnessed to a bounty-shedding car; come down with them to us. We invoke you, Indra, the libation being poured out.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Young and vigorous: the words **varṣa** and varṣaṇam are repeated: showering, shedding, effusing; the horses are **vṛṣaṇa**; the car is **varṣaṇa**; Indra is **vṛṣabha**; **Soma** is **vṛṣan**
 </details>

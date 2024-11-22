@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ urú ← urú- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This it is which formed the expanse of the earth, the compactness of the heaven; this **Soma** has deposited the ambrosia in its three principal (receptacles), and has upheld the spacious firmament.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three principal receptacles: plural nt, water and cows; has upheld the spacious: Soma as the moon and Soma as a product; cf. svamimā **oṣadhīḥ** viśvāstvāmapo ajanayastvam gāḥ tvamā tatanthorvantarikṣam: RV 1.091.22
 </details>

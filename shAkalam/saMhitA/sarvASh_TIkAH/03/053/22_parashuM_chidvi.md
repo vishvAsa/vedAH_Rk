@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -155,11 +158,13 @@ práyastā ← √yas- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As (the tree) suffers pain from the axe, as the śimbal flower is (easily) cut off, as the injured cauldron leaking scatters foam, so may mine enemy perish.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ellipse: as the tree is cut down by the axe, so may the enemy be cut down; as one cuts off without difficulty the flower of the śimbal, so may he be destroyed; as the **ukhā** (cauldron) when struck (prahata), and thence leaking (yeṣantī, sravantī), scatters foam or breath from its mouth, so (**dveṣṭa** madīya, **mantra** sāmarthyena prahataḥ san, phenam mukhād udgirtu), may that hater, struck by the power of my prayer vomit foam fromhis mouth
 </details>

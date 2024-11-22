@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śatám ← śatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -140,7 +143,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May he who is (the recipient) of a hundred pure, and of a thousand distilled, (libations), come (to the rite), as water to low (plural ces).”
 </details>

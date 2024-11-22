@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādhréṇa ← ādhrá- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, has effected a valuable (donation) by a pauper; he has slain an old lion by a goat; he has cut theangles of the sacrificial **post** with a needle; he has given all the spoils (of the enemy) to **Sudāsa**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Indra haseffected: the three impossible acts are illustrative of the wonderful power of Indra
 </details>

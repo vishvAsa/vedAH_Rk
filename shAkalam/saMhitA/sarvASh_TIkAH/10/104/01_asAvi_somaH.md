@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásāvi ← √su- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -178,7 +181,8 @@ sutásya ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Soma** has been effused for you, (**Indra**), the invoked of many, come quickly to the sacrifice withyour two bay horses; our praises recited by the wise, moving quickly, are addressed to you; drink, Indra, of thelibation.”
 </details>

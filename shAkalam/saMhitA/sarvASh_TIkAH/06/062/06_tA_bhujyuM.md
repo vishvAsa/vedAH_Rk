@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adbhyáḥ ← áp- (nominal stem)  
 {case:DAT, gender:F, number:PL}
 
@@ -167,11 +170,13 @@ upásthāt ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They bore up from te waters, from the ocean, by the winged horses attached to their car, (passing) by roads unsoiled by dust, **Bhujyu**, the son of **Tugra**; they (bore them) from out of the lap of the water.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Arṇaso nirupasthāt, from the womb of the water, jalasya yoneḥ samudrād abhyo nir agamayatam
 </details>

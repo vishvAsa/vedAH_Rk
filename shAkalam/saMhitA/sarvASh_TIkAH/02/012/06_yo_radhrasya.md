@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 coditā́ ← coditár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -190,7 +193,8 @@ sutásomasya ← sutásoma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who is the encourager of the rich, and of the poor, and of the priest, who recites his praise, and is a suppliant; who, of goodly features, is the protector of him, who, with ready stones, expresses the **Soma** juice; he, men, is **Indra**.”
 </details>

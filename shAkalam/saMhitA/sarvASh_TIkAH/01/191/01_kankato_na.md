@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 káṅkataḥ ← káṅkata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -141,11 +144,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Some creature of little venom, some creature of great venom; or some venomous aquatic reptile; creatures of two kinds, both destructive (of life),or (poisonous) unseen creatures, have anointed me with their poison.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The **sūkta** is a mystical antidote against poison. This was recited by **Agastya** under an apprehension of having been poisoned. **kaṅkata**, na kaṅkata, **satīna** kaṅkata = alpaviṣaḥ kas;cit, something of little venom; tadviparīto analpaviṣo mahoragāi, the opposite of that of not little venom, like great snakes and the like;
 

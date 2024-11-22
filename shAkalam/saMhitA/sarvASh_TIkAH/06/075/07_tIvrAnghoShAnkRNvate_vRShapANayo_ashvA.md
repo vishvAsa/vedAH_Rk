@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ghóṣān ← √ghuṣ- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
 
@@ -166,11 +169,13 @@ kṣiṇánti ← √kṣī- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The horses raising the dust with their hoofs, rushing on with the chariots, utter loud neighings, retreating not (from the charge), but trampling with their fore feet upon the enemies, they destroy them.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The horses raising: vṛṣapāṇayo **aśvaḥ** = pāṃsunām varṣakakhura, with hoofs the showerers of dust;
 

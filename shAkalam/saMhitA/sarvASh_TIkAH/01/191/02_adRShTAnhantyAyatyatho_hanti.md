@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)
-#### Morph
+_________
+**Morph**  
 adŕ̥ṣṭān ← adŕ̥ṣṭa- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -151,11 +154,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(the antidote), coming (to the bitten person n), destroys the unseen (venomous creatures); departing (it destroys them); deprived (of substance), it destroys them (by its odour); being ground, it pulverises them.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Deprives of substance: avaghnatī = avahanyamānaauṣadhiḥ, a drug or antidote being destroyed; losing its substance, and reduced to its odour; or it may mean that a certain drug,understood, is destructive of poisonous creatures
 </details>

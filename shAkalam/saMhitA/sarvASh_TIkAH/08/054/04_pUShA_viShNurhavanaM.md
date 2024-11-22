@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 hávanam ← hávana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -159,7 +162,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Pūṣan**, **Viṣṇu**, Sarsvatī, and the seven rivers, favour my call; may the waters, the wind, themountains, the trees, the earth, hear my call.”
 </details>

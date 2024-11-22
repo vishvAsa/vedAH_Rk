@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hácchravasaḥ ← br̥hácchravas- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -166,7 +169,8 @@ r̥tāvŕ̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke for the success of the sacrifice the gods, who bestow abundant food, the diffusers of light, theextremely wise who flourish mightily, abounding in all riches, having **Indra** as their chief, immortal, augmented bysacrifice.”
 </details>

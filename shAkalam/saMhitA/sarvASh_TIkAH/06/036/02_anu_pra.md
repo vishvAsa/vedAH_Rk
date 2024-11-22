@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -183,11 +186,13 @@ vr̥trahátye ← vr̥trahátya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The worshipper praises especially the strength of that **Indra**, verily they rely upon him for heroic deeds; they offer sacrifices to him as the seizer of an uninterrupted series of foes, their assailant, their subduer, and also for the destruction of **Vṛtra**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Seiser of an uninterrupted series of foes: syūmagṛbhe = syūtān avicchedena vartamānān śatrūn gṛhṇate, to him who seizes enemies being lines or threads without interruption
 </details>

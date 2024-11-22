@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áṣatarā ← áṣatara- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -170,11 +173,13 @@ súgmyaḥ ← súgmya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We offer to him, (**Indra**), the most pious (oblations); the worshippers of the gods present to him substantial (adorations); may he, of conspicuous lustre, standing in his car, and light-moving like the **Aśvins**, be gratified (by our worship).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Substantial adorations: cyautnāni = causing to fall down; but, this explained as dṛḍhāni, firm, hard
 </details>

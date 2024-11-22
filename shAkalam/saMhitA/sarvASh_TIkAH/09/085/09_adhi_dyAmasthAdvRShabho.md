@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhi ← ádhi (invariable)  
 {}
 
@@ -191,7 +194,8 @@ pīyū́ṣam ← pīyū́ṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer, the beholder, has taken his station upon heaven, the seer has illumined the luminaries of heaven; the king passes through the filter with a shout, (the **Soma** juices) the beholders of men milk forth the ambrosia of heaven.”
 </details>

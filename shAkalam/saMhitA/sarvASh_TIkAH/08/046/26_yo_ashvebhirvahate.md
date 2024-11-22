@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvebhiḥ ← áśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -167,11 +170,13 @@ dānā́ya ← dāná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who is borne on horses and surrounds himself with thrice seven times seventy cows-- he comes toyou with these **Soma**-libations and Soma-priests, to offer to you, drinker of the Soma, drinker of the bright pureSoma.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He = **Pṛthuśravas**
 </details>

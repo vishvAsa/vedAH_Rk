@@ -23,15 +23,18 @@ ChandaH = "उरोबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 etát ← eṣá (pronoun)  
 {case:NOM, gender:N, number:SG}
 
@@ -174,7 +177,8 @@ vā́dhūyam ← vā́dhūya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (garment) is inflaming, it is pungent; it is like stale **Soma**; it is like poison; it is not fit to eat; theBrāhmaṇa, who knows **Sūrya**, verily desires the bridal (garment).”
 </details>

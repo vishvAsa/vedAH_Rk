@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índubhiḥ ← índu- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -148,11 +151,13 @@ táṁ-tam ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, with the effused and flowing **Soma**, you come into his presence, the sagacious (**Indra**) knows your wish, and the suppresser (of enemies) assuredly grants it, whateve it may be.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tam tam id eṣate: note the repetition of the relative with reference to the antecedent **kāmam**
 </details>

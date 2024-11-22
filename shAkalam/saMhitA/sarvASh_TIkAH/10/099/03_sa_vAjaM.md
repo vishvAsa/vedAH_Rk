@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápaduṣpadā ← ápaduṣpad- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -188,11 +191,13 @@ várpasā ← várpas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Going to the battle, marching with easy gait, desiring the spoil, he set himself to the acquisition of all(wealth). Invincible, destroying the phallus-worshippers, he won by his prowess whatever wealth (was concealedin the city) with the hundred gates.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Phallus-worshippers: śiśnadevān is a **tatpuruṣa** compound; hence, themeaning would perhaps be: incontinent or licentious
 </details>

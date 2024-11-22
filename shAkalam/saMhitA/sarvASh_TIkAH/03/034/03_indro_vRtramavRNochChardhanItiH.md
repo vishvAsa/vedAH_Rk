@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avr̥ṇot ← √vr̥- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -176,7 +179,8 @@ rāmyā́ṇām ← rā́myā- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, of glorious deeds, destroyed **Vṛtra**; resistless in combat, he has overcome the deceivers resolved to consume him; he slew the mutilated (demon lurking) in the woods, and made manifest the (stolen) kine (that had been hidden) in the night.”
 </details>

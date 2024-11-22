@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -206,7 +209,8 @@ sanajā́ḥ ← sanajā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “On hearing our praise **Indra** knows our wishes; victorious, he opens a path for the sun; making himselfMenā, he came (to the sacrifice), he was unassailable, the lord of cattle, (the lord) of heaven, eternal,unsurpassed.”
 </details>

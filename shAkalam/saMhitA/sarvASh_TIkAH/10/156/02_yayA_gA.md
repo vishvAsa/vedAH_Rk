@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ākárāmahe ← √kr̥- (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
 
@@ -129,7 +132,8 @@ tā́m ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Send us, **Agni**, for the acquisition of wealth, that army with which we may acquire cattle through yourprotection”
 </details>

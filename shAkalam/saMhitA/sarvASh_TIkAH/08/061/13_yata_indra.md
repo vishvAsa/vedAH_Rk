@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 bháyāmahe ← √bhī- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -196,7 +199,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, give us security from him of whom we are afraid, **Maghavan**, be strong for us with yourprotections; destroy our enemies, destroy those who harm us.”
 </details>

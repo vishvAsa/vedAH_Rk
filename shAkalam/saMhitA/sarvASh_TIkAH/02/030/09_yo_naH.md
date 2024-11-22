@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jighatnúḥ ← jighatnú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ rī́ṣantam ← √riṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Detecting him who is lying in ambush (against us), who is purposing our death, pierce him, **Bṛhaspati**, with your sharp (thunderbolt), and overthrow (our) enemies with (your) weapons; hurl, monarch, your destroying (shaft) against the oppressor.”
 </details>

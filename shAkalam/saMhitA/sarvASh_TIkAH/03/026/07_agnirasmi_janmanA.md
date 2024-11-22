@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,11 +202,13 @@ nā́ma ← nā́man- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I, **Agni**, am by birth endowed with knowledge of all that exists; clarified butter is my eye; ambrosia is my mouth; I am the living breath of threefold nature, the measure of the firmament, eternal warmth; I am also the oblation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 18.66; I, Agni, am by birth: agni asmi janmanā jātavedā; clarified butter is my eye: a mystical description of the universality of Agni in the double capacity of the enjoyer and enjoyed, the food and the feeder, and in the three forms of fire, air, and the sun, presiding over earth, mid-heaven, and heaven; the eye of Agni is the light of all, which light is fed by oblations of butter; ambrosia is the reward of pious acts or enjoyment of heaven and the like, which is procurable through oblations to fire, as if through his mouth or countenance, **amṛtam** me **āsan**;
 

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -152,11 +155,13 @@ gónām ← gáv- ~ gó- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, piously invoked, may those devout worshippers be dear to you, who are liberal, opulent, and thebestowers upon man of herds of cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who are liberal: yantāro ye maghavāno janānām ūrvān dayantagonām = may those who, among men, are self-restrained, opulent, and donors of butter and offerings; ūrvānannaviśeṣam puroḍāśādīn;
 

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ábhrāji ← √bhrāj- (root)  
 {number:SG, person:3, tense:AOR, voice:PASS}
 
@@ -194,7 +197,8 @@ yántam ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, dispensers of rain, your strength is manifested when, shaking the water-laden cloud, you let loose the shower; conjointly propitiated, conduct us by an easy path leading to prosperity, as the eye (shows the way).”
 </details>

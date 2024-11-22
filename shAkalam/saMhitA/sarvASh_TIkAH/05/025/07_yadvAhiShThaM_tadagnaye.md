@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agnáye ← agní- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -168,11 +171,13 @@ vā́jāḥ ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That (praise) which best conveys (our veneration, is due) to **Agni**; affluent in splendour, grant us, (Agni), great (wealth), for from you vast riches and ample food proceed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 26.12; yad vahiṣṭham tad agnaye bṛhad **arca** vibhāvaso: addressed to the **udgātā**, the interpretation is: sing to Agni, that bṛhad **sāma** (a hymn of the **Sāmaveda**), which is the most effectual means of obtaining our desires; **mahiṣī** iva tvad rayistvad vājā udīrate: mahiṣī is the adjective of **rayi**, great riches, iveti **pūraṇaḥ**; alternatively, iva denotes a comparison, thus explaining the passage: as the first-married bride proceeds from her home to her hausband, prathamapariṇītā **strī** gṛhāt patim udgacchati so riches and food proceed to the worshipper, Agni, from you
 </details>

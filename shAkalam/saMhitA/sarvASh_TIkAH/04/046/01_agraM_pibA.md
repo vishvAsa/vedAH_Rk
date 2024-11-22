@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágram ← ágra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -128,11 +131,13 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink first, **Vāyu**, the effused libation of the **Soma** at the rites that secure heaven, for you verily are the first drinker.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Drink first, **pūrva** pā: **deva** dadhiṣe pūrvapeyam (RV. 7.92.1); **prathamaḥ** pibeyam (**Aitareya** **Brāhmaṇa** 2.25)
 </details>
@@ -145,7 +150,8 @@ for you are the first drinker.
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Since Vāyu has the first drink of soma to himself, it is appropriate that only he is called on in this vs. ### 02
+Since Vāyu has the first drink of soma to himself, it is appropriate that only he is called on in this vs. _________
+**02**  
 This vs. provides the transition between Vāyu as sole drinker and Vāyu and Indra as joint drinkers. Because the nominatives in b, niyútvām̐índrasārathiḥ, are singular, it seems best, with Geldner, Renou, to supply a sg. impv. ‘come’ (vel sim.) for ab.
 
 The dual verb tṛmpatam in c has of course Vāyu and Indra as its subjects; Indra can be extracted from the cmpd. índrasārathiḥ in b, and the voc. vā́yo in c is in effect a truncated Vāyav Indraś ca construction. This construction is nonetheless avoided in the rest of the hymn: vss. 3-7 all contain the dual dvandva voc. índravāyū. Note that this stem never appears as the more “correct” *índrā-vāyū́with dual first member. I have no idea why.

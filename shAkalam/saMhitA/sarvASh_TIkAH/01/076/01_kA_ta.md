@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kā́ ← ká- (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -213,7 +216,8 @@ vā ← vā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What approximation of the mind, **Agni**, to you, can be accomplished for our good; what can a hundred encomiums (effect); who, by sacrifices has obtained your might; with what intent may we offer you (oblations)?”
 </details>

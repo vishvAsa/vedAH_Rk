@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 havyaíḥ ← havyá- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -209,7 +212,8 @@ svā́dma ← svā́dman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the slayer of **Vṛtra**,let loose the milch kine, assisted by the **Maruts**, born for his aid, and entitled to praises and oblations, and the excellent (cows) contributing abundantly to sacred offerings, and yielding the butter of libation, milked for him sweet (sacrificial) food.”
 </details>

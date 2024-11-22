@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́t ← ā́t (invariable)  
 {}
 
@@ -193,7 +196,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Viśvakarman**, of comprehensive mind and manifold greatness, is all- pervading, the creator, thearranger and the supreme supervisor; him in whom the desires of their (senses) are satisfied with food, they callsecond line of the ṛca: him in whom they delight their forms (or plural ces) with water, him, those who are skille dinViśvakarman; **Nirukta** notes that at the universal sacrifice Viśvakarman **Bhauvana** offered up all beings and thenhimself\].”
 </details>

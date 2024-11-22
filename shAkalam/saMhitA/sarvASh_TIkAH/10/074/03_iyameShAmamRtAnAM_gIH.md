@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amŕ̥tānām ← amŕ̥ta- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -183,7 +186,8 @@ vasavyàm ← vasavyà- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This (is) the praise of these immortal (Gods), who bestow wealth at the sacrifice; perfecting our praiseand sacrifice, may they bestow upon us unequalled riches.”
 </details>

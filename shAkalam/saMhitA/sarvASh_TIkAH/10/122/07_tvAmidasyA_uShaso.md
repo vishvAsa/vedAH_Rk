@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyā́ḥ ← ayám (pronoun)  
 {case:ABL, gender:F, number:SG}
 
@@ -179,7 +182,8 @@ nimr̥jántaḥ ← √mr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men worshipped you, **Agni**, at the opening of the present dawn, appointing you their messenger to thegods; the gods have magnified you for their adoration, sprinkling butter upon you at the sacrifice.”
 </details>

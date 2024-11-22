@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apsú ← áp- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -192,7 +195,8 @@ tuturyāma ← √tūr(v)- ~ tur- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer to you, (gods), for the sake of water, an all-bestowing sacrifice, whereby the nine-months ministrants have completed the ten-months rite; may we, by this sacrifice, be the protected of the gods; may we, by this sacrifice, cross over the boundaries of sin.”
 </details>

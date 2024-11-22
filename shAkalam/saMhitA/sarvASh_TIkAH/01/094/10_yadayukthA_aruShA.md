@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 aruṣā́ ← aruṣá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -208,7 +211,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When you have yoked the bright red horses (ete vai devāśvāḥ: **Taittirīya** **Saṃhitā** 1.7.4.3), swift as the wind, to your car, your roar is like that of a bull, and you enwrap the forest trees with a banner of smoke; let us not, **Agni**, suffer injury through your friendship.”
 </details>

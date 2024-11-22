@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayóḥ ← ayám (pronoun)  
 {case:GEN, gender:M, number:DU}
 
@@ -177,7 +180,8 @@ yádi ← yádi (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Of both these (disputants), that one acquires wealth whose priests invoke (**Indra**) at the sacrifice, whether the conten emulous for (the overthrow of) a powerful enemy, or for a dwelling peopled with dependants.”
 </details>

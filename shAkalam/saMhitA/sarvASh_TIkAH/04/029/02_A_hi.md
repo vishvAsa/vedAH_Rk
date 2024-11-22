@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -189,7 +192,8 @@ vīraíḥ ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra**, the friend of man, the omniscient, come to the sacrifice when invoked by the offerers of libations; he is possessed of good horses, who is fearless honoured by the effusers of libations, who rejoices with the heroes (the **Maruts**).”
 </details>
@@ -202,7 +206,8 @@ he who, with his good horses, thinking himself non-frightening, becomes  exhilar
 
 <details><summary>Jamison Brereton Notes</summary>
 
-The phrase ábhīrur mányamānaḥ is troublesome. The other three occurrences of ábhīru- all mean ‘fearless’, but “thinking himself fearless” is an odd thing to say about Indra. For one thing, he’s such a mighty warrior that there seems no need to assert fearlessness about a creature for whom fear would be unthinkable (though recall his flight at the end of I.32, where he’s compared to a “frightened falcon” [śyenó ná bhītáḥ I.32.14]). For another, X mányate (/-yamāna-) expressions almost always identify the content of the thought as being the wrong idea about oneself or someone else. But surely it’s not that Indra thinks he’s fearless but is actually terrified. For this reason I take this bahuvrīhi to mean ‘not having -- that is, not producing -- fear’ (in others). This is a sense that Grassmann allows (‘nicht furchterregend’), though for a different passage. The point here would be that Indra is coming to the sacrifice to have a jolly soma drink-up with the pressers, thinking he’s just a regular guy, not a terror-inspiring deity. Note that he “produces fearlessness” (kárat … ábhayam) for us in the next vs. ### 03
+The phrase ábhīrur mányamānaḥ is troublesome. The other three occurrences of ábhīru- all mean ‘fearless’, but “thinking himself fearless” is an odd thing to say about Indra. For one thing, he’s such a mighty warrior that there seems no need to assert fearlessness about a creature for whom fear would be unthinkable (though recall his flight at the end of I.32, where he’s compared to a “frightened falcon” [śyenó ná bhītáḥ I.32.14]). For another, X mányate (/-yamāna-) expressions almost always identify the content of the thought as being the wrong idea about oneself or someone else. But surely it’s not that Indra thinks he’s fearless but is actually terrified. For this reason I take this bahuvrīhi to mean ‘not having -- that is, not producing -- fear’ (in others). This is a sense that Grassmann allows (‘nicht furchterregend’), though for a different passage. The point here would be that Indra is coming to the sacrifice to have a jolly soma drink-up with the pressers, thinking he’s just a regular guy, not a terror-inspiring deity. Note that he “produces fearlessness” (kárat … ábhayam) for us in the next vs. _________
+**03**  
 I take vājayádhyai not to the denom. vājayá- ‘seek prizes’, but the primary - áya- formation vājáya- ‘rouse’. It shows accent shift in the -dhyai infinitive, just as mandayádhyai does.
 
 If we maintain the transmitted text, I do not know what to do with prá in b, apparently interrupting the expression júṣtām ánu … díśam (though this interruption is mitigated by its immediately flg. the caesura). √mand does appear with prá, though not terribly often, so it might go with the infinitive. Or one can supply a verb of motion: “(he goes / send him) forth to make him reach exhilaration.” Geldner cites similar pū́rvam ánu prá díśam in I.95.3 and also suggests that an impv. parallel to śrāváya should be supplied. However, the most likely solution is that endorsed by Oldenberg: to read pradíśam, a reading already found in Grassmann

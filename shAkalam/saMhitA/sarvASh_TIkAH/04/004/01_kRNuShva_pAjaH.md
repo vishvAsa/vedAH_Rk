@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kr̥ṇuṣvá ← √kr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
 
@@ -213,11 +216,13 @@ swiftly hurling your net, shooting your missiles, pierce the rakShas with your i
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Put forth your strength, **Agni**, as a fowler spreads a capacious snare; proceed like a king attended by his followers on his elephant; you are the scatterer (of your foes); following the swift-moving host consume the **rākṣasas** with your fiercest flames.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 13.9; like a king attended: rājevāmavān ibhena: **ibha** may also mean fearless, gatabhayena;or, hastinā;
 

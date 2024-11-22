@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -232,7 +235,8 @@ lighting up heaven and earth from within with splendor.
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** cries aloud like the thundering heaven; he licks the earth burning the plural nts; as soon asgenerated, he contemplates this (conflagration); when kindled he blazes with his (own) radiance between heavenand earth.”
 </details>

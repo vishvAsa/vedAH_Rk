@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devátā ← devátā (invariable)  
 {}
 
@@ -189,7 +192,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who, praising you as the deity, (ever) hoped to sacrifice to you? What saint, what sage conveys (hispraises to yo?) When, opulent **Indra**, have you come to the invocation of one pouring out libations, of onerepeating (your) praise?”
 </details>

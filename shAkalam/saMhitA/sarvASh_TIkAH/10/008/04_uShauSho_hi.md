@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágram ← ágra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -185,11 +188,13 @@ tanvè ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Opulent **Agni**, you precede dawn after dawn. You are the illuminator of the twin (day and night);engendering **Mitra** from your own person n, you retain seven plural ces for sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mitra: the sun; seven plural ces: theseven altars for the fire: dhisṇyā etc.
 </details>

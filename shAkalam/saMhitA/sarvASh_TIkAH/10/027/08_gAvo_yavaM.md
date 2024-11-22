@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akṣan ← √ghas- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -198,7 +201,8 @@ svápatiḥ ← svápati- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The assembled cattle feed upon the barley; I their master have beheld them grazing, tended by theherdsman; when called, they collect around their lord; when they approach, how much milk does he desire (totake)?”
 </details>

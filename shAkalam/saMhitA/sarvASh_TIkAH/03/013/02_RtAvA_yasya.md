@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:DU}
 
@@ -138,7 +141,8 @@ tám ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The observer of truth, of whom (are) heaven and earth, and whose vigour the protecting (deities) assist; him, the offerers of oblations adore, and those desirous of riches (have recourse) to him for protection.”
 </details>

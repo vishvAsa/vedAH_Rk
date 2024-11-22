@@ -22,14 +22,17 @@ ChandaH = "पादनिचृद्गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́kam ← ahám (pronoun)  
 {case:GEN, number:PL}
 
@@ -105,7 +108,8 @@ vajrin ← vajrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drinker of **Soma** juice, wielder of the thunderbolt, O friend, (bestow upon) us, your friends, and drinkers of the Soma juice, (abundance of cows) with projecting jaws. (śipirṇīnām, genitive plural of the feminine nine śipriṇī, having a nose of a jaw; hence gavām and **samūha** (of cows and a herd) are added\].”
 </details>

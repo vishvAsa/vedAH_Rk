@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bobhavīti ← √bhū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -203,7 +206,8 @@ svaíḥ ← svá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maghavan** becomes repeatedly (manifest) in various forms, practising delusions with respect to his own peculiar person n; and invoked by his appropriate prayers, he comes in a moment from heaven to the three (daily rites), and, although observant of seasons, is the drinker (of the **Soma**) irrespective of season.”
 </details>

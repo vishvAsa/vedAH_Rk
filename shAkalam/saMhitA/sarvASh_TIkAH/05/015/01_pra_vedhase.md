@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kaváye ← kaví- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ vásvaḥ ← vásu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I offer praise to **Agni**, the creator, the far-seeing, the adorable, the renowned, the first (of the gods); he who is propitiated by oblations, the strong, the giver of happiness, the possessor of riches, the receiver of oblations, the bestower of oblations.”
 </details>

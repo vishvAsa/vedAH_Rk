@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 āsú ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -178,7 +181,8 @@ Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indr
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra** speaks\]: I have heard that **Indrāṇī** is the most fortunate among these women, for her lordIndra, who is above all (the world), does ot die of old age like other (men).”
 </details>

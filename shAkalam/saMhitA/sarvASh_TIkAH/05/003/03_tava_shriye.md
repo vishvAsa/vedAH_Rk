@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marjayanta ← √mr̥j- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -202,11 +205,13 @@ téna ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For your glory the **Maruts** sweep (the firmament), when your birth, **Rudra**, is beautiful and wonderful; the middle step of **Viṣṇu** has been plural ced, so you cherish the mysterious name of the waters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Your birth is beautiful and wonderful: **Agni** as the lightning; cherish the mysterious name of the waters: **pāsi** guhyam **nāma** gonām = udakānām guhyam nāmāni **rākṣasi**
 </details>

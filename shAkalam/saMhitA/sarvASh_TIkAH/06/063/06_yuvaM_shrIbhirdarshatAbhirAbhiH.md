@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ābhíḥ ← ayám (pronoun)  
 {case:INS, gender:F, number:PL}
 
@@ -189,7 +192,8 @@ vā́ṇī ← vā́ṇī- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have provided with these beautiful splendours, gratification for the enjoyment of **Sūrya**, your horses have descended for feliciy, deserving of praise, the laudation (of the sages) has reached you glorified.”
 </details>

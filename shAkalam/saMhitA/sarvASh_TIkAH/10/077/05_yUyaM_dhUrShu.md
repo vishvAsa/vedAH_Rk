@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.;; 11 = 4+7, ending HLX  
 genre M;; bhārgavī; see Arnold (1905) 240–1.  
 genre M;; bhārgavī; see Arnold (1905) 240–1.
-#### Morph
+_________
+**Morph**  
 dhūrṣú ← dhúr- (nominal stem)  
 {case:LOC, gender:F, number:PL}
 
@@ -174,7 +177,8 @@ pravā́saḥ ← pravá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You (move along) like horses harnessed to the chariot-poles with reins; at break of day you (areendowed) with radiance like the luminaries (of heaven); you are like hawks, like the destroyers of foes, desirousof renown; you cover the ground like travellers, you move everywhere.”
 </details>

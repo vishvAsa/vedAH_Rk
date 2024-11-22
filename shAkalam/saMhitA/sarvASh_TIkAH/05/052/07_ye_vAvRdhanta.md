@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pā́rthivāḥ ← pā́rthiva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -150,11 +153,13 @@ vā ← vā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Maruts**, who are of the earth are augmented, so are those in the vast firmament; they increase in the force of the rivers, and in the aggregate of the spacious heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Maruts who are of the earth: ye pārthivā = pṛthivisambaddhaḥ, connected with the earth
 </details>

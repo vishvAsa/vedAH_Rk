@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arbhakáḥ ← arbhaká- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -160,11 +163,13 @@ vibhukrátum ← vibhukrátu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra**), like a young boy, has mounted his splendid chariot; he makes ready for his father and motherthe great deer-like many-functioned cloud.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 He makes ready: pac = to cook, to mature, vṛṣṭyabhimukham **karoti**,Indra makes the cloud ready for raining;
 

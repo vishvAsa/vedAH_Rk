@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -195,7 +198,8 @@ stotrásya ← stotrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “On **Indu**, bring us quickly (wealth) with a hundred gifts, with horses, with a thousand gifts, with cattle and with gold; measure unto us abundant riches and food; come, purified one, to (hear) our praise.”
 </details>

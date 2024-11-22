@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 dhībhíḥ ← dhī́- (nominal stem)  
 {case:INS, gender:F, number:PL}
 
@@ -132,11 +135,13 @@ tripr̥ṣṭhám ← tripr̥ṣṭhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They send forth with their fingers the powerful **Soma** sporting in the water, passing through the fleece; praises celebrate him abiding in the three receptacles.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With their fingers: dhībhiḥ = dhītibiḥ; or, by their praises
 </details>

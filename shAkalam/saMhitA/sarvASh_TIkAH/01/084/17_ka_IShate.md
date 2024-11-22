@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 bibhāya ← √bhī- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -209,11 +212,13 @@ tanvè ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who goes forth, (through dread of foes, when **Indra** is at **hand**); who is harmed (by his enemies); who is terrified; who is aware that Indra is present, who that he is night? What need is there that any one should importune Indra for his son, his elephant, his property, his person n, or his people?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kaḥ = **prajāpati**
 </details>
@@ -226,7 +231,8 @@ Who will speak for offspring, who for a retinue and for wealth? Who  will speak 
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Contra the interpretation of íbha- as ‘elephant’ in Vedic (so Geldner), see EWA s.v. ### 18
+Contra the interpretation of íbha- as ‘elephant’ in Vedic (so Geldner), see EWA s.v. _________
+**18**  
 yajātai is, as far as I can tell, the only RVic examples of a medial 3rd sg.
 
 subjunctive in -tai, the form that takes over beginning with the AV, spreading from the 1st sg. As such it may be a sign that at least this part of this last hymn in the Indra group is late.

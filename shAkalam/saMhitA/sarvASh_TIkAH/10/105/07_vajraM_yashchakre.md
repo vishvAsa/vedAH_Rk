@@ -22,14 +22,17 @@ ChandaH = "पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 cakré ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -145,7 +148,8 @@ rájaḥ ← rájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The golden-bearded (**Indra**), lord of bay horses, who made the thunderbolt for the easy destruction ofthe **Dasyu**, who has irresistible jaws like the vast firmament.”
 </details>

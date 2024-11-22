@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 harítaḥ ← harít- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -111,7 +114,8 @@ stávai ← √stu- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whose three horses bear me plural asantly in the chariot; I praise him at the ceremony in which hepresents thousands.”
 </details>

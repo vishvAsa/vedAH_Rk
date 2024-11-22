@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 niyútaḥ ← niyút- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -197,11 +200,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harnessing the **Niyuts**, whom the devout (worshippers) desire, to your common car, come, **Indra** andVāyu, hither; this the first (cup) of the sweet **Soma** is prepared for you; and then, delighted (by the draught),liberate us (from sin).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whom the devout worshipers desire: or, whose worshippers are objects of desire,spṛhaṇīyastotṛkān
 </details>

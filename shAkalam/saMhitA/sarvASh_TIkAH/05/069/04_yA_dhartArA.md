@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhartā́rā ← dhartár- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -175,7 +178,8 @@ vratā́ni ← vratá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I worship you two, divine **Ādityas**, who are upholders of the celestial and terrestrial worlds; the immortal gods impair not, **Mitra** and **Varuṇa**, your eternal works.”
 </details>

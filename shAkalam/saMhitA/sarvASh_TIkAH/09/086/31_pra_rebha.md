@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -184,7 +187,8 @@ rihanti ← √rih- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sounding (**Soma**) passes through the woollen fleece; the green-tinted showerer cries in the waters; the worshippers desiring (the Soma) praise him together, the laudations soothe the infant as he cries.”
 </details>

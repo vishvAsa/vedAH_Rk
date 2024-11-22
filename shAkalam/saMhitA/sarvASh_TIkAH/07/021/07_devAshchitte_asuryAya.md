@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asuryā̀ya ← asuryà- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -175,11 +178,13 @@ vā́jasya ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The older deities have confessed your vigour superior to their destructive strength, **Indra** havingsubdued his foes, gives the rich spoils (to his worshippers); they invoke Indra to obtain food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The older deities:**devas** chit purve, the **asuras** are older than the gods. asūryāya kṣatrāya anumamire sahāṃsi: anu, theyhave confessed inferiority to your strength; tava balebhyo **hina** mamire;
 

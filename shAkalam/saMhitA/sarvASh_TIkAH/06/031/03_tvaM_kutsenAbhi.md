@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -172,7 +175,8 @@ muṣāyáḥ ← √muṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, with **Kutsa**, have warred against the inexhaustible **Śuṣṇa**; you have overthrown **Kuyava** in battle; in conflict you have carried off the wheel (of the chariot) of the sun; you have driven away the malignant (spirits).”
 </details>

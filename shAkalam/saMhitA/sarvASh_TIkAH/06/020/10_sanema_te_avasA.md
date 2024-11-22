@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 ávasā ← ávas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -194,11 +197,13 @@ purukútsāya ← purukútsa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Favoured) by your proection, **Indra**, we solicit new (wealth); by this adoration men glorify you at sacrifices, for that you have shattered with your bolt the seven cities of **Śarat**, killing the opponents (of sacred rites), killing the opponents (of sacred rites), and giving (their spoils) to **Purukutsa**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Men: puravaḥ = **manuṣyaḥ**;
 

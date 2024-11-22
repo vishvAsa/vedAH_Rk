@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 airata ← √r̥- 1 (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
 
@@ -179,7 +182,8 @@ vácāṁsi ← vácas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The sages) have offered prayers to (**Indra**) for food, worship Indra, **Vasiṣṭha** at the sacrifice; may thatIndra who has spread out all (the regions) by his might, be the hearer of my words when approaching him.”
 </details>

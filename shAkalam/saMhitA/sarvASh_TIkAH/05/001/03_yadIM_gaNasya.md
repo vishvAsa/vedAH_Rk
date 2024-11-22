@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ájīgar ← √gr̥- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -188,11 +191,13 @@ uttānā́m ← uttāná- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Agni** has seized upon the (confining) girdle of the aggregated (world), then, bright-shining, he makes all manifest with brilliant rays; thereupon the precious food-desiring (oblations) is added (to the flame), and Agni, soaring aloft, drinks it as it is (spread out) recumbent by the ladles.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The confining girdle of the aggregated world: yadīm gaṇasya raśanām ajīgaḥ = when he has seized the rope of the company, i.e., the darkness encompassing the world, like a cord or rope, obstructing all active exertion, jagato rajjuriva vyāpārapratibandhakam **tamas**;
 

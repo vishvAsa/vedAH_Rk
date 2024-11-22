@@ -23,15 +23,18 @@ ChandaH = "विषमपदा"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
-#### Morph
+_________
+**Morph**  
 sánitar ← sanitár- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -148,11 +151,13 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O bountiful, mos bountiful, mighty, wondeful, best giver of knowledge and supremely truthful, by yourprowess, universal ruler, (bring to us) in conflicts ample wealth, overpowering those who attack us, and causingenjoyment.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Bhujyam, pūrvyam: two epithes applied in RV 8.22.2 to the chariot of the **Aśvins**;
 

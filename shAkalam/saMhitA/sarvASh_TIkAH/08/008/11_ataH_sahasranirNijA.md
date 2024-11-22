@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átas ← átas (invariable)  
 {}
 
@@ -147,11 +150,13 @@ kāvyáḥ ← kāvyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “From wheresoever (you may be) come, **Aśvins**, with your thousandfold diversified chariot; the sageVatsa, the son of **Kavi**, has addressed you with sweet worlds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Son of Kavi: **vatsaḥ** **kāvyaḥ**: kāvyaḥ = kavehputraḥ, son of the sae, i.e. of **Kaṇva**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -191,11 +194,13 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Radiant **Agni**, the mortal who offers oblations to the immortal becomes affluent; that deity (Agni) favoursthe presenter of (sacrificial) wealth, to whom the devout solicitant inquiring applies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yam sūrir arthīpṛcchamāna: the inquirer is supposed to ask, either where is the liberal giver of the wealth for which he prays,or who is that Agni to whom the petition is to be addressed.
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āsyè ← āsyà- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -129,7 +132,8 @@ ukthám ← ukthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(I present) the agreeable oblation to your mouths, **Indra** and **Bṛhaspati**, and the hymn and the exhilarating beverage are offered.”
 </details>

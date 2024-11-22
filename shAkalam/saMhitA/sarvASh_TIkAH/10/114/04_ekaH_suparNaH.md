@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -236,11 +239,13 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “One of the birds has entered the firmament; he contemplates this whole world; with mind mature Ibeheld him night at **hand**; him the mother licks, he licks themother.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mother: i.e., the **mādhyamikā** vāk, thesound of mid-heaven, the thunder, which is the mother or source of rain. The deity referred to as the bird whohas taken his station in the firmament is **Agni**, or else **Vāyu**
 </details>

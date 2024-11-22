@@ -22,14 +22,17 @@ ChandaH = "पिपीलिकमध्या"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 hárī ← hári- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -153,7 +156,8 @@ ubhā́ ← ubhá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(O **Indra**), to whom belong the two bay horses, well-trained, active, swift, courageous, brilliant as thetwo worlds, do you, who are lord (of bay horses), bestowing (wealth upon us), desire (our praises).”
 </details>

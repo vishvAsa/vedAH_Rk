@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -214,11 +217,13 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, born of sacrifice, three are your viands; three your abiding plural ces, three the tongue satisfying (thegods); three verily are your forms acceptable to the deities, and with them never heedless (of our wishes), bepropitious to our praises.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Three viands: butter, fuel and the **Soma**; three abiding plural ces: three altars, or the three daily sacrifices, or the **three worlds**; three tongues: three fires, **gārhapatya**, **āhavanīya** and **dakṣiṇā**; three forms: three fires termed **pāvaka**, **pavamāna** and **śuci**
 </details>

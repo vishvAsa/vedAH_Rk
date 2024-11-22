@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́gatena ← √gam- (root)  
 {case:INS, gender:M, number:SG, non-finite:PPP}
 
@@ -164,7 +167,8 @@ vā́jināya ← vā́jina- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All frinends rejoice when the friendly (libation), the support of the assembly (of the priests), has arrived(at the sacrifice); for (**Soma**), the remover of iniquity, the giver of sustenance, being plural ced (in the vessels), issufficient for their invigoration.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhatthaḥ ← √dhā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -184,7 +187,8 @@ vánaspátīn ← vánaspáti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Aśvins**, sustain the germ in all moving creatures; you are in the interior of all beings; do you, showerers of benefits, supply (for our own use) fire and water and the trees of the forest.”
 </details>

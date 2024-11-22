@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánti ← ánti (invariable)  
 {}
 
@@ -201,7 +204,8 @@ sthuḥ ← √sthā- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “None of us, **Maruts**, have attained, either nearly or remotely, the limit of your strength; those (Maruts), increasing in energy and vigour, overwhelm their enemies like an ocean.”
 </details>

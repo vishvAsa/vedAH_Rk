@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iyarti ← √r̥- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -143,7 +146,8 @@ sūryāvasū ← sūryāvasu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your chariot, **Aśvins**, in which you ride with **Sūrya**, hastens towards us at our solicitations, traversingthe regions as swift as thought, and laden with a hundred blessings.”
 </details>

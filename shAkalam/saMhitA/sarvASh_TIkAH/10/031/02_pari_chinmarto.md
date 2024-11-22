@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -190,7 +193,8 @@ mánasā ← mánas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let a mortal be ever desirous of affluence, (having acquired it), let him worship with oblations on thepath of the sacrifice; and let him with his own intellect meditate upon (the gods); let him grasp with his mind thebest and most mighty (of the universal deities).”
 </details>

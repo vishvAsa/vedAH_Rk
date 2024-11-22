@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ajuryám ← ajuryá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -167,11 +170,13 @@ viveśa ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The flowing (rivers) invigorating him, bear along the great son of **Tvaṣṭā**, the undecaying upholder (of the world), radiant with various forms in the vicinity (of the firmament); **Agni** is associated with heaven and earth, as (a husband with) one only wife.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 One only wife: the text has ekām iva, like one, the pronoun being feminine nine; the additions are: yathā **pumān** ekām praviśati, as a man cohabits with one woman
 </details>

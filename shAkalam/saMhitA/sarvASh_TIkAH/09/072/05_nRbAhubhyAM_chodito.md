@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 coditáḥ ← √cud- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 
@@ -209,11 +212,13 @@ véḥ ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Urged by the arms of men, poured forth in a stream the **Soma** flows for you, **Indra**, for strength; you accomplish the rites, you overcome enemies at the sacrifice; the green-tinted Soma rests upon the cups like a bird perching on a tree.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For strength: Or, for the sake of food;
 

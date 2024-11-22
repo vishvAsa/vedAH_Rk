@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādabhúḥ ← √dabh- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
 
@@ -168,7 +171,8 @@ tanūpā́ḥ ← tanūpā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Affluent **Indra**, propitiated by praise, be nigh o us, as the defender of our person ns (against those) who assail (us as) enemies, with a mind bent upon carrying off (our) cattle, or who assault us with arrogance.”
 </details>

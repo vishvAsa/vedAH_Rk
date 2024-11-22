@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -203,7 +206,8 @@ stanáyan ← √stanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thereupon those (flames of **Agni**) extend together in all directions, dispersing gloom, and spreading great light along the path of darkness; when (Agni) illumines repeatedly the whole earth, and proceeds panting thundering, and roaring aloud.”
 </details>

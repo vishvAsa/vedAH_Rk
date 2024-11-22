@@ -25,17 +25,20 @@ ChandaH = "महाबृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular;; line affected by realignment;; repeated line  
 popular;; line affected by realignment;; repeated line  
 popular;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 navānā́m ← náva- 1 (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -173,7 +176,8 @@ madhulā́ ← madhulá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I recite the names of ninety and nine (rivers), the destroyers of poison; although afar off, (the Sun), drawn by his coursers, will overtake the poison; the science of antidotes has converted you, (Poison), to ambrosia.”
 </details>

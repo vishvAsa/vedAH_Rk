@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akr̥ṇot ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -191,11 +194,13 @@ vindat ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This **Soma** made the dawns happily wedded to the sun; this Soma plural ced the light within the solar orb; this (Soma) has found the threefold ambrosia hidden in heaven in the three bright regions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Ayam** tridhātu **divi** rocaneṣu, triteṣu, triteṣu vindat **amṛtam** nigūḷham = Soma becomes as it were ambrosia when received or concealed in the vessels at the three diurnal ceremonies, which ambrosia is properly deposited with the gods abiding in the third bright sphere, or in heaven
 </details>

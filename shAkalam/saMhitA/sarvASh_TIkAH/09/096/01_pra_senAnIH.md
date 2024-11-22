@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágre ← ágra- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -200,11 +203,13 @@ vástrā ← vástra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The leader of the host, a hero, advances in front of the chariots intent on seizing the cattle (of the enemy); his army exults; making their oblations to **Indra** prosperous for the friendly (worshippers), **Soma** assumes the hastily made robes (of curds and milk).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hastily made: rabhasāni = indrasya vegenāgame nimittāni,?caused by Indra's hasty arrival
 </details>

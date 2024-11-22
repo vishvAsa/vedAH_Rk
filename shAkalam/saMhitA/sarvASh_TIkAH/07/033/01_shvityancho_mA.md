@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 dakṣiṇatáskapardāḥ ← dakṣiṇatáskaparda- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -177,11 +180,13 @@ vásiṣṭhāḥ ← vásiṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The white-complexioned accomplishers of holy ceremonies, wearing the lock of hair on the right side,have afforded me delight, when, rising up I call the leaders (of rites) to the sacred grass; the **Vasiṣṭhas**, (mysons) should never be far from me.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 White-complexioned: śvity añcaḥ = **śvetavarṇaḥ**, white- coloured (appliedto the vasiṣṭhas); wearing the lock of hair on the right side: dakṣiṇatas kapardāḥ: **kaparda** = **cūḍa** or singlelock of hair left on the top of the head at tonsure; Vasiṣṭhas wear it on the right of the crown of the head,dakṣiṇe śiraso bhāge
 </details>

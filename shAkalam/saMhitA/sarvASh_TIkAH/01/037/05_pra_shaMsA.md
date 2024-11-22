@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 ághnyam ← ághnya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -132,11 +135,13 @@ vāvr̥dhe ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praise the sportive and unresisted might of the **Maruts**, who were born amongst kine, and whose strength has been nourished by (the enjoyment of) the milk.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Goṣu**-mārutam, Maruts among the cows; pṛśniyai vai payaso **marut**, Maruts were born of milk for **Pṛśni**. jambhe rasasya vavṛdhe, their vigour, derived from or of the milk, was increased (either) in enjoyment or in the belly: gokṣīrarūpasya **sambandhi** tat tejo jambhe mukhe udare vā vṛddham abhūt
 </details>

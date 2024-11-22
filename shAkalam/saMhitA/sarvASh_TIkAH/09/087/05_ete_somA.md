@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -164,7 +167,8 @@ pr̥tanā́jaḥ ← pr̥tanā́j- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These **Soma**-juices, (going towards) the thousand viands produced by the kine, purified, by the filters, are let loose for ample food and ambrosia, desiring food like horses victorious over a host.”
 </details>
@@ -179,7 +183,8 @@ being purified by the filters—like fame-seeking steeds driving to battle.
 
 In pāda b the Holland & van Nooten Rig Veda edition text reads mahé vā́jāyām ṛ́tāya śrávāṃsi, with word break after putative vā́jāyām. But it should instead read vā́jāyāmṛ́tāya without break (as in both the devanāgarī text and the transliterated text of Aufrecht), to be analyzed, with Pp., as vā́jāya / amṛ́tāya. Undoing the vowel contraction at the caesura in this way produces too many syllables (12, with a Triṣṭubh cadence). Oldenberg is uncertain whether to opt for that analysis or for contraction over the caesura, which seems to be Arnold’s (not very clearly expressed) view (p. 192, §215 iii).
 
-Given the importance of vā́ja- ‘prize’ (1a, 5b, 6d ) and vājín- ‘prizewinner’ (1c, 4d)) in this hymn, the tr. of the dat. phrase in pāda b should be corrected to “for the great immortal prize.” In keeping with my view that medial forms of the them. stem pávate are always reflexive, not passive, the tr. should be corrected to “purifying themselves through the filters” - esp. because of the contrastive undoubted passive pūyámānaḥ in the next vs. ### 06
+Given the importance of vā́ja- ‘prize’ (1a, 5b, 6d ) and vājín- ‘prizewinner’ (1c, 4d)) in this hymn, the tr. of the dat. phrase in pāda b should be corrected to “for the great immortal prize.” In keeping with my view that medial forms of the them. stem pávate are always reflexive, not passive, the tr. should be corrected to “purifying themselves through the filters” - esp. because of the contrastive undoubted passive pūyámānaḥ in the next vs. _________
+**06**  
 The gen. jánānām is best construed with puruhūtáḥ as (pseudo-)agent. See the same phrase, though with accented voc. púruhūta, in IX.52.4, 64.27 - though in the former passage I construe the gen. with another noun in the published translation I now think that may be wrong.
 
 The accentuation of the athem. part. túñjāna- is puzzling; the other ex. of this part. (IX.57.2) has the expected accent tuñjāná- as do finite forms like tuñjánti.

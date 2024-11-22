@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámitam ← ámita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, as the accepter of the stale **Soma**, sustains infinite greatness, and has filled both heaven and earth by his magnitude; therefore has the vastness of him who has surpassed all the regions, exceeded (the world).”
 </details>

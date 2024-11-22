@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pári ← pári (invariable)  
 {}
 
@@ -161,11 +164,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The excellent spies of **Varuṇa** behold the beautiful heaven and earth, as well as those (men) who, thecelebrators of rites, constant in sacrifice, wise and intelligent address (to him their) praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The excellent spies:spaśaḥ smadiṣṭāḥ: **cārāḥ**, spies; praśastagatyāḥ, of excellent movement; sahapreṣitāḥ, despatchedtogether;
 

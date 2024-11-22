@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 grā́vā ← grā́van- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -150,11 +153,13 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The stone (that bruises the **Soma**) is the showerer (of benefits), so is your exhilaration and this Somathat is effused; the sacrifice that you accept is the showerer (of benefits),such also is your invocation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Vṛṣā**: isreiterated in the following ṛcas; vṛṣā yam **indra** te **ratha** uto te **vṛṣaṇa** **havi** = kāmānām varṣitā
 </details>

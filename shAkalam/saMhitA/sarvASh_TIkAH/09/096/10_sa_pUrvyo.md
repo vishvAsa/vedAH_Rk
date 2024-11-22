@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jā́yamānaḥ ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -169,7 +172,8 @@ vidát ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ancient (**Soma**) the finder of treasure as soon as genitive rated, cleansed in the waters milked on the stone, the defender against enemies, the sovereign of the world, purified for the sacrifice, shows (the worshipper) the right way.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágachat ← √gam- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -183,7 +186,8 @@ sadyás ← sadyás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The most sage (**Indra**), desirous of the friendship of the (**aṅgirasas**), went to the cave, and the mountain yielded its contents to the valiant (deity), aided by the youthful **Maruts**, equally wishing (to conciliate the sages); the destroyer (of the **asuras**) recovered (the cattle), and immediately aṅgirasas became his worshipper.”
 </details>

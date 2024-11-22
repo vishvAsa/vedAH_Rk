@@ -22,14 +22,17 @@ ChandaH = "निचृत्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 códaḥ ← códa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -118,7 +121,8 @@ putrakr̥thé ← putrakr̥thá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The goad is (applied) to their flanks; the drivers force them to spread their thighs apart, like women in bringing forth children.”
 </details>

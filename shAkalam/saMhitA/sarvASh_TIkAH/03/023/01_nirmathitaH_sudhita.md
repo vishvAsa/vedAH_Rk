@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -173,7 +176,8 @@ jātávedāḥ ← jātávedas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Churned (by the friction of the sticks), duly plural ced in the sacrificial chamber, the young and sage leader of the rite, **Jātavedas**, the imperishable **Agni**, (blazing) amidst consuming forests, grants us on this occasion ambrosial (food).”
 </details>

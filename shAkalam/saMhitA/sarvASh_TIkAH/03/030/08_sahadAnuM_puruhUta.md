@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kṣiyántam ← √kṣi- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
 
@@ -175,11 +178,13 @@ tavásā ← tavás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, who is invoked by many, grind to dust the reviling malevolent **Vṛtra** opposing you, dwelling with the mother of the **Dānavas**, and increasing in might, until having deprived him of **hand** and foot, you have destroyed him by your strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 18.69; having deprived him of hand: sahadānum kṣiyantam sampiṇak kuṇārum: the allegory is the destruction of the cloud; or, it may mean, united with the dānavas;
 

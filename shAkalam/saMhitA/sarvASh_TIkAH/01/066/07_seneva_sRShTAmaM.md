@@ -21,13 +21,16 @@ ChandaH = "द्विपदा विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
 genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
-#### Morph
+_________
+**Morph**  
 ámam ← áma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -115,11 +118,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “\[7-8\] He terrifies (his adversaries) like an army sent (against an enemy), or like the bright-pointed shaft of an archer. **Agni**, as **Yama**, is all that is born; as Yama, all that will be born; he is the lover of maidens, the husband of wives.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yamo ha jāto, yamo janitvam: yama is interpreted as: yacchati dadāti kāmān stotṛbhyaḥ, he who gives the desired object to the worshippers; so, Yama becomes a synonym of Agni: yam agnir ucyate; or, Agni becomes one of the twins (yama), by the simultaneous birth of **Indra** and Agni (according to **Yāska**);
 

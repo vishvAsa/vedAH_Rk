@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káḥ ← ká- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ vaṣṭi ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who has reverenced with (suitable) words the (deity) worthy of the libation? who is devoted (to him)? who supports the cattle (given by him)? who desires the society of **Indra**? who his friendship? who his fraternity? who (has recourse) to the sage Indra for protection?”
 </details>

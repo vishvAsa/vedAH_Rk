@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -157,7 +160,8 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Effused by the effusers **Soma** is poured out upon the elevated fleeces; and proceeds with its green-tinted stream, as on a mare, proceeds with its exhilarating streams.”
 </details>

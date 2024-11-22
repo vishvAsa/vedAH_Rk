@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hárī ← hári- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -123,7 +126,8 @@ sadyás ← sadyás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “But immediately accepted those two excellent and well-trained horses from the prince, the son of **Sahadeva**.”
 </details>

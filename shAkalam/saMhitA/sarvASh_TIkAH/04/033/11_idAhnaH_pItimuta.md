@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhnaḥ ← áhar ~ áhan- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -203,11 +206,13 @@ tr̥tī́ye ← tr̥tī́ya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The gods verily have given you the beverage at the (third sacrifice of the) day, and its exhilarqation, not through regard, but (as the gift of one) wearied out (by penance); **Ṛbhus**, who are so (eminent), grant us, verily, wealth at this third (diurnal) sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Wearied out by penance: ṛte śrāntasya sakhyāya = na sakhitvāya **bhavanti** **devāḥ**, the gods are not through friendship, śrāntāt tapo yuktāt ṛte except one wearied by penance; ete **śrānta** ato saduḥ, they, wearied out, therefore gave
 </details>

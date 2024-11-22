@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 svarā́jaḥ ← svarā́j- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -166,7 +169,8 @@ mahatáḥ ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vast are the energies of you, **Indra**, the warrior, (the showerer of benefits), the lord of wealth, the fierce; who is (both) young and old; the overcomer of foes, the undecaying, the wielder of the thunderbolt, and who is mighty and renowned.”
 </details>
@@ -179,7 +183,8 @@ of the unaging bearer of the mace—great are the manly deeds of you, o  Indra, 
 
 <details><summary>Jamison Brereton Notes</summary>
 
-This vs. is cunningly constructed, in that until the very last word of the third pāda it consists entirely of genitives with nothing to depend on; neut. pl. vīryā̀ṇi at the end of c breaks this string and provides the necessary grammatical support -- joined by the matching adj. mahā́ni at the very end of the vs. ### 03
+This vs. is cunningly constructed, in that until the very last word of the third pāda it consists entirely of genitives with nothing to depend on; neut. pl. vīryā̀ṇi at the end of c breaks this string and provides the necessary grammatical support -- joined by the matching adj. mahā́ni at the very end of the vs. _________
+**03**  
 All four pādas begin with prá; the verb of a, ririce, should be supplied with the other three pādas.
 
 Note the phonological plays in a: prá (mā)trā(bhī) and ririce roca(mānaḥ).

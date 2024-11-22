@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámandat ← √mand- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -197,7 +200,8 @@ tanvè ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maruts**, on this occasion praise delights me; that prise which is to be heard (by all), which men have offered me. To **Indra**, the showerer (of benefits), the object of pious sacrifice; to me, (endowed) with many forms (do you) my friends (offer sacrifices) for (the nourishment of my) person n.”
 </details>

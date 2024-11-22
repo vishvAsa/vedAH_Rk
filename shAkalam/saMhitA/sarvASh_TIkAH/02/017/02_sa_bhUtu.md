@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūtu ← √bhū- (root)  
 {number:SG, person:3, mood:IMP, tense:AOR, voice:ACT}
 
@@ -203,7 +206,8 @@ práti ← práti (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that (**Indra**) be (excited), who, manifesting his energy, exerted his might for the first drinking of the **Soma**; a hero, who in combats protected his own person n and by his greatness sustained the heaven upon his head.”
 </details>

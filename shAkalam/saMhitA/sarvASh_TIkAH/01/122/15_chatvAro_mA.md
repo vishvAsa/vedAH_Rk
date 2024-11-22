@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 catvā́raḥ ← catúr- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -167,11 +170,13 @@ syū́magabhastiḥ ← syū́magabhasti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The four (silly) sons of Maśar'**śāra**, the three of the victorious monarch **Āyavasa** (annoy) me. Let your spacious and bright-rayed chariot, **Mitra** and **Varuṇa**, blaze (before them) like the sun (filling them with fear).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śiśvaḥ = śiśavaḥ, infant, i.e. infantile, childish
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áceti ← √cit- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -186,7 +189,8 @@ yám ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The affluent daughter of heaven is perceived; all creatures behold the luminous dawn; she ascends herchariot laden with sustenance, which her easily- yoked horses draw.”
 </details>

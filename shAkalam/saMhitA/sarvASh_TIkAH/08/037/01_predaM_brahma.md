@@ -24,10 +24,12 @@ ChandaH = "अतिजगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
@@ -35,7 +37,8 @@ genre M;; line affected by realignment;; repeated line
 genre M;; line affected by realignment  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment
-#### Morph
+_________
+**Morph**  
 āvitha ← √avⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
 
@@ -182,11 +185,13 @@ vajrivaḥ ← vajrivant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You protect, **Indra**, lord of rites, with all protections in combats with enemies, this sacrifice of him whooffers you the libations; slayer of **Vṛtra**, irreproachable wielder of the thunderbolt drink of the **Soma** at themid-day solemnity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who offers you the libation: **brahma** = brāhmaṇan; O Indra, protect these **brāhmaṇas** withall your protections in combats with enemies, (protect) those who offer you the libation
 </details>

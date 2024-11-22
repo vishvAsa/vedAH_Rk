@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 ānr̥cúḥ ← √r̥c- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
 
@@ -125,11 +128,13 @@ marúdbhiḥ ← marút- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who are fierce, and send down rain (**arka**, from arc to worship; āpo vā **arkaḥ** (**Śatapatha Brāhmaṇa** 10.6.5.2); hence, arka connotes water or rain), and are unsurpassed in strength; come, **Agni** with the **Maruts**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 So arcannacarat tasyārcataḥ āpo ajāyanta: **Hiraṇyagarbha** proceeded, worshipping, (after creating the solid earth), and from him worshipping the waters were produced (**Śatapatha** **Brāhmaṇa** 10.6.5.1)
 </details>

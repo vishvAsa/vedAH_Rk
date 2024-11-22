@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ahám ← ahám (pronoun)  
 {case:NOM, number:SG}
 
@@ -125,11 +128,13 @@ mr̥kṣā́ ← √mr̥j- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Summoned before Śrutarvān, the son of **Ṛkṣa**, the humbler of the pride of his enemies, (I stroke) withmy **hand** the heads of the four horses (which he has given me), as (men stroke) the long **wool** of rams.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With myhand: **vṛkṣā** = keśavantī; or, mṛkṣā, let me stroke
 </details>

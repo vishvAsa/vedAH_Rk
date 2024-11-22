@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhíśastaye ← abhíśasti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
 
@@ -182,11 +185,13 @@ syā́t ← √as- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I not be accusative ed, **Vasu**, of calumniating you, nor, gracious (**Agni**), of sinfulness (against you); letnot (the priest) the reciter of my praises be dull of intellect or ill-disposed; (may he not err), Agni, throughwickedness.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 May I not be accusative ed: or, let me not abuse you by calumny or wickedness, na tvā rāsīyabhiśastaye na pāpatvāya
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāmíḥ ← jāmí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -136,7 +139,8 @@ kásmin ← ká- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who, **Agni**, is your kinsman amongst people? Who is worthy to offer you sacrifice? Who, indeed, are you and where do you abide?”
 </details>

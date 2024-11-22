@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 ásaścatam ← √sac- 1 (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
 
@@ -191,7 +194,8 @@ u ← u (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With those aids by which you caused the sweet stream to flow, by which you, who are exempt from decay, gratified **Vāsiṣṭha**, and by which you protected (ṛṣis:) **Kutsa**, **Śrutarya**, and **Narya**; with them, **Aśvins**, come willingly hitheṛ”
 </details>

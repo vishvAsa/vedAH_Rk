@@ -23,15 +23,18 @@ ChandaH = "पुरस्ताज्ज्योतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -199,7 +202,8 @@ yúvā ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Sūrya**, lord of seven steeds, arrive, for he has a distant goal (to reach) by a tedious route; fleet as a hawk he pounces upon the offered (sacrificial) food; ever young and far-seeing, he shines, moving amidst rays of light.”
 </details>

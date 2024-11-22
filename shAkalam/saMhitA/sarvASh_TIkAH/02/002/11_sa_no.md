@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bodhi ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
 
@@ -200,7 +203,8 @@ toké ← toká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Vigorous **Agni**, hear (our prayers); for you are he who is to be lauded; to whom the well-born priests address (their hymns); and whom, entitled to worship, and radiant in thine own abode, the offerers of the oblation approach, for the sake of never-failing posterity.”
 </details>

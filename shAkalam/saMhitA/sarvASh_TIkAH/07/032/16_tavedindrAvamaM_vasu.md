@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avamám ← avamá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -168,11 +171,13 @@ vr̥ṇvate ← √vr̥- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Yours, **Indra**, is the vast valuable wealth; you cherish the middling; you rule over all that which is themost precious; no one opposes you in (the recovering of the) cattle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Na kis' tva **goṣu** vriṇvate = goṣu nimitteṣuke api tvām na vārayanti, none resist or oppose you on account of the cows
 </details>

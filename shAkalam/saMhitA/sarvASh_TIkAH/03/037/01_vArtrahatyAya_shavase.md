@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śávase ← śávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -101,7 +104,8 @@ vartayāmasi ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We excite you, **Indra**, to exert the strength that destroys **Vṛtra**, and overpowers hostile armies.”
 </details>

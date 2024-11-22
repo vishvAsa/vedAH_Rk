@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; 12 = 5+7, ending LHX  
 genre D;; 12 = 5+7, ending LHX  
 genre D;; 12 = 5+7, ending LHX  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 agníḥ ← agní- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -219,7 +222,8 @@ táva ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni** is ever vigilant, and him holy verses desire; Agni is ever vigilant, and to him sacred songs proceed; Agni is ever vigilant, and him the **Soma** addresses, I am ever abiding in your fellowship.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ástam ← ásta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -233,11 +236,13 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A man's wife, **Maghavan**, is hiw dwelling; verily she is his plural ce of birth; thither let your horses, harnessed (to your car), convey you; we prepare the **Soma** at the fit season; may **Agni** come as our messenger befor eyou.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His plural ce of birth: **jāyā** id astam sedu **yoniḥ**: astam = gṛham (gṛhiṇī gṛham ucyate iti smṛteḥ; na gṛham gṛhamisyāhurgṛhi.ṇo gṛhamucyate)
 </details>

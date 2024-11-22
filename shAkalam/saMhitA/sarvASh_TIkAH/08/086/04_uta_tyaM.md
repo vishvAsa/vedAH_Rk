@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhanasā́m ← dhanasā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -207,11 +210,13 @@ yauṣṭam ← √yu- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We summon that hero to our protection, (the enjoyer) of wealth, the possessor of the **Soma**, who nowdwells afar off and whose hymn is most plural asing (to the gods) like his father's, sever not our friendships, but flingloose (your reins and gallop here).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 We summon that hero: the ṛṣi here prays for the presence of his absent sonViṣṇāpu; it is for the son to protect the father; possessor of the Soma: ṛjīṣin is an epither of **Indra**, possessorof the stale Soma, ṛjīs. a (RV 3.32.1; 36.10); in RV 1.32.6, ṛjīṣa is applied to Indra, as enemy-repelling
 </details>

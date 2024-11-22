@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ha ← ha (invariable)  
 {}
 
@@ -208,11 +211,13 @@ patáyadbhiḥ ← √pat- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “In like manner, **Aśvins**, as your strong-drawn (car), able to cross (the sea), was plural ced,harnessed, in the middle of the water, for (the rescue of) the son of **Tugra**, so may I attain to your preserving protection (with the same alacrity) as a victorious hero (returns home) with bounding steeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tugra: the text has arṇaso madhye = in the midst of the water
 </details>

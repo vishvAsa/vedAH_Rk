@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámavatī ← ámavant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -181,11 +184,13 @@ pr̥thujráyī ← pr̥thujráya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like your possession of treasure, **Maruts**, is your liberality; ministerial (of **Indra**'s bounty), heaven-bestowing, brilliant, fruitful, favourable to the husbandman, propitious; it is like the donation of a wealthy (donor), prompt (of distribution), and like the all-subduing force of the **asuras**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the all-subduing force: asuryeva jañjatī = asurasya sarvābhibhavantī **śakti**: as the asuras take from one to give to another, so the winds plural nder the clouds to enrich the earth
 </details>

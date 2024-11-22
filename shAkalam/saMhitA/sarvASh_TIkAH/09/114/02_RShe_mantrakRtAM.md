@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525)  
 popular;; epic anuṣṭubh (525);; repeated line
-#### Morph
+_________
+**Morph**  
 mantrakŕ̥tām ← mantrakŕ̥t- (nominal stem)  
 {case:GEN, gender:M, number:PL}
 
@@ -184,7 +187,8 @@ srava ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Ṛṣi **Kaśyapa**, raising your voice with the praises of the hymn-makers, adore the royal **Soma** who is born the lord of the growing (vīrūdhām); flow, **Indu**, for **Indra**.”
 </details>

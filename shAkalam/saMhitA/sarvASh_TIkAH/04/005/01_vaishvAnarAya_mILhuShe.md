@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mīḷhúṣe ← mīḍhváṁs- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ upamít ← upamít- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “How may we present rejoicing (fit offering) to **Agni** the showerer (of benefits); to **Vaiśvānara**, he, who, bright with great lustre, sustains the heaven, with his entire vast and insupportable (bulk), as a pillar (sustains a roof).”
 </details>

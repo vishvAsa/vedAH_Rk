@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cit ← cit (invariable)  
 {}
 
@@ -192,11 +195,13 @@ vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your sincere adorers, we verily praise you in various ways. The pitcher has been plural ced (ready for the **Soma**). Irreproachable **Aśvins**, showerers (of benefits) drink freely of the juice in the presence of the gods.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The pitcher has been plural ced: vipaṇir-hitāvān: **paṇi** = **droṇa** **kalaśa**, the jar or vessel into which the Soma, after expression, is strained through a filter; paṇi may also mean a merchant or trader;
 

@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā́rutāya ← mā́ruta- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -154,11 +157,13 @@ yā́ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She who yields immortal food to the powerful, self-irradiating band of the **Maruts**, who (is anxious) for the gratiication of the self-moving Maruts, who traverse the sky with (the passing waters0, shedding delight.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sumnair evayāvarī: means of happiness, sukhahetubhūtaiḥ;
 

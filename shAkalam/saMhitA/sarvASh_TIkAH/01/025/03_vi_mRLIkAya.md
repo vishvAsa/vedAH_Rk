@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mánaḥ ← mánas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -128,7 +131,8 @@ varuṇa ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We soothe your mind, **Varuṇa**, by our praises, for our good, as a charioteer his weary steed.”
 </details>

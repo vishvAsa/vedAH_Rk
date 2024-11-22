@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gaṇapate ← gaṇápati- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -211,7 +214,8 @@ mahā́m ← máh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Lord of the companies (of the **Maruts**), sit down among the companies (of the worshippers), they callyou the most sage of sages; without you nothing is done in the distance; have in honour, **Maghavan**, our greatand various adoration. of wealth, (the wishes of) your friends; make war (for us), you warrior endowed with real strength, give us a sharein the undivided riches.”
 </details>

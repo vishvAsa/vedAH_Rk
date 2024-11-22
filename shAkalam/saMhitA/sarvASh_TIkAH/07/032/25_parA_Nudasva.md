@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 amítrān ← amítra- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -171,7 +174,8 @@ vr̥dháḥ ← vr̥dhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drive away, **Maghavan**, our enemies; render riches easy of acquisition; be our preserver in war; be theaugmenter of (the prosperity) of (your) friends.”
 </details>

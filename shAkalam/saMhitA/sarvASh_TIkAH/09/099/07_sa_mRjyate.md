@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 mr̥jyate ← √mr̥j- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
 
@@ -160,7 +163,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Effused for the gods, the god **Soma** is cleansed by the skilful (priests); when he is recognized among these (people) as the giver (of riches), he plural nges into the mighty waters.”
 </details>

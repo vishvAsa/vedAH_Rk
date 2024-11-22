@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 evá ← evá (invariable)  
 {}
 
@@ -202,11 +205,13 @@ tvāyatáḥ ← √tvāy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You dwell with your glories like a **rājā** with his wives; **Maghavan**, who are wise and experienced,(reward our) praises with the precious metals, with cows, with horses; conduct us who are dependent on yourriches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 With the precious metals: piśā, silver or gold, and the like; rūpeṇa hiraṇyādinā vā; **rūpa** mayalso mean beauty
 </details>

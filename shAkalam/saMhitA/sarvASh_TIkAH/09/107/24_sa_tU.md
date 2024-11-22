@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pári ← pári (invariable)  
 {}
 
@@ -176,7 +179,8 @@ hinvanti ← √hi- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Flow quickly, **Soma**, with your supports, to the terrestrial and celestial worlds; the sages express you radiant, O observer of all, with praises and with their fingers.”
 </details>

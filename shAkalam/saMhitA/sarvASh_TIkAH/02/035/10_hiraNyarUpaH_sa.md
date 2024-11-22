@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 híraṇyarūpaḥ ← híraṇyarūpa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -199,7 +202,8 @@ hiraṇyadā́ḥ ← hiraṇyadā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The grandson of the waters is of olden form, of golden aspect, of golden hue, and (shines) seated upon a seat of gold; the givers of gold (at solemn rites) present to him (sacrificial) food.”
 </details>

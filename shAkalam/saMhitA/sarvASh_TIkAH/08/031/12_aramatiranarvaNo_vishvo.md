@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anarváṇaḥ ← anarváṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -106,11 +109,13 @@ aneháḥ ← anehás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All men with (devout) minds are the unwearied (praisers) of the irresistible deity (**Pūṣan**), verily the(most) sinless of the **Ādityas**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Unwearied praisers: aramatiḥ = **alam** **matiḥ**, paryāpta **stutiḥ**; sinless of theĀdityas: verily (the gifts) of the Ādityas are void of evil, therefore we praise Pūṣan for the attainment offooḍ..
 </details>

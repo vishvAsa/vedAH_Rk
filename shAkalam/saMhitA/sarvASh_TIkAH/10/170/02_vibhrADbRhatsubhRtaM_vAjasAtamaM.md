@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 br̥hát ← br̥hánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -203,7 +206,8 @@ These observations together suggest that the sUktaM RV 10.170 comprised a “pro
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The radiant light is born mighty, well-cherished, the abundant bestower of food, eternal, deposited inthe supporting sustainer of the sky, the slayer of adversaries, the slayer of the **Vṛtras**, abundantly slaying theDasyus, the slayer of the **Asuras**, the slayer of rivals.”
 </details>

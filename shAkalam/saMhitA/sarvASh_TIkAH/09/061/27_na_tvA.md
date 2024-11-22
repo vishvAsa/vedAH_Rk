@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 caná ← caná (invariable)  
 {}
 
@@ -130,11 +133,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “A hundred foes harm you not, purposing to give wealth when being purified you are benevolently inclined.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Purposing to give wealth: makhasyase = asmabhyām dhanam dātum icchasi; cf. RV 9.020.07, where **makhaḥ** = **dānam**; RV. 9.064.026, where makhasyuvam = dhanakāmam; RV. 9. 101.5, makhasyate = stutibhiḥ pūjām icchati; thus makhaḥ = yajñam or dhanam or dānam; from magh = great
 </details>

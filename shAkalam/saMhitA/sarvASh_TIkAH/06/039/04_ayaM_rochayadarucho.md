@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arúcaḥ ← arúc- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -168,7 +171,8 @@ svarvídā ← svarvíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This radiant (**Indra**) has illumined the non-radiant (worlds); he has pervaded many dawns with true lustre the benefactor of men moves in (a chariot) drawn by horses, harnessed by praise, laden with riches.”
 </details>

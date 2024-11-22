@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asuryā̀ ← asuryà- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -183,11 +186,13 @@ tveṣápratīkā ← tveṣápratīka- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Rodasī**, the associate of the scatterers (of the clouds), with dishevelled tresses, and mind devoted to her lords, woos them to associate (with her); radiant in form, she has ascended the car of the restless (**Maruts**) as **Sūrya** (ascended the car of the **Aśvins**), and comes hither (with the celerity) of the sun.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Rodasī = heaven and earth; here, it signifies the lightning; or the bride of the Maruts, marutpatnī vidyud vā;
 
@@ -210,7 +215,8 @@ The bahuvrīhi nṛmáṇas- usually means ‘manly minded’ and so it is inter
 
 here by most (Geldner [/Hoffmann/Witzel Gotō] ‘mannhaftgesinnt’; Renou ‘l’âme virile’). But though she does display a fair amount of gumption, I find this an odd characterization of the very feminine Rodasī. In this context I take it rather as ‘having her mind on (the) men’ (that is, the Maruts, who are regularly called nṛ́-). See vṛ́ṣamaṇas- in 7c.
 
-Pāda c presents the crucial moment in the RV svayaṃvara, the bride’s mounting the chariot of the groom (see Jamison 2001, Fs. Parpola). On a possible preterital tr. of ā́… gāt see comm. on the next vs. ### 06
+Pāda c presents the crucial moment in the RV svayaṃvara, the bride’s mounting the chariot of the groom (see Jamison 2001, Fs. Parpola). On a possible preterital tr. of ā́… gāt see comm. on the next vs. _________
+**06**  
 The decisive moment of mounting is repeated immediately in this verse, in the causative ā́sthāpayanta. The -anta form can be simply an -anta replacement of act. -an of the usual type (Jamison 1979), but it might also be semantically justified: “They cause(d) her to mount (their own chariot).” As Hoffmann points out, ā́sthāpayanta need not be read as impf. ā́ asthāpayanta with the Pp., but can be an injunctive ā́sthāpayanta. The published translation has preterital “caused … to mount.,” and I still think that is correct, though a general present could provide an easy transition to the here-and-now of the ritual found in cd.
 
 My reason for preferring the preterital reading has to do with my view of the structure of the middle section of the hymn: vss. 3-6ab treat the mythological relationship between Rodasī and the Maruts, while 6cd-7 bring Rodasī and the Maruts into the ritual present. I see vidátheṣu in 6b as the pivot: on the one hand it echoes vidathyā̀in 3d and provides ring-compositional closure to the mythological section of the hymn; on the other hand it looks forward to the ritual present 6cd.

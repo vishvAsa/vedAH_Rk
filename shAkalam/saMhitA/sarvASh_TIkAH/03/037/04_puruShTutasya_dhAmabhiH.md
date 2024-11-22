@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dhā́mabhiḥ ← dhā́man- (nominal stem)  
 {case:INS, gender:N, number:PL}
 
@@ -96,7 +99,8 @@ carṣaṇīdhŕ̥taḥ ← carṣaṇīdhŕ̥t- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We repeat the praise of the many-lauded **Indra** the supporter of man, invested with a hundred glories.”
 </details>

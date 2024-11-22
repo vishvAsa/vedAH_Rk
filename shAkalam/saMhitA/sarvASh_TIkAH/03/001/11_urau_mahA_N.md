@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anibādhé ← anibādhá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -184,7 +187,8 @@ svásr̥̄ṇām ← svásar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great **Agni** increases on the broad unbounded (firmament), for the waters supply abundant nutriment, and plural cid, he sleeps in the birth-plural ce of the waters for the service of the sister streams.”
 </details>

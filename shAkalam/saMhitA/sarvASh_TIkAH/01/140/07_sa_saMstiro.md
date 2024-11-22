@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥bhāyati ← √gr̥bhⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -216,7 +219,8 @@ várpaḥ ← várpas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Now hidden, now displayed, he seizes (on the fuel), as if understanding (the purpose of the worshipper), and even reposes amidst the conscious (flames); again they break forth, and repair to the divine (fire of sacrifice), blending with which they give a different (luminous)form to their parents, (heaven and earth).”
 </details>

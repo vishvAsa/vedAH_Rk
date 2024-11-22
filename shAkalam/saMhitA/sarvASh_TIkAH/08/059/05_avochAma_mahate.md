@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; line affected by realignment;; Vālakhilya  
 genre D;; line affected by realignment;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ávocāma ← √vac- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -167,11 +170,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To our great happiness we hae declared to these two brilliant ones the true might of **Indra**; O indra andVaruṇa, lords of splendour, help us, the offerers of ghī, with the company of thrice seven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. use of the samephrase in: RV. 1.133.6: O irresistible one, you destroy not men with the warriors, with the thrice seven warriors
 </details>

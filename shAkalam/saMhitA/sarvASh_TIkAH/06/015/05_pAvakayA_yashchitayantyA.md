@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citáyantyā ← √cit- (root)  
 {case:INS, gender:F, number:SG, tense:PRS, voice:ACT}
 
@@ -197,11 +200,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Propitiate him) who shines upon the earth with purifying and enlightening lustre, as the dawns with ligt; him, who like (a warrior) discomfiting (his foes) quickly blazed forth in the contest in defence of **etaśa**; him, who is satiated (with food), exempt from decay.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In defence of etaśa;
 

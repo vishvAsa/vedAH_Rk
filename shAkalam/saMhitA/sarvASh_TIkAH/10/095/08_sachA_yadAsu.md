@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 āsu ← ayám (pronoun)  
 {case:LOC, gender:F, number:PL}
 
@@ -191,7 +194,8 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Purūravā**). When, becoming their companion, (Purūravā) the mortal associated with theseimmortal (nymphs) who had abandoned their bodies, they fled from me like a timid doe, like horses harnessed toa chariot.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dabhī́teḥ ← dabhī́ti- (nominal stem)  
 {case:ABL, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ tā́ ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Encountering the (**asuras**), carrying off **Dabhiti**, he burnt all their weapons in a kindled fire, and enriched (the prince) with their cattle, their horses and their chariots; in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The legend: asuras had besieged and taken the city of a royal sage, named **Dabhīti**; on their retreat, they were intercepted and defeated by Indra, who recovered the booty, and restored it to the prince
 </details>

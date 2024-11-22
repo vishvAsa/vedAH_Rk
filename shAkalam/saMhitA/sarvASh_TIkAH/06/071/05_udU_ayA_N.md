@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayān ← √yam- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -175,11 +178,13 @@ patáyat ← √pat- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Savitā** put forth like an orator his golden well-formed arms; (he who), from the ends of the earth, ascends to the summit of the sky, and, moving along, delights every thing that is.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like an orator: upavaktā iva, like one who addresses or advises
 </details>

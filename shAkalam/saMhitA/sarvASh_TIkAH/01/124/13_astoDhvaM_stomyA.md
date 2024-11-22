@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ástoḍhvam ← √stu- (root)  
 {number:PL, person:2, mood:IND, tense:AOR, voice:MED}
 
@@ -165,7 +168,8 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Praiseworthy Uṣās, be glorified by this (my hymn); graciously disposed towards us, augment (our prosperity); and may we obtain, goddesses, through your favour, wealth; a hundred and a thousand fold.”
 </details>

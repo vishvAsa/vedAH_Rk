@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -214,7 +217,8 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not the gods, **Agni**, now do us harm, nor the ancient progenitors, who have come to know the degree (of divinity); nor the manifester of light between the two ancient dwellings (earth and heaven, the sun); for great and unequalled is the might of the gods.”
 </details>

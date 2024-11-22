@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ tū́tujiḥ ← tū́tuji- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Since, **Indra**, by your guidance, you have conducted men, your zealous worshippers, over heaven andearth, you are born to (bestow) great wealth and strength, whence the presenter of offerings overcomes him whooffers them not.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Have conducted men: **nriti** na **rodasi** san ninetha: the verb is saṅgamayasi, you bring together;**divi** pṛthivyam ca stotrin pratiṣṭhāpayasi, you establish the worshippers in heaven and earth; the particle na, isignored
 </details>

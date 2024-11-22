@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 achāyáḥ ← achāyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -197,11 +200,13 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The great (sun), shadeless, undecaying, ever-moving, abides; the builder (of the world), who isliberated, the germ (of the **three worlds**), eats (the oblations), fondling the offspring of another (mother), heconstructs (the quarters of the world); with what design has the cow offered her udder?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Undecaying: apalāśaḥ= without a leaf, explained as vināśarahitaḥ, without decay; another mother: **Aditi**, the mother of the gods;**Āditya**, the sun, is her offspring; the cow: i.e., the sky, who offers the sun as her udder, whence the rain may bemilked
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayā́sam ← ayā́s- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -187,7 +190,8 @@ ukṣā́ ← ukṣán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(The worshippers) reach the lion-like (**Soma**) the dispenser of water, green-tinted, red, the protector of this heaven; a hero in battles, first (among the gods) he seeks the (stolen) cows; by his might the sprinkler (**Indra**) protects (the universe).”
 </details>

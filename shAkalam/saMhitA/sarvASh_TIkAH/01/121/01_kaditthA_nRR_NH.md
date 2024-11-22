@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devayatā́m ← √devay- (UNK_TYPE)  
 {case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
 
@@ -187,7 +190,8 @@ yájatraḥ ← yájatra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When willIndra, the protector of men and granter of riches, listen to the praises thus (recited) of the **Aṅgirasas**, who are devoted to the gods? When he perceives the ministers of the master of the mansion, and is to be the object of worship in the sacrifice, he greatly exults.”
 </details>

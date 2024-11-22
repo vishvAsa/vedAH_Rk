@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avamā́ ← avamá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -225,7 +228,8 @@ vā́jaiḥ ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful **Indra**, with these (your protections), whether the protection be little, great or middlin, defend us for the destruction of our foes; supply us, fierce Indra, who are mighty, with those viands (that are needed).”
 </details>

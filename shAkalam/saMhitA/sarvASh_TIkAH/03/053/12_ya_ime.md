@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 imé ← ayám (pronoun)  
 {case:NOM, gender:F, number:DU}
 
@@ -144,11 +147,13 @@ jánam ← jána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have made **Indra** glorified by these two, heaven and earth, and this prayer of **Viśvāmitra** protects the race of **Bharata**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Made Indra glorified: indram atuṣṭavam-- the verb is the third preterite of the casual, I have caused to be praised; it may mean: I praise Indra, abiding between heaven and earth, i.e. in the firmament
 </details>

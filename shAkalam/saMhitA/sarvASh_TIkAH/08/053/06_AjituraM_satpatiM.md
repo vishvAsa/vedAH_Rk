@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 ājitúram ← ājitúr- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -170,7 +173,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Make rich in children that chief of all me, who is victorious in battle and a strong protector; properthoroughly with your powers your singers who cintinually purify their minds.”
 </details>

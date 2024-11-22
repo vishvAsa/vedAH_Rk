@@ -22,15 +22,18 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; line affected by realignment  
 genre M;; line affected by realignment;; repeated line
-#### Morph
+_________
+**Morph**  
 girvaṇaḥ ← gírvaṇas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -122,7 +125,8 @@ vavákṣitha ← √vakṣ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Be plural ased, you who are gratified by praise, with this our eulogy swelling like the oceans, (induced bywhich), **Indra**, you ber us with all your proections (to our objects).”
 </details>

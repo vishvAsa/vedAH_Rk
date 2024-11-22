@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhreṣate ← √bhrī- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
 
@@ -214,7 +217,8 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who devotes his mind to the terrible **Indra** never falls (from his condition), nor will he perish; theprotector of sacred rites, the progeny of sacrifice, bestows riches on him who offers to Indra praises and prayerswith sacrifices.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavíḥ ← kaví- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,11 +204,13 @@ vayúnā ← vayúna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like a sage (knowing) what is hidden, and fulfilling sacred rites, so the showerer (of benefits), quaffing copiously the effused (libation), exults (in the draught), and he genitive rates the seven efficient (rays) from heaven, which, being glorified, have made (manifest) the objects of (human) perception by day.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The seven efficient rays: ajījanat sapta kārūn ahnā ciccakrur **vayunā** gṛṇantaḥ
 </details>

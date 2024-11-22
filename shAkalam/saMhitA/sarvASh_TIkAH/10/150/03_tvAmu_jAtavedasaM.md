@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātávedasam ← jātávedas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -171,7 +174,8 @@ priyávratān ← priyávrata- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify with my praise you, **Jātavedas**, desired by akll; bring hither, **Agni**, to us the gods who aregratified by offerings, (bring) those gratified by offerings for our felicity. invoke Agni for the acquisition of abundant wealth, (may he make me) happy for the acquisition of wealth.”
 </details>

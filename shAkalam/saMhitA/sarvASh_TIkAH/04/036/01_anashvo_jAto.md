@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anabhīśúḥ ← anabhīśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -212,7 +215,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The glorious three-wheeled car (of the **Aśvins** made, **Ṛbhus** by you) traverses the firmament without horses, without reins; great was that proclamation of your divine (power), by which, Ṛbhus, you cherish heaven and earth.”
 </details>

@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 punānáḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
 
@@ -129,7 +132,8 @@ vācáḥ ← vā́c- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Some being filtered flows in a stream through the woollen fleece, crying aloud when filtered in advance of the voice (of praise).”
 </details>

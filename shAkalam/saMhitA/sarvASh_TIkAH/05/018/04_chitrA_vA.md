@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 citrā́ ← citrá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -151,11 +154,13 @@ pári ← pári (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Among whom the ceremonial of many kinds is observed; who perpetuate the sacred hymns by their recital; by them the sacrificial viands are plural ced upon the strewn grass (at the sacrifice which) leads (the worshipper) to heaven.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Svar** nare, a synomym of yajñe svargam yajamānam nayati, it leads the **yajamāna** to heaven
 </details>

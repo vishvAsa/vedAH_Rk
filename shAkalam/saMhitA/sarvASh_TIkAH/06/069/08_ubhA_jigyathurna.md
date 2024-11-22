@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jayethe ← √ji- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -205,11 +208,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have both (ever) been victorious; never have been conquered; neither of you two has been vanquished; with whomsoever you have contended you have thrice conquered thousands.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tredhā sahasram vi tad airayethām vyakramethām: the treble manner of kinds mean: the world, the **vedas**, and speech; lokavedavāgātmanā **tridhā** sthitam, being in three ways, consisting of speech, the vedas, the world;
 

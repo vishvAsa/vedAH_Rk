@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iva ← iva (invariable)  
 {}
 
@@ -196,7 +199,8 @@ svayám ← svayám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your glories, **Agni**, like the lightnings of the rain-cloud are manifested many-tinted, like themanifestations of the dawn, when quitting the plural nts and the forests, you gather on all sides food for your mouth.”
 </details>

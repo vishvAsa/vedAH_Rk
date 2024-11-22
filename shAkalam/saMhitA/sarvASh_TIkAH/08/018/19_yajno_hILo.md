@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ántaraḥ ← ántara- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -144,7 +147,8 @@ yuṣmé ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The duly-presented sacrifice is ready for you, **Ādityas**; grant us, therefore, happiness; may we everabide in near relationship with you.”
 </details>

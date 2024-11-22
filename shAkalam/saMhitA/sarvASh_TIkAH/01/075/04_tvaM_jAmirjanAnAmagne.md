@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jāmíḥ ← jāmí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -124,7 +127,8 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Agni**, are the kinsman of people. You are the protector of sacrificers. You are extolled by priests, since you are the friend of all.”
 </details>

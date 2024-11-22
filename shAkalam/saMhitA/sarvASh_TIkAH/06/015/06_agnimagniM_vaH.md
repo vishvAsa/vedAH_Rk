@@ -24,16 +24,19 @@ ChandaH = "अतिशक्वरी"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním-agnim ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -240,7 +243,8 @@ vánate ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Worship repeatedly the adorable **Agni** with fuel (him) who is ever your dear friend, your guest; approach the immortal Agni with praises, for he, a god among gods, accepts our homage.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́gaḥ ← ā́gas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -228,7 +231,8 @@ vím ← ví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Alone among you, I have committed many offences, (which correct) as a father corrects a naughty (son); far from me, gods, bebonds; far from be sins; size not upon me (your) son as (a fowler) catches a bird.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 cakrám ← cakrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -194,11 +197,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The fellies are twelve; the wheel is one; three are the axles; but who knows it? within it are collected 360 (spokes), which are, as it were, moveable and immoveable.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The wheel is the year of twelve months; the three axles are the three doubble seasons, or hot, wet and cold; and the three hundred and sixty spokes are the days of the lunar-**solar year**; **stanaḥ** śaśayaḥ, **śayāna**, sleeping; dehe **vartamānaḥ**, abiding in the body
 </details>

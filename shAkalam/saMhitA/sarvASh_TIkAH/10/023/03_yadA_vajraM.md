@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átha ← átha (invariable)  
 {}
 
@@ -206,7 +209,8 @@ vā́jasya ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When he grasps his golden thunderbolt, then the opulent **Indra** ascends with his praisers, the chariotwhich his two bay horses draw, (Indra) the lord of long-celebrated and widely-renowned food.”
 </details>

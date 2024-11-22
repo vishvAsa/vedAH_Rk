@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 śacīpate ← śácīpáti- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -173,11 +176,13 @@ cárāmasi ← √carⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Indr, lord of rites, give us (our desire) with all your helping powers; hero, we worship you as happiness,the glorious, the obtainer of wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 All your helping powers: the **Maruts**
 </details>

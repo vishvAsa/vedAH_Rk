@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 amítraiḥ ← amítra- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -197,7 +200,8 @@ randháyasva ← √randh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sound (of your bolt) has been heard by the approaching foes; hurl upon them the consuming thunder-bolt, cut them up by the root, oppose; **Maghavan**, overcome, slay the **rākṣasas**, complete (the sacrifice).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arṣasi ← √arṣ- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -180,7 +183,8 @@ yáthā ← yáthā (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “As a bull (entering) the herd you rush to the receptacle, on the top of the waters, showering (benefits) crying aloud; you flow for **Indra**, most exhilarating so that we may be victorious in battle protected by you.”
 </details>

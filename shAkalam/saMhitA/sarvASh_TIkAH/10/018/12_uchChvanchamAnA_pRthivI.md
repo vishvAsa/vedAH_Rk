@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 pr̥thivī́ ← pr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -191,11 +194,13 @@ the house dripping with ghee; Through eternity may he be sheltered here!
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bring them back again, render them obedient; may **Indra** restor ethem; may **Agni** bring them near.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 MayIndra restore them: make them obedient to you
 </details>

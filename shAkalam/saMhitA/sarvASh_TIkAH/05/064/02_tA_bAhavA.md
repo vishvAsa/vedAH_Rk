@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bāhávā ← bāhú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -149,7 +152,8 @@ víśvāsu ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you two, with discriminating **hand**, bestow upon me, your worshipper, (what I desire); for the desirable felicity (that is given by you) spreads through all lands.”
 </details>

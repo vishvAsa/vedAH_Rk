@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bradhnásya ← bradhná- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -162,7 +165,8 @@ trís ← trís (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Indra**, and I ascend to our home, the world of the sun, then, having drunk the sweet (**Soma**), letus be united in the twenty-first sphere of the (universal) friend.”
 </details>

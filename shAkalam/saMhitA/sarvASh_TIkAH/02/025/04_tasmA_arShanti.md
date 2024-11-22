@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 arṣanti ← √arṣ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -196,7 +199,8 @@ yújam ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For him, the unobstructed rains of heaven descend; first among the devout, he acqires (wealth) in cattle; of irresistible vigour, he destroys his enemies by his strength, whom **Brahmaṇaspati** makes his associate.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cakr̥ma ← √kr̥- (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
 
@@ -192,7 +195,8 @@ taváse ← tavás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have performed, **Agni**, a successful sacrifice; may my praise magnify (you) as worshipping you with fuel and with reverence; (the gods) fromheaven desire the adoration of the pious, who are anxious to praise the adorable and mighty (Agni).”
 </details>

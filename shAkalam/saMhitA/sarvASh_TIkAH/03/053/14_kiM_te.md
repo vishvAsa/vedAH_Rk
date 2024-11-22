@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gā́vaḥ ← gáv- ~ gó- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -198,11 +201,13 @@ randhaya ← √randh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What do the cattle for you among the **Kīkaṭas**; they yield no milk to mix with the **Soma**, they need not the vessel (for the libation); bring them to us; (bring also) the wealth of the son of the usurer, and give us **Maghavan**, (the possessions) of the low branches (of the community).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The Kīkaṭas: (**Nirukta** 6.32) are people who do not perform worship, who are infidels, **nāstikas**; in countrie sinhabited by anāryas (kīkaṭā **nāma** deśonāryanivāsaḥ); na tapanti gharmāṇi: harmyam = a house;
 

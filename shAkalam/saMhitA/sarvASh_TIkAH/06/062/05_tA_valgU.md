@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dasrā́ ← dasrá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -173,7 +176,8 @@ gr̥ṇaté ← √gr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I worship with a new hymn those two quick-moving good-looking ancient (**Aśvins**), the achievers of many exploits, who are the givers of great felicity to him who prays to (them), or praises (them); the bestowers of wondrous gifts on him who adores (them).”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 gaṇáṁ-gaṇam ← gaṇá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -178,7 +181,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We solicit the might of the **Maruts**, the irradiation of **Agni** with solemn prayers in every assembly and company (of worshippers); those Maruts who ahve partly-coloured steeds, who are dispensers of unfailing wealth, firm (of purpose), and frequenters of sacrifices.”
 </details>

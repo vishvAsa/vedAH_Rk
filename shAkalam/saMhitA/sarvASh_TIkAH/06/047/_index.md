@@ -28,5 +28,6 @@ The last part of the hymn (vss. 26–31) is the strangest. It consists of three 
 
 <details><summary>Jamison Brereton Notes</summary>
 
-Indra ### 01-05 As indicated in the published introduction, the first 5 vss. of the hymn constitute a praise of soma, shading, towards the end, into simultaneous praise of Indra. It is formally unified: beginning with vs. 2, all but one (2cd) of the hemistichs begins with ayám, and vs. 1 contains four exx. of ayám as well (2 each in the 1st 2 pādas), though oddly positioned.
+Indra _________
+**01-05 As indicated in the published introduction, the first 5 vss. of the hymn constitute a praise of soma, shading, towards the end, into simultaneous praise of Indra. It is formally unified: beginning with vs. 2, all but one (2cd) of the hemistichs begins with ayám, and vs. 1 contains four exx. of ayám as well (2 each in the 1st 2 pādas), though oddly positioned.**  
 </details>

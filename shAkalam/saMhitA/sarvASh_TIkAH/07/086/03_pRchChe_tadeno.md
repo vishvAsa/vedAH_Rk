@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 didŕ̥kṣu ← didŕ̥kṣu- (nominal stem)  
 {case:ACC, gender:N, number:SG, mood:DES}
 
@@ -203,7 +206,8 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of beholding you, **Varuṇa**, I inquire what is my offence; I have gone to make inquiry of thewise; the sages verily have said the same thing to me: -- this Varuṇa is displeased with you.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 sī́rā ← sī́ra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -219,11 +222,13 @@ sr̥ṇyàḥ ← sr̥ṇī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Harness the plural ughs, fit on the yokes, now that the womb of earth is ready, sow the seed therein, andthrough our praise may there be abundant food; may (the grain) fall ripe towards the sickle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Through our praise:sow the seed with praise, with a prayer of the **Veda**;
 

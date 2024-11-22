@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āste ← √ās- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
 
@@ -186,11 +189,13 @@ pū́rvam ← pū́rva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Beholding mankind he sits in the midst of the sky, filling (with light) the heaven and earth and thefirmament; he illumines the all-pervading (quarters of space), the bright-pervading (intermediate points), and thehindmost, the foremost, and the hindmost mark.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Yajus**. 17.59: nṛcakṣā = **vimānaḥ**; the work is an allusion toa stone representing **Āditya** and its position with respect to the altar and the implements
 </details>

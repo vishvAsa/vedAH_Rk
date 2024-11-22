@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M
-#### Morph
+_________
+**Morph**  
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ tīrthé ← tīrthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Go, **Indra**, to the mighty rain-shedding leaders (of the clouds), and exert yourself in (thine) aerial dwelling; for their broad-footed steeds stand (firm), like the manly energies of an enemy in the field of battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like the manly energies: tīrthe **nāryaḥ** pauṃsyāni tasthuḥ: **ārya** = areḥ, śatroḥ, of an enemy;
 

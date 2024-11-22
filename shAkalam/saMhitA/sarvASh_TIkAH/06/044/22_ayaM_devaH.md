@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayám ← ayám (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -170,7 +173,8 @@ māyā́ḥ ← māyā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This divine **Soma**, with **Indra** for its ally, crushed, as soon as genitive rated, **Paṇi** by force; this Soma baffled the devices and the weapons of the malignant secreter of (the stolen) wealth, (the cattle).”
 </details>

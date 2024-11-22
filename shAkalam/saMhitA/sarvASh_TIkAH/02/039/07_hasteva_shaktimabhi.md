@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -198,11 +201,13 @@ svádhitim ← svádhiti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Like two **hands**, **Aśvins**, be ever investing us with vigour; like heaven and earth, bestow upon us rain; give sharpness to the praises that are addressed to you, as they whet an axe upon a grindstone.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kṣṇotreṇa iva svadhitim = asim tejanaśāṇavat tīkṣṇī kurutam, sharpen like a sword or knife upon a whetstone
 </details>

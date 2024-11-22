@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánīkam ← ánīka- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -191,11 +194,13 @@ viveda ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I recognize this adorable assemblage of the great (deities), which from of old the milk-shedding cow affects, shining above the region of water, (the firmament), in secret; swift gliding, swift moving.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Assemblage of the great (deities): mahāmanīkam, the solar orb identified with **Vaiśvānara**, sūryamaṇḍalam vaiśvānara
 </details>

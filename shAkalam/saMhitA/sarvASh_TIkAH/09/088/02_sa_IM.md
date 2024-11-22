@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ayoji ← √yuj- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -187,11 +190,13 @@ váne ← vána- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “It has been harnessed like a great wagon that bears heavy burdens in order to bring us many treasures; after this may all the races of men expecting our (attack) go to the desirable battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 After this: i.e., after harnessing of the wagon. **ūrdhvā** = asmād virodhād unmukhāni;
 

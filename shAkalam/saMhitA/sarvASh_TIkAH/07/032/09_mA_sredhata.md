@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dákṣata ← √dakṣ- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
 
@@ -168,11 +171,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offerers of the libation, do not hesitate; be active; sacrifice to the mighty benefactor for the sake ofriches; the assiduous worshipper conquers (his enemies), dwells in a habitation, and prospers; the gods favournot the imperfect rite.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Na devāsaḥ karatnave: karatnuḥ = **kutsita** **kriya**, bad or defective act of religion; men donot become gods by such means, **devā** na **bhavanti**
 </details>

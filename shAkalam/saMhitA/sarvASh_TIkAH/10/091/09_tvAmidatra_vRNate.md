@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -179,7 +182,8 @@ vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The performers of sacred rites, devoted to **Agni**, to you, select you as the ministrant priest at sacrificesin this world, when the devout worshippers bearing oblations and strewing the clipped sacred grass offer youfood.”
 </details>

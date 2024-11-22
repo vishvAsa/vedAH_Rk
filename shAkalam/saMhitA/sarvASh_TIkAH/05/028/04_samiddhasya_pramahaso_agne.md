@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prámahasaḥ ← prámahas- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I praise the glory, **Agni**, of you when kindled and blazing fiercely; you are the affluent showerer (of benefits), you are fitly lighted at sacrifices.”
 </details>

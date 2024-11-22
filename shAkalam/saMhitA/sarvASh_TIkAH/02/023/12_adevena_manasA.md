@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádevena ← ádeva- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -198,7 +201,8 @@ ní ← ní (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let not, **Bṛhaspati**, the murderous (weapon) of that man reach us, who, with unrighteous mind, seeks to harm us; who, fierce and arrogant, designs to kill (your) worshippers; may we baffle the wrath of the strong evil-doer\].”
 </details>

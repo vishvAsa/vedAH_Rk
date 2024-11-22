@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 apā́m ← áp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
 
@@ -131,11 +134,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have struck off, **Indra**, the head of **Namuci** with the foam of the waters, when you had subdued allyour enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Namuci: legend from **śalya** **parvan**, **Mahābhārata**: Indra after defeating the **asuras** wascaptured by Namuci. Namuci however, liberated him on the condition that he would not kill him with any weapon,dry or wet, nor by day or night. In evasion of his oath, Indra at twilight, or in a fog, decapitated Namuci with thefoam of water; cf. **Taittirīya** **Saṃhitā** 1.8.7
 </details>

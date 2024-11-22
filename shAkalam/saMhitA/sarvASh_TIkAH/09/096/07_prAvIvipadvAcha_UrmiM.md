@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avīvipat ← √vip- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -198,7 +201,8 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The purified **Soma** excites gratifying praises as a river (excites) the wave of sound; the showerer (of benefits) beholding the hidden (treasure) presides over these irresistible powers, knowing about the cattle.”
 </details>

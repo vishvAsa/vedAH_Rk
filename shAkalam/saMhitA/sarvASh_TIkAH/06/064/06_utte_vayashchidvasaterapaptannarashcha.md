@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 apaptan ← √pat- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -199,7 +202,8 @@ mártyāya ← mártya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At your dawning, divine Uṣas, the birds spring up from their nests, and men who have to gain their sustenance (arise); you, divine Uṣas, bring ample wealth to the mortal who is nigh you, the offerer of the oblation.”
 </details>

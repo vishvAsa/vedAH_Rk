@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avyáyā ← avyáya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -134,11 +137,13 @@ trī́ ← trí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Blending with the curds and milk the **Soma** rushes through the woollen fleece; the green-tinted Soma being purified takes up three stations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. the droṇakalaśa (wooden cask), **āhavanīya** (that into which the Soma may run), and pūtabhṛt (holding the filtered Soma)
 </details>

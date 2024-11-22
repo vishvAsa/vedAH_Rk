@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 eṣā́ ← eṣá (pronoun)  
 {case:NOM, gender:F, number:SG}
 
@@ -176,7 +179,8 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Uṣas, the object of the sincere praises of the worshipper, is glorified when dawning, by the Vasiṣṭhasbestowing upon us far-famed riches; do you (gods), ever cherish us with blessings.”
 </details>

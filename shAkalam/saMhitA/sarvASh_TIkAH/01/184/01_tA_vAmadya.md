@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adyá ← adyá (invariable)  
 {}
 
@@ -183,7 +186,8 @@ sudā́starāya ← sudā́stara- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you two, (**Aśvins**), today; the same two on any other day; when the morning dawns. **Nāsatyas**, grandsons of heaven, wherever you may be, the pious reciter (of the hymn) invokes you with praises on behalf of the liberal donor (of the offering).”
 </details>

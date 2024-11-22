@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 mádhumantam ← mádhumant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -120,11 +123,13 @@ vītáye ← vītí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Wise (**Agni**) who are **Tanūnapāt** (= devourer of clarified butter), present this day our well-favoured sacrifice to the gods for their food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Tanūnapāt, deourer of clarified butter (tanūnapa); alternatively, **tanu** = own substance, or fuel, i.e. consumer of its own substance;
 

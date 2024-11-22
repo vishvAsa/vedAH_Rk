@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -211,11 +214,13 @@ vr̥tratúram ← vr̥tratúr- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, son of strength, grant us (a son), the possessor of thousands, the owner of cultivated lands, the usbduer of foes, the riches that may overcome men in battles by strength, as the radiant (sun) overspreads the earth by his rays.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Grant us a son: the epithets seem to refer to a son, putram, who is metaphorically the riches of a family, and its defence againstt enemies, putrarūpam dhanam yo **śavasā** śatrūn ākramet
 </details>

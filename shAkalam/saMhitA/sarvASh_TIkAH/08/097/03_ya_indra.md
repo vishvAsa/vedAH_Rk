@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avratáḥ ← avratá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -174,11 +177,13 @@ tátas ← tátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let him, **Indra**, who sleeps away careless of the gods and offering no sacrifices-- let him lose hisprecious wealth by his own evil courses, and then do you stow him away in some hidden plural ce.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By his own evilcourses: by gambling etc.
 </details>

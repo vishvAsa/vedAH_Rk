@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jaṭháreṣu ← jaṭhára- (nominal stem)  
 {case:LOC, gender:N, number:PL}
 
@@ -180,7 +183,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The showerer (of benefits), genitive rated in (many) receptacles, flourishes, roaring in various (plural ces) like a lion; **Vaiśvānara**, the resplendent, the immortal, giving precious treasure to the donor (of the oblation).”
 </details>

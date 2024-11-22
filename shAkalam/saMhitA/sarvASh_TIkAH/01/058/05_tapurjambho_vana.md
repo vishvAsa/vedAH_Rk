@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -185,7 +188,8 @@ sthātúḥ ← sthātár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The flame-weaponed and breeze-excited **Agni**, assailing the unexhaled moisture (of the trees), with all his strength, in a volume of fire, rushes triumphant (against all things) in the forest, like a bull, and all, whether stationary or moveable, are afraid of him as he flies along.”
 </details>

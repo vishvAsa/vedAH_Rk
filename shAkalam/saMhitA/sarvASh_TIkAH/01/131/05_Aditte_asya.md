@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asyá ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -247,11 +250,13 @@ saniṣṇata ← √sanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thenceforth have your worshippers scattered (libations) for the augmentation of your vigour; that in your exhilaration, showerer, (of benefits), you may defend those who are solicitous (of your favour); that you may defend those who are desirous of (your) friendship; for them you have uttered a shout to encourage them in combats; from you they obtain many and many an enjoyment; anxious for food, they obtain it (from you).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Uttered a shout: cakartha kāram;
 

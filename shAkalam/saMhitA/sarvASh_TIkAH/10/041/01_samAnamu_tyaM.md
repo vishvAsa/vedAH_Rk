@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruhūtám ← puruhūtá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ vyùṣṭau ← vyùṣṭi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “At break of dawn, (**Aśvins**), we invoke with pious prayers your common chariot, praised of many,adorable three-wheeled, frequenting religious rites, traversing all space, suitable at sacrifices.”
 </details>

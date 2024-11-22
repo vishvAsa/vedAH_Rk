@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryā́ ← aryá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -212,7 +215,8 @@ yátra ← yátra (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They verily are mighty among the gods; they are rulers; they bestow upon us a numerous posterity;may we obtain from you, **Mitra** and **Varuṇa**, whether on earth or in heaven, and whereever the (passing) daysmay preserve us.”
 </details>

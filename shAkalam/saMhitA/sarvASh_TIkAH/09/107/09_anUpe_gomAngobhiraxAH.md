@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akṣār ← √kṣar- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -154,11 +157,13 @@ tośate ← √tuś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** combined with the produce of the kine flows with the kine into the pitcher, he flows with the milked kine; his enjoyable juices go (to the pitcher as waters) to the ocean, the exhilarating (Soma) is expressed for the exhilaration (of the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Into the pitcher: anupe = on the bank; or, in a watery low-lying plural ce, nimne deśe
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhuraṇyáthaḥ ← √bhuraṇy- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -168,11 +171,13 @@ hí ← hí (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Although, **Nāsatyās**, you cherish (all beings), though, divinities, you heal (all disease),, yet this youradorer does not obtain you by praises (only), you go to him who offers you oblations.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yet this your adorer:praise, to be efficacious, must be accompanied by offerings
 </details>
@@ -191,7 +196,8 @@ The sense relation between the yád clauses of ab and the main clause in c is no
 
 I am also a bit unclear on how pāda d fits with the rest. I think that it reinforces pāda c; that is, Vatsa keeps producing hymns because he knows that the Aśvins ultimately come to someone who offers them sacrifice (here represented by the havís- ‘oblation’). But it could instead mean that Vatsa is wasting his time, because the Aśvins go for the oblation, not the praise. This seems less likely, esp.
 
-since both praise and oblation are offered to the Aśvins in the next vs. ### 07
+since both praise and oblation are offered to the Aśvins in the next vs. _________
+**07**  
 This new tṛca opens as the hymn does (1a): ā́nūnám, followed by a form of aśvín-. The 2nd vs. of the tṛca (8) also opens with ā́nūnám.
 
 Geldner (also Lüders 362) supplies a form of ‘speech’ with vāmáyā, obviously as part of the seer’s ritual offering to the Aśvins. But vāmá- generally expresses the valuable thing that the ritualist receives from the god(s) in exchange for his ritual service, and I have taken it this way here, with (loosely) an instr. of price. I do not have an explanation for its fem. gender, however. There are no other occurrences of a fem. in

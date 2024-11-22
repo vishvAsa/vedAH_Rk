@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvyam ← áśvya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -140,7 +143,8 @@ vīrā́ya ← vīrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She, (Śaśiyasī), who has thrown her arms round the hero Taranta, who was eulogized by **Śyāvāśva**, has given me cattle comprising horses, and cows, and hundreds of sheep.”
 </details>

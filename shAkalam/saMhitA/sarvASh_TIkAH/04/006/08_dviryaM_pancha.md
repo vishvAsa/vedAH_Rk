@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvís ← dvís (invariable)  
 {}
 
@@ -179,11 +182,13 @@ tigmám ← tigmá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Agni**, whom the twice five sisters dwelling among men, the descendants of **Manu**, have engendered, like feminine les, (awaking) him at dawn, feeding on oblations, brilliant of goodly aspect, and shharp as an axe.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Twice five sisters: the fingers employed in producing fire by attrition
 </details>

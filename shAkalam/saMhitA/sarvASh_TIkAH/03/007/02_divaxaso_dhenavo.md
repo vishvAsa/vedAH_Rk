@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áśvāḥ ← áśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -184,11 +187,13 @@ vartaním ← vartaní- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sky-traversing steeds of the showerer (of benefits) are the kine (of **Agni**); as he attains the divine (rivers), bearers of sweet (water). One sacred soudn glorifies you (Agni), who are desirous of repose, pacifying your flames) in the abode of the water (the firmament).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The kind: dhenavaḥ; this is considered an adjective equivalent to prīṇayitryaḥ, propitiators, plural asers
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árvatīḥ ← árvatī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -209,7 +212,8 @@ sám ← sám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To him the (sacrificial) ladles are directed; to him (our) praises are addressed; he alone hears all my prayers; be is the instrumental gator of many, the transporter (across the world), the instrumental ument of sacrifice, the unintermitting preserver (of mankind), and (genitive le as) an infant; provided with the preparations (of sacrifice), he accepts libations.”
 </details>

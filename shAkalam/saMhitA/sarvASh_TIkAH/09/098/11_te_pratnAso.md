@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pratnā́saḥ ← pratná- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -137,7 +140,8 @@ tā́n ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Those ancient **Soma** juices flow into the filter at the dawn, driving away in the early morning the concealed and ignorant thieves.”
 </details>

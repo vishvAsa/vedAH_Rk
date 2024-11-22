@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árhanti ← √arh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -188,7 +191,8 @@ yúvānaḥ ← yúvan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Youthful (**Maruts**), approaching us with benevolent hearts, grant prosperity to those liberal men whoworship you, who zealously propitiate you, the showerers of rain, with oblations.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ámateḥ ← ámati- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -204,11 +207,13 @@ vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** be the remover of thirst and hunger, for he, Maghavat, is lord over precious riches; theseseven rivers of the powerful showerer, (Indra), flowing down a declivity, augment food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Remover of thirst andhunger: amati = ignorance; or, thirst taking away the understanidng; precious riches: vasvaḥ = riches whichcover us with clothes
 </details>

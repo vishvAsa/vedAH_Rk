@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávocāma ← √vac- (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -169,7 +172,8 @@ uruvyáñcam ← uruvyáñc- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have uttered aloud this encomiastic praise to the wise, holy, vigorous (**Agni**), the showerer (of benefits); **Gaviṣṭhira** offers with reverence (this) praise to Agni like the wide-sojourning (sun), effulgent in the sky.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánīkam ← ánīka- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -190,11 +193,13 @@ vapa ← √vap- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your sharp bow, the host of **Maruts**, and your thunderbolt who, **Indra**, has ever withstood? The asurasare weaponless and abandoned by the gods, drive them away by your discus, O Ṛjīṣin.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Cf. RV. 8.86.4
 </details>

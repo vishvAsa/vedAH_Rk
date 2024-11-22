@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 asrídhaḥ ← asrídh- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -109,11 +112,13 @@ váhnayaḥ ← váhni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the universal Gods, who are exempt from decay, omniscient, devoid of malice, and bearers of (riches), accept the sacrifice.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ehimāyāsaḥ: those who have obtained knowledge universally, sarvataḥ vyāptaprajñaḥ; or, the term may refer to a legend: **viśvedevas** addressed **Agni**, **Saucika**, who had gone into the water, saying ehi, come, mā yāsiḥ, do not go away; hence they got the appellation, ehimāyāsaḥ
 </details>

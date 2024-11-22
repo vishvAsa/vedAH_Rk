@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ādityāḥ ← ādityá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -184,11 +187,13 @@ vr̥jyām ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I be conscious, **Ādityas**, of this your protection, the cause of happiness (and security) in danger; **Aryaman**, **Mitra** and **Varuṇa**, may I, through your guidance, escape the sins which are like pitfalls (in my path).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Like pitfalls: śvabhreva, śvabhrāṇīva, gartavanti sthalānīva, like plural ces of land having holes or pits
 </details>

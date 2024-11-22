@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 puruvī́rasya ← puruvī́ra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -173,7 +176,8 @@ yújyāya ← yújya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Varuṇa**, chief guide (of men), may we abide in the felicity of you, who are endowed with great powers, and are glorified by many; divine sons of **Aditi**, unharmed (by foes), have compassion upon us through your benevolence.”
 </details>

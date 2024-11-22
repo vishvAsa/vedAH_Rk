@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āśata ← √naś- 1 (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:MED}
 
@@ -166,7 +169,8 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thunderer, neither gods nor mortals equal you by their acts; you surpass all beings by your might, thegods equal you not.”
 </details>

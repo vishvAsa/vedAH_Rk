@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adhvarásya ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -205,7 +208,8 @@ sada ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Great are you, **Agni**, the manifester of the solemnity without you the immortals do not rejoice; come inthe same chariot with all the gods; sit down here the chief, the ministrant priest.”
 </details>

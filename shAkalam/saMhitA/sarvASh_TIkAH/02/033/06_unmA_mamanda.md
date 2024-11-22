@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
 
@@ -166,7 +169,8 @@ vivāseyam ← √vanⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the showerer of benefits, the lord of the **Maruts**, gratify me his suppliant with invogorating food; may I, free from sin, so propitiate **Rudra**, that I may attain to his felicity, as a man, distressed by heat, (finds relief) in the shade.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 áhnaḥ ← áhar ~ áhan- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -215,11 +218,13 @@ vī́cyā ← vī́ci- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Yama** speaks). Who knows anything of this (his) first day (of existence)? Who has beheld it? Whohas here revealed it? The dwelling of **Mitra** and of **Varuṇa** is vast. What say you, who punishes men with hell?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Dwelling of Mitra and Varuṇa: the revolution of day and night; what say...hell: what say you, wanton one, falselyabout men? Who punishes: ahanaḥ is a **male**; therefore, **Yamī** is made the speaker of the last part of the verse
 </details>

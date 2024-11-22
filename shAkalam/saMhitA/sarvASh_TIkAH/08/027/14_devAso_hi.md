@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́saḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -194,7 +197,8 @@ varivovídaḥ ← varivovíd- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the universal gods with one consent be together the givers (of riches) to **Manu**; may they, bothtoday and hereafter, be the bestowers of wealth upon us and upon our posterity.”
 </details>

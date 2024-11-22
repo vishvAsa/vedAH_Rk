@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áhinā ← áhi- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -195,7 +198,8 @@ ramante ← √ram- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You have set at liberty the streams which had been swallowed by Ahi; they rushed forth with rapidity;the waters which longed to be liberated were set free and now the pure (streams) never stop.”
 </details>

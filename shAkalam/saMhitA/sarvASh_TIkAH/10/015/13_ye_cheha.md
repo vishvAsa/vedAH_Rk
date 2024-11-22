@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -243,7 +246,8 @@ yajñám ← yajñá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You know, **Jātavedas**, those **Pitṛs**, how many they may be, who are not in this world, those whom weknow, and those whom we do not fully know; enjoy this pious sacrifice offered together with **svadhās**.”
 </details>

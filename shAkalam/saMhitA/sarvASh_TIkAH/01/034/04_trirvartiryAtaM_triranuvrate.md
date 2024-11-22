@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánuvrate ← ánuvrata- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -207,7 +210,8 @@ trís ← trís (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Thrice, **Aśvins**, visit our dwelling, and the man who is well-disposed towards us; thrice repair to him who deserves your protection, and instrumental uct us in three-fold knowledge; thrice grant us gratifying (rewards); thrice shower upon us food, as (**Indra** pours down) rain.”
 </details>

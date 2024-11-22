@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jaraṇā́m ← jaraṇā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -199,11 +202,13 @@ yuvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You made young again the life of the sage **Kali**, when approaching old age, you rescued Vandanafrom the well; you quickly enabled Viśapalā to walk.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kali: cf. RV 1.112.15;
 

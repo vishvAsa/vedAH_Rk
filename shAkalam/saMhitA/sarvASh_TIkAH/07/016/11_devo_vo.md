@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 deváḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,11 +180,13 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The divine **Agni**, the giver of wealth, desires the ladle filled full. Pour out (the contents), and replenish(the vessel), and then the deity bears (your oblations to the gods).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Pour out the contents: udva siñcadhvan upavā pṛṇadhvam, sprinkle and fill up; the first is a reference to the vessel, and the second to Agni: dhruvāgraheṇa **hotr**. tve tvayi camasam pūrayata śa agnaye **somam** yacchata ityarthaḥ: the meaning is, both fill thevessel with the dhruvāgraha and present **Soma** to Agni
 </details>

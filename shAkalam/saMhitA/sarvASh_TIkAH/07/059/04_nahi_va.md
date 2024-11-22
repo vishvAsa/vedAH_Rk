@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 márdhati ← √mr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -166,7 +169,8 @@ yāta ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your protection, leaders (of rites), yields no detriment to him whom you defend in battles; may yourlatest favour return to us; come quickly, eager to drink the **Soma**.”
 </details>

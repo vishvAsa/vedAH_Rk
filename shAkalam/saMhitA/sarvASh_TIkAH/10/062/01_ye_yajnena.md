@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dákṣiṇayā ← dákṣiṇa- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -184,11 +187,13 @@ sumedhasaḥ ← sumedhás- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, who associated with sacrifice and pious donations, have acquired the friendship of **Indra** andimmortality; upon you, **Aṅgirasas**, may good fortune attend; welcome, sages, the son of **Manu**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Manuḥ** putrebhyodāyam vyabhajat: **Taittirīya** **saṃhitā** 3.1.9.4; upon you, Aṅgirasas; cf. the legend in the ṛca 1 of previoussūkta. Nābhānediṣṭha is represented as undertaking to complete their sacrifice
 </details>

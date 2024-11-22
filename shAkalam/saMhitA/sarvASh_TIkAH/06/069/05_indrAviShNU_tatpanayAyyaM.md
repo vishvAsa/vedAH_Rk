@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāviṣṇū ← índrāvíṣṇu- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -166,7 +169,8 @@ rájāṁsi ← rájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Viṣṇu**, that (exploit) is to be glorified, by which, in the exhilaration of the **Soma**, you have strode over the wide (space); you have traversed the wide firmament; you have declared the worlds (fit) for our existence.”
 </details>

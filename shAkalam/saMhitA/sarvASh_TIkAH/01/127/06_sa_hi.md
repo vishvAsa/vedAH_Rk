@@ -27,10 +27,12 @@ ChandaH = "अतिधृतिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -39,7 +41,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 hí ← hí (invariable)  
 {}
 
@@ -265,7 +268,8 @@ pánthām ← pánthā- ~ path- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He roars aloud, like the roaring of the winds, amidst the sanctified and selected (rites of sacred) solemnities; he who is to be worshipped, who is to be adored (for victory) over hosts (of enemies); he, the receiver 9of oblations), the manifester of the sacrifice; he, who is deserving of veneration, devours the oblations; hence, all men for their good pursue the path of **Agni**, who gives plural asure (to his worshipper), being plural ased (himself), in like manner as men follow a path (that leads) to happiness.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 práti ← práti (invariable)  
 {}
 
@@ -225,11 +228,13 @@ Dispatch your spies forward, the fast moving one, being undeceived, the guardian
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you, who are most rapid, direct your (flames) against opposing (rays), and, unresisted, become the protector of this your people against the calumniator who is remote or who is nigh; let no malevolent (foe) prevail against us (who are) your worshippers.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Direct your flames against opposing rays: **prati** spaśo viṛja: spaśaḥ = parabādhakān raśmin; or, it may mean, caran, spies, sent to determine between true and false, satyanṛtavivekāītham; praṇidhin may also mean binders, imprisoners, bandhanakṛtāḥ
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gāḥ ← √gā- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
 
@@ -214,7 +217,8 @@ svā́diṣṭhayā ← svā́diṣṭha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Tarry a while contentedly, **Maghavan** (at our rite); go not away; for I offer to you (the libation) of the copiously-effused **Soma**; powerful **Indra**, I lay hold of the skirts (of your robe) with sweet-flavoured commendations, as a son (clings to the garment) of a father.”
 </details>

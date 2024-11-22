@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kŕ̥pe ← kŕ̥pa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -179,7 +182,8 @@ yachanti ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Inasmuch, **Indra**, as you have been exhilarated in the society of **Ruma**, **Ruśama**, Śyāvaka and **Kṛpa**,so the **Kaṇvas**, bearers of oblations, attract you with their praises, (therefore) come here.”
 </details>

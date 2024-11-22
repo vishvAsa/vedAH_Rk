@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asi ← √as- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -129,11 +132,13 @@ r̥tvíyāvatī ← r̥tvíyāvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, be firm (in battle), you are (strong as) a city; to you, the repeller (of enemies), comes thisauspicious sacrifice, offered in due season.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 You are strong as a city: or, be firmly settled (in our sacrifice), youare the fulfiller of desires, **pūRakaḥ** kāmānām asi; the repeller of enemies: niṣkṛtam = niṣkartāram; or,this auspicious sacrifice comes to your appointed (plural ce)
 </details>

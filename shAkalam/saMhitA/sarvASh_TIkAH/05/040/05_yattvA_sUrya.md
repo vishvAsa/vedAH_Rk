@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 sūrya ← sū́rya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -146,11 +149,13 @@ bhúvanāni ← bhúvana- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, **Sūrya**, the son of the **Asura** **Svarbhānu**, overspread you with darkness, the worlds were beheld like one bewildered knowing not his plural ce.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Svarbhānu: is a name of **rāhu**, the person nified ascending node, the causer of an eclipse; he was a son of **kaśyapa**, by **Danu**, the mother of the **Dānavas** or **asuras**; another genitive alogy makes him the son of Vipraciti, by **Siṃhikā**, the sister of **Hiraṇyakaśipu**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akaram ← √kr̥- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -208,11 +211,13 @@ viśvāmitrajamadagnī ← viśvāmitrajamadagni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Enjoined by you, I have prepared the food at the (sacrifice) about to be performed, and as chiefworshipper I complete this hymn of praise. (**Indra** speaks): The **Soma** being poured out in your respectivedwellings, O **Viśvāmitra** and **Jamadagni**, (offer praise) when I come with (the wealth) which I am going todistribute.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Indra speaks: Indra, in the form of conscience, speaks to them
 </details>

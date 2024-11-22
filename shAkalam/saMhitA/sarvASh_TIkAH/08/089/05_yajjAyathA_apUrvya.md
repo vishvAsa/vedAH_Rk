@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 apūrvya ← ápūrvya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -146,7 +149,8 @@ utá ← utá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Maghavan**, who had none before you, when you were born for the slaying of **Vṛtra**, then you did spreadabroad the earth, then you did prop up the heavens.”
 </details>

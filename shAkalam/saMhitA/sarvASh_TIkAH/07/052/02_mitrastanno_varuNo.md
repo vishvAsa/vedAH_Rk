@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 māmahanta ← √maṁh- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
 
@@ -210,7 +213,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Mitra** and **Varuṇa** bestow upon us felicity; (may they), the guardians (of all men, bestow felicity)upon our sons and grandsons; let us not suffer (gods), for offences committed by another; let us not, **Vasus**, doany act by which you may be offended.”
 </details>

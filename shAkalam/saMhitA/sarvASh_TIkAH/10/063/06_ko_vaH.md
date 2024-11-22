@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jújoṣatha ← √juṣ- (root)  
 {number:PL, person:2, mood:SBJV, tense:PRF, voice:ACT}
 
@@ -226,11 +229,13 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Who offers you the praise which you like, you wise universal deities, however many you may be?Deities from whom many are born, who can prepare for you such worship as may bear the safe beyond iniquityfor our well-being?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Which you like: stotāram, what worshipper whom you accepṭ..
 </details>

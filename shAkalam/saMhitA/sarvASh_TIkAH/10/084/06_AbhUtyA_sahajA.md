@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́bhūtyā ← ā́bhūti- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -186,7 +189,8 @@ saṁsŕ̥ji ← saṁsŕ̥j- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Manyu**), your destructive thunderbolt, the over-powerer (of foes), twin-born with victory, you possessexceeding strength; be favourable to us, Manyu, in deeds, you who are invoked by many in the shock of battle.”
 </details>

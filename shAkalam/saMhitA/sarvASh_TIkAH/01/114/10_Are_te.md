@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 āré ← āré (invariable)  
 {}
 
@@ -224,7 +227,8 @@ yacha ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Destroyer of heroes, may your cow-killing or man-slaying (weapon) be far away, and let the felicity granted by you be ours; favour us; speak, brilliant hero, in our behalf, and grant us, you who are mighty over the two (realms of heaven and earth), prosperity.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -189,7 +192,8 @@ yā́bhiḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The drops of rain, enveloped (by the solar rays), are renewed in the dwelling of the divine (sun), their birth-plural ce; when he, (**Agni**), abides cherished on the lap of the waters, then (the world) drinks the nectareous (rain), with which he, (as the lightning), associates.”
 </details>

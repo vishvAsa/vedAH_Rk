@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 12 = 5+7, ending LHX  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
 
@@ -201,11 +204,13 @@ sū́raḥ ← sū́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He who knows the three cognizable (worlds); the sage (who knows) the mysterious birth of the divinities (abiding in them); he who is beholding the good and evil acts of mortals, he, the sun, the lord, makes manifest their intentions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The divinities abiding in them: Of the **Vasus** on earth, the **Rudras** in the firmament, the **Ādityas** in heaven. Vasus are the 'earthly riches'; the other divinities are 'instrumental uments' in the process of making wealth
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 prabhvī́ḥ ← prabhú- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -133,11 +136,13 @@ ghr̥tā́ni ← ghr̥tá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They have sprinkled water on the doors (of the hall of sacrifice), which are variously and perfectly radiant, manifold, excellent, many, and numerous.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The doors: virāt samrāt. vibhvīḥ prabhvīḥ bahvīśca bhūyasīśca yāḥ: the last two epithets are epithets of number, and the rest are names
 </details>

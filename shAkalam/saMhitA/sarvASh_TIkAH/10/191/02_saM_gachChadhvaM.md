@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)  
 popular;; epic anuṣṭubh (424)
-#### Morph
+_________
+**Morph**  
 gachadhvam ← √gam- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:MED}
 
@@ -161,7 +164,8 @@ upā́sate ← √ās- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Meet together, talk together, let your minds apprehend alike; in like manner as the ancient godsconcurring accepted their portion of the sacrifice.”
 </details>

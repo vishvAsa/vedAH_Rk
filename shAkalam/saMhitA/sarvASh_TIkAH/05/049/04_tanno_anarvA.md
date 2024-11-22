@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anarvā́ ← anarván- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ vā́jaratnāḥ ← vā́jaratna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the irreproachable **Savitā** (grant) us that desirable (wealth); may the flowing rivers hasten to (convey) it to us; for which purpose I, the ministering priest of the sacrifice, repeat (pious praises); affluent in food, may we be the lords of (manifold) riches.”
 </details>

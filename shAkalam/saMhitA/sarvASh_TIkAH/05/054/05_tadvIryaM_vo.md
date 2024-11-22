@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahitvanám ← mahitvaná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -211,7 +214,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your prowess, **Maruts**, has spread wide your glory as the sun (sends afar his) radiance, or the white (horses of the gods travel far) in their course; of unbounded lustre, you close the cloud withholding the waters.”
 </details>

@@ -25,17 +25,20 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áha ← áha (invariable)  
 {}
 
@@ -267,11 +270,13 @@ ná ← ná (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Then, accept the libations of the sweet **Soma** at the sacrifice in which the triumphant priests stand round the rock-born (plural nt); may they ever be victorious for us; (for you) together the cows distil (their milk); the (offering of) barley is dressed; and never for you, (**Vāyu**), will the cows grow meagre. never will the kine be carried off (by thieves).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Aśvattham upatiṣṭhanti: **aśvattha** = the religious fig tree; explained here as the Soma found spread through mountains and the like, parvatādi vyātipradeśe sthitam; na upadasyanti dhenavaḥ-nāpa dasyanti dhenavaḥ: **upadas** = infirm, or wasted by sickness;
 

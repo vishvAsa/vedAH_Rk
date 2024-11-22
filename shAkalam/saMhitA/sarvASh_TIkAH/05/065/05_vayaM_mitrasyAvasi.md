@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávasi ← ávas- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -117,11 +120,13 @@ váruṇaśeṣasaḥ ← váruṇaśeṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we ever be in the comprehensive guardianship of **Mitra**, and, free from sin, enjoy, (Mitra), your protection, being at the same time the children of **Varuṇa**”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Varuṇaśeṣaḥ: **śeṣa** = **apatya**, offspring
 </details>

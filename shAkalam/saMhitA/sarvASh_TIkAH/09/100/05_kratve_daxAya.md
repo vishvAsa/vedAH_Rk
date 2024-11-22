@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 dákṣāya ← dákṣa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -146,7 +149,8 @@ váruṇāya ← váruṇa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sage **Soma** flow in a stream for our enlightenment and invigoration, poured forth for **Indra**, **Mitra** and **Varuṇa** to drink.”
 </details>

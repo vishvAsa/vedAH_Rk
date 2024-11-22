@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -123,7 +126,8 @@ prá ← prá (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you, such as you are, the giver of abundant food, in like manner as did **Aṅgiras**; we praise you repeatedly with commendatory (hymns).”
 </details>

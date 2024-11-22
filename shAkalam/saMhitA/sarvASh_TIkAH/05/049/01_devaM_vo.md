@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -201,11 +204,13 @@ sakhīyán ← √sakhīy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you, (worshippers), I approach today the divine **Savitā** and **Bhaga**, the distributors of precious (wealth) among men; **Aśvins**, (leaders of rites), enjoyers of many (good things), desiring your friendship, I solicit your daily presence.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Distributors of precious wealth: the function was assigned to Bhaga (RV. 5.046.06), bhago **vibhakta**, dhanānām vibhāgakarttā; here he is called ratnam vibhajantam: ratnam is applied to **haviṣ**, the oblation; yajamānārtham dhanam vibhajantam; in RV. 4.017.11, he is called rayo vibhakta
 </details>

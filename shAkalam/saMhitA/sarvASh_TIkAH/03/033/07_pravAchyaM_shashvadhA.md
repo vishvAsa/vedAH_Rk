@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 pravā́cyam ← pravā́cya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -182,7 +185,8 @@ ichámānāḥ ← √iṣ- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Viśvāmitra** speaks: Ever is that heroic exploit of **Indra** to be celebrated when he cut Ahi to pieces, and with his thunderbolt destroyed the surrounding (obstructors of the rain), whence the waters proceed in the direction they desire.”
 </details>

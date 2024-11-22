@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyukṣám ← dyukṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -170,11 +173,13 @@ várīmabhiḥ ← várīman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The powerful exhilarating **Soma**-juices besprinkle **Indra** who dwells in heaven, the augmenter of the clouds, the destroyer of the dwelling (of the foe); in whom on account of his greatness, the cows, the eaters of the oblations, mix the best (of their milk contained) in the uplifted udder.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The clouds: Or,mountains;
 

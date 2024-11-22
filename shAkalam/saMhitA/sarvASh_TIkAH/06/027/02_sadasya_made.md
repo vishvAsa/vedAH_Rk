@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -230,7 +233,8 @@ vividre ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, in the exhilaration of this (**Soma**) **Indra** has done a good deed; on quaffing the libation (he has done) a good deed; (he has done) a good deed in friendship for this Soma; former as well as recent adorers have obtained good of you in the chamber (of the libation).”
 </details>

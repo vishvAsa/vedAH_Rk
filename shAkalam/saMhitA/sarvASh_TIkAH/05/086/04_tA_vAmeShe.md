@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 éṣe ← éṣa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
 
@@ -138,7 +141,8 @@ vidvā́ṁsā ← √vid- 2 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We invoke you both, **Indra** and **Agni**, for (sending) your chariots to the combat, lords of moveable wealth, all-knowing, most deserving of praise.”
 </details>

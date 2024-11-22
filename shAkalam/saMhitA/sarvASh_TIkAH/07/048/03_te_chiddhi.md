@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -206,11 +209,13 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “They verily, (**Indra** and **Ṛbhus**), overcome multitudes by their prowess; they overcome all enemies inthe missile conflict; may Indra, Vibhvan, **Ṛbhukṣin** and **Vāja**, the subduers of foes, annihilate by their wrath thestrength of the enemy.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Missile: uparatāti: upara = **upala**, a stone; upalaiḥ pāṣāṇasadṛśair āyudhaitāyate yuddham, war that is waged with weapons like stones, is uparatati
 </details>

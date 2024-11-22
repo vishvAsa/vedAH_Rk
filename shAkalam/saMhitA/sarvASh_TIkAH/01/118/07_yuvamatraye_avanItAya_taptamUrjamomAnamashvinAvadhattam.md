@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 átraye ← átri- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -164,7 +167,8 @@ suṣṭutím ← suṣṭutí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You (gave relief) to the imprisoned **Atri**, (quenching the) scorching heat, and fed him with grateful food; solicitous of worthy praise, you gave sight of **Kaṇva**, blinded (by darkness).”
 </details>

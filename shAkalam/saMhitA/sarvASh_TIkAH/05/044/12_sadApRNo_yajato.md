@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dvíṣaḥ ← dvíṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -202,11 +205,13 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May Sadāpṛṇa, **Yajata**, Bahuvṛkta, Śrutavit, **Tarya**, associated with you, destoy, your foes; the ṛṣi obtains his desires in both (worlds), and shines brightly, whenever he adores with well-mingled (offerings and praises) the host (of heaven).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sadāpṛṇa... names of ṛṣis
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cākán ← √kanⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
 
@@ -186,7 +189,8 @@ yāsiṣat ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bear, **Indra**, with your obedient horses, as swift as the wind, (the sage) **Kutsa**, to that ceremony (to which) you desire (to convey him); let the sun bring near the wheel of his chariot, and let the thunder-armed advance against his opponents.”
 </details>

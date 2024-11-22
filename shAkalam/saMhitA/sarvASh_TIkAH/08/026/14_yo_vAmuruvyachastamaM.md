@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 uruvyácastamam ← uruvyácastama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -125,7 +128,8 @@ yātam ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Favourably disposed towards me, come, **Aśvins**, to the dwelling of him who knows (how to prepare foryou) the most copiously effused (libation) to be drunk by the leaders (of rites).”
 </details>

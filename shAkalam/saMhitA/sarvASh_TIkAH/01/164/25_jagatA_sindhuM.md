@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 astabhāyat ← √stambhⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -180,11 +183,13 @@ tátas ← tátas (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With the hymns in the **jagatī** metre he fixed the rain in heaven, and surveyed the Sun in the **rathantara**. They have declared three divisions of the **gāyatrī** metre, whence it surpasses (all the rest) in force and majesty.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Fixed the rain in heaven: sindhum dvi astabhāyat: **Brahmā**, at the time of creation, fixed the sheder of water, udakasya syandakam, in the sky; or, a refernce is to **Āditya**: jāgato vā eṣa ya eṣa **tapati**: he may be termed jāgata who gives heat (to the world);
 

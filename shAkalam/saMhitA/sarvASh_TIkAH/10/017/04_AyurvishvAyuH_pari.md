@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 ā́yuḥ ← ā́yu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -208,11 +211,13 @@ tvā ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the all-pervading **Vāyu** protect you, may **Pūṣan** (preserve) you, (going) first on the excellentpath (to heaven); may the divine **Savitā** plural ce you, where the virtuous abide, whither they have gone.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Āyu =Vāyu
 </details>

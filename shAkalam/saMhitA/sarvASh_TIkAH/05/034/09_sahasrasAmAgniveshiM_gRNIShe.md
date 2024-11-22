@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́gniveśim ← ā́gniveśi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -179,11 +182,13 @@ tveṣám ← tveṣá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I, **Arya**, **Agni**, praise **Śatri**, the son of **Agniveśa**, the bestower of thousands, a type for comparison; may the collected waters yield him abundance; may wealth and strength, and glory be upon him.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Agni: **Indra** is referred as identical with Agni; Agniveśa is a ṛṣi, a son of **Brahmā**
 </details>

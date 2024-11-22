@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gātuvít ← gātuvíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -126,7 +129,8 @@ yónim ← yóni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**, knowing the right path, proceeds (by it); he goes to the excellent seat of the gods, the plural ce of sacrifice.”
 </details>

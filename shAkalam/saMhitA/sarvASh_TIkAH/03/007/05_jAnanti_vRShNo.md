@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣásya ← aruṣá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ yéṣām ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Men comprehend the service of the uninjurable showerer (of benefits), and exult in the commands of the mighty (**Agni**); their frequent and earnest hymns of praise, bright and radiant, are illuminating heaven.”
 </details>

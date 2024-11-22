@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhipitvé ← abhipitvá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -179,7 +182,8 @@ vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Distributors of food, **Ṛbhus**, showerers (of benefits), exhilarated (by the **Soma** draught), fabricated wealth, comprising all posterity for him who pours out for your exhilaration, the acrid libation at the deline of day.”
 </details>

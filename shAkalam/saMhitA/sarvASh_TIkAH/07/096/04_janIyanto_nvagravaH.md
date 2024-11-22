@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágravaḥ ← ágru- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -96,7 +99,8 @@ sárasvantam ← sárasvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desiring wives, desiring sons, liberal of donations, approaching him, now worship Sarasvat.”
 </details>

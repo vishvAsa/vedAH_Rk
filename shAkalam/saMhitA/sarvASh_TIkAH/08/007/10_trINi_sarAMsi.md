@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 pŕ̥śnayaḥ ← pŕ̥śni- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -111,11 +114,13 @@ udríṇam ← udrín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The kine have filled for the thunderer three lakes of the sweet (**Soma**) from the dripping water-bearingcloud.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Kine: pṛśnayaḥ, the cows, the mothers of the **Maruts**: marunmātṛ **bhūtā** **gāvaḥ**; or, the sons ofPṛśni, the Maruts; or, the hymns at the mid-day libation being recited in a middle tone: **mādhyamikā** **vācaḥ**;three lakes: libations of milk, etc., mixed with the Soma at the three diurnal rrites; or libations of Soma filling thethree vessels: droṇakalaśa, **āhavanīya** and pūtabhṛt; dripping water-bearing cloud: utsam kabandhamudriṇam = utsravaṇaśīlam, exuding, dropping;
 

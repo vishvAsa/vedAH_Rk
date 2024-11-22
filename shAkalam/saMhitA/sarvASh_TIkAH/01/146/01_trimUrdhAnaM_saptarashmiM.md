@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gr̥ṇīṣe ← √gr̥̄- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
 
@@ -170,11 +173,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Glorify the three-headed, seven-rayed **Agni**, who is sibject to no diminution, seated on the lap of his parents, (heaven and earth); and gratifying all (desires); as the universal radiance of the divine (Agni), whether moving or stationary, (spreads around).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The three-headed: a reference to three daily sacrifices, or the three household fires, or the three regions, heaven, earth and mid-air; the seven-rayed Agni: the seven flames of fire; or, **raśmi**, a ray = reign or rule, a possible reference to the seven **chandas** (metres) of the **Vedas**
 </details>

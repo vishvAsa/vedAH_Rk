@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dā́nūni ← dā́nu- 2 (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -136,7 +139,8 @@ vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Bestow (upon us) good gifts, viands, whether of heaven or earth; may the water-shedding rains attendupon you.”
 </details>

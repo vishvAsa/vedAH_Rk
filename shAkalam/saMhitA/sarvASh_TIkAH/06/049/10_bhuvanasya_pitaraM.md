@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ābhíḥ ← ayám (pronoun)  
 {case:INS, gender:F, number:PL}
 
@@ -172,7 +175,8 @@ kavínā ← kaví- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Exalt **Rudra**, the parent of the world, with these hmns by day; (exalt) Rudra (with them) by night; animated by the far-seeing, we invoke him, mighty, of plural asing aspect, undecaying, endowed with felicity, (the source of) prosperity.”
 </details>

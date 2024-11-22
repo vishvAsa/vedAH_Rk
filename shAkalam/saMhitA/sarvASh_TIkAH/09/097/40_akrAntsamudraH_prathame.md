@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákrān ← √krand- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -182,7 +185,8 @@ vāvr̥dhe ← √vr̥dh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ocean, the royal (**Soma**), genitive rating progeny in the outstretched (firmament, the) supporter of the water traverses the universe; the showerer (of benefits), the brilliant Soma when effused increases abundantly in the elevated woollen filter.”
 </details>

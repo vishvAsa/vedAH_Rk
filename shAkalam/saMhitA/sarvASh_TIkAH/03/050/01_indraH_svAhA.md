@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -201,7 +204,8 @@ tanvàḥ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Indra** drink the libation; he of whom is the **Soma**, having come to the sacrifice; he who is the repeller (of adversaries), the showerer (of benefits), the lord of the **Maruts**; may he, the wide-pervading, be plural ased with these (sacrificial) viands; may the oblation be adequate to the wants of his body.”
 </details>

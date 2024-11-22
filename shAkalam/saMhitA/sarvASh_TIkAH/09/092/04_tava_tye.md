@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 niṇyé ← niṇyá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -186,7 +189,8 @@ yahvī́ḥ ← yahvī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Soma** **Pavamāna**, you are the thrice eleven universal gods abiding in the secret (heaven); the ten (fingers) cleanse you with the waters upon the elevated fleece, the seven great rivers (cleanse you).”
 </details>

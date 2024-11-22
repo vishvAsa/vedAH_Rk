@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 gíraḥ ← gír- ~ gīr- (nominal stem)  
 {case:ACC, gender:F, number:PL}
 
@@ -165,7 +168,8 @@ tigmā́yudhāya ← tigmā́yudha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer these praises to the divine **Rudra**, armed with the strong bow and fast-flying arrows, the bestowerof food, the invincible, the conqueror, the creator, the wielder of sharp weapons; may he hear our (praises).”
 </details>

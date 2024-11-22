@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 acikradat ← √krand- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -191,11 +194,13 @@ vāśrā́ḥ ← vāśrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sweet-flavoured beverage sounds in the pitcher, the thunderbolt of **Indra**, more beautiful than the beautiful; (the stream) of this veracious (**Soma**) approach yielding much milk, dropping water, lowing like kine (laden) with milk.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 More beautiful: vapuṣo vapuṣṭaraḥ = sowing seed more than any other sower of seed
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánīkā ← ánīka- (nominal stem)  
 {case:ACC, gender:N, number:PL}
 
@@ -193,7 +196,8 @@ yát ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The ministering priests have concentrated in you **Agni**, who are divine, many hosts (of flames); do you bring hither the gods, youngest (of the deities), that you may worship today the divine effulgence.”
 </details>

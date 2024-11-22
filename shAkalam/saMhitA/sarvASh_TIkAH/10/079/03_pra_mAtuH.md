@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gúhyam ← gúhya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -187,7 +190,8 @@ upásthe ← upástha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Longing for the abundant creepers of the maternal (earth, longing for) their more excellent concealed(root), he creeps like a child; he has found the tree shining like ripe grain, upon the lap of tthe earth, tasting (theether).”
 </details>

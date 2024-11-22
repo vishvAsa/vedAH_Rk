@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 íṣaḥ ← íṣ- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -211,11 +214,13 @@ sá ← sá- ~ tá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Human beings, wishing for wealth, give brightnesss, (by their praises), to the lord of men, the wise (**Agni**), as they add lustre, (by polishing), to an axe; spreading everywhere, he goes alike through high and low plural ces, and has taken an embryo (condition) in these regions.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 In these regions: the two pieces of wood, the attrition of which produces flame
 </details>

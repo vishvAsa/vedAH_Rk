@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bravīmi ← √brū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
 
@@ -165,11 +168,13 @@ paprathānā́ḥ ← √prathⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I repeat this hymn, heaven and earth, to you; and may the soft-bellied, fire-tongued **Mitra**, royal **Varuṇa**, the youthful **Ādityas**, all cognizant of the past, and proclaiming (their own acts), hear it.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Proclaiming: paprathānāḥ = svāni svāni karmāṇi prathayantaḥ
 </details>

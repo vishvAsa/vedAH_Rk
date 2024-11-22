@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 marjayanta ← √mr̥j- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -169,11 +172,13 @@ vājī́ ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sister (fingers) sprinkling together cleanse (the **Soma**), the ten fingers (are) the efffuse of the sagacious (Soma); the green-tinted one flows round the wives of the sun, he hastens like a swift horse to the pitcher.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The wives of the sun: jaḥ = **jayaḥ**; the quarters of the horizon are called the sun's wives because they are made manifest by the light of the sun
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kavím ← kaví- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -181,11 +184,13 @@ vā́ryāṇi ← vā́rya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You (priests) possess the wise lord of human beings, the pure, the purifying, **Agni**, cherished with oblations of butter, the offer of the burnt-offering, the all-knowing; he among the gods bestows desirable (riches).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The wise lord of human beings: in the first verse, the term used is: vasupatim vasunām, the lord of riches; here, we have viśām viśpatim, the lord of men, of men
 </details>

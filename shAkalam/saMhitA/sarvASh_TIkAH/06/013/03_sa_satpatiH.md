@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hanti ← √han- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -209,11 +212,13 @@ sajóṣāḥ ← sajóṣas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “That man, the protector of the virtuous, destroys, **Agni**, his enemy by his strength, and baffles, intelligent, the might of (the **asura**) **paṇi**, whom you, the wise, the parent of the sacrifice, consentient with the grandson of the waters, encourage (in the hope of) riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Consentient with the grandson of the waters: sajoṣā naptrāpām, the grandson of the waters = the lightning, vidyutagninā **saṅgatās** tvam, you associated with the lightning-fire
 </details>

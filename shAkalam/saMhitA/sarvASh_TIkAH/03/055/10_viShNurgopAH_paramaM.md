@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gopā́ḥ ← gopā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -196,7 +199,8 @@ mahát ← mahā́nt- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pervading and protecting (all), possessing grateful and immortal radiance, he preserves the supreme path (or the rains), for **Agni** knows all these worlds; great and unequalled is the might of the gods.”
 </details>

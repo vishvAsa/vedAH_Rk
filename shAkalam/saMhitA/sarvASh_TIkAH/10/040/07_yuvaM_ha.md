@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -200,11 +203,13 @@ yuvóḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You came, **Aśvins**, to the rescue of **Bhujyu**, you came to the rescue of **Vaśa**, you came to Śiñjārato (hear) his desirable (praise); the offerer of oblations besieges your friendship; and I desire happiness throughyour protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śiñjāra: cf. RV 8.5.25; Śiñjāra was an **Atri**; Aśvins came to rescue him from a fire-pit
 </details>

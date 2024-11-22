@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mahimnā́ ← mahimán- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -140,11 +143,13 @@ sūnŕ̥tāvān ← sūnŕ̥tāvant- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vaiśvānara** by his magnitude is all men, and is to be worshipped as the diffuser of manifold light in offerings of nutritious viands; **Agni**, the speaker of truth, praises with many commendations **Puruṇītha**, the son of Śātavani.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Viśvakṛṣṭi = lit. all men; added--of whom all men are of same nature, svabhutaḥ;
 

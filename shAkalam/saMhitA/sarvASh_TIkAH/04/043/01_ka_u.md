@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 káḥ ← ká- (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -181,7 +184,8 @@ suṣṭutím ← suṣṭutí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Which of those who are entitled to sacrifice will listen (to our prayers)? which of the gods will hear our praise? which will be propitiated (by it)? upon the heart of whom among the immortals may we impress the devout affectionate adoration, accompanied by sacred oblations?”
 </details>

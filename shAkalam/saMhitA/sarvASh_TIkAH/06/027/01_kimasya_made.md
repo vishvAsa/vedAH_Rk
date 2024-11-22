@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asya ← ayám (pronoun)  
 {case:GEN, gender:M, number:SG}
 
@@ -230,11 +233,13 @@ vividre ← √vid- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “What has **Indra** done in the exhilaration of this (**Soma**)? What has he done on quaffing this (libation)? What has he done in friendship for this (Soma)? What have former, what have recent adorers obtained from you in the chamber of this (libation)?”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The ṛṣi is expressing his impatience at the dealing of the reward of his praises; in the next stanza, he recants
 </details>
@@ -257,7 +262,8 @@ Unaccented forms of this pronoun should be anaphoric, with a referent preceding 
 
 However, the first two locatives, in pāda a, establish without doubt the identity of the referent -- soma: “in the exhilaration (máde) of it” and “in the drinking (pītaú) of it” could refer to nothing else in the universe of RVic discourse. See the numerous examples of máde sómasya (generally in that order) in Lubotsky, beginning with I.46.12; the loc. of pītí- is almost confined to our passage, but the dat. phrase sómasya pītáye is almost inescapable (see again Lubotsky). The 2nd set of locatives, sakhyé ‘in the fellowship’ and niṣádi ‘in the installation’ are less clearly typed for soma -- and in fact the latter might sidetrack us to Agni and his ritual installation -- but by that time the soma context has been unequivocally established. The unusual application of ní √sad to soma simply shows the frequent secondary fusion of the two principal ritual divinities/substances.
 
-The first hemistich is otherwise unproblematic, but the second one raises some further questions. The first word, ráṇā, is taken by the Pp as nom. pl. ráṇāḥ in pausa, an interpr. followed by the standard treatments. By this interpr. these “joys” are the subj. of vividre in the main cl. Both act. and mid. forms of this pf. are normally transitive, and so the question should be “what did the previous joys find, what the new ones?” See Geldner’s “Oder was seine guten Launen bei der (Opfer)sitzung sind, was haben die … erreicht?” But this does not make a lot of sense to me: in what way are “joy” agents here? Oldenberg seems to get out of this semantic problem by taking the verb as a sort of pass./intrans. with gen. asya as the experiencer (presumably referring to Indra) and kím as a predicate nominative: “oder die Freuden, die bei (seinem, des Soma) Sichniederlassen ..., als was sind diese ihm eignen … erfahren?” But besides forcing an unnatural sense on the verb, it assumes a different referent for asya in c from the referents of the 3 occurrences in ab (as does Geldner’s). My own interpr. is based on a different analysis of ráṇā — as the instr. sg. of the root noun rán-, attested as dat. sg. ráṇe, loc. sg. rán, and indeed (pace Grassmann) as this same instr. sg. in IX.7.7 (see Oldenberg ZDMG 63 [1909]: 289 = KlSch 305). (Note that with the elim. of the supposed nom. pl. in our passage, the stem ráṇa- is entirely singular, save for a single late loc. pl. ráṇeṣu [X.120.5], quite possibly confected to produce a Triṣṭubh cadence from sg. ráṇe.) With ráṇā otherwise interpr., the subj. of vividre is open. I supply “priests” (or a similar group of mortal devotees of Indra); cf. nū́tanāsaḥ in similar usage in nearby VI.21.5 and the similarly contrastive expression pū́rvebhir ṛ́ṣibhiḥ … nū́tanair utá in I.1.2. One problem remains, however. By my interpr. asya in c has the same referent as the other 3 exx. in ab, and like them it is construed with a loc., here niṣádi: the insistent repetitive pattern of the vs. imposes this reading. But asya is stationed in the main clause, as marked by the immediately preceding té, correlative with yé in the nominal relative cl. (cf. the whole pāda ráṇā vā yé niṣádi kíṃ té asya), though it should precede kíṃ té. (Geldner’s rendering cited above also has this problem, though he construes asya with ráṇā(ḥ), not niṣádi.) I can only explain this by assuming that acdg. to the pattern established in ab, kím (x) asya LOC, kím here has carried the pronoun asya along with it into the main cl., even though the constituency is in all cases asya LOC. ### 04-05
+The first hemistich is otherwise unproblematic, but the second one raises some further questions. The first word, ráṇā, is taken by the Pp as nom. pl. ráṇāḥ in pausa, an interpr. followed by the standard treatments. By this interpr. these “joys” are the subj. of vividre in the main cl. Both act. and mid. forms of this pf. are normally transitive, and so the question should be “what did the previous joys find, what the new ones?” See Geldner’s “Oder was seine guten Launen bei der (Opfer)sitzung sind, was haben die … erreicht?” But this does not make a lot of sense to me: in what way are “joy” agents here? Oldenberg seems to get out of this semantic problem by taking the verb as a sort of pass./intrans. with gen. asya as the experiencer (presumably referring to Indra) and kím as a predicate nominative: “oder die Freuden, die bei (seinem, des Soma) Sichniederlassen ..., als was sind diese ihm eignen … erfahren?” But besides forcing an unnatural sense on the verb, it assumes a different referent for asya in c from the referents of the 3 occurrences in ab (as does Geldner’s). My own interpr. is based on a different analysis of ráṇā — as the instr. sg. of the root noun rán-, attested as dat. sg. ráṇe, loc. sg. rán, and indeed (pace Grassmann) as this same instr. sg. in IX.7.7 (see Oldenberg ZDMG 63 [1909]: 289 = KlSch 305). (Note that with the elim. of the supposed nom. pl. in our passage, the stem ráṇa- is entirely singular, save for a single late loc. pl. ráṇeṣu [X.120.5], quite possibly confected to produce a Triṣṭubh cadence from sg. ráṇe.) With ráṇā otherwise interpr., the subj. of vividre is open. I supply “priests” (or a similar group of mortal devotees of Indra); cf. nū́tanāsaḥ in similar usage in nearby VI.21.5 and the similarly contrastive expression pū́rvebhir ṛ́ṣibhiḥ … nū́tanair utá in I.1.2. One problem remains, however. By my interpr. asya in c has the same referent as the other 3 exx. in ab, and like them it is construed with a loc., here niṣádi: the insistent repetitive pattern of the vs. imposes this reading. But asya is stationed in the main clause, as marked by the immediately preceding té, correlative with yé in the nominal relative cl. (cf. the whole pāda ráṇā vā yé niṣádi kíṃ té asya), though it should precede kíṃ té. (Geldner’s rendering cited above also has this problem, though he construes asya with ráṇā(ḥ), not niṣádi.) I can only explain this by assuming that acdg. to the pattern established in ab, kím (x) asya LOC, kím here has carried the pronoun asya along with it into the main cl., even though the constituency is in all cases asya LOC. _________
+**04-05**  
 Hoffmann (Injunk. 163-64) tr. and discusses this pair of vss., with special reference to the change from augmented to injunctive verbs.
 
 

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 āvívāsan ← √vanⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
 
@@ -107,7 +110,8 @@ sicyate ← √sic- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The effused (**Soma**) honouring (the gods) whether he is far off or nigh, is poured out (as) **madhu** for **Indra**.”
 </details>

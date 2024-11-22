@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bharanti ← √bhr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -199,7 +202,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To you, young (of the gods), men present oblations, whether nigh or from far; accept the praise of him who most extols you; for the felicity (which you confer). **Agni** is great, vast, auspicious.”
 </details>

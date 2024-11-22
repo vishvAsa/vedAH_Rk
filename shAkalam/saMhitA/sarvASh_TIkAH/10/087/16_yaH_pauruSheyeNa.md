@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 kravíṣā ← kravís- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -184,11 +187,13 @@ vr̥śca ← √vr̥śc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Yātudhāna**, who fills himself with the flesh of man, and he who fills himself with the flesh ofhorses or of other animals, and he who steals the milk of the cow-- cut off their heads with your flame.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who fillshimself: who smears himself
 </details>

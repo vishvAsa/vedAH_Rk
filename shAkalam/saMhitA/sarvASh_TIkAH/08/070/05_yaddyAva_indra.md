@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dyā́vaḥ ← dyú- ~ div- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -213,11 +216,13 @@ shleSha in aShTa- indicating holy numbers 100+8; 1000+8 though in terms of seman
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, were there a hundred heavens to compare with you, or were there a hundred earths-- Othunderer, not even a thousand suns woudl reveal you-- yes, no created thing would fill you, nor heaven andearth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Not even a thousand suns: there (in **brāhmaṇa**) the sun shines not: **Katha** Upan. 5.15; no created thing would fill you: the **soul** within my heart is greater than the earth, greater than the sky, greater than the heaven,greater than all these worlds: Chāndogya Up. 3.14
 </details>

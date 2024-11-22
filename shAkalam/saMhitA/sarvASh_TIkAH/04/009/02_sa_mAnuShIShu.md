@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dūḷábhaḥ ← dūḷábha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -116,7 +119,8 @@ víśveṣām ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May that **Agni**, who is difficult to overcome, who is immortal, who is pre-eminent among men the descendants of **Manu**, becomes the messenger of all the gods.”
 </details>

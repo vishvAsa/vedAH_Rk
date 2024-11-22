@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhūyā́ma ← √bhū- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
 
@@ -175,7 +178,8 @@ yāmaya ← √yam- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May we be offerers of oblations (to enjoy) your favour; harm us not for the sake of the enemy; protectus with your wondrous solicited (protections), maintain us ever in felicity.”
 </details>

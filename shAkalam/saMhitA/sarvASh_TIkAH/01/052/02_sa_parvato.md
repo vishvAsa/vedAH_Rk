@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ácyutaḥ ← ácyuta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -177,7 +180,8 @@ ubján ← √ubj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When **Indra**, who delights in the sacrificial food, had slain the stream-obstructing **Vṛtra**, and was pouring down the waters, he stood firm amid the torrents like a mountain, and endowed with a thousand means of protecting (his votaries) increased in vigour.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jayúṣā ← jayúṣ- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -192,11 +195,13 @@ yuvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Do you two, **Aśvins**, climb the path to the mountain with your triumphant chariot; you have renovatedfor **Śayu** (barren) cow; you liberated by your acts the quail that had been seized from the jaws of the wolf.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Jayuṣā: cf. RV. 6.62.7;
 

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cyautnā́ni ← cyautná- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -189,7 +192,8 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Such, wielder of the thunderbolt, are your mighty powers, that when you had quickly destroyed ninetyand nine cities, you have occupied the hundredth as a plural ce of abode; you have slain **Vṛtra**, you have also slainNamuci.”
 </details>

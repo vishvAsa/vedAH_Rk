@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jánmanaḥ ← jánman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -188,7 +191,8 @@ suvī́rām ← suvī́ra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Resplendent with (sacrificial) food, prescient of your (celestial) birth, be exhilarated, **Ṛbhus** along with the Ṛtus; the inebriating draughts are collected for you as well as pious praise; do you confer upon us riches with excellent posterity.”
 

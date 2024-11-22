@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 catvāriṁśát ← catvāriṁśát- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -154,7 +157,8 @@ pajrā́ḥ ← pajrá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Forty bay horses, (harnessed) to the chariots, lead the procession in front of a thousand (followers). The Pajras, the kinsmen of **Kakṣīvat**, rub down the high-spirited steeds, decorated with golden trappings.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ávase ← ávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
 
@@ -175,7 +178,8 @@ pitárā ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Desirous of (possessing) cattlle, we have recourse to you, **Indra** and **Varuṇa**, for full protection, you who are powerful and kind as (kinsmen); we have recourse to you, adorable heroes, for (your) friendship and affection, (to you who are), like parents, givers of happiness.”
 </details>

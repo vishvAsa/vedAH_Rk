@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhumattamāḥ ← mádhumattama- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -134,7 +137,8 @@ vaḥ ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The sweet-flavoured exhilarating **Soma** juices effused (and) filtered flow for **Indra**; do you, exhilarating (juices) proceed to the gods.”
 </details>

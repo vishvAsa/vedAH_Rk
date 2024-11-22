@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D;; repeated line
-#### Morph
+_________
+**Morph**  
 cakr̥ma ← √kr̥- (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
 
@@ -176,7 +179,8 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We have prepared the parched grain and curds for you, associated with **Pūṣan**; the fried barley for you, lord of the tawny horses, associated with your steeds; attend by the troop of **Maruts**, eat the cakes; hero, who is wise, and the slayer of **Vṛtra**, drink the libation.”
 </details>

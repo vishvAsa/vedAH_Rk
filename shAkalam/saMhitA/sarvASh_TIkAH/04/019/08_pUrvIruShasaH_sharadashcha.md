@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ca ← ca (invariable)  
 {}
 
@@ -171,7 +174,8 @@ srávitave ← √sru- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Having slain **Vṛtra**, he has liberated many mornings and years (that had been) swallowed up by darkness, and has set the rivers free; **Indra** has released the imprisoned rivers, encompassed (by the cloud), to flow upon the earth.”
 </details>

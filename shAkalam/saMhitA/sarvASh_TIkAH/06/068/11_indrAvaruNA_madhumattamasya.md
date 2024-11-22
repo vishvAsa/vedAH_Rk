@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrāvaruṇā ← índrāváruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -160,7 +163,8 @@ mādayethām ← √mad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Drink, **Indra** and **Varuṇa**, showerers (of benefits), of the most sweet **Soma**, the shedder (of blessings); this your Soma, is poured forth by us; sitting on the sacred grass, be exhilarated (by the draught).”
 </details>

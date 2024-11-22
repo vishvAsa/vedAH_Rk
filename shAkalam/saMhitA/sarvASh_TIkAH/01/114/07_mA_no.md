@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arbhakám ← arbhaká- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -245,7 +248,8 @@ tanvàḥ ← tanū́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Injure not, **Rudra**, those amongst us who are old or young, who are capable of begetting, or who are begotten, nor a father, nor a mother, nor afflict our precious person ns.”
 </details>

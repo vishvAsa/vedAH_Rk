@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ryaḥ ← ā́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -196,11 +199,13 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, the praised of many, may he who proposes to assail us, whether he be a **dāsa**, an **ārya**, or anenemy of the gods; through your aid may all (such) foes be easily overcome by us; through you may we destroythem in battle.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 A dāsa = adeva
 </details>

@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
-#### Morph
+_________
+**Morph**  
 agriyám ← agriyá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -121,11 +124,13 @@ kévalaḥ ← kévala- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke the chief and multiform **Tvaṣṭṛ** (= **Viśvakarmā**); may he be solely ours.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Tvaṣṭā** = Viśvakarmā, artificer of the gods, the fabricator of the original sacrificial vase or ladle. tvaṣṭā vai paśūnām mithunānām rūkakṛt---iti śruteḥ (**Taittirīya**.**Saṃhitā** 6.1.8.5): Tvaṣṭā forms in animals in pairs; he is also an **Āditya**; here he is **an Agni**: Tvaṣṭṛ-nāmakam agnim
 </details>

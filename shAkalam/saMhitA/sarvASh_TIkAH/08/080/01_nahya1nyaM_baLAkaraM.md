@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákaram ← √kr̥- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
 
@@ -126,7 +129,8 @@ tvám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Other than you, **Śatakratu**, I know no bestower of happiness; **Indra**, do you make us happy.”
 </details>

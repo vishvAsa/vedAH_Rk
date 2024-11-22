@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agním ← agní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -151,11 +154,13 @@ sudītáye ← sudītí- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Land with your hymns for our protection, **Agni**, whose splendour lie outspread; laud Agni for wealth, OPurumīḷha, for other offerers are lauding that far famed one on their own behalf; solicit of Agni a house for (me)Sudīti.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Whose splendours lie outspread: śīraśociṣam, śayanasvabhāva rociṣkam; (RV 4.5.10): aśanaśīla jvālam
 </details>

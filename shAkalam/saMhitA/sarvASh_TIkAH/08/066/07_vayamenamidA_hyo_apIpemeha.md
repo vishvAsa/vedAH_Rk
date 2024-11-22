@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 enam ← ena- (pronoun)  
 {case:ACC, gender:M, number:SG}
 
@@ -167,11 +170,13 @@ nūnám ← nūnám (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Today and yesterday we have here refreshed him, the thunderer; bring to him today our libation effusedfor (success in) battle; let him now hasten here on hearing our praise.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 From success in battle: savane =**samanā**, for battle
 </details>

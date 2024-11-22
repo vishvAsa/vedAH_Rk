@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 átra ← átra (invariable)  
 {}
 
@@ -211,11 +214,13 @@ pitā́ ← pitár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The heaven is my parent and progenitor; the navel (of the earth) is my kinsman; the spacious earth is my mother. The womb (of all beings) lies between the two uplifted ladles, and in it the parent has deposited the germ (of the fruitfulness) of the daughter.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 My parent: nābhir atra **bandhu**: **nābhi** is related to me **pitā** **janitā**, i.e. the moisture of the earth, by which corn is abundant, and which, as derived from the rain of heaven, makes the latter the parent and progenitor of man;
 

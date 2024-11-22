@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 grā́vāṇaḥ ← grā́van- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -113,7 +116,8 @@ yájamānāya ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May the divine **Savitā** quickly urge you, stones, by his sustaining (action) for the sake of theworshipper, who makes the libation.”
 </details>

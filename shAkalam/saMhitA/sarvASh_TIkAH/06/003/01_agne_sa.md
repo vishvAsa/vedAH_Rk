@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ágne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -200,11 +203,13 @@ tyájasā ← tyájas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The offerer of sacrifice, born for religious rites, who lives devoted, **Agni**, to you, obtains abundant light, and is a man whom you, sympathizing in satisfaction with **Mitra** and **Varuṇa**, protect by your shield from iniquity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 By your shield, tvajasā: tvāJanasādhanena āyudhena, by a weapon which is the instrumental ument of causing abandonment or escape
 </details>

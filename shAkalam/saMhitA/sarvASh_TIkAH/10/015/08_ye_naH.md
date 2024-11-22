@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -174,11 +177,13 @@ uśán ← √vaś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Yama**, being propitiated, desirous (of the offering), partake at plural asure of the oblations along withthose our ancient progenitors of the **Saumyas**, the possessors of great wealth, who also desire it, and whoconveyed the **Soma** (to the gods and to the **Pitṛs**) in order.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Our ancient progenitors: pūrve pitaraḥ, who, asprogenitors when living, offered the Soma, and now, as Pitṛs, partake of it;
 

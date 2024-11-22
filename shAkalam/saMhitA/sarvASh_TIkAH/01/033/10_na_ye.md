@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ántam ← ánta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -212,7 +215,8 @@ támasaḥ ← támas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When the waters descended not upon the ends of the earth, and overspread not that giver of affluence with its productions, then **Indra**, the showerer, grasped his bolt, and with its brightness milked out the waters from the darkness.”
 </details>

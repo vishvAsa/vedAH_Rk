@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 eṣá ← eṣá (pronoun)  
 {case:NOM, gender:M, number:SG}
 
@@ -198,7 +201,8 @@ duṣprāvyàḥ ← duṣprāvī́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “This hero, **Indra**, the prompt discomfiter (of foes), who is to be approached with homage, grants special maturity to the presenter of the libation; he is not the kinsman, nor friend, nor relative, of him who offers no libation (to him); he is difficult of access, and the punisher of him who repeats not (his) praise.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 caná ← caná (invariable)  
 {}
 
@@ -182,11 +185,13 @@ vadhéna ← vadhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Vyaṃsa**, exulting and striking (hard blows), smote you, **Maghavan**, upon the jaw; whereupon, being so smitten, you proved the stronger, and did crush the head of the slave with the thunderbolt.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vyaṃsa: name of a **rākṣasa** who also attempted to destroy the infant **Indra**
 </details>

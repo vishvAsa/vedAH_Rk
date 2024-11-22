@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 jātavedaḥ ← jātávedas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -170,7 +173,8 @@ vāmájātāḥ ← vāmájāta- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Son of strength, **Jātavedas**, rejoice in our adorations, (be) satisfied by our offerings, (theworshippers) have plural ced before you viands of many sorts of wonderful efficacy, of excellent origin. {Son ofstrength: ūrjo **napāt** = grandson of waters; or, non-injurer; or, food\].”
 </details>

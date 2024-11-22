@@ -22,14 +22,17 @@ ChandaH = "ककुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; repeated line  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 mádhumattamaḥ ← mádhumattama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -121,7 +124,8 @@ máhi ← máh- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma**,who are most sweet-flavoured, most intelligent, the exhilarator, flow for **Indra**, the great, the most brilliant,the exhilarator.”
 </details>

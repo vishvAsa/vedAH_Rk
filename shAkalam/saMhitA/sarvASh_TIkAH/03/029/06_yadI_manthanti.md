@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D  
 genre D  
 genre D  
 genre D
-#### Morph
+_________
+**Morph**  
 bāhúbhiḥ ← bāhú- (nominal stem)  
 {case:INS, gender:M, number:PL}
 
@@ -205,7 +208,8 @@ vr̥ṇakti ← √vr̥j- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When they rub (the sticks) with their arms the radiant **Agni** bursts forth from the wood like a fleet courser, and like the many-coloured car of the **Aśvins** unresisted in its course, Agni spreads wide around consuming stones and trees.”
 </details>

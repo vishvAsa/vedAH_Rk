@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 samanā́ ← samanā́ (invariable)  
 {}
 
@@ -177,7 +180,8 @@ maghā́ni ← maghá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hastening in battle you approach the sacrifice; you bring the two **Nāsatyās** to friendship (with us);you, **Indra**, possess a heap of treasures, thousands (in numbers); the **Aśvins**, hero, gave us riches.”
 </details>

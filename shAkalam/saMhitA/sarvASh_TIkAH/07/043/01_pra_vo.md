@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 arcan ← √r̥c- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
 
@@ -179,7 +182,8 @@ viyánti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Devout worshippers seek to attain you, gods, by praises at sacrifices; they (worship) the heaven andearth, they of whom the divesified adorations spread everywhere like th ebranches of trees.”
 </details>

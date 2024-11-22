@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhānúnā ← bhānú- (nominal stem)  
 {case:INS, gender:M, number:SG}
 
@@ -159,7 +162,8 @@ yāti ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When, Uṣas, you move with radiance, you shine equally with the sun; and this chariot of the Aśvinsproceeds to the hall of sacrifice frequented by the leaders (of the rite).”
 </details>

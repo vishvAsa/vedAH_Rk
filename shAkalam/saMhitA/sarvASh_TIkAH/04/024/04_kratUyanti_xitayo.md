@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 kratūyánti ← √kratūy- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
 
@@ -181,7 +184,8 @@ néme ← néma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Powerful **Indra**, men variously dispersed, come mutually together to celebrate sacred rites for the sake of obtaining rain; when men who are combatants assemble in battle, there are some of them who rely upon Indra.”
 </details>

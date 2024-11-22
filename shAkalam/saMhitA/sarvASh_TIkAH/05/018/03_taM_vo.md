@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dīrghā́yuśociṣam ← dīrghā́yuśociṣ- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -149,7 +152,8 @@ ví ← ví (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I invoke you bright-shining, through a long life, with praise, (for the benefit) of the affluent, that their chariot, giver of horses, may proceed unimpeded.”
 </details>

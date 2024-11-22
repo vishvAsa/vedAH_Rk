@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; 11 = 4+7, ending HLX  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dáṁsujūtaḥ ← dáṁsujūta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -170,7 +173,8 @@ víśvāsu ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, borne by well-trained horses, endowed with surpassing strength, renowned above men, munificent in gifts, moves a hero, ever undaunted in all combats, (even) against mightymen.”
 </details>

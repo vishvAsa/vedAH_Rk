@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 arakṣásam ← arakṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
 
@@ -149,11 +152,13 @@ jamádagninā ← jamádagni- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Deities rich in food, when we solicit your bounty, that (wealth) which demons cannot thwart-- then,helping our praise directed to the east, come, leaders of rites, worshipped by **Jamadagni**.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Helping: inspiring; cf.RV 4.6.1
 </details>

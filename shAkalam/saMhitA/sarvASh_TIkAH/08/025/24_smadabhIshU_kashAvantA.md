@@ -22,14 +22,17 @@ ChandaH = "उष्णिक्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 káśāvantā ← káśāvant- (nominal stem)  
 {case:ACC, gender:M, number:DU}
 
@@ -123,11 +126,13 @@ vājínau ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Through this new praise (of **Mitra** and **Varuṇa**) I have obtained at the same moment of the mightyprince, two fast-going sagacious steeds, with whip and reins.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Steeds: viprau = medhāvinam ucitau, worthy ofthe praisers of a deity
 </details>

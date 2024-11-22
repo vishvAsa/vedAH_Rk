@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhūvan ← √bhū- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
 
@@ -205,7 +208,8 @@ naḥ ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You purifying water have been spread abroad; fill their beds for our welfare; riding on the car, defend us from the malevolent, and make us quickly the conquerors of cattle.”
 </details>

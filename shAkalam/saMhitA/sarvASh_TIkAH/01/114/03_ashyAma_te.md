@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśyā́ma ← √naś- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
 
@@ -187,7 +190,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Rudra**, showerer (of benefits), may we obtain, through our worship of the gods, the favour of you, who are the destroyer of heroes;come to our posterity, purposing to promote their happiness, while we, having our sons in safety, offer you oblations.”
 </details>

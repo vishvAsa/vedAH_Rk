@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 anyaké ← anyaká- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -174,7 +177,8 @@ sahásram ← sahásra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily the **Rājā** **Citra**, giving his thousands and tens of thousands, has overspread (with his bounty)those other petty princes, who rules along the **Sarasvatī**, as **Parjanya** (overspeads the earth) with rain.”
 </details>

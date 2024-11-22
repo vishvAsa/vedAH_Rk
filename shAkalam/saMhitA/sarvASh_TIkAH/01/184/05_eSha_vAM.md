@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akāri ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -171,7 +174,8 @@ nāsatyā ← nā́satya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, possessors of wealth, this sin-removing hymn has been addressed to you, together with respectful (oblations); **Nāsatyas** be favourable to **Agastya**; come to his dwelling for (conferring on him) progeny, and for his own (good).”
 </details>

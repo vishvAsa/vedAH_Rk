@@ -23,15 +23,18 @@ ChandaH = "सतो बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aryamā́ ← áryaman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -168,7 +171,8 @@ vidhemahi ← √vidh- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Protected by **Indra**, well-knowing the path that through your power, (**Agni**), we should follow, we adorethat (radiance) of you, by which **Varuṇa**, **Mitra**, **Aryaman**, the **Nāsatyās**, and **Bhaga** shine.”
 </details>

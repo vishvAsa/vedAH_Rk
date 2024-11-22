@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etā́ ← eṣá (pronoun)  
 {case:ACC, gender:M, number:DU}
 
@@ -204,7 +207,8 @@ vavr̥tyām ← √vr̥t- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Hero, **Indra**, (come to the sacrifice of the man) who, by his adoration, has harnessed (to your car) theseyour favourite, graceful and vigorous horses; may I bring hither **Aryaman**, the doer of good deeds, who baffles thewrath of the malevolent.”
 </details>

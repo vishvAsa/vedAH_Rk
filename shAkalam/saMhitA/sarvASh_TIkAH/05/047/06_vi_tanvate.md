@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ápāṁsi ← ápas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -172,7 +175,8 @@ yanti ← √i- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To him (worshippers) multiply praises and acts of adoration; for (him as for) a son, the (divine) mothers weave garments (of light); rejoicing in the contact of their impregnation, the wives of the sun, (the solar rays), come to our presence by the path of the sky.”
 </details>

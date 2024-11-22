@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya  
 genre D;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 bhāgadhéyāni ← bhāgadhéya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
 
@@ -174,7 +177,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “These your offered portions stream forth, O **Indra** and **Varuṇa**, to your honour in the oblations; at everysacrifice you hasten to the oblations, when you help the offerer who presses out the **Soma**.”
 </details>

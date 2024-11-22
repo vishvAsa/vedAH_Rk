@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 agnáye ← agní- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -189,11 +192,13 @@ yajasva ← √yaj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The **Ṛbhus** have fabricated praise for **Agni**; we have recited pious praise to the mighty Agni; Agni,youngest (of the gods), protect your worshipper; Agni, bestow (on him) abundant wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Viśvakarman**: not the artificer of the gods, but the maker of all, the creator, **Parameśvara**; the epithet is used of **Indra**, RV 8.9.2\] pious benedictions, the first inventor has entered inferior (beinggs). \[Offering all these worlds: i.e., destroying atthe **praḷaya**, or dissolution of the world (**Yajus**. 17.17);
 

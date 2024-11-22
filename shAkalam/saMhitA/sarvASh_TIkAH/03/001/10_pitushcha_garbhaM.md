@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 babhre ← √bhr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
 
@@ -191,7 +194,8 @@ ubhé ← ubhá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He cherishes the embryo of the parent (firmament), and of the genitive rator (of the world); he alone consumes many flourishing (plural nts); the associated brides (of the Sun, Heaven and Earth), who are kind to man, are both of kin to that pure showerer (of blessings); do you, **Agni**, ever preserve them.”
 </details>

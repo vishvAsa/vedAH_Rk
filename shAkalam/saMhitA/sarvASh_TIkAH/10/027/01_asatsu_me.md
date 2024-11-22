@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 abhivegáḥ ← abhivegá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -175,11 +178,13 @@ vr̥jināyántam ← √vr̥jināy- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(**Indra** speaks). Such is my plural asant disposition, worshipper, that I help the instrumental tutor of the rite, whooffers libation; but I am the punisher of him who offers not libations, who disregards the truth, the perpetrator ofsin, the malignant.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I help...libations: I bestow upon him whatever he desires; **ātmā** vai putranāmāsi(**Āśvalāyana Gṛhya Sūtra** 1.15.11) iti vacanādindrarūpeṇāvasthito vasuvra ātmānam stauti;
 

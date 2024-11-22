@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M;; repeated line  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 kuṇḍr̥ṇā́cyā ← kuṇḍr̥ṇā́cī- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -166,7 +169,8 @@ tuvīmagha ← tuvī́magha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Let us (adverse) breeze, with crooked course, alight afar off on the forest; **Indra**, of boundless wealth, enrich us with thousands of excellent cows and horses.”
 </details>

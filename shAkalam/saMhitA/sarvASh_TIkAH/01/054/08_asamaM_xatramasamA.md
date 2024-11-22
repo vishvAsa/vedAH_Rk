@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ásamā ← ásama- (nominal stem)  
 {case:NOM, gender:F, number:SG}
 
@@ -194,7 +197,8 @@ vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Unequalled is his might; unequalled is his wisdom; may these drinkers of the **Soma** become equal to him the pious act, for they, **Indra**, who present to you oblations, augment your vast strength and your manly vigour.”
 </details>

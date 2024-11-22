@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 akṣáre ← akṣára- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -237,11 +240,13 @@ yé ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “All the gods have taken their seats upon this supreme heaven, the imperishable (text) of the **Veda**; what will he, who knows not this, do with the Veda? but they who do know it, they are perfect.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Upon this supreme: ṛco akṣare parame vyomani: ṛk = all the **Vedas**;
 

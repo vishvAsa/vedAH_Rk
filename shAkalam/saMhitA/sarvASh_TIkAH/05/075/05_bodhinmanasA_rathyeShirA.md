@@ -24,16 +24,19 @@ ChandaH = "पङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bodhínmanasā ← bodhínmanas- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -158,7 +161,8 @@ máma ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “With mind attentive (to praise), riding in cars, swift-moving, listening to invocations, you hastened with your steeds to the single-purposed **cyavana**; masters of mystic lore, hear my invocation.”
 </details>

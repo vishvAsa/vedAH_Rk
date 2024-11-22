@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 gávāśiraḥ ← gávāśir- (nominal stem)  
 {case:ACC, number:PL}
 
@@ -137,11 +140,13 @@ vā́tāpe ← vātāpi- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “And since we enjoy, **Soma**, your mixture with boiled milk or boiled barley; therefore, Body, do you grow fat.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Soma: The object addressed is now not food in genitive ral, but a modified form of the Soma; your mixture with boiled milk or boiled barley: gavāśiro yavāśiro = preparations of milk and barley, boiled; govikāra kṣīrādyāśrayaṇa dravyam and yavavikārāśryaṇa dravyam
 </details>

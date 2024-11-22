@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gavéṣaṇam ← gavéṣaṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I harness (by praises) the kine-bestowing chariot (of **Indra**) with his horses; (my) prayers have reachedhim who is plural ased (by devotion); he has surpassed in magnitude heaven and earth, slaying the unresistingenemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Vritranyaprati jaghanvān: aprati = dvandvāni, two-fold, doubled
 </details>

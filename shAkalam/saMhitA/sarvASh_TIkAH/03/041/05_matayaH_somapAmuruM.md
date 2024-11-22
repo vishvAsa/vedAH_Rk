@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 matáyaḥ ← matí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -128,7 +131,8 @@ vatsám ← vatsá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Our praises caress the mighty **Indra**, the drinker of the **Soma**, as cows lick their calves.”
 </details>

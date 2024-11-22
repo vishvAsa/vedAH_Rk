@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 adadāt ← √dā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -179,7 +182,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “She gave to the donor of the oblations, Vadhryaśva, a son **Divodāsa** endowed with speed, and acquitting the debt (due to gods and progenitors), she who destroyed the churlis niggard, (thinking) only of himself, such are your bounties, **Sarasvatī**.”
 </details>

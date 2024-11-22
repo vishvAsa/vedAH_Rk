@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gachathaḥ ← √gam- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
 
@@ -172,7 +175,8 @@ vayám ← ahám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To whom do you proceed? to whom do you repair? to (go to) whose presence do you harness your car? by whose prayers are you gratified? We are anxious for your arrival.”
 </details>

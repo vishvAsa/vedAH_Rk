@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -190,11 +193,13 @@ vā́jam ← vā́ja- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To the leaders (of the sacrifice), dwelling in the firmament, we present, as with a ladle, the appointed clarified butter, and praise with knowledge those **Ṛbhus**, who, having equalled the velocityof the protector (of the universe, the sun), ascended to the region of heaven, through (the offerings) of (sacrificial) food.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Nṛbhyaḥ = yajñasya netṛbhyaḥ; ṛbhavo hi yajñasya netāraḥ: 'the ṛbhus are the leaders of the sacrifice'; because of this position, they obtained immortality; the term is perhaps connected with antarikṣasya, to the chief of the firmament; ṛbhus also identified with the solar rays (ādityaraśmayo api **ṛbhava** ucyanti: the ṛbhus are, indeed, said to be the rays of the sun
 </details>

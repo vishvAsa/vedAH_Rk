@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M;; repeated line  
 genre M
-#### Morph
+_________
+**Morph**  
 citra ← citrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -217,7 +220,8 @@ viśvápsnyasya ← viśvápsnya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, hero assuming many forms, may that truthfulness of you protect me; bear us, thunderer, over ourmany sins as over waters; when, radiant Indra, will you give us some wealth, desirable to all, manifold in itskinds?”
 </details>

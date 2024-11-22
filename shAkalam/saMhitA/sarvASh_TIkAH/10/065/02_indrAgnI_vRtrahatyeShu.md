@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indrāgnī́ ← indrāgní- (nominal stem)  
 {case:NOM, gender:M, number:DU}
 
@@ -178,11 +181,13 @@ sómaḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, and **Agni**, the lords of the virtuous, standing in the same plural ce, mutually invigorating each otherwith might in the **Vṛtra**-slaying battles, and the ghī-glorified **Soma** putting forth his greatness have filled the vastfirmament with their strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ghī-glorified: ghṛtaśrī = having recourse to the Vasatīvari water
 </details>

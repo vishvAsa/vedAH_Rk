@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -195,7 +198,8 @@ satyā́ ← satyá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He (is) genitive rated for prosperity, for prosperity he issues forth, he gives prosperity (and) sustenance to those who praise him; clothing themselves in (his) prosperity, they obtain immortality; their conflicts are successful through the aid of (the **Soma**) who moves with measured tread.”
 </details>

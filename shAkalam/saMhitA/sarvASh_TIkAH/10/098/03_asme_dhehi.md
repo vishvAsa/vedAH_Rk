@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 āsán ← āsán- (nominal stem)  
 {case:LOC, gender:N, number:SG}
 
@@ -173,7 +176,8 @@ viveśa ← √viś- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Put, **Bṛhaspati**, in my mouth a brilliant eulogium, prompt and free from defect, by which we two mayobtain rain from heaven for **Śantanu**, the sweet drop (sent by you) has entered (our voice).”
 </details>

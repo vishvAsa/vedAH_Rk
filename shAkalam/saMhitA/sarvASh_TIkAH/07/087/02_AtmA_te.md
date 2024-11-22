@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -207,11 +210,13 @@ víśvā ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Your spirit is the wind; he sends abroad the waters; he, the cherisher of the world, is the feeder on(ssacrificial) food, like an animal upon fodder; all your glories, **Varuṇa**, manifested between the vast andspacious heaven and earth, give delight (to all).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 The spirit is the wind: **ātmā** te **vātaḥ**: the wind being sentabroad by you is the support of all living beings, in the form of breath
 </details>

@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 gáldayā ← gáldā- (nominal stem)  
 {case:INS, gender:F, number:SG}
 
@@ -169,11 +172,13 @@ yāciṣat ← √yāc- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May I never, when importuning you in sacrifices with the effusion of the **Soma** and with praise, exciteyou like a ferocious lion to wrath; who (is there in the world) that does not solicit his lorḍ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Excite you: bhūrṇim =bhartāram, my lord
 </details>

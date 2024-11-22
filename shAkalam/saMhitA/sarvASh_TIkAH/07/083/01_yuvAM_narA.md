@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́pyam ← ā́pya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
 
@@ -185,11 +188,13 @@ sudā́sam ← sudā́s- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra** and **Varuṇa**, leaders (of rites), contemplating your affinity, and desirous of cattle, the worshippers,armed with large sickles, have proceeded to the east (to cut the sacred grass); destroy, Indra and Varuṇa, yourenemies, whether Dāsās or **Āryās** and defend **Sudāsa** with yor protection.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Sickles: pṛthuparśavaḥ =**vistīrṇa** śvaparśu hasta, holding large rib-bones of horses;
 

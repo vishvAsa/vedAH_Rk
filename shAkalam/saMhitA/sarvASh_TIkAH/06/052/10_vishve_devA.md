@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -118,11 +121,13 @@ yújyam ← yújya- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Universal gods, augmenters of sacrifice, listening to praises (uttered) at due seasons, accept your appropriate milk-offering.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yuyam **payas**, a mixture of milk and curds, termed **āmikṣā**: cf. tapte payasi dadhyānayat vaiśvadevyāmikṣā, when the milk is boiled he brings the curds, that is, the āmikṣā, proper for the Viśvadevaṣ
 

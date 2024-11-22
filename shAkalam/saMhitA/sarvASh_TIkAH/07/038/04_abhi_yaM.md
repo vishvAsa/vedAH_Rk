@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 abhí ← abhí (invariable)  
 {}
 
@@ -173,11 +176,13 @@ sajóṣāḥ ← sajóṣa- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whom the divine **Aditi**, delighting at the birth of the divine **Savitṛ**, glorifies, whom the supremesoverigns, **Varuṇa**, **Mitra**, **Āryaman**, (and other gods) adore.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Mitra and other gods: Mitra occurs in the plural ralmitrāsaḥ, i.e. Mitra and others
 </details>

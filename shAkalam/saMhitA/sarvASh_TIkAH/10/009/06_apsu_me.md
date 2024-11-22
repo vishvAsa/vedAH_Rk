@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; repeated line  
 popular;; repeated line
-#### Morph
+_________
+**Morph**  
 abravīt ← √brū- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -128,11 +131,13 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Soma** has declared to me; all medicaments, as well as **Agni**, the benefactor of the universe, are in thewaters.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 This and the following ṛcas of the **sūkta** are repetitions from RV.1. 23, 20-23; in **maṇḍala** 1, Somaspeaks to **Kaṇva**; in this present maṇḍala, Soma speaks to Āmbarīṣa **Sindhudvīpa**, a **rājā**
 </details>

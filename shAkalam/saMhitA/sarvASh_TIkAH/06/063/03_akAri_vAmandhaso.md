@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ákāri ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
 
@@ -160,7 +163,8 @@ vām ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(What is essential) for the copious effusion of the (sacrificial) food has been done for you; the very delicate sacred grass has been strewn; the (priest with) uplifted **hands** desirous o your presence praises you; the stones express (the **Soma**), designing it for you.”
 </details>

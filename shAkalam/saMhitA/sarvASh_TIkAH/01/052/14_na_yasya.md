@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ánu ← ánu (invariable)  
 {}
 
@@ -220,7 +223,8 @@ víśvam ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “you, **Indra**, of whom heaven and earth have not attained the amplitude; of whom the waters of heaven have not reached the limit; of whom, when warring with excited animation against the withholder of the rains, (his adversaries have not equalled the prowess); you alone have made everything else, (than yourself), dependent (upon you).”
 </details>

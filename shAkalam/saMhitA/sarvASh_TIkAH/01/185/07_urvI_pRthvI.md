@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 bahulé ← bahulá- (nominal stem)  
 {case:ACC, gender:F, number:DU}
 
@@ -183,7 +186,8 @@ rákṣatam ← √rakṣⁱ- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I glorify with reverence, at this sacrifice, (the two), who are vast, expansive, multiform, infinite, auspicious;who support (all beings) by their bounty; defend us, Heaven and Earth, from great danger.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 devāsaḥ ← devá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
 
@@ -207,11 +210,13 @@ yūyám ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Grant us, deities, this day opulence; may you all, may you all, well- plural ased alike, be (ready) for ourprotection; may the exalted (**Ṛbhus**) bestow upon us food; and do you (all) ever cherish us with blessingṣ”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Ṛbhus: **vasavaḥ** = **Vasus**; praśasyaḥ, an epithet of **Ṛbhavaḥ**
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akratū́n ← akratú- (nominal stem)  
 {case:ACC, gender:M, number:PL}
 
@@ -198,7 +201,8 @@ pū́rvaḥ ← pū́rva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “May **Agni** utterly confound those **Dasyus** who perform no (sacred) rites, who are babblers defective inspeech, niggards, unbelievers; not honouring (Agni), offering no sacrifice; Agni preceding, has degrated thosewho instrumental tute no sacred ceremonies.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "अनुष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 bhānáve ← bhānú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
 
@@ -156,7 +159,8 @@ purás ← purás (invariable)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Offer abundant (sacrificial) food to the brilliant divine **Agni**, whom mortals have plural ced before them by praises as a friend.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dádhānān ← √dhā- 1 (root)  
 {case:ACC, gender:M, number:PL, tense:PRS, voice:MED}
 
@@ -196,7 +199,8 @@ yáḥ ← yá- (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “He, who with the thunderbolt has destroyed many committing great sin, and offering (him) no homage; who grants not success to the confident; who is the slayer of the **Dasyus**; he, men, is **Indra**.”
 </details>

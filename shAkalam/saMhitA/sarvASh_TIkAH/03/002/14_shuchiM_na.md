@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 iṣirám ← iṣirá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -191,7 +194,8 @@ vājínam ← vājín- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “We implore with prayer the mighty **Agni**, the giver of food, the unrefusing, (seated on) the front of heaven; the radiant in the sacrifice, him who is to be sought (for by all), the beholder of all, the emblem of heaven, the dweller in light, who is to be awakened at dawn.”
 </details>

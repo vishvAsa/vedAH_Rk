@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 dákṣiṇam ← dákṣiṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -203,11 +206,13 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Indra**, lord of abundant wealth, we, desiring wealth, seize hold of your right **hand**; we know you, hero,lord of abundant cattle, give us various fertilizing riches.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Vaikuṇṭha**: the legend: **Vikuṇṭha** was a feminine le **asura**,who, desiring to have a son like Indra, performed penance (the **kṛcchra** and cādrāyaṇa etc.) for the purpose.Indra, wishing that there should not be another like himself, took upon him the state of the embryo of Vikuṇṭha,and was born as her son; give uṣ..riches: this refrain occurs in each ṛca: citram is variously explained as :desirable, honourable; vṛṣaṇam as fertilizing or a son
 </details>

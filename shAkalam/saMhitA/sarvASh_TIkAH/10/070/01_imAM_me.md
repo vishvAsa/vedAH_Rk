@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -204,7 +207,8 @@ sukrato ← sukrátu- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Graciously accept, **Agni**, this my fuel (plural ced) on the plural ce of libation (the altar); delight in thebutter-laden (spoon); most wise, rise up upon the lofty plural ce of the earth for the propitiousness of the daysthrough the worship of the gods.”
 </details>

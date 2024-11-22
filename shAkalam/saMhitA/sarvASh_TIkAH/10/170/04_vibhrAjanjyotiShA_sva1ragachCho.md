@@ -23,15 +23,18 @@ ChandaH = "आस्तारपङ्क्तिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular;; repeated line  
 popular;; repeated line  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 jyótiṣā ← jyótis- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -145,7 +148,8 @@ viśvákarmaṇā ← viśvákarman- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Illumining the whole (world) with your radiance, you have attained (**Sūrya**) the luminous region ofheaven, by which (radiance) animating all pious acts and addressed to the universal gods, all living beings arecherished.”
 </details>

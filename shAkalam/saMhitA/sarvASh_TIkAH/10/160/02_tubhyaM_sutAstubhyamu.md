@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 sótvāsaḥ ← sótva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
 
@@ -195,7 +198,8 @@ víśvasya ← víśva- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For you are the libations that have been poured out, for you are those which are to be poured out; youdo our quickly uttered praises invoke; **Indra**, who are cognizant of all things, taking plural asure in this presentsacrifice, drink the **Soma** here.”
 </details>

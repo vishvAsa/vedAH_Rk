@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ā́ ← ā́ (invariable)  
 {}
 
@@ -227,11 +230,13 @@ Rise, O agni, blaze before us, one with sharp missiles, burn down our foes. Oh a
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Sharp-weaponed **Agni**, rise up; spread wide (your flames) against (the **rākṣasas**); entirely consume the foes; blazing Agni, burn down him who acts as an enemy towards us like a piece of dry timber.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Who acts as an enemy: āratim cakre may also mean, who annuls or prevents our donation, one who makes a gift no gift
 </details>

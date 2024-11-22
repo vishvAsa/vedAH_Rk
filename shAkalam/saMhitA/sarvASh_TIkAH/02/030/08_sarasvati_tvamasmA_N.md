@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 asmā́n ← ahám (pronoun)  
 {case:ACC, number:PL}
 
@@ -166,11 +169,13 @@ vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Sarasvatī**, do you protect us; associated with the **Maruts** and firm (of purpose), overcome our foes, whiilst **Indra** slays the chief of the Śaṇḍikas, defying him and confiding in his strength.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Śaṇḍikas : vṛṣaqbham śaṇḍikānām, descendants of **śaṇḍa**, who, with **Amarka**, is the **purohita**, or priest of the **asuras** \[śaṇḍāmarkāvasurapurohitau (**Taittirīya** **Saṃhitā**: 6.4.10.1)
 </details>

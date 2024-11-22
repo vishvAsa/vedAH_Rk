@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 máhasā ← máhas- (nominal stem)  
 {case:INS, gender:N, number:SG}
 
@@ -197,7 +200,8 @@ te ← tvám (pronoun)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Whoever has goaded you in your paces, either with heel or with whip, whilst nothing in your strength-- all these (vexations) I pour out with holy prayers, as oblation with the ladle.”
 </details>

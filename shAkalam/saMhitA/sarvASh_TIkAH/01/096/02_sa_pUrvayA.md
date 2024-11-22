@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 āyóḥ ← āyú- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -195,11 +198,13 @@ draviṇodā́m ← draviṇodā́- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “(Propitiated) by the primitive laudatory hymn of Āyu, he created the progeny of **Manus**, and pervades, with his all-investing splendour, the heavens and the firmament; the gods retain **Agni** as the giver of (sacrificial) wealth.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Āyu = **Manu**; manunā **stutaḥ** san mānavaiḥ **sarvāḥ** prajāhajanayat, being hymned by Manu,he created all the offspring sof Manu
 </details>

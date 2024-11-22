@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
@@ -37,7 +39,8 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
 genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).
-#### Morph
+_________
+**Morph**  
 dasmáḥ ← dasmá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -271,11 +274,13 @@ sumr̥ḷīkā́ya ← sumr̥ḷīká- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, the subduer (of adversaries), pierce every rain (confining) skin; you overtake, hero, every flying mortal (cloud), and abandon (it) when exhausted (of its water) for such glorious deed, **Indra**, I offer praise to you; to heaven; to the self-glorifying **Rudra**; to **Mitra**; (to each) the benefactor (of mankind) for such glorious (deed).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Yāvir aruram martyam, parivṛṇakṣi martyam = you mix with the departing mortal, you abandon the mortal;
 

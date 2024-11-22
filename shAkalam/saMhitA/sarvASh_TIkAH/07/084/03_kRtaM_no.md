@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 cā́rum ← cā́ru- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -211,7 +214,8 @@ tiretam ← √tr̥̄- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Render the sacrifices offered inour dwelling fruitful, the prayers uttered by the worshippers successful;may riches come to us sent by the gods; do you two give us increase by you desirable protections.”
 </details>

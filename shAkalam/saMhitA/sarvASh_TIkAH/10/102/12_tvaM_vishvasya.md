@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
-#### Pāda-label
+_________
+**Pāda-label**  
 popular  
 popular  
 popular  
 popular
-#### Morph
+_________
+**Morph**  
 jágataḥ ← jágat- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -159,7 +162,8 @@ yujā́ ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “You, **Indra**, are the eye of the whole world, when, showerer (of benefits), urging on your two vigoroussteeds, harnessed to the car, you engage in battle.”
 </details>

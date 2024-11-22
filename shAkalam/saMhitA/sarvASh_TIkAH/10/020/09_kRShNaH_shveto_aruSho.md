@@ -22,14 +22,17 @@ ChandaH = "विराट्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aruṣáḥ ← aruṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -147,11 +150,13 @@ jánitā ← jánitar- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “His chariot is black, white, red, tawny, dark red, crimson, and glorious; the progenitor of all has givenhim a chariot of gold.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 His chariot is black: or, white, brilliant, vast, straight going, red and glorious; that thechariot should be of different colours is because of the exceeding power of **Agni**
 </details>

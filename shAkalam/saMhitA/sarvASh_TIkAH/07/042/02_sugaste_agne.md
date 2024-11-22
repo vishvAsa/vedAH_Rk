@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádhvā ← ádhvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -200,7 +203,8 @@ sattáḥ ← √sad- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “plural asant, **Agni**, by your long-familiar path, invoke the libation; the bay, the ruddy horses, who, brilliantshining, are the conveyers of (you), the hero, to the hall of sacrifice, where seated, I invoke the companies of thegods.”
 </details>

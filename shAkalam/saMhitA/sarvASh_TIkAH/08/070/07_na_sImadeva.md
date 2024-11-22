@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 ádevaḥ ← ádeva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -169,11 +172,13 @@ yuyójate ← √yuj- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O long-lived **Indra**, the mortal who has not you as his deity obtains no food; (he who praises not) thatsteed-borne Indra, who yokes to his car the two variegated, who yokes the two bay steeds.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Āpas** = apa tad;**harī** **indraḥ** = indro **hari**
 </details>

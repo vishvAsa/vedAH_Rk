@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 akarta ← √kr̥- (root)  
 {number:PL, person:2, mood:IND, tense:AOR, voice:ACT}
 
@@ -187,7 +190,8 @@ vājaratnāḥ ← vā́jaratna- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “By your (marvellous) deeds you have made your parents youg; by your deeds you have made the ladle (fit) for the drinking of the gods; by your deeds you have made the two horses, the bearers of **Indra**, swifter than (an arrow from) a bow, **Ṛbhus**, who are rich in (sacrificial) food.”
 </details>

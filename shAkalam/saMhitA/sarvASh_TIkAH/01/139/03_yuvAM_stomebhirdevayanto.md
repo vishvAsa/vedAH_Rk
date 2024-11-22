@@ -26,10 +26,12 @@ ChandaH = "अत्यष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
@@ -37,7 +39,8 @@ genre M
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aśvinā ← aśvín- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -246,11 +249,13 @@ ráthe ← rátha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Aśvins**, men who desire to glorify you with (their) hymns, cause, as it were, their praises to be heard, propitiating you with oblations; for, from you, who are possessed of all opulence, (they obtain) every kind of wealth and abundant food. **Dasras**, the fellies (of the wheels) of your honey-laden car drop honey, (carried) in your golden (car).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Hiraṇyaye rathe dasrā hiraṇyaye: the epithet means 'golden'; the first occurrence is interpreted as madhupūrṇa = pruṣāyante pavayaḥ (pavī rathanemirbhavati yadvipunāti bhūmim--**Nirukta** 5.5), the circumferences of the wheels distil (kṣaranti sravanti), or scatter honey, as they revolve; in the second occurrence, hirṇyaye is explained as 'plural asing, heart-delighting', hṛdayaramaṇa; and to provide an assumed ellipse, by havir-vahatam, 'convey the oblation in your delightful chariot'
 </details>

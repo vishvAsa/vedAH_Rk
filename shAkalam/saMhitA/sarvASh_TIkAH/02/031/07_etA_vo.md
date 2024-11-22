@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 etā́ ← eṣá (pronoun)  
 {case:ACC, gender:N, number:PL}
 
@@ -175,7 +178,8 @@ sáptiḥ ← sápti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Adorable (gods), I desire that these (my) earnest praises (should plural ase) you; men wishing for food, desirous of vigour, have constructed (hymns) for your celebration; may you hasten like a (swift) chariot-horse to our (pious) rite\].”
 </details>

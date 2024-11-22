@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
 
@@ -215,11 +218,13 @@ sómaḥ ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I proclaim the ancient exploits of **Indra** the recent deeds that **Maghavan** has achieved; when indeed hehad overcome the undivine illusion, thenceforth the **Soma** became his exclusive.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 I.e. the relation between theSoma and Indra thenceforth became uncommon or special, peculiar; **tadā** prabhṛtyeva somasya indrasya caasādhāraṇas sambandho **jātaḥ**; though, soms is often presented to **Agni** and other deities
 </details>

@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M;; repeated line
-#### Morph
+_________
+**Morph**  
 dhunayanta ← √dhunay- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
 
@@ -198,7 +201,8 @@ yújam ← yúj- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Verily, for him all rivers flow; him do uninterrupted and numerous plural asures await; blessed with the felicity of the gods, he ever prospers, whom **Brahmaṇaspati** makes his associate.”
 </details>

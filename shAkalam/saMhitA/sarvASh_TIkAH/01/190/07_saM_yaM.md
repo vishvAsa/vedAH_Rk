@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic on metrical evidence alone
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 avánayaḥ ← aváni- (nominal stem)  
 {case:NOM, gender:F, number:PL}
 
@@ -198,11 +201,13 @@ táraḥ ← táras- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “To whom praises (necessarily) proceed, as men (assemble round a master); as rivers, rolling between their banks, flow to the ocean; that wise **Bṛhaspati** greedy (after rain), and stationary in the midst, contemplates both (the ferry and the water).”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 That wise Bṛhaspati: ubhayam caṣṭe **antam**. bṛhaspatistara āpaśca **gṛdhraḥ**: gṛdhraḥ = vṛṣṭim ākāṅkṣamāṇa, desirous of rain;
 

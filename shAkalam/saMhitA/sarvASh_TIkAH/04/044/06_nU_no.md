@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 br̥hántam ← br̥hánt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
 
@@ -184,11 +187,13 @@ sadhástutim ← sadhástuti- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Dasras**, mete out for us both great opulence, comprising many descendants, since the leaders of the rite (the Purumīḷhas), have addressed to you, **Aśvins**, their praise, and the Ajamīḷhas have united with it their laudation.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 For us both: the two ṛṣis, the authors of the **sūkta**
 </details>

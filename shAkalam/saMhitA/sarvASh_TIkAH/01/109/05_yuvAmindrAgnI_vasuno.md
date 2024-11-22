@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Cretic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 indrāgnī ← indrāgní- (nominal stem)  
 {case:VOC, gender:M, number:DU}
 
@@ -176,7 +179,8 @@ sutásya ← √su- (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “I have heard, (when you were present) at the division of the treasure (among the worshippers), that you two, **Indra** and **Agni**, were most vigorous in the destruction of **Vṛtra**; beholders of all things seated at this sacrifice upon the sacred grass, be exhilarated, (by drinking of the effused libation).”
 </details>

@@ -25,17 +25,20 @@ ChandaH = "अष्टिः"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 áti ← áti (invariable)  
 {}
 
@@ -268,7 +271,8 @@ yāthaḥ ← √yā- 1 (root)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Pass, (**Vāyu**), by the many sleeping (worshippers) and go (with **Indra**) to the house where the stone resounds; Indra (and Vāyu), go to that dwelling; (go where) the (word of) truth is manifest; (go where) the butter flows; go both well-fed horses to the sacrifice; Indra (and Vāyu), repair to the sacrifice.”
 </details>

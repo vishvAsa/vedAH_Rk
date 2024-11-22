@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aṁśúḥ ← aṁśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -182,11 +185,13 @@ tuvyójasam ← tuvyójas- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The exhilarating **Soma** juice has been expressed; now may the curren flow to you, and may the expiatory power of the illustrious utterer of praise be directed towards us, as the quick rider holds firmly the reins of the steed.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 **Śamī** śaśamānasya **śaktiḥ** = śamanam stuvataḥ **stuti** **karma**; **śasa**'cānasya = dīptamānasya
 </details>

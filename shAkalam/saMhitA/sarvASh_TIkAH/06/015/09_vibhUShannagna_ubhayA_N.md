@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Archaic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 agne ← agní- (nominal stem)  
 {case:VOC, gender:M, number:SG}
 
@@ -209,7 +212,8 @@ trivárūthaḥ ← trivárūtha- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “Showing grace, **Agni**, to both (gods and men), and at each sacred rite the messenger of the gods, you traverse earth and heaven; inasmuch as we offer you worship and praise, therefore do you, who are the guardian of the three (regions), be auspicious to us.”
 </details>

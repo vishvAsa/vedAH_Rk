@@ -23,15 +23,18 @@ ChandaH = "बृहती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya  
 genre M;; Vālakhilya
-#### Morph
+_________
+**Morph**  
 etā́vataḥ ← etā́vant- (nominal stem)  
 {case:GEN, gender:N, number:SG}
 
@@ -146,7 +149,8 @@ Sayana bhashya empty
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “O **Indra**, we long for such a bounty of yours, rich in kine; (help us), **Maghavan**, as you did helpMedhyātithi with wealth, as you did help **Nīpātithi**.”
 </details>

@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Normal
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 aúchat ← √vas- 1 (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
 
@@ -170,7 +173,8 @@ sahásrā ← sahásra- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “The (gloom-) investing night has dispersed with the dawn (upon the appearance of) Ṛṇañcaya, the **rājā** of the **ruśamās**; **Babhru** being summoned, going like a fleet courser, has received the four thousand (cattle).”
 </details>

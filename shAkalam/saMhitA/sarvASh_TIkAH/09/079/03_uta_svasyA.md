@@ -23,15 +23,18 @@ ChandaH = "जगती"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 árātyāḥ ← árāti- (nominal stem)  
 {case:GEN, gender:F, number:SG}
 
@@ -223,7 +226,8 @@ sóma ← sóma- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “For the (**Soma**) verily is the foe of his own enemy and the destroyer of the enemy of another; as thirst overcomes one in a desert, so purified Soma, who are irresistible, slay (both) those (adversaries).”
 </details>

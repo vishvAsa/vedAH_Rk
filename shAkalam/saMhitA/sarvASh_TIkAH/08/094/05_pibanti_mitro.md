@@ -22,14 +22,17 @@ ChandaH = "गायत्री"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
 genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
-#### Morph
+_________
+**Morph**  
 aryamā́ ← áryaman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
 
@@ -104,11 +107,13 @@ triṣadhasthásya ← triṣadhasthá- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “**Mitra**, **Aryaman** and **Varuṇa** drink (the **Soma**), purified by the straining cloth, abiding in three plural ces,and granting posterity.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Abiding in three plural ces: "The Soma, when it is extracted, is poured into the **Āhavanīya**,a kind of trough. Thence, it is poured into a cloth, in order to strain it. This cloth is called **Pavitra** or Daśāpavitra.below the cloth is another trough called Pūtabhṛt" (Haug); these are the three plural ces of the text. Grantingposterity: jāvataḥ = stutyajanavantam, having reference to praise-worthy person ns
 </details>

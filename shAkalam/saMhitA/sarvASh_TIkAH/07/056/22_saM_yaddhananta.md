@@ -23,15 +23,18 @@ ChandaH = "त्रिष्टुप्"
 
 <details><summary>Vedaweb annotation</summary>
 
-#### Strata
+_________
+**Strata**  
 Strophic
 
-#### Pāda-label
+_________
+**Pāda-label**  
 genre M  
 genre M  
 genre M  
 genre M
-#### Morph
+_________
+**Morph**  
 hánanta ← √han- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
 
@@ -181,11 +184,13 @@ trātā́raḥ ← trātár- (nominal stem)
 
 <details><summary>Wilson</summary>
 
-### English translation:
+_________
+**English translation:**  
 
 “When heroic men, filled with wrath, assemble for (the sake of conquering) many plural nts and people;then, **Maruts**, sons of **Rudra**, be our defenders in battles against our enemies.”
 
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
 
 Many plural nts: bahviṣu oṣadhiṣuvikṣu = mahatīṣu oṣadhiṣu prajāsu jetavyāsu, in great plural nts and people to be subdued; by plural nta orvegetables, **oṣadhi**, the reference is, perhaps, to cultivated lands
 </details>
