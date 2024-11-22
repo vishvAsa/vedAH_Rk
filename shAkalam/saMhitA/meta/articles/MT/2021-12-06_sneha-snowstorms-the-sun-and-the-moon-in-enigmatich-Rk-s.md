@@ -202,7 +202,8 @@ iṣyāmi vo vṛṣaṇo yudhyatājau ॥ RV 8.96.14
 > As the deva-less folks moved forth \[to attack\],  
 > united with Bṛhaspati, Indra conquered \[them\].
 
-### Commentary
+_________
+**Commentary**  
 The black drop (drapsa, an old IE word) is interpreted
 as the new Moon. The drop is associated most commonly with soma (with a
 lunar equivalence in several cases; on rare occasions it is used for
@@ -322,7 +323,8 @@ lake.
 > He put to sleep the rivals and snowed down on them.  
 > Repulse the enemies, repulse the senseless ones.
 
-### Commentary
+_________
+**Commentary**  
 Composite sūkta-s, like the one in which these ṛk-s of
 Kutsa Āṅgirasa occur, are typical of the final part of maṇḍala 9. Except
 for Kutsa, who is the author of the last 4 tṛca-s and the terminal ṛk
